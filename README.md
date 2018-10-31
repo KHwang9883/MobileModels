@@ -3,5 +3,5 @@
 
 | 分支 | 品牌 | 汇总范围 | 是否包含非国行 | 备注 | 链接 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| oneplus | 一加 | 全部机型 | 是 | -- | [oneplus](https://github.com/KHwang9883/MobileModels/tree/oneplus) |
 | xiaomi | 小米 | 全部机型 | 是 | 含黑鲨手机、POCOPHONE | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) |
-| oneplus | 一加 | 全部机型 | 是 | -- |  |
