@@ -17,4 +17,4 @@
 | oppo | OPPO | 2018 年起新型号命名方式的机型 | 否 | -- | 待更新 |
 | smartisan | 锤子科技 (Smartisan) | 全部机型 | 不适用 | -- | [smartisan](https://github.com/KHwang9883/MobileModels/tree/smartisan) |
 | vivo | vivo | 2018 年起新型号命名方式的机型 | 否 | -- | 待更新 |
-| xiaomi | 小米 (Xiaomi) | 全部机型 | 是 | 含黑鲨手机、POCOPHONE | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) |
+| xiaomi | 小米 (Xiaomi) | 全部小米手机 | 是 | 含黑鲨手机、POCOPHONE | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) |
