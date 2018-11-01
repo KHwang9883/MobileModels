@@ -14,7 +14,7 @@
 | nokia | 诺基亚 (nokia) | 2017 年后国内上市的智能手机机型 | 否 | -- | 待更新 |
 | nubia | 努比亚 (nubia) | 全部机型 | 否 | -- | 待更新 |
 | oneplus | 一加 (OnePlus) | 全部机型 | 是 | -- | [oneplus](https://github.com/KHwang9883/MobileModels/tree/oneplus) |
-| oppo | OPPO | 2018 年起新型号命名方式的机型 | 否 | -- | 待更新 |
+| oppo | OPPO | 2018 年起新型号命名方式的机型 | 否 | -- | [oppo](https://github.com/KHwang9883/MobileModels/tree/oppo) |
 | smartisan | 锤子科技 (Smartisan) | 全部机型 | 不适用 | -- | [smartisan](https://github.com/KHwang9883/MobileModels/tree/smartisan) |
-| vivo | vivo | 2018 年起新型号命名方式的机型 | 否 | -- | 待更新 |
+| vivo | vivo | 2018 年起新型号命名方式的机型 | 否 | -- | [vivo](https://github.com/KHwang9883/MobileModels/tree/vivo) |
 | xiaomi | 小米 (Xiaomi) | 全部小米手机 | 是 | 含黑鲨手机、POCOPHONE；包含 codename 与内部代号 | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) |
