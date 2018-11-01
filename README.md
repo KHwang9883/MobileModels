@@ -18,3 +18,5 @@
 | smartisan | 锤子科技 (Smartisan) | 全部机型 | -- | [smartisan](https://github.com/KHwang9883/MobileModels/tree/smartisan) |
 | vivo | vivo | 2018 年起新型号命名方式的机型 | 不含非国行机型 | [vivo](https://github.com/KHwang9883/MobileModels/tree/vivo) |
 | xiaomi | 小米 (Xiaomi) | 全部小米手机 | 含黑鲨手机、POCOPHONE；包含 codename 与内部代号 | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) |
+
+另有文档版下载，**[下载地址](https://pan.baidu.com/s/1nG4kWRCUeUOOeb94gukrkw) (密码：gwon)**
