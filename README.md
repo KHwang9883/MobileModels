@@ -8,11 +8,11 @@
 | huawei | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 不含非国行机型 | [huawei](https://github.com/KHwang9883/MobileModels/tree/huawei) |
 | honor | 荣耀 (Honor) | 全部机型 | 不含非国行机型 | [honor](https://github.com/KHwang9883/MobileModels/tree/honor) |
 | lenovo | 联想 (Lenovo) | 2017 年后上市的机型 | 不含非国行机型 | 待更新 |
-| meizu | 魅族 (MEIZU) | 全部机型 | 不含非国行机型 | 待更新 |
+| meizu | 魅族 (MEIZU) | 全部机型 | 不含非国行机型 | [meizu](https://github.com/KHwang9883/MobileModels/tree/meizu) |
 | mitv | 小米 (Xiaomi) | 全部小米电视 | 含国际版小米电视与小米盒子 | 待更新 |
 | motorola | 摩托罗拉 (Motorola) | 2015 年后国内上市的机型 | -- | 待更新 |
 | nokia | 诺基亚 (nokia) | 2017 年后国内上市的智能手机机型 | -- | 待更新 |
-| nubia | 努比亚 (nubia) | 全部机型 | -- | 待更新 |
+| nubia | 努比亚 (nubia) | 全部机型 | -- | [nubia](https://github.com/KHwang9883/MobileModels/tree/nubia) |
 | oneplus | 一加 (OnePlus) | 全部机型 | -- | [oneplus](https://github.com/KHwang9883/MobileModels/tree/oneplus) |
 | oppo | OPPO | 2018 年起新型号命名方式的机型 | 不含非国行机型 | [oppo](https://github.com/KHwang9883/MobileModels/tree/oppo) |
 | smartisan | 锤子科技 (Smartisan) | 全部机型 | -- | [smartisan](https://github.com/KHwang9883/MobileModels/tree/smartisan) |
