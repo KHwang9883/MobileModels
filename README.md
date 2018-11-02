@@ -3,7 +3,7 @@
 
 | 分支 | 品牌 | 汇总范围 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [360](https://github.com/KHwang9883/MobileModels/tree/360) | 360 手机 | 全部机型 | 包括奇酷 (Qiku)，不包括大神 (Dazen) |
+| [360](https://github.com/KHwang9883/MobileModels/tree/360) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen) |
 | [apple](https://github.com/KHwang9883/MobileModels/tree/apple) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch 机型 | 国行机型与非国行机型分别汇总 |
 | [huawei](https://github.com/KHwang9883/MobileModels/tree/huawei) | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 不含非国行机型 |
 | [honor](https://github.com/KHwang9883/MobileModels/tree/honor) | 荣耀 (Honor) | 全部机型 | 不含非国行机型 |
@@ -17,6 +17,6 @@
 | [oppo](https://github.com/KHwang9883/MobileModels/tree/oppo) | OPPO | 2018 年起新型号命名方式的机型 | 不含非国行机型 |
 | [smartisan](https://github.com/KHwang9883/MobileModels/tree/smartisan) | 锤子科技 (Smartisan) | 全部机型 | -- |
 | [vivo](https://github.com/KHwang9883/MobileModels/tree/vivo) | vivo | 2018 年起新型号命名方式的机型 | 不含非国行机型 |
-| [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) | 小米 (Xiaomi) | 全部小米手机 | 含黑鲨手机、POCOPHONE；包含 codename 与内部代号 |
+| [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) | 小米 (Xiaomi) | 全部小米手机 | 含黑鲨手机、POCOPHONE；附有 codename 与内部代号 |
 
 另有文档版下载，**[下载地址](https://pan.baidu.com/s/1nG4kWRCUeUOOeb94gukrkw) (密码：gwon)**
