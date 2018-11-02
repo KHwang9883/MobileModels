@@ -11,7 +11,7 @@
 | [meizu](https://github.com/KHwang9883/MobileModels/tree/meizu) | 魅族 (MEIZU) | 全部机型 | 不含非国行机型 |
 | [mitv](https://github.com/KHwang9883/MobileModels/tree/mitv) | 小米 (Xiaomi) | 全部小米电视 | 含国际版小米电视与小米盒子 |
 | [motorola](https://github.com/KHwang9883/MobileModels/tree/motorola) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | 不含非国行机型 |
-| [nokia](https://github.com/KHwang9883/MobileModels/tree/nokia) | 诺基亚 (nokia) | 2017 年起上市的智能手机机型 | 不含非国行机型 |
+| [nokia](https://github.com/KHwang9883/MobileModels/tree/nokia) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | 不含非国行机型 |
 | [nubia](https://github.com/KHwang9883/MobileModels/tree/nubia) | 努比亚 (nubia) | 全部机型 | -- |
 | [oneplus](https://github.com/KHwang9883/MobileModels/tree/oneplus) | 一加 (OnePlus) | 全部机型 | -- |
 | [oppo](https://github.com/KHwang9883/MobileModels/tree/oppo) | OPPO | 2018 年起新型号命名方式的机型 | 不含非国行机型 |
