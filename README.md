@@ -15,6 +15,7 @@
 | [nubia](https://github.com/KHwang9883/MobileModels/tree/nubia) | 努比亚 (nubia) | 全部机型 | -- |
 | [oneplus](https://github.com/KHwang9883/MobileModels/tree/oneplus) | 一加 (OnePlus) | 全部机型 | -- |
 | [oppo](https://github.com/KHwang9883/MobileModels/tree/oppo) | OPPO | 2018 年起新型号命名方式的机型 | 不含非国行机型 |
+| [samsung](https://github.com/KHwang9883/MobileModels/tree/samsung) | 三星 (Samsung) | 部分机型 | **Beta 阶段**；不含非国行机型 |
 | [smartisan](https://github.com/KHwang9883/MobileModels/tree/smartisan) | 锤子科技 (Smartisan) | 全部机型 | -- |
 | [vivo](https://github.com/KHwang9883/MobileModels/tree/vivo) | vivo | 2018 年起新型号命名方式的机型 | 不含非国行机型 |
 | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) | 小米 (Xiaomi) | 全部小米手机 | 含黑鲨手机、POCOPHONE；附有 codename 与内部代号 |
