@@ -21,3 +21,5 @@
 | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) | 小米 (Xiaomi) | 全部小米手机 | 含黑鲨手机、POCOPHONE；附有 codename 与内部代号 |
 
 另有文档版下载，**[下载地址](https://pan.baidu.com/s/1nG4kWRCUeUOOeb94gukrkw) (密码：gwon)**
+
+新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
