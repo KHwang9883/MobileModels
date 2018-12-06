@@ -4,7 +4,7 @@
 | 分支 | 品牌 | 汇总范围 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [360](https://github.com/KHwang9883/MobileModels/tree/360) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen) |
-| [apple](https://github.com/KHwang9883/MobileModels/tree/apple) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch 机型 | 国行机型与非国行机型分别汇总 |
+| [apple](https://github.com/KHwang9883/MobileModels/tree/apple) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch 机型 | 国行、非国行机型分别汇总 |
 | [honor](https://github.com/KHwang9883/MobileModels/tree/honor) | 荣耀 (Honor) | 全部机型 | 不含非国行机型 |
 | [huawei](https://github.com/KHwang9883/MobileModels/tree/huawei) | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 不含非国行机型 |
 | [lenovo](https://github.com/KHwang9883/MobileModels/tree/lenovo) | 联想 (Lenovo) | 2017 年起上市的机型 | 不含非国行机型 |
