@@ -9,7 +9,7 @@
 | [huawei](https://github.com/KHwang9883/MobileModels/tree/huawei) | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 不含非国行机型 |
 | [lenovo](https://github.com/KHwang9883/MobileModels/tree/lenovo) | 联想 (Lenovo) | 2017 年起上市的机型 | 不含非国行机型 |
 | [meizu](https://github.com/KHwang9883/MobileModels/tree/meizu) | 魅族 (MEIZU) | 全部机型 | 不含非国行机型 |
-| [mitv](https://github.com/KHwang9883/MobileModels/tree/mitv) | 小米 (Xiaomi) | 全部小米电视 | 含国际版小米电视与小米盒子 |
+| [mitv](https://github.com/KHwang9883/MobileModels/tree/mitv) | 小米 (Xiaomi) | 全部小米电视、小米盒子 | 含国际版小米电视与小米盒子 |
 | [motorola](https://github.com/KHwang9883/MobileModels/tree/motorola) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | 不含非国行机型 |
 | [nokia](https://github.com/KHwang9883/MobileModels/tree/nokia) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | 不含非国行机型 |
 | [nubia](https://github.com/KHwang9883/MobileModels/tree/nubia) | 努比亚 (nubia) | 全部机型 | -- |
