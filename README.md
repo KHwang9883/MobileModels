@@ -5,8 +5,8 @@
 | :-: | :-: | :-: | :-: |
 | [360](https://github.com/KHwang9883/MobileModels/tree/360) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen) |
 | [apple](https://github.com/KHwang9883/MobileModels/tree/apple) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch、Apple Watch | 国行、非国行机型分别汇总；附有产品代号 |
-| [honor](https://github.com/KHwang9883/MobileModels/tree/honor) | 荣耀 (Honor) | 全部机型 | 不含非国行机型 |
-| [huawei](https://github.com/KHwang9883/MobileModels/tree/huawei) | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 不含非国行机型 |
+| [honor](https://github.com/KHwang9883/MobileModels/tree/honor) | 荣耀 (Honor) | 全部机型 | 不含非国行机型；附有部分 codename |
+| [huawei](https://github.com/KHwang9883/MobileModels/tree/huawei) | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 不含非国行机型；附有部分 codename |
 | [lenovo](https://github.com/KHwang9883/MobileModels/tree/lenovo) | 联想 (Lenovo) | 2017 年起上市的机型 | 不含非国行机型 |
 | [letv](https://github.com/KHwang9883/MobileModels/tree/letv) | 乐视 (Letv) | 全部机型 | -- |
 | [meizu](https://github.com/KHwang9883/MobileModels/tree/meizu) | 魅族 (MEIZU) | 全部机型 | 不含非国行机型 |
@@ -24,3 +24,4 @@
 另有文档版下载，**[下载地址](https://pan.baidu.com/s/1nG4kWRCUeUOOeb94gukrkw) (密码：gwon)**
 
 新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
+
