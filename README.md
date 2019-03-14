@@ -21,7 +21,7 @@
 | [vivo](https://github.com/KHwang9883/MobileModels/tree/vivo) | vivo | 2018 年起新型号命名方式的机型 | 不含非国行机型 |
 | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) | 小米 (Xiaomi) | 全部小米手机、小米平板 | 含黑鲨手机、POCOPHONE；附有 codename 与内部代号 |
 
-另有文档版下载，**[下载地址](https://pan.baidu.com/s/1nG4kWRCUeUOOeb94gukrkw) (密码：gwon)**
+另提供文档版下载，**[下载地址 (百度网盘)](https://pan.baidu.com/s/1nG4kWRCUeUOOeb94gukrkw) (密码：gwon)** | **[下载地址 (腾讯微云)](https://share.weiyun.com/5IKU1Mt)**
 
 新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
 
