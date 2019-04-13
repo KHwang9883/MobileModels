@@ -1,4 +1,5 @@
 # 手机品牌型号汇总
+
 汇总各厂商上市的手机型号与对应的宣传名。
 
 | 分支 | 品牌 | 汇总范围 | 备注 |
@@ -22,6 +23,12 @@
 | [xiaomi](https://github.com/KHwang9883/MobileModels/tree/xiaomi) | 小米 (Xiaomi) | 全部小米手机、小米平板 | 含黑鲨手机、POCOPHONE；附有 codename 与内部代号 |
 
 另提供文档版下载，**[下载地址 (腾讯微云)](https://share.weiyun.com/5IKU1Mt)**
+
+## 许可
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a> 进行许可。
+
+## 联系我
 
 新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
 
