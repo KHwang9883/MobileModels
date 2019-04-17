@@ -1,4 +1,4 @@
-# Smartisan 手机型号汇总
+# Smartisan 手机型号汇总 20190417
 
 ## Smartisan 手机
 

@@ -1,4 +1,4 @@
-# Motorola 手机型号汇总
+# Motorola 手机型号汇总 20190417
 
 ## Moto 手机
 

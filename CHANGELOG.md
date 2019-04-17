@@ -1,6 +1,10 @@
 # 更新日志
 ## 2019.04.17 更新
+- `全局` 全部分支合并至 `master`
 - `samsung` 新增 Galaxy A40s、Galaxy A60、Galaxy A70、Galaxy Fold。
+- `xiaomi` 更正 Redmi Note 7 内部编号。
+## 2019.04.11 更新
+- `全局` 采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
 ## 2019.04.11 更新
 - `honor` 更新荣耀 10 青春版、荣耀畅玩 8A 代号。
 - `huawei` 更新华为畅享 9e 代号。
@@ -136,6 +140,7 @@
 ## 2018.11.04 更新
 - `vivo` 新增 vivo Z1 青春版。
 ## 2018.11.01 更新
+- `全局` GitHub 仓库创建。
 - `lenovo` 新增联想 Z5 Pro。
 - `mitv` 新增小米盒子 Mi Box S 国际版。
 - `xiaomi` 更新小米 MIX 3 代号。
