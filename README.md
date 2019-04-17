@@ -2,7 +2,7 @@
 
 汇总各厂商上市的手机型号与对应的宣传名。
 
-| 分支 | 品牌名 | 汇总范围 | 最后更新于 | 备注 |
+| 分支 | 品牌名 | 汇总范围 | 更新 | 备注 |
 | :-: | :-: | :-: | :-: | :-: |
 | [360](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部机型 | 2019-04-17 | 含奇酷 (Qiku)，不含大神 (Dazen) |
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch、Apple Watch | 2019-04-17 |  国行、非国行机型分别汇总；附有产品代号 |
