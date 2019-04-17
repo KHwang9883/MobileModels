@@ -28,7 +28,7 @@
 
 ## 文档版 (.docx) 下载
 
-**[下载地址 (腾讯微云)](https://share.weiyun.com/5IKU1Mt)**
+[下载地址 (腾讯微云)](https://share.weiyun.com/5IKU1Mt)
 
 ## 许可
 
