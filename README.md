@@ -30,6 +30,34 @@
 
 [下载地址 (腾讯微云)](https://share.weiyun.com/5IKU1Mt)
 
+## 参考资料
+
+[手机信息网](http://shouji.tenaa.com.cn)
+
+[产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
+
+[查询 - 中国无线电管理](http://www.srrc.org.cn/WP_Search.aspx)
+
+[产品库 - 天翼终端网](http://tydevice.com/cpk.jsp)
+
+[Wi-Fi Alliance](https://www.wi-fi.org)
+
+[RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
+
+[RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
+
+[Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
+
+[Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+
+[ReaMEIZU](https://reameizu.com/)
+
+[The iPhone Wiki](https://www.theiphonewiki.com)
+
+[ipsw.me](https://ipsw.me)
+
+以及各品牌官网、论坛、微博等，恕不一一列出
+
 ## 许可
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a> 进行许可。
