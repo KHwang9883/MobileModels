@@ -5,7 +5,6 @@
 - `xiaomi` 更正 Redmi Note 7 内部编号。
 ## 2019.04.11 更新
 - `全局` 采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
-## 2019.04.11 更新
 - `honor` 更新荣耀 10 青春版、荣耀畅玩 8A 代号。
 - `huawei` 更新华为畅享 9e 代号。
 ## 2019.04.10 更新
