@@ -1,6 +1,9 @@
 # 更新日志
+## 2019.04.18 更新
+- `meizu` 新增魅族 16s。
+- `nubia` 新增红魔 3。
 ## 2019.04.17 更新
-- `全局` 全部分支合并至 `master`
+- `全局` 全部分支合并至 `master`。
 - `samsung` 新增 Galaxy A40s、Galaxy A60、Galaxy A70、Galaxy Fold。
 - `xiaomi` 更正 Redmi Note 7 内部编号。
 ## 2019.04.11 更新
