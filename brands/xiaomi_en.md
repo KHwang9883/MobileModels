@@ -508,7 +508,7 @@ M1810F6LC: Redmi 7 China Unicom / China Telecom
 
 2014912: Redmi Note 1S China Unicom
 
-2014916. 2014910: Redmi Note 1S China Telecom
+2014916, 2014910: Redmi Note 1S China Telecom
 
 **[H3Y] Redmi Note 2 (`hermes`):**
 
