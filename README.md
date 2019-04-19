@@ -2,6 +2,8 @@
 
 汇总各厂商上市的手机型号与对应的宣传名。
 
+[English](https://github.com/KHwang9883/MobileModels/blob/master/README_en.md)
+
 | 分支 | 品牌名 | 汇总范围 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [360](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen) |
