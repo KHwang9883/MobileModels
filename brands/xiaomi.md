@@ -612,7 +612,7 @@ M1806E7TG, M1806E7TH: 红米 Note 6 Pro 国际版
 
 M1806E7TI: 红米 Note 6 Pro 印度版
 
-**[F7] Redmi Note 7 (`lavender`):**
+**[F7A] Redmi Note 7 (`lavender`):**
 
 M1901F7E: Redmi Note 7 全网通版
 
