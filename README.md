@@ -4,7 +4,7 @@
 
 [English](https://github.com/KHwang9883/MobileModels/blob/master/README_en.md)
 
-| 分支 | 品牌名/下载 | 汇总范围 | 备注 |
+| 分支 | 品牌/下载 | 汇总范围 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [360](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | [360 手机](https://github.com/KHwang9883/MobileModels/raw/master/docs/360%20%E6%89%8B%E6%9C%BA%E5%9E%8B%E5%8F%B7%E6%B1%87%E6%80%BB.docx) | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen) |
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | [苹果 (Apple)](https://github.com/KHwang9883/MobileModels/raw/master/docs/Apple%20%E8%AE%BE%E5%A4%87%E5%9E%8B%E5%8F%B7%E6%B1%87%E6%80%BB.docx) | 全部 iPhone、iPad、iPod touch、Apple Watch | 国行、非国行机型分别汇总；附有产品代号 |
