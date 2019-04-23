@@ -640,6 +640,12 @@ M1803E6G, M1803E6H: 红米 S2 国际版
 
 M1803E6I: 红米 Y2 印度版
 
+**[F6] Redmi Y3:**
+
+M1810F6G: Redmi Y3 国际版
+
+M1810F6I: Redmi Y3 印度版
+
 **[H3C] 红米 Pro (`omega`):**
 
 2016020: 红米 Pro 标准版

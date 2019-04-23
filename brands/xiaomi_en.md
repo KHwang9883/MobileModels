@@ -624,6 +624,12 @@ M1803E6T: Redmi S2 China Mobile
 
 M1803E6C: Redmi S2 China Unicom / China Telecom
 
+**[F6] Redmi Y3:**
+
+M1810F6G: Redmi Y3 Global
+
+M1810F6I: Redmi Y3 India
+
 **[H3C] Redmi Pro (`omega`):**
 
 2016020: Redmi Pro 32GB

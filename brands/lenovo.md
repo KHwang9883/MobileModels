@@ -1,4 +1,4 @@
-# 联想手机型号汇总 20190417
+# 联想手机型号汇总 20190423
 
 ## 联想手机
 
@@ -16,6 +16,10 @@ Lenovo L78032: 联想 Z5 Pro GT
 
 Lenovo L78071: 联想 Z5s
 
+**联想 Z6 Pro:**
+
+Lenovo L78051: 联想 Z6 Pro
+
 **联想 S5:**
 
 Lenovo K520: 联想 S5
@@ -28,13 +32,9 @@ Lenovo L58041: 联想 S5 Pro
 
 Lenovo L58091: 联想 S5 Pro GT
 
-**联想 K5 Pro:**
+**联想 K5:**
 
-Lenovo L38041: 联想 K5 Pro
-
-**联想 K5s:**
-
-Lenovo L38031: 联想 K5s
+Lenovo K350t: 联想 K5
 
 **联想 K5 Note:**
 
@@ -44,9 +44,17 @@ Lenovo L38012: 联想 K5 Note
 
 Lenovo L38011, Lenovo L38021: 联想 K5 Play
 
-**联想 K5:**
+**联想 K5s:**
 
-Lenovo K350t: 联想 K5
+Lenovo L38031: 联想 K5s
+
+**联想 K5 Pro:**
+
+Lenovo L38041: 联想 K5 Pro
+
+**联想 K6 畅享版:**
+
+Lenovo L38082: 联想 K6 畅享版
 
 **联想 A5:**
 

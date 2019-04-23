@@ -1,4 +1,9 @@
 # 更新日志
+## 2019.04.23
+- `lenovo` 新增联想 Z6 Pro、联想 K6 畅享版。
+- `mitv` 新增多款小米电视型号。
+- `xiaomi` 新增 Redmi Y3（代号稍后补充）。
+- `xiaomi_en` Added Redmi Y3.
 ## 2019.04.19
 - `全局` 新增 `apple_en` `oneplus_en` `xiaomi_en` 英文版本。
 - `oneplus` 补充部分国际机型。
