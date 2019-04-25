@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20190417
+# OPPO 手机型号汇总 20190425
 
 ## R 系列
 
@@ -89,6 +89,12 @@ PBBT00: OPPO A7x 移动版
 PCDM00: OPPO A7n 全网通版
 
 PCDT00: OPPO A7n 移动版
+
+**OPPO A9:**
+
+PCAM10: OPPO A9 全网通版
+
+PCAT10: OPPO A9 移动版
 
 ## K 系列
 
