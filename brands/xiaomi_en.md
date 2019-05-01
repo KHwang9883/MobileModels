@@ -220,6 +220,10 @@ M1810E5T: Mi MIX 3 China Mobile
 
 M1810E5EC: Mi MIX 3 China Unicom / China Telecom
 
+**[E5G] Mi MIX 3 5G:**
+
+M1810E5GG: Mi MIX 3 5G Global
+
 **[B3] Mi Max (`hydrogen`):**
 
 2016002: Mi Max Global
@@ -624,7 +628,7 @@ M1803E6T: Redmi S2 China Mobile
 
 M1803E6C: Redmi S2 China Unicom / China Telecom
 
-**[F6] Redmi Y3:**
+**[F6] Redmi Y3 (`onc`):**
 
 M1810F6G: Redmi Y3 Global
 
@@ -642,19 +646,19 @@ M1903C3GG, M1903C3GH: Redmi Go Global
 
 M1903C3GI: Redmi Go India
 
-## Blackshark
+## Black Shark
 
-**Blackshark:**
+**Black Shark:**
 
-SKR-A0: Blackshark
+SKR-A0: Black Shark
 
-**Blackshark Helo:**
+**Black Shark Helo:**
 
-AWM-A0: Blackshark Helo
+AWM-A0: Black Shark Helo
 
-**Blackshark 2:**
+**Black Shark 2:**
 
-SKW-A0: Blackshark 2
+SKW-A0: Black Shark 2
 
 ## POCOPHONE
 

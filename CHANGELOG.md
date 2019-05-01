@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.05.01
+- `xiaomi` 更新 Redmi Y3 代号；新增小米 MIX 3 5G（代号稍后补充）。
+- `xiaomi_en` Updated Redmi Y3 codename, added Mi MIX 3 5G.
 ## 2019.04.30
 - `oppo` 新增 OPPO A9x。感谢 [@数码闲聊站](https://weibo.com/u/6048569942)
 ## 2019.04.28
@@ -10,7 +13,7 @@
 ## 2019.04.23
 - `lenovo` 新增联想 Z6 Pro、联想 K6 畅享版。
 - `mitv` 新增多款小米电视型号。
-- `xiaomi` 新增 Redmi Y3（代号稍后补充）。
+- `xiaomi` 新增 Redmi Y3。
 - `xiaomi_en` Added Redmi Y3.
 ## 2019.04.19
 - `全局` 新增 `apple_en` `oneplus_en` `xiaomi_en` 英文版本。
@@ -68,7 +71,7 @@
 - `vivo` 新增 iQOO。
 ## 2019.02.28
 - `mitv` 新增部分小米电视印度型号。
-- `xiaomi` 新增 Redmi Note 7 Pro（代号稍后补充）。
+- `xiaomi` 新增 Redmi Note 7 Pro。
 ## 2019.02.25
 - `xiaomi` 新增小米 9、Redmi Go、Redmi Note 7 国际版。
 - `xiaomi` 调整了部分细节。
