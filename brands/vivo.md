@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20190428
+# vivo 手机型号汇总 20190505
 
 ## X 系列
 
@@ -145,6 +145,12 @@ V1824A: iQOO (8GB+128GB/8GB+256GB/12GB+256GB)
 V1831A: vivo S1 全网通版
 
 V1831T: vivo S1 移动全网通版
+
+**vivo S1 Pro:**
+
+V1832A: vivo S1 Pro 全网通版
+
+V1832T: vivo S1 Pro 移动全网通版
 
 ## U 系列
 
