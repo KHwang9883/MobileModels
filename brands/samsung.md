@@ -2,6 +2,64 @@
 
 ## Galaxy S 系列
 
+**Galaxy S:**
+
+GT-I9000: Galaxy S 公开版
+
+GT-I9008, GT-I9008L, GT-I9018: Galaxy S 移动定制版
+
+SCH-i909: Galaxy S 电信定制版
+
+**Galaxy SⅡ:**
+
+GT-I9100: Galaxy SⅡ (Exynos)
+
+GT-I9100G: Galaxy SⅡ (德州仪器)
+
+GT-I9108: Galaxy SⅡ 移动定制版
+
+**Galaxy S Duos:**
+
+SCH-I919: Galaxy S Duos 电信定制版
+
+**Galaxy SⅢ:**
+
+GT-I9300: Galaxy SⅢ 公开版
+
+GT-I9308: Galaxy SⅢ 移动定制版
+
+SCH-I939: Galaxy SⅢ 电信定制版
+
+SCH-I939D: Galaxy SⅢ 电信双卡定制版
+
+**Galaxy SⅢ Neo+:**
+
+GT-I9300I: Galaxy SⅢ Neo+ 公开版
+
+GT-I9308I: Galaxy SⅢ Neo+ 移动定制版
+
+SCH-I939I: Galaxy SⅢ Neo+ 电信定制版
+
+**Galaxy SⅢ Mini:**
+
+GT-I8190N: Galaxy SⅢ Mini
+
+**Galaxy S4:**
+
+GT-I9500: Galaxy S4 公开版
+
+GT-I9502: Galaxy S4 联通定制版
+
+GT-I9508: Galaxy S4 移动定制版
+
+SCH-I959: Galaxy S4 电信定制版
+
+GT-I9507V: Galaxy S4 联通 4G 定制版
+
+GT-I9508V: Galaxy S4 移动 4G 定制版
+
+SM-C101: Galaxy S4 zoom
+
 **Galaxy S5:**
 
 SM-G9006V: Galaxy S5 联通单卡版
@@ -86,6 +144,26 @@ SM-G9758: Galaxy S10+ 4G+
 
 ## Galaxy Note 系列
 
+**Galaxy Note:**
+
+GT-I9220: Galaxy Note 公开版
+
+GT-I9228: Galaxy Note 移动定制版
+
+SCH-I889: Galaxy Note 电信定制版
+
+**Galaxy NoteⅡ:**
+
+GT-N7100: Galaxy NoteⅡ 公开版
+
+GT-N7102, GT-N7102i: Galaxy NoteⅡ 联通定制版
+
+GT-N7108: Galaxy NoteⅡ 移动定制版
+
+GT-N7108D: Galaxy NoteⅡ 移动 4G 定制版
+
+SCH-N719: Galaxy NoteⅡ 电信定制版
+
 **Galaxy Note3:**
 
 SM-N9002: Galaxy Note3 联通定制版
@@ -99,6 +177,14 @@ SM-N9008V: Galaxy Note3 移动 4G 定制版
 SM-N9008S: Galaxy Note3 4G 公开版
 
 SM-N9009: Galaxy Note3 电信定制版
+
+**Galaxy Note3 Lite:**
+
+SM-N7506V: Galaxy Note3 Lite 联通定制版
+
+SM-N7508V: Galaxy Note3 Lite 移动定制版
+
+SM-N7509V: Galaxy Note3 Lite 电信定制版
 
 **Galaxy Note4:**
 
@@ -259,3 +345,85 @@ SM-C7108: Galaxy C8 4G+
 SM-C9000: Galaxy C9 Pro 全网通版
 
 SM-C9008: Galaxy C9 Pro 4G+
+
+## Galaxy J 系列
+
+**Galaxy J3:**
+
+SM-J3109: Galaxy J3 电信定制版
+
+**Galaxy J5:**
+
+SM-J5008: Galaxy J5 移动定制版
+
+**Galaxy J7:**
+
+SM-J7008: Galaxy J7 移动定制版
+
+**Galaxy J3 Pro:**
+
+SM-J3110: Galaxy J3 Pro 公开版
+
+SM-J3119: Galaxy J3 Pro 电信定制版
+
+SM-J3119S: Galaxy J3 Pro 增强版 电信定制版
+
+**Galaxy J5 (2016):**
+
+SM-J5108: Galaxy J5 (2016) 移动定制版
+
+**Galaxy J7 (2016):**
+
+SM-J7108: Galaxy J7 (2016) 移动定制版
+
+SM-J7109: Galaxy J7 (2016) 电信定制版
+
+**Galaxy J3 (2017):**
+
+SM-J3300: Galaxy J3 (2017) 全网通版
+
+SM-J3308: Galaxy J3 (2017) 4G+
+
+## Galaxy On 系列
+
+**Galaxy On5:**
+
+SM-G5500: Galaxy On5
+
+**Galaxy On7:**
+
+SM-G6000: Galaxy On7
+
+**Galaxy On5 (2016):**
+
+SM-G5700: Galaxy On5 (2016) 标准版 全网通版
+
+SM-G5510: Galaxy On5 (2016) 青春版 全网通版
+
+SM-G5520: Galaxy On5 (2016) 时尚版 全网通版
+
+SM-G5528: Galaxy On5 (2016) 时尚版 移动定制版
+
+**Galaxy On7 (2016):**
+
+SM-G6100: Galaxy On7 (2016)
+
+## 其他系列
+
+**Galaxy Folder:**
+
+SM-G1600: Galaxy Folder
+
+**Galaxy Folder 2:**
+
+SM-G1650: Galaxy Folder 2
+
+**Galaxy Alpha:**
+
+SM-G8508S: Galaxy Alpha
+
+**Galaxy E7:**
+
+SM-E7000: Galaxy E7 公开版
+
+SM-E7009: Galaxy E7 电信定制版

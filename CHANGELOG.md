@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.05.07
 - `samsung` 新增 Galaxy A80。
+- `samsung` 新增 Galaxy S 系列、Galaxy Note 系列早期机型，新增 Galaxy J 系列、Galaxy On 系列。
 ## 2019.05.05
 - `vivo` 新增 vivo S1 Pro。
 ## 2019.05.01
