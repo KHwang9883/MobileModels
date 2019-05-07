@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20190417
+# 三星手机型号汇总 20190507
 
 ## Galaxy S 系列
 
@@ -215,6 +215,10 @@ SM-A6060: Galaxy A60
 **Galaxy A70:**
 
 SM-A7050: Galaxy A70
+
+**Galaxy A80:**
+
+SM-A8050: Galaxy A80
 
 ## Galaxy Fold 系列
 
