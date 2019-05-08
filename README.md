@@ -28,9 +28,7 @@
 
 参见 [CHANGELOG.md](https://github.com/KHwang9883/MobileModels/blob/master/CHANGELOG.md)
 
-## 文档版 (.docx) 下载
-
-<strike>[下载地址 (腾讯微云)](https://share.weiyun.com/5IKU1Mt)</strike>
+## 文档 (.docx) 下载
 
 **请点击品牌名直接下载。**
 

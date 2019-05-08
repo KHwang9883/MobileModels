@@ -1,11 +1,14 @@
 # 更新日志
+## 2019.05.08
+- `xiaomi` 更新小米 MIX 3 5G 代号。
+- `xiaomi_en` Updated Mi MIX 3 5G codename.
 ## 2019.05.07
 - `samsung` 新增 Galaxy A80。
 - `samsung` 新增 Galaxy S 系列、Galaxy Note 系列早期机型，新增 Galaxy J 系列、Galaxy On 系列。
 ## 2019.05.05
 - `vivo` 新增 vivo S1 Pro。
 ## 2019.05.01
-- `xiaomi` 更新 Redmi Y3 代号；新增小米 MIX 3 5G（代号稍后补充）。
+- `xiaomi` 更新 Redmi Y3 代号；新增小米 MIX 3 5G。
 - `xiaomi_en` Updated Redmi Y3 codename, added Mi MIX 3 5G.
 ## 2019.04.30
 - `oppo` 新增 OPPO A9x。感谢 [@数码闲聊站](https://weibo.com/u/6048569942)

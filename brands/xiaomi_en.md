@@ -220,7 +220,7 @@ M1810E5T: Mi MIX 3 China Mobile
 
 M1810E5EC: Mi MIX 3 China Unicom / China Telecom
 
-**[E5G] Mi MIX 3 5G:**
+**[E5G] Mi MIX 3 5G (`andromeda`):**
 
 M1810E5GG: Mi MIX 3 5G Global
 
