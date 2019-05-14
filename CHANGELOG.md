@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.05.15
+- `mitv` 更正一处错误。
 ## 2019.05.08
 - `xiaomi` 更新小米 MIX 3 5G 代号。
 - `xiaomi_en` Updated Mi MIX 3 5G codename.
