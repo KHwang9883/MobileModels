@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20190430
+# OPPO 手机型号汇总 20190516
 
 ## R 系列
 
@@ -107,3 +107,9 @@ PCET00: OPPO A9x 移动版
 **OPPO K1:**
 
 PBCM30: OPPO K1 全网通版
+
+**OPPO K3:**
+
+PCGM00: OPPO K3 全网通版
+
+PCGT00: OPPO K3 移动版
