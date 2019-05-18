@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190417
+# 华为手机型号汇总 20190518
 
 ## HUAWEI Mate 系列
 
@@ -276,7 +276,7 @@ INE-AL00: HUAWEI nova 3i 全网通版
 
 INE-TL00: HUAWEI nova 3i 移动 4G+ 版
 
-**HUAWEI nova 4:**
+**HUAWEI nova 4 (`venice`):**
 
 VCE-AL00: HUAWEI nova 4 全网通版
 
