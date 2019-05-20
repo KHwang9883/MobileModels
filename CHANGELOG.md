@@ -1,6 +1,8 @@
 # 更新日志
 ## 2019.05.20
 - `mitv` 新增小米电视 4C 65 英寸。
+- `oneplus` 新增 OnePlus 7 系列（区域版本信息及代号稍后补充）。
+- `oneplus_en` Added OnePlus 7 Series (regional information and codenames will be available soon).
 ## 2019.05.18
 - `honor` 新增部分产品代号。
 - `huawei` 新增部分产品代号。
