@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190508
+# 小米手机型号汇总 20190524
 
 ## 小米手机
 
@@ -493,6 +493,14 @@ M1810F6LC: Redmi 7 联通电信定制版
 M1810F6LG, M1810F6LH: Redmi 7 国际版
 
 M1810F6LI: Redmi 7 印度版
+
+**[C3E] Redmi 7A:**
+
+M1903C3EE: Redmi 7A 全网通版
+
+M1903C3ET: Redmi 7A 移动 4G+ 版
+
+M1903C3EC: Redmi 7A 联通电信定制版
 
 **[H3W] 红米 Note (`lcsh92_wet_gb9`):**
 

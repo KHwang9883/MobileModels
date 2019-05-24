@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.05.24
+- `xiaomi` 新增 Redmi 7A（代号稍后补充）。
+- `xiaomi_en` Added Redmi 7A (codename will be added soon).
 ## 2019.05.22
 - `lenovo` 新增联想 Z6 青春版。
 ## 2019.05.20

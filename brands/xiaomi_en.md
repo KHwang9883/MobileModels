@@ -484,6 +484,14 @@ M1810F6LT: Redmi 7 China Mobile
 
 M1810F6LC: Redmi 7 China Unicom / China Telecom
 
+**[C3E] Redmi 7A:**
+
+M1903C3EE: Redmi 7A China
+
+M1903C3ET: Redmi 7A China Mobile
+
+M1903C3EC: Redmi 7A China Unicom / China Telecom
+
 **[H3W] Redmi Note (`lcsh92_wet_gb9`):**
 
 2014018: Redmi Note WCDMA 1GB
