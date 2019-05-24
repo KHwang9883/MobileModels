@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.05.24
+- `meizu` 新增魅族 16Xs。
 - `xiaomi` 新增 Redmi 7A（代号稍后补充）。
 - `xiaomi_en` Added Redmi 7A (codename will be added soon).
 ## 2019.05.22
