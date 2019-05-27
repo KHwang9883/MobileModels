@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190524
+# 小米手机型号汇总 20190527
 
 ## 小米手机
 
@@ -663,6 +663,22 @@ M1810F6I: Redmi Y3 印度版
 2016020: 红米 Pro 标准版
 
 2016021: 红米 Pro 高配版 / 尊享版
+
+**[F10] Redmi K20 (`davinci`):**
+
+M1903F10A: Redmi K20 全网通版
+
+M1903F10T: Redmi K20 移动 4G+ 版
+
+M1903F10C: Redmi K20 联通电信定制版
+
+**[F11] Redmi K20 Pro (`raphael`):**
+
+M1903F11A: Redmi K20 Pro 全网通版
+
+M1903F11T: Redmi K20 Pro 移动 4G+ 版
+
+M1903F11C: Redmi K20 Pro 联通电信定制版
 
 **[C3G] Redmi Go (`tiare`):**
 

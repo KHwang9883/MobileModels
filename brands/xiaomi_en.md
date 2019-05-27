@@ -648,6 +648,22 @@ M1810F6I: Redmi Y3 India
 
 2016021: Redmi Pro 64GB / 128GB
 
+**[F10] Redmi K20 (`davinci`):**
+
+M1903F10A: Redmi K20 China
+
+M1903F10T: Redmi K20 China Mobile
+
+M1903F10C: Redmi K20 China Unicom / China Telecom
+
+**[F11] Redmi K20 Pro (`raphael`):**
+
+M1903F11A: Redmi K20 Pro China
+
+M1903F11T: Redmi K20 Pro China Mobile
+
+M1903F11C: Redmi K20 Pro China Unicom / China Telecom
+
 **[C3G] Redmi Go (`tiare`):**
 
 M1903C3GG, M1903C3GH: Redmi Go Global

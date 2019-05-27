@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.05.27
+- `xiaomi` 新增 Redmi K20 系列。
+- `xiaomi_en` Added Redmi K20 Series.
 ## 2019.05.25
 - `vivo` 更新 vivo Z5x 移动全网通版。
 ## 2019.05.24
