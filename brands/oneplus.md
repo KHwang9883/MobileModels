@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20190520
+# 一加手机型号汇总 20190527
 
 ## 一加手机
 
@@ -64,13 +64,23 @@ ONEPLUS A6013: OnePlus 6T 国际版
 
 GM1900: OnePlus 7
 
-GM1901, GM1903, GM1905: OnePlus 7 国际版
+GM1901: OnePlus 7 印度版
+
+GM1903: OnePlus 7 欧洲版 
+
+GM1905: OnePlus 7 国际版
 
 **OnePlus 7 Pro:**
 
 GM1910: OnePlus 7 Pro
 
-GM1911, GM1913, GM1915, GM1917: OnePlus 7 Pro 国际版
+GM1911: OnePlus 7 印度版
+
+GM1913: OnePlus 7 Pro 欧洲版
+ 
+GM1915: OnePlus 7 Pro 国际版
+
+GM1917: OnePlus 7 Pro 北美版
 
 **OnePlus 7 Pro 5G:**
 
