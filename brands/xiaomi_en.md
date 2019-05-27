@@ -606,11 +606,11 @@ M1806E7TG, M1806E7TH: Redmi Note 6 Pro Global
 
 M1806E7TI: Redmi Note 6 Pro India
 
-**[F7A] Redmi Note 7 (`lavender`):**
+**[F7A] Redmi Note 7 / Redmi Note 7S (`lavender`):**
 
 M1901F7G, M1901F7H: Redmi Note 7 Global
 
-M1901F7I: Redmi Note 7 India
+M1901F7I: Redmi Note 7 / Redmi Note 7S India
 
 M1901F7E: Redmi Note 7 China
 

@@ -2,8 +2,8 @@
 ## 2019.05.27
 - `oneplus` 更新 OnePlus 7 系列区域版本信息。
 - `oneplus_en` Updated regional information for OnePlus 7 Series.
-- `xiaomi` 新增 Redmi K20 系列。
-- `xiaomi_en` Added Redmi K20 Series.
+- `xiaomi` 新增 Redmi K20 系列；新增 Redmi Note 7S 印度版。
+- `xiaomi_en` Added Redmi K20 Series; added Redmi Note 7S.
 ## 2019.05.25
 - `vivo` 更新 vivo Z5x 移动全网通版。
 ## 2019.05.24
