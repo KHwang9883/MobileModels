@@ -531,3 +531,7 @@ A1509: iPod touch (5th generation) (16GB)
 **iPod touch (6th generation) (`iPod7,1`):**
 
 A1574: iPod touch (6th generation)
+
+**iPod touch (7th generation) (`iPod9,1`):**
+
+A2178: iPod touch (7th generation)

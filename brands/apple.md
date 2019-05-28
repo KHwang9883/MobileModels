@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20190417
+# Apple 设备型号汇总 20190528
 
 ## 国行型号
 
@@ -421,6 +421,10 @@ A1509: iPod touch (第 5 代) (16GB)
 **iPod touch (第 6 代) (`iPod7,1`):**
 
 A1574: iPod touch (第 6 代)
+
+**iPod touch (第 7 代) (`iPod9,1`):**
+
+A2178: iPod touch (第 7 代)
 
 ## 非国行型号
 

@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.05.28
+- `apple` 新增 iPod touch (第 7 代)。
+- `apple_en` Added iPod touch (7th generation).
 ## 2019.05.27
 - `oneplus` 更新 OnePlus 7 系列区域版本信息。
 - `oneplus_en` Updated regional information for OnePlus 7 Series.
