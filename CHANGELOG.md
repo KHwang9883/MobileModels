@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.05.30
+- `oppo` 新增 OPPO Reno Z。
 ## 2019.05.28
 - `apple` 新增 iPod touch (第 7 代)。
 - `apple_en` Added iPod touch (7th generation).
