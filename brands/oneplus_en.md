@@ -56,7 +56,7 @@ ONEPLUS A6013: OnePlus 6T Global
 
 ONEPLUS A6010: OnePlus 6T China
 
-**OnePlus 7:**
+**OnePlus 7 (`guacamoleb`):**
 
 GM1901: OnePlus 7 India
 
@@ -66,7 +66,7 @@ GM1905: OnePlus 7 Global
 
 GM1900: OnePlus 7 China
 
-**OnePlus 7 Pro:**
+**OnePlus 7 Pro (`guacamole`):**
 
 GM1911: OnePlus 7 India
 
@@ -78,6 +78,6 @@ GM1917: OnePlus 7 Pro North America
 
 GM1910: OnePlus 7 Pro China
 
-**OnePlus 7 Pro 5G:**
+**OnePlus 7 Pro 5G (`guacamole`):**
 
 GM1920: OnePlus 7 Pro 5G
