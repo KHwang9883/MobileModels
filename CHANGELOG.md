@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.06.05
+- `xiaomi` 新增 Redmi K20 系列印度版。
+- `xiaomi_en` Added Redmi K20 Series India edition.
 ## 2019.06.03
 - `oneplus` 更新 OnePlus 7 系列代号。
 - `oneplus_en` Updated OnePlus 7 Series' codenames.

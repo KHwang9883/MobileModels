@@ -650,6 +650,8 @@ M1810F6I: Redmi Y3 India
 
 **[F10] Redmi K20 (`davinci`):**
 
+M1903F10I: Redmi K20 India
+
 M1903F10A: Redmi K20 China
 
 M1903F10T: Redmi K20 China Mobile
@@ -657,6 +659,8 @@ M1903F10T: Redmi K20 China Mobile
 M1903F10C: Redmi K20 China Unicom / China Telecom
 
 **[F11] Redmi K20 Pro (`raphael`):**
+
+M1903F11I: Redmi K20 Pro India
 
 M1903F11A: Redmi K20 Pro China
 

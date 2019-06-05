@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190527
+# 小米手机型号汇总 20190605
 
 ## 小米手机
 
@@ -672,6 +672,8 @@ M1903F10T: Redmi K20 移动 4G+ 版
 
 M1903F10C: Redmi K20 联通电信定制版
 
+M1903F10I: Redmi K20 印度版
+
 **[F11] Redmi K20 Pro (`raphael`):**
 
 M1903F11A: Redmi K20 Pro 全网通版
@@ -679,6 +681,8 @@ M1903F11A: Redmi K20 Pro 全网通版
 M1903F11T: Redmi K20 Pro 移动 4G+ 版
 
 M1903F11C: Redmi K20 Pro 联通电信定制版
+
+M1903F11I: Redmi K20 Pro 印度版
 
 **[C3G] Redmi Go (`tiare`):**
 
