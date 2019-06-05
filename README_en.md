@@ -12,8 +12,6 @@ Collecting device names, models and internal codenames.
 
 ## Changelog
 
-Currently only available in Chinese.
-
 [CHANGELOG.md](https://github.com/KHwang9883/MobileModels/blob/master/CHANGELOG.md)
 
 ## References
