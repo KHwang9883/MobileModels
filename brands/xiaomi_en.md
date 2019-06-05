@@ -506,9 +506,9 @@ M1903C3EC: Redmi 7A China Unicom / China Telecom
 
 **[H3LTE] Redmi Note 4G (`dior`):**
 
-2014712: Redmi Note 4G Global
+2014715: Redmi Note 4G Global
 
-2014715: Redmi Note 4G Taiwan
+2014712: Redmi Note 4G India
 
 2014022: Redmi Note 4G China Mobile
 

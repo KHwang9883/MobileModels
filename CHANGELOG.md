@@ -2,7 +2,9 @@
 ## 2019.06.05
 - `huawei` 新增华为麦芒 8。
 - `xiaomi` 新增 Redmi K20 系列印度版。
+- `xiaomi` 更正一处错误。
 - `xiaomi_en` Added Redmi K20 Series India edition.
+- `xiaomi_en` Error fix.
 ## 2019.06.03
 - `oneplus` 更新 OnePlus 7 系列代号。
 - `oneplus_en` Updated OnePlus 7 Series' codenames.
