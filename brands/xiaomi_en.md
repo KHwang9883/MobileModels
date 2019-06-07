@@ -486,6 +486,10 @@ M1810F6LC: Redmi 7 China Unicom / China Telecom
 
 **[C3E] Redmi 7A:**
 
+M1903C3EG, M1903C3EH: Redmi 7A Global
+
+M1903C3EI: Redmi 7A India
+
 M1903C3EE: Redmi 7A China
 
 M1903C3ET: Redmi 7A China Mobile

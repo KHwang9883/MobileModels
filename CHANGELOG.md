@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.06.07
+- `xiaomi` 新增 Redmi 7A 国际版本。
+- `xiaomi_en` Added Redmi 7A global edition.
 ## 2019.06.05
 - `huawei` 新增华为麦芒 8。
 - `xiaomi` 新增 Redmi K20 系列印度版。

@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190605
+# 小米手机型号汇总 20190607
 
 ## 小米手机
 
@@ -501,6 +501,10 @@ M1903C3EE: Redmi 7A 全网通版
 M1903C3ET: Redmi 7A 移动 4G+ 版
 
 M1903C3EC: Redmi 7A 联通电信定制版
+
+M1903C3EG, M1903C3EH: Redmi 7A 国际版
+
+M1903C3EI: Redmi 7A 印度版
 
 **[H3W] 红米 Note (`lcsh92_wet_gb9`):**
 
