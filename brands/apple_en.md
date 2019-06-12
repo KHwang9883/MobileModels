@@ -242,17 +242,23 @@ A1459: iPad (4th generation) Wi-Fi + Cellular
 
 A1460: iPad (4th generation) Wi-Fi + Cellular China
 
-**iPad mini (`iPad2,5`):**
+**iPad (5th generation) (`iPad6,11`):**
 
-A1432: iPad mini Wi-Fi
+A1822: iPad (5th generation) Wi-Fi
 
-**iPad mini (`iPad2,6`):**
+**iPad (5th generation) (`iPad6,12`):**
 
-A1454: iPad mini Wi-Fi + Cellular
+A1823: iPad (5th generation)) Wi-Fi + Cellular
 
-**iPad mini (`iPad2,7`):**
+**iPad (6th generation) (`iPad7,5`):**
 
-A1455: iPad mini Wi-Fi + Cellular China
+A1893: iPad (6th generation) Wi-Fi
+
+**iPad (6th generation) (`iPad7,6`):**
+
+A1954: iPad (6th generation) Wi-Fi + Cellular
+
+## iPad Air
 
 **iPad Air (`iPad4,1`):**
 
@@ -266,18 +272,6 @@ A1475: iPad Air Wi-Fi + Cellular
 
 A1476: iPad Air Wi-Fi + Cellular (TD-LTE)
 
-**iPad mini 2 (`iPad4,4`):**
-
-A1489: iPad mini 2 Wi-Fi
-
-**iPad mini 2 (`iPad4,5`):**
-
-A1490: iPad mini 2 Wi-Fi + Cellular
-
-**iPad mini 2 (`iPad4,6`):**
-
-A1491: iPad mini 2 Wi-Fi + Cellular (TD-LTE)
-
 **iPad Air 2 (`iPad5,3`):**
 
 A1566: iPad Air 2 Wi-Fi
@@ -286,17 +280,17 @@ A1566: iPad Air 2 Wi-Fi
 
 A1567: iPad Air 2 Wi-Fi + Cellular
 
-**iPad mini 3 (`iPad4,7`):**
+**iPad Air (3rd generation) (`iPad11,3`):**
 
-A1599: iPad mini 3 Wi-Fi
+A2152: iPad Air (3rd generation) Wi-Fi
 
-**iPad mini 3 (`iPad4,8`):**
+**iPad Air (3rd generation) (`iPad11,4`):**
 
-A1600: iPad mini 3 Wi-Fi + Cellular
+A2123, A2153: iPad Air (3rd generation) Wi-Fi + Cellular
 
-**iPad mini 3 (`iPad4,9`):**
+A2154: iPad Air (3rd generation) Wi-Fi + Cellular China
 
-A1601: iPad mini 3 Wi-Fi + Cellular (TD-LTE)
+## iPad Pro
 
 **iPad Pro (12.9-inch) (`iPad6,7`):**
 
@@ -305,14 +299,6 @@ A1584: iPad Pro (12.9-inch) Wi-Fi
 **iPad Pro (12.9-inch) (`iPad6,8`):**
 
 A1652: iPad Pro (12.9-inch) Wi-Fi + Cellular
-
-**iPad mini 4 (`iPad5,1`):**
-
-A1538: iPad mini 4 Wi-Fi
-
-**iPad mini 4 (`iPad5,2`):**
-
-A1550: iPad mini 4 Wi-Fi + Cellular
 
 **iPad Pro (9.7-inch) (`iPad6,3`):**
 
@@ -323,14 +309,6 @@ A1673: iPad Pro (9.7-inch) Wi-Fi
 A1674: iPad Pro (9.7-inch) Wi-Fi + Cellular
 
 A1675: iPad Pro (9.7-inch) Wi-Fi + Cellular China
-
-**iPad (5th generation) (`iPad6,11`):**
-
-A1822: iPad (5th generation) Wi-Fi
-
-**iPad (5th generation) (`iPad6,12`):**
-
-A1823: iPad (5th generation)) Wi-Fi + Cellular
 
 **iPad Pro (12.9-inch, 2nd generation) (`iPad7,1`):**
 
@@ -351,14 +329,6 @@ A1701: iPad Pro (10.5-inch) Wi-Fi
 A1709: iPad Pro (10.5-inch) Wi-Fi + Cellular
 
 A1852: iPad Pro (10.5-inch) Wi-Fi + Cellular China
-
-**iPad (6th generation) (`iPad7,5`):**
-
-A1893: iPad (6th generation) Wi-Fi
-
-**iPad (6th generation) (`iPad7,6`):**
-
-A1954: iPad (6th generation) Wi-Fi + Cellular
 
 **iPad Pro (12.9-inch, 3rd generation) (`iPad8,1`):**
 
@@ -408,15 +378,51 @@ A2013: iPad Pro (11-inch) Wi-Fi + Cellular (1TB) North America
 
 A1979: iPad Pro (11-inch) Wi-Fi + Cellular (1TB) China
 
-**iPad Air (3rd generation) (`iPad11,3`):**
+## iPad mini
 
-A2152: iPad Air (3rd generation) Wi-Fi
+**iPad mini (`iPad2,5`):**
 
-**iPad Air (3rd generation) (`iPad11,4`):**
+A1432: iPad mini Wi-Fi
 
-A2123, A2153: iPad Air (3rd generation) Wi-Fi + Cellular
+**iPad mini (`iPad2,6`):**
 
-A2154: iPad Air (3rd generation) Wi-Fi + Cellular China
+A1454: iPad mini Wi-Fi + Cellular
+
+**iPad mini (`iPad2,7`):**
+
+A1455: iPad mini Wi-Fi + Cellular China
+
+**iPad mini 2 (`iPad4,4`):**
+
+A1489: iPad mini 2 Wi-Fi
+
+**iPad mini 2 (`iPad4,5`):**
+
+A1490: iPad mini 2 Wi-Fi + Cellular
+
+**iPad mini 2 (`iPad4,6`):**
+
+A1491: iPad mini 2 Wi-Fi + Cellular (TD-LTE)
+
+**iPad mini 3 (`iPad4,7`):**
+
+A1599: iPad mini 3 Wi-Fi
+
+**iPad mini 3 (`iPad4,8`):**
+
+A1600: iPad mini 3 Wi-Fi + Cellular
+
+**iPad mini 3 (`iPad4,9`):**
+
+A1601: iPad mini 3 Wi-Fi + Cellular (TD-LTE)
+
+**iPad mini 4 (`iPad5,1`):**
+
+A1538: iPad mini 4 Wi-Fi
+
+**iPad mini 4 (`iPad5,2`):**
+
+A1550: iPad mini 4 Wi-Fi + Cellular
 
 **iPad mini (5th generation) (`iPad11,1`):**
 

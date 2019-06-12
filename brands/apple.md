@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20190528
+# Apple 设备型号汇总 20190612
 
 ## 国行型号
 
@@ -176,17 +176,23 @@ A1458: iPad (第 4 代) (无线局域网)
 
 A1460: iPad (第 4 代) (无线局域网 + 蜂窝网络) (国行)
 
-**iPad mini (`iPad2,5`):**
+**iPad (第 5 代) (`iPad6,11`):**
 
-A1432: iPad mini (无线局域网)
+A1822: iPad (第 5 代) (无线局域网)
 
-**iPad mini (`iPad2,7`):**
+**iPad (第 5 代) (`iPad6,12`):**
 
-A1455: iPad mini (无线局域网 + 蜂窝网络) (国行)
+A1823: iPad (第 5 代) (无线局域网 + 蜂窝网络)
 
-**iPad Air (`iPad4,1`):**
+**iPad (第 6 代) (`iPad7,5`):**
 
-A1474: iPad Air (无线局域网)
+A1893: iPad (第 6 代) (无线局域网)
+
+**iPad (第 6 代) (`iPad7,6`):**
+
+A1954: iPad (第 6 代) (无线局域网 + 蜂窝网络)
+
+### iPad Air
 
 **iPad Air (`iPad4,2`):**
 
@@ -196,18 +202,6 @@ A1475: iPad Air (无线局域网 + 蜂窝网络)
 
 A1476: iPad Air (无线局域网 + 蜂窝网络) (TD-LTE)
 
-**iPad mini 2 (`iPad4,4`):**
-
-A1489: iPad mini 2 (无线局域网)
-
-**iPad mini 2 (`iPad4,5`):**
-
-A1490: iPad mini 2 (无线局域网 + 蜂窝网络)
-
-**iPad mini 2 (`iPad4,6`):**
-
-A1491: iPad mini 2 (无线局域网 + 蜂窝网络) (TD-LTE)
-
 **iPad Air 2 (`iPad5,3`):**
 
 A1566: iPad Air 2 (无线局域网)
@@ -216,17 +210,15 @@ A1566: iPad Air 2 (无线局域网)
 
 A1567: iPad Air 2 (无线局域网 + 蜂窝网络)
 
-**iPad mini 3 (`iPad4,7`):**
+**iPad Air (第 3 代) (`iPad11,3`):**
 
-A1599: iPad mini 3 (无线局域网)
+A2152: iPad Air (第 3 代) (无线局域网)
 
-**iPad mini 3 (`iPad4,8`):**
+**iPad Air (第 3 代) (`iPad11,4`):**
 
-A1600: iPad mini 3 (无线局域网 + 蜂窝网络)
+A2154: iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (国行)
 
-**iPad mini 3 (`iPad4,9`):**
-
-A1601: iPad mini 3 (无线局域网 + 蜂窝网络) (TD-LTE)
+### iPad Pro
 
 **iPad Pro (12.9 英寸) (`iPad6,7`):**
 
@@ -236,14 +228,6 @@ A1584: iPad Pro (12.9 英寸) (无线局域网)
 
 A1652: iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)
 
-**iPad mini 4 (`iPad5,1`):**
-
-A1538: iPad mini 4 (无线局域网)
-
-**iPad mini 4 (`iPad5,2`):**
-
-A1550: iPad mini 4 (无线局域网 + 蜂窝网络)
-
 **iPad Pro (9.7 英寸) (`iPad6,3`):**
 
 A1673: iPad Pro (9.7 英寸) (无线局域网)
@@ -251,14 +235,6 @@ A1673: iPad Pro (9.7 英寸) (无线局域网)
 **iPad Pro (9.7 英寸) (`iPad6,4`):**
 
 A1675: iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) (国行)
-
-**iPad (第 5 代) (`iPad6,11`):**
-
-A1822: iPad (第 5 代) (无线局域网)
-
-**iPad (第 5 代) (`iPad6,12`):**
-
-A1823: iPad (第 5 代) (无线局域网 + 蜂窝网络)
 
 **iPad Pro (12.9 英寸, 第 2 代) (`iPad7,1`):**
 
@@ -275,14 +251,6 @@ A1701: iPad Pro (10.5 英寸) (无线局域网)
 **iPad Pro (10.5 英寸) (`iPad7,4`):**
 
 A1852: iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) (国行)
-
-**iPad (第 6 代) (`iPad7,5`):**
-
-A1893: iPad (第 6 代) (无线局域网)
-
-**iPad (第 6 代) (`iPad7,6`):**
-
-A1954: iPad (第 6 代) (无线局域网 + 蜂窝网络)
 
 **iPad Pro (12.9 英寸, 第 3 代) (`iPad8,1`):**
 
@@ -316,13 +284,51 @@ A1979: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络) (国行)
 
 A1979: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB) (国行)
 
-**iPad Air (第 3 代) (`iPad11,3`):**
+## iPad mini
 
-A2152: iPad Air (第 3 代) (无线局域网)
+**iPad mini (`iPad2,5`):**
 
-**iPad Air (第 3 代) (`iPad11,4`):**
+A1432: iPad mini (无线局域网)
 
-A2154: iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (国行)
+**iPad mini (`iPad2,7`):**
+
+A1455: iPad mini (无线局域网 + 蜂窝网络) (国行)
+
+**iPad Air (`iPad4,1`):**
+
+A1474: iPad Air (无线局域网)
+
+**iPad mini 2 (`iPad4,4`):**
+
+A1489: iPad mini 2 (无线局域网)
+
+**iPad mini 2 (`iPad4,5`):**
+
+A1490: iPad mini 2 (无线局域网 + 蜂窝网络)
+
+**iPad mini 2 (`iPad4,6`):**
+
+A1491: iPad mini 2 (无线局域网 + 蜂窝网络) (TD-LTE)
+
+**iPad mini 3 (`iPad4,7`):**
+
+A1599: iPad mini 3 (无线局域网)
+
+**iPad mini 3 (`iPad4,8`):**
+
+A1600: iPad mini 3 (无线局域网 + 蜂窝网络)
+
+**iPad mini 3 (`iPad4,9`):**
+
+A1601: iPad mini 3 (无线局域网 + 蜂窝网络) (TD-LTE)
+
+**iPad mini 4 (`iPad5,1`):**
+
+A1538: iPad mini 4 (无线局域网)
+
+**iPad mini 4 (`iPad5,2`):**
+
+A1550: iPad mini 4 (无线局域网 + 蜂窝网络)
 
 **iPad mini (第 5 代) (`iPad11,1`):**
 
@@ -556,9 +562,13 @@ A1403: iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
 
 A1459: iPad (第 4 代) (无线局域网 + 蜂窝网络)
 
-**iPad mini (`iPad2,6`):**
+### iPad Air
 
-A1454: iPad mini (无线局域网 + 蜂窝网络)
+**iPad Air (第 3 代) (`iPad11,4`):**
+
+A2123, A2153: iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
+
+### iPad Pro
 
 **iPad Pro (9.7 英寸) (`iPad6,4`):**
 
@@ -596,9 +606,11 @@ A1934: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB)
 
 A2013: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB) (北美)
 
-**iPad Air (第 3 代) (`iPad11,4`):**
+### iPad mini
 
-A2123, A2153: iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
+**iPad mini (`iPad2,6`):**
+
+A1454: iPad mini (无线局域网 + 蜂窝网络)
 
 **iPad mini (第 5 代) (`iPad11.2`):**
 

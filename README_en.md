@@ -12,7 +12,7 @@ Collecting device names, models and internal codenames.
 
 ## Changelog
 
-[CHANGELOG.md](https://github.com/KHwang9883/MobileModels/blob/master/CHANGELOG.md)
+[CHANGELOG_en.md](https://github.com/KHwang9883/MobileModels/blob/master/CHANGELOG_en.md)
 
 ## References
 

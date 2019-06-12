@@ -1,40 +1,33 @@
 # 更新日志
+## 2019.06.12
+- `apple` 整理 iPad 分类。
 ## 2019.06.07
 - `xiaomi` 新增 Redmi 7A 国际版本。
-- `xiaomi_en` Added Redmi 7A global edition.
 ## 2019.06.05
 - `huawei` 新增华为麦芒 8。
 - `xiaomi` 新增 Redmi K20 系列印度版。
 - `xiaomi` 更正一处错误。
-- `xiaomi_en` Added Redmi K20 Series India edition.
-- `xiaomi_en` Error fix.
 ## 2019.06.03
 - `oneplus` 更新 OnePlus 7 系列代号。
-- `oneplus_en` Updated OnePlus 7 Series' codenames.
 ## 2019.05.30
 - `honor` 新增荣耀 20 系列、荣耀畅玩 8。
 - `oppo` 新增 OPPO Reno Z。
 ## 2019.05.28
 - `apple` 新增 iPod touch (第 7 代)。
-- `apple_en` Added iPod touch (7th generation).
 ## 2019.05.27
 - `oneplus` 更新 OnePlus 7 系列区域版本信息。
-- `oneplus_en` Updated regional information for OnePlus 7 Series.
 - `xiaomi` 新增 Redmi K20 系列；新增 Redmi Note 7S 印度版。
-- `xiaomi_en` Added Redmi K20 Series; added Redmi Note 7S.
 ## 2019.05.25
 - `vivo` 更新 vivo Z5x 移动全网通版。
 ## 2019.05.24
 - `meizu` 新增魅族 16Xs。
 - `vivo` 新增 vivo Z5x。
 - `xiaomi` 新增 Redmi 7A（代号稍后补充）。
-- `xiaomi_en` Added Redmi 7A (codename will be added soon).
 ## 2019.05.22
 - `lenovo` 新增联想 Z6 青春版。
 ## 2019.05.20
 - `mitv` 新增小米电视 4C 65 英寸。
 - `oneplus` 新增 OnePlus 7 系列。
-- `oneplus_en` Added OnePlus 7 Series.
 ## 2019.05.18
 - `honor` 新增部分产品代号。
 - `huawei` 新增部分产品代号。
@@ -46,7 +39,6 @@
 - `mitv` 更正一处错误。
 ## 2019.05.08
 - `xiaomi` 更新小米 MIX 3 5G 代号。
-- `xiaomi_en` Updated Mi MIX 3 5G codename.
 ## 2019.05.07
 - `samsung` 新增 Galaxy A80。
 - `samsung` 新增 Galaxy S 系列、Galaxy Note 系列早期机型，新增 Galaxy J 系列、Galaxy On 系列。
@@ -54,7 +46,6 @@
 - `vivo` 新增 vivo S1 Pro。
 ## 2019.05.01
 - `xiaomi` 更新 Redmi Y3 代号；新增小米 MIX 3 5G。
-- `xiaomi_en` Updated Redmi Y3 codename, added Mi MIX 3 5G.
 ## 2019.04.30
 - `oppo` 新增 OPPO A9x。感谢 [@数码闲聊站](https://weibo.com/u/6048569942)
 ## 2019.04.28
@@ -67,7 +58,6 @@
 - `lenovo` 新增联想 Z6 Pro、联想 K6 畅享版。
 - `mitv` 新增多款小米电视型号。
 - `xiaomi` 新增 Redmi Y3。
-- `xiaomi_en` Added Redmi Y3.
 ## 2019.04.19
 - `全局` 新增 `apple_en` `oneplus_en` `xiaomi_en` 英文版本。
 - `oneplus` 补充部分国际机型。
