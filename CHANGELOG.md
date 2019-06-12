@@ -1,4 +1,5 @@
 # 更新日志
+- `xiaomi` 新增小米 9T 国际版。
 ## 2019.06.12
 - `apple` 整理 iPad 分类。
 - `xiaomi` 更新 Redmi 7A 代号。

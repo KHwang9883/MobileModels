@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.06.13
+- `xiaomi_en` Added Mi 9T.
 ## 2019.06.12
 - `apple_en` Separated iPad Air, iPad Pro and iPad mini.
 - `xiaomi_en` Updated Redmi 7A codename.
