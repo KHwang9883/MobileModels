@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.06.12
 - `apple` 整理 iPad 分类。
+- `xiaomi` 更新 Redmi 7A 代号。
 ## 2019.06.07
 - `xiaomi` 新增 Redmi 7A 国际版本。
 ## 2019.06.05
@@ -22,7 +23,7 @@
 ## 2019.05.24
 - `meizu` 新增魅族 16Xs。
 - `vivo` 新增 vivo Z5x。
-- `xiaomi` 新增 Redmi 7A（代号稍后补充）。
+- `xiaomi` 新增 Redmi 7A。
 ## 2019.05.22
 - `lenovo` 新增联想 Z6 青春版。
 ## 2019.05.20
