@@ -1,4 +1,4 @@
-# Mobile Models Collection
+# Mobile Models
 
 Collecting device names, models and internal codenames.
 
