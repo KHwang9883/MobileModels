@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2019.06.13
 - `xiaomi_en` Added Mi 9T.
+- `xiaomi_en` Fixed Mi 8 Pro's [internal name](https://i01.appmifile.com/webfile/globalimg/fr/Manual/Mi-8-Pro-FR.pdf).
 ## 2019.06.12
 - `apple_en` Separated iPad Air, iPad Pro and iPad mini.
 - `xiaomi_en` Updated Redmi 7A codename.

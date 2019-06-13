@@ -124,7 +124,7 @@ M1803E1C: Mi 8 China Unicom / China Telecom
 
 M1807E8S: Mi 8 Explorer Edition
 
-**[E8] Mi 8 Pro (`equuleus`):**
+**[E1S] Mi 8 Pro (`equuleus`):**
 
 M1807E8A: Mi 8 Pro
 
