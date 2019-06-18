@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.06.18
+- `General` Added `meizu_en`.
 ## 2019.06.13
 - `xiaomi_en` Added Mi 9T.
 - `xiaomi_en` Fixed Mi 8 Pro's [internal name](https://i01.appmifile.com/webfile/globalimg/fr/Manual/Mi-8-Pro-FR.pdf).

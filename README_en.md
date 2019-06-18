@@ -7,6 +7,7 @@ Collecting device names, models and internal codenames.
 | Branch | Brand | Range |
 | :-: | :-: | :-: |
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu_en.md) | Meizu | All models |
 | [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus_en.md) | OnePlus | All models |
 | [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi Phones, Redmi Phones, POCOPHONE and Black Shark |
 
