@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190605
+# 华为手机型号汇总 20190621
 
 ## HUAWEI Mate 系列
 
@@ -287,6 +287,24 @@ VCE-TL00: HUAWEI nova 4 移动 4G+ 版
 MAR-AL00: HUAWEI nova 4e 全网通版
 
 MAR-TL00: HUAWEI nova 4e 移动 4G+ 版
+
+**HUAWEI nova 5:**
+
+SEA-AL00: HUAWEI nova 5 全网通版
+
+SEA-TL00: HUAWEI nova 5 移动 4G+ 版
+
+**HUAWEI nova 5 Pro:**
+
+SEA-AL10: HUAWEI nova 5 Pro 全网通版
+
+SEA-TL10: HUAWEI nova 5 Pro 移动 4G+ 版
+
+**HUAWEI nova 5i:**
+
+GLK-AL00: HUAWEI nova 5i 全网通版
+
+GLK-TL00: HUAWEI nova 5i 移动 4G+ 版
 
 ## HUAWEI G 系列
 
@@ -591,6 +609,18 @@ BZT-AL10: 华为平板 C5 10.1 英寸 全网通高配版
 AGS2-W09: 华为畅享平板 10.1 英寸 Wi-Fi 版
 
 AGS2-AL00: 华为畅享平板 10.1 英寸 全网通版
+
+**华为平板 M6:**
+
+VRD-W09: 华为平板 M6 8.4 英寸 Wi-Fi 版
+
+VRD-AL09: 华为平板 M6 8.4 英寸 全网通版
+
+**华为平板 M6 (`schumann`):**
+
+SCM-W09: 华为平板 M6 10.8 英寸 Wi-Fi 版
+
+SCM-AL09: 华为平板 M6 10.8 英寸 全网通版
 
 ## 荣耀独立前产品 
 
