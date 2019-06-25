@@ -132,23 +132,23 @@ M793Q: Meizu PRO 7 Plus China
 
 **MEIZU 15 (`m1881`):**
 
-M881H: Meizu 15 Global
+M881H: MEIZU 15 Global
 
-M881Q: Meizu 15 China
+M881Q: MEIZU 15 China
 
-M881M: Meizu 15 China Mobile
+M881M: MEIZU 15 China Mobile
 
 **MEIZU 15 Plus (`m1891`):**
 
-M891H: Meizu 15 Plus Global
+M891H: MEIZU 15 Plus Global
 
-M891Q: Meizu 15 Plus China
+M891Q: MEIZU 15 Plus China
 
 **MEIZU 15 Lite (`m1871`):**
 
-M871H: Meizu 15 Lite Global
+M871H: MEIZU 15 Lite Global
 
-M871Q: Meizu M15 China
+M871Q: MEIZU M15 China
 
 **Meizu 16th (`m1882`):**
 

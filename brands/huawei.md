@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190621
+# 华为手机型号汇总 20190625
 
 ## HUAWEI Mate 系列
 
@@ -95,6 +95,8 @@ LYA-TL00: HUAWEI Mate 20 Pro 移动 4G+ 版
 EVR-AL00: HUAWEI Mate 20 X 全网通版
 
 EVR-TL00: HUAWEI Mate 20 X 移动 4G+ 版
+
+EVR-AN00: HUAWEI Mate 20 X 5G 版
 
 **HUAWEI Mate 20 RS 保时捷设计 (`laya`):**
 
