@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190625
+# 华为手机型号汇总 20190628
 
 ## HUAWEI Mate 系列
 
@@ -260,7 +260,7 @@ HWI-AL00: HUAWEI nova 2s 全网通版
 
 HWI-TL00: HUAWEI nova 2s 移动 4G+ 版
 
-**HUAWEI nova 3e:**
+**HUAWEI nova 3e (`anne`):**
 
 ANE-AL00: HUAWEI nova 3e 全网通版
 
@@ -432,7 +432,7 @@ TRT-AL00, TRT-AL00A: 华为畅享 7 Plus 全网通版
 
 TRT-TL10, TRT-TL10A: 华为畅享 7 Plus 移动 4G+ 版
 
-**华为畅享 7S:**
+**华为畅享 7S (`figo`):**
 
 FIG-AL00: 华为畅享 7S 全网通标配版
 
@@ -456,7 +456,7 @@ LDN-TL10: 华为畅享 8 移动 4G+ NFC 版
 
 LDN-TL20: 华为畅享 8 移动 4G+ 高配版
 
-**华为畅享 8 Plus:**
+**华为畅享 8 Plus (`florida`):**
 
 FLA-AL00, FLA-AL10, FLA-AL20: 华为畅享 8 Plus 全网通版
 
