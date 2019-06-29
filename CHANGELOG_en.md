@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.06.30
+- `xiaomi_en` Added Mi 9T Pro.
 ## 2019.06.18
 - `General` Added `meizu_en`.
 ## 2019.06.13

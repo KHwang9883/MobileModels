@@ -162,6 +162,10 @@ M1903F2A: Mi 9 SE China
 
 M1903F10G: Mi 9T Global
 
+**[F11] Mi 9T Pro (`raphael`):**
+
+M1903F11G: Mi 9T Pro Global
+
 **[X5] Mi Note (`virgo`):**
 
 2015011: Mi Note Global
