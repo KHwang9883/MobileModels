@@ -244,11 +244,11 @@ M923Q: Meizu Note 9 China
 
 **Meizu M3E (`a02`):**
 
-A680Q: Meizu M3E China
-
-A680M: Meizu M3E China Mobile
-
 A680H: Meizu M3E Global
+
+A680Q: Meizu M1 E China
+
+A680M: Meizu M1 E China Mobile
 
 **Meizu E2 (`m1741`):**
 
