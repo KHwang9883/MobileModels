@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20190620
+# vivo 手机型号汇总 20190703
 
 ## X 系列
 
@@ -153,6 +153,8 @@ V1824A: iQOO (8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB)
 **iQOO Neo:**
 
 V1914A: iQOO Neo 全网通版
+
+V1914T: iQOO Neo 移动全网通版
 
 ## S 系列
 
