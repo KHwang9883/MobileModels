@@ -258,6 +258,16 @@ M1804E4T: Mi Max 3 China Mobile
 
 M1804E4C: Mi Max 3 China Unicom / China Telecom
 
+**[F3B] Mi CC9:**
+
+M1904F3BC: Mi CC9 China
+
+M1904F3BT: Mi CC9 Meitu Edition
+
+**[F9S] Mi CC9e:**
+
+M1906F9SC: Mi CC9e China
+
 **[F9] Mi Play (`lotus`):**
 
 M1901F9E: Mi Play

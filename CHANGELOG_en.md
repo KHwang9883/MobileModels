@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.07.02
+- `xiaomi_en` Added Mi CC9 & Mi CC9e (codenames will be added soon).
 ## 2019.06.30
 - `meizu_en` Minor error fix.
 - `xiaomi_en` Added Mi 9T Pro.
