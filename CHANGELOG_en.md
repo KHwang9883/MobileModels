@@ -1,6 +1,8 @@
 # CHANGELOG
+## 2019.07.03
+- `xiaomi_en` Fixed Mi CC Series' device names.
 ## 2019.07.02
-- `xiaomi_en` Added Mi CC9 & Mi CC9e (codenames will be added soon).
+- `xiaomi_en` Added Mi CC 9 & Mi CC 9e (codenames will be added soon).
 ## 2019.06.30
 - `meizu_en` Minor error fix.
 - `xiaomi_en` Added Mi 9T Pro.
