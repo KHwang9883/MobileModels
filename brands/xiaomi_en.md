@@ -262,7 +262,7 @@ M1804E4C: Mi Max 3 China Unicom / China Telecom
 
 M1904F3BC: Mi CC 9 China
 
-**[F3M] Mi CC 9 Meitu Edition (`vela`):
+**[F3M] Mi CC 9 Meitu Edition (`vela`):**
 
 M1904F3BT: Mi CC 9 Meitu Edition
 
