@@ -1,4 +1,4 @@
-# Motorola 手机型号汇总 20190417
+# Motorola 手机型号汇总 20190704
 
 ## Moto 手机
 
@@ -82,3 +82,6 @@ XT1941-2: motorola p30 play
 
 XT1965-6: motorola g7 plus
 
+**motorola p50:**
+
+XT1970-5: motorola p50
