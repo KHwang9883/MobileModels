@@ -386,9 +386,11 @@ RNE-AL00: HUAWEI 麦芒 6 全网通版
 
 SNE-AL00: HUAWEI 麦芒 7 全网通版
 
-**华为麦芒 8:**
+**HUAWEI 麦芒 8:**
 
-POT-AL00, POT-AL10: 华为麦芒 8 全网通版
+POT-AL00, POT-AL10: HUAWEI 麦芒 8 全网通版
+
+POT-AL00a: HUAWEI 麦芒 8 全网通版 (麒麟 710F)
 
 ## 华为畅享系列
 
