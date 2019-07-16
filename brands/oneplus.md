@@ -62,7 +62,7 @@ ONEPLUS A6013: OnePlus 6T 国际版
 
 **OnePlus 7 (`guacamoleb`):**
 
-GM1900: OnePlus 7
+GM1900: OnePlus 7 全网通版
 
 GM1901: OnePlus 7 印度版
 
@@ -72,7 +72,7 @@ GM1905: OnePlus 7 国际版
 
 **OnePlus 7 Pro (`guacamole`):**
 
-GM1910: OnePlus 7 Pro
+GM1910: OnePlus 7 Pro 全网通版
 
 GM1911: OnePlus 7 印度版
 
@@ -84,4 +84,6 @@ GM1917: OnePlus 7 Pro 北美版
 
 **OnePlus 7 Pro 5G (`guacamole`):**
 
-GM1920: OnePlus 7 Pro 5G
+GM1925: OnePlus 7 Pro 5G 国行版
+
+GM1920: OnePlus 7 Pro 5G 国际版

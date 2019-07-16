@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.07.16
+- `mitv` 更正一处错误。
+- `oneplus` 新增 OnePlus 7 Pro 5G 国行版本。
 ## 2019.07.14
 - `huawei` 更新 HUAWEI 麦芒 8 麒麟 710F 版本。
 - `vivo` 新增产品 codename。

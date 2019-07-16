@@ -80,4 +80,7 @@ GM1910: OnePlus 7 Pro China
 
 **OnePlus 7 Pro 5G (`guacamole`):**
 
-GM1920: OnePlus 7 Pro 5G
+GM1920: OnePlus 7 Pro 5G Global
+
+GM1925: OnePlus 7 Pro 5G China
+
