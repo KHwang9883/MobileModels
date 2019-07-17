@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.07.17
+- `xiaomi_en` Added Mi A3.
 ## 2019.07.16
 - `oneplus_en` Added Chinese varient of OnePlus 7 Pro 5G.
 ## 2019.07.04
