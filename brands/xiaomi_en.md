@@ -716,6 +716,10 @@ AWM-A0: Black Shark Helo
 
 SKW-A0: Black Shark 2
 
+**Black Shark 2 Pro:**
+
+DLT-A0: Black Shark 2 Pro
+
 ## POCOPHONE
 
 **[E10] POCO F1 (`beryllium`):**

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.07.19
+- `xiaomi_en` Added Black Shark 2 Pro.
 ## 2019.07.17
 - `xiaomi_en` Added Mi A3.
 ## 2019.07.16
