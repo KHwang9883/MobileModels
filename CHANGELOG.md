@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.07.22
+- `huawei` 新增 HUAWEI Mate X。
 ## 2019.07.19
 - `nubia` 更正一处由于 CQCCMS 失误导致的错误。
 - `xiaomi` 新增黑鲨游戏手机 2 Pro。
