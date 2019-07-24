@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190722
+# 华为手机型号汇总 20190724
 
 ## HUAWEI Mate 系列
 
@@ -311,6 +311,12 @@ SEA-TL10: HUAWEI nova 5 Pro 移动 4G+ 版
 GLK-AL00: HUAWEI nova 5i 全网通版
 
 GLK-TL00: HUAWEI nova 5i 移动 4G+ 版
+
+**HUAWEI nova 5i Pro:**
+
+SPN-AL00: HUAWEI nova 5i Pro 全网通版
+
+SPN-TL00: HUAWEI nova 5i Pro 移动 4G+ 版
 
 ## HUAWEI G 系列
 

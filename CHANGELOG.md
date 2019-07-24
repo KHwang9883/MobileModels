@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.07.24
+- `huawei` 新增 HUAWEI nova 5i Pro。
 ## 2019.07.22
 - `huawei` 新增 HUAWEI Mate X。
 ## 2019.07.19
