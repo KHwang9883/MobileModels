@@ -60,6 +60,10 @@
 
 [ipsw.me](https://ipsw.me)
 
+[XDA Developers](https://www.xda-developers.com)
+
+[SLASHLEAKS](http://www.slashleaks.com)
+
 以及各品牌官网、论坛、微博等，恕不一一列出
 
 ## 许可
