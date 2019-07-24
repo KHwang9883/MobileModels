@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.07.24
+- `honor` 标注 [荣耀 N 系列](https://news.pconline.com.cn/1278/12785895.html) （数字系列）。
 - `huawei` 新增 HUAWEI nova 5i Pro。
 ## 2019.07.22
 - `huawei` 新增 HUAWEI Mate X。
