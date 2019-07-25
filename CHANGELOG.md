@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.07.25
 - `nubia` 新增 nubia Z20。
+- `vivo` 新增 vivo Z5。
 ## 2019.07.24
 - `honor` 标注 [荣耀 N 系列](https://news.pconline.com.cn/1278/12785895.html) （数字系列）。
 - `huawei` 新增 HUAWEI nova 5i Pro。
