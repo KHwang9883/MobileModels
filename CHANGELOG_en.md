@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.07.27
+- `xiaomi_en` Added Indian varient of Mi A3.
 ## 2019.07.19
 - `xiaomi_en` Added Black Shark 2 Pro.
 ## 2019.07.17

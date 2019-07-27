@@ -294,7 +294,9 @@ M1805D1SG: Mi A2 Lite Global
 
 **[F9S] Mi A3 (`laurel`):**
 
-M1906F9SG, M1906F9SH: Mi A3 Global
+M1906F9SH: Mi A3 Global
+
+M1906F9SI: Mi A3 India
 
 ## Mi Pads
 
