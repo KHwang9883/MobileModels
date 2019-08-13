@@ -178,6 +178,10 @@ M926H: Meizu 16Xs Global
 
 M926Q: Meizu 16Xs China
 
+**Meizu 16s Pro (`m1973`):
+
+M973Q: Meizu 16s Pro China
+
 **Meizu m1 note (`m71`):**
 
 M463H: Meizu m1 note Global
