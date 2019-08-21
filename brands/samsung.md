@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20190507
+# 三星手机型号汇总 20190821
 
 ## Galaxy S 系列
 
@@ -221,6 +221,14 @@ SM-N9508: Galaxy Note8 4G+
 SM-N9600: Galaxy Note9 全网通版
 
 SM-N9608: Galaxy Note9 4G+
+
+**Galaxy Note10:**
+
+SM-N9700: Galaxy Note10
+
+**Galaxy Note10+:**
+
+SM-N9760: Galaxy Note10+ 5G
 
 ## Galaxy A 系列
 
