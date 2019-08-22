@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.08.22
+- `vivo` 新增 iQOO Pro & iQOO Pro 5G。
 ## 2019.08.21
 - `samsung` 新增 Galaxy Note10 系列。
 ## 2019.08.15
