@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190727
+# 小米手机型号汇总 20190829
 
 ## 小米手机
 
@@ -669,6 +669,22 @@ M1901F7I: Redmi Note 7 / Redmi Note 7S 印度版
 M1901F7BE: Redmi Note 7 Pro 全网通版
 
 M1901F7S: Redmi Note 7 Pro 印度版
+
+**[C3J] Redmi Note 8:**
+
+M1908C3JE: Redmi Note 8 全网通版
+
+M1908C3JC: Redmi Note 8 联通电信定制版
+
+M1908C3JG, M1908C3JH: Redmi Note 8 国际版
+
+**[G7] Redmi Note 8 Pro:**
+
+M1906G7E: Redmi Note 8 Pro 全网通版
+
+M1906G7T: Redmi Note 8 Pro 移动 4G+ 版
+
+M1906G7G: Redmi Note 8 Pro 国际版
 
 **[E6] 红米 S2 / 红米 Y2 (`ysl`):**
 

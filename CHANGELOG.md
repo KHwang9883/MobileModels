@@ -3,6 +3,7 @@
 - `honor` 新增荣耀 20S。
 - `huawei` 新增华为平板 M6 高能版。
 - `mitv` 新增 Redmi 红米电视 70 英寸。
+- `xiaomi` 新增 Redmi Note 8 系列（代号稍后补充）。
 ## 2019.08.22
 - `vivo` 新增 iQOO Pro & iQOO Pro 5G。
 ## 2019.08.21

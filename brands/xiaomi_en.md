@@ -654,6 +654,22 @@ M1901F7S: Redmi Note 7 Pro India
 
 M1901F7BE: Redmi Note 7 Pro China
 
+**[C3J] Redmi Note 8:**
+
+M1908C3JE: Redmi Note 8 China
+
+M1908C3JC: Redmi Note 8 China Unicom / China Telecom
+
+M1908C3JG, M1908C3JH: Redmi Note 8 Global
+
+**[G7] Redmi Note 8 Pro:**
+
+M1906G7E: Redmi Note 8 Pro China
+
+M1906G7T: Redmi Note 8 Pro China Mobile
+
+M1906G7G: Redmi Note 8 Pro Global
+
 **[E6] Redmi S2 / Redmi Y2 (`ysl`):**
 
 M1803E6G, M1803E6H: Redmi S2 Global

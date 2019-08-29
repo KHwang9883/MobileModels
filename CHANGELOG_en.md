@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.08.29
+- `xiaomi` Added Redmi Note 8 & Redmi Note 8 Pro (codenames will be added soon).
 ## 2019.08.13
 - `meizu_en` Added Meizu 16s Pro.
 ## 2019.07.27
