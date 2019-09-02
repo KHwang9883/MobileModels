@@ -662,7 +662,7 @@ M1908C3JC: Redmi Note 8 China Unicom / China Telecom
 
 M1908C3JG, M1908C3JH: Redmi Note 8 Global
 
-**[G7] Redmi Note 8 Pro:**
+**[G7] Redmi Note 8 Pro (`begonia`):**
 
 M1906G7E: Redmi Note 8 Pro China
 
