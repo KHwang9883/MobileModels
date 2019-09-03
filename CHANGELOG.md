@@ -1,5 +1,7 @@
 # 更新日志
 ## 2019.09.03
+- `honor` 新增部分产品代号。感谢 `[zhaozihanzzh](https://github.com/KHwang9883/MobileModels/issues/8)`
+- `huawei` 新增部分产品代号。感谢 `[zhaozihanzzh](https://github.com/KHwang9883/MobileModels/issues/8)`
 - `nubia` 新增红魔 3S（型号与红魔 3 相同）。
 ## 2019.09.02
 - `xiaomi` 更新 Redmi Note 8 Pro 代号。

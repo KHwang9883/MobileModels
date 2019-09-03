@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190829
+# 华为手机型号汇总 20190903
 
 ## HUAWEI Mate 系列
 
@@ -50,13 +50,13 @@ HUAWEI NXT-DL00: HUAWEI Mate 8 双 4G 版
 
 HUAWEI NXT-CL00: HUAWEI Mate 8 电信版
 
-**HUAWEI Mate 9:**
+**HUAWEI Mate 9 (`manhattan`):**
 
 MHA-AL00: HUAWEI Mate 9 全网通版
 
 MHA-TL00: HUAWEI Mate 9 移动 4G+ 版
 
-**HUAWEI Mate 9 Pro:**
+**HUAWEI Mate 9 Pro (`longland`):**
 
 LON-AL00: HUAWEI Mate 9 Pro
 
@@ -156,7 +156,7 @@ HUAWEI GRA-CL00: HUAWEI P8 电信标配版
 
 HUAWEI GRA-CL10: HUAWEI P8 电信高配版
 
-**HUAWEI P8 青春版:**
+**HUAWEI P8 青春版 (`alice`):**
 
 HUAWEI ALE-TL00: HUAWEI P8 青春版 移动版
 
