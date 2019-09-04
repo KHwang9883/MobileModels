@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.09.04
+- `xiaomi_en` Added Indian varient of Redmi Note 8.
 ## 2019.09.02
 - `xiaomi_en` Updated Redmi Note 8 Pro's codename.
 ## 2019.08.29
