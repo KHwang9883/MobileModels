@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.09.04
+- `honor` 新增荣耀 Play 3。
 - `xiaomi` 新增 Redmi Note 8 印度版。
 ## 2019.09.03
 - `honor` 新增部分产品代号。感谢 [zhaozihanzzh](https://github.com/KHwang9883/MobileModels/issues/8)
