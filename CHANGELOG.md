@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.09.05
+- `huawei` 新增华为畅享 10 Plus。
 ## 2019.09.04
 - `honor` 新增荣耀 Play 3。
 - `xiaomi` 新增 Redmi Note 8 印度版。
