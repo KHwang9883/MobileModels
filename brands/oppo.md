@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20190530
+# OPPO 手机型号汇总 20190910
 
 ## R 系列
 
@@ -63,6 +63,12 @@ PCCT00: OPPO Reno 10 倍变焦版 移动版
 PCDM10: OPPO Reno Z 全网通版
 
 PCDT10: OPPO Reno Z 移动版
+
+**OPPO Reno 2:**
+
+PCKM00: OPPO Reno 2 全网通版
+
+PCKT00: OPPO Reno 2 移动版
 
 ## A 系列
 
