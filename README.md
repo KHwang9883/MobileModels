@@ -28,11 +28,40 @@
 
 参见 [CHANGELOG.md](https://github.com/KHwang9883/MobileModels/blob/master/CHANGELOG.md)
 
-## 关于文档版
+## 许可
 
-**由于文档版无法在线预览，需保存到本地，随时可能过期，经慎重考虑，决定停止维护。**
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a> 进行许可。
 
-此仓库 markdown 版本**不受影响**。
+## 项目历史
+
+### 2019 年 7 月
+
+- 文档版停止维护。
+
+### 2019 年 4 月
+
+- 文档版迁移至 GitHub 直链下载。
+- 新增英文版。
+
+### 2019 年 3 月
+
+- 文档版迁移至微云。
+
+### 2018 年 11 月
+
+- 项目同步至 GitHub。
+
+### 2018 年 7 月
+
+- 由于小米社区帖子失效，「手机品牌型号汇总」项目公开发布，提供文档版百度网盘下载。
+
+### 2016 年 3 月
+
+- 小米手机型号汇总发布至 [小米社区](http://bbs.xiaomi.cn/t-12641411) （帖子已失效）。
+
+### 2016 年 2 月
+
+- 我开始汇总一些国内手机品牌的型号，「手机品牌型号汇总」的雏形诞生。
 
 ## 参考资料
 
@@ -65,10 +94,6 @@
 [SLASHLEAKS](http://www.slashleaks.com)
 
 以及各品牌官网、论坛、微博等，恕不一一列出
-
-## 许可
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a> 进行许可。
 
 ## 联系我
 
