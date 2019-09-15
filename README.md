@@ -69,7 +69,7 @@
 
 [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 
-[查询 - 中国无线电管理](http://www.srrc.org.cn/WP_Search.aspx)
+[无线电发射设备型号核准](https://zwfw.miit.gov.cn/miit/resultSearch?categoryTreeId=313)
 
 [产品库 - 天翼终端网](http://tydevice.com/cpk.jsp)
 

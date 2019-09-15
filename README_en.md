@@ -21,7 +21,7 @@ Collecting device names, models and internal codenames.
 
 [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 
-[State Radio Regulation of China](http://www.srrc.org.cn/WP_Search.aspx)
+[CMIIT ID](https://zwfw.miit.gov.cn/miit/resultSearch?categoryTreeId=313)
 
 [China Telecom Tianyi Devices](http://tydevice.com/cpk.jsp)
 
