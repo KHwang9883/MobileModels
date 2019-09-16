@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20190822
+# vivo 手机型号汇总 20190916
 
 ## X 系列
 
@@ -45,6 +45,18 @@ V1836T: vivo X27 Pro 移动全网通版
 V1821A: vivo NEX 双屏版 全网通版
 
 V1821T: vivo NEX 双屏版 移动全网通版
+
+**vivo NEX 3 (`PD1923`):**
+
+V1923A: vivo NEX 3 全网通版
+
+V1923T: vivo NEX 3 移动全网通版
+
+**vivo NEX 3 5G (`PD1924`):**
+
+V1924A: vivo NEX 3 5G 全网通版
+
+V1924T: vivo NEX 3 5G 移动全网通版
 
 ## Z 系列
 
@@ -113,6 +125,10 @@ V1732T: vivo Y81 移动全网通版
 V1732A: vivo Y81s 全网通版
 
 V1732T: vivo Y81s 移动全网通版
+
+**vivo Y89 (`PD1730E`):**
+
+V1730EA: vivo Y89 全网通版
 
 **vivo Y91 (`PD1818C`):**
 

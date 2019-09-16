@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.09.16
+- `vivo` 新增 NEX 3、vivo Y89。
 - `xiaomi` 新增小米 9 Lite 国际版。
 - `xiaomi` 更新 Redmi Note 8 代号。
 ## 2019.09.13
