@@ -1,10 +1,13 @@
 # CHANGELOG
+## 2019.09.16
+- `xiaomi_en` Global varient of Mi 9 Lite has been added.
+- `xiaomi_en` Redmi Note 8's codename has been added.
 ## 2019.09.04
 - `xiaomi_en` Added Indian varient of Redmi Note 8.
 ## 2019.09.02
 - `xiaomi_en` Updated Redmi Note 8 Pro's codename.
 ## 2019.08.29
-- `xiaomi_en` Added Redmi Note 8 & Redmi Note 8 Pro (codenames will be added soon).
+- `xiaomi_en` Added Redmi Note 8 & Redmi Note 8 Pro.
 ## 2019.08.13
 - `meizu_en` Added Meizu 16s Pro.
 ## 2019.07.27

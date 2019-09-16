@@ -166,6 +166,10 @@ M1903F10G: Mi 9T Global
 
 M1903F11G: Mi 9T Pro Global
 
+**[F3B] Mi 9 Lite (`pyxis`):**
+
+M1904F3BG: Mi 9 Lite Global
+
 **[X5] Mi Note (`virgo`):**
 
 2015011: Mi Note Global
@@ -654,7 +658,7 @@ M1901F7S: Redmi Note 7 Pro India
 
 M1901F7BE: Redmi Note 7 Pro China
 
-**[C3J] Redmi Note 8:**
+**[C3J] Redmi Note 8 (`ginkgo`):**
 
 M1908C3JG, M1908C3JH: Redmi Note 8 Global
 

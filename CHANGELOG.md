@@ -1,4 +1,7 @@
 # 更新日志
+## 2019.09.16
+- `xiaomi` 新增小米 9 Lite 国际版。
+- `xiaomi` 更新 Redmi Note 8 代号。
 ## 2019.09.13
 - `mitv` 新增小米全面屏电视 43 英寸 E43C。
 ## 2019.09.11
@@ -20,7 +23,7 @@
 - `honor` 新增荣耀 20S。
 - `huawei` 新增华为平板 M6 高能版。
 - `mitv` 新增 Redmi 红米电视 70 英寸。
-- `xiaomi` 新增 Redmi Note 8 系列（代号稍后补充）。
+- `xiaomi` 新增 Redmi Note 8 系列。
 ## 2019.08.22
 - `vivo` 新增 iQOO Pro & iQOO Pro 5G。
 ## 2019.08.21

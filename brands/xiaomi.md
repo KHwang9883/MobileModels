@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190904
+# 小米手机型号汇总 20190916
 
 ## 小米手机
 
@@ -167,6 +167,10 @@ M1903F10G: 小米 9T 国际版
 **[F11] 小米 9T Pro (`raphael`):**
 
 M1903F11G: 小米 9T Pro 国际版
+
+**[F3B] 小米 9 Lite (`pyxis`):**
+
+M1904F3BG: 小米 9 Lite 国际版
 
 **[X5] 小米 Note (`virgo`):**
 
@@ -670,7 +674,7 @@ M1901F7BE: Redmi Note 7 Pro 全网通版
 
 M1901F7S: Redmi Note 7 Pro 印度版
 
-**[C3J] Redmi Note 8:**
+**[C3J] Redmi Note 8 (`ginkgo`):**
 
 M1908C3JE: Redmi Note 8 全网通版
 
