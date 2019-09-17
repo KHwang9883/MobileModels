@@ -672,6 +672,8 @@ M1908C3JC: Redmi Note 8 China Unicom / China Telecom
 
 M1906G7G: Redmi Note 8 Pro Global
 
+M1906G7I: Redmi Note 8 Pro India
+
 M1906G7E: Redmi Note 8 Pro China
 
 M1906G7T: Redmi Note 8 Pro China Mobile

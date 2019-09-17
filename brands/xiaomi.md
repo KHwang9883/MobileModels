@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190916
+# 小米手机型号汇总 20190917
 
 ## 小米手机
 
@@ -691,6 +691,8 @@ M1906G7E: Redmi Note 8 Pro 全网通版
 M1906G7T: Redmi Note 8 Pro 移动 4G+ 版
 
 M1906G7G: Redmi Note 8 Pro 国际版
+
+M1906G7I: Redmi Note 8 Pro 印度版
 
 **[E6] 红米 S2 / 红米 Y2 (`ysl`):**
 

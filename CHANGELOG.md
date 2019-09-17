@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.09.17
 - `honor` 新增荣耀 Play 3e。
+- `xiaomi` 新增 Redmi Note 8 Pro 印度版。
 ## 2019.09.16
 - `vivo` 新增 NEX 3、vivo Y89。
 - `xiaomi` 新增小米 9 Lite 国际版。
