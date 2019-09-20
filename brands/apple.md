@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20190612
+# Apple 设备型号汇总 20190920
 
 ## 国行型号
 
@@ -136,6 +136,18 @@ A2108: iPhone XR (国行，双卡)
 
 A2107: iPhone XR (中国移动)
 
+**iPhone 11 (`iPhone12,1`):**
+
+A2223: iPhone 11 (国行)
+
+**iPhone 11 Pro (`iPhone12,3`):**
+
+A2217: iPhone 11 Pro (国行)
+
+**iPhone 11 Pro Max (`iPhone12,5`):**
+
+A2220: iPhone 11 Pro Max (国行)
+
 ### iPad
 
 **iPad (`iPad1,1`):**
@@ -191,6 +203,12 @@ A1893: iPad (第 6 代) (无线局域网)
 **iPad (第 6 代) (`iPad7,6`):**
 
 A1954: iPad (第 6 代) (无线局域网 + 蜂窝网络)
+
+**iPad (第 7 代):**
+
+A2197: iPad (第 7 代) (无线局域网)
+
+A2199: iPad (第 7 代) (无线局域网 + 蜂窝网络) (国行)
 
 ### iPad Air
 
@@ -400,6 +418,22 @@ A2007: Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
 
 A2008: Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
 
+**Apple Watch Series 5 (`Watch5,1`):**
+
+A2092: Apple Watch Series 5 (GPS) (40 毫米表壳)
+
+**Apple Watch Series 5 (`Watch5,2`):**
+
+A2093: Apple Watch Series 5 (GPS) (44 毫米表壳)
+
+**Apple Watch Series 5 (`Watch5,3`):**
+
+A2156: Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
+
+**Apple Watch Series 5 (`Watch5,4`):**
+
+A2157: Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
+
 ### iPod touch
 
 **iPod touch (`iPod1,1`):**
@@ -530,7 +564,7 @@ A1901: iPhone X (GSM)
 
 **iPhone XS (`iPhone11,2`):**
 
-A1920: iPhone XS (美国/港澳版)
+A1920: iPhone XS (北美/港澳)
 
 A2097: iPhone XS (GSM)
 
@@ -538,7 +572,7 @@ A2098: iPhone XS (日本)
 
 **iPhone XS Max (`iPhone11,6`):**
 
-A1921: iPhone XS Max (美国)
+A1921: iPhone XS Max (北美)
 
 A2101: iPhone XS Max (GSM)
 
@@ -546,11 +580,29 @@ A2102: iPhone XS Max (日本)
 
 **iPhone XR (`iPhone11,8`):**
 
-A1984: iPhone XR (美国)
+A1984: iPhone XR (北美)
 
 A2105: iPhone XR (GSM)
 
 A2106: iPhone XR (日本)
+
+**iPhone 11 (`iPhone12,1`):**
+
+A2111: iPhone 11 (北美)
+
+A2221: iPhone 11 (其他国家和地区)
+
+**iPhone 11 Pro (`iPhone12,3`):**
+
+A2160: iPhone 11 Pro (北美)
+
+A2215: iPhone 11 Pro (其他国家和地区)
+
+**iPhone 11 Pro Max (`iPhone12,5`):**
+
+A2161: iPhone 11 Pro Max (北美)
+
+A2218: iPhone 11 Pro Max (其他国家和地区)
 
 ### iPad
 
@@ -561,6 +613,10 @@ A1403: iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
 **iPad (第 4 代) (`iPad3,5`):**
 
 A1459: iPad (第 4 代) (无线局域网 + 蜂窝网络)
+
+**iPad (第 7 代):**
+
+A2198, A2200: iPad (第 7 代) (无线局域网 + 蜂窝网络)
 
 ### iPad Air
 
@@ -584,27 +640,19 @@ A1709: iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络)
 
 **iPad Pro (12.9 英寸, 第 3 代) (`iPad8,3`):**
 
-A1895: iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络)
-
-A2014: iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络) (北美)
+A1895, A2014: iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络)
 
 **iPad Pro (12.9 英寸, 第 3 代) (`iPad8,4`):**
 
-A1895: iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB)
-
-A2014: iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB) (北美)
+A1895, A2014: iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB)
 
 **iPad Pro (11 英寸) (`iPad8,7`):**
 
-A1934: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络)
-
-A2013: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络) (北美)
+A1934, A2013: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络)
 
 **iPad Pro (11 英寸) (`iPad8,8`):**
 
-A1934: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB)
-
-A2013: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB) (北美)
+A1934, A2013: iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB)
 
 ### iPad mini
 
@@ -637,6 +685,14 @@ A1975: Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
 **Apple Watch Series 4 (`Watch4,4`):**
 
 A1976: Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+
+**Apple Watch Series 5 (`Watch5,3`):**
+
+A2094: Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+
+**Apple Watch Series 5 (`Watch5,4`):**
+
+A2095: Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
 
 ### iPod touch
 

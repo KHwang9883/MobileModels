@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.09.20
+- `apple_en` Added products released in September 2019 event.
 ## 2019.09.17
 - `xiaomi_en` Added Indian varient of Redmi Note 8 Pro.
 ## 2019.09.16
