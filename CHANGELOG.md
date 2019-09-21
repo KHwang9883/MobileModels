@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.09.21
 - `huawei` 新增 HUAWEI Mate 30 5G。
+- `vivo` 新增 vivo U3x。
 ## 2019.09.20
 - `apple` 新增 2019 年 9 月发布的新品。
 - `oppo` 新增 OPPO A11x。
