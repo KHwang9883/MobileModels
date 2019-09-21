@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190919
+# 华为手机型号汇总 20190921
 
 ## HUAWEI Mate 系列
 
@@ -96,7 +96,7 @@ EVR-AL00: HUAWEI Mate 20 X 全网通版
 
 EVR-TL00: HUAWEI Mate 20 X 移动 4G+ 版
 
-EVR-AN00: HUAWEI Mate 20 X 5G 版
+EVR-AN00: HUAWEI Mate 20 X 5G
 
 **HUAWEI Mate 20 RS 保时捷设计 (`laya`):**
 
@@ -112,11 +112,19 @@ TAS-AL00: HUAWEI Mate 30 全网通版
 
 TAS-TL00: HUAWEI Mate 30 移动 4G+ 版
 
+TAS-AN00: HUAWEI Mate 30 5G
+
 **HUAWEI Mate 30 Pro:**
 
 LIO-AL00: HUAWEI Mate 30 Pro 全网通版
 
 LIO-TL00: HUAWEI Mate 30 Pro 移动 4G+ 版
+
+LIO-AN00: HUAWEI Mate 30 Pro 5G
+
+**HUAWEI Mate 30 RS 保时捷设计:**
+
+LIO-AN00P: HUAWEI Mate 30 RS 保时捷设计
 
 ## HUAWEI P 系列
 
