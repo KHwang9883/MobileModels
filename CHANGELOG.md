@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.09.24
+- `vivo` 新增 vivo U3x 移动全网通版。
 ## 2019.09.21
 - `huawei` 新增 HUAWEI Mate 30 5G。
 - `vivo` 新增 vivo U3x。
