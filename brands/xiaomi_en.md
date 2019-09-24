@@ -152,6 +152,10 @@ M1902F1T: Mi 9 China Mobile
 
 M1902F1C: Mi 9 China Unicom / China Telecom
 
+**[F1X] Mi 9 Pro:**
+
+M1908F1XE: Mi 9 Pro 5G China
+
 **[F2] Mi 9 SE (`grus`):**
 
 M1903F2G: Mi 9 SE Global
