@@ -178,7 +178,7 @@ A2101: iPhone XS Max (GSM)
 
 A2102: iPhone XS Max (Japan)
 
-A2104: iPhone XS Max (with dual nano-SIMs)
+A2104: iPhone XS Max (Dual nano-SIMs)
 
 A2103: iPhone XS Max (China Mobile)
 
@@ -190,7 +190,7 @@ A2105: iPhone XR (GSM)
 
 A2106: iPhone XR (Japan)
 
-A2108: iPhone XR (with Dual nano-SIMs)
+A2108: iPhone XR (Dual nano-SIMs)
 
 A2107: iPhone XR (China Mobile)
 
@@ -198,7 +198,7 @@ A2107: iPhone XR (China Mobile)
 
 A2111: iPhone 11 (North America)
 
-A2223: iPhone 11 (with dual nano-SIMs)
+A2223: iPhone 11 (Dual nano-SIMs)
 
 A2221: iPhone 11 (Rest of the world)
 
@@ -206,7 +206,7 @@ A2221: iPhone 11 (Rest of the world)
 
 A2160: iPhone 11 Pro (North America)
 
-A2217: iPhone 11 Pro (with dual nano-SIMs)
+A2217: iPhone 11 Pro (Dual nano-SIMs)
 
 A2215: iPhone 11 Pro (Rest of the world)
 
@@ -214,7 +214,7 @@ A2215: iPhone 11 Pro (Rest of the world)
 
 A2161: iPhone 11 Pro Max (North America)
 
-A2220: iPhone 11 Pro Max (with dual nano-SIMs)
+A2220: iPhone 11 Pro Max (Dual nano-SIMs)
 
 A2218: iPhone 11 Pro Max (Rest of the world)
 
@@ -282,9 +282,11 @@ A1893: iPad (6th generation) Wi-Fi
 
 A1954: iPad (6th generation) Wi-Fi + Cellular
 
-**iPad (7th generation):**
+**iPad (7th generation) (`iPad7,11`):**
 
 A2197: iPad (7th generation) Wi-Fi
+
+**iPad (7th generation) (`iPad7,12`):**
 
 A2198, A2200: iPad (7th generation) Wi-Fi + Cellular
 
