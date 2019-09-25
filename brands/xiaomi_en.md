@@ -530,6 +530,14 @@ M1903C3ET: Redmi 7A China Mobile
 
 M1903C3EC: Redmi 7A China Unicom / China Telecom
 
+**[C3K] Redmi 8A:**
+
+M1908C3KG, M1908C3KH: Redmi 8A Global
+
+M1908C3KI: Redmi 8A India
+
+M1908C3KE: Redmi 8A China
+
 **[H3W] Redmi Note (`lcsh92_wet_gb9`):**
 
 2014018: Redmi Note WCDMA 1GB

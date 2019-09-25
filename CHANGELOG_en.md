@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.09.25
+- `xiaomi_en` Added Redmi 8A (codename will be added soon).
 ## 2019.09.24
 - `xiaomi_en` Added Xiaomi Mi 9 Pro (codename will be added soon).
 ## 2019.09.20
