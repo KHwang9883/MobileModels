@@ -152,7 +152,7 @@ M1902F1T: Mi 9 China Mobile
 
 M1902F1C: Mi 9 China Unicom / China Telecom
 
-**[F1X] Mi 9 Pro:**
+**[F1X] Mi 9 Pro (`crux`):**
 
 M1908F1XE: Mi 9 Pro 5G China
 
