@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20190921
+# 华为手机型号汇总 20190927
 
 ## HUAWEI Mate 系列
 
@@ -112,7 +112,9 @@ TAS-AL00: HUAWEI Mate 30 全网通版
 
 TAS-TL00: HUAWEI Mate 30 移动 4G+ 版
 
-TAS-AN00: HUAWEI Mate 30 5G
+TAS-AN00: HUAWEI Mate 30 5G 全网通版
+
+TAS-TN00: HUAWEI Mate 30 5G 移动定制版
 
 **HUAWEI Mate 30 Pro:**
 
@@ -120,7 +122,9 @@ LIO-AL00: HUAWEI Mate 30 Pro 全网通版
 
 LIO-TL00: HUAWEI Mate 30 Pro 移动 4G+ 版
 
-LIO-AN00: HUAWEI Mate 30 Pro 5G
+LIO-AN00: HUAWEI Mate 30 Pro 5G 全网通版
+
+LIO-TN00: HUAWEI Mate 30 Pro 5G 移动定制版
 
 **HUAWEI Mate 30 RS 保时捷设计:**
 
@@ -420,8 +424,6 @@ SNE-AL00: HUAWEI 麦芒 7 全网通版
 
 POT-AL00, POT-AL10: HUAWEI 麦芒 8 全网通版
 
-POT-AL00a: HUAWEI 麦芒 8 全网通版 (麒麟 710F)
-
 ## 华为畅享系列
 
 **华为畅享 5:**
@@ -508,19 +510,25 @@ DRA-TL00: 华为畅享 8e 青春 移动 4G+ 版
 
 **华为畅享 9:**
 
-DUB-AL00, DUB-AL00a, DUB-AL20: 华为畅享 9 全网通版
+DUB-AL00, DUB-AL20: 华为畅享 9 全网通标配/高配版
 
-DUB-TL00, DUB-TL00a: 华为畅享 9 移动 4G+ 版
+DUB-AL00a: 华为畅享 9 全网通顶配版
+
+DUB-TL00: 华为畅享 9 移动 4G+ 标配/高配版
+
+DUB-TL00a: 华为畅享 9 移动 4G+ 顶配版
 
 **华为畅享 9 Plus (`jackman`):**
 
 JKM-AL00: 华为畅享 9 Plus 全网通版
 
-JKM-AL00a, JKM-AL00b: 华为畅享 9 Plus 全网通版 (麒麟 710F)
+JKM-AL00a: 华为畅享 9 Plus 全网通版 (4GB+64GB)
+
+JKM-AL00b: 华为畅享 9 Plus 全网通版 (麒麟 710F)
 
 JKM-TL00: 华为畅享 9 Plus 移动 4G+ 版
 
-**华为畅享 Max:**
+**华为畅享 Max (`ares`):**
 
 ARS-AL00: 华为畅享 Max 全网通版
 
@@ -528,11 +536,9 @@ ARS-TL00: 华为畅享 Max 移动 4G+ 版
 
 **华为畅享 9S:**
 
-POT-AL00: 华为畅享 9S 全网通版
+POT-AL00a: 华为畅享 9S 全网通版
 
-POT-AL00a: 华为畅享 9S 全网通版 (麒麟 710F)
-
-POT-TL00a: 华为畅享 9S 移动 4G+ 版 (麒麟 710F)
+POT-TL00a: 华为畅享 9S 移动 4G+ 版
 
 **华为畅享 9e (`madrid`):**
 
@@ -644,11 +650,13 @@ SCM-W09: 华为平板 M6 10.8 英寸 Wi-Fi 版
 
 SCM-AL09: 华为平板 M6 10.8 英寸 全网通版
 
-**华为平板 C3 (华为平板 T3 行业专享版):**
+**华为平板 C3 (华为平板 T3 行业专享版) (`kobe`):**
 
 BZK-W00: 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
 
 BZK-L00: 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 LTE 版
+
+**华为平板 C3 (华为平板 T3 行业专享版) (`agassi`):**
 
 BZA-W00: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
 
