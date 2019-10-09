@@ -1,11 +1,13 @@
 # CHANGELOG
+## 2019.10.09
+- `xiaomi_en` Added Redmi 8 (codename will be updated soon).
 ## 2019.09.27
 - `xiaomi_en` Updated Mi 9 Pro's codename.
 ## 2019.09.25
 - `apple_en` Updated internal name of iPad (7th generation).
-- `xiaomi_en` Added Redmi 8A (codename will be added soon).
+- `xiaomi_en` Added Redmi 8A (codename will be updated soon).
 ## 2019.09.24
-- `xiaomi_en` Added Xiaomi Mi 9 Pro (codename will be added soon).
+- `xiaomi_en` Added Xiaomi Mi 9 Pro.
 ## 2019.09.20
 - `apple_en` Added products released in September 2019 event.
 ## 2019.09.17

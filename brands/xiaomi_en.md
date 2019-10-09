@@ -530,6 +530,16 @@ M1903C3ET: Redmi 7A China Mobile
 
 M1903C3EC: Redmi 7A China Unicom / China Telecom
 
+**[C3I] Redmi 8:**
+
+M1908C3IG, M1908C3IH: Redmi 8 Global
+
+M1908C3II: Redmi 8 India
+
+M1908C3IE: Redmi 8 China
+
+M1908C3IC: Redmi 8 China Unicom / China Telecom
+
 **[C3K] Redmi 8A:**
 
 M1908C3KG, M1908C3KH: Redmi 8A Global

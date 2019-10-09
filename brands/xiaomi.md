@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20190927
+# 小米手机型号汇总 20191009
 
 ## 小米手机
 
@@ -539,6 +539,16 @@ M1903C3EC: Redmi 7A 联通电信定制版
 M1903C3EG, M1903C3EH: Redmi 7A 国际版
 
 M1903C3EI: Redmi 7A 印度版
+
+**[C3I] Redmi 8:**
+
+M1908C3IE: Redmi 8 全网通版
+
+M1908C3IC: Redmi 8 联通电信定制版
+
+M1908C3IG, M1908C3IH: Redmi 8 国际版
+
+M1908C3II: Redmi 8 印度版
 
 **[C3K] Redmi 8A:**
 
