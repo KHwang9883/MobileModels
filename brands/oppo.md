@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20190920
+# OPPO 手机型号汇总 20191010
 
 ## R 系列
 
@@ -70,6 +70,10 @@ PCKM00: OPPO Reno 2 全网通版
 
 PCKT00: OPPO Reno 2 移动版
 
+**OPPO Reno Ace:**
+
+PCLM10: OPPO Reno Ace 全网通版
+
 ## A 系列
 
 **OPPO A3:**
@@ -131,3 +135,9 @@ PBCM30: OPPO K1 全网通版
 PCGM00: OPPO K3 全网通版
 
 PCGT00: OPPO K3 移动版
+
+**OPPO K5:**
+
+PCNM00: OPPO K5 全网通版
+
+PCNT00: OPPO K5 移动版
