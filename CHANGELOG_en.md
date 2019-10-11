@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.10.11
+- `meizu_en` Added Meizu 16T.
 ## 2019.10.09
 - `xiaomi_en` Added Redmi 8 (codename will be updated soon).
 ## 2019.09.27
