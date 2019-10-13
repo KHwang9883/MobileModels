@@ -1,4 +1,7 @@
 # CHANGELOG
+## 2019.10.13
+- `oneplus_en` Added OnePlus 7T Series.
+- `oneplus_en` Fixed OnePlus 7 Pro's regional information.
 ## 2019.10.11
 - `meizu_en` Added Meizu 16T.
 ## 2019.10.09
