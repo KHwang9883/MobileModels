@@ -530,7 +530,7 @@ M1903C3ET: Redmi 7A China Mobile
 
 M1903C3EC: Redmi 7A China Unicom / China Telecom
 
-**[C3I] Redmi 8:**
+**[C3I] Redmi 8 (`olive`):**
 
 M1908C3IG, M1908C3IH: Redmi 8 Global
 
@@ -540,7 +540,7 @@ M1908C3IE: Redmi 8 China
 
 M1908C3IC: Redmi 8 China Unicom / China Telecom
 
-**[C3K] Redmi 8A:**
+**[C3K] Redmi 8A (`olivelite`):**
 
 M1908C3KG, M1908C3KH: Redmi 8A Global
 
@@ -743,6 +743,10 @@ M1903F11A: Redmi K20 Pro China
 M1903F11T: Redmi K20 Pro China Mobile
 
 M1903F11C: Redmi K20 Pro China Unicom / China Telecom
+
+**[F11] Redmi K20 Pro Premium Edition (`raphaels`):**
+
+M1903F11A: Redmi K20 Pro Premium Edition China
 
 **[C3G] Redmi Go (`tiare`):**
 

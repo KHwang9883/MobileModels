@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20191009
+# 小米手机型号汇总 20191015
 
 ## 小米手机
 
@@ -540,7 +540,7 @@ M1903C3EG, M1903C3EH: Redmi 7A 国际版
 
 M1903C3EI: Redmi 7A 印度版
 
-**[C3I] Redmi 8:**
+**[C3I] Redmi 8 (`olive`):**
 
 M1908C3IE: Redmi 8 全网通版
 
@@ -550,7 +550,7 @@ M1908C3IG, M1908C3IH: Redmi 8 国际版
 
 M1908C3II: Redmi 8 印度版
 
-**[C3K] Redmi 8A:**
+**[C3K] Redmi 8A (`olivelite`):**
 
 M1908C3KE: Redmi 8A 全网通版
 
@@ -759,6 +759,10 @@ M1903F11T: Redmi K20 Pro 移动 4G+ 版
 M1903F11C: Redmi K20 Pro 联通电信定制版
 
 M1903F11I: Redmi K20 Pro 印度版
+
+**[F11] Redmi K20 Pro 尊享版 (`raphaels`):**
+
+M1903F11A: Redmi K20 Pro 尊享版 全网通版
 
 **[C3G] Redmi Go (`tiare`):**
 

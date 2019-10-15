@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.10.15
+- `xiaomi_en` Updated Redmi 8 & Redmi 8A's codename.
 ## 2019.10.13
 - `oneplus_en` Added OnePlus 7T Series.
 - `oneplus_en` Fixed OnePlus 7 Pro's regional information.

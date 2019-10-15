@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.10.15
+- `xiaomi` 更新 Redmi 8 系列代号。
 ## 2019.10.14
 - `honor` 新增荣耀 20 青春版。
 - `huawei` 新增华为畅享 10。
@@ -10,7 +12,7 @@
 ## 2019.10.10
 - `oppo` 新增 OPPO Reno Ace、OPPO K5。
 ## 2019.10.09
-- `xiaomi` 新增 Redmi 8（代号待更新）。
+- `xiaomi` 新增 Redmi 8。
 ## 2019.10.01
 - `honor` 更新荣耀 9X 代号。
 ## 2019.09.29
@@ -20,7 +22,7 @@
 - `xiaomi` 更新小米 9 Pro 代号。
 ## 2019.09.25
 - `apple` 更新 iPad (第七代) 内部名称。
-- `xiaomi` 新增 Redmi 8A（代号待更新）。
+- `xiaomi` 新增 Redmi 8A。
 ## 2019.09.24
 - `mitv` 新增小米全面屏电视 Pro。
 - `vivo` 新增 vivo U3x 移动全网通版。
