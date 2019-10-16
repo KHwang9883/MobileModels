@@ -96,7 +96,7 @@ V1813T: vivo Z3i 标准版 移动全网通版
 
 V1730GA: vivo Z3x 全网通版
 
-**vivo Z5 (`PD1921`)::**
+**vivo Z5 (`PD1921`):**
 
 V1921A: vivo Z5 全网通版
 
