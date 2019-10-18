@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.10.18
+- `General` `realme_en` mobile phone models have been added.
 ## 2019.10.15
 - `xiaomi_en` Updated Redmi 8 & Redmi 8A's codename.
 ## 2019.10.13

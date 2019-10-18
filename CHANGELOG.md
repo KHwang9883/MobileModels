@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.10.18
+- `realme` 新增 realme 产品汇总。
 - `samsung` 新增三星 Galaxy A20s、Galaxy A90 5G、Galaxy M30s。
 ## 2019.10.17
 - `vivo` 新增 iQOO Neo 855 版。
