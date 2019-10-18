@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20190821
+# 三星手机型号汇总 20191018
 
 ## Galaxy S 系列
 
@@ -296,6 +296,10 @@ SM-G8870: Galaxy A8s
 
 SM-A9200: Galaxy A9s
 
+**Galaxy A20s:**
+
+SM-A2070: Galaxy A20s
+
 **Galaxy A40s:**
 
 SM-A3050: Galaxy A40s 全网通版
@@ -314,11 +318,21 @@ SM-A7050: Galaxy A70
 
 SM-A8050: Galaxy A80
 
+**Galaxy A90 5G:**
+
+SM-A9080: Galaxy A90 5G
+
 ## Galaxy Fold 系列
 
 **Galaxy Fold:**
 
 SM-F9000: Galaxy Fold
+
+## Galaxy M 系列
+
+**Galaxy M30s:**
+
+SM-M3070: Galaxy M30s
 
 ## Galaxy C 系列
 
