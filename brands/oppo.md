@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20191010
+# OPPO 手机型号汇总 20191019
 
 ## R 系列
 
@@ -117,6 +117,12 @@ PCAT10: OPPO A9 移动版
 PCEM00: OPPO A9x 全网通版
 
 PCET00: OPPO A9x 移动版
+
+**OPPO A11:**
+
+PCHM30: OPPO A11 全网通版
+
+PCHT30: OPPO A11 移动版
 
 **OPPO A11x:**
 

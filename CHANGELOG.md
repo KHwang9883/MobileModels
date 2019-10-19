@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.10.19
+- `oppo` 新增 OPPO A11。
 - `vivo` 新增 vivo U3。
 ## 2019.10.18
 - `realme` 新增 realme 产品汇总。
