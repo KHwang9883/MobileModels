@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.10.21
+- `huawei` 新增 HUAWEI nova 5z。
 ## 2019.10.19
 - `oppo` 新增 OPPO A11。
 - `vivo` 新增 vivo U3。
