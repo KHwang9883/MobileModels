@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.10.21
 - `huawei` 新增 HUAWEI nova 5z。
+- `oppo` 新增 OPPO Reno2 Z。
 ## 2019.10.19
 - `oppo` 新增 OPPO A11。
 - `vivo` 新增 vivo U3。
@@ -60,7 +61,7 @@
 ## 2019.09.11
 - `全局` 新增项目历史。
 ## 2019.09.10
-- `oppo` 新增 OPPO Reno 2。
+- `oppo` 新增 OPPO Reno2。
 ## 2019.09.05
 - `huawei` 新增华为畅享 10 Plus。
 ## 2019.09.04
