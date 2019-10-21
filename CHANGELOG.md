@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.10.21
 - `huawei` 新增 HUAWEI nova 5z。
+- `mitv` 新增小米全面屏电视 E55X。
 - `oppo` 新增 OPPO Reno2 Z。
 ## 2019.10.19
 - `oppo` 新增 OPPO A11。
