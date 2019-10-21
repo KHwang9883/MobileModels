@@ -6,12 +6,12 @@
 
 | 分支 | 品牌 | 汇总范围 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen) |
+| [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen)；**已停更** |
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch、Apple Watch | 国行、非国行机型分别汇总；附有产品代号 |
 | [honor](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor.md) | 荣耀 (HONOR) | 全部机型 | 仅国行；部分机型附有 codename |
 | [huawei](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate 系列、P 系列、nova 系列、G 系列、麦芒系列、畅享系列、平板电脑系列及部分早期产品 | 仅国行；部分机型附有 codename |
 | [lenovo](https://github.com/KHwang9883/MobileModels/blob/master/brands/lenovo.md) | 联想 (Lenovo) | 2017 年起上市的机型 | 仅国行 |
-| [letv](https://github.com/KHwang9883/MobileModels/blob/master/brands/letv.md) | 乐视 (Letv) | 全部机型 | 仅国行 |
+| [letv](https://github.com/KHwang9883/MobileModels/blob/master/brands/letv.md) | 乐视 (Letv) | 全部机型 | **已停更** |
 | [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | 附有 codename |
 | [mitv](https://github.com/KHwang9883/MobileModels/blob/master/brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视、小米盒子 | 含国际版小米电视与小米盒子（可能不全） |
 | [motorola](https://github.com/KHwang9883/MobileModels/blob/master/brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | 仅国行 |
