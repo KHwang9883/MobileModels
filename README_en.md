@@ -24,7 +24,7 @@ Collecting device names, models and internal codenames.
 
 [CMIIT ID](https://zwfw.miit.gov.cn/miit/resultSearch?categoryTreeId=313)
 
-[China Telecom Tianyi Devices](http://tydevice.com/cpk.jsp)
+[China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
 
 [Wi-Fi Alliance](https://www.wi-fi.org)
 
