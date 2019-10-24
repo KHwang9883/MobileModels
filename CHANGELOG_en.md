@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.10.24
+- `xiaomi_en` Error fix.
 ## 2019.10.18
 - `General` `realme_en` mobile phone models have been added.
 ## 2019.10.15

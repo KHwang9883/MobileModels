@@ -232,10 +232,6 @@ M1810E5A: Mi MIX 3 Global
 
 M1810E5E: Mi MIX 3 China
 
-M1810E5T: Mi MIX 3 China Mobile
-
-M1810E5EC: Mi MIX 3 China Unicom / China Telecom
-
 **[E5G] Mi MIX 3 5G (`andromeda`):**
 
 M1810E5GG: Mi MIX 3 5G Global
@@ -327,8 +323,6 @@ M1806D9W: Mi Pad 4 Wi-Fi
 M1806D9E: Mi Pad 4 LTE
 
 **[D9P] Mi Pad 4 Plus (`clover`):**
-
-M1806D9PW: Mi Pad 4 Plus Wi-Fi
 
 M1806D9PE: Mi Pad 4 Plus LTE
 
@@ -514,9 +508,7 @@ M1810F6LI: Redmi 7 India
 
 M1810F6LE: Redmi 7 China
 
-M1810F6LT: Redmi 7 China Mobile
-
-M1810F6LC: Redmi 7 China Unicom / China Telecom
+M1810F6LT: Redmi 7 Chinese Carrier Version
 
 **[C3E] Redmi 7A (`pine`):**
 
@@ -538,7 +530,7 @@ M1908C3II: Redmi 8 India
 
 M1908C3IE: Redmi 8 China
 
-M1908C3IC: Redmi 8 China Unicom / China Telecom
+M1908C3IC: Redmi 8 Chinese Carrier Version
 
 **[C3K] Redmi 8A (`olivelite`):**
 
@@ -688,9 +680,9 @@ M1908C3JI: Redmi Note 8 India
 
 M1908C3JE: Redmi Note 8 China
 
-M1908C3JC: Redmi Note 8 China Unicom / China Telecom
+M1908C3JC: Redmi Note 8 Chinese Carrier Version
 
-**[G7] Redmi Note 8 Pro (`begonia`):**
+**[G7A] Redmi Note 8 Pro (`begonia`):**
 
 M1906G7G: Redmi Note 8 Pro Global
 
@@ -698,7 +690,7 @@ M1906G7I: Redmi Note 8 Pro India
 
 M1906G7E: Redmi Note 8 Pro China
 
-M1906G7T: Redmi Note 8 Pro China Mobile
+M1906G7T: Redmi Note 8 Pro Chinese Carrier Version
 
 **[E6] Redmi S2 / Redmi Y2 (`ysl`):**
 
@@ -730,9 +722,7 @@ M1903F10I: Redmi K20 India
 
 M1903F10A: Redmi K20 China
 
-M1903F10T: Redmi K20 China Mobile
-
-M1903F10C: Redmi K20 China Unicom / China Telecom
+M1903F10C: Redmi K20 Chinese Carrier Version
 
 **[F11] Redmi K20 Pro (`raphael`):**
 
@@ -740,9 +730,7 @@ M1903F11I: Redmi K20 Pro India
 
 M1903F11A: Redmi K20 Pro China
 
-M1903F11T: Redmi K20 Pro China Mobile
-
-M1903F11C: Redmi K20 Pro China Unicom / China Telecom
+M1903F11C: Redmi K20 Pro Chinese Carrier Version
 
 **[F11] Redmi K20 Pro Premium Edition (`raphaels`):**
 

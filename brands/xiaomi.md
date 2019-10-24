@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20191015
+# 小米手机型号汇总 20191024
 
 ## 小米手机
 
@@ -238,10 +238,6 @@ M1810E5E: 小米 MIX 3 全网通版
 
 M1810E5A: 小米 MIX 3 全网通版 (全球频段)
 
-M1810E5T: 小米 MIX 3 移动 4G+ 版
-
-M1810E5EC: 小米 MIX 3 联通电信定制版
-
 **[E5G] 小米 MIX 3 5G (`andromeda`):**
 
 M1810E5GG: 小米 MIX 3 5G 国际版
@@ -333,8 +329,6 @@ M1806D9W: 小米平板 4 Wi-Fi 版
 M1806D9E: 小米平板 4 LTE 版
 
 **[D9P] 小米平板 4 Plus (`clover`):**
-
-M1806D9PW: 小米平板 4 Plus Wi-Fi 版
 
 M1806D9PE: 小米平板 4 Plus LTE 版
 
@@ -520,9 +514,7 @@ M1804C3CI: 红米 6A 印度版
 
 M1810F6LE: Redmi 7 全网通版
 
-M1810F6LT: Redmi 7 移动 4G+ 版
-
-M1810F6LC: Redmi 7 联通电信定制版
+M1810F6LT: Redmi 7 运营商全网通版
 
 M1810F6LG, M1810F6LH: Redmi 7 国际版
 
@@ -544,7 +536,7 @@ M1903C3EI: Redmi 7A 印度版
 
 M1908C3IE: Redmi 8 全网通版
 
-M1908C3IC: Redmi 8 联通电信定制版
+M1908C3IC: Redmi 8 运营商全网通版
 
 M1908C3IG, M1908C3IH: Redmi 8 国际版
 
@@ -700,17 +692,17 @@ M1901F7S: Redmi Note 7 Pro 印度版
 
 M1908C3JE: Redmi Note 8 全网通版
 
-M1908C3JC: Redmi Note 8 联通电信定制版
+M1908C3JC: Redmi Note 8 运营商全网通版
 
 M1908C3JG, M1908C3JH: Redmi Note 8 国际版
 
 M1908C3JI: Redmi Note 8 印度版
 
-**[G7] Redmi Note 8 Pro (`begonia`):**
+**[G7A] Redmi Note 8 Pro (`begonia`):**
 
 M1906G7E: Redmi Note 8 Pro 全网通版
 
-M1906G7T: Redmi Note 8 Pro 移动 4G+ 版
+M1906G7T: Redmi Note 8 Pro 运营商全网通版
 
 M1906G7G: Redmi Note 8 Pro 国际版
 
@@ -744,9 +736,7 @@ M1810F6I: Redmi Y3 印度版
 
 M1903F10A: Redmi K20 全网通版
 
-M1903F10T: Redmi K20 移动 4G+ 版
-
-M1903F10C: Redmi K20 联通电信定制版
+M1903F10C: Redmi K20 运营商全网通版
 
 M1903F10I: Redmi K20 印度版
 
@@ -754,9 +744,7 @@ M1903F10I: Redmi K20 印度版
 
 M1903F11A: Redmi K20 Pro 全网通版
 
-M1903F11T: Redmi K20 Pro 移动 4G+ 版
-
-M1903F11C: Redmi K20 Pro 联通电信定制版
+M1903F11C: Redmi K20 Pro 运营商全网通版
 
 M1903F11I: Redmi K20 Pro 印度版
 
