@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20191018
+# 三星手机型号汇总 20191025
 
 ## Galaxy S 系列
 
@@ -306,6 +306,10 @@ SM-A3050: Galaxy A40s 全网通版
 
 SM-A3058: Galaxy A40s 4G+
 
+**Galaxy A50s:**
+
+SM-A5070: Galaxy A50s
+
 **Galaxy A60:**
 
 SM-A6060: Galaxy A60
@@ -313,6 +317,10 @@ SM-A6060: Galaxy A60
 **Galaxy A70:**
 
 SM-A7050: Galaxy A70
+
+**Galaxy A70s:**
+
+SM-A7070: Galaxy A70s
 
 **Galaxy A80:**
 
