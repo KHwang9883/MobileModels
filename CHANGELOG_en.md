@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.10.30
+- `xiaomi_en` Added Xiaomi Mi CC 9 Pro (codename will be updated soon).
 ## 2019.10.24
 - `xiaomi_en` Error fix.
 ## 2019.10.18
@@ -11,12 +13,12 @@
 ## 2019.10.11
 - `meizu_en` Added Meizu 16T.
 ## 2019.10.09
-- `xiaomi_en` Added Redmi 8 (codename will be updated soon).
+- `xiaomi_en` Added Redmi 8.
 ## 2019.09.27
 - `xiaomi_en` Updated Mi 9 Pro's codename.
 ## 2019.09.25
 - `apple_en` Updated internal name of iPad (7th generation).
-- `xiaomi_en` Added Redmi 8A (codename will be updated soon).
+- `xiaomi_en` Added Redmi 8A.
 ## 2019.09.24
 - `xiaomi_en` Added Xiaomi Mi 9 Pro.
 ## 2019.09.20

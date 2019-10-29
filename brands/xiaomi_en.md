@@ -234,7 +234,7 @@ M1810E5E: Mi MIX 3 China
 
 **[E5G] Mi MIX 3 5G (`andromeda`):**
 
-M1810E5GG: Mi MIX 3 5G Global
+M1810E5GG: Mi MIX 3 5G
 
 **[B3] Mi Max (`hydrogen`):**
 
@@ -273,6 +273,10 @@ M1904F3BT: Mi CC 9 Meitu Edition
 **[F9S] Mi CC 9e (`laurus`):**
 
 M1906F9SC: Mi CC 9e China
+
+**[F4] Mi CC 9 Pro:**
+
+M1910F4E: Mi CC 9 Pro China
 
 **[F9] Mi Play (`lotus`):**
 
