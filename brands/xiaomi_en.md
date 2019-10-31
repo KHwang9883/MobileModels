@@ -204,6 +204,10 @@ MCE8: Mi Note 3
 
 MCT8: Mi Note 3 China Mobile
 
+**[F4] Mi Note 10 (`tucana`):**
+
+M1910F4G: Mi Note 10 Global
+
 **[A8] Mi MIX (`lithium`):**
 
 2016080: Mi MIX
@@ -274,7 +278,7 @@ M1904F3BT: Mi CC 9 Meitu Edition
 
 M1906F9SC: Mi CC 9e China
 
-**[F4] Mi CC 9 Pro:**
+**[F4] Mi CC 9 Pro (`tucana`):**
 
 M1910F4E: Mi CC 9 Pro China
 

@@ -1,6 +1,8 @@
 # 更新日志
+## 2019.10.31
+- `xiaomi` 新增小米 Note 10 国际版。
 ## 2019.10.30
-- `xiaomi` 新增小米 CC9 Pro（代号待更新）。
+- `xiaomi` 新增小米 CC9 Pro。
 ## 2019.10.25
 - `huawei` 新增华为畅享 10S。
 - `samsung` 新增三星 Galaxy A50s、Galaxy A70s。

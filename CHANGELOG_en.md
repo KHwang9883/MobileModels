@@ -1,6 +1,8 @@
 # CHANGELOG
+## 2019.10.31
+- `xiaomi_en` Added Xiaomi Mi Note 10.
 ## 2019.10.30
-- `xiaomi_en` Added Xiaomi Mi CC 9 Pro (codename will be updated soon).
+- `xiaomi_en` Added Xiaomi Mi CC 9 Pro.
 ## 2019.10.24
 - `xiaomi_en` Error fix.
 ## 2019.10.18
