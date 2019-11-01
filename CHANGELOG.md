@@ -1,6 +1,8 @@
 # 更新日志
+## 2019.11.01
+- `smartisan` 更新坚果 Pro 3 版本信息与代号。
 ## 2019.10.31
-- `smartisan` 新增坚果 Pro 3（版本信息待更新）。
+- `smartisan` 新增坚果 Pro 3。
 - `xiaomi` 新增小米 Note 10 国际版。
 ## 2019.10.30
 - `xiaomi` 新增小米 CC9 Pro。
