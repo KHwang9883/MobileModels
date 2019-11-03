@@ -52,4 +52,4 @@ Collecting device names, models and internal codenames.
 
 ## Contact
 
-Weibo **[@KHwang9883](https://weibo.com/huangyf9883)**
+Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues).
