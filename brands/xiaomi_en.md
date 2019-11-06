@@ -690,6 +690,10 @@ M1908C3JE: Redmi Note 8 China
 
 M1908C3JC: Redmi Note 8 Chinese Carrier Version
 
+**[`C3X`] Redmi Note 8T:**
+
+M1908C3XG: Redmi Note 8T Global
+
 **[`G7A`] Redmi Note 8 Pro (`begonia`):**
 
 M1906G7G: Redmi Note 8 Pro Global

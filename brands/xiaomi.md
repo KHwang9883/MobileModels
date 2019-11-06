@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20191104
+# 小米手机型号汇总 20191106
 
 ## 小米手机
 
@@ -705,6 +705,10 @@ M1908C3JC: Redmi Note 8 运营商全网通版
 M1908C3JG, M1908C3JH: Redmi Note 8 国际版
 
 M1908C3JI: Redmi Note 8 印度版
+
+**[`C3X`] Redmi Note 8T:**
+
+M1908C3XG: Redmi Note 8T 国际版
 
 **[`G7A`] Redmi Note 8 Pro (`begonia`):**
 

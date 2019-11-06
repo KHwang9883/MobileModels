@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.11.06
+- `xiaomi_en` Added Redmi Note 8T (codename will be updated soon).
 ## 2019.10.31
 - `xiaomi_en` Added Xiaomi Mi Note 10.
 ## 2019.10.30
