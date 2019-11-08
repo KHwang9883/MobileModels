@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.11.08
+- `vivo` 新增 vivo Z5i。
 ## 2019.11.06
 - `xiaomi` 新增 Redmi Note 8T 国际版（codename 稍后补充）。
 ## 2019.11.05
