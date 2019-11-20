@@ -30,16 +30,6 @@ SCH-I879E: Galaxy Grand Neo+ 电信定制版
 
 SCH-P709E: Galaxy Mega Plus 电信定制版
 
-SCH-W2013: 心系天下 W2013 
-
-SCH-W699: 心系天下 W699
-
-SCH-W799: 心系天下 W799
-
-SCH-W899: 心系天下 W899
-
-SCH-W999: 心系天下 W999
-
 SM-C1116: Galaxy K zoom 联通定制版
 
 SM-C1158: Galaxy K zoom 移动定制版
@@ -127,15 +117,3 @@ SM-G9098: 领世旗舰
 SM-G9198: 领世旗舰Ⅲ
 
 SM-G9298: 领世旗舰 8
-
-SM-W2014: 心系天下 W2014
-
-SM-W2015: 心系天下 W2015
-
-SM-W2016: 心系天下 W2016
-
-SM-W2017: 心系天下 W2017
-
-SM-W2018: 心系天下 W2018
-
-SM-W2019: 心系天下 W2019
