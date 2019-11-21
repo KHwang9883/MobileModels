@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20190925
+# Apple 设备型号汇总 20191122
 
 ## 国行型号
 
@@ -140,13 +140,19 @@ A2107: iPhone XR (中国移动)
 
 A2223: iPhone 11 (国行)
 
+A2222: iPhone 11 (中国移动)
+
 **iPhone 11 Pro (`iPhone12,3`):**
 
 A2217: iPhone 11 Pro (国行)
 
+A2216: iPhone 11 Pro (中国移动)
+
 **iPhone 11 Pro Max (`iPhone12,5`):**
 
 A2220: iPhone 11 Pro Max (国行)
+
+A2219: iPhone 11 Pro Max (中国移动)
 
 ### iPad
 
