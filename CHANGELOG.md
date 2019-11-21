@@ -2,6 +2,7 @@
 ## 2019.11.22
 - `apple` 新增 iPhone 11 系列中国移动版本。
 - `oppo` 新增 OPPO A11n。
+- `realme` 新增 realme 5s、realme X2 国际版。
 - `vivo` 新增 vivo Y9s。
 ## 2019.11.20
 - `samsung` 新增三星心系天下系列。
