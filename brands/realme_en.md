@@ -1,6 +1,6 @@
 # realme Mobile Phone Models
 
-## Indian products
+## Global products
 
 **realme 1:**
 
@@ -30,6 +30,10 @@ RMX1851: realme 3 Pro
 
 RMX1911: realme 5
 
+**realme 5s:**
+
+RMX1925: realme 5s
+
 **realme 5 Pro:**
 
 RMX1971: realme 5 Pro
@@ -42,9 +46,13 @@ RMX1901: realme X
 
 RMX1921: realme XT
 
-**realme XT 730G:**
+**realme X2:**
 
-RMX1991: realme XT 730G
+RMX1993: realme X2
+
+**realme X2 Pro:**
+
+RMX1931: realme X2 Pro
 
 **realme C1:**
 
