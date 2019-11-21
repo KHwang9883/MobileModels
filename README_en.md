@@ -9,7 +9,7 @@ Collecting device names, models and internal codenames.
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
 | [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu_en.md) | Meizu | All models |
 | [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus_en.md) | OnePlus | All models |
-| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme_en.md) | realme | Indian and Chinese models |
+| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme_en.md) | realme | All models |
 | [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi Phones, Redmi Phones, POCOPHONE and Black Shark |
 
 ## Changelog
