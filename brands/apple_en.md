@@ -202,6 +202,8 @@ A2223: iPhone 11 (Dual nano-SIMs)
 
 A2221: iPhone 11 (Rest of the world)
 
+A2222: iPhone 11 (China Mobile)
+
 **iPhone 11 Pro (`iPhone12,3`):**
 
 A2160: iPhone 11 Pro (North America)
@@ -210,6 +212,8 @@ A2217: iPhone 11 Pro (Dual nano-SIMs)
 
 A2215: iPhone 11 Pro (Rest of the world)
 
+A2216: iPhone 11 Pro (China Mobile)
+
 **iPhone 11 Pro Max (`iPhone12,5`):**
 
 A2161: iPhone 11 Pro Max (North America)
@@ -217,6 +221,8 @@ A2161: iPhone 11 Pro Max (North America)
 A2220: iPhone 11 Pro Max (Dual nano-SIMs)
 
 A2218: iPhone 11 Pro Max (Rest of the world)
+
+A2219: iPhone 11 Pro Max (China Mobile)
 
 ## iPad
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.11.22
+- `apple_en` China Mobile version of iPhone 11 has been added.
 ## 2019.11.06
 - `xiaomi_en` Added Redmi Note 8T (codename will be updated soon).
 ## 2019.10.31
