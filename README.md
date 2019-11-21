@@ -19,7 +19,7 @@
 | [nubia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nubia.md) | 努比亚 (nubia) | 全部机型 | 仅国行 |
 | [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | 附有 codename |
 | [oppo](https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | 仅国行 |
-| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme.md) | realme | 全部机型 | 国际版机型仅印度 |
+| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme.md) | realme | 全部机型 | -- |
 | [samsung](https://github.com/KHwang9883/MobileModels/blob/master/brands/samsung.md) | 三星 (Samsung) | Galaxy S、Note、A、Fold、M、C、J、On、心系天下系列以及个别其他机型 | 仅国行，不含部分早期中低端系列 |
 | [smartisan](https://github.com/KHwang9883/MobileModels/blob/master/brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | 附有 codename |
 | [vivo](https://github.com/KHwang9883/MobileModels/blob/master/brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | 仅国行 |
