@@ -4,6 +4,7 @@
 - `oppo` 新增 OPPO A11n。
 - `realme` 新增 realme 5s、realme X2 国际版。
 - `vivo` 新增 vivo Y9s。
+- `xiaomi` 更新 Redmi Note 8T codename。
 ## 2019.11.20
 - `samsung` 新增三星心系天下系列。
 ## 2019.11.14
@@ -14,7 +15,7 @@
 ## 2019.11.08
 - `vivo` 新增 vivo Z5i。
 ## 2019.11.06
-- `xiaomi` 新增 Redmi Note 8T 国际版（codename 稍后补充）。
+- `xiaomi` 新增 Redmi Note 8T 国际版。
 ## 2019.11.05
 - `mitv` 新增小米电视 5 系列。
 ## 2019.11.04
