@@ -1,5 +1,6 @@
 # 更新日志
 ## 2019.11.23
+- `honor` 新增荣耀 MagicBook 笔记本机型。
 - `huawei` 新增 HUAWEI MateBook 笔记本机型。
 - `lenovo` 新增 ZUK 机型。
 ## 2019.11.22

@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20191114
+# 荣耀手机型号汇总 20191123
 
 ## 荣耀 N 系列 (数字系列)
 
@@ -545,3 +545,69 @@ AGS-L09: 荣耀畅玩平板 2 9.6 英寸 LTE 版
 **荣耀畅玩平板 2 (`baggio2`):**
 
 BG2-W09: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
+
+## 荣耀 MagicBook
+
+**荣耀 MagicBook:**
+
+VLT-W50: 荣耀 MagicBook i5
+
+VLT-W60: 荣耀 MagicBook i7
+
+**荣耀 MagicBook 锐龙版:**
+
+KPL-W00: 荣耀 MagicBook 锐龙版
+
+**荣耀 MagicBook 2019:**
+
+VLR-W09: 荣耀 MagicBook 2019 i3
+
+VLR-W19: 荣耀 MagicBook 2019 i5
+
+VLR-W29: 荣耀 MagicBook 2019 i7
+
+**荣耀 MagicBook 2019 科技尝鲜版:**
+
+VLR-W09L: 荣耀 MagicBook 2019 科技尝鲜版 i3
+
+VLR-W19L: 荣耀 MagicBook 2019 科技尝鲜版 i5
+
+VLR-W19LP: 荣耀 MagicBook 2019 科技尝鲜版 i5 (16GB+512GB)
+
+VLR-W29L: 荣耀 MagicBook 2019 科技尝鲜版 i7
+
+**荣耀 MagicBook 2019 锐龙版:**
+
+KPR-W19: 荣耀 MagicBook 2019 锐龙版 R5
+
+KPR-W29: 荣耀 MagicBook 2019 锐龙版 R7
+
+**荣耀 MagicBook 2019 锐龙版 科技尝鲜版:**
+
+KPRC-W10L: 荣耀 MagicBook 2019 科技尝鲜版 R5
+
+KPRC-W20L: 荣耀 MagicBook 2019 科技尝鲜版 R7
+
+**荣耀 MagicBook Pro:**
+
+HBL-W19: 荣耀 MagicBook Pro i5
+
+HBL-W29: 荣耀 MagicBook Pro i7
+
+HLY-W19R: 荣耀 MagicBook Pro R5
+
+HLY-W19RP: 荣耀 MagicBook Pro R5 (16GB+512GB)
+
+HLY-W29R: 荣耀 MagicBook Pro R7
+
+**荣耀 MagicBook Pro 科技尝鲜版:**
+
+HBL-W19L: 荣耀 MagicBook Pro 科技尝鲜版 i5
+
+HBL-W29L: 荣耀 MagicBook Pro 科技尝鲜版 i7
+
+HLY-W19RL: 荣耀 MagicBook Pro 科技尝鲜版 R5
+
+HLY-W19RLP: 荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB)
+
+HLY-W29RL: 荣耀 MagicBook Pro 科技尝鲜版 R7
