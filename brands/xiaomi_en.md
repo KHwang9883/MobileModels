@@ -208,6 +208,8 @@ MCT8: Mi Note 3 China Mobile
 
 M1910F4G: Mi Note 10 Global
 
+M1910F4S: Mi Note 10 Pro Global
+
 **[`A8`] Mi MIX (`lithium`):**
 
 2016080: Mi MIX

@@ -1,10 +1,12 @@
 # CHANGELOG
+## 2019.11.23
+- `xiaomi_en` Added Mi Note 10 Pro.
 ## 2019.11.22
 - `apple_en` China Mobile version of iPhone 11 has been added.
 - `realme_en` Added realme 5s & realme X2 global version.
 - `xiaomi_en` Updated Redmi Note 8T's codename.
 ## 2019.11.06
-- `xiaomi_en` Added Redmi Note 8T (codename will be updated soon).
+- `xiaomi_en` Added Redmi Note 8T.
 ## 2019.10.31
 - `xiaomi_en` Added Xiaomi Mi Note 10.
 ## 2019.10.30
