@@ -3,6 +3,7 @@
 - `honor` 新增荣耀 MagicBook 笔记本机型。
 - `huawei` 新增 HUAWEI MateBook 笔记本机型。
 - `lenovo` 新增 ZUK 机型。
+- `mitv` 更新小米电视国际版型号。
 ## 2019.11.22
 - `apple` 新增 iPhone 11 系列中国移动版本。
 - `oppo` 新增 OPPO A11n。

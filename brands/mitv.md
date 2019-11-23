@@ -1,4 +1,4 @@
-# 小米电视型号汇总 20191114
+# 小米电视型号汇总 20191123
 
 ## 国内产品
 
@@ -238,33 +238,65 @@ MDZ-20-AA: 小米盒子 4c
 
 MDZ-23-AA: 小米盒子 4 SE
 
-## 国际产品
+## 印度产品
 
-**Mi LED Smart TV (印度):**
+**Mi TV 4A:**
 
 L32M5-AI: Mi LED Smart TV 4A 32
 
+L40M5-5AIN: Mi LED Smart TV 4A 40
+
 L43M5-AI: Mi LED Smart TV 4A 43
 
-L55M5-AI: Mi LED Smart TV 4 55
-
 L32M5-AL: Mi LED Smart TV 4A Pro 32
-
-L32M5-AN: Mi LED Smart TV 4C Pro 32
 
 L43M5-AN: Mi LED Smart TV 4A Pro 43
 
 L49M5-AN: Mi LED Smart TV 4A Pro 49
 
+**Mi TV 4:**
+
+L55M5-AI: Mi LED Smart TV 4 55
+
 L55M5-AN: Mi LED Smart TV 4 Pro 55
 
+**Mi TV 4C:**
+
+L32M5-AN: Mi LED Smart TV 4C Pro 32
+
+**Mi TV 4X:**
+
+L43M4-4AIN: Mi TV 4X 43
+
+L50M5-5AIN: Mi TV 4X 50
+
 L55M4-4XINA: Mi LED Smart TV 4X Pro 55
+
+L65M5-5SIN: Mi TV 4X 65
+
+## 国际产品
 
 **Mi TV (印度尼西亚):**
 
 L32M5-AN: Mi TV 4A 32
 
 L43M5-AN: Mi TV 4A 43
+
+**Mi TV (俄罗斯):**
+
+L32M5-5ARU: Mi TV 4A 32
+
+L43M5-5ARU: Mi TV 4S 43
+
+L55M5-5ARU: Mi TV 4S 55
+
+**Mi TV (其他地区):**
+
+L32M5-5ASP: Mi TV 4A 32
+
+L43M5-5ASP: Mi TV 4S 43
+
+L55M5-5ASP: Mi TV 4S 55
 
 **Mi Box (国际版):**
 
