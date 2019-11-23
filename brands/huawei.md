@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20191114
+# 华为手机型号汇总 20191123
 
 ## HUAWEI Mate 系列
 
@@ -691,6 +691,96 @@ BZT-W09: 华为平板 C5 10.1 英寸 Wi-Fi 版
 BZT-AL00: 华为平板 C5 10.1 英寸 全网通标配版
 
 BZT-AL10: 华为平板 C5 10.1 英寸 全网通高配版
+
+## 笔记本电脑
+
+**HUAWEI MateBook:**
+
+HZ-W09: HUAWEI MateBook m3
+
+HZ-W19: HUAWEI MateBook m5
+
+HZ-W29: HUAWEI MateBook m7
+
+**HUAWEI MateBook D:**
+
+PL-W09: HUAWEI MateBook D i5 集显
+
+PL-W19: HUAWEI MateBook D i5 独显
+
+PL-W29: HUAWEI MateBook D i7
+
+**HUAWEI MateBook D (2018):**
+
+MRC-W00: HUAWEI MateBook D (2018) i3 集显
+
+MRC-W10BR: HUAWEI MateBook D (2018) i5 集显
+
+MRC-W50: HUAWEI MateBook D (2018) i5 独显
+
+MRC-W50R: HUAWEI MateBook D (2018) i5 独显 (8GB+512GB)
+
+MRC-W60: HUAWEI MateBook D (2018) i7 独显
+
+MRC-W60R: HUAWEI MateBook D (2018) i7 独显 (8GB+512GB)
+
+MRC-W70: HUAWEI MateBook D (2018) i3 集显
+
+**HUAWEI MateBook X:**
+
+WT-W09: HUAWEI MateBook X i5
+
+WT-W19: HUAWEI MateBook X i7
+
+**HUAWEI MateBook X Pro:**
+
+MACH-W19: HUAWEI MateBook X Pro i5
+
+MACH-W29: HUAWEI MateBook X Pro i7
+
+**HUAWEI MateBook X Pro (2019):**
+
+MACHR-W19: HUAWEI MateBook X Pro (2019) i5
+
+MACHR-W19L: HUAWEI MateBook X Pro (2019) i5 Linux 版
+
+MACHR-W29: HUAWEI MateBook X Pro (2019) i7
+
+MACHR-W29BL: HUAWEI MateBook X Pro (2019) i7 Linux 版
+
+**HUAWEI MateBook E:**
+
+BL-W09: HUAWEI MateBook E i3
+
+BL-W19: HUAWEI MateBook E i5
+
+**HUAWEI MateBook E (2019):**
+
+PAK-AL09: HUAWEI MateBook E (2019)
+
+**HUAWEI MateBook 13:**
+
+WRT-W19: HUAWEI MateBook 13 i5
+
+WRT-W19L: HUAWEI MateBook 13 i5 Linux 版
+
+WRT-W29: HUAWEI MateBook 13 i7
+
+WRT-W29L: HUAWEI MateBook 13 i7 Linux 版
+
+**HUAWEI MateBook 13 锐龙版:**
+
+HN-W19R: HUAWEI MateBook 13 锐龙版
+
+HN-W19L: HUAWEI MateBook 13 锐龙 Linux 版
+
+**HUAWEI MateBook 14:**
+
+KLV-W19: HUAWEI MateBook 14 i5
+
+KLV-W19DL: HUAWEI MateBook 14 i5 Linux 版
+
+KLV-W29: HUAWEI MateBook 14 i7
 
 ## 荣耀独立前产品 
 
