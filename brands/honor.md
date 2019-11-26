@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20191123
+# 荣耀手机型号汇总 20191126
 
 ## 荣耀 N 系列 (数字系列)
 
@@ -183,6 +183,14 @@ BKL-TL10: 荣耀 V10 移动 4G+ 版
 PCT-AL10: 荣耀 V20 全网通版
 
 PCT-TL10: 荣耀 V20 移动 4G+ 版
+
+**荣耀 V30:**
+
+OXF-AN00: 荣耀 V30 5G 全网通版
+
+**荣耀 V30 PRO:**
+
+OXF-AN10: 荣耀 V30 PRO 5G 全网通版
 
 ## 荣耀 Magic 系列
 
@@ -587,6 +595,26 @@ KPR-W29: 荣耀 MagicBook 2019 锐龙版 R7
 KPRC-W10L: 荣耀 MagicBook 2019 科技尝鲜版 R5
 
 KPRC-W20L: 荣耀 MagicBook 2019 科技尝鲜版 R7
+
+**荣耀 MagicBook 14:**
+
+Nbl-WAQ9HNR: 荣耀 MagicBook 14 R5
+
+Nbl-WAP9HNR: 荣耀 MagicBook 14 R7
+
+**荣耀 MagicBook 14 科技尝鲜版:**
+
+Nbl-WAQ9HNL: 荣耀 MagicBook 14 科技尝鲜版 R5
+
+Nbl-WAP9HNL: 荣耀 MagicBook 14 科技尝鲜版 R7
+
+**荣耀 MagicBook 15:**
+
+Boh-WAQ9HNR: 荣耀 MagicBook 15 R5
+
+**荣耀 MagicBook 15 科技尝鲜版:**
+
+Boh-WAQ9HNL: 荣耀 MagicBook 15 科技尝鲜版 R5
 
 **荣耀 MagicBook Pro:**
 

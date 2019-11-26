@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.11.26
+- `honor` 新增荣耀 V30 系列、全新荣耀 MagicBook 系列。
 ## 2019.11.25
 - `huawei` 新增 HUAWEI MatePad Pro。
 ## 2019.11.23
