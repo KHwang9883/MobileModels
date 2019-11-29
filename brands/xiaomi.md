@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20191123
+# 小米手机型号汇总 20191129
 
 ## 小米手机
 
@@ -312,7 +312,7 @@ M1804D2SI: 小米 A2 印度版
 
 M1805D1SG: 小米 A2 Lite 国际版
 
-**[`F9S`] 小米 A3 (`laurel`):**
+**[`F9S`] 小米 A3 (`laurel_sprout`):**
 
 M1906F9SH: 小米 A3 国际版
 
@@ -720,6 +720,8 @@ M1906G7T: Redmi Note 8 Pro 运营商全网通版
 
 M1906G7G: Redmi Note 8 Pro 国际版
 
+**[`G7`] Redmi Note 8 Pro (`begoniain`):**
+
 M1906G7I: Redmi Note 8 Pro 印度版
 
 **[`E6`] 红米 S2 / 红米 Y2 (`ysl`):**
@@ -752,6 +754,8 @@ M1903F10A: Redmi K20 全网通版
 
 M1903F10C: Redmi K20 运营商全网通版
 
+**[`F10`] Redmi K20 (`davinciin`):**
+
 M1903F10I: Redmi K20 印度版
 
 **[`F11`] Redmi K20 Pro (`raphael`):**
@@ -759,6 +763,8 @@ M1903F10I: Redmi K20 印度版
 M1903F11A: Redmi K20 Pro 全网通版
 
 M1903F11C: Redmi K20 Pro 运营商全网通版
+
+**[`F11`] Redmi K20 Pro (`raphaelin`):**
 
 M1903F11I: Redmi K20 Pro 印度版
 

@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.11.29
+- `xiaomi` 订正部分国际版 codename 信息。
 ## 2019.11.26
 - `honor` 新增荣耀 V30 系列、全新荣耀 MagicBook 系列。
 - `huawei` 新增 HUAWEI MateBook D Linux 版。
