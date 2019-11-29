@@ -306,7 +306,7 @@ M1804D2SI: Mi A2 India
 
 M1805D1SG: Mi A2 Lite Global
 
-**[`F9S`] Mi A3 (`laurel`):**
+**[`F9S`] Mi A3 (`laurel_sprout`):**
 
 M1906F9SH: Mi A3 Global
 
@@ -700,11 +700,13 @@ M1908C3XG: Redmi Note 8T Global
 
 M1906G7G: Redmi Note 8 Pro Global
 
-M1906G7I: Redmi Note 8 Pro India
-
 M1906G7E: Redmi Note 8 Pro China
 
 M1906G7T: Redmi Note 8 Pro Chinese Carrier Version
+
+**[`G7`] Redmi Note 8 Pro (`begoniain`):**
+
+M1906G7I: Redmi Note 8 Pro India
 
 **[`E6`] Redmi S2 / Redmi Y2 (`ysl`):**
 
@@ -732,19 +734,23 @@ M1810F6I: Redmi Y3 India
 
 **[`F10`] Redmi K20 (`davinci`):**
 
-M1903F10I: Redmi K20 India
-
 M1903F10A: Redmi K20 China
 
 M1903F10C: Redmi K20 Chinese Carrier Version
 
-**[`F11`] Redmi K20 Pro (`raphael`):**
+**[`F10`] Redmi K20 (`davinciin`):**
 
-M1903F11I: Redmi K20 Pro India
+M1903F10I: Redmi K20 India
+
+**[`F11`] Redmi K20 Pro (`raphael`):**
 
 M1903F11A: Redmi K20 Pro China
 
 M1903F11C: Redmi K20 Pro Chinese Carrier Version
+
+**[`F11`] Redmi K20 Pro (`raphaelin`):**
+
+M1903F11I: Redmi K20 Pro India
 
 **[`F11`] Redmi K20 Pro Premium Edition (`raphaels`):**
 

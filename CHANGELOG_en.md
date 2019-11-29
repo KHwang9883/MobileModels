@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.11.29
+- `xiaomi_en` Fixed codenames according to fastboot ROMs.
 ## 2019.11.23
 - `xiaomi_en` Added Mi Note 10 Pro.
 ## 2019.11.22
