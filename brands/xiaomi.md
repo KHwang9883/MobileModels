@@ -1,6 +1,6 @@
-# 小米手机型号汇总 20191129
+# 小米手机型号汇总 20191203
 
-## 小米手机
+## 小米数字系列
 
 **[`X1`] 小米 1 (`mione_plus`):**
 
@@ -176,6 +176,8 @@ M1903F11G: 小米 9T Pro 国际版
 
 M1904F3BG: 小米 9 Lite 国际版
 
+## 小米 Note 系列
+
 **[`X5`] 小米 Note (`virgo`):**
 
 2014616: 小米 Note 双网通版
@@ -216,6 +218,8 @@ M1910F4G: 小米 Note 10 国际版
 
 M1910F4S: 小米 Note 10 Pro 国际版
 
+## 小米 MIX 系列
+
 **[`A8`] 小米 MIX (`lithium`):**
 
 2016080: 小米 MIX 全网通版
@@ -248,6 +252,8 @@ M1810E5A: 小米 MIX 3 全网通版 (全球频段)
 
 M1810E5GG: 小米 MIX 3 5G
 
+## 小米 Max 系列
+
 **[`B3`] 小米 Max (`hydrogen`):**
 
 2016001: 小米 Max 标准版 全网通版
@@ -274,6 +280,8 @@ M1804E4T: 小米 Max 3 移动 4G+ 版
 
 M1804E4C: 小米 Max 3 联通电信定制版
 
+## 小米 CC 系列
+
 **[`F3B`] 小米 CC9 (`pyxis`):**
 
 M1904F3BC: 小米 CC9 全网通版
@@ -290,11 +298,15 @@ M1906F9SC: 小米 CC9e 全网通版
 
 M1910F4E: 小米 CC9 Pro 全网通版
 
+## 小米 Play 系列
+
 **[`F9`] 小米 Play (`lotus`):**
 
 M1901F9E: 小米 Play 全网通版
 
 M1901F9T: 小米 Play 移动 4G+ 版
+
+## 小米 A 系列
 
 **[`D2`] 小米 A1 (`tissot`):**
 
@@ -342,7 +354,7 @@ M1806D9E: 小米平板 4 LTE 版
 
 M1806D9PE: 小米平板 4 Plus LTE 版
 
-## 红米手机 / Redmi
+## 红米 Redmi 数字系列
 
 **[`H2TD`] 红米手机 (`wt93007`):**
 
@@ -466,15 +478,13 @@ MDG1: 红米 5 国际版
 
 MDI1: 红米 5 印度版
 
-**[`E7`] 红米 5 Plus / 红米 Note 5 (`vince`):**
+**[`E7`] 红米 5 Plus (`vince`):**
 
 MEE7: 红米 5 Plus 全网通版
 
 MET7: 红米 5 Plus 移动 4G+ 版
 
 MEG7: 红米 5 Plus 国际版
-
-MEI7: 红米 Note 5 印度版
 
 **[`C3B`] 红米 5A (`riva`):**
 
@@ -560,6 +570,8 @@ M1908C3KG, M1908C3KH: Redmi 8A 国际版
 
 M1908C3KI: Redmi 8A 印度版
 
+## 红米 Redmi Note 系列
+
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
 
 2014018: 红米 Note 联通 3G 标准版
@@ -641,6 +653,10 @@ M1908C3KI: Redmi 8A 印度版
 MBE6A5: 红米 Note 4X MTK 全网通版
 
 MBT6A5: 红米 Note 4X MTK 移动 4G+ 版
+
+**[`E7`] 红米 Note 5 (`vince`):**
+
+MEI7: 红米 Note 5 印度版
 
 **[`E7S`] 红米 Note 5 / 红米 Note 5 Pro (`whyred`):**
 
@@ -724,29 +740,7 @@ M1906G7G: Redmi Note 8 Pro 国际版
 
 M1906G7I: Redmi Note 8 Pro 印度版
 
-**[`E6`] 红米 S2 / 红米 Y2 (`ysl`):**
-
-M1803E6E: 红米 S2 全网通版
-
-M1803E6T: 红米 S2 移动 4G+ 版
-
-M1803E6C: 红米 S2 联通电信定制版
-
-M1803E6G, M1803E6H: 红米 S2 国际版
-
-M1803E6I: 红米 Y2 印度版
-
-**[`F6`] Redmi Y3 (`onc`):**
-
-M1810F6G: Redmi Y3 国际版
-
-M1810F6I: Redmi Y3 印度版
-
-**[`H3C`] 红米 Pro (`omega`):**
-
-2016020: 红米 Pro 标准版
-
-2016021: 红米 Pro 高配版 / 尊享版
+## Redmi K 系列
 
 **[`F10`] Redmi K20 (`davinci`):**
 
@@ -772,11 +766,43 @@ M1903F11I: Redmi K20 Pro 印度版
 
 M1903F11A: Redmi K20 Pro 尊享版 全网通版
 
+## 其他红米 Redmi 手机
+
+**[`H3C`] 红米 Pro (`omega`):**
+
+2016020: 红米 Pro 标准版
+
+2016021: 红米 Pro 高配版 / 尊享版
+
+**[`E6`] 红米 S2 / 红米 Y2 (`ysl`):**
+
+M1803E6E: 红米 S2 全网通版
+
+M1803E6T: 红米 S2 移动 4G+ 版
+
+M1803E6C: 红米 S2 联通电信定制版
+
+M1803E6G, M1803E6H: 红米 S2 国际版
+
+M1803E6I: 红米 Y2 印度版
+
+**[`F6`] Redmi Y3 (`onc`):**
+
+M1810F6G: Redmi Y3 国际版
+
+M1810F6I: Redmi Y3 印度版
+
 **[`C3G`] Redmi Go (`tiare`):**
 
 M1903C3GG, M1903C3GH: Redmi Go 国际版
 
 M1903C3GI: Redmi Go 印度版
+
+## POCOPHONE
+
+**[`E10`] POCO F1 (`beryllium`):**
+
+M1805E10A: POCO F1
 
 ## 黑鲨手机
 
@@ -795,9 +821,3 @@ SKW-A0: 黑鲨游戏手机 2
 **黑鲨游戏手机 2 Pro:**
 
 DLT-A0: 黑鲨游戏手机 2 Pro
-
-## POCOPHONE
-
-**[`E10`] POCO F1 (`beryllium`):**
-
-M1805E10A: POCO F1
