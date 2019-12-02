@@ -456,11 +456,9 @@ MDE1: Redmi 5 China
 
 MDT1: Redmi 5 China Mobile
 
-**[`E7`] Redmi 5 Plus / Redmi Note 5 (`vince`):**
+**[`E7`] Redmi 5 Plus (`vince`):**
 
 MEG7: Redmi 5 Plus Global
-
-MEI7: Redmi Note 5 India
 
 MEE7: Redmi 5 Plus China
 
@@ -612,7 +610,7 @@ M1908C3KE: Redmi 8A China
 
 2016051: Redmi Note 4 (Mediatek) China Mobile
 
-**[`C6`] Redmi Note 4X / Redmi Note 4 (`mido`):**
+**[`C6`] Redmi Note 4 / Redmi Note 4X (`mido`):**
 
 2016100, 2016102: Redmi Note 4 (Qualcomm) Global
 
@@ -625,6 +623,10 @@ M1908C3KE: Redmi 8A China
 MBE6A5: Redmi Note 4X (Mediatek)
 
 MBT6A5: Redmi Note 4X (Mediatek) China Mobile
+
+**[`E7`] Redmi Note 5 (`vince`):**
+
+MEI7: Redmi Note 5 India
 
 **[`E7S`] Redmi Note 5 / Redmi Note 5 Pro (`whyred`):**
 
@@ -708,30 +710,6 @@ M1906G7T: Redmi Note 8 Pro Chinese Carrier Version
 
 M1906G7I: Redmi Note 8 Pro India
 
-**[`E6`] Redmi S2 / Redmi Y2 (`ysl`):**
-
-M1803E6G, M1803E6H: Redmi S2 Global
-
-M1803E6I: Redmi Y2 India
-
-M1803E6E: Redmi S2 China
-
-M1803E6T: Redmi S2 China Mobile
-
-M1803E6C: Redmi S2 China Unicom / China Telecom
-
-**[`F6`] Redmi Y3 (`onc`):**
-
-M1810F6G: Redmi Y3 Global
-
-M1810F6I: Redmi Y3 India
-
-**[`H3C`] Redmi Pro (`omega`):**
-
-2016020: Redmi Pro 32GB
-
-2016021: Redmi Pro 64GB / 128GB
-
 **[`F10`] Redmi K20 (`davinci`):**
 
 M1903F10A: Redmi K20 China
@@ -756,11 +734,41 @@ M1903F11I: Redmi K20 Pro India
 
 M1903F11A: Redmi K20 Pro Premium Edition China
 
+**[`H3C`] Redmi Pro (`omega`):**
+
+2016020: Redmi Pro 32GB
+
+2016021: Redmi Pro 64GB / 128GB
+
+**[`E6`] Redmi S2 / Redmi Y2 (`ysl`):**
+
+M1803E6G, M1803E6H: Redmi S2 Global
+
+M1803E6I: Redmi Y2 India
+
+M1803E6E: Redmi S2 China
+
+M1803E6T: Redmi S2 China Mobile
+
+M1803E6C: Redmi S2 China Unicom / China Telecom
+
+**[`F6`] Redmi Y3 (`onc`):**
+
+M1810F6G: Redmi Y3 Global
+
+M1810F6I: Redmi Y3 India
+
 **[`C3G`] Redmi Go (`tiare`):**
 
 M1903C3GG, M1903C3GH: Redmi Go Global
 
 M1903C3GI: Redmi Go India
+
+## POCOPHONE
+
+**[`E10`] POCO F1 (`beryllium`):**
+
+M1805E10A: POCO F1
 
 ## Black Shark
 
@@ -779,9 +787,3 @@ SKW-A0: Black Shark 2
 **Black Shark 2 Pro:**
 
 DLT-A0: Black Shark 2 Pro
-
-## POCOPHONE
-
-**[`E10`] POCO F1 (`beryllium`):**
-
-M1805E10A: POCO F1

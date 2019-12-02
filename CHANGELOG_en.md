@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2019.12.03
+- `xiaomi_en` Minor fix.
 ## 2019.11.29
 - `xiaomi_en` Fixed codenames according to fastboot ROMs.
 ## 2019.11.23
