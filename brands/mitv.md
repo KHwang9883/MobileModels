@@ -1,4 +1,4 @@
-# 小米电视型号汇总 20191123
+# 小米电视型号汇总 20191203
 
 ## 国内产品
 
@@ -271,6 +271,8 @@ L43M4-4AIN: Mi TV 4X 43
 L50M5-5AIN: Mi TV 4X 50
 
 L55M4-4XINA: Mi LED Smart TV 4X Pro 55
+
+L55M5-5XIN: Mi TV 4X 55
 
 L65M5-5SIN: Mi TV 4X 65
 
