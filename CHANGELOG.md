@@ -1,6 +1,7 @@
 # 更新日志
 ## 2019.12.05
 - `honor` 更新荣耀 Play 3 代号。
+- `huawei` 新增 nova 6 系列。
 - `vivo` 更新 iQOO Neo 855 竞速版 移动全网通版。
 ## 2019.12.04
 - `vivo` 新增 iQOO Neo 855 竞速版。
