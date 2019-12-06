@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.12.06
+- `honor` [订正部分信息](https://consumer.huawei.com/cn/support/battery-service/#aa)，更新荣耀 V30 系列代号。
 ## 2019.12.05
 - `honor` 更新荣耀 Play 3 代号。
 - `huawei` 新增 nova 6 系列。

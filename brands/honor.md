@@ -1,6 +1,6 @@
-# 荣耀手机型号汇总 20191205
+# 荣耀手机型号汇总 20191206
 
-## 荣耀 N 系列 (数字系列)
+## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`mogolia`):**
 
@@ -160,16 +160,6 @@ DUK-AL20: 荣耀 V9 全网通版
 
 DUK-TL30: 荣耀 V9 移动定制版
 
-**荣耀 V9 Play (`jimmy`):**
-
-JMM-AL00: 荣耀 V9 Play 全网通标配版
-
-JMM-AL10: 荣耀 V9 Play 全网通高配版
-
-JMM-TL00: 荣耀 V9 Play 移动定制标配版
-
-JMM-TL10: 荣耀 V9 Play 移动定制高配版
-
 **荣耀 V10 (`berkeley`):**
 
 BKL-AL00: 荣耀 V10 全网通标配版
@@ -184,11 +174,11 @@ PCT-AL10: 荣耀 V20 全网通版
 
 PCT-TL10: 荣耀 V20 移动 4G+ 版
 
-**荣耀 V30:**
+**荣耀 V30 (`oxford`):**
 
 OXF-AN00: 荣耀 V30 5G 全网通版
 
-**荣耀 V30 PRO:**
+**荣耀 V30 PRO (`oxford`):**
 
 OXF-AN10: 荣耀 V30 PRO 5G 全网通版
 
@@ -217,6 +207,16 @@ EDI-DL00: 荣耀 Note 8 移动/联通版
 RVL-AL09: 荣耀 Note 10 全网通版
 
 ## 荣耀 Play 系列
+
+**荣耀 V9 Play (`jimmy`):**
+
+JMM-AL00: 荣耀 V9 Play 全网通标配版
+
+JMM-AL10: 荣耀 V9 Play 全网通高配版
+
+JMM-TL00: 荣耀 V9 Play 移动定制标配版
+
+JMM-TL10: 荣耀 V9 Play 移动定制高配版
 
 **荣耀 Play (`cornell`):**
 
