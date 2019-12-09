@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20191206
+# 荣耀手机型号汇总 20191209
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
@@ -142,7 +142,7 @@ LRA-AL00: 荣耀 20 青春版 全网通版
 
 LRA-TL00: 荣耀 20 青春版 移动 4G+ 版
 
-## 荣耀 V 系列
+## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`knight`):**
 
@@ -639,3 +639,18 @@ HLY-W19RL: 荣耀 MagicBook Pro 科技尝鲜版 R5
 HLY-W19RLP: 荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB)
 
 HLY-W29RL: 荣耀 MagicBook Pro 科技尝鲜版 R7
+
+## 荣耀智慧屏
+
+**荣耀智慧屏 (`osca`):**
+
+OSCA-550A: 荣耀智慧屏 55 英寸 (2GB+16GB)
+
+OSCA-550AX: 荣耀智慧屏 55 英寸 (4GB+32GB)
+
+**荣耀智慧屏 PRO (`osca`):**
+
+OSCA-550: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
+
+OSCA-550X: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB
+)
