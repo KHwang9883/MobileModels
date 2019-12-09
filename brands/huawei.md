@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20191205
+# 华为手机型号汇总 20191209
 
 ## HUAWEI Mate 系列
 
@@ -811,6 +811,14 @@ KLV-W19: HUAWEI MateBook 14 i5
 KLV-W19DL: HUAWEI MateBook 14 i5 Linux 版
 
 KLV-W29: HUAWEI MateBook 14 i7
+
+## 智慧屏
+
+**华为智慧屏 (`hege`):**
+
+HEGE-560: 华为智慧屏 V65
+
+HEGE-570: 华为智慧屏 V75
 
 ## 荣耀独立前产品 
 
