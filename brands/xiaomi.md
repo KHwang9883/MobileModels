@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20191203
+# 小米手机型号汇总 20191210
 
 ## 小米数字系列
 
@@ -765,6 +765,18 @@ M1903F11I: Redmi K20 Pro 印度版
 **[`F11`] Redmi K20 Pro 尊享版 (`raphaels`):**
 
 M1903F11A: Redmi K20 Pro 尊享版 全网通版
+
+**[`G7A`] Redmi K30 5G:**
+
+M2001G7AE: Redmi K30 5G 全网通版
+
+M2001G7AC: Redmi K30 5G 运营商全网通版
+
+**[`G7B`] Redmi K30 4G:**
+
+M1912G7BE: Redmi K30 4G 全网通版
+
+M1912G7BC: Redmi K30 4G 运营商全网通版
 
 ## 其他红米 Redmi 手机
 
