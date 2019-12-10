@@ -734,6 +734,18 @@ M1903F11I: Redmi K20 Pro India
 
 M1903F11A: Redmi K20 Pro Premium Edition China
 
+**[`G7A`] Redmi K30 5G:**
+
+M2001G7AE: Redmi K30 5G China
+
+M2001G7AC: Redmi K30 5G Chinese Carrier Version
+
+**[`G7B`] Redmi K30 4G:**
+
+M1912G7BE: Redmi K30 4G China
+
+M1912G7BC: Redmi K30 4G Chinese Carrier Version
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 2016020: Redmi Pro 32GB
