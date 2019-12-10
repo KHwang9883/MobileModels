@@ -772,7 +772,7 @@ M2001G7AE: Redmi K30 5G 全网通版
 
 M2001G7AC: Redmi K30 5G 运营商全网通版
 
-**[`G7B`] Redmi K30 4G:**
+**[`G7B`] Redmi K30 4G (`phoenix`):**
 
 M1912G7BE: Redmi K30 4G 全网通版
 

@@ -1,6 +1,6 @@
 # 更新日志
 ## 2019.12.10
-- `xiaomi` 新增 Redmi K30 系列（codename 待更新）。
+- `xiaomi` 新增 Redmi K30 系列（Redmi K30 5G codename 待更新）。
 ## 2019.12.09
 - `honor` 新增荣耀智慧屏系列。
 - `huawei` 新增华为智慧屏系列。
