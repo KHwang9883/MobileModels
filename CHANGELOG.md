@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.12.14
+- `huawei` 更新 HUAWEI Mate X 代号。
 ## 2019.12.10
 - `xiaomi` 新增 Redmi K30 系列（Redmi K30 5G codename 待更新）。
 ## 2019.12.09

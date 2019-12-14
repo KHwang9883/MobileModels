@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20191209
+# 华为手机型号汇总 20191214
 
 ## HUAWEI Mate 系列
 
@@ -102,7 +102,7 @@ EVR-AN00: HUAWEI Mate 20 X 5G
 
 LYA-AL00P: HUAWEI Mate 20 RS 保时捷设计
 
-**HUAWEI Mate X:**
+**HUAWEI Mate X (`tahiti`):**
 
 TAH-AN00: HUAWEI Mate X
 
