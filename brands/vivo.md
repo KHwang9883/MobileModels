@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20191205
+# vivo 手机型号汇总 20191216
 
 ## X 系列
 
@@ -37,6 +37,16 @@ V1838T: vivo X27 8GB+128GB 移动全网通版
 V1836A: vivo X27 Pro 全网通版
 
 V1836T: vivo X27 Pro 移动全网通版
+
+**vivo X30 (`PD1938C`):**
+
+V1938CT: vivo X30
+
+**vivo X30 Pro (`PD1938`):**
+
+V1938A: vivo X30 Pro 全网通版
+
+V1938T: vivo X30 Pro 移动全网通版
 
 ## NEX 系列
 
