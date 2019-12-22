@@ -2,6 +2,7 @@
 ## 2019.12.22
 - `honor` [订正部分信息](https://www.honor.cn/support/)。
 - `honor` 新增荣耀 MagicBook 系列 Intel 版。
+- `huawei` 更新部分产品代号。
 ## 2019.12.20
 - `oppo` 新增 OPPO Reno3 系列、A8、A91。
 ## 2019.12.16

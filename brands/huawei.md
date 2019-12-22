@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20191214
+# 华为手机型号汇总 20191222
 
 ## HUAWEI Mate 系列
 
@@ -294,13 +294,13 @@ ANE-AL00: HUAWEI nova 3e 全网通版
 
 ANE-TL00: HUAWEI nova 3e 移动 4G+ 版
 
-**HUAWEI nova 3:**
+**HUAWEI nova 3 (`paris`):**
 
 PAR-AL00: HUAWEI nova 3 全网通版
 
 PAR-TL00: HUAWEI nova 3 移动 4G+ 版
 
-**HUAWEI nova 3i:**
+**HUAWEI nova 3i (`sydney`):**
 
 INE-AL00: HUAWEI nova 3i 全网通版
 
@@ -434,7 +434,7 @@ HUAWEI MLA-AL10: HUAWEI 麦芒 5 全网通高配版
 
 RNE-AL00: HUAWEI 麦芒 6 全网通版
 
-**HUAWEI 麦芒 7:**
+**HUAWEI 麦芒 7 (`sydneym`):**
 
 SNE-AL00: HUAWEI 麦芒 7 全网通版
 
@@ -770,7 +770,7 @@ MRC-W60R: HUAWEI MateBook D (2018) i7 独显 (8GB+512GB)
 
 MRC-W70: HUAWEI MateBook D (2018) i3 集显
 
-**HUAWEI MateBook D 14:**
+**HUAWEI MateBook D 14 (`nobelk`):**
 
 Nbl-WAQ9L: HUAWEI MateBook D 14 R5 Linux 版
 
