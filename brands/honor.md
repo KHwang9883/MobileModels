@@ -602,7 +602,7 @@ KPRC-W10L: 荣耀 MagicBook 2019 科技尝鲜版 R5
 
 KPRC-W20L: 荣耀 MagicBook 2019 科技尝鲜版 R7
 
-**荣耀 MagicBook 14:**
+**荣耀 MagicBook 14 (`nobelk`):**
 
 Nbl-WAQ9HNR: 荣耀 MagicBook 14 R5
 
@@ -616,7 +616,7 @@ Nbl-WAH9HNP: 荣耀 MagicBook 14 i5 (16GB+512GB)
 
 Nbl-WAE9HN: 荣耀 MagicBook 14 i7
 
-**荣耀 MagicBook 14 科技尝鲜版:**
+**荣耀 MagicBook 14 科技尝鲜版 (`nobelk`):**
 
 Nbl-WAQ9HNL: 荣耀 MagicBook 14 科技尝鲜版 R5
 
