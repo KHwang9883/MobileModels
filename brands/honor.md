@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20191209
+# 荣耀手机型号汇总 20191222
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
@@ -600,7 +600,15 @@ KPRC-W20L: 荣耀 MagicBook 2019 科技尝鲜版 R7
 
 Nbl-WAQ9HNR: 荣耀 MagicBook 14 R5
 
+Nbl-WAQ9HNRP: 荣耀 MagicBook 14 R5 (16GB+512GB)
+
 Nbl-WAP9HNR: 荣耀 MagicBook 14 R7
+
+Nbl-WAH9HN: 荣耀 MagicBook 14 i5
+
+Nbl-WAH9HNP: 荣耀 MagicBook 14 i5 (16GB+512GB)
+
+Nbl-WAE9HN: 荣耀 MagicBook 14 i7
 
 **荣耀 MagicBook 14 科技尝鲜版:**
 
@@ -612,9 +620,21 @@ Nbl-WAP9HNL: 荣耀 MagicBook 14 科技尝鲜版 R7
 
 Boh-WAQ9HNR: 荣耀 MagicBook 15 R5
 
+Boh-WAQ9HNRP: 荣耀 MagicBook 15 R5 (16GB+512GB)
+
+Boh-WAP9HNR: 荣耀 MagicBook 15 R7
+
+Boh-WAH9HN: 荣耀 MagicBook 15 i5
+
+Boh-WAH9HNP: 荣耀 MagicBook 15 i5 (16GB+512GB)
+
+Boh-WAE9HN: 荣耀 MagicBook 15 i7
+
 **荣耀 MagicBook 15 科技尝鲜版:**
 
 Boh-WAQ9HNL: 荣耀 MagicBook 15 科技尝鲜版 R5
+
+Boh-WAP9HNL: 荣耀 MagicBook 15 科技尝鲜版 R7
 
 **荣耀 MagicBook Pro:**
 
