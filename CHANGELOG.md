@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.12.25
+- `huawei` 新增 HUAWEI MateBook D Windows 锐龙版。
 ## 2019.12.22
 - `honor` [订正部分信息](https://www.honor.cn/support/)。
 - `honor` 新增荣耀 MagicBook 系列 Intel 版。

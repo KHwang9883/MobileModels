@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20191222
+# 华为手机型号汇总 20191225
 
 ## HUAWEI Mate 系列
 
@@ -772,9 +772,17 @@ MRC-W70: HUAWEI MateBook D (2018) i3 集显
 
 **HUAWEI MateBook D 14 (`nobelk`):**
 
+Nbl-WAQ9R: HUAWEI MateBook D 14 R5
+
+Nbl-WAQ9RP: HUAWEI MateBook D 14 R5 (16GB+512GB)
+
 Nbl-WAQ9L: HUAWEI MateBook D 14 R5 Linux 版
 
 **HUAWEI MateBook D 15:**
+
+Boh-WAQ9R: HUAWEI MateBook D 15 R5
+
+Boh-WAQ9RP: HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)
 
 Boh-WAQ9L: HUAWEI MateBook D 15 R5 Linux 版
 
