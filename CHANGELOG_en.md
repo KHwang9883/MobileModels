@@ -1,6 +1,8 @@
 # CHANGELOG
+## 2019.12.29
+- `xiaomi_en` Redmi K30 5G's codename has been updated.
 ## 2019.12.10
-- `xiaomi_en` Added Redmi K30 series (codename of K30 5G will be updated soon).
+- `xiaomi_en` Added Redmi K30 series.
 ## 2019.12.03
 - `xiaomi_en` Minor fix.
 ## 2019.11.29

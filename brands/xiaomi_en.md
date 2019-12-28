@@ -734,7 +734,7 @@ M1903F11I: Redmi K20 Pro India
 
 M1903F11A: Redmi K20 Pro Premium Edition China
 
-**[`G7A`] Redmi K30 5G:**
+**[`G7A`] Redmi K30 5G (`picasso`):**
 
 M2001G7AE: Redmi K30 5G China
 
