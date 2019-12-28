@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.12.29
+- `xiaomi` 更新 Redmi K30 5G codename。
 ## 2019.12.25
 - `huawei` 新增 HUAWEI MateBook D Windows 锐龙版。
 ## 2019.12.22
@@ -12,7 +14,7 @@
 ## 2019.12.14
 - `huawei` 更新 HUAWEI Mate X 代号。
 ## 2019.12.10
-- `xiaomi` 新增 Redmi K30 系列（Redmi K30 5G codename 待更新）。
+- `xiaomi` 新增 Redmi K30 系列。
 ## 2019.12.09
 - `honor` 新增荣耀智慧屏系列。
 - `huawei` 新增华为智慧屏系列。
