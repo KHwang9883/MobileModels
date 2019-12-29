@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20191225
+# 华为手机型号汇总 20191230
 
 ## HUAWEI Mate 系列
 
@@ -318,13 +318,13 @@ MAR-AL00: HUAWEI nova 4e 全网通版
 
 MAR-TL00: HUAWEI nova 4e 移动 4G+ 版
 
-**HUAWEI nova 5:**
+**HUAWEI nova 5 (`seattle`):**
 
 SEA-AL00: HUAWEI nova 5 全网通版
 
 SEA-TL00: HUAWEI nova 5 移动 4G+ 版
 
-**HUAWEI nova 5 Pro:**
+**HUAWEI nova 5 Pro (`seattle`):**
 
 SEA-AL10: HUAWEI nova 5 Pro 全网通版
 

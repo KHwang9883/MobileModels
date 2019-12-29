@@ -1,4 +1,6 @@
 # 更新日志
+## 2019.12.30
+- `huawei` 更新 HUAWEI nova 5 系列 codename。
 ## 2019.12.29
 - `xiaomi` 更新 Redmi K30 5G codename。
 ## 2019.12.25
