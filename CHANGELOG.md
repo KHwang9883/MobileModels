@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.01.01
+- `huawei` 更新华为畅享 10S codename。
 ## 2019.12.30
 - `huawei` 更新 HUAWEI nova 5 系列 codename。
 ## 2019.12.29
