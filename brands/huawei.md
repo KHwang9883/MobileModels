@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200101
+# 华为手机型号汇总 20200107
 
 ## HUAWEI Mate 系列
 
@@ -778,6 +778,14 @@ Nbl-WAQ9RP: HUAWEI MateBook D 14 R5 (16GB+512GB)
 
 Nbl-WAQ9L: HUAWEI MateBook D 14 R5 Linux 版
 
+**HUAWEI MateBook D 14:**
+
+NbB-WAH9: HUAWEI MateBook D 14 i5
+
+NbB-WAH9P: HUAWEI MateBook D 14 i5 (16GB+512GB)
+
+NbB-WAE9P: HUAWEI MateBook D 14 i7 (16GB+512GB)
+
 **HUAWEI MateBook D 15:**
 
 Boh-WAQ9R: HUAWEI MateBook D 15 R5
@@ -785,6 +793,12 @@ Boh-WAQ9R: HUAWEI MateBook D 15 R5
 Boh-WAQ9RP: HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)
 
 Boh-WAQ9L: HUAWEI MateBook D 15 R5 Linux 版
+
+BoB-WAH9: HUAWEI MateBook D 15 i5
+
+BoB-WAH9P: HUAWEI MateBook D 15 i5 (16GB+512GB)
+
+BoB-WAE9P: HUAWEI MateBook D 15 i7 (16GB+512GB)
 
 **HUAWEI MateBook E:**
 
