@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020.01.07
 - `huawei` 新增 HUAWEI MateBook D Intel 版。
+- `vivo` 更新 vivo X30 型号。
 ## 2020.01.01
 - `huawei` 更新华为畅享 10S codename。
 ## 2019.12.30

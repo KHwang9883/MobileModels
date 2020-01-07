@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20191216
+# vivo 手机型号汇总 20200107
 
 ## X 系列
 
@@ -40,7 +40,9 @@ V1836T: vivo X27 Pro 移动全网通版
 
 **vivo X30 (`PD1938C`):**
 
-V1938CT: vivo X30
+V1938CA: vivo X30 全网通版
+
+V1938CT: vivo X30 移动全网通版
 
 **vivo X30 Pro (`PD1938`):**
 
