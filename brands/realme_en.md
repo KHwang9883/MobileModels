@@ -34,6 +34,10 @@ RMX1911: realme 5
 
 RMX1925: realme 5s
 
+**realme 5i:**
+
+RMX2030: realme 5i
+
 **realme 5 Pro:**
 
 RMX1971: realme 5 Pro
@@ -87,3 +91,7 @@ RMX1991: realme X2
 **realme X2 Pro:**
 
 RMX1931: realme X2 Pro
+
+**realme X50:**
+
+RMX2051: realme X50 5G

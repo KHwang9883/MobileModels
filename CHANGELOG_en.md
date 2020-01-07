@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.01.07
+- `realme_en` Added realme X50 & realme 5i.
 ## 2019.12.29
 - `xiaomi_en` Redmi K30 5G's codename has been updated.
 ## 2019.12.10
