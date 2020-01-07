@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20191122
+# realme 手机型号汇总 20200107
 
 ## 中国产品
 
@@ -21,6 +21,10 @@ RMX1991: realme X2
 **realme X2 Pro:**
 
 RMX1931: realme X2 Pro
+
+**realme X50:**
+
+RMX2051: realme X50 5G
 
 ## 国际产品
 
@@ -55,6 +59,10 @@ RMX1911: realme 5
 **realme 5s:**
 
 RMX1925: realme 5s
+
+**realme 5i:**
+
+RMX2030: realme 5i
 
 **realme 5 Pro:**
 
