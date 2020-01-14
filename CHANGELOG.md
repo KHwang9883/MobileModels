@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.01.14
+- `realme` 更新 realme X2 印度版型号。
 ## 2020.01.07
 - `huawei` 新增 HUAWEI MateBook D Intel 版。
 - `realme` 新增 realme X50 & realme 5i。

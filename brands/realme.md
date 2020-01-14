@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200107
+# realme 手机型号汇总 20200114
 
 ## 中国产品
 
@@ -78,7 +78,9 @@ RMX1921: realme XT
 
 **realme X2:**
 
-RMX1993: realme X2
+RMX1992: realme X2 印度版
+
+RMX1993: realme X2 国际版
 
 **realme X2 Pro:**
 
