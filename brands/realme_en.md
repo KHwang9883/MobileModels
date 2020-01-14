@@ -52,7 +52,9 @@ RMX1921: realme XT
 
 **realme X2:**
 
-RMX1993: realme X2
+RMX1992: realme X2 India
+
+RMX1993: realme X2 Global
 
 **realme X2 Pro:**
 
@@ -86,7 +88,7 @@ RMX1971: realme Q
 
 **realme X2:**
 
-RMX1991: realme X2
+RMX1991: realme X2 China
 
 **realme X2 Pro:**
 

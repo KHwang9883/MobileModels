@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.01.14
+- `realme_en` Added Indian varient of realme X2.
 ## 2020.01.07
 - `realme_en` Added realme X50 & realme 5i.
 ## 2019.12.29
