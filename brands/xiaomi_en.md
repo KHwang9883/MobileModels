@@ -784,18 +784,24 @@ M1805E10A: POCO F1
 
 ## Black Shark
 
-**Black Shark:**
+**Black Shark (`shark`):**
 
-SKR-A0: Black Shark
+SKR-H0: Black Shark Global
+
+SKR-A0: Black Shark China
 
 **Black Shark Helo:**
 
-AWM-A0: Black Shark Helo
+AWM-A0: Black Shark Helo China
 
-**Black Shark 2:**
+**Black Shark 2 (`skywalker`):**
 
-SKW-A0: Black Shark 2
+SKW-H0: Black Shark 2 Global
 
-**Black Shark 2 Pro:**
+SKW-A0: Black Shark 2 China
 
-DLT-A0: Black Shark 2 Pro
+**Black Shark 2 Pro (`darklighter`):**
+
+DLT-H0: Black Shark 2 Pro Global
+
+DLT-A0: Black Shark 2 Pro China

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.01.16
+- `xiaomi_en` Added global varient of Black Shark phones (Black Shark Helo's codename is missing).
 ## 2020.01.14
 - `realme_en` Added Indian varient of realme X2.
 ## 2020.01.07
