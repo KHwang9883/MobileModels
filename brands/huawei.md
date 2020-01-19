@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200107
+# 华为手机型号汇总 20200119
 
 ## HUAWEI Mate 系列
 
@@ -810,7 +810,7 @@ BL-W19: HUAWEI MateBook E i5
 
 PAK-AL09: HUAWEI MateBook E (2019)
 
-**HUAWEI MateBook 13:**
+**HUAWEI MateBook 13 (`wright`):**
 
 WRT-W19: HUAWEI MateBook 13 i5
 
@@ -826,7 +826,7 @@ HN-W19R: HUAWEI MateBook 13 锐龙版
 
 HN-W19L: HUAWEI MateBook 13 锐龙 Linux 版
 
-**HUAWEI MateBook 14:**
+**HUAWEI MateBook 14 (`kelvin`):**
 
 KLV-W19: HUAWEI MateBook 14 i5
 

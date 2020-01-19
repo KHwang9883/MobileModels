@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.01.19
+- `huawei` 更新 HUAWEI MateBook 13 & MateBook 14 codename。
 ## 2020.01.16
 - `xiaomi` 更新黑鲨手机国际版型号和 codename。
 ## 2020.01.14
