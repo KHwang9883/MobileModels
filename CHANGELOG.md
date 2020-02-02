@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.02.03
+- `huawei` 新增 HUAWEI MateBook 13 & MateBook 14 2020 款。
 ## 2020.01.19
 - `huawei` 更新 HUAWEI MateBook 13 & MateBook 14 codename。
 ## 2020.01.16

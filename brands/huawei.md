@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200119
+# 华为手机型号汇总 20200203
 
 ## HUAWEI Mate 系列
 
@@ -826,6 +826,14 @@ HN-W19R: HUAWEI MateBook 13 锐龙版
 
 HN-W19L: HUAWEI MateBook 13 锐龙 Linux 版
 
+**HUAWEI MateBook 13 (2020) (`wrightb`):**
+
+WRTB-WAH9L: HUAWEI MateBook 13 (2020) i5
+
+WRTB-WFH9L: HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
+
+WRTB-WFE9L: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
+
 **HUAWEI MateBook 14 (`kelvin`):**
 
 KLV-W19: HUAWEI MateBook 14 i5
@@ -833,6 +841,14 @@ KLV-W19: HUAWEI MateBook 14 i5
 KLV-W19DL: HUAWEI MateBook 14 i5 Linux 版
 
 KLV-W29: HUAWEI MateBook 14 i7
+
+**HUAWEI MateBook 14 (2020) (`kelvinc`):**
+
+KLVC-WAH9L: HUAWEI MateBook 14 (2020) i5
+
+KLVC-WFH9L: HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
+
+KLVC-WFE9L: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
 
 ## 智慧屏
 
