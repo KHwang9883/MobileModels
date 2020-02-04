@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.04
+- `xiaomi_en` Added POCO X2.
 ## 2020.01.16
 - `xiaomi_en` Added global varient of Black Shark phones (Black Shark Helo's codename is missing).
 ## 2020.01.14

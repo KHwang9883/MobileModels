@@ -782,6 +782,10 @@ M1903C3GI: Redmi Go India
 
 M1805E10A: POCO F1
 
+**[`G7B`] POCO X2 (`phoenixin`):**
+
+M1912G7BI: POCO X2 India
+
 ## Black Shark
 
 **Black Shark (`shark`):**
