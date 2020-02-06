@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200114
+# realme 手机型号汇总 20200206
 
 ## 中国产品
 
@@ -93,6 +93,10 @@ RMX1805: realme C1
 **realme C2:**
 
 RMX1941: realme C2
+
+**realme C3:**
+
+RMX2020: realme C3
 
 **realme U1:**
 
