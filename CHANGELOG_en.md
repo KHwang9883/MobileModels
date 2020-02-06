@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.06
+- `realme_en` Added realme C3.
 ## 2020.02.04
 - `xiaomi_en` Added POCO X2.
 ## 2020.01.16

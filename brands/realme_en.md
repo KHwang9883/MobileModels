@@ -68,6 +68,10 @@ RMX1805: realme C1
 
 RMX1941: realme C2
 
+**realme C3:**
+
+RMX2020: realme C3
+
 **realme U1:**
 
 RMX1831: realme U1
