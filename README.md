@@ -23,7 +23,7 @@
 | [samsung](https://github.com/KHwang9883/MobileModels/blob/master/brands/samsung.md) | 三星 (Samsung) | Galaxy S/Note/A/Fold/M/C/J/On/心系天下系列以及个别其他机型 | 仅国行，不含部分早期型号；[早期型号可参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-samsung-models.md) |
 | [smartisan](https://github.com/KHwang9883/MobileModels/blob/master/brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | 附有 codename |
 | [vivo](https://github.com/KHwang9883/MobileModels/blob/master/brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | 仅国行；附有 codename |
-| [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi.md) | 小米 (Xiaomi) | 全部小米手机、小米平板 | 含 POCOPHONE、黑鲨手机；附有 codename 与内部代号 |
+| [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi.md) | 小米 (Xiaomi) | 全部小米手机、小米平板 | 含 POCO、黑鲨手机；附有 codename 与内部编号 |
 
 ## 更新日志
 
@@ -93,6 +93,8 @@
 [XDA Developers](https://www.xda-developers.com)
 
 [SLASHLEAKS](http://www.slashleaks.com)
+
+[Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
 
 以及各品牌官网、论坛、微博等，恕不一一列出
 
