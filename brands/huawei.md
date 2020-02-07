@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200203
+# 华为手机型号汇总 20200207
 
 ## HUAWEI Mate 系列
 
@@ -60,6 +60,10 @@ MHA-TL00: HUAWEI Mate 9 移动 4G+ 版
 
 LON-AL00: HUAWEI Mate 9 Pro
 
+**HUAWEI Mate 9 保时捷设计 (`longland`):**
+
+LON-AL00: HUAWEI Mate 9 保时捷设计
+
 **HUAWEI Mate 10 (`alps`):**
 
 ALP-AL00: HUAWEI Mate 10 全网通版
@@ -71,6 +75,10 @@ ALP-TL00: HUAWEI Mate 10 移动 4G+ 版
 BLA-AL00: HUAWEI Mate 10 Pro 全网通版
 
 BLA-TL00: HUAWEI Mate 10 Pro 移动 4G+ 版
+
+**HUAWEI Mate 10 保时捷设计 (`blanc`):**
+
+BLA-AL00: HUAWEI Mate 10 保时捷设计
 
 **HUAWEI Mate RS 保时捷设计 (`neo`):**
 
@@ -270,13 +278,13 @@ WAS-AL00: HUAWEI nova 青春版 全网通版
 
 WAS-TL10: HUAWEI nova 青春版 移动 4G+ 版
 
-**HUAWEI nova 2:**
+**HUAWEI nova 2 (`picasso`):**
 
 PIC-AL00: HUAWEI nova 2 全网通版
 
 PIC-TL00: HUAWEI nova 2 移动 4G+ 版
 
-**HUAWEI nova 2 Plus:**
+**HUAWEI nova 2 Plus (`barca`):**
 
 BAC-AL00: HUAWEI nova 2 Plus 全网通版
 
