@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.07
+- `General` `huawei_global_en` mobile phone models have been added.
 ## 2020.02.06
 - `realme_en` Added realme C3.
 ## 2020.02.04

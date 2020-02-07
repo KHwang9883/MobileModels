@@ -6,11 +6,12 @@ Collecting device names, models and internal codenames.
 
 | Branch | Brand | Range |
 | :-: | :-: | :-: |
-| [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
-| [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu_en.md) | Meizu | All models |
-| [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus_en.md) | OnePlus | All models |
-| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme_en.md) | realme | All models |
-| [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi Phones, Redmi Phones, POCOPHONE and Black Shark |
+| [apple_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [huawei_global_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
+| [meizu_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu_en.md) | Meizu | All models |
+| [oneplus_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus_en.md) | OnePlus | All models |
+| [realme_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme_en.md) | realme | All models |
+| [xiaomi_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi Phones, Redmi Phones, POCO and Black Shark |
 
 ## Changelog
 
@@ -45,6 +46,8 @@ Collecting device names, models and internal codenames.
 [XDA Developers](https://www.xda-developers.com)
 
 [SLASHLEAKS](http://www.slashleaks.com)
+
+[Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
 
 ## License
 
