@@ -776,7 +776,7 @@ M1903C3GG, M1903C3GH: Redmi Go Global
 
 M1903C3GI: Redmi Go India
 
-## POCOPHONE
+## POCO
 
 **[`E10`] POCO F1 (`beryllium`):**
 
@@ -794,7 +794,7 @@ SKR-H0: Black Shark Global
 
 SKR-A0: Black Shark China
 
-**Black Shark Helo:**
+**Black Shark Helo (`bullhead`):**
 
 AWM-A0: Black Shark Helo China
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.08
+- `xiaomi_en` Black Shark Helo's codename has been updated.
 ## 2020.02.07
 - `General` `huawei_global_en` mobile phone models have been added.
 ## 2020.02.06
@@ -6,7 +8,7 @@
 ## 2020.02.04
 - `xiaomi_en` Added POCO X2.
 ## 2020.01.16
-- `xiaomi_en` Added global varient of Black Shark phones (Black Shark Helo's codename is missing).
+- `xiaomi_en` Added global varient of Black Shark phones.
 ## 2020.01.14
 - `realme_en` Added Indian varient of realme X2.
 ## 2020.01.07
