@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200204
+# 小米手机型号汇总 20200208
 
 ## 小米数字系列
 
@@ -810,7 +810,7 @@ M1903C3GG, M1903C3GH: Redmi Go 国际版
 
 M1903C3GI: Redmi Go 印度版
 
-## POCOPHONE
+## POCO 手机
 
 **[`E10`] POCO F1 (`beryllium`):**
 
@@ -828,7 +828,7 @@ SKR-A0: 黑鲨游戏手机 全网通版
 
 SKR-H0: 黑鲨游戏手机 国际版
 
-**黑鲨游戏手机 Helo:**
+**黑鲨游戏手机 Helo (`bullhead`):**
 
 AWM-A0: 黑鲨游戏手机 Helo
 
