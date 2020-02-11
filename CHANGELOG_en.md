@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.12
+- `General` `honor_global_en` mobile phone models have been added.
 ## 2020.02.11
 - `xiaomi_en` Added Redmi 8A Dual (codename will be updated soon).
 ## 2020.02.08
