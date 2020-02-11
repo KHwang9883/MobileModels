@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020.02.12
+- `samsung` 新增 Galaxy S20 系列、Galaxy Z Flip。
 - `xiaomi` 更新 Redmi 8A Dual codename。
 ## 2020.02.11
 - `xiaomi` 新增 Redmi 8A Dual。

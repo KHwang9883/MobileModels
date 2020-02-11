@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20191120
+# 三星手机型号汇总 20200212
 
 ## Galaxy S 系列
 
@@ -141,6 +141,18 @@ SM-G9738: Galaxy S10 4G+
 SM-G9750: Galaxy S10+ 全网通版
 
 SM-G9758: Galaxy S10+ 4G+
+
+**Galaxy S20:**
+
+SM-G9810: Galaxy S20 5G
+
+**Galaxy S20+:**
+
+SM-G9860: Galaxy S20+ 5G
+
+**Galaxy S20 Ultra:**
+
+SM-G9880: Galaxy S20 Ultra 5G
 
 ## Galaxy Note 系列
 
@@ -330,12 +342,6 @@ SM-A8050: Galaxy A80
 
 SM-A9080: Galaxy A90 5G
 
-## Galaxy Fold 系列
-
-**Galaxy Fold:**
-
-SM-F9000: Galaxy Fold
-
 ## Galaxy M 系列
 
 **Galaxy M30s:**
@@ -467,6 +473,14 @@ SM-W2019: 三星 W2019
 SM-W2020: 三星 W20 5G
 
 ## 其他系列
+
+**Galaxy Fold:**
+
+SM-F9000: Galaxy Fold
+
+**Galaxy Z Flip:**
+
+SM-F7000: Galaxy Z Flip
 
 **Galaxy Folder:**
 
