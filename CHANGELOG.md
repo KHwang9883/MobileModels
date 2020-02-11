@@ -1,6 +1,8 @@
 # 更新日志
+## 2020.02.12
+- `xiaomi` 更新 Redmi 8A Dual codename。
 ## 2020.02.11
-- `xiaomi` 新增 Redmi 8A Dual（codename 待更新）。
+- `xiaomi` 新增 Redmi 8A Dual。
 ## 2020.02.08
 - `oppo` 新增 OPPO Reno3 元气版。
 - `xiaomi` 更新黑鲨 Helo codename。
