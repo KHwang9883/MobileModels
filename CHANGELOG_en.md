@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.11
+- `xiaomi_en` Added Redmi 8A Dual (codename will be updated soon).
 ## 2020.02.08
 - `xiaomi_en` Black Shark Helo's codename has been updated.
 ## 2020.02.07
