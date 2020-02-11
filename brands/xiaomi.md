@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200208
+# 小米手机型号汇总 20200211
 
 ## 小米数字系列
 
@@ -569,6 +569,10 @@ M1908C3KE: Redmi 8A 全网通版
 M1908C3KG, M1908C3KH: Redmi 8A 国际版
 
 M1908C3KI: Redmi 8A 印度版
+
+**[`C3K3`] Redmi 8A Dual:**
+
+M2001C3K3I: Redmi 8A Dual 印度版
 
 ## 红米 Redmi Note 系列
 
