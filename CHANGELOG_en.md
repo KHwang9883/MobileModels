@@ -1,8 +1,9 @@
 # CHANGELOG
 ## 2020.02.12
 - `General` `honor_global_en` mobile phone models have been added.
+- `xiaomi_en` Redmi 8A Dual's codename has been updated.
 ## 2020.02.11
-- `xiaomi_en` Added Redmi 8A Dual (codename will be updated soon).
+- `xiaomi_en` Added Redmi 8A Dual.
 ## 2020.02.08
 - `xiaomi_en` Black Shark Helo's codename has been updated.
 ## 2020.02.07
