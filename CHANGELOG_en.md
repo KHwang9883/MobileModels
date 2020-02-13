@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.13
+- `xiaomi_en` Added Xiaomi Mi 10 series.
 ## 2020.02.12
 - `General` `honor_global_en` mobile phone models have been added.
 - `xiaomi_en` Redmi 8A Dual's codename has been updated.

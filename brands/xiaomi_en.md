@@ -174,6 +174,24 @@ M1903F11G: Mi 9T Pro Global
 
 M1904F3BG: Mi 9 Lite Global
 
+**[`J2`] Mi 10 (`umi`):**
+
+M2001J2G: Mi 10 Global
+
+M2001J2I: Mi 10 India
+
+M2001J2E: Mi 10 China
+
+M2001J2C: Mi 10 Chinese Carrier Version
+
+**[`J1`] Mi 10 Pro (`cmi`):**
+
+M2001J1G: Mi 10 Pro Global
+
+M2001J1E: Mi 10 Pro China
+
+M2001J1C: Mi 10 Pro Chinese Carrier Version
+
 **[`X5`] Mi Note (`virgo`):**
 
 2015011: Mi Note Global
