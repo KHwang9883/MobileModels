@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200212
+# 三星手机型号汇总 20200222
 
 ## Galaxy S 系列
 
@@ -472,7 +472,7 @@ SM-W2019: 三星 W2019
 
 SM-W2020: 三星 W20 5G
 
-## 其他系列
+## 其他手机系列
 
 **Galaxy Fold:**
 
@@ -499,3 +499,121 @@ SM-G8508S: Galaxy Alpha
 SM-E7000: Galaxy E7 公开版
 
 SM-E7009: Galaxy E7 电信定制版
+
+## Galaxy Tab S 系列
+
+**Galaxy Tab S:**
+
+SM-T700: Galaxy Tab S 8.4 WLAN
+
+SM-T705C: Galaxy Tab S 8.4 4G
+
+SM-T800: Galaxy Tab S 10.5 WLAN
+
+SM-T805C: Galaxy Tab S 10.5 4G
+
+**Galaxy Tab S2:**
+
+SM-T710: Galaxy Tab S2 8.0 WLAN (Exynos)
+
+SM-T715C: Galaxy Tab S2 8.0 4G (Exynos)
+
+SM-T713: Galaxy Tab S2 8.0 WLAN (高通)
+
+SM-T719C: Galaxy Tab S2 8.0 4G (高通)
+
+SM-T810: Galaxy Tab S2 9.7 WLAN (Exynos)
+
+SM-T815C: Galaxy Tab S2 9.7 4G (Exynos)
+
+SM-T813: Galaxy Tab S2 9.7 WLAN (高通)
+
+SM-T819C: Galaxy Tab S2 9.7 4G (高通)
+
+**Galaxy Tab S3:**
+
+SM-T820: Galaxy Tab S3 WLAN
+
+SM-T825C: Galaxy Tab S3 4G
+
+**Galaxy Tab S4:**
+
+SM-T830: Galaxy Tab S4 WLAN
+
+SM-T835C: Galaxy Tab S4 4G
+
+**Galaxy Tab S5e:**
+
+SM-T720: Galaxy Tab S5e WLAN
+
+SM-T725C: Galaxy Tab S5e 4G
+
+**Galaxy Tab S6:**
+
+SM-T860: Galaxy Tab S6 WLAN
+
+## Galaxy Tab A 系列
+
+**Galaxy Tab A:**
+
+SM-T350: Galaxy Tab A 8.0 WLAN
+
+SM-T355C: Galaxy Tab A 8.0 4G
+
+SM-T550: Galaxy Tab A 9.7 WLAN
+
+SM-T555C: Galaxy Tab A 9.7 4G
+
+**Galaxy Tab A (2016):**
+
+SM-T580: Galaxy Tab A (2016) 10.1 WLAN
+
+SM-T585C: Galaxy Tab A (2016) 10.1 4G
+
+**Galaxy Tab A (2017):**
+
+SM-T380: Galaxy Tab A (2017) 8.0 WLAN
+
+SM-T385C: Galaxy Tab A (2017) 8.0 4G
+
+**Galaxy Tab A (2018):**
+
+SM-T590: Galaxy Tab A (2018) 10.5 WLAN
+
+SM-T595C: Galaxy Tab A (2018) 10.5 4G
+
+**Galaxy Tab A (2019):**
+
+SM-T290: Galaxy Tab A (2019) 8.0 WLAN
+
+SM-T295C: Galaxy Tab A (2019) 8.0 4G
+
+SM-T510: Galaxy Tab A (2019) 10.1 WLAN
+
+## Galaxy Tab 系列
+
+**Galaxy Tab4:**
+
+SM-T230: Galaxy Tab4 7.0 WLAN
+
+SM-T231: Galaxy Tab4 7.0 3G
+
+SM-T330: Galaxy Tab4 8.0 WLAN
+
+SM-T331: Galaxy Tab4 8.0 3G
+
+SM-T530: Galaxy Tab4 10.1 WLAN
+
+SM-T531: Galaxy Tab4 10.1 3G
+
+**Galaxy Tab PRO:**
+
+SM-T320: Galaxy Tab PRO 8.4 WLAN
+
+SM-T321: Galaxy Tab PRO 8.4 3G
+
+SM-T520: Galaxy Tab PRO 10.1 WLAN
+
+**Galaxy TabPro S:**
+
+SM-W700: Galaxy TabPro S WLAN
