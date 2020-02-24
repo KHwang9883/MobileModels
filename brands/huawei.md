@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200207
+# 华为手机型号汇总 20200224
 
 ## HUAWEI Mate 系列
 
@@ -137,6 +137,10 @@ LIO-TN00: HUAWEI Mate 30 Pro 5G 移动定制版
 **HUAWEI Mate 30 RS 保时捷设计:**
 
 LIO-AN00P: HUAWEI Mate 30 RS 保时捷设计
+
+**HUAWEI Mate Xs (`tahiti`):**
+
+TAH-AN00m: HUAWEI Mate Xs
 
 ## HUAWEI P 系列
 

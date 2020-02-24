@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020.02.24
+- `huawei` 新增 HUAWEI Mate Xs。
 - `realme` 新增 realme X50 Pro 国行版。
 ## 2020.02.22
 - `samsung` 新增三星平板系列。
