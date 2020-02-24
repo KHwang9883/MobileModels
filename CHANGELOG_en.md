@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.02.24
+- `realme_en` Added Chinese varient of realme X50 Pro.
 ## 2020.02.13
 - `xiaomi_en` Added Xiaomi Mi 10 series.
 ## 2020.02.12

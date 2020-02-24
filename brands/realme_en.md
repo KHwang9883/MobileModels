@@ -101,3 +101,7 @@ RMX1931: realme X2 Pro
 **realme X50:**
 
 RMX2051: realme X50 5G
+
+**realme X50 Pro:**
+
+RMX2071: realme X50 Pro 5G
