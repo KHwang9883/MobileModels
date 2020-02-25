@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.02.25
+- `vivo` 新增 iQOO 3、vivo Z6。
 ## 2020.02.24
 - `huawei` 新增 HUAWEI Mate Xs。
 - `realme` 新增 realme X50 Pro 国行版。
