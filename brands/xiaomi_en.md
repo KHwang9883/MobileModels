@@ -180,17 +180,13 @@ M2001J2G: Mi 10 Global
 
 M2001J2I: Mi 10 India
 
-M2001J2E: Mi 10 China
-
-M2001J2C: Mi 10 Chinese Carrier Version
+M2001J2E, M2001J2C: Mi 10 China
 
 **[`J1`] Mi 10 Pro (`cmi`):**
 
 M2001J1G: Mi 10 Pro Global
 
-M2001J1E: Mi 10 Pro China
-
-M2001J1C: Mi 10 Pro Chinese Carrier Version
+M2001J1E, M2001J1C: Mi 10 Pro China
 
 **[`X5`] Mi Note (`virgo`):**
 
@@ -831,3 +827,11 @@ SKW-A0: Black Shark 2 China
 DLT-H0: Black Shark 2 Pro Global
 
 DLT-A0: Black Shark 2 Pro China
+
+**Black Shark 3 (`klein`):**
+
+KLE-A0: Black Shark 3
+
+**Black Shark 3 Pro (`mobius`):**
+
+MBU-A0: Black Shark 3 Pro
