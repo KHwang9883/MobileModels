@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20200225
+# vivo 手机型号汇总 20200303
 
 ## X 系列
 
@@ -69,6 +69,10 @@ V1923T: vivo NEX 3 移动全网通版
 V1924A: vivo NEX 3 5G 全网通版
 
 V1924T: vivo NEX 3 5G 移动全网通版
+
+**vivo NEX 3S 5G (`PD1950`):**
+
+V1950A: vivo NEX 3S 5G 全网通版
 
 ## Z 系列
 
