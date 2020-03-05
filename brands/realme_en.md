@@ -42,6 +42,14 @@ RMX2030: realme 5i
 
 RMX1971: realme 5 Pro
 
+**realme 6:**
+
+RMX2001: realme 6
+
+**realme 6 Pro:**
+
+RMX2061: realme 6 Pro
+
 **realme X:**
 
 RMX1901: realme X

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.03.05
+- `realme_en` Added realme 6 series.
 ## 2020.03.03
 - `xiaomi_en` Added Black Shark 3 series.
 ## 2020.02.24
