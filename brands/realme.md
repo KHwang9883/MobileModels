@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200224
+# realme 手机型号汇总 20200305
 
 ## 中国产品
 
@@ -71,6 +71,14 @@ RMX2030: realme 5i
 **realme 5 Pro:**
 
 RMX1971: realme 5 Pro
+
+**realme 6:**
+
+RMX2001: realme 6
+
+**realme 6 Pro:**
+
+RMX2061: realme 6 Pro
 
 **realme X:**
 
