@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20200208
+# OPPO 手机型号汇总 20200306
 
 ## R 系列
 
@@ -43,6 +43,16 @@ PAFT00: OPPO Find X 标准版 移动版
 PAHM00: OPPO Find X 超级闪充版/兰博基尼版 全网通版
 
 PAFT10: OPPO Find X 超级闪充版 移动版
+
+**OPPO Find X2:**
+
+PDEM10: OPPO Find X2 全网通版
+
+PDET10: OPPO Find X2 移动版
+
+**OPPO Find X2 Pro:**
+
+PDEM30: OPPO Find X2 Pro 全网通版
 
 ## Reno 系列
 
