@@ -728,6 +728,14 @@ M1906G7T: Redmi Note 8 Pro Chinese Carrier Version
 
 M1906G7I: Redmi Note 8 Pro India
 
+**[`J6A1`] Redmi Note 9 Pro (`curtana`):**
+
+M2003J6A1I: Redmi Note 9 Pro India
+
+**[`J6B1`] Redmi Note 9 Pro Max:**
+
+M2003J6B1I: Redmi Note 9 Pro Max India
+
 **[`F10`] Redmi K20 (`davinci`):**
 
 M1903F10A: Redmi K20 China
