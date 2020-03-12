@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.03.12
+- `xiaomi` 新增 Redmi Note 9 Pro 系列（Redmi Note 9 Pro Max 的 codename 待更新）。
 ## 2020.03.06
 - `oppo` 新增 OPPO Find X2 系列。
 ## 2020.03.05
