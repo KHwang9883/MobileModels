@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2020.03.13
 - `honor` Added HONOR View30 PRO & HONOR 9X PRO.
+- `huawei` Added HUAWEI Mate Xs.
 ## 2020.03.12
 - `xiaomi_en` Added Redmi Note 9 Pro series (the Pro Max model's codename will be added soon.)
 ## 2020.03.05

@@ -112,6 +112,10 @@ LIO-N29: HUAWEI Mate 30 Pro 5G Dual SIM
 
 LIO-N29: PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM
 
+**HUAWEI Mate Xs (`tahiti`):**
+
+TAH-N29m: HUAWEI Mate Xs Dual SIM
+
 ## HUAWEI P Series
 
 **HUAWEI Ascend P6:**
