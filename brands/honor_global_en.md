@@ -122,6 +122,10 @@ LLD-AL20: HONOR 9N Dual SIM
 
 STK-L22, STK-LX1, STK-LX3: HONOR 9X Dual SIM
 
+**HONOR 9X PRO (`hulk`):**
+
+HLK-L41, HLK-L42: HONOR 9X PRO Dual SIM
+
 **HONOR 9X Lite (`johnson`):**
 
 JSN-L21, JSN-L22, JSN-L23: HONOR 9X Lite Dual SIM
@@ -159,3 +163,7 @@ YAL-L41: HONOR 20 PRO Dual SIM
 **HONOR 20i (`harry`):**
 
 HRY-AL00Ta: HONOR 20i Dual SIM
+
+**HONOR View30 PRO (`oxford`):**
+
+OXF-N29, OXF-AN10: HONOR View30 PRO Dual SIM
