@@ -392,6 +392,10 @@ M816Q: Meizu V8 China
 
 M810H: Meizu M8c Global
 
+**Meizu M10 (`m1918`):**
+
+M918H: Meizu M10 Global
+
 **Meizu M3 Max (`s25`):**
 
 S685H: Meizu M3 Max Global
