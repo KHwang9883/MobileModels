@@ -732,7 +732,7 @@ M1906G7I: Redmi Note 8 Pro India
 
 M2003J6A1I: Redmi Note 9 Pro India
 
-**[`J6B1`] Redmi Note 9 Pro Max:**
+**[`J6B1`] Redmi Note 9 Pro Max (`excalibur`):**
 
 M2003J6B1I: Redmi Note 9 Pro Max India
 
