@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200312
+# 小米手机型号汇总 20200315
 
 ## 小米数字系列
 
@@ -762,7 +762,7 @@ M1906G7I: Redmi Note 8 Pro 印度版
 
 M2003J6A1I: Redmi Note 9 Pro 印度版
 
-**[`J6B1`] Redmi Note 9 Pro Max:**
+**[`J6B1`] Redmi Note 9 Pro Max (`excalibur`):**
 
 M2003J6B1I: Redmi Note 9 Pro Max 印度版
 

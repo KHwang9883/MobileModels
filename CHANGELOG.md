@@ -1,11 +1,13 @@
 # 更新日志
+## 2020.03.15
+- `xiaomi` 更新 Redmi Note 9 Max 的 codename。
 ## 2020.03.13
 - `huawei` 更新部分华为平板产品代号。
 - `meizu` 新增魅族 M10 国际版。
 - `mitv` 新增小米壁画电视 75 英寸。
 ## 2020.03.12
 - `nubia` 新增红魔 5G 游戏手机。
-- `xiaomi` 新增 Redmi Note 9 Pro 系列（Redmi Note 9 Pro Max 的 codename 待更新）。
+- `xiaomi` 新增 Redmi Note 9 Pro 系列。
 ## 2020.03.06
 - `oppo` 新增 OPPO Find X2 系列。
 ## 2020.03.05
