@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.03.18
+- `realme_en` Added realme 6i.
 ## 2020.03.15
 - `xiaomi_en` Redmi Note 9 Pro Max's codename has been updated.
 ## 2020.03.13

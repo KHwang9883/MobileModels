@@ -50,6 +50,10 @@ RMX2001: realme 6
 
 RMX2061: realme 6 Pro
 
+**realme 6i:**
+
+RMX2040: realme 6i
+
 **realme X:**
 
 RMX1901: realme X
