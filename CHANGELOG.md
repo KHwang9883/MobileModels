@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.03.18
+- `realme` 新增 realme 6i。
 ## 2020.03.15
 - `xiaomi` 更新 Redmi Note 9 Max 的 codename。
 ## 2020.03.13
