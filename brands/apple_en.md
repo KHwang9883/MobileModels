@@ -370,45 +370,65 @@ A1709: iPad Pro (10.5-inch) Wi-Fi + Cellular
 
 A1852: iPad Pro (10.5-inch) Wi-Fi + Cellular (China)
 
-**iPad Pro (12.9-inch, 3rd generation) (`iPad8,1`):**
-
-A1876: iPad Pro (12.9-inch, 3rd generation) Wi-Fi
-
-**iPad Pro (12.9-inch, 3rd generation) (`iPad8,2`):**
-
-A1876: iPad Pro (12.9-inch, 3rd generation) Wi-Fi (1TB)
-
-**iPad Pro (12.9-inch, 3rd generation) (`iPad8,3`):**
-
-A1895, A2014: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular
-
-A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (China)
-
-**iPad Pro (12.9-inch, 3rd generation) (`iPad8,4`):**
-
-A1895, A2014: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB)
-
-A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China)
-
-**iPad Pro (11-inch) (`iPad8,5`):**
+**iPad Pro (11-inch) (`iPad8,1`):**
 
 A1980: iPad Pro (11-inch) Wi-Fi
 
-**iPad Pro (11-inch) (`iPad8,6`):**
+**iPad Pro (11-inch) (`iPad8,2`):**
 
 A1980: iPad Pro (11-inch) Wi-Fi (1TB)
 
-**iPad Pro (11-inch) (`iPad8,7`):**
+**iPad Pro (11-inch) (`iPad8,3`):**
 
 A1934, A2013: iPad Pro (11-inch) Wi-Fi + Cellular
 
 A1979: iPad Pro (11-inch) Wi-Fi + Cellular (China)
 
-**iPad Pro (11-inch) (`iPad8,8`):**
+**iPad Pro (11-inch) (`iPad8,4`):**
 
 A1934, A2013: iPad Pro (11-inch) Wi-Fi + Cellular (1TB)
 
 A1979: iPad Pro (11-inch) Wi-Fi + Cellular (1TB) (China)
+
+**iPad Pro (12.9-inch, 3rd generation) (`iPad8,5`):**
+
+A1876: iPad Pro (12.9-inch, 3rd generation) Wi-Fi
+
+**iPad Pro (12.9-inch, 3rd generation) (`iPad8,6`):**
+
+A1876: iPad Pro (12.9-inch, 3rd generation) Wi-Fi (1TB)
+
+**iPad Pro (12.9-inch, 3rd generation) (`iPad8,7`):**
+
+A1895, A2014: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular
+
+A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (China)
+
+**iPad Pro (12.9-inch, 3rd generation) (`iPad8,8`):**
+
+A1895, A2014: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB)
+
+A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China)
+
+**iPad Pro (11-inch, 2nd generation) (`iPad8,9`):**
+
+A2228: iPad Pro (11-inch, 2nd generation) Wi-Fi
+
+**iPad Pro (11-inch, 2nd generation) (`iPad8,10`):**
+
+A2068, A2230: iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular
+
+A2231: iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular (China)
+
+**iPad Pro (12.9-inch, 4th generation) (`iPad8,11`):**
+
+A2229: iPad Pro (12.9-inch, 4th generation) Wi-Fi
+
+**iPad Pro (12.9-inch, 4th generation) (`iPad8,12`):**
+
+A2069, A2232: iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular
+
+A2233: iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China)
 
 ## iPad mini
 

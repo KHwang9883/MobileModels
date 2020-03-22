@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.03.22
+- `apple_en` Added the new iPad Pros.
 ## 2020.03.18
 - `realme_en` Added realme 6i.
 ## 2020.03.15
