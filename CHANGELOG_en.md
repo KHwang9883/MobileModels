@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.03.23
+- `xiaomi_en` Added Redmi Note 9S.
 ## 2020.03.22
 - `apple_en` Added the new iPad Pros.
 ## 2020.03.18
