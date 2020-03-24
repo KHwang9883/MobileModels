@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.03.24
+- `xiaomi_en` Added Redmi K30 Pro (information for K30 Pro Zoom Edition will be added after further confirmation).
 ## 2020.03.23
 - `xiaomi_en` Added Redmi Note 9S.
 ## 2020.03.22

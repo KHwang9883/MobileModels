@@ -774,6 +774,10 @@ M1912G7BE: Redmi K30 4G China
 
 M1912G7BC: Redmi K30 4G Chinese Carrier Version
 
+**[`J11`] Redmi K30 Pro (`lmi`):**
+
+M2001J11E, M2001J11C: Redmi K30 Pro China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 2016020: Redmi Pro 32GB
