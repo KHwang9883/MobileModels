@@ -776,7 +776,11 @@ M1912G7BC: Redmi K30 4G Chinese Carrier Version
 
 **[`J11`] Redmi K30 Pro (`lmi`):**
 
-M2001J11E, M2001J11C: Redmi K30 Pro China
+M2001J11C: Redmi K30 Pro China
+
+**[`J11`] Redmi K30 Pro Zoom Edition (`lmipro`):**
+
+M2001J11E: Redmi K30 Pro Zoom Edition China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
