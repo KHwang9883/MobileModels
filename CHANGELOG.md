@@ -1,7 +1,9 @@
 # 更新日志
+## 2020.03.25
+- `xiaomi` 更新 Redmi K30 Pro 变焦版相关信息。
 ## 2020.03.24
 - `mitv` 新增 Redmi 智能电视 MAX 98 英寸。
-- `xiaomi` 新增 Redmi K30 Pro（Redmi K30 Pro 变焦版相关信息将在进一步确认后补充）。
+- `xiaomi` 新增 Redmi K30 Pro。
 ## 2020.03.23
 - `xiaomi` 新增 Redmi Note 9S 国际版。
 ## 2020.03.22

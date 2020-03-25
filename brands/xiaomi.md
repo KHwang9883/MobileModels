@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200324
+# 小米手机型号汇总 20200325
 
 ## 小米数字系列
 
@@ -808,7 +808,11 @@ M1912G7BC: Redmi K30 4G 运营商全网通版
 
 **[`J11`] Redmi K30 Pro (`lmi`):**
 
-M2001J11E, M2001J11C: Redmi K30 Pro 全网通版
+M2001J11C: Redmi K30 Pro 全网通版
+
+**[`J11`] Redmi K30 Pro (`lmipro`):**
+
+M2001J11E: Redmi K30 Pro 变焦版 全网通版
 
 ## 其他红米 Redmi 手机
 
