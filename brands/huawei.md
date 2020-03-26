@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200313
+# 华为手机型号汇总 20200326
 
 ## HUAWEI Mate 系列
 
@@ -263,6 +263,18 @@ VOG-AL00: HUAWEI P30 Pro 全网通版 (8GB+128GB)
 VOG-AL10: HUAWEI P30 Pro 全网通版
 
 VOG-TL00: HUAWEI P30 Pro 移动 4G+ 版
+
+**HUAWEI P40 (`anna`):**
+
+ANA-AN00: HUAWEI P40 5G 全网通版
+
+ANA-TN00: HUAWEI P40 5G 移动定制版
+
+**HUAWEI P40 Pro (`elsa`):**
+
+ELS-AN00: HUAWEI P40 Pro 5G 全网通版
+
+ELS-TN00: HUAWEI P40 Pro 5G 移动定制版
 
 ## HUAWEI nova 系列
 
