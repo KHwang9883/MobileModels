@@ -360,6 +360,8 @@ GLK-AL00: HUAWEI nova 5i 全网通版
 
 GLK-TL00: HUAWEI nova 5i 移动 4G+ 版
 
+GLK-LX1U: HUAWEI nova 5i 联通定制版
+
 **HUAWEI nova 5i Pro:**
 
 SPN-AL00: HUAWEI nova 5i Pro 全网通版
