@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.03.26
+- `huawei_global_en` Added HUAWEI P40 series.
 ## 2020.03.25
 - `xiaomi_en` Updated info for Redmi K30 Pro Zoom Edition.
 ## 2020.03.24
