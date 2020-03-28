@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200326
+# 华为手机型号汇总 20200328
 
 ## HUAWEI Mate 系列
 
@@ -275,6 +275,12 @@ ANA-TN00: HUAWEI P40 5G 移动定制版
 ELS-AN00: HUAWEI P40 Pro 5G 全网通版
 
 ELS-TN00: HUAWEI P40 Pro 5G 移动定制版
+
+**HUAWEI P40 Pro+ (`elsa`):**
+
+ELS-AN10: HUAWEI P40 Pro+ 5G 全网通版
+
+ELS-TN10: HUAWEI P40 Pro+ 5G 移动定制版
 
 ## HUAWEI nova 系列
 
