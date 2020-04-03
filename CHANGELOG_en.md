@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.04.03
+- `xiaomi_en` Added Mi 10 Lite (codename will be added soon) & Redmi 8A Pro.
 ## 2020.03.26
 - `huawei_global_en` Added HUAWEI P40 series.
 ## 2020.03.25

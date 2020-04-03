@@ -188,6 +188,10 @@ M2001J1G: Mi 10 Pro Global
 
 M2001J1E, M2001J1C: Mi 10 Pro China
 
+**[`J9`] Mi 10 Lite:**
+
+M2002J9G, M2002J9S: Mi 10 Lite Global
+
 **[`X5`] Mi Note (`virgo`):**
 
 2015011: Mi Note Global
@@ -562,9 +566,9 @@ M1908C3KI: Redmi 8A India
 
 M1908C3KE: Redmi 8A China
 
-**[`C3K3`] Redmi 8A Dual (`olivewood`):**
+**[`C3K3`] Redmi 8A Dual / Redmi 8A Pro (`olivewood`):**
 
-M2001C3K3I: Redmi 8A Dual India
+M2001C3K3I: Redmi 8A Dual India / Redmi 8A Pro Global
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -730,7 +734,7 @@ M1906G7I: Redmi Note 8 Pro India
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
-M2003J6A1G: Redmi Note 9S Global
+M2003J6A1G, M2003J6A1R: Redmi Note 9S Global
 
 M2003J6A1I: Redmi Note 9 Pro India
 
