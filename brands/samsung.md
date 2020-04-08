@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200222
+# 三星手机型号汇总 20200409
 
 ## Galaxy S 系列
 
@@ -341,6 +341,10 @@ SM-A8050: Galaxy A80
 **Galaxy A90 5G:**
 
 SM-A9080: Galaxy A90 5G
+
+**Galaxy A71 5G:**
+
+SM-A7160: Galaxy A71 5G
 
 ## Galaxy M 系列
 

@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.04.09
+- `samsung` 新增三星 Galaxy A71 5G。
 ## 2020.04.08
 - `honor` 新增荣耀 Play 4T 系列。
 - `huawei` 新增华为智慧屏 X65、HUAWEI MateBook X Pro (2020)。
