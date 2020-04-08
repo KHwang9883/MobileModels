@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20200330
+# 荣耀手机型号汇总 20200408
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
@@ -245,6 +245,14 @@ ASK-TL00x: 荣耀 Play 3 移动 4G+ 版
 **荣耀 Play 3e (`katyusha`):**
 
 KSA-AL10: 荣耀 Play 3e 全网通版
+
+**荣耀 Play 4T:**
+
+AKA-AL10: 荣耀 Play 4T 全网通版
+
+**荣耀 Play 4T Pro (`aquaman`):**
+
+AQM-AL10: 荣耀 Play 4T Pro 全网通版
 
 ## 荣耀 X 系列
 
