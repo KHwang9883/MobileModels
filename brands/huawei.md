@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200328
+# 华为手机型号汇总 20200408
 
 ## HUAWEI Mate 系列
 
@@ -786,6 +786,12 @@ MACHR-W29: HUAWEI MateBook X Pro (2019) i7
 
 MACHR-W29BL: HUAWEI MateBook X Pro (2019) i7 Linux 版
 
+**HUAWEI MateBook X Pro (2020):**
+
+MACHC-WAH9LP: HUAWEI MateBook X Pro (2020) i5
+
+MACHC-WAE9LP: HUAWEI MateBook X Pro (2020) i7
+
 **HUAWEI MateBook D:**
 
 PL-W09: HUAWEI MateBook D i5 集显
@@ -894,9 +900,17 @@ KLVC-WFE9L: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
 
 **华为智慧屏 (`hege`):**
 
+HEGE-550: 华为智慧屏 V55i-A (4GB+64GB)
+
+HEGE-550B: 华为智慧屏 V55i-B (4GB+32GB)
+
 HEGE-560: 华为智慧屏 V65
 
 HEGE-570: 华为智慧屏 V75
+
+**华为智慧屏 (`plat`):**
+
+PLAT-760: 华为智慧屏 X65
 
 ## 荣耀独立前产品 
 
