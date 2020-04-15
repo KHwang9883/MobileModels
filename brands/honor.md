@@ -1,6 +1,6 @@
-# 荣耀手机型号汇总 20200408
+# 荣耀手机型号汇总 20200415
 
-## 荣耀数字系列 (HONOR 系列 / N 系列)
+## 荣耀 HONOR 系列 ( N 系列)
 
 **荣耀 6 (`mogolia`):**
 
@@ -142,6 +142,22 @@ LRA-AL00: 荣耀 20 青春版 全网通版
 
 LRA-TL00: 荣耀 20 青春版 移动 4G+ 版
 
+**荣耀 30:**
+
+BMH-AN10: 荣耀 30 5G 全网通版
+
+BMH-TN10: 荣耀 30 5G 移动定制版
+
+**荣耀 30 Pro:**
+
+EBG-AN00: 荣耀 30 Pro 5G 全网通版
+
+EBG-TN00: 荣耀 30 Pro 5G 移动定制版
+
+**荣耀 30 Pro+:**
+
+EBG-AN10: 荣耀 30 Pro+ 全网通版
+
 **荣耀 30S (`cindy`):**
 
 CDY-AN90: 荣耀 30S 5G 全网通版
@@ -203,56 +219,6 @@ TNY-AL00: 荣耀 Magic 2 全网通版
 TNY-AL10: 荣耀 Magic 2 3D 感光版
 
 TNY-TL00: 荣耀 Magic 2 移动 4G+ 版
-
-## 荣耀 Note 系列
-
-**荣耀 Note 8 (`edison`):**
-
-EDI-AL10: 荣耀 Note 8 全网通版
-
-EDI-DL00: 荣耀 Note 8 移动/联通版
-
-**荣耀 Note 10 (`ravel`):**
-
-RVL-AL09: 荣耀 Note 10 全网通版
-
-## 荣耀 Play 系列
-
-**荣耀 V9 Play (`jimmy`):**
-
-JMM-AL00: 荣耀 V9 Play 全网通标配版
-
-JMM-AL10: 荣耀 V9 Play 全网通高配版
-
-JMM-TL00: 荣耀 V9 Play 移动定制标配版
-
-JMM-TL10: 荣耀 V9 Play 移动定制高配版
-
-**荣耀 Play (`cornell`):**
-
-COR-AL00: 荣耀 Play 全网通标配版
-
-COR-AL10: 荣耀 Play 全网通高配版
-
-COR-TL10: 荣耀 Play 移动 4G+ 高配版
-
-**荣耀 Play 3 (`asoka`):**
-
-ASK-AL00x: 荣耀 Play 3 全网通版
-
-ASK-TL00x: 荣耀 Play 3 移动 4G+ 版
-
-**荣耀 Play 3e (`katyusha`):**
-
-KSA-AL10: 荣耀 Play 3e 全网通版
-
-**荣耀 Play 4T:**
-
-AKA-AL10: 荣耀 Play 4T 全网通版
-
-**荣耀 Play 4T Pro (`aquaman`):**
-
-AQM-AL10: 荣耀 Play 4T Pro 全网通版
 
 ## 荣耀 X 系列
 
@@ -339,6 +305,56 @@ HLK-TL00: 荣耀 9X 移动 4G+ 版
 **荣耀 9X PRO (`hulk`):**
 
 HLK-AL10: 荣耀 9X PRO 全网通版
+
+## 荣耀 Play 系列
+
+**荣耀 V9 Play (`jimmy`):**
+
+JMM-AL00: 荣耀 V9 Play 全网通标配版
+
+JMM-AL10: 荣耀 V9 Play 全网通高配版
+
+JMM-TL00: 荣耀 V9 Play 移动定制标配版
+
+JMM-TL10: 荣耀 V9 Play 移动定制高配版
+
+**荣耀 Play (`cornell`):**
+
+COR-AL00: 荣耀 Play 全网通标配版
+
+COR-AL10: 荣耀 Play 全网通高配版
+
+COR-TL10: 荣耀 Play 移动 4G+ 高配版
+
+**荣耀 Play 3 (`asoka`):**
+
+ASK-AL00x: 荣耀 Play 3 全网通版
+
+ASK-TL00x: 荣耀 Play 3 移动 4G+ 版
+
+**荣耀 Play 3e (`katyusha`):**
+
+KSA-AL10: 荣耀 Play 3e 全网通版
+
+**荣耀 Play 4T:**
+
+AKA-AL10: 荣耀 Play 4T 全网通版
+
+**荣耀 Play 4T Pro (`aquaman`):**
+
+AQM-AL10: 荣耀 Play 4T Pro 全网通版
+
+## 荣耀 Note 系列
+
+**荣耀 Note 8 (`edison`):**
+
+EDI-AL10: 荣耀 Note 8 全网通版
+
+EDI-DL00: 荣耀 Note 8 移动/联通版
+
+**荣耀 Note 10 (`ravel`):**
+
+RVL-AL09: 荣耀 Note 10 全网通版
 
 ## 荣耀 C 系列
 
