@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20200322
+# Apple 设备型号汇总 20200416
 
 ## 国行型号
 
@@ -153,6 +153,12 @@ A2216: iPhone 11 Pro (中国移动)
 A2220: iPhone 11 Pro Max (国行)
 
 A2219: iPhone 11 Pro Max (中国移动)
+
+**iPhone SE (第 2 代) (`iPhone12,8`):**
+
+A2298: iPhone SE (第 2 代) (国行)
+
+A2297: iPhone SE (第 2 代) (中国移动)
 
 ### iPad
 
@@ -627,6 +633,12 @@ A2215: iPhone 11 Pro (其他国家和地区)
 A2161: iPhone 11 Pro Max (北美)
 
 A2218: iPhone 11 Pro Max (其他国家和地区)
+
+**iPhone SE (第 2 代) (`iPhone12,8`):**
+
+A2275: iPhone SE (第 2 代) (北美)
+
+A2296: iPhone SE (第 2 代) (其他国家和地区)
 
 ### iPad
 
