@@ -224,6 +224,16 @@ A2218: iPhone 11 Pro Max (Rest of the world)
 
 A2219: iPhone 11 Pro Max (China Mobile)
 
+**iPhone SE (2nd generation) (`iPhone12,8`):**
+
+A2275: iPhone SE (2nd generation) (North America)
+
+A2296: iPhone SE (2nd generation) (Rest of the world)
+
+A2298: iPhone SE (2nd generation) (China)
+
+A2297: iPhone SE (2nd generation) (China Mobile)
+
 ## iPad
 
 **iPad (`iPad1,1`):**

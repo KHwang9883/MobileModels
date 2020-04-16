@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.04.16
+- `apple_en` Added iPhone SE (2nd generation).
 ## 2020.04.03
 - `xiaomi_en` Added Mi 10 Lite (codename will be added soon) & Redmi 8A Pro.
 ## 2020.03.26
