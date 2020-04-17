@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200408
+# 华为手机型号汇总 20200417
 
 ## HUAWEI Mate 系列
 
@@ -729,6 +729,14 @@ MRX-AL09: HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)
 MRX-W19: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
 
 MRX-AL19: HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)
+
+MRX-AN19: HUAWEI MatePad Pro 5G 10.8 英寸 全网通版
+
+**HUAWEI MatePad (`bach3`):**
+
+BAH3-W09: HUAWEI MatePad 10.4 英寸 Wi-Fi 版
+
+BAH3-AL00: HUAWEI MatePad 10.4 英寸 全网通版
 
 **华为平板 C3 (华为平板 T3 行业专享版) (`kobe`):**
 

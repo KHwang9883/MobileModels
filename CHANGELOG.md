@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.04.17
+- `huawei` 新增 HUAWEI MatePad。
 ## 2020.04.16
 - `apple` 新增 iPhone SE (第 2 代)。
 - `vivo` 新增 iQOO Neo3。
