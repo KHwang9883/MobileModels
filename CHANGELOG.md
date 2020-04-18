@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020.04.18
 - `oppo` 新增 OPPO A52、OPPO A92s。
+- `vivo` 新增 vivo Y50。
 ## 2020.04.17
 - `huawei` 新增 HUAWEI MatePad。
 ## 2020.04.16
