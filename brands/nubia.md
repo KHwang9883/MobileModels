@@ -1,4 +1,4 @@
-# 努比亚手机型号汇总 20200312
+# 努比亚手机型号汇总 20200418
 
 ## Z 系列
 
@@ -143,6 +143,10 @@ NX616J: nubia X
 **nubia V18:**
 
 NX612J: nubia V18
+
+**nubia Play:**
+
+NX651J: nubia Play
 
 **nubia My 布拉格:**
 

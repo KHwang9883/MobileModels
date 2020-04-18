@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020.04.18
+- `nubia` 新增 nubia Play。
 - `oppo` 新增 OPPO A52、OPPO A92s。
 - `vivo` 新增 vivo Y50。
 ## 2020.04.17
