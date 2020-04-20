@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.04.20
+- `oneplus` 新增 OnePlus 8 系列（代号和区域信息需进一步确认）。
 ## 2020.04.18
 - `nubia` 新增 nubia Play。
 - `oppo` 新增 OPPO A52、OPPO A92s。

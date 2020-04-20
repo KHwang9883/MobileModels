@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20191013
+# 一加手机型号汇总 20200420
 
 ## 一加手机
 
@@ -107,3 +107,27 @@ HD1910: OnePlus 7T Pro 全网通版
 HD1911: OnePlus 7T Pro 印度版
 
 HD1913: OnePlus 7T Pro 欧洲版
+
+HD1925: OnePlus 7T Pro 5G
+
+**OnePlus 8:**
+
+IN2010: OnePlus 8 全网通版
+
+IN2011: OnePlus 8 印度版
+
+IN2013: OnePlus 8 欧洲版
+
+IN2015: OnePlus 8 国际版 (?)
+
+IN2017: OnePlus 8 T-Mobile 版 (?)
+
+**OnePlus 8 Pro:**
+
+IN2020: OnePlus 8 Pro 全网通版
+
+IN2021: OnePlus 8 Pro 印度版
+
+IN2013: OnePlus 8 Pro 欧洲版
+
+IN2015: OnePlus 8 Pro 国际版 (?)
