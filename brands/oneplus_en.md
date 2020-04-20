@@ -103,3 +103,27 @@ HD1910: OnePlus 7T Pro China
 HD1911: OnePlus 7T Pro India
 
 HD1913: OnePlus 7T Pro EU
+
+HD1925: OnePlus 7T Pro 5G
+
+**OnePlus 8:**
+
+IN2010: OnePlus 8 China
+
+IN2011: OnePlus 8 India
+
+IN2013: OnePlus 8 EU
+
+IN2015: OnePlus 8 Global (?)
+
+IN2017: OnePlus 8 T-Mobile (?)
+
+**OnePlus 8 Pro:**
+
+IN2020: OnePlus 8 Pro China
+
+IN2021: OnePlus 8 Pro India
+
+IN2013: OnePlus 8 Pro EU
+
+IN2015: OnePlus 8 Pro Global (?)

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.04.20
+- `oneplus_en` Added OnePlus 8 series (codenames and regional infomation need further confirmation).
 ## 2020.04.16
 - `apple_en` Added iPhone SE (2nd generation).
 ## 2020.04.03
@@ -77,7 +79,7 @@
 ## 2019.10.15
 - `xiaomi_en` Updated Redmi 8 & Redmi 8A's codename.
 ## 2019.10.13
-- `oneplus_en` Added OnePlus 7T Series.
+- `oneplus_en` Added OnePlus 7T series.
 - `oneplus_en` Fixed OnePlus 7 Pro's regional information.
 ## 2019.10.11
 - `meizu_en` Added Meizu 16T.
