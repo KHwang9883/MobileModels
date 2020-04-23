@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.04.23
+- `realme_en` Added realme X50m.
 ## 2020.04.20
 - `oneplus_en` Added OnePlus 8 series (codenames and regional infomation need further confirmation).
 ## 2020.04.16
