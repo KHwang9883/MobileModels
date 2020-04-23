@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200417
+# 华为手机型号汇总 20200423
 
 ## HUAWEI Mate 系列
 
@@ -391,6 +391,24 @@ WLZ-AL10: HUAWEI nova 6 4G 全网通版
 JNY-AL10: HUAWEI nova 6 SE 全网通版
 
 JNY-TL10: HUAWEI nova 6 SE 移动全网通版
+
+**HUAWEI nova 7:**
+
+JEF-AN00: HUAWEI nova 7 5G 全网通版
+
+JEF-TN00: HUAWEI nova 7 5G 移动全网通版
+
+**HUAWEI nova 7 Pro:**
+
+JER-AN10: HUAWEI nova 7 Pro 5G 全网通版
+
+JER-TN10: HUAWEI nova 7 Pro 5G 移动全网通版
+
+**HUAWEI nova 7 SE (`cindy`):**
+
+CDY-AN00: HUAWEI nova 7 SE 5G 全网通版
+
+CDY-TN00: HUAWEI nova 7 SE 5G 移动全网通版
 
 ## HUAWEI G 系列
 

@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020.04.23
+- `huawei` 新增 HUAWEI nova 7 系列。
 - `realme` 新增 realme X50m。
 ## 2020.04.20
 - `oneplus` 新增 OnePlus 8 系列（代号和区域信息需进一步确认）。
