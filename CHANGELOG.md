@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.04.27
+- `xiaomi` 新增小米 10 青春版（codename 待更新）、Redmi K30 Pro 印度版。
 ## 2020.04.23
 - `huawei` 新增 HUAWEI nova 7 系列。
 - `realme` 新增 realme X50m。
