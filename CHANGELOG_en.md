@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.04.27
+- `xiaomi_en` Added Chinese varient of Mi 10 Lite and the Indian varient of Redmi K30 Pro.
 ## 2020.04.23
 - `realme_en` Added realme X50m.
 ## 2020.04.20
