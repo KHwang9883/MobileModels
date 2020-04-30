@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.01
+- `xiaomi_en` Added Mi Note 10 Lite & Redmi Note 9 series.
 ## 2020.04.27
 - `xiaomi_en` Added Chinese varient of Mi 10 Lite and the Indian varient of Redmi K30 Pro.
 ## 2020.04.23
@@ -8,7 +10,7 @@
 ## 2020.04.16
 - `apple_en` Added iPhone SE (2nd generation).
 ## 2020.04.03
-- `xiaomi_en` Added Mi 10 Lite (codename will be added soon) & Redmi 8A Pro.
+- `xiaomi_en` Added Mi 10 Lite & Redmi 8A Pro.
 ## 2020.03.26
 - `huawei_global_en` Added HUAWEI P40 series.
 ## 2020.03.25

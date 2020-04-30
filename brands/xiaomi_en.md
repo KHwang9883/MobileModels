@@ -188,7 +188,7 @@ M2001J1G: Mi 10 Pro Global
 
 M2001J1E, M2001J1C: Mi 10 Pro China
 
-**[`J9`] Mi 10 Lite:**
+**[`J9`] Mi 10 Lite (`monet`):**
 
 M2002J9E: Mi 10 Lite China
 
@@ -229,6 +229,10 @@ MCT8: Mi Note 3 China Mobile
 M1910F4G: Mi Note 10 Global
 
 M1910F4S: Mi Note 10 Pro Global
+
+**[`F4L`] Mi Note 10 Lite:**
+
+M2002F4LG: Mi Note 10 Lite Global
 
 **[`A8`] Mi MIX (`lithium`):**
 
@@ -734,6 +738,10 @@ M1906G7T: Redmi Note 8 Pro Chinese Carrier Version
 
 M1906G7I: Redmi Note 8 Pro India
 
+**[`J15S`] Redmi Note 9 (`merlin`):**
+
+M2003J15SS: Redmi Note 9 Global
+
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 M2003J6A1G, M2003J6A1R: Redmi Note 9S Global
@@ -743,6 +751,10 @@ M2003J6A1I: Redmi Note 9 Pro India
 **[`J6B1`] Redmi Note 9 Pro Max (`excalibur`):**
 
 M2003J6B1I: Redmi Note 9 Pro Max India
+
+**[`J6B2`] Redmi Note 9 Pro (`joyeuse`):**
+
+M2003J6B2G: Redmi Note 9 Pro Global
 
 **[`F10`] Redmi K20 (`davinci`):**
 
