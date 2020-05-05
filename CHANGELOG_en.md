@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.06
+- `xiaomi_en` Added Redmi Note 9 NFC varient.
 ## 2020.05.01
 - `xiaomi_en` Added Mi Note 10 Lite & Redmi Note 9 series.
 ## 2020.04.27

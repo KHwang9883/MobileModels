@@ -740,7 +740,11 @@ M1906G7I: Redmi Note 8 Pro India
 
 **[`J15S`] Redmi Note 9 (`merlin`):**
 
-M2003J15SS: Redmi Note 9 Global
+M2003J15SS: Redmi Note 9 Global (No NFC)
+
+**[`J15S`] Redmi Note 9 (`merlinnfc`):**
+
+M2003J15SG: Redmi Note 9 Global (NFC)
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
