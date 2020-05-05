@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.05.06
+- `xiaomi` 新增 Redmi Note 9 NFC 版本。
 ## 2020.05.01
 - `xiaomi` 新增 Redmi Note 9 系列国际版、小米 Note 10 Lite 国际版。
 ## 2020.04.27

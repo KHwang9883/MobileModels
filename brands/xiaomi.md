@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200501
+# 小米手机型号汇总 20200506
 
 ## 小米数字系列
 
@@ -770,7 +770,11 @@ M1906G7I: Redmi Note 8 Pro 印度版
 
 **[`J15S`] Redmi Note 9 (`merlin`):**
 
-M2003J15SS: Redmi Note 9 国际版
+M2003J15SS: Redmi Note 9 国际版 (无 NFC)
+
+**[`J15S`] Redmi Note 9 (`merlinnfc`):**
+
+M2003J15SG: Redmi Note 9 国际版 (有 NFC)
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
