@@ -2,6 +2,7 @@
 ## 2020.05.06
 - `honor` 更新部分产品型号。
 - `huawei` 更新华为畅享 10e 型号。
+- `vivo` 新增 vivo G1。
 - `xiaomi` 新增 Redmi Note 9 NFC 版本。
 ## 2020.05.01
 - `xiaomi` 新增 Redmi Note 9 系列国际版、小米 Note 10 Lite 国际版。
