@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020.05.08
 - `meizu` 新增魅族 17 系列。
+- `oneplus` 更新 OnePlus 8 代号。
 - `xiaomi` 新增部分产品国际版，更新小米 10 青春版信息。
 ## 2020.05.06
 - `honor` 更新部分产品型号。
@@ -15,7 +16,7 @@
 - `huawei` 新增 HUAWEI nova 7 系列。
 - `realme` 新增 realme X50m。
 ## 2020.04.20
-- `oneplus` 新增 OnePlus 8 系列（代号和区域信息需进一步确认）。
+- `oneplus` 新增 OnePlus 8 系列。
 ## 2020.04.18
 - `nubia` 新增 nubia Play。
 - `oppo` 新增 OPPO A52、OPPO A92s。

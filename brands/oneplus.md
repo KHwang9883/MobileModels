@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20200420
+# 一加手机型号汇总 20200508
 
 ## 一加手机
 
@@ -82,7 +82,7 @@ GM1915: OnePlus 7 Pro T-Mobile 版
 
 GM1917: OnePlus 7 Pro 国际/北美版
 
-**OnePlus 7 Pro 5G (`guacamole`):**
+**OnePlus 7 Pro 5G (`guacamoles`):**
 
 GM1920: OnePlus 7 Pro 5G 欧洲版
 
@@ -108,9 +108,11 @@ HD1911: OnePlus 7T Pro 印度版
 
 HD1913: OnePlus 7T Pro 欧洲版
 
+**OnePlus 7T Pro 5G (`hotdogg`):**
+
 HD1925: OnePlus 7T Pro 5G
 
-**OnePlus 8:**
+**OnePlus 8 (`instantnoodle`):**
 
 IN2010: OnePlus 8 全网通版
 
@@ -118,11 +120,13 @@ IN2011: OnePlus 8 印度版
 
 IN2013: OnePlus 8 欧洲版
 
-IN2015: OnePlus 8 国际版 (?)
+IN2015: OnePlus 8 国际版
 
 IN2017: OnePlus 8 T-Mobile 版 (?)
 
-**OnePlus 8 Pro:**
+IN2019: OnePlus 8 5G UW
+
+**OnePlus 8 Pro (`instantnoodlep`):**
 
 IN2020: OnePlus 8 Pro 全网通版
 
@@ -130,4 +134,4 @@ IN2021: OnePlus 8 Pro 印度版
 
 IN2013: OnePlus 8 Pro 欧洲版
 
-IN2015: OnePlus 8 Pro 国际版 (?)
+IN2015: OnePlus 8 Pro 国际版
