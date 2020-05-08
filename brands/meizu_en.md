@@ -184,7 +184,15 @@ M973Q: Meizu 16s Pro China
 
 **Meizu 16T (`m1928`):**
 
-M928Q: Meizu 16T 公开版
+M928Q: Meizu 16T China
+
+**Meizu 17 (`m2081`):**
+
+M081Q, M081M: Meizu 17 China
+
+**Meizu 17 Pro (`m2091`):**
+
+M091Q, M091M: Meizu 17 Pro China
 
 **Meizu m1 note (`m71`):**
 
