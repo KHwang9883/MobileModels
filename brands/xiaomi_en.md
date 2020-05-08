@@ -190,9 +190,13 @@ M2001J1E, M2001J1C: Mi 10 Pro China
 
 **[`J9`] Mi 10 Lite (`monet`):**
 
-M2002J9E: Mi 10 Lite China
+M2002J9G: Mi 10 Lite Global
 
-M2002J9G, M2002J9S: Mi 10 Lite Global
+**[`J9`] Mi 10 Lite Zoom (`vangogh`):**
+
+M2002J9S: Mi 10 Lite Zoom Global
+
+M2002J9E: Mi 10 Lite Zoom China
 
 **[`X5`] Mi Note (`virgo`):**
 
@@ -746,6 +750,10 @@ M2003J15SS: Redmi Note 9 Global (No NFC)
 
 M2003J15SG: Redmi Note 9 Global (NFC)
 
+**[`J15S`] Redmi Note 9 (`merlinin`):**
+
+M2003J15SI: Redmi Note 9 India
+
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 M2003J6A1G, M2003J6A1R: Redmi Note 9S Global
@@ -848,6 +856,10 @@ M1903C3GI: Redmi Go India
 
 M1805E10A: POCO F1
 
+**[`J11`] POCO F2 Pro (`lmi`):**
+
+M2004J11G: POCO F2 Pro
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 M1912G7BI: POCO X2 India
@@ -878,8 +890,10 @@ DLT-A0: Black Shark 2 Pro China
 
 **Black Shark 3 (`klein`):**
 
-KLE-A0: Black Shark 3
+KLE-H0: Black Shark 3 Global
+
+KLE-A0: Black Shark 3 China
 
 **Black Shark 3 Pro (`mobius`):**
 
-MBU-A0: Black Shark 3 Pro
+MBU-A0: Black Shark 3 Pro China

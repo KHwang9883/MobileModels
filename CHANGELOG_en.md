@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.08
+- `xiaomi_en` Added some international models, updated info for Mi 10 Lite Zoom.
 ## 2020.05.06
 - `xiaomi_en` Added Redmi Note 9 NFC varient.
 ## 2020.05.01
