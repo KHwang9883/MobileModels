@@ -78,7 +78,7 @@ GM1915: OnePlus 7 Pro T-Mobile
 
 GM1917: OnePlus 7 Pro Global / North America
 
-**OnePlus 7 Pro 5G (`guacamole`):**
+**OnePlus 7 Pro 5G (`guacamoles`):**
 
 GM1920: OnePlus 7 Pro 5G EU
 
@@ -104,9 +104,11 @@ HD1911: OnePlus 7T Pro India
 
 HD1913: OnePlus 7T Pro EU
 
+**OnePlus 7T Pro 5G (`hotdogg`):**
+
 HD1925: OnePlus 7T Pro 5G
 
-**OnePlus 8:**
+**OnePlus 8 (`instantnoodle`):**
 
 IN2010: OnePlus 8 China
 
@@ -114,11 +116,13 @@ IN2011: OnePlus 8 India
 
 IN2013: OnePlus 8 EU
 
-IN2015: OnePlus 8 Global (?)
+IN2015: OnePlus 8 Global
 
 IN2017: OnePlus 8 T-Mobile (?)
 
-**OnePlus 8 Pro:**
+IN2019: OnePlus 8 5G UW
+
+**OnePlus 8 Pro (`instantnoodlep`):**
 
 IN2020: OnePlus 8 Pro China
 
@@ -126,4 +130,4 @@ IN2021: OnePlus 8 Pro India
 
 IN2013: OnePlus 8 Pro EU
 
-IN2015: OnePlus 8 Pro Global (?)
+IN2015: OnePlus 8 Pro Global

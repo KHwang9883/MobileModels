@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2020.05.08
 - `meizu_en` Added Meizu 17 & Meizu 17 Pro.
+- `oneplus_en` Updated codenames of OnePlus 8 series.
 - `xiaomi_en` Added some international models, updated info for Mi 10 Lite Zoom.
 ## 2020.05.06
 - `xiaomi_en` Added Redmi Note 9 NFC varient.
@@ -11,7 +12,7 @@
 ## 2020.04.23
 - `realme_en` Added realme X50m.
 ## 2020.04.20
-- `oneplus_en` Added OnePlus 8 series (codenames and regional infomation need further confirmation).
+- `oneplus_en` Added OnePlus 8 series.
 ## 2020.04.16
 - `apple_en` Added iPhone SE (2nd generation).
 ## 2020.04.03
