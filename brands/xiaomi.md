@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200506
+# 小米手机型号汇总 20200508
 
 ## 小米数字系列
 
@@ -190,11 +190,15 @@ M2001J1E, M2001J1C: 小米 10 Pro 全网通版
 
 M2001J1G: 小米 10 Pro 国际版
 
-**[`J9`] 小米 10 青春版 (`monet`):**
+**[`J9`] 小米 10 青春版 (`vangogh`):**
 
 M2002J9E: 小米 10 青春版 全网通版
 
-M2002J9G, M2002J9S: 小米 10 Lite 国际版
+M2002J9S: 小米 10 Lite Zoom 国际版
+
+**[`J9`] 小米 10 Lite (`monet`):**
+
+M2002J9G: 小米 10 Lite 国际版
 
 ## 小米 Note 系列
 
@@ -776,6 +780,10 @@ M2003J15SS: Redmi Note 9 国际版 (无 NFC)
 
 M2003J15SG: Redmi Note 9 国际版 (有 NFC)
 
+**[`J15S`] Redmi Note 9 (`merlinin`):**
+
+M2003J15SI: Redmi Note 9 印度版
+
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 M2003J6A1G, M2003J6A1R: Redmi Note 9S 国际版
@@ -882,6 +890,10 @@ M1903C3GI: Redmi Go 印度版
 
 M1805E10A: POCO F1
 
+**[`J11`] POCO F2 Pro (`lmi`):**
+
+M2004J11G: POCO F2 Pro
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 M1912G7BI: POCO X2 印度版
@@ -912,8 +924,10 @@ DLT-H0: 黑鲨游戏手机 2 Pro 国际版
 
 **腾讯黑鲨游戏手机 3 (`klein`):**
 
-KLE-A0: 腾讯黑鲨游戏手机 3
+KLE-A0: 腾讯黑鲨游戏手机 3 全网通版
+
+KLE-H0: 黑鲨游戏手机 3 国际版
 
 **腾讯黑鲨游戏手机 3 Pro (`mobius`):**
 
-MBU-A0: 腾讯黑鲨游戏手机 3 Pro
+MBU-A0: 腾讯黑鲨游戏手机 3 Pro 全网通版
