@@ -786,7 +786,7 @@ M2003J15SI: Redmi Note 9 印度版
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
-M2003J6A1G, M2003J6A1R: Redmi Note 9S 国际版
+M2003J6A1G: Redmi Note 9S 国际版
 
 M2003J6A1I: Redmi Note 9 Pro 印度版
 
