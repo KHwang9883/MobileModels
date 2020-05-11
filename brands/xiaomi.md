@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200508
+# 小米手机型号汇总 20200511
 
 ## 小米数字系列
 
@@ -242,7 +242,7 @@ M1910F4G: 小米 Note 10 国际版
 
 M1910F4S: 小米 Note 10 Pro 国际版
 
-**[`F4L`] 小米 Note 10 Lite:**
+**[`F4L`] 小米 Note 10 Lite (`toco`):**
 
 M2002F4LG: 小米 Note 10 Lite 国际版
 
@@ -826,9 +826,9 @@ M1903F11A: Redmi K20 Pro 尊享版 全网通版
 
 **[`G7A`] Redmi K30 5G (`picasso`):**
 
-M2001G7AE: Redmi K30 5G 全网通版
+M2001G7AE: Redmi K30 5G 全网通版 / Redmi K30 5G 极速版
 
-M2001G7AC: Redmi K30 5G 运营商全网通版
+M2001G7AC: Redmi K30 5G 全网通版 / Redmi K30i 全网通版
 
 **[`G7B`] Redmi K30 4G (`phoenix`):**
 

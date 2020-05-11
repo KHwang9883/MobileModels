@@ -1,4 +1,6 @@
 # 更新日志
+## 2020.05.11
+- `xiaomi` 新增 Redmi K30 5G 极速版、Redmi K30i。
 ## 2020.05.08
 - `meizu` 新增魅族 17 系列。
 - `oneplus` 更新 OnePlus 8 代号。
