@@ -234,7 +234,7 @@ M1910F4G: Mi Note 10 Global
 
 M1910F4S: Mi Note 10 Pro Global
 
-**[`F4L`] Mi Note 10 Lite:**
+**[`F4L`] Mi Note 10 Lite (`toco`):**
 
 M2002F4LG: Mi Note 10 Lite Global
 
@@ -794,9 +794,9 @@ M1903F11A: Redmi K20 Pro Premium Edition China
 
 **[`G7A`] Redmi K30 5G (`picasso`):**
 
-M2001G7AE: Redmi K30 5G China
+M2001G7AE: Redmi K30 5G China / Redmi K30 5G Speed Edition China
 
-M2001G7AC: Redmi K30 5G Chinese Carrier Version
+M2001G7AC: Redmi K30 5G China / Redmi K30i China
 
 **[`G7B`] Redmi K30 4G (`phoenix`):**
 
