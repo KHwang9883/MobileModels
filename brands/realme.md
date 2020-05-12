@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200423
+# realme 手机型号汇总 20200512
 
 ## 中国产品
 
@@ -106,6 +106,12 @@ RMX1993: realme X2 国际版
 
 RMX1931: realme X2 Pro
 
+**realme X50 Pro:**
+
+RMX2075: realme X50 Pro 国际版
+
+RMX2076: realme X50 Pro 印度版
+
 **realme C1:**
 
 RMX1805: realme C1
@@ -116,8 +122,18 @@ RMX1941: realme C2
 
 **realme C3:**
 
-RMX2020: realme C3
+RMX2020: realme C3 国际版
+
+RMX2027: realme C3 印度版
 
 **realme U1:**
 
 RMX1831: realme U1
+
+**realme Narzo 10:**
+
+RMX2040: realme Narzo 10
+
+**realme Narzo 10A:**
+
+RMX2020: realme Narzo 10A
