@@ -72,6 +72,12 @@ RMX1993: realme X2 Global
 
 RMX1931: realme X2 Pro
 
+**realme X50 Pro:**
+
+RMX2075: realme X50 Pro Global
+
+RMX2076: realme X50 Pro India
+
 **realme C1:**
 
 RMX1805: realme C1
@@ -82,11 +88,21 @@ RMX1941: realme C2
 
 **realme C3:**
 
-RMX2020: realme C3
+RMX2020: realme C3 Global
+
+RMX2027: realme C3 India
 
 **realme U1:**
 
 RMX1831: realme U1
+
+**realme Narzo 10:**
+
+RMX2040: realme Narzo 10
+
+**realme Narzo 10A:**
+
+RMX2020: realme Narzo 10A
 
 ## Chinese products
 

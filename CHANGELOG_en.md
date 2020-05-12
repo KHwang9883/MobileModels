@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.12
+- `realme_en` Added some international models.
 ## 2020.05.11
 - `xiaomi_en` Added Redmi K30 5G Speed Edition & Redmi K30i.
 ## 2020.05.08
