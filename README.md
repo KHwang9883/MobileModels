@@ -19,7 +19,7 @@
 | [nubia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nubia.md) | 努比亚 (nubia) | 全部机型 | 仅国行 |
 | [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | 附有 codename |
 | [oppo](https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | 仅国行 |
-| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme.md) | realme | 全部机型 | -- |
+| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme.md) | 真我 (realme) | 全部机型 | -- |
 | [samsung](https://github.com/KHwang9883/MobileModels/blob/master/brands/samsung.md) | 三星 (Samsung) | Galaxy S/Note/A/Fold/M/C/J/On/心系天下/平板电脑系列以及个别其他机型 | 仅国行，不含部分早期型号；[早期型号可参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-samsung-models.md) |
 | [smartisan](https://github.com/KHwang9883/MobileModels/blob/master/brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | 附有 codename |
 | [vivo](https://github.com/KHwang9883/MobileModels/blob/master/brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | 仅国行；附有 codename |
@@ -100,8 +100,8 @@
 
 ## 联系我
 
-新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
-
 酷安 **[@KHwang9883](http://www.coolapk.com/u/497671)**
 
-我偶尔会看一下微博，因此不保证随时可被联系到。如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)。
+~~新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**~~
+
+我基本不用微博，如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)，其他事宜请在酷安联系我。
