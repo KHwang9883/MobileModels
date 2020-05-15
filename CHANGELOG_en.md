@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.15
+- `realme` Added realme X50 Pro Player Edition.
 ## 2020.05.12
 - `realme_en` Added some international models.
 ## 2020.05.11

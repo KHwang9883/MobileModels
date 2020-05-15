@@ -134,6 +134,8 @@ RMX2051, RMX2025: realme X50 5G
 
 RMX2071: realme X50 Pro 5G
 
+RMX2072: realme X50 Pro Player Edition
+
 **realme X50m:**
 
 RMX2142: realme X50m 5G
