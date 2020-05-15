@@ -4,6 +4,8 @@ Collecting device names, models and internal codenames.
 
 [Chinese](https://github.com/KHwang9883/MobileModels/blob/master/README.md)
 
+Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues) if you find an error.
+
 | Branch | Brand | Range |
 | :-: | :-: | :-: |
 | [apple_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
@@ -53,7 +55,3 @@ Collecting device names, models and internal codenames.
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-## Contact
-
-Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues).
