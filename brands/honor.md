@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20200506
+# 荣耀手机型号汇总 20200518
 
 ## 荣耀 HONOR 系列 ( N 系列)
 
@@ -702,6 +702,12 @@ HLY-W19RLP: 荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB)
 
 HLY-W29RL: 荣耀 MagicBook Pro 科技尝鲜版 R7
 
+**荣耀 MagicBook Pro 2020:**
+
+HBB-WAH9PHNL: 荣耀 MagicBook Pro 2020 i5 (16GB+512GB)
+
+HBB-WAE9PHNL: 荣耀 MagicBook Pro 2020 i7 (16GB+512GB)
+
 ## 荣耀智慧屏
 
 **荣耀智慧屏 (`osca`):**
@@ -715,3 +721,9 @@ OSCA-550AX: 荣耀智慧屏 55 英寸 (4GB+32GB)
 OSCA-550: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
 
 OSCA-550X: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
+
+**荣耀智慧屏 X1:**
+
+LOK-350: 荣耀智慧屏 X1 55 英寸
+
+LOK-360: 荣耀智慧屏 X1 65 英寸
