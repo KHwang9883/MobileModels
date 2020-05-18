@@ -536,6 +536,10 @@ JDN2-W09HN: 荣耀平板 5 8 英寸 Wi-Fi 版
 
 JDN2-AL00HN, JDN-AL50HN: 荣耀平板 5 8 英寸 全网通版
 
+**荣耀平板 V6:**
+
+KRJ-W09: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
+
 **荣耀 Waterplay (`haydn`):**
 
 HDN-W09: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
