@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200409
+# 三星手机型号汇总 20200520
 
 ## Galaxy S 系列
 
@@ -342,6 +342,10 @@ SM-A8050: Galaxy A80
 
 SM-A9080: Galaxy A90 5G
 
+**Galaxy A51 5G:**
+
+SM-A5160: Galaxy A51 5G
+
 **Galaxy A71 5G:**
 
 SM-A7160: Galaxy A71 5G
@@ -555,6 +559,12 @@ SM-T725C: Galaxy Tab S5e 4G
 **Galaxy Tab S6:**
 
 SM-T860: Galaxy Tab S6 WLAN
+
+**Galaxy Tab S6 Lite:**
+
+SM-P610: Galaxy Tab S6 Lite WLAN
+
+SM-P615C: Galaxy Tab S6 Lite 4G
 
 ## Galaxy Tab A 系列
 
