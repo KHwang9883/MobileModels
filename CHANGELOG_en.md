@@ -1,6 +1,8 @@
 # CHANGELOG
+## 2020.05.20
+- `oneplus_en` Updated regional info for OnePlus 8.
 ## 2020.05.15
-- `realme` Added realme X50 Pro Player Edition.
+- `realme_en` Added realme X50 Pro Player Edition.
 ## 2020.05.12
 - `realme_en` Added some international models.
 ## 2020.05.11

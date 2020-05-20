@@ -116,9 +116,9 @@ IN2011: OnePlus 8 India
 
 IN2013: OnePlus 8 EU
 
-IN2015: OnePlus 8 Global
+IN2015: OnePlus 8 North America
 
-IN2017: OnePlus 8 T-Mobile (?)
+IN2017: OnePlus 8 T-Mobile
 
 IN2019: OnePlus 8 5G UW
 
@@ -130,4 +130,4 @@ IN2021: OnePlus 8 Pro India
 
 IN2013: OnePlus 8 Pro EU
 
-IN2015: OnePlus 8 Pro Global
+IN2015: OnePlus 8 Pro North America
