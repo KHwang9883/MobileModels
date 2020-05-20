@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020.05.20
+- `honor` 新增荣耀 X10。
 - `oneplus` 订正 OnePlus 8 区域信息。
 - `samsung` 新增 Galaxy A51 5G、Galaxy Tab S6 Lite。
 ## 2020.05.19
