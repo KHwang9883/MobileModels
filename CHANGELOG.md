@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020.05.20
+- `oneplus` 订正 OnePlus 8 区域信息。
 - `samsung` 新增 Galaxy A51 5G、Galaxy Tab S6 Lite。
 ## 2020.05.19
 - `vivo` 新增 iQOO Z1、vivo Z5x 712 版。

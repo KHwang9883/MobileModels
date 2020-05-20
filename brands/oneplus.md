@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20200508
+# 一加手机型号汇总 20200520
 
 ## 一加手机
 
@@ -120,9 +120,9 @@ IN2011: OnePlus 8 印度版
 
 IN2013: OnePlus 8 欧洲版
 
-IN2015: OnePlus 8 国际版
+IN2015: OnePlus 8 北美版
 
-IN2017: OnePlus 8 T-Mobile 版 (?)
+IN2017: OnePlus 8 T-Mobile 版
 
 IN2019: OnePlus 8 5G UW
 
@@ -134,4 +134,4 @@ IN2021: OnePlus 8 Pro 印度版
 
 IN2013: OnePlus 8 Pro 欧洲版
 
-IN2015: OnePlus 8 Pro 国际版
+IN2015: OnePlus 8 Pro 北美版
