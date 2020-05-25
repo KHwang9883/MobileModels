@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200515
+# realme 手机型号汇总 20200525
 
 ## 中国产品
 
@@ -107,6 +107,10 @@ RMX1993: realme X2 国际版
 **realme X2 Pro:**
 
 RMX1931: realme X2 Pro
+
+**realme X3 超级变焦版:**
+
+RMX2086: realme X3 超级变焦版
 
 **realme X50 Pro:**
 
