@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.25
+- `realme_en` Added realme X3 SuperZoom.
 ## 2020.05.20
 - `oneplus_en` Updated regional info for OnePlus 8.
 ## 2020.05.15

@@ -72,6 +72,10 @@ RMX1993: realme X2 Global
 
 RMX1931: realme X2 Pro
 
+**realme X3 SuperZoom:**
+
+RMX2086: realme X3 SuperZoom
+
 **realme X50 Pro:**
 
 RMX2075: realme X50 Pro Global
