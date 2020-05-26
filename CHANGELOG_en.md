@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.26
+- `xiaomi_en` Added Redmi 10X series.
 ## 2020.05.25
 - `realme_en` Added realme X3 SuperZoom.
 ## 2020.05.20

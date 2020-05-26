@@ -768,6 +768,18 @@ M2003J6B1I: Redmi Note 9 Pro Max India
 
 M2003J6B2G: Redmi Note 9 Pro Global
 
+**[`J7A`] Redmi 10X 5G (`atom`):**
+
+M2004J7AC: Redmi 10X 5G China
+
+**[`J7B`] Redmi 10X Pro 5G (`bomb`):**
+
+M2004J7BC: Redmi 10X Pro 5G China
+
+**[`J15S`] Redmi 10X 4G (`merlin`):**
+
+M2003J15SC: Redmi 10X 4G China
+
 **[`F10`] Redmi K20 (`davinci`):**
 
 M1903F10A: Redmi K20 China
