@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200511
+# 小米手机型号汇总 20200526
 
 ## 小米数字系列
 
@@ -797,6 +797,20 @@ M2003J6B1I: Redmi Note 9 Pro Max 印度版
 **[`J6B2`] Redmi Note 9 Pro (`joyeuse`):**
 
 M2003J6B2G: Redmi Note 9 Pro 国际版
+
+## Redmi X 系列
+
+**[`J7A`] Redmi 10X 5G (`atom`):**
+
+M2004J7AC: Redmi 10X 5G 全网通版
+
+**[`J7B`] Redmi 10X Pro 5G (`bomb`):**
+
+M2004J7BC: Redmi 10X Pro 5G 全网通版
+
+**[`J15S`] Redmi 10X 4G (`merlin`):**
+
+M2003J15SC: Redmi 10X 4G 全网通版
 
 ## Redmi K 系列
 
