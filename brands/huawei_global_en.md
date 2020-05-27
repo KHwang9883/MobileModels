@@ -210,7 +210,19 @@ ANA-NX9: HUAWEI P40 Dual SIM
 
 **HUAWEI P40 Pro (`elsa`):**
 
+ELS-N04, ELS-NX9: HUAWEI P40 Pro Single SIM
+
 ELS-NX9: HUAWEI P40 Pro Dual SIM
+
+**HUAWEI P40 lite:**
+
+JNY-LX1: HUAWEI P40 lite Dual SIM
+
+JNY-LX2: HUAWEI P40 lite Single SIM
+
+**HUAWEI P40 lite 5G (`cindy`):**
+
+CDY-NX9: HUAWEI P40 lite 5G
 
 **HUAWEI P Smart (`figo`):**
 

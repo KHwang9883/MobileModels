@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020.05.27
+- `huawei_global_en` Added some Huawei devices.
 ## 2020.05.26
 - `xiaomi_en` Added Redmi 10X series.
 ## 2020.05.25
