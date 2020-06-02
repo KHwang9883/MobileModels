@@ -32,6 +32,10 @@ M1810E5T: 小米 MIX 3 移动 4G+ 版 (未上市)
 
 M1810E5EC: 小米 MIX 3 联通电信定制版 (未上市)
 
+**[`U2`] 小米 MIX Alpha (`draco`):**
+
+M1911U2E: 小米 MIX Alpha 5G
+
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
 M1806D9PW: 小米平板 4 Plus Wi-Fi 版 (未上市)
