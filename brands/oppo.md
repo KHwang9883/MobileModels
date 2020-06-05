@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20200418
+# OPPO 手机型号汇总 20200605
 
 ## R 系列
 
@@ -101,6 +101,18 @@ PCRT00: OPPO Reno3 Pro 移动版
 **OPPO Reno3 元气版:**
 
 PCLM50: OPPO Reno3 元气版 全网通版
+
+**OPPO Reno4:**
+
+PDPM00: OPPO Reno4 全网通版
+
+PDPT00: OPPO Reno4 移动版
+
+**OPPO Reno4 Pro:**
+
+PDNM00: OPPO Reno4 Pro 全网通版
+
+PDNT00: OPPO Reno4 Pro 移动版
 
 ## Ace 系列
 
