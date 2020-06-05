@@ -1,4 +1,4 @@
-# 小米电视型号汇总 20200526
+# 小米电视型号汇总 20200605
 
 ## 国内产品
 
@@ -294,6 +294,10 @@ L55M5-5XIN: Mi TV 4X 55
 
 L65M5-5SIN: Mi TV 4X 65
 
+**Mi Box:**
+
+MDZ-22-AB: Mi Box 4K
+
 ## 国际产品
 
 **Mi TV (印度尼西亚):**
@@ -307,6 +311,8 @@ L43M5-AN: Mi TV 4A 43
 L32M5-5ARU: Mi TV 4A 32
 
 L43M5-5ARU: Mi TV 4S 43
+
+L50M5-5ARU: Mi TV 4S 50
 
 L55M5-5ARU: Mi TV 4S 55
 
