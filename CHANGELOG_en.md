@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-06-08
+- `realme_en` Added realme X50t.
 ## 2020-05-27
 - `huawei_global_en` Added some Huawei devices.
 ## 2020-05-26
