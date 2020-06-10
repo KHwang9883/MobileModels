@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200526
+# 小米手机型号汇总 20200610
 
 ## 小米数字系列
 
@@ -601,6 +601,12 @@ M1908C3KI: Redmi 8A 印度版
 **[`C3K3`] Redmi 8A Dual / Redmi 8A Pro (`olivewood`):**
 
 M2001C3K3I: Redmi 8A Dual 印度版 / Redmi 8A Pro 国际版
+
+**[`J19`] Redmi 9 (`lancelot`):**
+
+M2004J19G: Redmi 9 国际版
+
+M2004J19I: Redmi 9 印度版
 
 ## 红米 Redmi Note 系列
 
