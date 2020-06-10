@@ -580,6 +580,12 @@ M1908C3KE: Redmi 8A China
 
 M2001C3K3I: Redmi 8A Dual India / Redmi 8A Pro Global
 
+**[`J19`] Redmi 9 (`lancelot`):**
+
+M2004J19G: Redmi 9 Global
+
+M2004J19I: Redmi 9 India
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 2014018: Redmi Note WCDMA 1GB

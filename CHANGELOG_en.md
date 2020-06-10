@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-06-10
+- `xiaomi_en` Added Redmi 9.
 ## 2020-06-08
 - `realme_en` Added realme X50t.
 ## 2020-05-27
