@@ -582,9 +582,15 @@ M2001C3K3I: Redmi 8A Dual India / Redmi 8A Pro Global
 
 **[`J19`] Redmi 9 (`lancelot`):**
 
-M2004J19G: Redmi 9 Global
+M2004J19C: Redmi 9 China
+
+M2004J19G: Redmi 9 Global (No NFC)
 
 M2004J19I: Redmi 9 India
+
+**[`J19A`] Redmi 9:**
+
+M2004J19AG: Redmi 9 Global (NFC)
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -763,6 +769,8 @@ M2003J15SI: Redmi Note 9 India
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 M2003J6A1G: Redmi Note 9S Global
+
+M2003J6A1R: Redmi Note 9S Global (Japan / Korea)
 
 M2003J6A1I: Redmi Note 9 Pro India
 

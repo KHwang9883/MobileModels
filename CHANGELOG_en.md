@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-06-12
+- `xiaomi_en` Updated some models.
 ## 2020-06-10
 - `xiaomi_en` Added Redmi 9.
 ## 2020-06-08
