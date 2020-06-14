@@ -1,4 +1,4 @@
-# vivo 手机型号汇总 20200601
+# vivo 手机型号汇总 20200614
 
 ## X 系列
 
@@ -57,6 +57,10 @@ V2001A: vivo X50 全网通版
 **vivo X50 Pro (`PD2005`):**
 
 V2005A: vivo X50 Pro 全网通版
+
+**vivo X50 Pro+ (`PD2011`):**
+
+V2011A: vivo X50 Pro+ 全网通版
 
 ## NEX 系列
 
