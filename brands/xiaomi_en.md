@@ -580,7 +580,7 @@ M1908C3KE: Redmi 8A China
 
 M2001C3K3I: Redmi 8A Dual India / Redmi 8A Pro Global
 
-**[`J19`] Redmi 9 (`lancelot`):**
+**[`J19`] Redmi 9 (`galahad`):**
 
 M2004J19C: Redmi 9 China
 
@@ -588,7 +588,7 @@ M2004J19G: Redmi 9 Global (No NFC)
 
 M2004J19I: Redmi 9 India
 
-**[`J19A`] Redmi 9:**
+**[`J19A`] Redmi 9 (`lancelot`):**
 
 M2004J19AG: Redmi 9 Global (NFC)
 

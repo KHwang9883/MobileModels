@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-06-20
+- `xiaomi_en` Fixed codenames for Redmi 9.
 ## 2020-06-12
 - `xiaomi_en` Updated some models.
 ## 2020-06-10
