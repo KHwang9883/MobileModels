@@ -190,7 +190,7 @@ M2001J1E, M2001J1C: Mi 10 Pro China
 
 **[`J9`] Mi 10 Lite (`monet`):**
 
-M2002J9G: Mi 10 Lite Global
+M2002J9G, M2002J9R: Mi 10 Lite Global
 
 **[`J9`] Mi 10 Lite Zoom (`vangogh`):**
 
@@ -580,7 +580,7 @@ M1908C3KE: Redmi 8A China
 
 M2001C3K3I: Redmi 8A Dual India / Redmi 8A Pro Global
 
-**[`J19`] Redmi 9 (`galahad`):**
+**[`J19`] Redmi 9 (`lancelot`):**
 
 M2004J19C: Redmi 9 China
 
@@ -588,9 +588,13 @@ M2004J19G: Redmi 9 Global (No NFC)
 
 M2004J19I: Redmi 9 India
 
-**[`J19A`] Redmi 9 (`lancelot`):**
+**[`J19A`] Redmi 9 (`galahad`):**
 
 M2004J19AG: Redmi 9 Global (NFC)
+
+**[`C3L`] Redmi 9A:**
+
+M2006C3LG: Redmi 9A Global
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
