@@ -926,4 +926,6 @@ KLE-A0: Black Shark 3 China
 
 **Black Shark 3 Pro (`mobius`):**
 
+MBU-H0: Black Shark 3 Pro Global
+
 MBU-A0: Black Shark 3 Pro China
