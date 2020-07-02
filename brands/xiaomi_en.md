@@ -592,7 +592,7 @@ M2004J19I: Redmi 9 India
 
 M2004J19AG: Redmi 9 Global (NFC)
 
-**[`C3L`] Redmi 9A:**
+**[`C3L`] Redmi 9A (`dandelion`):**
 
 M2006C3LG: Redmi 9A Global
 

@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2020-07-01
-- `xiaomi_en` Added Redmi 9A (codename will be added soon).
+- `xiaomi_en` Added Redmi 9A.
 ## 2020-06-27
 - `realme_en` Added some international models (regional infomation needs update).
 ## 2020-06-20
