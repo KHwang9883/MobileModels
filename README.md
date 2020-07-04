@@ -10,7 +10,7 @@
 
 | 分支 | 品牌 | 汇总范围 | codename | 国际机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | 不含大神 (Dazen)；已停更 |
+| [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | 已停更 |
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | -- |
 | [honor](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⬛ | ⬛ | [国际机型单独汇总](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor_global_en.md) |
 | [huawei](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⬛ | ⬛ | [国际机型单独汇总](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei_global_en.md)；[其他早期型号参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-huawei-models.md) |
