@@ -94,13 +94,13 @@ LYA-L29: PORSCHE DESIGN HUAWEI Mate 20 RS Dual SIM
 
 SNE-LX1, SNE-LX2, SNE-LX3: HUAWEI Mate 20 lite
 
-**HUAWEI Mate 30:**
+**HUAWEI Mate 30 (`taurus`):**
 
 TAS-L09: HUAWEI Mate 30 Single SIM
 
 TAS-L29: HUAWEI Mate 30 Dual SIM
 
-**HUAWEI Mate 30 Pro:**
+**HUAWEI Mate 30 Pro (`lion`):**
 
 LIO-L09: HUAWEI Mate 30 Pro Single SIM
 
@@ -108,7 +108,7 @@ LIO-L29: HUAWEI Mate 30 Pro Dual SIM
 
 LIO-N29: HUAWEI Mate 30 Pro 5G Dual SIM
 
-**PORSCHE DESIGN HUAWEI Mate 30 RS:**
+**PORSCHE DESIGN HUAWEI Mate 30 RS (`lion`):**
 
 LIO-N29: PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM
 
@@ -200,7 +200,7 @@ VOG-L09: HUAWEI P30 Pro Single SIM
 
 VOG-L29: HUAWEI P30 Pro Dual SIM
 
-**HUAWEI P30 lite:**
+**HUAWEI P30 lite (`marie`):**
 
 MAR-LX1A, MAR-LX1Am, MAR-LX1B, MAR-LX1M, MAR-LX1Mm, MAR-LX2, MAR-LX2m, MAR-LX2B, MAR-LX2J, MAR-LX3A, MAR-LX3Am, MAR-LX3Bm: HUAWEI P30 lite
 
@@ -214,7 +214,7 @@ ELS-N04, ELS-NX9: HUAWEI P40 Pro Single SIM
 
 ELS-NX9: HUAWEI P40 Pro Dual SIM
 
-**HUAWEI P40 lite:**
+**HUAWEI P40 lite (`jenny`):**
 
 JNY-LX1: HUAWEI P40 lite Dual SIM
 
@@ -280,7 +280,7 @@ LDN-LX2: HUAWEI nova 2 lite
 
 PAR-LX1, PAR-LX1M, PAR-LX9, PAR-L21, PAR-L29: HUAWEI nova 3
 
-**HUAWEI nova 3i (`sydney`):**
+**HUAWEI nova 3i (`sydneyi`):**
 
 INE-LX1, INE-LX1r, INE-LX2, INE-LX2r: HUAWEI nova 3i
 
@@ -297,3 +297,11 @@ VCE-L22: HUAWEI nova 4
 YAL-L21: HUAWEI nova 5T
 
 YAL-L41: HUAWEI nova 5T Pro
+
+**HUAWEI nova 7i (`jenny`):**
+
+JNY-LX1: HUAWEI nova 7i Dual SIM
+
+**HUAWEI nova 7 SE (`cindy`):**
+
+CDY-NX9: HUAWEI nova 7 SE 5G

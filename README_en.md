@@ -52,6 +52,8 @@ Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues
 
 [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
 
+[Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
