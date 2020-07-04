@@ -4,26 +4,30 @@
 
 [English](https://github.com/KHwang9883/MobileModels/blob/master/README_en.md)
 
-| 分支 | 品牌 | 汇总范围 | 备注 |
-| :-: | :-: | :-: | :-: |
-| [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部机型 | 含奇酷 (Qiku)，不含大神 (Dazen)；已停更 |
-| [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | 苹果 (Apple) | 全部 iPhone、iPad、iPod touch、Apple Watch | 国行、非国行机型分别汇总；附有产品代号 |
-| [honor](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor.md) | 荣耀 (HONOR) | 荣耀手机、荣耀平板、笔记本电脑、智慧屏 | 仅国行；部分机型附有 codename |
-| [huawei](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期手机产品 | 仅国行；部分机型附有 codename；[早期型号可参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-huawei-models.md) |
-| [lenovo](https://github.com/KHwang9883/MobileModels/blob/master/brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | 仅国行 |
-| [letv](https://github.com/KHwang9883/MobileModels/blob/master/brands/letv.md) | 乐视 (Letv) | 全部机型 | 已停更 |
-| [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | 附有 codename |
-| [mitv](https://github.com/KHwang9883/MobileModels/blob/master/brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视、小米盒子 | 含国际版小米电视与小米盒子（可能不全） |
-| [motorola](https://github.com/KHwang9883/MobileModels/blob/master/brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | 仅国行 |
-| [nokia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | 仅国行 |
-| [nubia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nubia.md) | 努比亚 (nubia) | 全部机型 | 仅国行 |
-| [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | 附有 codename |
-| [oppo](https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | 仅国行 |
-| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme.md) | 真我 (realme) | 全部机型 | -- |
-| [samsung](https://github.com/KHwang9883/MobileModels/blob/master/brands/samsung.md) | 三星 (Samsung) | Galaxy S/Note/A/Fold/M/C/J/On/心系天下/平板电脑系列以及个别其他机型 | 仅国行，不含部分早期型号；[早期型号可参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-samsung-models.md) |
-| [smartisan](https://github.com/KHwang9883/MobileModels/blob/master/brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | 附有 codename |
-| [vivo](https://github.com/KHwang9883/MobileModels/blob/master/brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | 仅国行；附有 codename |
-| [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi.md) | 小米 (Xiaomi) | 全部小米手机、小米平板 | 含 POCO、黑鲨手机；附有 codename 与内部编号 |
+* ✅ 包含
+* ❌ 不包含
+* ⬛ 仅部分包含
+
+| 分支 | 品牌 | 汇总范围 | codename | 国际机型 | 备注 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | 不含大神 (Dazen)；已停更 |
+| [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | -- |
+| [honor](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⬛ | ⬛ | -- |
+| [huawei](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⬛ | ⬛ | [其他早期型号参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-huawei-models.md) |
+| [lenovo](https://github.com/KHwang9883/MobileModels/blob/master/brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ❌ | ❌ | -- |
+| [letv](https://github.com/KHwang9883/MobileModels/blob/master/brands/letv.md) | 乐视 (Letv) | 全部机型 | ❌ | ❌ | 已停更 |
+| [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
+| [mitv](https://github.com/KHwang9883/MobileModels/blob/master/brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ⬛ | -- |
+| [motorola](https://github.com/KHwang9883/MobileModels/blob/master/brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ❌ | ❌ | -- |
+| [nokia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ❌ | ❌ | -- |
+| [nubia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |
+| [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
+| [oppo](https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | ❌ | ❌ | -- |
+| [realme](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | -- |
+| [samsung](https://github.com/KHwang9883/MobileModels/blob/master/brands/samsung.md) | 三星 (Samsung) | Galaxy S/Note/A/Fold/M/C/J/On/Tab/心系天下系列及个别其他机型 | ❌ | ❌ | [早期型号参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-samsung-models.md) |
+| [smartisan](https://github.com/KHwang9883/MobileModels/blob/master/brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
+| [vivo](https://github.com/KHwang9883/MobileModels/blob/master/brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | ✅ | ❌ | -- |
+| [xiaomi](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO/黑鲨手机、小米平板 | ✅ | ✅ | -- |
 
 ## 更新日志
 
