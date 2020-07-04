@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-05
+- `honor_global_en` Added some models.
 ## 2020-07-01
 - `xiaomi_en` Added Redmi 9A.
 ## 2020-06-27
