@@ -100,6 +100,8 @@
 
 [Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
 
+[Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+
 以及各品牌官网、论坛、微博等，恕不一一列出
 
 ## 联系我
@@ -108,4 +110,4 @@
 
 ~~新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**~~
 
-我基本不用微博，如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)，其他事宜请在酷安联系我。
+我基本不用微博，如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)，其他事宜请在酷安联系我。如有错误或缺漏，欢迎提交 PR。

@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200623
+# 华为手机型号汇总 20200705
 
 ## HUAWEI Mate 系列
 
@@ -114,7 +114,7 @@ LYA-AL00P: HUAWEI Mate 20 RS 保时捷设计
 
 TAH-AN00: HUAWEI Mate X
 
-**HUAWEI Mate 30:**
+**HUAWEI Mate 30 (`taurus`):**
 
 TAS-AL00: HUAWEI Mate 30 全网通版
 
@@ -124,7 +124,7 @@ TAS-AN00: HUAWEI Mate 30 5G 全网通版
 
 TAS-TN00: HUAWEI Mate 30 5G 移动定制版
 
-**HUAWEI Mate 30 Pro:**
+**HUAWEI Mate 30 Pro (`lion`):**
 
 LIO-AL00: HUAWEI Mate 30 Pro 全网通版
 
@@ -134,7 +134,7 @@ LIO-AN00: HUAWEI Mate 30 Pro 5G 全网通版
 
 LIO-TN00: HUAWEI Mate 30 Pro 5G 移动定制版
 
-**HUAWEI Mate 30 RS 保时捷设计:**
+**HUAWEI Mate 30 RS 保时捷设计 (`lion`):**
 
 LIO-AN00P: HUAWEI Mate 30 RS 保时捷设计
 
@@ -312,7 +312,7 @@ BAC-AL00: HUAWEI nova 2 Plus 全网通版
 
 BAC-TL00: HUAWEI nova 2 Plus 移动 4G+ 版
 
-**HUAWEI nova 2s:**
+**HUAWEI nova 2s (`hawaii`):**
 
 HWI-AL00: HUAWEI nova 2s 全网通版
 
@@ -330,7 +330,7 @@ PAR-AL00: HUAWEI nova 3 全网通版
 
 PAR-TL00: HUAWEI nova 3 移动 4G+ 版
 
-**HUAWEI nova 3i (`sydney`):**
+**HUAWEI nova 3i (`sydneyi`):**
 
 INE-AL00: HUAWEI nova 3i 全网通版
 
@@ -342,7 +342,7 @@ VCE-AL00: HUAWEI nova 4 全网通版
 
 VCE-TL00: HUAWEI nova 4 移动 4G+ 版
 
-**HUAWEI nova 4e:**
+**HUAWEI nova 4e (`marie`):**
 
 MAR-AL00: HUAWEI nova 4e 全网通版
 
@@ -368,25 +368,25 @@ GLK-TL00: HUAWEI nova 5i 移动 4G+ 版
 
 GLK-LX1U: HUAWEI nova 5i 联通定制版
 
-**HUAWEI nova 5i Pro:**
+**HUAWEI nova 5i Pro (`saipan`):**
 
 SPN-AL00: HUAWEI nova 5i Pro 全网通版
 
 SPN-TL00: HUAWEI nova 5i Pro 移动 4G+ 版
 
-**HUAWEI nova 5z:**
+**HUAWEI nova 5z (`saipan`):**
 
 SPN-AL00: HUAWEI nova 5z 全网通版
 
 SPN-TL00: HUAWEI nova 5z 移动 4G+ 版
 
-**HUAWEI nova 6:**
+**HUAWEI nova 6 (`waltz`):**
 
 WLZ-AN00: HUAWEI nova 6 5G 全网通版
 
 WLZ-AL10: HUAWEI nova 6 4G 全网通版
 
-**HUAWEI nova 6 SE:**
+**HUAWEI nova 6 SE (`jenny`):**
 
 JNY-AL10: HUAWEI nova 6 SE 全网通版
 
@@ -480,7 +480,7 @@ HUAWEI MLA-AL00: HUAWEI 麦芒 5 全网通标配版
 
 HUAWEI MLA-AL10: HUAWEI 麦芒 5 全网通高配版
 
-**HUAWEI 麦芒 6:**
+**HUAWEI 麦芒 6 (`rhone`):**
 
 RNE-AL00: HUAWEI 麦芒 6 全网通版
 
@@ -570,7 +570,7 @@ ATU-AL10: 华为畅享 8e 全网通版
 
 ATU-TL10: 华为畅享 8e 移动 4G+ 版
 
-**华为畅享 8e 青春:**
+**华为畅享 8e 青春 (`dura`):**
 
 DRA-AL00: 华为畅享 8e 青春 全网通版
 
@@ -592,7 +592,7 @@ ARS-AL00: 华为畅享 Max 全网通版
 
 ARS-TL00: 华为畅享 Max 移动 4G+ 版
 
-**华为畅享 9:**
+**华为畅享 9 (`dubai`):**
 
 DUB-AL00, DUB-AL20: 华为畅享 9 全网通标配/高配版
 
@@ -750,11 +750,11 @@ SCM-AL09: 华为平板 M6 10.8 英寸 全网通版
 
 **HUAWEI MatePad Pro:**
 
-MRX-W09: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
+MRX-W09, MRX-W29: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
 
 MRX-AL09: HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)
 
-MRX-W19: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
+MRX-W19, MRX-W39: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
 
 MRX-AL19: HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)
 
