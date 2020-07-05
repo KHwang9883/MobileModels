@@ -54,7 +54,7 @@ BLA-A09: PORSCHE DESIGN HUAWEI Mate 10 (United States)
 
 BLA-L29: PORSCHE DESIGN HUAWEI Mate 10 Dual SIM
 
-**HUAWEI Mate 10 Lite:**
+**HUAWEI Mate 10 Lite (`rhone`):**
 
 RNE-L01, RNE-L03: HUAWEI Mate 10 Lite Single SIM
 
