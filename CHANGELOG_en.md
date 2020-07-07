@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-07
+- `xiaomi_en` Added POCO M2 Pro.
 ## 2020-07-05
 - `honor_global_en` Added some models.
 - `huawei_global_en` Added some models.

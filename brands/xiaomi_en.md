@@ -894,6 +894,10 @@ M2004J11G: POCO F2 Pro
 
 M1912G7BI: POCO X2 India
 
+**[`J6C`] POCO M2 Pro (`gram`):**
+
+M2003J6CI: POCO M2 Pro India
+
 ## Black Shark
 
 **Black Shark (`shark`):**
