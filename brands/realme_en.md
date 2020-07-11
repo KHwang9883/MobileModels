@@ -106,6 +106,10 @@ RMX2027: realme C3 India
 
 RMX2027: realme C3i Vietnam
 
+**realme C11:**
+
+RMX2185: realme C11
+
 **realme U1:**
 
 RMX1831, RMX1833: realme U1
@@ -150,11 +154,11 @@ RMX2025: realme X50 5G China Mobile
 
 RMX2071: realme X50 Pro 5G
 
-RMX2072: realme X50 Pro Player Edition
+RMX2072: realme X50 Pro Play
 
 **realme X50m:**
 
-RMX2142: realme X50m 5G
+RMX2141, RMX2142: realme X50m 5G
 
 **realme X50t:**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-11
+- `realme_en` Updated some models.
 ## 2020-07-07
 - `xiaomi_en` Added POCO M2 Pro.
 ## 2020-07-05
