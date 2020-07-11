@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200627
+# realme 手机型号汇总 20200711
 
 ## 中国产品
 
@@ -36,7 +36,7 @@ RMX2072: realme X50 Pro 玩家版
 
 **realme X50m:**
 
-RMX2142: realme X50m 5G
+RMX2141, RMX2142: realme X50m 5G
 
 **realme X50t:**
 
@@ -147,6 +147,10 @@ RMX2027: realme C3 印度版
 **realme C3i:**
 
 RMX2027: realme C3i
+
+**realme C11:**
+
+RMX2185: realme C11
 
 **realme U1:**
 
