@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20200705
+# 荣耀手机型号汇总 20200714
 
 ## 荣耀 HONOR 系列 ( N 系列)
 
@@ -346,9 +346,11 @@ COR-TL10: 荣耀 Play 移动 4G+ 高配版
 
 **荣耀 Play 3 (`asoka`):**
 
-ASK-AL00x: 荣耀 Play 3 全网通版
+ASK-AL00x: 荣耀 Play 3 全网通版 (麒麟 710F)
 
-ASK-TL00x: 荣耀 Play 3 移动 4G+ 版
+ASK-AL20: 荣耀 Play 3 全网通版 (麒麟 710A)
+
+ASK-TL00x: 荣耀 Play 3 移动 4G+ 版 (麒麟 710F)
 
 **荣耀 Play 3e (`katyusha`):**
 
