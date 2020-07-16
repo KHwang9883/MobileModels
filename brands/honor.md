@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20200714
+# 荣耀手机型号汇总 20200716
 
 ## 荣耀 HONOR 系列 ( N 系列)
 
@@ -570,6 +570,18 @@ KRJ-W09: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
 
 KRJ-AN00: 荣耀平板 V6 10.4 英寸 5G 版
 
+**荣耀平板 6 (`agassi3`):**
+
+AGS3-W09HN: 荣耀平板 6 10.1 英寸 Wi-Fi 版
+
+AGS3-AL09HN: 荣耀平板 6 10.1 英寸 全网通版
+
+**荣耀平板 X6:**
+
+AGR-W09HN: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
+
+AGR-AL09HN: 荣耀平板 X6 9.7 英寸 全网通版
+
 **荣耀 Waterplay (`haydn`):**
 
 HDN-W09: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
@@ -650,8 +662,6 @@ VLR-W19: 荣耀 MagicBook 2019 i5
 
 VLR-W29: 荣耀 MagicBook 2019 i7
 
-**荣耀 MagicBook 2019 科技尝鲜版:**
-
 VLR-W09L: 荣耀 MagicBook 2019 科技尝鲜版 i3
 
 VLR-W19L: 荣耀 MagicBook 2019 科技尝鲜版 i5
@@ -666,8 +676,6 @@ KPR-W19: 荣耀 MagicBook 2019 锐龙版 R5
 
 KPR-W29: 荣耀 MagicBook 2019 锐龙版 R7
 
-**荣耀 MagicBook 2019 锐龙版 科技尝鲜版:**
-
 KPRC-W10L: 荣耀 MagicBook 2019 科技尝鲜版 R5
 
 KPRC-W20L: 荣耀 MagicBook 2019 科技尝鲜版 R7
@@ -680,17 +688,23 @@ Nbl-WAQ9HNRP: 荣耀 MagicBook 14 R5 (16GB+512GB)
 
 Nbl-WAP9HNR: 荣耀 MagicBook 14 R7
 
+Nbl-WAQ9HNL: 荣耀 MagicBook 14 科技尝鲜版 R5
+
+Nbl-WAP9HNL: 荣耀 MagicBook 14 科技尝鲜版 R7
+
 Nbl-WAH9HN: 荣耀 MagicBook 14 i5
 
 Nbl-WAH9HNP: 荣耀 MagicBook 14 i5 (16GB+512GB)
 
 Nbl-WAE9HN: 荣耀 MagicBook 14 i7
 
-**荣耀 MagicBook 14 科技尝鲜版 (`nobelk`):**
+Nbl-WAE9HNP: 荣耀 MagicBook 14 i7 (16GB+512GB)
 
-Nbl-WAQ9HNL: 荣耀 MagicBook 14 科技尝鲜版 R5
+**荣耀 MagicBook 14 2020 (`nobell`):**
 
-Nbl-WAP9HNL: 荣耀 MagicBook 14 科技尝鲜版 R7
+NblL-WFQ9HN: 荣耀 MagicBook 14 2020 R5
+
+NblL-WFP9HN: 荣耀 MagicBook 14 2020 R7
 
 **荣耀 MagicBook 15:**
 
@@ -700,17 +714,23 @@ Boh-WAQ9HNRP: 荣耀 MagicBook 15 R5 (16GB+512GB)
 
 Boh-WAP9HNR: 荣耀 MagicBook 15 R7
 
+Boh-WAQ9HNL: 荣耀 MagicBook 15 科技尝鲜版 R5
+
+Boh-WAP9HNL: 荣耀 MagicBook 15 科技尝鲜版 R7
+
 Boh-WAH9HN: 荣耀 MagicBook 15 i5
 
 Boh-WAH9HNP: 荣耀 MagicBook 15 i5 (16GB+512GB)
 
 Boh-WAE9HN: 荣耀 MagicBook 15 i7
 
-**荣耀 MagicBook 15 科技尝鲜版:**
+**荣耀 MagicBook 15 2020:**
 
-Boh-WAQ9HNL: 荣耀 MagicBook 15 科技尝鲜版 R5
+BohL-WDQ9HN: 荣耀 MagicBook 15 2020 R5 (8GB+256GB)
 
-Boh-WAP9HNL: 荣耀 MagicBook 15 科技尝鲜版 R7
+BohL-WFQ9HN: 荣耀 MagicBook 15 2020 R5 (16GB+512GB)
+
+BohL-WFP9HN: 荣耀 MagicBook 15 2020 R7
 
 **荣耀 MagicBook Pro:**
 
@@ -718,17 +738,15 @@ HBL-W19: 荣耀 MagicBook Pro i5
 
 HBL-W29: 荣耀 MagicBook Pro i7
 
+HBL-W19L: 荣耀 MagicBook Pro 科技尝鲜版 i5
+
+HBL-W29L: 荣耀 MagicBook Pro 科技尝鲜版 i7
+
 HLY-W19R: 荣耀 MagicBook Pro R5
 
 HLY-W19RP: 荣耀 MagicBook Pro R5 (16GB+512GB)
 
 HLY-W29R: 荣耀 MagicBook Pro R7
-
-**荣耀 MagicBook Pro 科技尝鲜版:**
-
-HBL-W19L: 荣耀 MagicBook Pro 科技尝鲜版 i5
-
-HBL-W29L: 荣耀 MagicBook Pro 科技尝鲜版 i7
 
 HLY-W19RL: 荣耀 MagicBook Pro 科技尝鲜版 R5
 
@@ -741,6 +759,10 @@ HLY-W29RL: 荣耀 MagicBook Pro 科技尝鲜版 R7
 HBB-WAH9PHNL: 荣耀 MagicBook Pro 2020 i5 (16GB+512GB)
 
 HBB-WAE9PHNL: 荣耀 MagicBook Pro 2020 i7 (16GB+512GB)
+
+HLYL-WFQ9: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
+
+HLYL-WFP9: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
 
 ## 荣耀智慧屏
 
