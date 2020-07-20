@@ -596,6 +596,10 @@ M2004J19AG: Redmi 9 Global (NFC)
 
 M2006C3LG: Redmi 9A Global
 
+**[`C3M`] Redmi 9C (`angelica`):**
+
+M2006C3MG: Redmi 9C Global
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 2014018: Redmi Note WCDMA 1GB

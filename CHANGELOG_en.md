@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-20
+- `xiaomi_en` Added Redmi 9C.
 ## 2020-07-11
 - `realme_en` Updated some models.
 ## 2020-07-07
