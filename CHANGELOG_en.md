@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-22
+- `oneplus_en` Added OnePlus Nord (codename will soon be updated).
 ## 2020-07-20
 - `xiaomi_en` Added Redmi 9C.
 ## 2020-07-11

@@ -131,3 +131,7 @@ IN2021: OnePlus 8 Pro India
 IN2013: OnePlus 8 Pro EU
 
 IN2015: OnePlus 8 Pro North America
+
+**OnePlus Nord:**
+
+AC2003: OnePlus Nord
