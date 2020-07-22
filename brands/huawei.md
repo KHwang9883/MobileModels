@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200705
+# 华为手机型号汇总 20200722
 
 ## HUAWEI Mate 系列
 
@@ -766,17 +766,23 @@ BAH3-W09: HUAWEI MatePad 10.4 英寸 Wi-Fi 版
 
 BAH3-AL00: HUAWEI MatePad 10.4 英寸 全网通版
 
-**华为平板 C3 (华为平板 T3 行业专享版) (`kobe`):**
+**华为平板 C3 (`kobe`):**
 
 BZK-W00: 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
 
 BZK-L00: 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 LTE 版
 
-**华为平板 C3 (华为平板 T3 行业专享版) (`agassi`):**
+**华为平板 C3 (`agassi`):**
 
 BZA-W00: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
 
 BZA-L00: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版
+
+**华为平板 C3:**
+
+BZD-W00: 华为平板 C3 8 英寸 2020 款 Wi-Fi 版
+
+BZD-AL00: 华为平板 C3 8 英寸 2020 款 全网通版
 
 **华为平板 C5:**
 
@@ -789,6 +795,10 @@ BZT-W09: 华为平板 C5 10.1 英寸 Wi-Fi 版
 BZT-AL00: 华为平板 C5 10.1 英寸 全网通标配版
 
 BZT-AL10: 华为平板 C5 10.1 英寸 全网通高配版
+
+BZW-AL00: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+32GB)
+
+BZW-AL10: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+64GB)
 
 ## 笔记本电脑
 
@@ -862,7 +872,7 @@ Nbl-WAQ9L: HUAWEI MateBook D 14 R5 Linux 版
 
 **HUAWEI MateBook D 14:**
 
-NbB-WAH9: HUAWEI MateBook D 14 i5
+NbB-WAH9: HUAWEI MateBook D 14 i5 (8GB+512GB)
 
 NbB-WAH9P: HUAWEI MateBook D 14 i5 (16GB+512GB)
 
@@ -870,13 +880,13 @@ NbB-WAE9P: HUAWEI MateBook D 14 i7 (16GB+512GB)
 
 **HUAWEI MateBook D 15:**
 
-Boh-WAQ9R: HUAWEI MateBook D 15 R5
+Boh-WAQ9R: HUAWEI MateBook D 15 R5 (8GB+512GB)
 
 Boh-WAQ9RP: HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)
 
 Boh-WAQ9L: HUAWEI MateBook D 15 R5 Linux 版
 
-BoB-WAH9: HUAWEI MateBook D 15 i5
+BoB-WAH9: HUAWEI MateBook D 15 i5 (8GB+512GB)
 
 BoB-WAH9P: HUAWEI MateBook D 15 i5 (16GB+512GB)
 
@@ -910,7 +920,7 @@ HN-W19L: HUAWEI MateBook 13 锐龙 Linux 版
 
 **HUAWEI MateBook 13 (2020) (`wrightb`):**
 
-WRTB-WAH9L: HUAWEI MateBook 13 (2020) i5
+WRTB-WAH9L: HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
 
 WRTB-WFH9L: HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
 
@@ -926,11 +936,29 @@ KLV-W29: HUAWEI MateBook 14 i7
 
 **HUAWEI MateBook 14 (2020) (`kelvinc`):**
 
-KLVC-WAH9L: HUAWEI MateBook 14 (2020) i5
+KLVC-WAH9L: HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
 
 KLVC-WFH9L: HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
 
 KLVC-WFE9L: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
+
+**HUAWEI MateBook B3-410:**
+
+NBZ-WBH9: HUAWEI MateBook B3-410 i5 (8GB+256GB)
+
+NBZ-WBM9: HUAWEI MateBook B3-410 i5 (8GB+512GB)
+
+NBZ-WBE9: HUAWEI MateBook B3-410 i7
+
+**HUAWEI MateBook B3-510:**
+
+BBZ-WBH9: HUAWEI MateBook B3-510 i5
+
+BBZ-WBE9: HUAWEI MateBook B3-510 i7
+
+**HUAWEI MateBook B5-420 (`kelvinc`):**
+
+KLCZ-WDH9: HUAWEI MateBook B5-420
 
 ## 智慧屏
 

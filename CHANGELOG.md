@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020-07-22
+- `huawei` 新增华为平板 C3 & C5 2020 款、HUAWEI MateBook B 系列。
 - `lenovo` 新增拯救者电竞手机 Pro。
 - `oneplus` 新增 OnePlus Nord（代号待更新）。
 ## 2020-07-21
