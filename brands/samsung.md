@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200520
+# 三星手机型号汇总 20200723
 
 ## Galaxy S 系列
 
@@ -356,6 +356,18 @@ SM-A7160: Galaxy A71 5G
 
 SM-M3070: Galaxy M30s
 
+## Galaxy Z 系列
+
+**Galaxy Fold:**
+
+SM-F9000: Galaxy Fold
+
+**Galaxy Z Flip:**
+
+SM-F7000: Galaxy Z Flip
+
+SM-F7070: Galaxy Z Flip 5G
+
 ## Galaxy C 系列
 
 **Galaxy C5:**
@@ -480,15 +492,7 @@ SM-W2019: 三星 W2019
 
 SM-W2020: 三星 W20 5G
 
-## 其他手机系列
-
-**Galaxy Fold:**
-
-SM-F9000: Galaxy Fold
-
-**Galaxy Z Flip:**
-
-SM-F7000: Galaxy Z Flip
+## 三星其他手机系列
 
 **Galaxy Folder:**
 
