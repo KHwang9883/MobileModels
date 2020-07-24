@@ -190,11 +190,13 @@ M2001J1E, M2001J1C: Mi 10 Pro China
 
 **[`J9`] Mi 10 Lite (`monet`):**
 
-M2002J9G, M2002J9R: Mi 10 Lite Global
+M2002J9G: Mi 10 Lite Global
+
+M2002J9S: Mi 10 Lite Korea
+
+M2002J9R, XIG01: Mi 10 Lite Japan
 
 **[`J9`] Mi 10 Lite Zoom (`vangogh`):**
-
-M2002J9S: Mi 10 Lite Zoom Global
 
 M2002J9E: Mi 10 Lite Zoom China
 

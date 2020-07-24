@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-24
+- `xiaomi_en` Fixed regional infomation for Mi 10 Lite.
 ## 2020-07-22
 - `oneplus_en` Added OnePlus Nord (codename will soon be updated).
 ## 2020-07-20
