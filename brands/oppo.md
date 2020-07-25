@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20200704
+# OPPO 手机型号汇总 20200725
 
 ## R 系列
 
@@ -199,6 +199,12 @@ PCHT00: OPPO A11n 移动版
 PDAM10: OPPO A52 全网通版
 
 PDAT10: OPPO A52 移动版
+
+**OPPO A72:**
+
+PDYM20: OPPO A72 全网通版
+
+PDYT20: OPPO A72 移动版
 
 **OPPO A91:**
 
