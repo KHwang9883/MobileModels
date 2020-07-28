@@ -598,6 +598,8 @@ M2004J19AG: Redmi 9 Global (NFC)
 
 M2006C3LG: Redmi 9A Global
 
+M2006C3LC: Redmi 9A China
+
 **[`C3M`] Redmi 9C (`angelica`):**
 
 M2006C3MG: Redmi 9C Global
@@ -939,3 +941,7 @@ KLE-A0: Black Shark 3 China
 MBU-H0: Black Shark 3 Pro Global
 
 MBU-A0: Black Shark 3 Pro China
+
+**Black Shark 3S (`klein`):**
+
+KLE-A0: Black Shark 3S China

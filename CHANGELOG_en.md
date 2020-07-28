@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-07-28
+- `xiaomi_en` Added Chinese varient of Redmi 9A and Black Shark 3S.
 ## 2020-07-24
 - `xiaomi_en` Fixed regional infomation for Mi 10 Lite.
 ## 2020-07-22
