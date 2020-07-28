@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020-07-28
 - `vivo` 新增 vivo S7、vivo Y51s。
+- `xiaomi` 新增 Redmi 9A、黑鲨 3S。
 ## 2020-07-25
 - `oppo` 新增 OPPO A72。
 ## 2020-07-24
