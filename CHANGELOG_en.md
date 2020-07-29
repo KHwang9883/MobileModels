@@ -1,10 +1,12 @@
 # CHANGELOG
+## 2020-07-29
+- `oneplus_en` Updated codename for OnePlus Nord.
 ## 2020-07-28
 - `xiaomi_en` Added Chinese varient of Redmi 9A and Black Shark 3S.
 ## 2020-07-24
 - `xiaomi_en` Fixed regional infomation for Mi 10 Lite.
 ## 2020-07-22
-- `oneplus_en` Added OnePlus Nord (codename will soon be updated).
+- `oneplus_en` Added OnePlus Nord.
 ## 2020-07-20
 - `xiaomi_en` Added Redmi 9C.
 ## 2020-07-11

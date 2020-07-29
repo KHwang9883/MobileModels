@@ -128,10 +128,12 @@ IN2020: OnePlus 8 Pro China
 
 IN2021: OnePlus 8 Pro India
 
-IN2013: OnePlus 8 Pro EU
+IN2023: OnePlus 8 Pro EU
 
-IN2015: OnePlus 8 Pro North America
+IN2025: OnePlus 8 Pro North America
 
-**OnePlus Nord:**
+**OnePlus Nord (`avicii`):**
 
-AC2003: OnePlus Nord
+AC2001: OnePlus Nord India
+
+AC2003: OnePlus Nord Global
