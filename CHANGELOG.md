@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-07-29
+- `oneplus` 更新 OnePlus Nord 代号，更正错误。
 ## 2020-07-28
 - `vivo` 新增 vivo S7、vivo Y51s。
 - `xiaomi` 新增 Redmi 9A、黑鲨 3S。
@@ -12,7 +14,7 @@
 ## 2020-07-22
 - `huawei` 新增华为平板 C3 & C5 8 英寸 2020 款、HUAWEI MateBook B 系列。
 - `lenovo` 新增拯救者电竞手机 Pro。
-- `oneplus` 新增 OnePlus Nord（代号待更新）。
+- `oneplus` 新增 OnePlus Nord。
 ## 2020-07-21
 - `nubia` 新增红魔 5S（型号与红魔 5G 相同）。
 ## 2020-07-20

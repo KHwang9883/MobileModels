@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20200722
+# 一加手机型号汇总 20200729
 
 ## 一加手机
 
@@ -132,10 +132,12 @@ IN2020: OnePlus 8 Pro 全网通版
 
 IN2021: OnePlus 8 Pro 印度版
 
-IN2013: OnePlus 8 Pro 欧洲版
+IN2023: OnePlus 8 Pro 欧洲版
 
-IN2015: OnePlus 8 Pro 北美版
+IN2025: OnePlus 8 Pro 北美版
 
-**OnePlus Nord:**
+**OnePlus Nord (`avicii`):**
+
+AC2001: OnePlus Nord 印度版
 
 AC2003: OnePlus Nord 国际版
