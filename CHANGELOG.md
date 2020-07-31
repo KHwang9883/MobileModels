@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-07-31
+- `huawei` 新增 HUAWEI MatePad 10.8 英寸、华为畅享平板 2、HUAWEI MateBook D 2020 锐龙版。
 ## 2020-07-29
 - `oneplus` 更新 OnePlus Nord 代号，更正错误。
 ## 2020-07-28

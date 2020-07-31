@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200724
+# 华为手机型号汇总 20200731
 
 ## HUAWEI Mate 系列
 
@@ -736,12 +736,6 @@ JDN2-W09: 华为平板 M5 青春版 8 英寸 Wi-Fi 版
 
 JDN2-AL00, JDN2-AL50: 华为平板 M5 青春版 8 英寸 全网通版
 
-**华为畅享平板 (`agassi2`):**
-
-AGS2-W09: 华为畅享平板 10.1 英寸 Wi-Fi 版
-
-AGS2-AL00: 华为畅享平板 10.1 英寸 全网通版
-
 **华为平板 M6 (`verdi`):**
 
 VRD-W09: 华为平板 M6 8.4 英寸 Wi-Fi 版
@@ -775,6 +769,26 @@ MRX-AN19: HUAWEI MatePad Pro 5G 10.8 英寸 全网通版
 BAH3-W09: HUAWEI MatePad 10.4 英寸 Wi-Fi 版
 
 BAH3-AL00: HUAWEI MatePad 10.4 英寸 全网通版
+
+**HUAWEI MatePad (`schumannr`):**
+
+SCMR-W09: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
+
+SCMR-AL09: HUAWEI MatePad 10.8 英寸 全网通版
+
+**华为畅享平板 (`agassi2`):**
+
+AGS2-W09: 华为畅享平板 10.1 英寸 Wi-Fi 版
+
+AGS2-AL00: 华为畅享平板 10.1 英寸 全网通版
+
+**华为畅享平板 2 (`agassi3`):**
+
+AGS3-W00D: 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB)
+
+AGS3-W00E: 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+128GB)
+
+AGS3-AL00: 华为畅享平板 2 10.1 英寸 全网通版
 
 **华为平板 C3 (`kobe`):**
 
@@ -892,6 +906,10 @@ NbB-WAH9P: HUAWEI MateBook D 14 i5 (16GB+512GB)
 
 NbB-WAE9P: HUAWEI MateBook D 14 i7 (16GB+512GB)
 
+NblL-WFQ9: HUAWEI MateBook D 14 (2020) R5
+
+NblL-WFP9: HUAWEI MateBook D 14 (2020) R7
+
 **HUAWEI MateBook D 15:**
 
 Boh-WAQ9R: HUAWEI MateBook D 15 R5 (8GB+512GB)
@@ -905,6 +923,10 @@ BoB-WAH9: HUAWEI MateBook D 15 i5 (8GB+512GB)
 BoB-WAH9P: HUAWEI MateBook D 15 i5 (16GB+512GB)
 
 BoB-WAE9P: HUAWEI MateBook D 15 i7 (16GB+512GB)
+
+BohL-WFQ9: HUAWEI MateBook D 15 (2020) R5
+
+BohL-WFP9: HUAWEI MateBook D 15 (2020) R7
 
 **HUAWEI MateBook E:**
 
