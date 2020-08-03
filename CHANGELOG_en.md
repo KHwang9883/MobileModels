@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-08-03
+- `realme_en` Added realme V5.
 ## 2020-07-29
 - `oneplus_en` Updated codename for OnePlus Nord.
 ## 2020-07-28
