@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200711
+# realme 手机型号汇总 20200803
 
 ## 中国产品
 
@@ -41,6 +41,12 @@ RMX2141, RMX2142: realme X50m 5G
 **realme X50t:**
 
 RMX2052: realme X50t 5G
+
+**realme V5:**
+
+RMX2111: realme V5 5G 全网通版
+
+RMX2112: realme V5 5G 移动版
 
 ## 国际产品
 

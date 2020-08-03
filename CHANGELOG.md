@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-08-03
+- `realme` 新增 realme 真我 V5。
 ## 2020-07-31
 - `huawei` 新增 HUAWEI MatePad 10.8 英寸、华为畅享平板 2、HUAWEI MateBook D 2020 锐龙版。
 ## 2020-07-29
