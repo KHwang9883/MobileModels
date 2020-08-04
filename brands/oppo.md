@@ -1,36 +1,4 @@
-# OPPO 手机型号汇总 20200725
-
-## R 系列
-
-**OPPO R15:**
-
-PACM00: OPPO R15 全网通版
-
-PACT00: OPPO R15 移动版
-
-**OPPO R15 梦镜版:**
-
-PAAM00: OPPO R15 梦镜版 全网通版
-
-PAAT00: OPPO R15 梦镜版 移动版
-
-**OPPO R15x:**
-
-PBCM10: OPPO R15x 全网通版
-
-PBCT10: OPPO R15x 移动版
-
-**OPPO R17:**
-
-PBEM00: OPPO R17 全网通版
-
-PBET00: OPPO R17 移动版
-
-**OPPO R17 Pro:**
-
-PBDM00: OPPO R17 Pro 全网通版
-
-PBDT00: OPPO R17 Pro 移动版
+# OPPO 手机型号汇总 20200804
 
 ## Find 系列
 
@@ -125,6 +93,38 @@ PCLM10: OPPO Reno Ace 全网通版
 **OPPO Ace2:**
 
 PDHM00: OPPO Ace2 全网通版
+
+## R 系列
+
+**OPPO R15:**
+
+PACM00: OPPO R15 全网通版
+
+PACT00: OPPO R15 移动版
+
+**OPPO R15 梦镜版:**
+
+PAAM00: OPPO R15 梦镜版 全网通版
+
+PAAT00: OPPO R15 梦镜版 移动版
+
+**OPPO R15x:**
+
+PBCM10: OPPO R15x 全网通版
+
+PBCT10: OPPO R15x 移动版
+
+**OPPO R17:**
+
+PBEM00: OPPO R17 全网通版
+
+PBET00: OPPO R17 移动版
+
+**OPPO R17 Pro:**
+
+PBDM00: OPPO R17 Pro 全网通版
+
+PBDT00: OPPO R17 Pro 移动版
 
 ## A 系列
 
@@ -235,3 +235,7 @@ PCGT00: OPPO K3 移动版
 PCNM00: OPPO K5 全网通版
 
 PCNT00: OPPO K5 移动版
+
+**OPPO K7:**
+
+PCLM50: OPPO K7 全网通版
