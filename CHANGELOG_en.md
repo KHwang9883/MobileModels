@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-08-04
+- `xiaomi_en` Indian variant of Redmi 9 Prime has been added.
 ## 2020-08-03
 - `realme_en` Added realme V5.
 ## 2020-07-29
