@@ -2,6 +2,7 @@
 ## 2020-08-04
 - `nokia` 新增 Nokia C3。
 - `oppo` 新增 OPPO K7。
+- `xiaomi` 新增 Redmi 9 Prime 印度版。
 ## 2020-08-03
 - `realme` 新增 realme 真我 V5。
 ## 2020-07-31
