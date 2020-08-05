@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200723
+# 三星手机型号汇总 20200805
 
 ## Galaxy S 系列
 
@@ -242,6 +242,14 @@ SM-N9700: Galaxy Note10
 
 SM-N9760: Galaxy Note10+ 5G
 
+**Galaxy Note20:**
+
+SM-N9810: Galaxy Note20 5G
+
+**Galaxy Note20 Ultra:**
+
+SM-N9860: Galaxy Note20 Ultra 5G
+
 ## Galaxy A 系列
 
 **Galaxy A3:**
@@ -367,6 +375,10 @@ SM-F9000: Galaxy Fold
 SM-F7000: Galaxy Z Flip
 
 SM-F7070: Galaxy Z Flip 5G
+
+**Galaxy Z Fold2:**
+
+SM-F9160: Galaxy Z Fold2 5G
 
 ## Galaxy C 系列
 

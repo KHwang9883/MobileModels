@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-08-05
+- `samsung` 新增三星 Galaxy Note20 系列、Galaxy Z Fold2。
 ## 2020-08-04
 - `nokia` 新增 Nokia C3。
 - `oppo` 新增 OPPO K7。
