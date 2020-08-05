@@ -64,15 +64,15 @@ BND-L21, BND-L31, BND-AL10: HONOR 7X Dual SIM
 
 BND-L24: HONOR 7X Dual SIM (United States)
 
-**HONOR 7C:**
+**HONOR 7C (`london`):**
 
 LND-L29, LND-AL30: HONOR 7C Dual SIM
 
-**HONOR 7A:**
+**HONOR 7A (`atomu`):**
 
 AUM-L29, AUM-L33, AUM-L41, AUM-AL20: HONOR 7A Dual SIM
 
-**HONOR 7S:**
+**HONOR 7S (`dura`):**
 
 DRA-LX5, DRA-AL00IA, DUA-L22, DUA-LX3: HONOR 7S Dual SIM
 
@@ -114,7 +114,7 @@ STF-L09: HONOR 9 Dual SIM
 
 LLD-L31, LLD-AL10: HONOR 9 Lite Dual SIM
 
-**HONOR 9N (`leland`):**
+**HONOR 9N (`lelandp`):**
 
 LLD-AL20: HONOR 9N Dual SIM
 

@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2020-08-06
+- `honor_global_en` Updated codename infomation.
 - `huawei_global_en` Updated codename infomation.
 ## 2020-08-04
 - `xiaomi_en` Indian variant of Redmi 9 Prime has been added.
