@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200731
+# 华为手机型号汇总 20200806
 
 ## HUAWEI Mate 系列
 
@@ -488,13 +488,13 @@ RNE-AL00: HUAWEI 麦芒 6 全网通版
 
 SNE-AL00: HUAWEI 麦芒 7 全网通版
 
-**HUAWEI 麦芒 8 (`potter`):**
+**HUAWEI 麦芒 8 (`potterpro`):**
 
 POT-AL00, POT-AL10: HUAWEI 麦芒 8 全网通版
 
-**HUAWEI 麦芒 9:**
+**华为麦芒 9:**
 
-TNN-AN00: HUAWEI 麦芒 9 5G 全网通版
+TNN-AN00: 华为麦芒 9 5G 全网通版
 
 ## 华为畅享系列
 
@@ -554,7 +554,7 @@ FLA-AL00, FLA-AL10, FLA-AL20: 华为畅享 8 Plus 全网通版
 
 FLA-TL00, FLA-TL10: 华为畅享 8 Plus 移动 4G+ 版
 
-**华为畅享 8:**
+**华为畅享 8 (`london`):**
 
 LDN-AL00: 华为畅享 8 全网通标配版
 
@@ -568,7 +568,7 @@ LDN-TL10: 华为畅享 8 移动 4G+ NFC 版
 
 LDN-TL20: 华为畅享 8 移动 4G+ 高配版
 
-**华为畅享 8e:**
+**华为畅享 8e (`atomu`):**
 
 ATU-AL10: 华为畅享 8e 全网通版
 
