@@ -266,13 +266,13 @@ BAC-L01, BAC-L03: HUAWEI nova 2 Plus Single SIM
 
 BAC-L21, BAC-L22, BAC-L23: HUAWEI nova 2 Plus Dual SIM
 
-**HUAWEI nova 2i:**
+**HUAWEI nova 2i (`rhone`):**
 
 RNE-L02: HUAWEI nova 2 Single SIM
 
 RNE-L22: HUAWEI nova 2 Dual SIM
 
-**HUAWEI nova 2 lite:**
+**HUAWEI nova 2 lite (`london`):**
 
 LDN-LX2: HUAWEI nova 2 lite
 
