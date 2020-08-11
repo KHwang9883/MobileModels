@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-08-11
+- `xiaomi_en` Xiaomi Mi 10 Ultra and Redmi K30 Ultra have been added.
 ## 2020-08-06
 - `honor_global_en` Updated codename infomation.
 - `huawei_global_en` Updated codename infomation.

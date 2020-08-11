@@ -200,6 +200,10 @@ M2002J9R, XIG01: Mi 10 Lite Japan
 
 M2002J9E: Mi 10 Lite Zoom China
 
+**[`J1S`] Mi 10 Ultra (`cas`):**
+
+M2007J1SC: Mi 10 Ultra China
+
 **[`X5`] Mi Note (`virgo`):**
 
 2015011: Mi Note Global
@@ -857,6 +861,10 @@ M2001J11I: Redmi K30 Pro India
 **[`J11`] Redmi K30 Pro Zoom Edition (`lmiinpro`):**
 
 M2001J11I: Redmi K30 Pro Zoom Edition India
+
+**[`J10`] Redmi K30 Ultra (`cezanne`):**
+
+M2006J10C: Redmi K30 Ultra China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
