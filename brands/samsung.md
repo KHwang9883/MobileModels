@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200805
+# 三星手机型号汇总 20200813
 
 ## Galaxy S 系列
 
@@ -581,6 +581,14 @@ SM-T860: Galaxy Tab S6 WLAN
 SM-P610: Galaxy Tab S6 Lite WLAN
 
 SM-P615C: Galaxy Tab S6 Lite 4G
+
+**Galaxy Tab S7:**
+
+SM-T870: Galaxy Tab S7 WLAN
+
+**Galaxy Tab S7+:**
+
+SM-T970: Galaxy Tab S7+ WLAN
 
 ## Galaxy Tab A 系列
 
