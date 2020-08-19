@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020-08-19
+- `honor` 更新荣耀 MagicBook 14 SE 标注。
 - `huawei` 新增 HUAWEI MateBook 新品。
 ## 2020-08-17
 - `vivo` 新增 iQOO 5 系列。
