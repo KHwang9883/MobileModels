@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200806
+# 华为手机型号汇总 20200819
 
 ## HUAWEI Mate 系列
 
@@ -844,6 +844,14 @@ WT-W09: HUAWEI MateBook X i5
 
 WT-W19: HUAWEI MateBook X i7
 
+**HUAWEI MateBook X (2020):**
+
+EUL-W19: HUAWEI MateBook X i5 (8GB+512GB)
+
+EUL-W19P: HUAWEI MateBook X i5 (16GB+512GB)
+
+EUL-W29P: HUAWEI MateBook X i7 (16GB+512GB)
+
 **HUAWEI MateBook X Pro:**
 
 MACH-W19: HUAWEI MateBook X Pro i5
@@ -962,6 +970,12 @@ WRTB-WFH9L: HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
 
 WRTB-WFE9L: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
 
+**HUAWEI MateBook 13 (2020) 锐龙版:**
+
+HNL-WFQ9: HUAWEI MateBook 13 (2020) R5
+
+HNL-WFP9: HUAWEI MateBook 13 (2020) R7
+
 **HUAWEI MateBook 14 (`kelvin`):**
 
 KLV-W19: HUAWEI MateBook 14 i5
@@ -977,6 +991,10 @@ KLVC-WAH9L: HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
 KLVC-WFH9L: HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
 
 KLVC-WFE9L: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
+
+**HUAWEI MateBook 14 (2020) 锐龙版 (`kelvinl`):**
+
+KLVL-WFH9: HUAWEI MateBook 14 (2020) R5
 
 **HUAWEI MateBook B3-410:**
 
