@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-08-20
+- `xiaomi` 更新部分国际产品型号。
 ## 2020-08-19
 - `honor` 更新荣耀 MagicBook 14 SE 标注。
 - `huawei` 新增 HUAWEI MateBook 新品。
