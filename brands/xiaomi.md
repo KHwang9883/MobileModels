@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200820
+# 小米手机型号汇总 20200827
 
 ## 小米数字系列
 
@@ -608,7 +608,7 @@ M1908C3KI: Redmi 8A 印度版
 
 M2001C3K3I: Redmi 8A Dual 印度版 / Redmi 8A Pro 国际版
 
-**[`J19`] Redmi 9 (`lancelot`):**
+**[`J19`] Redmi 9 / Redmi 9 Prime (`lancelot`):**
 
 M2004J19C: Redmi 9 全网通版
 
@@ -632,9 +632,13 @@ M2006C3LVG: Redmi 9AT 国际版
 
 M2006C3MG: Redmi 9C 国际版
 
-**[`C3MN`] Redmi 9C NFC:**
+**[`C3MN`] Redmi 9C NFC (`angelican`):**
 
 M2006C3MNG: Redmi 9C NFC 国际版
+
+**[`C3MI`] Redmi 9 (`angelicain`):**
+
+M2006C3MII: Redmi 9 印度版
 
 ## 红米 Redmi Note 系列
 
