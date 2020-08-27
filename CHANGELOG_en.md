@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-08-27
+- `xiaomi_en` Indian variant of Redmi 9 has been added.
 ## 2020-08-20
 - `xiaomi_en` Added some international models.
 ## 2020-08-11
