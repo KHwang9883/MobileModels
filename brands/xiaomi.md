@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200827
+# 小米手机型号汇总 20200828
 
 ## 小米数字系列
 
@@ -882,7 +882,11 @@ M1903F11A: Redmi K20 Pro 尊享版 全网通版
 
 M2001G7AE: Redmi K30 5G 全网通版 / Redmi K30 5G 极速版
 
-M2001G7AC: Redmi K30 5G 全网通版 / Redmi K30i 全网通版
+M2001G7AC: Redmi K30 5G 全网通版
+
+**[`G7A`] Redmi K30i 5G (`picasso48m`):**
+
+M2001G7AC: Redmi K30i 5G 全网通版
 
 **[`G7B`] Redmi K30 4G (`phoenix`):**
 
