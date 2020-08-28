@@ -848,7 +848,11 @@ M1903F11A: Redmi K20 Pro Premium Edition China
 
 M2001G7AE: Redmi K30 5G China / Redmi K30 5G Speed Edition China
 
-M2001G7AC: Redmi K30 5G China / Redmi K30i China
+M2001G7AC: Redmi K30 5G China
+
+**[`G7A`] Redmi K30i 5G (`picasso48m`):**
+
+M2001G7AC: Redmi K30i 5G China
 
 **[`G7B`] Redmi K30 4G (`phoenix`):**
 
