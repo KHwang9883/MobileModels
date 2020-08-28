@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200828
+# 小米手机型号汇总 20200829
 
 ## 小米数字系列
 
@@ -614,7 +614,7 @@ M2004J19C: Redmi 9 全网通版
 
 M2004J19G: Redmi 9 国际版 (无 NFC)
 
-M2004J19I, M2004J19PI: Redmi 9 Prime 印度版
+M2004J19I: Redmi 9 Prime 印度版
 
 **[`J19A`] Redmi 9 (`galahad`):**
 
@@ -636,9 +636,9 @@ M2006C3MG: Redmi 9C 国际版
 
 M2006C3MNG: Redmi 9C NFC 国际版
 
-**[`C3MI`] Redmi 9 (`angelicain`):**
+**[`C3M`] Redmi 9 (`angelicain`):**
 
-M2006C3MII: Redmi 9 印度版
+M2006C3MI: Redmi 9 印度版
 
 ## 红米 Redmi Note 系列
 
