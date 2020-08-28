@@ -592,7 +592,7 @@ M2004J19C: Redmi 9 China
 
 M2004J19G: Redmi 9 Global (No NFC)
 
-M2004J19I, M2004J19PI: Redmi 9 Prime India
+M2004J19I: Redmi 9 Prime India
 
 **[`J19A`] Redmi 9 (`galahad`):**
 
@@ -614,9 +614,9 @@ M2006C3MG: Redmi 9C Global
 
 M2006C3MNG: Redmi 9C NFC Global
 
-**[`C3MI`] Redmi 9 (`angelicain`):**
+**[`C3M`] Redmi 9 (`angelicain`):**
 
-M2006C3MII: Redmi 9 India
+M2006C3MI: Redmi 9 India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
