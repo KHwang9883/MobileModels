@@ -432,7 +432,7 @@ HUAWEI RIO-TL00: HUAWEI G7 Plus 移动版
 
 HUAWEI RIO-UL00: HUAWEI G7 Plus 联通版
 
-**HUAWEI G9 青春版:**
+**HUAWEI G9 青春版 (`venus`):**
 
 HUAWEI VNS-AL00: HUAWEI G9 青春版 全网通版
 
@@ -442,7 +442,7 @@ HUAWEI VNS-DL00: HUAWEI G9 青春版 双 4G 版
 
 HUAWEI VNS-CL00: HUAWEI G9 青春版 电信版
 
-**HUAWEI G9 Plus:**
+**HUAWEI G9 Plus (`milan`):**
 
 HUAWEI MLA-TL00: HUAWEI G9 Plus 移动 4G 版
 

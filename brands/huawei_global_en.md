@@ -152,7 +152,7 @@ VIE-L09: HUAWEI P9 Plus Single SIM
 
 VIE-L29: HUAWEI P9 Plus Dual SIM
 
-**HUAWEI P9 lite:**
+**HUAWEI P9 lite (`venus`):**
 
 VNS-L21, VNS-L22, VNS-L23, VNS-L31, VNS-L52, VNS-L53, VNS-L62: HUAWEI P9 lite
 
@@ -246,7 +246,7 @@ STK-L21, STK-LX1: HUAWEI P Smart Pro
 
 CAN-L01, CAN-L02, CAN-L03, CAN-L11, CAN-L12, CAN-L13: HUAWEI nova
 
-**HUAWEI nova Plus:**
+**HUAWEI nova Plus (`milan`):**
 
 MLA-L01, MLA-L02, MLA-L03, MLA-L11, MLA-L12, MLA-L13: HUAWEI nova Plus
 
