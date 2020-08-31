@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200829
+# 小米手机型号汇总 20200831
 
 ## 小米数字系列
 
@@ -628,6 +628,8 @@ M2006C3LG: Redmi 9A 国际版
 
 M2006C3LVG: Redmi 9AT 国际版
 
+M2006C3LI: Redmi 9A 印度版
+
 **[`C3M`] Redmi 9C (`angelica`):**
 
 M2006C3MG: Redmi 9C 国际版
@@ -636,9 +638,9 @@ M2006C3MG: Redmi 9C 国际版
 
 M2006C3MNG: Redmi 9C NFC 国际版
 
-**[`C3M`] Redmi 9 (`angelicain`):**
+**[`C3MI`] Redmi 9 (`cattail`):**
 
-M2006C3MI: Redmi 9 印度版
+M2006C3MII: Redmi 9 印度版
 
 ## 红米 Redmi Note 系列
 
