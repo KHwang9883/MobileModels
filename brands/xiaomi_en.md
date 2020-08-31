@@ -606,6 +606,8 @@ M2006C3LC: Redmi 9A China
 
 M2006C3LVG: Redmi 9AT Global
 
+M2006C3LI: Redmi 9A India
+
 **[`C3M`] Redmi 9C (`angelica`):**
 
 M2006C3MG: Redmi 9C Global
@@ -614,9 +616,9 @@ M2006C3MG: Redmi 9C Global
 
 M2006C3MNG: Redmi 9C NFC Global
 
-**[`C3M`] Redmi 9 (`angelicain`):**
+**[`C3MI`] Redmi 9 (`cattail`):**
 
-M2006C3MI: Redmi 9 India
+M2006C3MII: Redmi 9 India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 

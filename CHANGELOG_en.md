@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-08-31
+- `xiaomi_en` Indian variant of Redmi 9A has been added.
 ## 2020-08-28
 - `xiaomi_en` Minor fix.
 ## 2020-08-27
