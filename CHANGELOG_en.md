@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-09-01
+- `realme_en` realme X7 series, realme V3 and some Indian models have been added.
 ## 2020-08-31
 - `xiaomi_en` Indian variant of Redmi 9A has been added.
 ## 2020-08-28
