@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200803
+# realme 手机型号汇总 20200901
 
 ## 中国产品
 
@@ -41,6 +41,20 @@ RMX2141, RMX2142: realme X50m 5G
 **realme X50t:**
 
 RMX2052: realme X50t 5G
+
+**realme X7:**
+
+RMX2176: realme X7 5G
+
+**realme X7 Pro:**
+
+RMX2121: realme X7 Pro
+
+**realme V3:**
+
+RMX2200: realme V3 5G 全网通版
+
+RMX2201: realme V3 5G 移动版
 
 **realme V5:**
 
@@ -100,7 +114,9 @@ RMX2061, RMX2063: realme 6 Pro
 
 **realme 6i:**
 
-RMX2040, RMX2041, RMX2042: realme 6i
+RMX2002: realme 6i 印度版
+
+RMX2040, RMX2041, RMX2042: realme 6i 国际版
 
 **realme X:**
 
@@ -157,6 +173,14 @@ RMX2027: realme C3i
 **realme C11:**
 
 RMX2185: realme C11
+
+**realme C12:**
+
+RMX2189: realme C12
+
+**realme C15:**
+
+RMX2180: realme C15
 
 **realme U1:**
 

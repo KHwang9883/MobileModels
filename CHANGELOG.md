@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-09-01
+- `realme` 新增 realme 真我 X7 系列、真我 V3。
 ## 2020-08-31
 - `huawei` 新增华为畅享 20 Plus。
 - `xiaomi` 新增 Redmi 9A 印度版。
