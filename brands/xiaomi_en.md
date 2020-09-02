@@ -588,25 +588,27 @@ M2001C3K3I: Redmi 8A Dual India / Redmi 8A Pro Global
 
 **[`J19`] Redmi 9 / Redmi 9 Prime (`lancelot`):**
 
-M2004J19C: Redmi 9 China
-
 M2004J19G: Redmi 9 Global (No NFC)
 
 M2004J19I: Redmi 9 Prime India
+
+M2004J19C: Redmi 9 China
 
 **[`J19A`] Redmi 9 (`galahad`):**
 
 M2004J19AG: Redmi 9 Global (NFC)
 
-**[`C3L`] Redmi 9A / Redmi 9AT (`dandelion`):**
+**[`C3L`] Redmi 9A / Redmi 9AT / Redmi 9i (`dandelion`):**
 
 M2006C3LG: Redmi 9A Global
-
-M2006C3LC: Redmi 9A China
 
 M2006C3LVG: Redmi 9AT Global
 
 M2006C3LI: Redmi 9A India
+
+M2006C3LII: Redmi 9i India
+
+M2006C3LC: Redmi 9A China
 
 **[`C3M`] Redmi 9C (`angelica`):**
 
@@ -926,9 +928,21 @@ M2004J11G: POCO F2 Pro
 
 M1912G7BI: POCO X2 India
 
+**[`J20C`] POCO X3 NFC (`surya`):**
+
+M2007J20CG: POCO X3 NFC Global
+
+**[`J19P`] POCO M2 (`shiva`):**
+
+M2004J19PI: POCO M2 India
+
 **[`J6C`] POCO M2 Pro (`gram`):**
 
 M2003J6CI: POCO M2 Pro India
+
+**[`C3M`] POCO C3 (`angelicain`):**
+
+M2006C3MI: POCO C3 India
 
 ## Black Shark
 

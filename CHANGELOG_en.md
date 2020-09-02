@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-09-02
+- `xiaomi_en` Upcoming POCO devices have been added.
 ## 2020-09-01
 - `realme_en` realme X7 series, realme V3 and some Indian models have been added.
 ## 2020-08-31
