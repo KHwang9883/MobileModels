@@ -56,6 +56,14 @@ RMX2002: realme 6i India
 
 RMX2040, RMX2041, RMX2042: realme 6i Global
 
+**realme 7:**
+
+RMX2151: realme 7
+
+**realme 7 Pro:**
+
+RMX2170: realme 7 Pro
+
 **realme X:**
 
 RMX1901: realme X
