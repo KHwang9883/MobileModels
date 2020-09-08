@@ -1,4 +1,4 @@
-# 小米电视型号汇总 20200811
+# 小米电视型号汇总 20200909
 
 ## 国内产品
 
@@ -277,6 +277,10 @@ L32M5-AL: Mi LED Smart TV 4A Pro 32
 L43M5-AN: Mi LED Smart TV 4A Pro 43
 
 L49M5-AN: Mi LED Smart TV 4A Pro 49
+
+L32M6-EI: Mi TV 4A 32 Horizon
+
+L43M6-EI: Mi TV 4A 43 Horizon
 
 **Mi TV 4:**
 
