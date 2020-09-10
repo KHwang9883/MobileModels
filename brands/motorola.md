@@ -1,4 +1,4 @@
-# Motorola 手机型号汇总 20190704
+# Motorola 手机型号汇总 20200910
 
 ## Moto 手机
 
@@ -85,3 +85,7 @@ XT1965-6: motorola g7 plus
 **motorola p50:**
 
 XT1970-5: motorola p50
+
+**motorola razr 5G:**
+
+XT2071-4: motorola razr 5G
