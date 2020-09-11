@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20200804
+# OPPO 手机型号汇总 20200911
 
 ## Find 系列
 
@@ -193,6 +193,10 @@ PCHT30: OPPO A11x 移动版
 PCHM00: OPPO A11n 全网通版
 
 PCHT00: OPPO A11n 移动版
+
+**OPPO A32:**
+
+PDVM00: OPPO A32 全网通版
 
 **OPPO A52:**
 
