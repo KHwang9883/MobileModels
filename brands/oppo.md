@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20200911
+# OPPO 手机型号汇总 20200915
 
 ## Find 系列
 
@@ -83,6 +83,12 @@ PDPT00: OPPO Reno4 移动版
 PDNM00: OPPO Reno4 Pro 全网通版
 
 PDNT00: OPPO Reno4 Pro 移动版
+
+**OPPO Reno4 SE:**
+
+PEAM00: OPPO Reno4 SE 全网通版
+
+PEAT00: OPPO Reno4 SE 移动版
 
 ## Ace 系列
 
