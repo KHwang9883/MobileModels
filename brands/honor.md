@@ -1,4 +1,4 @@
-# 荣耀手机型号汇总 20200819
+# 荣耀手机型号汇总 20200916
 
 ## 荣耀 HONOR 系列 ( N 系列)
 
@@ -364,7 +364,7 @@ AKA-AL10: 荣耀 Play 4T 全网通版
 
 AQM-AL10: 荣耀 Play 4T Pro 全网通版
 
-**荣耀 Play 4:**
+**荣耀 Play 4 (`tianshanh`):**
 
 TNNH-AN00: 荣耀 Play 4 5G 全网通版
 
@@ -763,6 +763,12 @@ HBB-WAE9PHNL: 荣耀 MagicBook Pro 2020 i7 (16GB+512GB)
 HLYL-WFQ9: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
 
 HLYL-WFP9: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+
+**荣耀猎人游戏本 V700:**
+
+FRD-WFG9: 荣耀猎人游戏本 V700 i5
+
+FRD-WFD9: 荣耀猎人游戏本 V700 i7
 
 ## 荣耀智慧屏
 

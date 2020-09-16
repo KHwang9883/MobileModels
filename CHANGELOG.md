@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020-09-16
+- `honor` 新增荣耀猎人游戏本 V700。
 - `huawei` 新增 HUAWEI MatePad 5G。
 ## 2020-09-15
 - `oppo` 新增 OPPO Reno4 SE。
