@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-09-16
+- `huawei` 新增 HUAWEI MatePad 5G。
 ## 2020-09-15
 - `oppo` 新增 OPPO Reno4 SE。
 ## 2020-09-11
