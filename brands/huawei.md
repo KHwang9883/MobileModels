@@ -492,7 +492,7 @@ SNE-AL00: HUAWEI 麦芒 7 全网通版
 
 POT-AL00, POT-AL10: HUAWEI 麦芒 8 全网通版
 
-**华为麦芒 9:**
+**华为麦芒 9 (`tianshan`):**
 
 TNN-AN00: 华为麦芒 9 5G 全网通版
 
