@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20200416
+# Apple 设备型号汇总 20200919
 
 ## 国行型号
 
@@ -224,6 +224,14 @@ A2197: iPad (第 7 代) (无线局域网)
 
 A2199: iPad (第 7 代) (无线局域网 + 蜂窝网络) (国行)
 
+**iPad (第 8 代) (`iPad11,6`):**
+
+A2270: iPad (第 8 代) (无线局域网)
+
+**iPad (第 8 代) (`iPad11,7`):**
+
+A2430: iPad (第 8 代) (无线局域网 + 蜂窝网络) (国行)
+
 ### iPad Air
 
 **iPad Air (`iPad4,2`):**
@@ -249,6 +257,14 @@ A2152: iPad Air (第 3 代) (无线局域网)
 **iPad Air (第 3 代) (`iPad11,4`):**
 
 A2154: iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (国行)
+
+**iPad Air (第 4 代) (`iPad13,1`):**
+
+A2316: iPad Air (第 4 代) (无线局域网)
+
+**iPad Air (第 4 代) (`iPad13,2`):**
+
+A2325: iPad Air (第 4 代) (无线局域网 + 蜂窝网络) (国行)
 
 ### iPad Pro
 
@@ -464,6 +480,38 @@ A2156: Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
 
 A2157: Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
 
+**Apple Watch SE (`Watch5,9`):**
+
+A2351: Apple Watch SE (GPS) (40 毫米表壳)
+
+**Apple Watch SE (`Watch5,10`):**
+
+A2352: Apple Watch SE (GPS) (44 毫米表壳)
+
+**Apple Watch SE (`Watch5,11`):**
+
+A2355: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (国行)
+
+**Apple Watch SE (`Watch5,12`):**
+
+A2356: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (国行)
+
+**Apple Watch Series 6 (`Watch6,1`):**
+
+A2291: Apple Watch Series 6 (GPS) (40 毫米表壳)
+
+**Apple Watch Series 6 (`Watch6,2`):**
+
+A2292: Apple Watch Series 6 (GPS) (44 毫米表壳)
+
+**Apple Watch Series 6 (`Watch6,3`):**
+
+A2375: Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
+
+**Apple Watch Series 6 (`Watch6,4`):**
+
+A2376: Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
+
 ### iPod touch
 
 **iPod touch (`iPod1,1`):**
@@ -654,11 +702,19 @@ A1459: iPad (第 4 代) (无线局域网 + 蜂窝网络)
 
 A2198, A2200: iPad (第 7 代) (无线局域网 + 蜂窝网络)
 
+**iPad (第 8 代) (`iPad11,7`):**
+
+A2428, A2429: iPad (第 8 代) (无线局域网 + 蜂窝网络)
+
 ### iPad Air
 
 **iPad Air (第 3 代) (`iPad11,4`):**
 
 A2123, A2153: iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
+
+**iPad Air (第 4 代) (`iPad13,2`):**
+
+A2072, A2324: iPad Air (第 4 代) (无线局域网 + 蜂窝网络)
 
 ### iPad Pro
 
@@ -737,6 +793,22 @@ A2094: Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
 **Apple Watch Series 5 (`Watch5,4`):**
 
 A2095: Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+
+**Apple Watch SE (`Watch5,11`):**
+
+A2353: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+
+**Apple Watch SE (`Watch5,12`):**
+
+A2354: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+
+**Apple Watch Series 6 (`Watch6,3`):**
+
+A2293: Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+
+**Apple Watch Series 6 (`Watch6,4`):**
+
+A2294: Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
 
 ### iPod touch
 
