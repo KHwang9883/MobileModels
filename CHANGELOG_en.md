@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-09-19
+- `apple_en` Products released in Sep 2020 event have been added.
 ## 2020-09-03
 - `realme_en` Realme 7 and realme 7 Pro have been added.
 ## 2020-09-02

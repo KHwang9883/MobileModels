@@ -308,6 +308,16 @@ A2198, A2200: iPad (7th generation) Wi-Fi + Cellular
 
 A2199: iPad (7th generation) Wi-Fi + Cellular (China)
 
+**iPad (8th generation) (`iPad11,6`):**
+
+A2270: iPad (8th generation) Wi-Fi
+
+**iPad (8th generation) (`iPad11,7`):**
+
+A2428, A2429: iPad (8th generation) Wi-Fi + Cellular
+
+A2430: iPad (8th generation) Wi-Fi + Cellular (China)
+
 ## iPad Air
 
 **iPad Air (`iPad4,1`):**
@@ -339,6 +349,16 @@ A2152: iPad Air (3rd generation) Wi-Fi
 A2123, A2153: iPad Air (3rd generation) Wi-Fi + Cellular
 
 A2154: iPad Air (3rd generation) Wi-Fi + Cellular (China)
+
+**iPad Air (4th generation) (`iPad13,1`):**
+
+A2316: iPad Air (4th generation) Wi-Fi
+
+**iPad Air (4th generation) (`iPad13,2`):**
+
+A2072, A2324: iPad Air (4th generation) Wi-Fi + Cellular
+
+A2325: iPad Air (4th generation) Wi-Fi + Cellular (China)
 
 ## iPad Pro
 
@@ -589,6 +609,46 @@ A2156: Apple Watch Series 5 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, 
 A2095: Apple Watch Series 5 (GPS + Cellular) (44mm case) (North America)
 
 A2157: Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
+
+**Apple Watch SE (`Watch5,9`):**
+
+A2351: Apple Watch SE (GPS) (40mm case)
+
+**Apple Watch SE (`Watch5,10`):**
+
+A2352: Apple Watch SE (GPS) (44mm case)
+
+**Apple Watch SE (`Watch5,11`):**
+
+A2353: Apple Watch SE (GPS + Cellular) (40mm case) (North America)
+
+A2355: Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)
+
+**Apple Watch SE (`Watch5,12`):**
+
+A2354: Apple Watch SE (GPS + Cellular) (44mm case) (North America)
+
+A2356: Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
+
+**Apple Watch Series 6 (`Watch6,1`):**
+
+A2291: Apple Watch Series 6 (GPS) (40mm case)
+
+**Apple Watch Series 6 (`Watch6,2`):**
+
+A2292: Apple Watch Series 6 (GPS) (44mm case)
+
+**Apple Watch Series 6 (`Watch6,3`):**
+
+A2293: Apple Watch Series 6 (GPS + Cellular) (40mm case) (North America)
+
+A2375: Apple Watch Series 6 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)
+
+**Apple Watch Series 6 (`Watch6,4`):**
+
+A2294: Apple Watch Series 6 (GPS + Cellular) (44mm case) (North America)
+
+A2376: Apple Watch Series 6 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
 
 ## iPod touch
 
