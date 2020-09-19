@@ -928,6 +928,10 @@ M2004J11G: POCO F2 Pro
 
 M1912G7BI: POCO X2 India
 
+**[`J20C`] POCO X3 (`karna`):**
+
+M2007J20CI: POCO X3 India
+
 **[`J20C`] POCO X3 NFC (`surya`):**
 
 M2007J20CG: POCO X3 NFC Global
