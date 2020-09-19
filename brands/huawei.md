@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200916
+# 华为手机型号汇总 20200919
 
 ## HUAWEI Mate 系列
 
@@ -1003,6 +1003,8 @@ KLVC-WFE9L: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
 **HUAWEI MateBook 14 (2020) 锐龙版 (`kelvinl`):**
 
 KLVL-WFH9: HUAWEI MateBook 14 (2020) R5
+
+KLVL-WFE9: HUAWEI MateBook 14 (2020) R7
 
 **HUAWEI MateBook B3-410:**
 

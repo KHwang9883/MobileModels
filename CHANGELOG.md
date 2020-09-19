@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020-09-19
 - `apple` 新增 2020 年 9 月发布的 Apple Watch 和 iPad 新品。
+- `huawei` 更新部分产品型号。
 ## 2020-09-16
 - `honor` 新增荣耀猎人游戏本 V700。
 - `huawei` 新增 HUAWEI MatePad 5G。
