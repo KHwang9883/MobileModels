@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200902
+# 小米手机型号汇总 20200919
 
 ## 小米数字系列
 
@@ -963,6 +963,10 @@ M2004J11G: POCO F2 Pro
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 M1912G7BI: POCO X2 印度版
+
+**[`J20C`] POCO X3 (`karna`):**
+
+M2007J20CI: POCO X3 印度版
 
 **[`J20C`] POCO X3 NFC (`surya`):**
 
