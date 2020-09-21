@@ -140,6 +140,18 @@ RMX2040: realme Narzo 10
 
 RMX2020: realme Narzo 10A
 
+**realme Narzo 20:**
+
+RMX2193: realme Narzo 20
+
+**realme Narzo 20 Pro:**
+
+RMX2161: realme Narzo 20 Pro
+
+**realme Narzo 20A:**
+
+RMX2050: realme Narzo 10A
+
 ## Chinese products
 
 **realme X:**

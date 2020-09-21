@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-09-21
+- `realme_en` Realme Narzo 20 series have been added.
 ## 2020-09-19
 - `apple_en` Products released in Sep 2020 event have been added.
 - `xiaomi_en` Indian variant of POCO X3 has been added.
