@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200903
+# realme 手机型号汇总 20200921
 
 ## 中国产品
 
@@ -201,3 +201,15 @@ RMX2040: realme Narzo 10
 **realme Narzo 10A:**
 
 RMX2020: realme Narzo 10A
+
+**realme Narzo 20:**
+
+RMX2193: realme Narzo 20
+
+**realme Narzo 20 Pro:**
+
+RMX2161: realme Narzo 20 Pro
+
+**realme Narzo 20A:**
+
+RMX2050: realme Narzo 10A

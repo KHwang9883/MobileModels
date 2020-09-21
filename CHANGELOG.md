@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-09-21
+- `realme` 新增 realme Narzo 20 系列。
 ## 2020-09-19
 - `apple` 新增 2020 年 9 月发布的 Apple Watch 和 iPad 新品。
 - `huawei` 更新部分产品型号。
