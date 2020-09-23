@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200813
+# 三星手机型号汇总 20200924
 
 ## Galaxy S 系列
 
@@ -153,6 +153,10 @@ SM-G9860: Galaxy S20+ 5G
 **Galaxy S20 Ultra:**
 
 SM-G9880: Galaxy S20 Ultra 5G
+
+**Galaxy S20 FE:**
+
+SM-G7810: Galaxy S20 FE 5G
 
 ## Galaxy Note 系列
 

@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-09-24
+- `samsung` 新增 Galaxy S20 FE。
 ## 2020-09-21
 - `honor` 更新部分智慧屏型号。
 - `realme` 新增 realme Narzo 20 系列。
