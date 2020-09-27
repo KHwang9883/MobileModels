@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020-09-27
+- `realme` 更新部分国际产品型号。
 - `samsung` 新增产品 codename 代号。
 ## 2020-09-24
 - `samsung` 新增 Galaxy S20 FE。

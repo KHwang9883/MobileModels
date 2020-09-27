@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20200921
+# realme 手机型号汇总 20200927
 
 ## 中国产品
 
@@ -126,6 +126,10 @@ RMX2151: realme 7
 
 RMX2170: realme 7 Pro
 
+**realme 7i:**
+
+RMX2103, RMX2104: realme 7i
+
 **realme X:**
 
 RMX1901: realme X
@@ -189,6 +193,10 @@ RMX2189: realme C12
 **realme C15:**
 
 RMX2180: realme C15
+
+**realme C17:**
+
+RMX2101: realme C17
 
 **realme U1:**
 
