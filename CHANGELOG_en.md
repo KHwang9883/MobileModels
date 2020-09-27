@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-09-27
+- `realme_en` Added some international models.
 ## 2020-09-21
 - `realme_en` Realme Narzo 20 series have been added.
 ## 2020-09-19
