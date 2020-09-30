@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-09-30
+- `xiaomi_en` Mi 10T series have been added.
 ## 2020-09-27
 - `realme_en` Realme 7i and realme C17 have been added.
 ## 2020-09-21

@@ -204,6 +204,18 @@ M2002J9E: Mi 10 Lite Zoom China
 
 M2007J1SC: Mi 10 Ultra China
 
+**[`J3S`] Mi 10T (`apollo`):**
+
+M2007J3SY: Mi 10T Global
+
+**[`J3S`] Mi 10T Pro (`apollo`):**
+
+M2007J3SG: Mi 10T Pro Global
+
+**[`J17`] Mi 10T Lite (`gauguin`):**
+
+M2007J17G: Mi 10T Lite Global
+
 **[`X5`] Mi Note (`virgo`):**
 
 2015011: Mi Note Global
@@ -613,6 +625,8 @@ M2006C3LC: Redmi 9A China
 **[`C3M`] Redmi 9C (`angelica`):**
 
 M2006C3MG: Redmi 9C Global
+
+M2006C3MT: Redmi 9C Thailand
 
 **[`C3MN`] Redmi 9C NFC (`angelican`):**
 
