@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20200919
+# 小米手机型号汇总 20200930
 
 ## 小米数字系列
 
@@ -205,6 +205,18 @@ M2002J9R, XIG01: 小米 10 Lite 日本版
 **[`J1S`] 小米 10 至尊纪念版 (`cas`):**
 
 M2007J1SC: 小米 10 至尊纪念版 全网通版
+
+**[`J3S`] 小米 10T (`apollo`):**
+
+M2007J3SY: 小米 10T 国际版
+
+**[`J3S`] 小米 10T Pro (`apollo`):**
+
+M2007J3SG: 小米 10T Pro 国际版
+
+**[`J17`] 小米 10T Lite (`gauguin`):**
+
+M2007J17G: 小米 10T Lite 国际版
 
 ## 小米 Note 系列
 
@@ -635,6 +647,8 @@ M2006C3LII: Redmi 9i 印度版
 **[`C3M`] Redmi 9C (`angelica`):**
 
 M2006C3MG: Redmi 9C 国际版
+
+M2006C3MT: Redmi 9C 泰国版
 
 **[`C3MN`] Redmi 9C NFC (`angelican`):**
 
