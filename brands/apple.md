@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20200919
+# Apple 设备型号汇总 20201009
 
 ## 国行型号
 
@@ -234,6 +234,10 @@ A2430: iPad (第 8 代) (无线局域网 + 蜂窝网络) (国行)
 
 ### iPad Air
 
+**iPad Air (`iPad4,1`):**
+
+A1474: iPad Air (无线局域网)
+
 **iPad Air (`iPad4,2`):**
 
 A1475: iPad Air (无线局域网 + 蜂窝网络)
@@ -357,10 +361,6 @@ A1432: iPad mini (无线局域网)
 **iPad mini (`iPad2,7`):**
 
 A1455: iPad mini (无线局域网 + 蜂窝网络) (国行)
-
-**iPad Air (`iPad4,1`):**
-
-A1474: iPad Air (无线局域网)
 
 **iPad mini 2 (`iPad4,4`):**
 
