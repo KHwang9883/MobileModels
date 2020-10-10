@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20200919
+# 华为手机型号汇总 20201010
 
 ## HUAWEI Mate 系列
 
@@ -772,11 +772,13 @@ MRX-AN19: HUAWEI MatePad Pro 5G 10.8 英寸 全网通版
 
 **HUAWEI MatePad (`bach3`):**
 
-BAH3-W09: HUAWEI MatePad 10.4 英寸 Wi-Fi 版
+BAH3-W09: HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
 
-BAH3-AL00: HUAWEI MatePad 10.4 英寸 全网通版
+BAH3-W59: HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)
 
-BAH3-AN10: HUAWEI MatePad 5G 10.4 英寸 全网通版
+BAH3-AL00: HUAWEI MatePad 10.4 英寸 全网通版 (麒麟 810)
+
+BAH3-AN10: HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
 
 **HUAWEI MatePad (`schumannr`):**
 
