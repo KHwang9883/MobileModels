@@ -236,13 +236,17 @@ V1945T: vivo Y9s 移动全网通版
 
 V1965A: vivo Y50 全网通版
 
-**vivo Y51s (`PD2002`):**
+**vivo Y51s (`PD2019`):**
 
 V2002A: vivo Y51s 5G 全网通版
 
 **vivo Y70s (`PD2002`):**
 
 V2002A: vivo Y70s 5G 全网通版
+
+**vivo Y73s (`PD2031`):**
+
+V2031A: vivo Y73s 5G 全网通版
 
 ## iQOO 系列
 
