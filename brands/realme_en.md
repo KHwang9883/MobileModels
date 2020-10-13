@@ -1,6 +1,6 @@
 # realme Mobile Phone Models
 
-## Global products
+## Number series
 
 **realme 1:**
 
@@ -68,6 +68,8 @@ RMX2170: realme 7 Pro
 
 RMX2103, RMX2104: realme 7i
 
+## X series
+
 **realme X:**
 
 RMX1901: realme X
@@ -101,6 +103,8 @@ RMX2086: realme X3 SuperZoom Global
 RMX2075: realme X50 Pro Global
 
 RMX2076: realme X50 Pro India
+
+## C series
 
 **realme C1:**
 
@@ -136,9 +140,13 @@ RMX2180: realme C15
 
 RMX2101: realme C17
 
+## U series
+
 **realme U1:**
 
 RMX1831, RMX1833: realme U1
+
+## Narzo series
 
 **realme Narzo 10:**
 
@@ -160,7 +168,7 @@ RMX2161: realme Narzo 20 Pro
 
 RMX2050: realme Narzo 10A
 
-## Chinese products
+## X series (China)
 
 **realme X:**
 
@@ -169,10 +177,6 @@ RMX1901: realme X
 **realme X Lite:**
 
 RMX1851: realme X Lite
-
-**realme Q:**
-
-RMX1971: realme Q
 
 **realme X2:**
 
@@ -210,6 +214,8 @@ RMX2176: realme X7 5G
 
 RMX2121: realme X7 Pro
 
+## V series (China)
+
 **realme V3:**
 
 RMX2200: realme V3 5G China
@@ -221,3 +227,21 @@ RMX2201: realme V3 5G China Mobile
 RMX2111: realme V5 5G China
 
 RMX2112: realme V5 5G China Mobile
+
+## Q series (China)
+
+**realme Q:**
+
+RMX1971: realme Q
+
+**realme Q2:**
+
+RMX2117: realme Q2 5G
+
+**realme Q2 Pro:**
+
+RMX2173: realme Q2 Pro 5G
+
+**realme Q2i:**
+
+RMX2200: realme Q2i 5G

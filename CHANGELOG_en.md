@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-10-13
+- `realme_en` Realme Q2 series (China) have been added.
 ## 2020-09-30
 - `xiaomi_en` Mi 10T series have been added.
 ## 2020-09-27
