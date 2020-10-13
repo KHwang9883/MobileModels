@@ -1,6 +1,6 @@
-# realme 手机型号汇总 20200927
+# realme 手机型号汇总 20201013
 
-## 中国产品
+## X 系列
 
 **realme X:**
 
@@ -9,10 +9,6 @@ RMX1901: realme X
 **realme X 青春版:**
 
 RMX1851: realme X 青春版
-
-**realme Q:**
-
-RMX1971: realme Q
 
 **realme X2:**
 
@@ -48,7 +44,9 @@ RMX2176: realme X7 5G
 
 **realme X7 Pro:**
 
-RMX2121: realme X7 Pro
+RMX2121: realme X7 Pro 5G
+
+## V 系列
 
 **realme V3:**
 
@@ -62,7 +60,25 @@ RMX2111: realme V5 5G 全网通版
 
 RMX2112: realme V5 5G 移动版
 
-## 国际产品
+## Q 系列
+
+**realme Q:**
+
+RMX1971: realme Q
+
+**realme Q2:**
+
+RMX2117: realme Q2 5G
+
+**realme Q2 Pro:**
+
+RMX2173: realme Q2 Pro 5G
+
+**realme Q2i:**
+
+RMX2200: realme Q2i 5G
+
+## 数字系列 (海外)
 
 **realme 1:**
 
@@ -130,6 +146,8 @@ RMX2170: realme 7 Pro
 
 RMX2103, RMX2104: realme 7i
 
+## X 系列 (海外)
+
 **realme X:**
 
 RMX1901: realme X
@@ -163,6 +181,8 @@ RMX2086: realme X3 超级变焦版 国际版
 RMX2075: realme X50 Pro 国际版
 
 RMX2076: realme X50 Pro 印度版
+
+## C 系列 (海外)
 
 **realme C1:**
 
@@ -198,9 +218,13 @@ RMX2180: realme C15
 
 RMX2101: realme C17
 
+## U 系列 (海外)
+
 **realme U1:**
 
 RMX1831, RMX1833: realme U1
+
+## Narzo 系列 (海外)
 
 **realme Narzo 10:**
 

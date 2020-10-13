@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-10-13
+- `realme` 新增 realme Q2 系列。
 ## 2020-10-10
 - `huawei` 新增 HUAWEI MatePad 麒麟 820 版本。
 - `vivo` 新增 vivo Y73s。
