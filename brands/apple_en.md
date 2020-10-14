@@ -10,13 +10,13 @@ A1203: iPhone
 
 A1241: iPhone 3G
 
-A1324: iPhone 3G (China)
+A1324: iPhone 3G (China mainland)
 
 **iPhone 3GS (`iPhone2,1`):**
 
 A1303: iPhone 3GS
 
-A1325: iPhone 3GS (China)
+A1325: iPhone 3GS (China mainland)
 
 **iPhone 4 (`iPhone3,1`):**
 
@@ -80,7 +80,7 @@ A1593: iPhone 6 Plus (China Mobile)
 
 A1633, A1688: iPhone 6s
 
-A1700: iPhone 6s (China)
+A1700: iPhone 6s (China mainland)
 
 A1691: iPhone 6s (China Mobile)
 
@@ -88,7 +88,7 @@ A1691: iPhone 6s (China Mobile)
 
 A1634, A1687: iPhone 6s Plus
 
-A1699: iPhone 6s Plus (China)
+A1699: iPhone 6s Plus (China mainland)
 
 A1690: iPhone 6s Plus (China Mobile)
 
@@ -166,7 +166,7 @@ A2097: iPhone XS (GSM)
 
 A2098: iPhone XS (Japan)
 
-A2100: iPhone XS (China)
+A2100: iPhone XS (China mainland)
 
 A2099: iPhone XS (China Mobile)
 
@@ -230,9 +230,49 @@ A2275: iPhone SE (2nd generation) (North America)
 
 A2296: iPhone SE (2nd generation) (Rest of the world)
 
-A2298: iPhone SE (2nd generation) (China)
+A2298: iPhone SE (2nd generation) (China mainland)
 
 A2297: iPhone SE (2nd generation) (China Mobile)
+
+**iPhone 12:**
+
+A2172: iPhone 12 (United States)
+
+A2402: iPhone 12 (Canada, Japan)
+
+A2403: iPhone 12 (Rest of the world)
+
+A2404: iPhone 12 (Dual nano-SIMs)
+
+**iPhone 12 mini:**
+
+A2176: iPhone 12 mini (United States)
+
+A2398: iPhone 12 mini (Canada, Japan)
+
+A2399: iPhone 12 mini (Rest of the world)
+
+A2400: iPhone 12 mini (China mainland)
+
+**iPhone 12 Pro:**
+
+A2341: iPhone 12 Pro (United States)
+
+A2406: iPhone 12 Pro (Canada, Japan)
+
+A2407: iPhone 12 Pro (Rest of the world)
+
+A2408: iPhone 12 Pro (Dual nano-SIMs)
+
+**iPhone 12 Pro Max:**
+
+A2342: iPhone 12 Pro Max (United States)
+
+A2410: iPhone 12 Pro Max (Canada, Japan)
+
+A2411: iPhone 12 Pro Max (Rest of the world)
+
+A2412: iPhone 12 Pro Max (Dual nano-SIMs)
 
 ## iPad
 
@@ -280,7 +320,7 @@ A1459: iPad (4th generation) Wi-Fi + Cellular
 
 **iPad (4th generation) (`iPad3,6`):**
 
-A1460: iPad (4th generation) Wi-Fi + Cellular (China)
+A1460: iPad (4th generation) Wi-Fi + Cellular (China mainland)
 
 **iPad (5th generation) (`iPad6,11`):**
 
@@ -306,7 +346,7 @@ A2197: iPad (7th generation) Wi-Fi
 
 A2198, A2200: iPad (7th generation) Wi-Fi + Cellular
 
-A2199: iPad (7th generation) Wi-Fi + Cellular (China)
+A2199: iPad (7th generation) Wi-Fi + Cellular (China mainland)
 
 **iPad (8th generation) (`iPad11,6`):**
 
@@ -316,7 +356,7 @@ A2270: iPad (8th generation) Wi-Fi
 
 A2428, A2429: iPad (8th generation) Wi-Fi + Cellular
 
-A2430: iPad (8th generation) Wi-Fi + Cellular (China)
+A2430: iPad (8th generation) Wi-Fi + Cellular (China mainland)
 
 ## iPad Air
 
@@ -348,7 +388,7 @@ A2152: iPad Air (3rd generation) Wi-Fi
 
 A2123, A2153: iPad Air (3rd generation) Wi-Fi + Cellular
 
-A2154: iPad Air (3rd generation) Wi-Fi + Cellular (China)
+A2154: iPad Air (3rd generation) Wi-Fi + Cellular (China mainland)
 
 **iPad Air (4th generation) (`iPad13,1`):**
 
@@ -358,7 +398,7 @@ A2316: iPad Air (4th generation) Wi-Fi
 
 A2072, A2324: iPad Air (4th generation) Wi-Fi + Cellular
 
-A2325: iPad Air (4th generation) Wi-Fi + Cellular (China)
+A2325: iPad Air (4th generation) Wi-Fi + Cellular (China mainland)
 
 ## iPad Pro
 
@@ -378,7 +418,7 @@ A1673: iPad Pro (9.7-inch) Wi-Fi
 
 A1674: iPad Pro (9.7-inch) Wi-Fi + Cellular
 
-A1675: iPad Pro (9.7-inch) Wi-Fi + Cellular (China)
+A1675: iPad Pro (9.7-inch) Wi-Fi + Cellular (China mainland)
 
 **iPad Pro (12.9-inch, 2nd generation) (`iPad7,1`):**
 
@@ -388,7 +428,7 @@ A1670: iPad Pro (12.9-inch, 2nd generation) Wi-Fi
 
 A1671: iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular
 
-A1821: iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular (China)
+A1821: iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular (China mainland)
 
 **iPad Pro (10.5-inch) (`iPad7,3`):**
 
@@ -398,7 +438,7 @@ A1701: iPad Pro (10.5-inch) Wi-Fi
 
 A1709: iPad Pro (10.5-inch) Wi-Fi + Cellular
 
-A1852: iPad Pro (10.5-inch) Wi-Fi + Cellular (China)
+A1852: iPad Pro (10.5-inch) Wi-Fi + Cellular (China mainland)
 
 **iPad Pro (11-inch) (`iPad8,1`):**
 
@@ -412,13 +452,13 @@ A1980: iPad Pro (11-inch) Wi-Fi (1TB)
 
 A1934, A2013: iPad Pro (11-inch) Wi-Fi + Cellular
 
-A1979: iPad Pro (11-inch) Wi-Fi + Cellular (China)
+A1979: iPad Pro (11-inch) Wi-Fi + Cellular (China mainland)
 
 **iPad Pro (11-inch) (`iPad8,4`):**
 
 A1934, A2013: iPad Pro (11-inch) Wi-Fi + Cellular (1TB)
 
-A1979: iPad Pro (11-inch) Wi-Fi + Cellular (1TB) (China)
+A1979: iPad Pro (11-inch) Wi-Fi + Cellular (1TB) (China mainland)
 
 **iPad Pro (12.9-inch, 3rd generation) (`iPad8,5`):**
 
@@ -432,13 +472,13 @@ A1876: iPad Pro (12.9-inch, 3rd generation) Wi-Fi (1TB)
 
 A1895, A2014: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular
 
-A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (China)
+A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (China mainland)
 
 **iPad Pro (12.9-inch, 3rd generation) (`iPad8,8`):**
 
 A1895, A2014: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB)
 
-A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China)
+A1983: iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China mainland)
 
 **iPad Pro (11-inch, 2nd generation) (`iPad8,9`):**
 
@@ -448,7 +488,7 @@ A2228: iPad Pro (11-inch, 2nd generation) Wi-Fi
 
 A2068, A2230: iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular
 
-A2231: iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular (China)
+A2231: iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular (China mainland)
 
 **iPad Pro (12.9-inch, 4th generation) (`iPad8,11`):**
 
@@ -458,7 +498,7 @@ A2229: iPad Pro (12.9-inch, 4th generation) Wi-Fi
 
 A2069, A2232: iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular
 
-A2233: iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China)
+A2233: iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China mainland)
 
 ## iPad mini
 
@@ -472,7 +512,7 @@ A1454: iPad mini Wi-Fi + Cellular
 
 **iPad mini (`iPad2,7`):**
 
-A1455: iPad mini Wi-Fi + Cellular (China)
+A1455: iPad mini Wi-Fi + Cellular (China mainland)
 
 **iPad mini 2 (`iPad4,4`):**
 
@@ -514,7 +554,7 @@ A2133: iPad mini (5th generation) Wi-Fi
 
 A2124, A2126: iPad mini (5th generation) Wi-Fi + Cellular
 
-A2125: iPad mini (5th generation) Wi-Fi + Cellular (China)
+A2125: iPad mini (5th generation) Wi-Fi + Cellular (China mainland)
 
 ## Apple Watch
 
@@ -552,7 +592,7 @@ A1860: Apple Watch Series 3 (GPS + Cellular) (38mm case) (North America)
 
 A1889: Apple Watch Series 3 (GPS + Cellular) (38mm case) (Europe and Asia Pacific)
 
-A1890: Apple Watch Series 3 (GPS + Cellular) (38mm case) (China)
+A1890: Apple Watch Series 3 (GPS + Cellular) (38mm case) (China mainland)
 
 **Apple Watch Series 3 (`Watch3,2`):**
 
@@ -560,7 +600,7 @@ A1861: Apple Watch Series 3 (GPS + Cellular) (42mm case) (North America)
 
 A1891: Apple Watch Series 3 (GPS + Cellular) (42mm case) (Europe and Asia Pacific)
 
-A1892: Apple Watch Series 3 (GPS + Cellular) (42mm case) (China)
+A1892: Apple Watch Series 3 (GPS + Cellular) (42mm case) (China mainland)
 
 **Apple Watch Series 3 (`Watch3,3`):**
 
@@ -660,7 +700,7 @@ A1213: iPod touch (1st generation)
 
 A1288: iPod touch (2nd generation)
 
-A1319: iPod touch (2nd generation) (China)
+A1319: iPod touch (2nd generation) (China mainland)
 
 **iPod touch (3rd generation) (`iPod3,1`):**
 
