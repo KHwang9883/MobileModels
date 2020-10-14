@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20200729
+# 一加手机型号汇总 20201015
 
 ## 一加手机
 
@@ -94,7 +94,7 @@ HD1900: OnePlus 7T 全网通版
 
 HD1901: OnePlus 7T 印度版
 
-HD1903: OnePlus 7T 欧洲版
+HD1903: OnePlus 7T 欧洲/国际版
 
 HD1905: OnePlus 7T 北美版
 
@@ -106,7 +106,7 @@ HD1910: OnePlus 7T Pro 全网通版
 
 HD1911: OnePlus 7T Pro 印度版
 
-HD1913: OnePlus 7T Pro 欧洲版
+HD1913: OnePlus 7T Pro 欧洲/国际版
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
@@ -118,7 +118,7 @@ IN2010: OnePlus 8 全网通版
 
 IN2011: OnePlus 8 印度版
 
-IN2013: OnePlus 8 欧洲版
+IN2013: OnePlus 8 欧洲/国际版
 
 IN2015: OnePlus 8 北美版
 
@@ -132,12 +132,24 @@ IN2020: OnePlus 8 Pro 全网通版
 
 IN2021: OnePlus 8 Pro 印度版
 
-IN2023: OnePlus 8 Pro 欧洲版
+IN2023: OnePlus 8 Pro 欧洲/国际版
 
 IN2025: OnePlus 8 Pro 北美版
+
+**OnePlus 8T (`kebab`):**
+
+KB2000: OnePlus 8T 全网通版
+
+KB2001: OnePlus 8T 印度版
+
+KB2003: OnePlus 8T 欧洲/国际版
+
+KB2005: OnePlus 8T 北美版
+
+KB2007: OnePlus 8T T-Mobile 版
 
 **OnePlus Nord (`avicii`):**
 
 AC2001: OnePlus Nord 印度版
 
-AC2003: OnePlus Nord 国际版
+AC2003: OnePlus Nord 欧洲/国际版
