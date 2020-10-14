@@ -90,7 +90,7 @@ HD1900: OnePlus 7T China
 
 HD1901: OnePlus 7T India
 
-HD1903: OnePlus 7T EU
+HD1903: OnePlus 7T EU / Global
 
 HD1905: OnePlus 7T North America
 
@@ -102,7 +102,7 @@ HD1910: OnePlus 7T Pro China
 
 HD1911: OnePlus 7T Pro India
 
-HD1913: OnePlus 7T Pro EU
+HD1913: OnePlus 7T Pro EU / Global
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
@@ -114,7 +114,7 @@ IN2010: OnePlus 8 China
 
 IN2011: OnePlus 8 India
 
-IN2013: OnePlus 8 EU
+IN2013: OnePlus 8 EU / Global
 
 IN2015: OnePlus 8 North America
 
@@ -128,12 +128,24 @@ IN2020: OnePlus 8 Pro China
 
 IN2021: OnePlus 8 Pro India
 
-IN2023: OnePlus 8 Pro EU
+IN2023: OnePlus 8 Pro EU / Global
 
 IN2025: OnePlus 8 Pro North America
+
+**OnePlus 8T (`kebab`):**
+
+KB2000: OnePlus 8T China
+
+KB2001: OnePlus 8T India
+
+KB2003: OnePlus 8T EU / Global
+
+KB2005: OnePlus 8T North America
+
+KB2007: OnePlus 8T T-Mobile
 
 **OnePlus Nord (`avicii`):**
 
 AC2001: OnePlus Nord India
 
-AC2003: OnePlus Nord Global
+AC2003: OnePlus Nord EU / Global
