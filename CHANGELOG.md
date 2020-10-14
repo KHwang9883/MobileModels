@@ -1,5 +1,6 @@
 # 更新日志
 ## 2020-10-15
+- `apple` 新增 iPhone 12 系列（代号待更新）。
 - `oneplus` 新增 OnePlus 8T。
 ## 2020-10-13
 - `realme` 新增 realme Q2 系列。

@@ -1,4 +1,4 @@
-# Apple 设备型号汇总 20201009
+# Apple 设备型号汇总 20201015
 
 ## 国行型号
 
@@ -159,6 +159,22 @@ A2219: iPhone 11 Pro Max (中国移动)
 A2298: iPhone SE (第 2 代) (国行)
 
 A2297: iPhone SE (第 2 代) (中国移动)
+
+**iPhone 12:**
+
+A2404: iPhone 12 (国行)
+
+**iPhone 12 mini:**
+
+A2400: iPhone 12 mini (国行)
+
+**iPhone 12 Pro:**
+
+A2408: iPhone 12 Pro (国行)
+
+**iPhone 12 Pro Max:**
+
+A2412: iPhone 12 Pro Max (国行)
 
 ### iPad
 
@@ -642,7 +658,7 @@ A1901: iPhone X (GSM)
 
 **iPhone XS (`iPhone11,2`):**
 
-A1920: iPhone XS (北美/港澳)
+A1920: iPhone XS (北美，港澳)
 
 A2097: iPhone XS (GSM)
 
@@ -687,6 +703,38 @@ A2218: iPhone 11 Pro Max (其他国家和地区)
 A2275: iPhone SE (第 2 代) (北美)
 
 A2296: iPhone SE (第 2 代) (其他国家和地区)
+
+**iPhone 12:**
+
+A2172: iPhone 12 (美国)
+
+A2402: iPhone 12 (加拿大，日本)
+
+A2403: iPhone 12 (其他国家和地区)
+
+**iPhone 12 mini:**
+
+A2176: iPhone 12 mini (美国)
+
+A2398: iPhone 12 mini (加拿大，日本)
+
+A2399: iPhone 12 mini (其他国家和地区)
+
+**iPhone 12 Pro:**
+
+A2341: iPhone 12 Pro (美国)
+
+A2406: iPhone 12 Pro (加拿大，日本)
+
+A2407: iPhone 12 Pro (其他国家和地区)
+
+**iPhone 12 Pro Max:**
+
+A2342: iPhone 12 Pro Max (美国)
+
+A2410: iPhone 12 Pro Max (加拿大，日本)
+
+A2411: iPhone 12 Pro Max (其他国家和地区)
 
 ### iPad
 
