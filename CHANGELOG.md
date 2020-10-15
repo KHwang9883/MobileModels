@@ -2,6 +2,7 @@
 ## 2020-10-15
 - `apple` 新增 iPhone 12 系列。
 - `oneplus` 新增 OnePlus 8T。
+- `xiaomi` 新增小米 10T 印度版。
 ## 2020-10-13
 - `realme` 新增 realme Q2 系列。
 ## 2020-10-10
