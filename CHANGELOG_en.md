@@ -2,6 +2,7 @@
 ## 2020-10-15
 - `apple_en` iPhone 12 series have been added.
 - `oneplus_en` OnePlus 8T has been added.
+- `xiaomi_en` Indian variant of Mi 10T series has been added.
 ## 2020-10-13
 - `realme_en` Realme Q2 series (China) have been added.
 ## 2020-09-30

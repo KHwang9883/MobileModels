@@ -204,13 +204,13 @@ M2002J9E: Mi 10 Lite Zoom China
 
 M2007J1SC: Mi 10 Ultra China
 
-**[`J3S`] Mi 10T (`apollo`):**
+**[`J3S`] Mi 10T / Mi 10T Pro (`apollo`):**
 
 M2007J3SY: Mi 10T Global
 
-**[`J3S`] Mi 10T Pro (`apollo`):**
-
 M2007J3SG: Mi 10T Pro Global
+
+M2007J3SI: Mi 10T / Mi 10T Pro India
 
 **[`J17`] Mi 10T Lite (`gauguin`):**
 
