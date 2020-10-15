@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20201010
+# 华为手机型号汇总 20201015
 
 ## HUAWEI Mate 系列
 
@@ -409,6 +409,10 @@ JER-TN10, JER-TN20: HUAWEI nova 7 Pro 5G 移动全网通版
 CDY-AN00, CDY-AN20: HUAWEI nova 7 SE 5G 全网通版
 
 CDY-TN00, CDY-TN20: HUAWEI nova 7 SE 5G 移动全网通版
+
+**HUAWEI nova 7 SE 活力版 (`cindy`):**
+
+CND-AN00: HUAWEI Nova 7 SE 活力版 5G 全网通版
 
 ## HUAWEI G 系列
 

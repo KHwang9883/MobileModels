@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020-10-15
 - `apple` 新增 iPhone 12 系列。
+- `huawei` 新增 HUAWEI nova 7 SE 活力版。
 - `oneplus` 新增 OnePlus 8T。
 - `xiaomi` 新增小米 10T 印度版。
 ## 2020-10-13
