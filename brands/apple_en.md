@@ -234,17 +234,7 @@ A2298: iPhone SE (2nd generation) (China mainland)
 
 A2297: iPhone SE (2nd generation) (China Mobile)
 
-**iPhone 12:**
-
-A2172: iPhone 12 (United States)
-
-A2402: iPhone 12 (Canada, Japan)
-
-A2403: iPhone 12 (Rest of the world)
-
-A2404: iPhone 12 (Dual nano-SIMs)
-
-**iPhone 12 mini:**
+**iPhone 12 mini (`iPhone13,1`):**
 
 A2176: iPhone 12 mini (United States)
 
@@ -254,7 +244,17 @@ A2399: iPhone 12 mini (Rest of the world)
 
 A2400: iPhone 12 mini (China mainland)
 
-**iPhone 12 Pro:**
+**iPhone 12 (`iPhone13,2`):**
+
+A2172: iPhone 12 (United States)
+
+A2402: iPhone 12 (Canada, Japan)
+
+A2403: iPhone 12 (Rest of the world)
+
+A2404: iPhone 12 (Dual nano-SIMs)
+
+**iPhone 12 Pro (`iPhone13,3`):**
 
 A2341: iPhone 12 Pro (United States)
 
@@ -264,7 +264,7 @@ A2407: iPhone 12 Pro (Rest of the world)
 
 A2408: iPhone 12 Pro (Dual nano-SIMs)
 
-**iPhone 12 Pro Max:**
+**iPhone 12 Pro Max (`iPhone13,4`):**
 
 A2342: iPhone 12 Pro Max (United States)
 

@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2020-10-15
-- `apple_en` iPhone 12 series have been added (internal names will be updated soon).
+- `apple_en` iPhone 12 series have been added.
 - `oneplus_en` OnePlus 8T has been added.
 ## 2020-10-13
 - `realme_en` Realme Q2 series (China) have been added.
