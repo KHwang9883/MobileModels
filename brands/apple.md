@@ -160,19 +160,19 @@ A2298: iPhone SE (第 2 代) (国行)
 
 A2297: iPhone SE (第 2 代) (中国移动)
 
-**iPhone 12:**
-
-A2404: iPhone 12 (国行)
-
-**iPhone 12 mini:**
+**iPhone 12 mini (`iPhone13,1`):**
 
 A2400: iPhone 12 mini (国行)
 
-**iPhone 12 Pro:**
+**iPhone 12 (`iPhone13,2`):**
+
+A2404: iPhone 12 (国行)
+
+**iPhone 12 Pro (`iPhone13,3`):**
 
 A2408: iPhone 12 Pro (国行)
 
-**iPhone 12 Pro Max:**
+**iPhone 12 Pro Max (`iPhone13,4`):**
 
 A2412: iPhone 12 Pro Max (国行)
 
@@ -704,15 +704,7 @@ A2275: iPhone SE (第 2 代) (北美)
 
 A2296: iPhone SE (第 2 代) (其他国家和地区)
 
-**iPhone 12:**
-
-A2172: iPhone 12 (美国)
-
-A2402: iPhone 12 (加拿大，日本)
-
-A2403: iPhone 12 (其他国家和地区)
-
-**iPhone 12 mini:**
+**iPhone 12 mini (`iPhone13,1`):**
 
 A2176: iPhone 12 mini (美国)
 
@@ -720,7 +712,15 @@ A2398: iPhone 12 mini (加拿大，日本)
 
 A2399: iPhone 12 mini (其他国家和地区)
 
-**iPhone 12 Pro:**
+**iPhone 12 (`iPhone13,2`):**
+
+A2172: iPhone 12 (美国)
+
+A2402: iPhone 12 (加拿大，日本)
+
+A2403: iPhone 12 (其他国家和地区)
+
+**iPhone 12 Pro (`iPhone13,3`):**
 
 A2341: iPhone 12 Pro (美国)
 
@@ -728,7 +728,7 @@ A2406: iPhone 12 Pro (加拿大，日本)
 
 A2407: iPhone 12 Pro (其他国家和地区)
 
-**iPhone 12 Pro Max:**
+**iPhone 12 Pro Max (`iPhone13,4`):**
 
 A2342: iPhone 12 Pro Max (美国)
 
