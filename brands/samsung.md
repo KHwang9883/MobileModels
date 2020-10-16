@@ -1,4 +1,4 @@
-# 三星手机型号汇总 20200927
+# 三星手机型号汇总 20201016
 
 ## Galaxy S 系列
 
@@ -775,6 +775,14 @@ SM-T295C: Galaxy Tab A (2019) 8.0 4G
 **Galaxy Tab A (2019) 10.1 (`gta3xlwifi`):**
 
 SM-T510: Galaxy Tab A (2019) 10.1 WLAN
+
+**Galaxy Tab A7 (`gta4lwifi`):**
+
+SM-T500: Galaxy Tab A7 WLAN
+
+**Galaxy Tab A7 (`gta4l`):**
+
+SM-T505C: Galaxy Tab A7 4G
 
 ## Galaxy Tab 系列
 

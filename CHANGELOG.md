@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-10-16
+- `samsung` 新增 Galaxy Tab A7。
 ## 2020-10-15
 - `apple` 新增 iPhone 12 系列。
 - `huawei` 新增 HUAWEI nova 7 SE 活力版。
