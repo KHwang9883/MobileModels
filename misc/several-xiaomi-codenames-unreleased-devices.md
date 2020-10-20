@@ -74,6 +74,14 @@ M1903F10T: Redmi K20 运营商全网通版 (未上市)
 
 M1903F11T: Redmi K20 Pro 运营商全网通版 (未上市)
 
+**[`J11`] Redmi K30 Pro (`lmiin`):**
+
+M2001J11I: Redmi K30 Pro 印度版 (未上市)
+
+**[`J11`] Redmi K30 Pro (`lmiinpro`):**
+
+M2001J11I: Redmi K30 Pro 变焦版 印度版 (未上市)
+
 ## 小米电视
 
 **小米电视 4A:**
