@@ -1,4 +1,4 @@
-# 坚果手机型号汇总 20191101
+# 坚果手机型号汇总 20201020
 
 ## Smartisan 手机
 
@@ -65,3 +65,15 @@ OE106: 坚果 Pro 2S
 DT1901A: 坚果 Pro 3 (黑色/松绿色)
 
 DT1902A: 坚果 Pro 3 (白色)
+
+**坚果 R2:**
+
+DT2002C: 坚果 R2
+
+## Smartisan TNT
+
+**Smartisan TNT go:**
+
+DT2003A: Smartisan TNT go 有线版
+
+DT2003C: Smartisan TNT go 无线版

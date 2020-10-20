@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020-10-20
 - `realme` 更新部分国际产品型号。
+- `smartisan` 新增坚果 R2（代号待更新）、Smartisan TNT go。
 - `xiaomi` 移除了 Redmi K30 Pro 印度版本（从未发布）。
 ## 2020-10-19
 - `vivo` 新增 iQOO U1x。
