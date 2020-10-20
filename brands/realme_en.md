@@ -90,13 +90,17 @@ RMX1931: realme X2 Pro
 
 **realme X3:**
 
-RMX2081: realme X3
+RMX2081, RMX2083: realme X3
 
 **realme X3 SuperZoom:**
 
 RMX2085: realme X3 SuperZoom India
 
 RMX2086: realme X3 SuperZoom Global
+
+**realme X50:**
+
+RMX2144: realme X50 Global
 
 **realme X50 Pro:**
 
