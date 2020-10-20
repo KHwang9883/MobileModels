@@ -1,4 +1,4 @@
-# realme 手机型号汇总 20201013
+# realme 手机型号汇总 20201020
 
 ## X 系列
 
@@ -168,13 +168,17 @@ RMX1931: realme X2 Pro
 
 **realme X3:**
 
-RMX2081: realme X3
+RMX2081, RMX2083: realme X3
 
 **realme X3 超级变焦版:**
 
 RMX2085: realme X3 超级变焦版 印度版
 
 RMX2086: realme X3 超级变焦版 国际版
+
+**realme X50:**
+
+RMX2144: realme X50 国际版
 
 **realme X50 Pro:**
 
