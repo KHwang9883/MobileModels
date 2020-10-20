@@ -74,11 +74,11 @@ MI-ONE: Mi 1 Lite
 
 **[`A1`] Mi 5 (`gemini`):**
 
-2015105: Mi 5 32GB Global
+2015105: Mi 5 (32GB) Global
 
-2015201: Mi 5 32GB China
+2015201: Mi 5 (32GB) China
 
-2015628: Mi 5 64GB / 128GB China
+2015628: Mi 5 (64GB & 128GB) China
 
 **[`A7`] Mi 5s (`capricorn`):**
 
@@ -638,15 +638,15 @@ M2006C3MII: Redmi 9 India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
-2014018: Redmi Note WCDMA 1GB
+2014018: Redmi Note WCDMA (1GB RAM)
 
-2013121: Redmi Note WCDMA 2GB
+2013121: Redmi Note WCDMA (2GB RAM)
 
 **[`H3TD`] Redmi Note (`lcsh92_wet_xm_td`):**
 
-2014017: Redmi Note TD-SCDMA 1GB
+2014017: Redmi Note TD-SCDMA (1GB RAM)
 
-2013122: Redmi Note TD-SCDMA 2GB
+2013122: Redmi Note TD-SCDMA (2GB RAM)
 
 **[`H3LTE`] Redmi Note 4G (`dior`):**
 
@@ -658,23 +658,23 @@ M2006C3MII: Redmi 9 India
 
 2014021: Redmi Note 4G China Unicom
 
-**[`H3X`] Redmi Note 1S (`gucci`):**
+**[`H3X`] Redmi Note 1S / Redmi Note Prime (`gucci`):**
+
+2014912: Redmi Note 1S China Unicom / Redmi Note Prime India
 
 2014915, 2014911: Redmi Note 1S China Mobile
-
-2014912: Redmi Note 1S China Unicom
 
 2014916, 2014910: Redmi Note 1S China Telecom
 
 **[`H3Y`] Redmi Note 2 (`hermes`):**
 
-2015051: Redmi Note 2 16GB
+2015051: Redmi Note 2 (16GB)
 
-2015712: Redmi Note 2 32GB
+2015712: Redmi Note 2 (32GB)
 
-2015052, 2015055: Redmi Note 2 16GB China Mobile
+2015052, 2015055: Redmi Note 2 (16GB) China Mobile
 
-2015056: Redmi Note 2 32GB China Mobile
+2015056: Redmi Note 2 (32GB) China Mobile
 
 **[`H3Z`] Redmi Note 3 (`hennessy`):**
 
@@ -886,23 +886,15 @@ M2001J11C: Redmi K30 Pro China
 
 M2001J11E: Redmi K30 Pro Zoom Edition China
 
-**[`J11`] Redmi K30 Pro (`lmiin`):**
-
-M2001J11I: Redmi K30 Pro India
-
-**[`J11`] Redmi K30 Pro Zoom Edition (`lmiinpro`):**
-
-M2001J11I: Redmi K30 Pro Zoom Edition India
-
 **[`J10`] Redmi K30 Ultra (`cezanne`):**
 
 M2006J10C: Redmi K30 Ultra China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
-2016020: Redmi Pro 32GB
+2016020: Redmi Pro (32GB)
 
-2016021: Redmi Pro 64GB / 128GB
+2016021: Redmi Pro (64GB & 128GB)
 
 **[`E6`] Redmi S2 / Redmi Y2 (`ysl`):**
 
