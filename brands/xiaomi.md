@@ -1,4 +1,4 @@
-# 小米手机型号汇总 20201015
+# 小米手机型号汇总 20201020
 
 ## 小米数字系列
 
@@ -919,14 +919,6 @@ M2001J11C: Redmi K30 Pro 全网通版
 **[`J11`] Redmi K30 Pro (`lmipro`):**
 
 M2001J11E: Redmi K30 Pro 变焦版 全网通版
-
-**[`J11`] Redmi K30 Pro (`lmiin`):**
-
-M2001J11I: Redmi K30 Pro 印度版
-
-**[`J11`] Redmi K30 Pro (`lmiinpro`):**
-
-M2001J11I: Redmi K30 Pro 变焦版 印度版
 
 **[`J10`] Redmi K30 至尊纪念版 (`cezanne`):**
 
