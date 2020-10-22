@@ -1,6 +1,7 @@
 # 更新日志
 ## 2020-10-22
 - `huawei` 新增 HUAWEI Mate 40 系列、Mate 30E Pro。
+- `vivo` 新增 vivo Y3s、vivo Y30。
 ## 2020-10-21
 - `mitv` 新增小米盒子 4S。
 ## 2020-10-20
