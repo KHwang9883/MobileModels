@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20201015
+# 华为手机型号汇总 20201022
 
 ## HUAWEI Mate 系列
 
@@ -134,6 +134,10 @@ LIO-AN00: HUAWEI Mate 30 Pro 5G 全网通版
 
 LIO-TN00: HUAWEI Mate 30 Pro 5G 移动定制版
 
+**HUAWEI Mate 30E Pro (`lion`):**
+
+LIO-AN00m: HUAWEI Mate 30E Pro 全网通版
+
 **HUAWEI Mate 30 RS 保时捷设计 (`lion`):**
 
 LIO-AN00P: HUAWEI Mate 30 RS 保时捷设计
@@ -141,6 +145,22 @@ LIO-AN00P: HUAWEI Mate 30 RS 保时捷设计
 **HUAWEI Mate Xs (`tahiti`):**
 
 TAH-AN00m: HUAWEI Mate Xs
+
+**HUAWEI Mate 40 (`ocean`):**
+
+OCE-AN00: HUAWEI Mate 40 全网通版
+
+**HUAWEI Mate 40 Pro (`noah`):**
+
+NOH-AN00: HUAWEI Mate 40 Pro 全网通版
+
+**HUAWEI Mate 40 Pro+ (`noahp`):**
+
+NOP-AN00: HUAWEI Mate 40 Pro+ 全网通版
+
+**HUAWEI Mate 40 RS 保时捷设计 (`noahp`):**
+
+NOP-AN00: HUAWEI Mate 40 RS 保时捷设计
 
 ## HUAWEI P 系列
 
