@@ -1,7 +1,9 @@
 # CHANGELOG
+## 2020-10-27
+- `xiaomi_en` Redmi K30S has been added.
 ## 2020-10-20
 - `realme_en` A few realme devices have been added.
-- `xiaomi` Indian variant of Redmi K30 Pro has been removed, since it was never released.
+- `xiaomi_en` Indian variant of Redmi K30 Pro has been removed, since it was never released.
 ## 2020-10-15
 - `apple_en` iPhone 12 series have been added.
 - `oneplus_en` OnePlus 8T has been added.

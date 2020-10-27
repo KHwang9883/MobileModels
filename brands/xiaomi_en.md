@@ -802,13 +802,11 @@ M1906G7I: Redmi Note 8 Pro India
 
 M2003J15SS: Redmi Note 9 Global (No NFC)
 
+M2003J15SI: Redmi Note 9 India
+
 **[`J15S`] Redmi Note 9 (`merlinnfc`):**
 
 M2003J15SG: Redmi Note 9 Global (NFC)
-
-**[`J15S`] Redmi Note 9 (`merlinin`):**
-
-M2003J15SI: Redmi Note 9 India
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
@@ -889,6 +887,10 @@ M2001J11E: Redmi K30 Pro Zoom Edition China
 **[`J10`] Redmi K30 Ultra (`cezanne`):**
 
 M2006J10C: Redmi K30 Ultra China
+
+**[`J3S`] Redmi K30S (`apollo`):**
+
+M2007J3SC: Redmi K30S China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
