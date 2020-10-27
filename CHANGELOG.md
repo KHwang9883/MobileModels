@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-10-27
+- `xiaomi` 新增 Redmi K30S 至尊纪念版。
 ## 2020-10-22
 - `huawei` 新增 HUAWEI Mate 40 系列、Mate 30E Pro。
 - `vivo` 新增 vivo Y3s、vivo Y30。
