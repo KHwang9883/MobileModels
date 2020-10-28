@@ -888,9 +888,9 @@ M2001J11E: Redmi K30 Pro Zoom Edition China
 
 M2006J10C: Redmi K30 Ultra China
 
-**[`J3S`] Redmi K30S (`apollo`):**
+**[`J3S`] Redmi K30S Ultra (`apollo`):**
 
-M2007J3SC: Redmi K30S China
+M2007J3SC: Redmi K30S Ultra China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
