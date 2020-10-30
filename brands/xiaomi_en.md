@@ -204,13 +204,17 @@ M2002J9E: Mi 10 Lite Zoom China
 
 M2007J1SC: Mi 10 Ultra China
 
-**[`J3S`] Mi 10T / Mi 10T Pro (`apollo`):**
+**[`J3S`] Mi 10T (`apollo`):**
 
 M2007J3SY: Mi 10T Global
 
+M2007J3SP: Mi 10T India
+
+**[`J3S`] Mi 10T Pro (`apollo`):**
+
 M2007J3SG: Mi 10T Pro Global
 
-M2007J3SI: Mi 10T / Mi 10T Pro India
+M2007J3SI: Mi 10T Pro India
 
 **[`J17`] Mi 10T Lite (`gauguin`):**
 
@@ -943,6 +947,8 @@ M2007J20CI: POCO X3 India
 **[`J20C`] POCO X3 NFC (`surya`):**
 
 M2007J20CG: POCO X3 NFC Global
+
+M2007J20CT: POCO X3 NFC Thailand
 
 **[`J19P`] POCO M2 (`shiva`):**
 

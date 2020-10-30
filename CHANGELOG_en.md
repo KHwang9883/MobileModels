@@ -1,6 +1,8 @@
 # CHANGELOG
+## 2020-10-30
+- `xiaomi_en` A few international models have been added.
 ## 2020-10-27
-- `xiaomi_en` Redmi K30S has been added.
+- `xiaomi_en` Redmi K30S Ultra has been added.
 ## 2020-10-20
 - `realme_en` A few realme devices have been added.
 - `xiaomi_en` Indian variant of Redmi K30 Pro has been removed, since it was never released.
