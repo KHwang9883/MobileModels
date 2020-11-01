@@ -1,4 +1,4 @@
-# OPPO 手机型号汇总 20200915
+# OPPO 手机型号汇总 20201102
 
 ## Find 系列
 
@@ -249,3 +249,7 @@ PCNT00: OPPO K5 移动版
 **OPPO K7:**
 
 PCLM50: OPPO K7 全网通版
+
+**OPPO K7x:**
+
+PERM00: OPPO K7x 全网通版
