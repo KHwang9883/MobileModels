@@ -1,4 +1,4 @@
-# 一加手机型号汇总 20201015
+# 一加手机型号汇总 20201103
 
 ## 一加手机
 
@@ -153,3 +153,11 @@ KB2007: OnePlus 8T T-Mobile 版
 AC2001: OnePlus Nord 印度版
 
 AC2003: OnePlus Nord 欧洲/国际版
+
+**OnePlus Nord N10 (`billie8t`):**
+
+BE2029: OnePlus Nord N10 北美版
+
+**OnePlus Nord N100 (`billie2t`):**
+
+BE2013: OnePlus Nord N100 国际版
