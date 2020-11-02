@@ -149,3 +149,11 @@ KB2007: OnePlus 8T T-Mobile
 AC2001: OnePlus Nord India
 
 AC2003: OnePlus Nord EU / Global
+
+**OnePlus Nord N10 (`billie8t`):**
+
+BE2029: OnePlus Nord N10 North America
+
+**OnePlus Nord N100 (`billie2t`):**
+
+BE2013: OnePlus Nord N100 Global
