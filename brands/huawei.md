@@ -1,4 +1,4 @@
-# 华为手机型号汇总 20201022
+# 华为手机型号汇总 20201105
 
 ## HUAWEI Mate 系列
 
@@ -432,7 +432,13 @@ CDY-TN00, CDY-TN20: HUAWEI nova 7 SE 5G 移动全网通版
 
 **HUAWEI nova 7 SE 活力版 (`cindy`):**
 
-CND-AN00: HUAWEI Nova 7 SE 活力版 5G 全网通版
+CND-AN00: HUAWEI nova 7 SE 活力版 5G 全网通版
+
+**HUAWEI nova 8 SE (`jessica`):**
+
+JSC-AN00: HUAWEI nova 8 SE 5G 全网通版
+
+JSC-TN00: HUAWEI nova 8 SE 5G 移动全网通版
 
 ## HUAWEI G 系列
 
