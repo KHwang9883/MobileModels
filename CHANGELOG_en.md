@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-11-11
+- `General` All models are now coded.
 ## 2020-11-03
 - `oneplus_en` OnePlus Nord N10 & N100 has been added.
 ## 2020-10-30

@@ -6,6 +6,8 @@ Collecting device names, models and internal codenames.
 
 Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues) if you find an error.
 
+Unlisted brands usually not include international models.
+
 | Branch | Brand | Range |
 | :-: | :-: | :-: |
 | [apple_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
@@ -14,7 +16,7 @@ Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues
 | [meizu_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu_en.md) | Meizu | All models |
 | [oneplus_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus_en.md) | OnePlus | All models |
 | [realme_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme_en.md) | realme | All models |
-| [xiaomi_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi Phones, Redmi Phones, POCO and Black Shark |
+| [xiaomi_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi phones, Redmi phones, POCO phones and Black Shark phones |
 
 ## Changelog
 
