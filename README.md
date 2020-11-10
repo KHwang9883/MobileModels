@@ -4,9 +4,9 @@
 
 [English](https://github.com/KHwang9883/MobileModels/blob/master/README_en.md)
 
-* ✅ 包含
-* ❌ 不包含
-* ⬛ 仅部分包含
+- ✅ 包含
+- ❌ 不包含
+- ⬛ 仅部分包含
 
 | 分支 | 品牌 | 汇总范围 | codename | 国际机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
