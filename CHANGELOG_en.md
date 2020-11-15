@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-11-16
+- `honor_global_en` Updated codename information.
 ## 2020-11-11
 - `General` All models are now coded.
 ## 2020-11-03
@@ -42,8 +44,8 @@
 ## 2020-08-11
 - `xiaomi_en` Xiaomi Mi 10 Ultra and Redmi K30 Ultra have been added.
 ## 2020-08-06
-- `honor_global_en` Updated codename infomation.
-- `huawei_global_en` Updated codename infomation.
+- `honor_global_en` Updated codename information.
+- `huawei_global_en` Updated codename information.
 ## 2020-08-04
 - `xiaomi_en` Indian variant of Redmi 9 Prime has been added.
 ## 2020-08-03

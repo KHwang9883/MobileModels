@@ -43,7 +43,7 @@
 
 `BLN-L24`: HONOR 6X Dual SIM (United States)
 
-**HONOR 6C:**
+**HONOR 6C (`diego`):**
 
 `DIG-L22HN`: HONOR 6C Dual SIM
 
