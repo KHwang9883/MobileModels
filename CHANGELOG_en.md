@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-11-19
+- `realme_en` Realme 7 5G has been added.
 ## 2020-11-16
 - `honor_global_en` Updated codename information.
 ## 2020-11-11
