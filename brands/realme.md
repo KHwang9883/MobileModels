@@ -142,6 +142,10 @@
 
 `RMX2151`: realme 7
 
+**realme 7 5G:**
+
+`RMX2111`: realme 7 5G
+
 **realme 7 Pro:**
 
 `RMX2170`: realme 7 Pro
