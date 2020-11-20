@@ -19,7 +19,7 @@
 | [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
 | [mitv](https://github.com/KHwang9883/MobileModels/blob/master/brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ⬛ | -- |
 | [motorola](https://github.com/KHwang9883/MobileModels/blob/master/brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
-| [nokia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ❌ | ❌ | -- |
+| [nokia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ✅ | ❌ | -- |
 | [nubia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |
 | [oneplus](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
 | [oppo](https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | ❌ | ❌ | -- |

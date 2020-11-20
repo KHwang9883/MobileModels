@@ -2,6 +2,7 @@
 ## 2020-11-20
 - `lenovo` 新增产品 codename 代号。
 - `motorola` 新增产品 codename 代号。
+- `nokia` 新增产品 codename 代号。
 ## 2020-11-19
 - `realme` 新增 realme 7 5G 国际版。
 ## 2020-11-16
