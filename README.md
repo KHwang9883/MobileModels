@@ -5,19 +5,19 @@
 [English](https://github.com/KHwang9883/MobileModels/blob/master/README_en.md)
 
 - ✅ 包含
+- ⏹ 仅部分包含
 - ❌ 不包含
-- ⬛ 仅部分包含
 
 | 分支 | 品牌 | 汇总范围 | codename | 国际机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [360shouji](https://github.com/KHwang9883/MobileModels/blob/master/brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | 已停更 |
 | [apple](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | -- |
-| [honor](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⬛ | ⬛ | [国际机型单独汇总](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor_global_en.md) |
-| [huawei](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⬛ | ⬛ | [国际机型单独汇总](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei_global_en.md)；[其他早期型号参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-huawei-models.md) |
+| [honor](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [国际机型单独汇总](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor_global_en.md) |
+| [huawei](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [国际机型单独汇总](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei_global_en.md)；[其他早期型号参阅此处](https://github.com/KHwang9883/MobileModels/blob/master/misc/early-huawei-models.md) |
 | [lenovo](https://github.com/KHwang9883/MobileModels/blob/master/brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 | [letv](https://github.com/KHwang9883/MobileModels/blob/master/brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 已停更，不包含电视产品 |
 | [meizu](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
-| [mitv](https://github.com/KHwang9883/MobileModels/blob/master/brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ⬛ | -- |
+| [mitv](https://github.com/KHwang9883/MobileModels/blob/master/brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ⏹ | -- |
 | [motorola](https://github.com/KHwang9883/MobileModels/blob/master/brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ✅ | ❌ | -- |
 | [nubia](https://github.com/KHwang9883/MobileModels/blob/master/brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |
