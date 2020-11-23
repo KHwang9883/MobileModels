@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-11-23
+- `oneplus` 更新 OnePlus Nord N100 型号。
 ## 2020-11-20
 - `lenovo` 新增产品 codename 代号。
 - `motorola` 新增产品 codename 代号。

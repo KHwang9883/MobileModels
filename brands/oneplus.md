@@ -164,4 +164,4 @@
 
 **OnePlus Nord N100 (`billie2t`):**
 
-`BE2013`: OnePlus Nord N100 国际版
+`BE2012` `BE2013`: OnePlus Nord N100 国际版
