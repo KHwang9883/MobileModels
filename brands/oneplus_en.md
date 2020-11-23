@@ -159,4 +159,4 @@
 
 **OnePlus Nord N100 (`billie2t`):**
 
-`BE2013`: OnePlus Nord N100 Global
+`BE2012` `BE2013`: OnePlus Nord N100 Global
