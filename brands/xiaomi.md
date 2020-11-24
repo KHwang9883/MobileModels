@@ -1000,6 +1000,12 @@
 
 `M2003J6CI`: POCO M2 Pro 印度版
 
+**[`J19C`] POCO M3 (`citrus`):**
+
+`M2010J19CG`: POCO M3 国际版
+
+`M2010J19CT`: POCO M3 泰国版
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 印度版
