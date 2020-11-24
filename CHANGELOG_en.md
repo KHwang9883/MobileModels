@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-11-25
+- `xiaomi_en` POCO M3 has been added.
 ## 2020-11-23
 - `oneplus_en` Update new model of OnePlus Nord N100. 
 ## 2020-11-19

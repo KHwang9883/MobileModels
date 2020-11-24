@@ -963,6 +963,12 @@
 
 `M2003J6CI`: POCO M2 Pro India
 
+**[`J19C`] POCO M3 (`citrus`):**
+
+`M2010J19CG`: POCO M3 Global
+
+`M2010J19CT`: POCO M3 Thailand
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 India
