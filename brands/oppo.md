@@ -220,6 +220,10 @@
 
 `PDYT20`: OPPO A72 移动版
 
+**OPPO A72n:**
+
+`PDYM10`: OPPO A72n 全网通版
+
 **OPPO A91:**
 
 `PCPM00`: OPPO A91 全网通版
