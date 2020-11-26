@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-11-26
+- `xiaomi_en` Redmi Note 9 series (China) have been added.
 ## 2020-11-25
 - `xiaomi_en` POCO M3 has been added.
 ## 2020-11-23

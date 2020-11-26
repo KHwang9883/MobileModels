@@ -817,6 +817,18 @@
 
 `M2003J15SG`: Redmi Note 9 Global (NFC)
 
+**[`J19S`] Redmi Note 9 4G (`lime`):**
+
+`M2010J19SC`: Redmi Note 9 4G China
+
+**[`J22`] Redmi Note 9 5G (`cannon`):**
+
+`M2007J22C`: Redmi Note 9 5G China
+
+**[`J22`] Redmi Note 9T (`cannong`):**
+
+`M2007J22G`: Redmi Note 9T 5G Global
+
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 `M2003J6A1G`: Redmi Note 9S Global
@@ -832,6 +844,10 @@
 **[`J6B2`] Redmi Note 9 Pro (`joyeuse`):**
 
 `M2003J6B2G`: Redmi Note 9 Pro Global
+
+**[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
+
+`M2007J17C`: Redmi Note 9 Pro 5G China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
