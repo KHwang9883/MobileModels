@@ -838,6 +838,14 @@
 
 `M1906G7I`: Redmi Note 8 Pro 印度版
 
+**[`J19S`] Redmi Note 9 4G (`lime`):**
+
+`M2010J19SC`: Redmi Note 9 4G 全网通版
+
+**[`J22`] Redmi Note 9 5G (`cannon`):**
+
+`M2007J22C`: Redmi Note 9 5G 全网通版
+
 **[`J15S`] Redmi Note 9 (`merlin`):**
 
 `M2003J15SS`: Redmi Note 9 国际版 (无 NFC)
@@ -847,6 +855,14 @@
 **[`J15S`] Redmi Note 9 (`merlinnfc`):**
 
 `M2003J15SG`: Redmi Note 9 国际版 (有 NFC)
+
+**[`J22`] Redmi Note 9T (`cannong`):**
+
+`M2007J22G`: Redmi Note 9T 5G 国际版
+
+**[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
+
+`M2007J17C`: Redmi Note 9 Pro 5G 全网通版
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
