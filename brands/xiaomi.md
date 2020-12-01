@@ -228,6 +228,10 @@
 
 `M2007J17G`: 小米 10T Lite 国际版
 
+**[`J17`] 小米 10i (`gauguininpro`):**
+
+`M2007J17I`: 小米 10i 印度版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -668,6 +672,12 @@
 
 `M2006C3MII`: Redmi 9 印度版
 
+**[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
+
+`M2010J19SG`: Redmi 9T 国际版
+
+`M2010J19SI`: Redmi 9 Power 印度版
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
@@ -1021,6 +1031,8 @@
 `M2010J19CG`: POCO M3 国际版
 
 `M2010J19CT`: POCO M3 泰国版
+
+`M2010J19CI`: POCO M3 印度版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
