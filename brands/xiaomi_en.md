@@ -225,6 +225,10 @@
 
 `M2007J17G`: Mi 10T Lite Global
 
+**[`J17`] Mi 10i (`gauguininpro`):**
+
+`M2007J17I`: Mi 10i India
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -645,6 +649,12 @@
 
 `M2006C3MII`: Redmi 9 India
 
+**[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
+
+`M2010J19SG`: Redmi 9T Global
+
+`M2010J19SI`: Redmi 9 Power India
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -984,6 +994,8 @@
 `M2010J19CG`: POCO M3 Global
 
 `M2010J19CT`: POCO M3 Thailand
+
+`M2010J19CI`: POCO M3 India
 
 **[`C3M`] POCO C3 (`angelicain`):**
 

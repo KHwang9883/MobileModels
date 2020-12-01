@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-12-01
+- `xiaomi_en` Several international models have been added.
 ## 2020-11-26
 - `xiaomi_en` Redmi Note 9 series (China) have been added.
 ## 2020-11-25
