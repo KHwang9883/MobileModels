@@ -53,6 +53,10 @@
 
 `RMX2061` `RMX2063`: realme 6 Pro
 
+**realme 6s:**
+
+`RMX2002`: realme 6s Global
+
 **realme 6i:**
 
 `RMX2002`: realme 6i India
@@ -97,7 +101,9 @@
 
 **realme X3:**
 
-`RMX2081` `RMX2083`: realme X3
+`RMX2081`: realme X3 India
+
+`RMX2083`: realme X3 Global
 
 **realme X3 SuperZoom:**
 
@@ -147,6 +153,10 @@
 
 `RMX2180`: realme C15
 
+**realme C15 Qualcomm Edition:**
+
+`RMX2195`: realme C15 Qualcomm Edition
+
 **realme C17:**
 
 `RMX2101`: realme C17
@@ -159,25 +169,29 @@
 
 ## Narzo series
 
+**realme Narzo:**
+
+`RMX2002`: realme Narzo Indonesia
+
 **realme Narzo 10:**
 
-`RMX2040`: realme Narzo 10
+`RMX2040`: realme Narzo 10 India
 
 **realme Narzo 10A:**
 
-`RMX2020`: realme Narzo 10A
+`RMX2020`: realme Narzo 10A India
 
 **realme Narzo 20:**
 
-`RMX2193`: realme Narzo 20
+`RMX2193`: realme Narzo 20 India
 
 **realme Narzo 20 Pro:**
 
-`RMX2161`: realme Narzo 20 Pro
+`RMX2161`: realme Narzo 20 Pro India
 
 **realme Narzo 20A:**
 
-`RMX2050`: realme Narzo 10A
+`RMX2050`: realme Narzo 20A India
 
 ## X series (China)
 
