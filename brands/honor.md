@@ -3,7 +3,7 @@
 - 汇总范围: 荣耀手机/平板/笔记本电脑/智慧屏
 - codename: ✅
 - 是否包含国际机型: ❌
-- [国际机型汇总 (英文)](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor_global_en.md)
+- [国际机型汇总 (英文)](brands/honor_global_en.md)
 
 ## 荣耀 HONOR 系列 ( N 系列)
 
