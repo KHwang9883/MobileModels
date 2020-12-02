@@ -132,6 +132,10 @@
 
 `RMX2061` `RMX2063`: realme 6 Pro
 
+**realme 6s:**
+
+`RMX2002`: realme 6s 国际版
+
 **realme 6i:**
 
 `RMX2002`: realme 6i 印度版
@@ -176,7 +180,9 @@
 
 **realme X3:**
 
-`RMX2081` `RMX2083`: realme X3
+`RMX2081`: realme X3 印度版
+
+`RMX2083`: realme X3 国际版
 
 **realme X3 超级变焦版:**
 
@@ -226,6 +232,10 @@
 
 `RMX2180`: realme C15
 
+**realme C15 高通版:**
+
+`RMX2195`: realme C15 高通版
+
 **realme C17:**
 
 `RMX2101`: realme C17
@@ -238,22 +248,26 @@
 
 ## Narzo 系列 (海外)
 
+**realme Narzo:**
+
+`RMX2002`: realme Narzo 印度尼西亚版
+
 **realme Narzo 10:**
 
-`RMX2040`: realme Narzo 10
+`RMX2040`: realme Narzo 10 印度版
 
 **realme Narzo 10A:**
 
-`RMX2020`: realme Narzo 10A
+`RMX2020`: realme Narzo 10A 印度版
 
 **realme Narzo 20:**
 
-`RMX2193`: realme Narzo 20
+`RMX2193`: realme Narzo 20 印度版
 
 **realme Narzo 20 Pro:**
 
-`RMX2161`: realme Narzo 20 Pro
+`RMX2161`: realme Narzo 20 Pro 印度版
 
 **realme Narzo 20A:**
 
-`RMX2050`: realme Narzo 10A
+`RMX2050`: realme Narzo 20A 印度版
