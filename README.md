@@ -1,5 +1,10 @@
 # 手机品牌型号汇总
 
+[![img](https://img.shields.io/github/issues/KHwang9883/MobileModels?color=green)](https://github.com/KHwang9883/MobileModels/issues)
+[![img](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
+[![img](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 汇总各厂商上市的手机型号与对应的宣传名。
 
 [English](https://github.com/KHwang9883/MobileModels/blob/master/README_en.md)
@@ -38,6 +43,10 @@
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a> 进行许可。
 
 ## 项目历史
+
+### 2020 年 12 月
+
+- 本 GitHub 仓库已有 200 个 stars。
 
 ### 2019 年 7 月
 
