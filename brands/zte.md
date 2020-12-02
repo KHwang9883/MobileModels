@@ -100,6 +100,10 @@
 
 `ZTE 8010`: 中兴 Blade V2020 Smart
 
+**中兴 Blade V2021 5G:**
+
+`ZTE 8012N`: 中兴 Blade V2021 5G
+
 **中兴小鲜 4:**
 
 `ZTE BV0701`: 中兴小鲜 4
