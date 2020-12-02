@@ -1,5 +1,10 @@
 # Mobile Models
 
+[![img](https://img.shields.io/github/issues/KHwang9883/MobileModels?color=green)](https://github.com/KHwang9883/MobileModels/issues)
+[![img](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
+[![img](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Collecting device names, models and internal codenames.
 
 [Chinese](https://github.com/KHwang9883/MobileModels/blob/master/README.md)
