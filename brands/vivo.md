@@ -254,6 +254,10 @@
 
 `V2002A`: vivo Y51s 5G 全网通版
 
+**vivo Y52s (`PD2057`):**
+
+`V2057A`: vivo Y52s 5G 全网通版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G 全网通版
@@ -363,6 +367,10 @@
 **vivo S7e (`PD2031`):**
 
 `V2031A`: vivo S7e 5G 全网通版
+
+**vivo S7e 活力版 (`PD2031E`):**
+
+`V2031EA`: vivo S7e 活力版 5G 全网通版
 
 ## U 系列
 
