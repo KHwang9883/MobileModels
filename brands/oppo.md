@@ -94,6 +94,22 @@
 
 `PEAT00`: OPPO Reno4 SE 移动版
 
+**OPPO Reno5:**
+
+`PEGM00`: OPPO Reno5 全网通版
+
+`PEGT00`: OPPO Reno5 移动版
+
+**OPPO Reno5 Pro:**
+
+`PDSM00`: OPPO Reno5 Pro 全网通版
+
+`PDST00`: OPPO Reno5 Pro 移动版
+
+**OPPO Reno5 Pro+:**
+
+`PDRM00`: OPPO Reno5 Pro+ 全网通版
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
