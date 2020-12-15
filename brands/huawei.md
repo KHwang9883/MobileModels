@@ -153,7 +153,7 @@
 
 **HUAWEI Mate 40 (`ocean`):**
 
-`OCE-AN00`: HUAWEI Mate 40 全网通版
+`OCE-AN00` `OCE-AN10`: HUAWEI Mate 40 全网通版
 
 **HUAWEI Mate 40 Pro (`noah`):**
 
