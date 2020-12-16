@@ -50,7 +50,7 @@
 
 `TA-1117`: Nokia 3.1 Plus
 
-**Nokia C1 Plus:**
+**Nokia C1 Plus (`YDU`):**
 
 `TA-1335`: Nokia C1 Plus
 
