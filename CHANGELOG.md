@@ -1,4 +1,6 @@
 # 更新日志
+## 2020-12-16
+- `mitv` 新增印度版 Mi QLED TV。
 ## 2020-12-15
 - `huawei` 更新 HUAWEI Mate 40 型号。
 - `nokia` 新增 Nokia C1 Plus（代号待更新）。

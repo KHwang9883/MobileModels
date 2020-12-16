@@ -326,6 +326,10 @@
 
 `L65M5-5SIN`: Mi TV 4X 65
 
+**Mi QLED TV:**
+
+`L55M6-EQG`: Mi QLED TV 4K 55
+
 **Mi Box:**
 
 `MDZ-22-AB`: Mi Box 4K
