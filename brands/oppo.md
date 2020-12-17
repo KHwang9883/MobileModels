@@ -230,6 +230,12 @@
 
 `PDAT10`: OPPO A52 移动版
 
+**OPPO A53:**
+
+`PECM30`: OPPO A53 (2020) 全网通版
+
+`PECT30`: OPPO A53 (2020) 移动版
+
 **OPPO A72:**
 
 `PDYM20`: OPPO A72 全网通版
