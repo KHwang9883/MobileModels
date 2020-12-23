@@ -439,6 +439,14 @@
 
 `CND-AN00`: HUAWEI nova 7 SE 活力版 5G 全网通版
 
+**HUAWEI nova 8:**
+
+`ANG-AN00`: HUAWEI nova 8 5G 全网通版
+
+**HUAWEI nova 8 Pro:**
+
+`BRQ-AN00`: HUAWEI nova 8 Pro 5G 全网通版
+
 **HUAWEI nova 8 SE (`jessica`):**
 
 `JSC-AN00`: HUAWEI nova 8 SE 5G 全网通版
@@ -687,7 +695,7 @@
 
 `DVC-TN20`: 华为畅享 20 Pro 5G 移动定制版
 
-**华为畅享 20:**
+**华为畅享 20 (`wukong`):**
 
 `WKG-AN00`: 华为畅享 20 5G 全网通版
 
