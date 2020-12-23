@@ -1,87 +1,95 @@
-# Motorola 手机型号汇总 20190704
+# Motorola 手机型号汇总
 
-## Moto 手机
+- 汇总范围: 2015 年起上市的机型
+- codename: ✅
+- 是否包含国际机型: ❌
 
-**Moto X:**
+## Motorola 手机
 
-XT1085: Moto X
+**Moto X (`victara`):**
 
-**Moto G LTE:**
+`XT1085`: Moto X
 
-XT1079: Moto G LTE 移动/联通版
+**Moto G LTE (`thea_ds`):**
 
-XT1077: Moto G LTE 电信/联通版
+`XT1079`: Moto G LTE 移动/联通版
 
-**Moto X Pro:**
+`XT1077`: Moto G LTE 电信/联通版
 
-XT1115: Moto X Pro
+**Moto X Pro (`shamu_t`):**
 
-**Moto X Style:**
+`XT1115`: Moto X Pro
 
-XT1570: Moto X Style
+**Moto X Style (`clark_ds`):**
 
-**Moto X Play:**
+`XT1570`: Moto X Style
 
-XT1561: Moto X Play
+**Moto X Play (`lux_uds`):**
 
-**Moto X 极:**
+`XT1561`: Moto X Play
 
-XT1581: Moto X 极
+**Moto X 极 (`kinzie_uds`):**
 
-**Moto Z Play:**
+`XT1581`: Moto X 极
 
-XT1635-03: Moto Z Play
+**Moto Z Play (`addison`):**
 
-**Moto M:**
+`XT1635-03`: Moto Z Play
 
-XT1662: Moto M
+**Moto M (`kungfu_m`):**
 
-**Moto Z:**
+`XT1662`: Moto M
 
-XT1650-05: Moto Z
+**Moto Z (`griffin`):**
 
-**Moto Z2 Play:**
+`XT1650-05`: Moto Z
 
-XT1710-08: Moto Z2 Play
+**Moto Z2 Play (`albus`):**
 
-XT1710-11: Moto Z2 Play 移动定制版
+`XT1710-08`: Moto Z2 Play
 
-**moto 青柚:**
+`XT1710-11`: Moto Z2 Play 移动定制版
 
-XT1799-1, XT1799-2: moto 青柚
+**moto 青柚 (`montana`):**
 
-**moto Z 2018:**
+`XT1799-1` `XT1799-2`: moto 青柚
 
-XT1789-05: moto Z 2018
+**moto Z 2018 (`payton`):**
 
-**moto 青柚 1s:**
+`XT1789-05`: moto Z 2018
 
-XT1925-10: moto 青柚 1s
+**moto 青柚 1s (`ali`):**
 
-**motorola Z3:**
+`XT1925-10`: moto 青柚 1s
 
-XT1929-15: motorola Z3
+**motorola Z3 (`messi`):**
 
-**motorola e5 plus:**
+`XT1929-15`: motorola Z3
 
-XT1924-9: motorola e5 plus
+**motorola e5 plus (`ahannah`):**
 
-**motorola p30:**
+`XT1924-9`: motorola e5 plus
 
-XT1943-1: motorola p30
+**motorola p30 (`robusta`):**
 
-**motorola p30 note:**
+`XT1943-1`: motorola p30
 
-XT1942-1: motorola p30 note
+**motorola p30 note (`chef`):**
 
-**motorola p30 play:**
+`XT1942-1`: motorola p30 note
 
-XT1941-2: motorola p30 play
+**motorola p30 play (`deen`):**
 
-**motorola g7 plus:**
+`XT1941-2`: motorola p30 play
 
-XT1965-6: motorola g7 plus
+**motorola g7 plus (`lake`):**
 
-**motorola p50:**
+`XT1965-6`: motorola g7 plus
 
-XT1970-5: motorola p50
+**motorola p50 (`kane`):**
+
+`XT1970-5`: motorola p50
+
+**motorola razr 5G (`smith`):**
+
+`XT2071-4`: motorola razr 5G

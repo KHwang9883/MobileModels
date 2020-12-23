@@ -1,4 +1,194 @@
 # 更新日志
+## 2020-12-23
+- `huawei` 新增 nova 8 系列、畅享 20 SE。
+## 2020-12-21
+- `huawei` 新增华为智慧屏 S 系列。
+## 2020-12-17
+- `oppo` 新增 OPPO A53 (2020)。
+## 2020-12-16
+- `mitv` 新增印度版 Mi QLED TV。
+## 2020-12-15
+- `huawei` 更新 HUAWEI Mate 40 型号。
+- `nokia` 新增 Nokia C1 Plus。
+## 2020-12-14
+- `vivo` 新增 iQOO U3。
+## 2020-12-10
+- `oppo` 新增 OPPO Reno5 系列。
+- `vivo` 新增 vivo Y30 标准版。
+## 2020-12-09
+- `lenovo` 新增联想乐檬 K12 系列。
+- `samsung` 更新三星 W21 代号。
+## 2020-12-04
+- `vivo` 新增 vivo Y52s、vivo S7e 活力版。
+## 2020-12-03
+- `zte` 新增中兴型号汇总。
+## 2020-12-02
+- `realme` 更新部分国际机型。
+## 2020-12-01
+- `xiaomi` 新增部分国际机型。
+## 2020-11-26
+- `oppo` 增补部分型号。
+- `xiaomi` 新增 Redmi Note 9 系列（国行）。
+## 2020-11-25
+- `xiaomi` 新增 POCO M3。
+## 2020-11-23
+- `oneplus` 更新 OnePlus Nord N100 型号。
+## 2020-11-20
+- `lenovo` 新增产品 codename 代号。
+- `motorola` 新增产品 codename 代号。
+- `nokia` 新增产品 codename 代号。
+## 2020-11-19
+- `realme` 新增 realme 7 5G 国际版。
+## 2020-11-16
+- `honor` 新增部分产品代号。
+- `huawei` 新增部分产品代号。
+## 2020-11-11
+- `全局` 所有型号现已使用反引号包裹。
+- `honor` 新增部分产品代号，将荣耀独立前产品移至荣耀型号汇总。
+- `huawei` 新增部分产品代号，移除荣耀独立前产品。
+## 2020-11-06
+- `mitv` 新增小米盒子 4S Pro。
+## 2020-11-05
+- `huawei` 新增 HUAWEI nova 8 SE。
+## 2020-11-04
+- `vivo` 新增 vivo S7e。
+## 2020-11-03
+- `oneplus` 新增 OnePlus Nord N10 & N100。
+## 2020-11-02
+- `oppo` 新增 OPPO K7x。
+## 2020-10-30
+- `samsung` 新增三星 W21 5G。
+- `smartisan` 更新坚果 R2 代号。
+- `xiaomi` 新增部分国际型号。
+## 2020-10-27
+- `xiaomi` 新增 Redmi K30S 至尊纪念版。
+## 2020-10-22
+- `huawei` 新增 HUAWEI Mate 40 系列、Mate 30E Pro。
+- `vivo` 新增 vivo Y3s、vivo Y30。
+## 2020-10-21
+- `mitv` 新增小米盒子 4S。
+## 2020-10-20
+- `realme` 更新部分国际产品型号。
+- `smartisan` 新增坚果 R2、Smartisan TNT go。
+- `xiaomi` 移除了 Redmi K30 Pro 印度版本（从未发布）。
+## 2020-10-19
+- `vivo` 新增 iQOO U1x。
+## 2020-10-16
+- `samsung` 新增 Galaxy Tab A7。
+## 2020-10-15
+- `apple` 新增 iPhone 12 系列。
+- `huawei` 新增 HUAWEI nova 7 SE 活力版。
+- `oneplus` 新增 OnePlus 8T。
+- `xiaomi` 新增小米 10T 印度版。
+## 2020-10-13
+- `realme` 新增 realme Q2 系列。
+## 2020-10-10
+- `huawei` 新增 HUAWEI MatePad 麒麟 820 版本。
+- `vivo` 新增 vivo Y73s。
+## 2020-10-09
+- `apple` 修正一处位置错误。
+## 2020-09-30
+- `xiaomi` 新增小米 10T 系列。
+## 2020-09-29
+- `mitv` 新增 Redmi 电视 A 系列。
+## 2020-09-28
+- `mitv` 新增小米电视大师 82 英寸系列。
+- `vivo` 更新部分产品型号。
+## 2020-09-27
+- `realme` 更新部分国际产品型号。
+- `samsung` 新增产品 codename 代号。
+## 2020-09-24
+- `samsung` 新增 Galaxy S20 FE。
+## 2020-09-21
+- `honor` 更新部分智慧屏型号。
+- `realme` 新增 realme Narzo 20 系列。
+## 2020-09-19
+- `apple` 新增 2020 年 9 月发布的 Apple Watch 和 iPad 新品。
+- `huawei` 更新部分产品型号。
+- `xiaomi` 新增 POCO X3 印度版。
+## 2020-09-16
+- `honor` 新增荣耀猎人游戏本 V700。
+- `huawei` 新增 HUAWEI MatePad 5G。
+## 2020-09-15
+- `oppo` 新增 OPPO Reno4 SE。
+## 2020-09-11
+- `oppo` 新增 OPPO A32。
+## 2020-09-10
+- `motorola` 新增 motorola razr 5G。
+## 2020-09-09
+- `mitv` 新增部分印度型号。
+## 2020-09-03
+- `realme` 新增 realme 7 系列。
+## 2020-09-02
+- `xiaomi` 新增即将发布的 POCO 机型。
+## 2020-09-01
+- `realme` 新增 realme 真我 X7 系列、真我 V3。
+## 2020-08-31
+- `huawei` 新增华为畅享 20 Plus。
+- `xiaomi` 新增 Redmi 9A 印度版。
+## 2020-08-28
+- `xiaomi` 订正部分信息。
+## 2020-08-27
+- `xiaomi` 新增 Redmi 9 印度版。
+## 2020-08-20
+- `huawei` 更新部分产品型号。
+- `xiaomi` 更新部分国际产品型号。
+## 2020-08-19
+- `honor` 更新荣耀 MagicBook 14 SE 标注。
+- `huawei` 新增 HUAWEI MateBook 新品。
+## 2020-08-17
+- `vivo` 新增 iQOO 5 系列。
+## 2020-08-13
+- `samsung` 新增三星 Galaxy Tab S7 系列。
+## 2020-08-11
+- `mitv` 新增小米透明电视。
+- `xiaomi` 新增小米 10 至尊纪念版、Redmi K30 至尊纪念版。
+## 2020-08-07
+- `honor` 更新荣耀 X10 系列代号。
+## 2020-08-06
+- `honor` 更新部分产品代号。
+- `huawei` 更新部分产品代号。
+## 2020-08-05
+- `samsung` 新增三星 Galaxy Note20 系列、Galaxy Z Fold2。
+## 2020-08-04
+- `nokia` 新增 Nokia C3。
+- `oppo` 新增 OPPO K7。
+- `xiaomi` 新增 Redmi 9 Prime 印度版。
+## 2020-08-03
+- `realme` 新增 realme 真我 V5。
+## 2020-07-31
+- `huawei` 新增 HUAWEI MatePad 10.8 英寸、华为畅享平板 2、HUAWEI MateBook D 2020 锐龙版。
+## 2020-07-29
+- `oneplus` 更新 OnePlus Nord 代号，更正错误。
+## 2020-07-28
+- `vivo` 新增 vivo S7、vivo Y51s。
+- `xiaomi` 新增 Redmi 9A、黑鲨 3S。
+## 2020-07-25
+- `oppo` 新增 OPPO A72。
+## 2020-07-24
+- `huawei` 新增华为平板 C5 10.4 英寸 2020 款、HUAWEI 麦芒 9、华为畅享 20。
+- `xiaomi` 订正部分产品区域信息。
+## 2020-07-23
+- `samsung` 新增三星 Galaxy Z Flip 5G。
+## 2020-07-22
+- `huawei` 新增华为平板 C3 & C5 8 英寸 2020 款、HUAWEI MateBook B 系列。
+- `lenovo` 新增拯救者电竞手机 Pro。
+- `oneplus` 新增 OnePlus Nord。
+## 2020-07-21
+- `nubia` 新增红魔 5S（型号与红魔 5G 相同）。
+## 2020-07-20
+- `xiaomi` 新增 Redmi 9C 国际版。
+## 2020-07-16
+- `honor` 新增荣耀 MagicBook 2020 锐龙版系列、荣耀平板 6 系列。
+- `vivo` 新增 iQOO U1。
+## 2020-07-14
+- `honor` 新增荣耀 Play 3（麒麟 710A）。
+## 2020-07-11
+- `realme` 更新部分型号。
+## 2020-07-08
+- `vivo` 新增 iQOO Z1x。
+## 2020-07-07
+- `xiaomi` 新增 POCO M2 Pro。
 ## 2020-07-05
 - `honor` 更新部分产品代号。
 - `huawei` 更新部分产品代号。

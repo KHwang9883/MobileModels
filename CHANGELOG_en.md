@@ -1,4 +1,81 @@
 # CHANGELOG
+## 2020-12-02
+- `realme_en` Several international models have been added.
+## 2020-12-01
+- `xiaomi_en` Several international models have been added.
+## 2020-11-26
+- `xiaomi_en` Redmi Note 9 series (China) have been added.
+## 2020-11-25
+- `xiaomi_en` POCO M3 has been added.
+## 2020-11-23
+- `oneplus_en` Update new model of OnePlus Nord N100. 
+## 2020-11-19
+- `realme_en` Realme 7 5G has been added.
+## 2020-11-16
+- `honor_global_en` Updated codename information.
+## 2020-11-11
+- `General` All models are now coded.
+## 2020-11-03
+- `oneplus_en` OnePlus Nord N10 & N100 has been added.
+## 2020-10-30
+- `xiaomi_en` A few international models have been added.
+## 2020-10-27
+- `xiaomi_en` Redmi K30S Ultra has been added.
+## 2020-10-20
+- `realme_en` A few realme devices have been added.
+- `xiaomi_en` Indian variant of Redmi K30 Pro has been removed, since it was never released.
+## 2020-10-15
+- `apple_en` iPhone 12 series have been added.
+- `oneplus_en` OnePlus 8T has been added.
+- `xiaomi_en` Indian variant of Mi 10T series has been added.
+## 2020-10-13
+- `realme_en` Realme Q2 series (China) have been added.
+## 2020-09-30
+- `xiaomi_en` Mi 10T series have been added.
+## 2020-09-27
+- `realme_en` Realme 7i and realme C17 have been added.
+## 2020-09-21
+- `realme_en` Realme Narzo 20 series have been added.
+## 2020-09-19
+- `apple_en` Products released in Sep 2020 event have been added.
+- `xiaomi_en` Indian variant of POCO X3 has been added.
+## 2020-09-03
+- `realme_en` Realme 7 and realme 7 Pro have been added.
+## 2020-09-02
+- `xiaomi_en` Upcoming POCO devices have been added.
+## 2020-09-01
+- `realme_en` Realme X7 series, realme V3 and some Indian models have been added.
+## 2020-08-31
+- `xiaomi_en` Indian variant of Redmi 9A has been added.
+## 2020-08-28
+- `xiaomi_en` Minor fix.
+## 2020-08-27
+- `xiaomi_en` Indian variant of Redmi 9 has been added.
+## 2020-08-20
+- `xiaomi_en` Added some international models.
+## 2020-08-11
+- `xiaomi_en` Xiaomi Mi 10 Ultra and Redmi K30 Ultra have been added.
+## 2020-08-06
+- `honor_global_en` Updated codename information.
+- `huawei_global_en` Updated codename information.
+## 2020-08-04
+- `xiaomi_en` Indian variant of Redmi 9 Prime has been added.
+## 2020-08-03
+- `realme_en` Added realme V5.
+## 2020-07-29
+- `oneplus_en` Updated codename for OnePlus Nord.
+## 2020-07-28
+- `xiaomi_en` Added Chinese varient of Redmi 9A and Black Shark 3S.
+## 2020-07-24
+- `xiaomi_en` Fixed regional infomation for Mi 10 Lite.
+## 2020-07-22
+- `oneplus_en` Added OnePlus Nord.
+## 2020-07-20
+- `xiaomi_en` Added Redmi 9C.
+## 2020-07-11
+- `realme_en` Updated some models.
+## 2020-07-07
+- `xiaomi_en` Added POCO M2 Pro.
 ## 2020-07-05
 - `honor_global_en` Added some models.
 - `huawei_global_en` Added some models.

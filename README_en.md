@@ -1,24 +1,30 @@
 # Mobile Models
 
-Collecting device names, models and internal codenames.
+[![issues](https://img.shields.io/github/issues/KHwang9883/MobileModels?color=green)](https://github.com/KHwang9883/MobileModels/issues)
+[![stars](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
+[![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![chinese](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
 
-[Chinese](https://github.com/KHwang9883/MobileModels/blob/master/README.md)
+Collecting device names, models and internal codenames.
 
 Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues) if you find an error.
 
+Unlisted brands usually not include international models.
+
 | Branch | Brand | Range |
 | :-: | :-: | :-: |
-| [apple_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
-| [honor_global_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/honor_global_en.md) | HONOR | All global models |
-| [huawei_global_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
-| [meizu_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/meizu_en.md) | Meizu | All models |
-| [oneplus_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus_en.md) | OnePlus | All models |
-| [realme_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/realme_en.md) | realme | All models |
-| [xiaomi_en](https://github.com/KHwang9883/MobileModels/blob/master/brands/xiaomi_en.md) | Xiaomi | Xiaomi Mi Phones, Redmi Phones, POCO and Black Shark |
+| [apple_en](brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [honor_global_en](brands/honor_global_en.md) | HONOR | All global models |
+| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
+| [meizu_en](brands/meizu_en.md) | Meizu | All models |
+| [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
+| [realme_en](brands/realme_en.md) | realme | All models |
+| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi Mi phones, Redmi phones, POCO phones and Black Shark phones |
 
 ## Changelog
 
-[CHANGELOG_en.md](https://github.com/KHwang9883/MobileModels/blob/master/CHANGELOG_en.md)
+[CHANGELOG_en.md](CHANGELOG_en.md)
 
 ## References
 
