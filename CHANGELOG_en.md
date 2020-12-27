@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2020-12-27
+- `xiaomi_en` Xiaomi Mi 11 has been added.
 ## 2020-12-02
 - `realme_en` Several international models have been added.
 ## 2020-12-01
@@ -18,11 +20,11 @@
 ## 2020-11-03
 - `oneplus_en` OnePlus Nord N10 & N100 has been added.
 ## 2020-10-30
-- `xiaomi_en` A few international models have been added.
+- `xiaomi_en` Several international models have been added.
 ## 2020-10-27
 - `xiaomi_en` Redmi K30S Ultra has been added.
 ## 2020-10-20
-- `realme_en` A few realme devices have been added.
+- `realme_en` Several realme devices have been added.
 - `xiaomi_en` Indian variant of Redmi K30 Pro has been removed, since it was never released.
 ## 2020-10-15
 - `apple_en` iPhone 12 series have been added.

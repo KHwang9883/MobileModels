@@ -229,11 +229,17 @@
 
 `M2007J17I`: Mi 10i India
 
+**[`K2`] Mi 11 (`venus`):**
+
+`M2011K2G`: Mi 11 Global
+
+`M2011K2C`: Mi 11 China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
 
-`2014616` `201461`9: Mi Note China
+`2014616` `2014619`: Mi Note China
 
 `2014618`: Mi Note China Mobile
 
@@ -837,7 +843,7 @@
 
 **[`J22`] Redmi Note 9T (`cannong`):**
 
-`M2007J22G`: Redmi Note 9T 5G Global
+`M2007J22G` `M2007J22R`: Redmi Note 9T 5G Global
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
