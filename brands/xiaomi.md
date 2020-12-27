@@ -232,6 +232,12 @@
 
 `M2007J17I`: 小米 10i 印度版
 
+**[`K2`] 小米 11 (`venus`):**
+
+`M2011K2C`: 小米 11 全网通版
+
+`M2011K2G`: 小米 11 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -868,7 +874,7 @@
 
 **[`J22`] Redmi Note 9T (`cannong`):**
 
-`M2007J22G`: Redmi Note 9T 5G 国际版
+`M2007J22G` `M2007J22R`: Redmi Note 9T 5G 国际版
 
 **[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
