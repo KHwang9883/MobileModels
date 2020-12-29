@@ -66,6 +66,14 @@
 
 `V2011A`: vivo X50 Pro+ 全网通版
 
+**vivo X60 (`PD2046`):**
+
+`V2046A`: vivo X60 全网通版
+
+**vivo X60 Pro (`PD2047`):**
+
+`V2047A`: vivo X60 Pro 全网通版
+
 ## NEX 系列
 
 **vivo NEX 双屏版 (`PD1821`):**
@@ -246,9 +254,13 @@
 
 `V2034A`: vivo Y30 全网通版
 
-**vivo Y30 (`PD2036`):**
+**vivo Y30 标准版 (`PD2036`):**
 
 `V2036A`: vivo Y30 标准版 全网通版
+
+**vivo Y31s (`PD2054`):**
+
+`V2054A`: vivo Y31s 5G 全网通版
 
 **vivo Y50 (`PD1965`):**
 
