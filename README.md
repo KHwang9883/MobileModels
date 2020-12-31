@@ -83,7 +83,7 @@
 
 [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 
-[无线电发射设备型号核准](https://zwfw.miit.gov.cn/miit/resultSearch?categoryTreeId=313)
+[无线电发射设备型号核准](https://ythzxfw.miit.gov.cn/resultQuery)
 
 [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/pud_phone.do)
 
