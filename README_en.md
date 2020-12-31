@@ -32,7 +32,7 @@ Unlisted brands usually not include international models.
 
 [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 
-[CMIIT ID](https://zwfw.miit.gov.cn/miit/resultSearch?categoryTreeId=313)
+[MIIT](https://ythzxfw.miit.gov.cn/resultQuery) (Select `行政许可` `无线电和卫星通信`)
 
 [China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
 
