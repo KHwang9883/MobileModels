@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-01-07
+- `realme_en` Realme V15 (China) has been added.
 ## 2020-12-27
 - `xiaomi_en` Xiaomi Mi 11 has been added.
 ## 2020-12-02

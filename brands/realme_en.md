@@ -253,6 +253,12 @@
 
 `RMX2112`: realme V5 5G China Mobile
 
+**realme V15:**
+
+`RMX3092`: realme V15 5G China
+
+`RMX3093`: realme V15 5G China Mobile
+
 ## Q series (China)
 
 **realme Q:**
