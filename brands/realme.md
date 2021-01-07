@@ -64,6 +64,12 @@
 
 `RMX2112`: realme V5 5G 移动版
 
+**realme V15:**
+
+`RMX3092`: realme V15 5G 全网通版
+
+`RMX3093`: realme V15 5G 移动版
+
 ## Q 系列
 
 **realme Q:**
