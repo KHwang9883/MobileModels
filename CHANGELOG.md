@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-01-07
+- `huawei` 新增 HUAWEI MateBook D (2021)。
 - `realme` 新增 realme V15。
 ## 2021-01-01
 - `meizu` 订正魅族 17 运营商定制版信息。

@@ -959,7 +959,7 @@
 
 `MRC-W70`: HUAWEI MateBook D (2018) i3 集显
 
-**HUAWEI MateBook D 14 (`nobelk`):**
+**HUAWEI MateBook D 14 (`nobelK`):**
 
 `Nbl-WAQ9R`: HUAWEI MateBook D 14 R5
 
@@ -967,7 +967,7 @@
 
 `Nbl-WAQ9L`: HUAWEI MateBook D 14 R5 Linux 版
 
-**HUAWEI MateBook D 14:**
+**HUAWEI MateBook D 14 (`nobelB`):**
 
 `NbB-WAH9`: HUAWEI MateBook D 14 i5 (8GB+512GB)
 
@@ -975,11 +975,19 @@
 
 `NbB-WAE9P`: HUAWEI MateBook D 14 i7 (16GB+512GB)
 
+**HUAWEI MateBook D 14 (`nobelL`):**
+
 `NblL-WFQ9`: HUAWEI MateBook D 14 (2020) R5
 
 `NblL-WFP9`: HUAWEI MateBook D 14 (2020) R7
 
-**HUAWEI MateBook D 15:**
+**HUAWEI MateBook D 14 (`nobelD`):**
+
+`NbD-WFH9`: HUAWEI MateBook D 14 (2021) i5
+
+`NbD-WFE9`: HUAWEI MateBook D 14 (2021) i7
+
+**HUAWEI MateBook D 15 (`bohrK`):**
 
 `Boh-WAQ9R`: HUAWEI MateBook D 15 R5 (8GB+512GB)
 
@@ -987,15 +995,25 @@
 
 `Boh-WAQ9L`: HUAWEI MateBook D 15 R5 Linux 版
 
+**HUAWEI MateBook D 15 (`bohrB`):**
+
 `BoB-WAH9`: HUAWEI MateBook D 15 i5 (8GB+512GB)
 
 `BoB-WAH9P`: HUAWEI MateBook D 15 i5 (16GB+512GB)
 
 `BoB-WAE9P`: HUAWEI MateBook D 15 i7 (16GB+512GB)
 
+**HUAWEI MateBook D 15 (`bohrL`):**
+
 `BohL-WFQ9`: HUAWEI MateBook D 15 (2020) R5
 
 `BohL-WFP9`: HUAWEI MateBook D 15 (2020) R7
+
+**HUAWEI MateBook D 15 (`bohrD`):**
+
+`BoD-WFH9`: HUAWEI MateBook D 15 (2021) i5
+
+`BoD-WFE9`: HUAWEI MateBook D 15 (2021) i7
 
 **HUAWEI MateBook E:**
 
