@@ -685,7 +685,7 @@
 
 `KPRC-W20L`: 荣耀 MagicBook 2019 科技尝鲜版 R7
 
-**荣耀 MagicBook 14 (`nobelk`):**
+**荣耀 MagicBook 14 (`nobelK`):**
 
 `Nbl-WAQ9HNR`: 荣耀 MagicBook 14 / 14 SE R5
 
@@ -705,13 +705,13 @@
 
 `Nbl-WAE9HNP`: 荣耀 MagicBook 14 i7 (16GB+512GB)
 
-**荣耀 MagicBook 14 2020 (`nobell`):**
+**荣耀 MagicBook 14 2020 (`nobelL`):**
 
 `NblL-WFQ9HN`: 荣耀 MagicBook 14 2020 R5
 
 `NblL-WFP9HN`: 荣耀 MagicBook 14 2020 R7
 
-**荣耀 MagicBook 15:**
+**荣耀 MagicBook 15 (`bohrK`):**
 
 `Boh-WAQ9HNR`: 荣耀 MagicBook 15 R5
 
@@ -729,7 +729,7 @@
 
 `Boh-WAE9HN`: 荣耀 MagicBook 15 i7
 
-**荣耀 MagicBook 15 2020:**
+**荣耀 MagicBook 15 2020 (`bohrL`):**
 
 `BohL-WDQ9HN`: 荣耀 MagicBook 15 2020 R5 (8GB+256GB)
 
@@ -771,25 +771,27 @@
 
 **荣耀猎人游戏本 V700:**
 
-`FRD-WFG9`: 荣耀猎人游戏本 V700 i5
+`FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB)
 
-`FRD-WFD9`: 荣耀猎人游戏本 V700 i7
+`FRD-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB)
+
+`FRD-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB)
 
 ## 荣耀智慧屏
 
-**荣耀智慧屏 (`osca`):**
+**荣耀智慧屏 (`oscar`):**
 
 `OSCA-550A`: 荣耀智慧屏 55 英寸 (2GB+16GB)
 
 `OSCA-550AX`: 荣耀智慧屏 55 英寸 (4GB+32GB)
 
-**荣耀智慧屏 PRO (`osca`):**
+**荣耀智慧屏 PRO (`oscar`):**
 
 `OSCA-550`: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
 
 `OSCA-550X`: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
 
-**荣耀智慧屏 X1:**
+**荣耀智慧屏 X1 (`locke`):**
 
 `LOK-330`: 荣耀智慧屏 X1 50 英寸
 
