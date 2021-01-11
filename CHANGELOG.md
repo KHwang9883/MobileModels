@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-01-11
+- `vivo` 新增 iQOO 7。
 ## 2021-01-07
 - `honor` 更新部分产品代号。
 - `huawei` 新增 HUAWEI MateBook D (2021)。
