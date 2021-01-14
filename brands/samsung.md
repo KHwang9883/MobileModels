@@ -188,6 +188,18 @@
 
 `SM-G7810`: Galaxy S20 FE 5G
 
+**Galaxy S21 (`m1q`):**
+
+`SM-G9910`: Galaxy S21 5G
+
+**Galaxy S21+ (`n2q`):**
+
+`SM-G9960`: Galaxy S21+ 5G
+
+**Galaxy S21 Ultra (`o3q`):**
+
+`SM-G9980`: Galaxy S21 Ultra 5G
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
