@@ -258,6 +258,12 @@
 
 `PDKT00`: OPPO A92s 移动版
 
+**OPPO A93:**
+
+`PEHM00`: OPPO A93 全网通版
+
+`PEHT00`: OPPO A93 移动版
+
 ## K 系列
 
 **OPPO K1:**
