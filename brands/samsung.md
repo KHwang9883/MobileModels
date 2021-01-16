@@ -188,15 +188,15 @@
 
 `SM-G7810`: Galaxy S20 FE 5G
 
-**Galaxy S21 (`m1q`):**
+**Galaxy S21 (`o1q`):**
 
 `SM-G9910`: Galaxy S21 5G
 
-**Galaxy S21+ (`n2q`):**
+**Galaxy S21+ (`t2q`):**
 
 `SM-G9960`: Galaxy S21+ 5G
 
-**Galaxy S21 Ultra (`o3q`):**
+**Galaxy S21 Ultra (`p3q`):**
 
 `SM-G9980`: Galaxy S21 Ultra 5G
 
