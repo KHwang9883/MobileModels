@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-01-20
+- `huawei` 新增 HUAWEI nova 7 SE 5G 乐活版。
 ## 2021-01-16
 - `samsung` 更正 codename。
 ## 2021-01-15
