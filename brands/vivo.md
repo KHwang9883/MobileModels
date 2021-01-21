@@ -44,35 +44,39 @@
 
 **vivo X30 (`PD1938C`):**
 
-`V1938CA`: vivo X30 全网通版
+`V1938CA`: vivo X30 5G 全网通版
 
-`V1938CT`: vivo X30 移动全网通版
+`V1938CT`: vivo X30 5G 移动全网通版
 
 **vivo X30 Pro (`PD1938`):**
 
-`V1938A`: vivo X30 Pro 全网通版
+`V1938A`: vivo X30 Pro 5G 全网通版
 
-`V1938T`: vivo X30 Pro 移动全网通版
+`V1938T`: vivo X30 Pro 5G 移动全网通版
 
 **vivo X50 (`PD2001`):**
 
-`V2001A`: vivo X50 全网通版
+`V2001A`: vivo X50 5G 全网通版
 
 **vivo X50 Pro (`PD2005`):**
 
-`V2005A`: vivo X50 Pro 全网通版
+`V2005A`: vivo X50 Pro 5G 全网通版
 
 **vivo X50 Pro+ (`PD2011`):**
 
-`V2011A`: vivo X50 Pro+ 全网通版
+`V2011A`: vivo X50 Pro+ 5G 全网通版
 
 **vivo X60 (`PD2046`):**
 
-`V2046A`: vivo X60 全网通版
+`V2046A`: vivo X60 5G 全网通版
 
 **vivo X60 Pro (`PD2047`):**
 
-`V2047A`: vivo X60 Pro 全网通版
+`V2047A`: vivo X60 Pro 5G 全网通版
+
+**vivo X60 Pro+ (`PD2056`):**
+
+`V2056A`: vivo X60 Pro+ 5G 全网通版
 
 ## NEX 系列
 
