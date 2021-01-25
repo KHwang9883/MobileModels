@@ -921,13 +921,13 @@
 
 `EUL-W29P`: HUAWEI MateBook X i7 (16GB+512GB)
 
-**HUAWEI MateBook X Pro:**
+**HUAWEI MateBook X Pro (`mach`):**
 
 `MACH-W19`: HUAWEI MateBook X Pro i5
 
 `MACH-W29`: HUAWEI MateBook X Pro i7
 
-**HUAWEI MateBook X Pro (2019):**
+**HUAWEI MateBook X Pro (2019) (`machR`):**
 
 `MACHR-W19`: HUAWEI MateBook X Pro (2019) i5
 
@@ -937,13 +937,13 @@
 
 `MACHR-W29BL`: HUAWEI MateBook X Pro (2019) i7 Linux 版
 
-**HUAWEI MateBook X Pro (2020):**
+**HUAWEI MateBook X Pro (2020) (`machC`):**
 
 `MACHC-WAH9LP`: HUAWEI MateBook X Pro (2020) i5
 
 `MACHC-WAE9LP`: HUAWEI MateBook X Pro (2020) i7
 
-**HUAWEI MateBook X Pro (2021):**
+**HUAWEI MateBook X Pro (2021) (`machD`):**
 
 `MACHD-WFH9`: HUAWEI MateBook X Pro (2021) i5
 
