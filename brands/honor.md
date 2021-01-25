@@ -715,6 +715,10 @@
 
 `NblL-WFP9HN`: 荣耀 MagicBook 14 2020 R7
 
+**荣耀 MagicBook 14 2021 (`nobelD`):**
+
+`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 & i7
+
 **荣耀 MagicBook 15 (`bohrK`):**
 
 `Boh-WAQ9HNR`: 荣耀 MagicBook 15 R5
@@ -740,6 +744,10 @@
 `BohL-WFQ9HN`: 荣耀 MagicBook 15 2020 R5 (16GB+512GB)
 
 `BohL-WFP9HN`: 荣耀 MagicBook 15 2020 R7
+
+**荣耀 MagicBook 15 2021 (`bohrD`):**
+
+`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5 & i7
 
 **荣耀 MagicBook Pro:**
 
