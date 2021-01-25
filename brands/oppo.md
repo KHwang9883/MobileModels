@@ -236,6 +236,12 @@
 
 `PECT30`: OPPO A53 (2020) 移动版
 
+**OPPO A55:**
+
+`PEMM00`: OPPO A55 全网通版
+
+`PEMT00`: OPPO A55 移动版
+
 **OPPO A72:**
 
 `PDYM20`: OPPO A72 全网通版
