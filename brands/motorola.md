@@ -93,3 +93,7 @@
 **motorola razr 5G (`smith`):**
 
 `XT2071-4`: motorola razr 5G
+
+**motorola edge s (`nio`):**
+
+`XT2125-4`: motorola edge s

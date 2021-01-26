@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-01-26
+- `motorola` 新增 motorola edge s。
 ## 2021-01-25
 - `huawei` 更新部分产品代号。
 - `honor` 新增荣耀 MagicBook 2021 款。
