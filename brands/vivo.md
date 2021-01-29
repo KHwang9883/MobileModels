@@ -392,6 +392,10 @@
 
 `V2020A` `V2020CA`: vivo S7 5G 全网通版
 
+**vivo S7t (`PD2080`):**
+
+`V2080A`: vivo S7t 5G 全网通版
+
 **vivo S7e (`PD2031`):**
 
 `V2031A`: vivo S7e 5G 全网通版

@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-01-29
+- `vivo` 新增 vivo S7t。
 ## 2021-01-26
 - `motorola` 新增 motorola edge s。
 ## 2021-01-25
