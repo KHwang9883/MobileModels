@@ -92,7 +92,7 @@
 
 **realme 1:**
 
-`CPH1861`: realme 1
+`CPH1859` `CPH1861`: realme 1
 
 **realme 2:**
 
