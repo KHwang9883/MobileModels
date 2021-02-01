@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-02-02
+- `realme_en` Several international models have been added.
 ## 2021-01-07
 - `realme_en` Realme V15 (China) has been added.
 ## 2020-12-27
