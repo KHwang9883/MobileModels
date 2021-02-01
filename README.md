@@ -26,7 +26,7 @@
 | [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ✅ | ❌ | -- |
 | [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
-| [oppo](brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | ❌ | ❌ | [国际机型单独汇总](brands/oppo_global_en.md) |
+| [oppo](brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | ❌ | ⏹ | [国际机型单独汇总](brands/oppo_global_en.md) |
 | [realme](brands/realme.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | -- |
 | [samsung](brands/samsung.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型 | ✅ | ❌ | [早期型号参阅此处](misc/early-samsung-models.md) |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
