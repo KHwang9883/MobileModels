@@ -15,10 +15,11 @@ Unlisted brands usually not include international models.
 | Branch | Brand | Range |
 | :-: | :-: | :-: |
 | [apple_en](brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
-| [honor_global_en](brands/honor_global_en.md) | HONOR | All global models |
+| [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
 | [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
+| [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [realme_en](brands/realme_en.md) | realme | All models |
 | [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi Mi phones, Redmi phones, POCO phones and Black Shark phones |
 
