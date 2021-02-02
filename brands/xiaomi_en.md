@@ -665,6 +665,8 @@
 
 `M2010J19ST`: Redmi 9T Thailand
 
+`M2010J19SL`: Redmi 9T Brazil
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
