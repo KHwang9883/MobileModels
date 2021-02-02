@@ -657,9 +657,13 @@
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
-`M2010J19SG`: Redmi 9T Global
+`M2010J19SG` `M2010J19SY`: Redmi 9T Global
 
 `M2010J19SI`: Redmi 9 Power India
+
+`M2010J19SR`: Redmi 9T Japan
+
+`M2010J19ST`: Redmi 9T Thailand
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -843,13 +847,15 @@
 
 **[`J22`] Redmi Note 9T (`cannong`):**
 
-`M2007J22G` `M2007J22R`: Redmi Note 9T 5G Global
+`M2007J22G`: Redmi Note 9T 5G Global
+
+`M2007J22R`: Redmi Note 9T 5G Japan
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 `M2003J6A1G`: Redmi Note 9S Global
 
-`M2003J6A1R`: Redmi Note 9S Global (Japan / Korea)
+`M2003J6A1R`: Redmi Note 9S Japan / Korea
 
 `M2003J6A1I`: Redmi Note 9 Pro India
 

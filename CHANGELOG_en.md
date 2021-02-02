@@ -2,6 +2,7 @@
 ## 2021-02-02
 - `oppo_global_en` International models of OPPO have been added.
 - `realme_en` Several international models have been added.
+- `xiaomi_en` Regional information of Redmi Note 9T & Redmi 9T has been updated.
 ## 2021-01-07
 - `realme_en` Realme V15 (China) has been added.
 ## 2020-12-27
