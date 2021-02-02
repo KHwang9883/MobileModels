@@ -680,9 +680,13 @@
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
-`M2010J19SG`: Redmi 9T 国际版
+`M2010J19SG` `M2010J19SY`: Redmi 9T 国际版
 
 `M2010J19SI`: Redmi 9 Power 印度版
+
+`M2010J19SR`: Redmi 9T 日本版
+
+`M2010J19ST`: Redmi 9T 泰国版
 
 ## 红米 / Redmi Note 系列
 
@@ -874,7 +878,9 @@
 
 **[`J22`] Redmi Note 9T (`cannong`):**
 
-`M2007J22G` `M2007J22R`: Redmi Note 9T 5G 国际版
+`M2007J22G`: Redmi Note 9T 5G 国际版
+
+`M2007J22R`: Redmi Note 9T 5G 日本版
 
 **[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
@@ -884,7 +890,7 @@
 
 `M2003J6A1G`: Redmi Note 9S 国际版
 
-`M2003J6A1R`: Redmi Note 9S 国际版 (日本 / 韩国)
+`M2003J6A1R`: Redmi Note 9S 日本版 / 韩国版
 
 `M2003J6A1I`: Redmi Note 9 Pro 印度版
 
