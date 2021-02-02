@@ -688,6 +688,8 @@
 
 `M2010J19ST`: Redmi 9T 泰国版
 
+`M2010J19SL`: Redmi 9T 巴西版
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
