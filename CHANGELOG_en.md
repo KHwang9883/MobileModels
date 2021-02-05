@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-02-05
+- `realme_en` Realme V11 (China) has been added.
 ## 2021-02-02
 - `oppo_global_en` International models of OPPO have been added.
 - `realme_en` Several international models have been added.
