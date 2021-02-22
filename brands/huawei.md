@@ -115,10 +115,6 @@
 
 `LYA-AL00P`: HUAWEI Mate 20 RS 保时捷设计
 
-**HUAWEI Mate X (`tahiti`):**
-
-`TAH-AN00`: HUAWEI Mate X
-
 **HUAWEI Mate 30 (`taurus`):**
 
 `TAS-AL00`: HUAWEI Mate 30 全网通版
@@ -147,10 +143,6 @@
 
 `LIO-AN00P`: HUAWEI Mate 30 RS 保时捷设计
 
-**HUAWEI Mate Xs (`tahiti`):**
-
-`TAH-AN00m`: HUAWEI Mate Xs
-
 **HUAWEI Mate 40E (`ocean`):**
 
 `OCE-AN00`: HUAWEI Mate 40E 全网通版
@@ -170,6 +162,18 @@
 **HUAWEI Mate 40 RS 保时捷设计 (`noahp`):**
 
 `NOP-AN00`: HUAWEI Mate 40 RS 保时捷设计
+
+**HUAWEI Mate X (`tahiti`):**
+
+`TAH-AN00`: HUAWEI Mate X
+
+**HUAWEI Mate Xs (`tahiti`):**
+
+`TAH-AN00m`: HUAWEI Mate Xs
+
+**HUAWEI Mate X2 (`teton`):**
+
+`TET-AN00` `TET-AN10`: HUAWEI Mate X2
 
 ## HUAWEI P 系列
 
