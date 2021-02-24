@@ -100,6 +100,12 @@
 
 `PEGT00`: OPPO Reno5 移动版
 
+**OPPO Reno5 K:**
+
+`PEGM10`: OPPO Reno5 K 全网通版
+
+`PEGT10`: OPPO Reno5 K 移动版
+
 **OPPO Reno5 Pro:**
 
 `PDSM00`: OPPO Reno5 Pro 全网通版
