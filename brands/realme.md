@@ -212,6 +212,14 @@
 
 `RMX2076`: realme X50 Pro 印度版
 
+**realme X7:**
+
+`RMX3092`: realme X7 印度版
+
+**realme X7 Pro:**
+
+`RMX2121`: realme X7 Pro
+
 ## C 系列 (海外)
 
 **realme C1:**
@@ -283,3 +291,11 @@
 **realme Narzo 20A:**
 
 `RMX2050`: realme Narzo 20A 印度版
+
+**realme Narzo 30 Pro:**
+
+`RMX2117`: realme Narzo 30 Pro 印度版
+
+**realme Narzo 30A:**
+
+`RMX3171`: realme Narzo 30A 印度版

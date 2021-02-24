@@ -1,6 +1,7 @@
 # 更新日志
 ## 2021-02-24
 - `oppo` 新增 OPPO Reno5 K。
+- `realme` 新增 realme Narzo 30 系列。
 ## 2021-02-22
 - `huawei` 新增 HUAWEI Mate X2。
 ## 2021-02-05
