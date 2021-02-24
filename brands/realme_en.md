@@ -121,6 +121,14 @@
 
 `RMX2076`: realme X50 Pro India
 
+**realme X7:**
+
+`RMX3092`: realme X7 India
+
+**realme X7 Pro:**
+
+`RMX2121`: realme X7 Pro
+
 ## C series
 
 **realme C1:**
@@ -192,6 +200,14 @@
 **realme Narzo 20A:**
 
 `RMX2050`: realme Narzo 20A India
+
+**realme Narzo 30 Pro:**
+
+`RMX2117`: realme Narzo 30 Pro India
+
+**realme Narzo 30A:**
+
+`RMX3171`: realme Narzo 30A India
 
 ## X series (China)
 

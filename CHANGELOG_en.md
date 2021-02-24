@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-02-24
+- `realme_en` Several Indian models have been added.
 ## 2021-02-05
 - `realme_en` Realme V11 (China) has been added.
 ## 2021-02-02
