@@ -941,6 +941,14 @@
 
 `M2007J3SC`: Redmi K30S Ultra China
 
+**[`K11A`] Redmi K40 (`alioth`):**
+
+`M2012K11AC`: Redmi K40 China
+
+**[`K11`] Redmi K40 Pro / Redmi K40 Pro+ (`haydn`):**
+
+`M2012K11C`: Redmi K40 Pro China / Redmi K40 Pro+ China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)

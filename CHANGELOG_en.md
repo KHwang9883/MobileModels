@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-02-25
+- `xiaomi_en` Redmi K40 series have been added.
 ## 2021-02-24
 - `realme_en` Several Indian models have been added.
 ## 2021-02-05
