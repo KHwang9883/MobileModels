@@ -976,6 +976,14 @@
 
 `M2007J3SC`: Redmi K30S 至尊纪念版 全网通版
 
+**[`K11A`] Redmi K40 (`alioth`):**
+
+`M2012K11AC`: Redmi K40 全网通版
+
+**[`K11`] Redmi K40 Pro / Redmi K40 Pro+ (`haydn`):**
+
+`M2012K11C`: Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**

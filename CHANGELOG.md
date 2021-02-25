@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-02-25
+- `xiaomi` 新增 Redmi K40 系列。
 ## 2021-02-24
 - `oppo` 新增 OPPO Reno5 K。
 - `realme` 新增 realme Narzo 30 系列。
