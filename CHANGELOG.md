@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-02-25
+- `mitv` 新增 Redmi 智能电视 MAX 86 英寸。
 - `xiaomi` 新增 Redmi K40 系列。
 ## 2021-02-24
 - `oppo` 新增 OPPO Reno5 K。

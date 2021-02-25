@@ -238,6 +238,8 @@
 
 `L65M5-RK`: Redmi 智能电视 X65 65 英寸
 
+`L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
+
 `L98M6-RK`: Redmi 智能电视 MAX 98 英寸
 
 `L32R6-A`: Redmi 智能电视 A32 32 英寸
