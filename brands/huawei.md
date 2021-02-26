@@ -299,6 +299,8 @@
 
 **HUAWEI P40 (`anna`):**
 
+`ANA-AL00`: HUAWEI P40 4G 全网通版
+
 `ANA-AN00`: HUAWEI P40 5G 全网通版
 
 `ANA-TN00`: HUAWEI P40 5G 移动定制版
