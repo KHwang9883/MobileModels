@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-02-26
+- `xiaomi_en` Update Redmi 9T's info (regional info still needs update).
 ## 2021-02-25
 - `xiaomi_en` Redmi K40 series have been added.
 ## 2021-02-24

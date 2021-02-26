@@ -657,7 +657,7 @@
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
-`M2010J19SG` `M2010J19SY`: Redmi 9T Global
+`M2010J19SG`: Redmi 9T Global
 
 `M2010J19SI`: Redmi 9 Power India
 
@@ -666,6 +666,10 @@
 `M2010J19ST`: Redmi 9T Thailand
 
 `M2010J19SL`: Redmi 9T Brazil
+
+**[`J19S`] Redmi 9T (`lemon`):**
+
+`M2010J19SY`: Redmi 9T Global
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
