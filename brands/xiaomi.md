@@ -680,7 +680,7 @@
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
-`M2010J19SG` `M2010J19SY`: Redmi 9T 国际版
+`M2010J19SG`: Redmi 9T 国际版
 
 `M2010J19SI`: Redmi 9 Power 印度版
 
@@ -689,6 +689,10 @@
 `M2010J19ST`: Redmi 9T 泰国版
 
 `M2010J19SL`: Redmi 9T 巴西版
+
+**[`J19S`] Redmi 9T (`lemon`):**
+
+`M2010J19SY`: Redmi 9T 国际版
 
 ## 红米 / Redmi Note 系列
 

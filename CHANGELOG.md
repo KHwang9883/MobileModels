@@ -1,6 +1,7 @@
 # 更新日志
 ## 2021-02-26
 - `huawei` 新增 HUAWEI P40 4G 版。
+- `xiaomi` 更新 Redmi 9T 代号信息。
 ## 2021-02-25
 - `mitv` 新增 Redmi 智能电视 MAX 86 英寸。
 - `xiaomi` 新增 Redmi K40 系列。
