@@ -298,3 +298,9 @@
 **realme Q2i:**
 
 `RMX2200`: realme Q2i 5G
+
+## GT series (China)
+
+**realme GT:**
+
+`RMX2202`: realme GT 5G
