@@ -404,6 +404,14 @@
 
 `V2031EA`: vivo S7e 活力版 5G 全网通版
 
+**vivo S9 (`PD2072`):**
+
+`V2072A`: vivo S9 5G 全网通版
+
+**vivo S9e (`PD2048`):**
+
+`V2048A`: vivo S9e 5G 全网通版
+
 ## U 系列
 
 **vivo U1 (`PD1818`):**
