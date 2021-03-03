@@ -189,13 +189,25 @@
 
 `M928Q`: Meizu 16T China
 
-**Meizu 17 (`m2081`):**
+**MEIZU 17 (`m2081`):**
 
-`M081Q` `M081M`: Meizu 17 China
+`M081Q`: MEIZU 17 China
 
-**Meizu 17 Pro (`m2091`):**
+`M081M`: MEIZU 17 Carrier version
 
-`M091Q` `M091M`: Meizu 17 Pro China
+**MEIZU 17 Pro (`m2091`):**
+
+`M091Q`: MEIZU 17 Pro China
+
+`M091M`: MEIZU 17 Carrier version
+
+**MEIZU 18 (`m2181`):**
+
+`M181Q`: MEIZU 18
+
+**MEIZU 18 Pro (`m2191`):**
+
+`M191Q`: MEIZU 18 Pro
 
 **Meizu m1 note (`m71`):**
 
