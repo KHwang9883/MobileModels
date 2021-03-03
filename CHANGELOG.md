@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-03-03
+- `realme` 新增 realme 真我 GT。
 ## 2021-02-26
 - `huawei` 新增 HUAWEI P40 4G 版。
 - `xiaomi` 更新 Redmi 9T 代号信息。

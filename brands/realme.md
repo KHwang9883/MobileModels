@@ -94,6 +94,12 @@
 
 `RMX2200`: realme Q2i 5G
 
+## GT 系列
+
+**realme GT:**
+
+`RMX2202`: realme GT 5G
+
 ## 数字系列 (海外)
 
 **realme 1:**
