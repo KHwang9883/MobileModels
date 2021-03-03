@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-03-03
+- `meizu` 新增魅族 18 系列。
 - `realme` 新增 realme 真我 GT。
 ## 2021-02-26
 - `huawei` 新增 HUAWEI P40 4G 版。
