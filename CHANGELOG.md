@@ -2,6 +2,7 @@
 ## 2021-03-04
 - `nubia` 新增腾讯红魔游戏手机 6 系列。
 - `vivo` 新增 vivo S9。
+- `xiaomi` 新增 Redmi Note 10 系列（海外）。
 ## 2021-03-03
 - `meizu` 新增魅族 18 系列。
 - `realme` 新增 realme 真我 GT。

@@ -908,6 +908,34 @@
 
 `M2003J6B2G`: Redmi Note 9 Pro 国际版
 
+**[`K7A`] Redmi Note 10 (`mojito`):**
+
+`M2101K7AG`: Redmi Note 10 国际版
+
+`M2101K7AI`: Redmi Note 10 印度版
+
+**[`K7B`] Redmi Note 10S (`secret`):**
+
+`M2101K7BG`: Redmi Note 10S 国际版
+
+**[`K7B`] Redmi Note 10S (`rosemary`):**
+
+`M2101K7BN` `M2101K7BNY`: Redmi Note 10S 国际版 (NFC)
+
+**[`K19`] Redmi Note 10 5G (`camellia`):**
+
+`M2103K19Y`: Redmi Note 10 5G 国际版
+
+**[`K6`] Redmi Note 10 Pro (`sweet`):**
+
+`M2101K6G`: Redmi Note 10 Pro 国际版
+
+**[`K6`] Redmi Note 10 Pro / Redmi Note 10 Pro Max (`sweetin`):**
+
+`M2101K6P`: Redmi Note 10 Pro 印度版
+
+`M2101K6I`: Redmi Note 10 Pro Max 印度版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
