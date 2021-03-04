@@ -873,9 +873,37 @@
 
 `M2003J6B2G`: Redmi Note 9 Pro Global
 
-**[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
+**[`J17`] Redmi Note 9 Pro 5G (`gauguinpro`):**
 
 `M2007J17C`: Redmi Note 9 Pro 5G China
+
+**[`K7A`] Redmi Note 10 (`mojito`):**
+
+`M2101K7AG`: Redmi Note 10 Global
+
+`M2101K7AI`: Redmi Note 10 India
+
+**[`K7B`] Redmi Note 10S (`secret`):**
+
+`M2101K7BG`: Redmi Note 10S Global
+
+**[`K7B`] Redmi Note 10S (`rosemary`):**
+
+`M2101K7BN` `M2101K7BNY`: Redmi Note 10S Global (NFC)
+
+**[`K19`] Redmi Note 10 5G (`camellia`):**
+
+`M2103K19Y`: Redmi Note 10 5G Global
+
+**[`K6`] Redmi Note 10 Pro (`sweet`):**
+
+`M2101K6G`: Redmi Note 10 Pro Global
+
+**[`K6`] Redmi Note 10 Pro / Redmi Note 10 Pro Max (`sweetin`):**
+
+`M2101K6P`: Redmi Note 10 Pro India
+
+`M2101K6I`: Redmi Note 10 Pro Max India
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 

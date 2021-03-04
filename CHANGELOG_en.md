@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-03-05
+- `xiaomi_en` Redmi Note 10 series (Global & India) have been added.
 ## 2021-03-03
 - `meizu_en` MEIZU 18 and MEIZU 18 Pro have been added.
 - `realme_en` Realme GT (China) has been added.
