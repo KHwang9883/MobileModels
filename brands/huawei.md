@@ -143,17 +143,17 @@
 
 `LIO-AN00P`: HUAWEI Mate 30 RS 保时捷设计
 
-**HUAWEI Mate 40E (`ocean`):**
-
-`OCE-AN00`: HUAWEI Mate 40E 全网通版
-
 **HUAWEI Mate 40 (`ocean`):**
 
 `OCE-AN10`: HUAWEI Mate 40 全网通版
 
+**HUAWEI Mate 40E (`ocean`):**
+
+`OCE-AN50`: HUAWEI Mate 40E 全网通版
+
 **HUAWEI Mate 40 Pro (`noah`):**
 
-`NOH-AN00`: HUAWEI Mate 40 Pro 全网通版
+`NOH-AN00` `NOH-AN01`: HUAWEI Mate 40 Pro 全网通版
 
 **HUAWEI Mate 40 Pro+ (`noahp`):**
 
@@ -1055,7 +1055,7 @@
 
 `WRT-W29L`: HUAWEI MateBook 13 i7 Linux 版
 
-**HUAWEI MateBook 13 锐龙版:**
+**HUAWEI MateBook 13 锐龙版 (`heng`):**
 
 `HN-W19R`: HUAWEI MateBook 13 锐龙版
 
@@ -1069,7 +1069,7 @@
 
 `WRTB-WFE9L`: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook 13 (2020) 锐龙版:**
+**HUAWEI MateBook 13 (2020) 锐龙版 (`hengL`):**
 
 `HNL-WFQ9`: HUAWEI MateBook 13 (2020) R5
 
