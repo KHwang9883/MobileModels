@@ -232,6 +232,10 @@
 
 `M2007J17I`: 小米 10i 印度版
 
+**[`J2S`] 小米 10S (`thyme`):**
+
+`M2102J2SC`: 小米 10S 全网通版
+
 **[`K2`] 小米 11 (`venus`):**
 
 `M2011K2C`: 小米 11 全网通版
@@ -688,11 +692,11 @@
 
 `M2010J19ST`: Redmi 9T 泰国版
 
-`M2010J19SL`: Redmi 9T 巴西版
-
 **[`J19S`] Redmi 9T (`lemon`):**
 
 `M2010J19SY`: Redmi 9T 国际版
+
+`M2010J19SL`: Redmi 9T 巴西版
 
 ## 红米 / Redmi Note 系列
 
@@ -929,6 +933,10 @@
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro 国际版
+
+`M2101K6T`: Redmi Note 10 Pro 泰国版
+
+`M2101K6R`: Redmi Note 10 Pro 日本版
 
 **[`K6`] Redmi Note 10 Pro / Redmi Note 10 Pro Max (`sweetin`):**
 
