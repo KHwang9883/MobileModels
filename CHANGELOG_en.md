@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-03-10
+- `xiaomi_en` Xiaomi Mi 10S has been added.
 ## 2021-03-05
 - `xiaomi_en` Redmi Note 10 series (Global & India) have been added.
 ## 2021-03-03

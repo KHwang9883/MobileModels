@@ -229,6 +229,10 @@
 
 `M2007J17I`: Mi 10i India
 
+**[`J2S`] Mi 10S (`thyme`):**
+
+`M2102J2SC`: Mi 10S China
+
 **[`K2`] Mi 11 (`venus`):**
 
 `M2011K2G`: Mi 11 Global
@@ -665,11 +669,11 @@
 
 `M2010J19ST`: Redmi 9T Thailand
 
-`M2010J19SL`: Redmi 9T Brazil
-
 **[`J19S`] Redmi 9T (`lemon`):**
 
 `M2010J19SY`: Redmi 9T Global
+
+`M2010J19SL`: Redmi 9T Brazil
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -898,6 +902,10 @@
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro Global
+
+`M2101K6T`: Redmi Note 10 Pro Thailand
+
+`M2101K6R`: Redmi Note 10 Pro Japan
 
 **[`K6`] Redmi Note 10 Pro / Redmi Note 10 Pro Max (`sweetin`):**
 
