@@ -26,6 +26,14 @@
 
 `PDEM30`: OPPO Find X2 Pro 全网通版
 
+**OPPO Find X3:**
+
+`PEDM00`: OPPO Find X3 全网通版
+
+**OPPO Find X3 Pro:**
+
+`PEEM00`: OPPO Find X3 Pro 全网通版
+
 ## Reno 系列
 
 **OPPO Reno:**

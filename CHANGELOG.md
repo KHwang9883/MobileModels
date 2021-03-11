@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-03-11
+- `oppo` 新增 OPPO Find X3 系列。
 ## 2021-03-10
 - `huawei` 更新 HUAWEI Mate 40 系列型号。
 - `xiaomi` 新增小米 10S。
