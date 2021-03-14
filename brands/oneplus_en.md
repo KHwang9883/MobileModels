@@ -155,8 +155,20 @@
 
 **OnePlus Nord N10 (`billie8t`):**
 
-`BE2029`: OnePlus Nord N10 North America
+`BE2025`: OnePlus Nord N10 Metro
+
+`BE2026`: OnePlus Nord N10 North America
+
+`BE2028`: OnePlus Nord N10 T-Mobile
+
+`BE2029`: OnePlus Nord N10 Global
 
 **OnePlus Nord N100 (`billie2t`):**
 
-`BE2012` `BE2013`: OnePlus Nord N100 Global
+`BE2011`: OnePlus Nord N100 North America
+
+`BE2012`: OnePlus Nord N100 T-Mobile
+
+`BE2013`: OnePlus Nord N100 Global
+
+`BE2015`: OnePlus Nord N100 Metro
