@@ -201,7 +201,7 @@
 
 `XIG01`: Mi 10 Lite Japan (NTT docomo)
 
-**[`J9`] Mi 10 Lite Zoom (`vangogh`):**
+**[`J9A`] Mi 10 Lite Zoom (`vangogh`):**
 
 `M2002J9E`: Mi 10 Lite Zoom China
 
@@ -971,7 +971,7 @@
 
 **[`J11`] Redmi K30 Pro Zoom Edition (`lmipro`):**
 
-`M2001J11E`: Redmi K30 Pro Zoom Edition China
+`M2001J11C` `M2001J11E`: Redmi K30 Pro Zoom Edition China
 
 **[`J10`] Redmi K30 Ultra (`cezanne`):**
 

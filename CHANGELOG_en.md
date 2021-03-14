@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2021-03-15
 - `oneplus_en` Update regional info for OnePlus Nord N10 & N100.
+- `xiaomi_en` Minor fix.
 ## 2021-03-10
 - `xiaomi_en` Xiaomi Mi 10S has been added.
 ## 2021-03-05
