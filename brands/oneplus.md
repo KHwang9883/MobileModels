@@ -160,8 +160,20 @@
 
 **OnePlus Nord N10 (`billie8t`):**
 
-`BE2029`: OnePlus Nord N10 北美版
+`BE2025`: OnePlus Nord N10 Metro 版
+
+`BE2026`: OnePlus Nord N10 北美版
+
+`BE2028`: OnePlus Nord N10 T-Mobile 版
+
+`BE2029`: OnePlus Nord N10 国际版
 
 **OnePlus Nord N100 (`billie2t`):**
 
-`BE2012` `BE2013`: OnePlus Nord N100 国际版
+`BE2011`: OnePlus Nord N100 北美版
+
+`BE2012`: OnePlus Nord N100 T-Mobile 版
+
+`BE2013`: OnePlus Nord N100 国际版
+
+`BE2015`: OnePlus Nord N100 Metro 版
