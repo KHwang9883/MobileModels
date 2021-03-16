@@ -262,6 +262,10 @@
 
 `V2036A`: vivo Y30 标准版 全网通版
 
+**vivo Y30g (`PD2066B`):**
+
+`V2066BA`: vivo Y30g 全网通版
+
 **vivo Y31s (`PD2054`):**
 
 `V2054A`: vivo Y31s 5G 全网通版
@@ -367,6 +371,10 @@
 **iQOO 7 (`PD2049`):**
 
 `V2049A`: iQOO 7 5G 全网通版
+
+**iQOO Neo5 (`PD2055`):**
+
+`V2055A`: iQOO Neo5 5G 全网通版
 
 ## S 系列
 
