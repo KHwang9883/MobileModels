@@ -432,6 +432,10 @@
 
 `SM-A7160`: Galaxy A71 5G
 
+**Galaxy A52 5G (`a52xq`):**
+
+`SM-A5260`: Galaxy A52 5G
+
 ## Galaxy M 系列
 
 **Galaxy M30s (`m30s`):**
