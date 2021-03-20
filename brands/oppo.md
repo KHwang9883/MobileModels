@@ -238,6 +238,10 @@
 
 `PDVM00`: OPPO A32 全网通版
 
+**OPPO A35:**
+
+`PEFM00`: OPPO A35 全网通版
+
 **OPPO A52:**
 
 `PDAM10`: OPPO A52 全网通版
@@ -252,9 +256,9 @@
 
 **OPPO A55:**
 
-`PEMM00`: OPPO A55 全网通版
+`PEMM00` `PEMM20`: OPPO A55 全网通版
 
-`PEMT00`: OPPO A55 移动版
+`PEMT00` `PEMT20`: OPPO A55 移动版
 
 **OPPO A72:**
 
