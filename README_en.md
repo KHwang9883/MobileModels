@@ -39,6 +39,8 @@ Unlisted brands usually not include international models.
 
 [Wi-Fi Alliance](https://www.wi-fi.org)
 
+[Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
+
 [RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
 
 [RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
