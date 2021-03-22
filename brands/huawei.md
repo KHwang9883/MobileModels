@@ -841,7 +841,7 @@
 
 `BAH3-AN10`: HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
 
-**HUAWEI MatePad (`schumannr`):**
+**HUAWEI MatePad (`schumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
 
