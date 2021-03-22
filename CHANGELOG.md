@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-03-23
+- `xiaomi` 新增 POCO F3、POCO X3 Pro、黑鲨 4 系列。
 ## 2021-03-22
 - `honor` 新增荣耀 V40 轻奢版、荣耀平板 7。
 - `vivo` 新增 iQOO Z3、iQOO U3x。

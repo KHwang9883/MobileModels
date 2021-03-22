@@ -1064,7 +1064,15 @@
 
 **[`J11`] POCO F2 Pro (`lmi`):**
 
-`M2004J11G`: POCO F2 Pro
+`M2004J11G`: POCO F2 Pro 国际版
+
+**[`K11A`] POCO F3 (`alioth`):**
+
+`M2012K11AG`: POCO F3 国际版
+
+**[`K11`] POCO F3 Pro (`haydn`):**
+
+`M2012K11G`: POCO F3 Pro 国际版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1079,6 +1087,10 @@
 `M2007J20CG`: POCO X3 NFC 国际版
 
 `M2007J20CT`: POCO X3 NFC 泰国版
+
+**[`J20S`] POCO X3 Pro (`vayu`):**
+
+`M2102J20SG`: POCO X3 Pro 国际版
 
 **[`J19P`] POCO M2 (`shiva`):**
 
@@ -1139,3 +1151,11 @@
 **腾讯黑鲨游戏手机 3S (`klein`):**
 
 `KLE-A0`: 腾讯黑鲨游戏手机 3S 全网通版
+
+**黑鲨游戏手机 4 (`penrose`):**
+
+`PRS-A0`: 黑鲨游戏手机 4 全网通版
+
+**黑鲨游戏手机 4 Pro (`kaiser`):**
+
+`KSR-A0`: 黑鲨游戏手机 4 Pro 全网通版
