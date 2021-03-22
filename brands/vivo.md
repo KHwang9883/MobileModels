@@ -376,6 +376,14 @@
 
 `V2055A`: iQOO Neo5 5G 全网通版
 
+**iQOO Z3 (`PD2073`):**
+
+`V2073A`: iQOO Z3 5G 全网通版
+
+**iQOO U3x (`PD2106`):**
+
+`V2106A`: iQOO U3x 5G 全网通版
+
 ## S 系列
 
 **vivo S1 (`PD1831`):**
