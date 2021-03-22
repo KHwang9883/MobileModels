@@ -1027,7 +1027,15 @@
 
 **[`J11`] POCO F2 Pro (`lmi`):**
 
-`M2004J11G`: POCO F2 Pro
+`M2004J11G`: POCO F2 Pro Global
+
+**[`K11A`] POCO F3 (`alioth`):**
+
+`M2012K11AG`: POCO F3 Global
+
+**[`K11`] POCO F3 Pro (`haydn`):**
+
+`M2012K11G`: POCO F3 Pro Global
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1042,6 +1050,10 @@
 `M2007J20CG`: POCO X3 NFC Global
 
 `M2007J20CT`: POCO X3 NFC Thailand
+
+**[`J20S`] POCO X3 Pro (`vayu`):**
+
+`M2102J20SG`: POCO X3 Pro Global
 
 **[`J19P`] POCO M2 (`shiva`):**
 
@@ -1102,3 +1114,11 @@
 **Black Shark 3S (`klein`):**
 
 `KLE-A0`: Black Shark 3S China
+
+**Black Shark 4 (`penrose`):**
+
+`PRS-A0`: Black Shark 4 China
+
+**Black Shark 4 Pro (`kaiser`):**
+
+`KSR-A0`: Black Shark 4 Pro China

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-03-23
+- `xiaomi_en` POCO F3, X3 Pro & Black Shark 4 series have been added. 
 ## 2021-03-15
 - `oneplus_en` Update regional info for OnePlus Nord N10 & N100.
 - `xiaomi_en` Minor fix.
