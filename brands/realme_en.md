@@ -79,6 +79,14 @@
 
 `RMX2103` `RMX2104`: realme 7i
 
+**realme 8:**
+
+`RMX3085`: realme 8 India
+
+**realme 8 Pro:**
+
+`RMX3081`: realme 8 Pro India
+
 ## X series
 
 **realme X:**
