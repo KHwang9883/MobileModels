@@ -176,6 +176,14 @@
 
 `RMX2103` `RMX2104`: realme 7i
 
+**realme 8:**
+
+`RMX3085`: realme 8 印度版
+
+**realme 8 Pro:**
+
+`RMX3081`: realme 8 Pro 印度版
+
 ## X 系列 (海外)
 
 **realme X:**
