@@ -100,6 +100,10 @@
 
 `RMX2202`: realme GT 5G
 
+**realme GT Neo:**
+
+`RMX3031`: realme GT Neo 5G
+
 ## 数字系列 (海外)
 
 **realme 1:**
@@ -256,7 +260,7 @@
 
 **realme C11:**
 
-`RMX2185`: realme C11
+`RMX2183` `RMX2185`: realme C11
 
 **realme C12:**
 
