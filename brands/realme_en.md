@@ -159,7 +159,7 @@
 
 **realme C11:**
 
-`RMX2185`: realme C11
+`RMX2183` `RMX2185`: realme C11
 
 **realme C12:**
 
@@ -312,3 +312,7 @@
 **realme GT:**
 
 `RMX2202`: realme GT 5G
+
+**realme GT Neo:**
+
+`RMX3031`: realme GT Neo 5G

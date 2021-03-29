@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-03-29
+- `realme_en` Realme GT Neo has been added.
 ## 2021-03-25
 - `realme_en` Realme 8 series have been added.
 ## 2021-03-23
