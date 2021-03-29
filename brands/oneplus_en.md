@@ -31,7 +31,7 @@
 
 `ONEPLUS A3003`: OnePlus 3 Global
 
-**OnePlus 3T (`oneplus3`):**
+**OnePlus 3T (`oneplus3t`):**
 
 `ONEPLUS A3000`: OnePlus 3T North America
 
@@ -65,9 +65,9 @@
 
 `GM1901`: OnePlus 7 India
 
-`GM1903`: OnePlus 7 EU
+`GM1903`: OnePlus 7 EU / Global
 
-`GM1905`: OnePlus 7 Global
+`GM1905`: OnePlus 7 NA
 
 **OnePlus 7 Pro (`guacamole`):**
 
@@ -75,15 +75,19 @@
 
 `GM1911`: OnePlus 7 Pro India
 
-`GM1913`: OnePlus 7 Pro EU
+`GM1913`: OnePlus 7 Pro Global
  
-`GM1915`: OnePlus 7 Pro T-Mobile
+`GM1915`: OnePlus 7 Pro EU
 
-`GM1917`: OnePlus 7 Pro Global / North America
+**OnePlus 7 Pro (`guacamolet`):**
 
-**OnePlus 7 Pro 5G (`guacamoles`):**
+`GM1917`: OnePlus 7 Pro North America / T-Mobile
+
+**OnePlus 7 Pro 5G (`guacamoleg`):**
 
 `GM1920`: OnePlus 7 Pro 5G EU
+
+**OnePlus 7 Pro 5G (`guacamoles`):**
 
 `GM1925`: OnePlus 7 Pro 5G Sprint
 
@@ -96,6 +100,8 @@
 `HD1903`: OnePlus 7T EU / Global
 
 `HD1905`: OnePlus 7T North America
+
+**OnePlus 7T (`hotdogt`):**
 
 `HD1907`: OnePlus 7T T-Mobile
 
@@ -121,9 +127,13 @@
 
 `IN2015`: OnePlus 8 North America
 
+**OnePlus 8 (`instantnoodlet`):**
+
 `IN2017`: OnePlus 8 T-Mobile
 
-`IN2019`: OnePlus 8 5G UW
+**OnePlus 8 (`instantnoodlev`):**
+
+`IN2019`: OnePlus 8 5G UW (Verzion)
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -145,7 +155,47 @@
 
 `KB2005`: OnePlus 8T North America
 
+**OnePlus 8T (`kebabt`):**
+
 `KB2007`: OnePlus 8T T-Mobile
+
+**OnePlus 9R:**
+
+`LE2100`: OnePlus 9R China
+
+`LE2101`: OnePlus 9R India
+
+**OnePlus 9 (`lemonade`):**
+
+`LE2110`: OnePlus 9 China
+
+`LE2111`: OnePlus 9 India
+
+`LE2113`: OnePlus 9 EU / Global
+
+`LE2115`: OnePlus 9 North America
+
+**OnePlus 9 (`lemonadet`):**
+
+`LE2117`: OnePlus 9 T-Mobile
+
+**OnePlus 9 (`lemonadev`):**
+
+`LE2119`: OnePlus 9 Verzion
+
+**OnePlus 9 Pro (`lemonadep`):**
+
+`LE2120`: OnePlus 9 Pro China
+
+`LE2121`: OnePlus 9 Pro India
+
+`LE2123`: OnePlus 9 Pro EU / Global
+
+`LE2125`: OnePlus 9 Pro North America
+
+**OnePlus 9 Pro (`lemonadept`):**
+
+`LE2127`: OnePlus 9 Pro T-Mobile
 
 **OnePlus Nord (`avicii`):**
 
@@ -153,22 +203,26 @@
 
 `AC2003`: OnePlus Nord EU / Global
 
-**OnePlus Nord N10 (`billie8t`):**
+**OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro
 
 `BE2026`: OnePlus Nord N10 North America
 
-`BE2028`: OnePlus Nord N10 T-Mobile
-
 `BE2029`: OnePlus Nord N10 Global
 
-**OnePlus Nord N100 (`billie2t`):**
+**OnePlus Nord N10 (`billie8t`):**
+
+`BE2028`: OnePlus Nord N10 T-Mobile
+
+**OnePlus Nord N100 (`billie2`):**
 
 `BE2011`: OnePlus Nord N100 North America
-
-`BE2012`: OnePlus Nord N100 T-Mobile
 
 `BE2013`: OnePlus Nord N100 Global
 
 `BE2015`: OnePlus Nord N100 Metro
+
+**OnePlus Nord N100 (`billie2t`):**
+
+`BE2012`: OnePlus Nord N100 T-Mobile

@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2021-03-29
+- `oneplus_en` OnePlus 9 series have been added (9R's codename needs update).
 - `realme_en` Realme GT Neo has been added.
 ## 2021-03-25
 - `realme_en` Realme 8 series have been added.
@@ -16,7 +17,7 @@
 - `meizu_en` MEIZU 18 and MEIZU 18 Pro have been added.
 - `realme_en` Realme GT (China) has been added.
 ## 2021-02-26
-- `xiaomi_en` Update Redmi 9T's info (regional info still needs update).
+- `xiaomi_en` Update Redmi 9T's info.
 ## 2021-02-25
 - `xiaomi_en` Redmi K40 series have been added.
 ## 2021-02-24
