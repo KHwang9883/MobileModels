@@ -239,6 +239,40 @@
 
 `M2011K2C`: Mi 11 China
 
+**[`K1A`] Mi 11 Pro (`mars`):**
+
+`M2102K1AC`: Mi 11 Pro China
+
+**[`K1`] Mi 11 Ultra (`star`):**
+
+`M2102K1C`: Mi 11 Ultra China
+
+`M2102K1G`: Mi 11 Ultra Global
+
+**[`K9`] Mi 11 Lite 5G (`renoir`):**
+
+`M2101K9C`: Mi 11 Lite 5G China
+
+`M2101K9G`: Mi 11 Lite 5G Global
+
+**[`K9A`] Mi 11 Lite (`courbet`):**
+
+`M2101K9AG`: Mi 11 Lite 4G Global
+
+`M2101K9AI`: Mi 11 Lite 4G India
+
+**[`K11`] Mi 11i (`haydn`):**
+
+`M2012K11G`: Mi 11i Global
+
+**[`K11A`] Mi 11X (`aliothin`):**
+
+`M2012K11AI`: Mi 11X India
+
+**[`K11`] Mi 11X Pro (`haydnin`):**
+
+`M2012K11I`: Mi 11X Pro India
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -671,7 +705,7 @@
 
 **[`J19S`] Redmi 9T (`lemon`):**
 
-`M2010J19SY`: Redmi 9T Global
+`M2010J19SY`: Redmi 9T Global (NFC)
 
 `M2010J19SL`: Redmi 9T Brazil
 
@@ -861,6 +895,8 @@
 
 `M2007J22R`: Redmi Note 9T 5G Japan
 
+`A001XM`: Redmi Note 9T 5G SoftBank
+
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
 `M2003J6A1G`: Redmi Note 9S Global
@@ -1032,10 +1068,6 @@
 **[`K11A`] POCO F3 (`alioth`):**
 
 `M2012K11AG`: POCO F3 Global
-
-**[`K11`] POCO F3 Pro (`haydn`):**
-
-`M2012K11G`: POCO F3 Pro Global
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 

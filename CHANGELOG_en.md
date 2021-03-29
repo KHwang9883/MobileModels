@@ -2,6 +2,7 @@
 ## 2021-03-29
 - `oneplus_en` OnePlus 9 series have been added (9R's codename needs update).
 - `realme_en` Realme GT Neo has been added.
+- `xiaomi_en` Xiaomi Mi 11 series have been added.
 ## 2021-03-25
 - `realme_en` Realme 8 series have been added.
 ## 2021-03-23
