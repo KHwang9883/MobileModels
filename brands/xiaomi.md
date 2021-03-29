@@ -242,6 +242,40 @@
 
 `M2011K2G`: 小米 11 国际版
 
+**[`K1A`] 小米 11 Pro (`mars`):**
+
+`M2102K1AC`: 小米 11 Pro 全网通版
+
+**[`K1`] 小米 11 Ultra (`star`):**
+
+`M2102K1C`: 小米 11 Ultra 全网通版
+
+`M2102K1G`: 小米 11 Ultra 国际版
+
+**[`K9`] 小米 11 青春版 (`renoir`):**
+
+`M2101K9C`: 小米 11 青春版 全网通版
+
+`M2101K9G`: 小米 11 Lite 5G 国际版
+
+**[`K9A`] 小米 11 Lite (`courbet`):**
+
+`M2101K9AG`: 小米 11 Lite 4G 国际版
+
+`M2101K9AI`: 小米 11 Lite 4G 印度版
+
+**[`K11`] 小米 11i (`haydn`):**
+
+`M2012K11G`: 小米 11i 国际版
+
+**[`K11A`] 小米 11X (`aliothin`):**
+
+`M2012K11AI`: 小米 11X 印度版
+
+**[`K11`] 小米 11X Pro (`haydnin`):**
+
+`M2012K11I`: 小米 11X Pro 印度版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -694,7 +728,7 @@
 
 **[`J19S`] Redmi 9T (`lemon`):**
 
-`M2010J19SY`: Redmi 9T 国际版
+`M2010J19SY`: Redmi 9T 国际版 (NFC)
 
 `M2010J19SL`: Redmi 9T 巴西版
 
@@ -892,6 +926,8 @@
 
 `M2007J22R`: Redmi Note 9T 5G 日本版
 
+`A001XM`: Redmi Note 9T 5G SoftBank 版
+
 **[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
 `M2007J17C`: Redmi Note 9 Pro 5G 全网通版
@@ -1069,10 +1105,6 @@
 **[`K11A`] POCO F3 (`alioth`):**
 
 `M2012K11AG`: POCO F3 国际版
-
-**[`K11`] POCO F3 Pro (`haydn`):**
-
-`M2012K11G`: POCO F3 Pro 国际版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 

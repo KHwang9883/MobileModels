@@ -2,6 +2,7 @@
 ## 2021-03-29
 - `oneplus` 新增 OnePlus 9 系列（9R 代号待补充）。
 - `realme` 新增 realme GT Neo。
+- `xiaomi` 新增小米 11 系列新品。
 ## 2021-03-25
 - `realme` 新增 realme 8 系列印度版。
 ## 2021-03-23
