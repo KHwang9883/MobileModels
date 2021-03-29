@@ -36,7 +36,7 @@
 
 `ONEPLUS A3003`: OnePlus 3 国际版
 
-**OnePlus 3T (`oneplus3`):**
+**OnePlus 3T (`oneplus3t`):**
 
 `ONEPLUS A3010`: OnePlus 3T 全网通版
 
@@ -70,9 +70,9 @@
 
 `GM1901`: OnePlus 7 印度版
 
-`GM1903`: OnePlus 7 欧洲版 
+`GM1903`: OnePlus 7 欧洲/国际版 
 
-`GM1905`: OnePlus 7 国际版
+`GM1905`: OnePlus 7 北美版
 
 **OnePlus 7 Pro (`guacamole`):**
 
@@ -80,15 +80,19 @@
 
 `GM1911`: OnePlus 7 Pro 印度版
 
-`GM1913`: OnePlus 7 Pro 欧洲版
- 
-`GM1915`: OnePlus 7 Pro T-Mobile 版
+`GM1913`: OnePlus 7 Pro 国际版
 
-`GM1917`: OnePlus 7 Pro 国际/北美版
+`GM1915`: OnePlus 7 Pro 欧洲版
 
-**OnePlus 7 Pro 5G (`guacamoles`):**
+**OnePlus 7 Pro (`guacamolet`):**
+
+`GM1917`: OnePlus 7 Pro 北美/T-Mobile 版
+
+**OnePlus 7 Pro 5G (`guacamoleg`):**
 
 `GM1920`: OnePlus 7 Pro 5G 欧洲版
+
+**OnePlus 7 Pro 5G (`guacamoles`):**
 
 `GM1925`: OnePlus 7 Pro 5G Sprint 版
 
@@ -101,6 +105,8 @@
 `HD1903`: OnePlus 7T 欧洲/国际版
 
 `HD1905`: OnePlus 7T 北美版
+
+**OnePlus 7T (`hotdogt`):**
 
 `HD1907`: OnePlus 7T T-Mobile 版
 
@@ -126,9 +132,13 @@
 
 `IN2015`: OnePlus 8 北美版
 
+**OnePlus 8 (`instantnoodlet`):**
+
 `IN2017`: OnePlus 8 T-Mobile 版
 
-`IN2019`: OnePlus 8 5G UW
+**OnePlus 8 (`instantnoodlev`):**
+
+`IN2019`: OnePlus 8 5G UW (Verzion)
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -150,7 +160,47 @@
 
 `KB2005`: OnePlus 8T 北美版
 
+**OnePlus 8T (`kebabt`):**
+
 `KB2007`: OnePlus 8T T-Mobile 版
+
+**OnePlus 9R:**
+
+`LE2100`: OnePlus 9R 全网通版
+
+`LE2101`: OnePlus 9R 印度版
+
+**OnePlus 9 (`lemonade`):**
+
+`LE2110`: OnePlus 9 全网通版
+
+`LE2111`: OnePlus 9 印度版
+
+`LE2113`: OnePlus 9 欧洲/国际版
+
+`LE2115`: OnePlus 9 北美版
+
+**OnePlus 9 (`lemonadet`):**
+
+`LE2117`: OnePlus 9 T-Mobile 版
+
+**OnePlus 9 (`lemonadev`):**
+
+`LE2119`: OnePlus 9 Verzion 版
+
+**OnePlus 9 Pro (`lemonadep`):**
+
+`LE2120`: OnePlus 9 Pro 全网通版
+
+`LE2121`: OnePlus 9 Pro 印度版
+
+`LE2123`: OnePlus 9 Pro 欧洲/国际版
+
+`LE2125`: OnePlus 9 Pro 北美版
+
+**OnePlus 9 Pro (`lemonadept`):**
+
+`LE2127`: OnePlus 9 Pro T-Mobile 版
 
 **OnePlus Nord (`avicii`):**
 
@@ -158,22 +208,26 @@
 
 `AC2003`: OnePlus Nord 欧洲/国际版
 
-**OnePlus Nord N10 (`billie8t`):**
+**OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro 版
 
 `BE2026`: OnePlus Nord N10 北美版
 
-`BE2028`: OnePlus Nord N10 T-Mobile 版
-
 `BE2029`: OnePlus Nord N10 国际版
 
-**OnePlus Nord N100 (`billie2t`):**
+**OnePlus Nord N10 (`billie8t`):**
+
+`BE2028`: OnePlus Nord N10 T-Mobile 版
+
+**OnePlus Nord N100 (`billie2`):**
 
 `BE2011`: OnePlus Nord N100 北美版
-
-`BE2012`: OnePlus Nord N100 T-Mobile 版
 
 `BE2013`: OnePlus Nord N100 国际版
 
 `BE2015`: OnePlus Nord N100 Metro 版
+
+**OnePlus Nord N100 (`billie2t`):**
+
+`BE2012`: OnePlus Nord N100 T-Mobile 版

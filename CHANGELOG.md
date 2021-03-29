@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-03-29
+- `oneplus` 新增 OnePlus 9 系列（9R 代号待补充）。
 - `realme` 新增 realme GT Neo。
 ## 2021-03-25
 - `realme` 新增 realme 8 系列印度版。
