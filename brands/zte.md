@@ -48,6 +48,18 @@
 
 `ZTE A2121`: 中兴天机 Axon 20 5G
 
+**中兴 S30:**
+
+`ZTE 9030N`: 中兴 S30
+
+**中兴 S30 Pro:**
+
+`ZTE A2122H`: 中兴 S30 Pro
+
+**中兴 S30 SE:**
+
+`ZTE 8030N`: 中兴 S30 SE
+
 **中兴 Blade A2 Plus:**
 
 `ZTE BV0730`: 中兴 Blade A2 Plus

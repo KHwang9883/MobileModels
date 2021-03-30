@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-03-30
+- `zte` 新增中兴 S30 系列。
 ## 2021-03-29
 - `oneplus` 新增 OnePlus 9 系列（9R 代号待补充）。
 - `realme` 新增 realme GT Neo。
