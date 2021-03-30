@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-03-30
+- `xiaomi_en` India varient POCO X3 Pro and Mi MIX Fold has been added.
 ## 2021-03-29
 - `oneplus_en` OnePlus 9 series have been added (9R's codename needs update).
 - `realme_en` Realme GT Neo has been added.

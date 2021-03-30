@@ -345,6 +345,10 @@
 
 `M1810E5GG`: Mi MIX 3 5G
 
+**[`J18`] Mi MIX Fold (`cetus`):**
+
+`M2011J18C`: Mi MIX Fold China
+
 **[`B3`] Mi Max (`hydrogen`):**
 
 `2016002`: Mi Max Global
@@ -1086,6 +1090,10 @@
 **[`J20S`] POCO X3 Pro (`vayu`):**
 
 `M2102J20SG`: POCO X3 Pro Global
+
+**[`J20S`] POCO X3 Pro (`bhima`):**
+
+`M2102J20SI`: POCO X3 Pro India
 
 **[`J19P`] POCO M2 (`shiva`):**
 
