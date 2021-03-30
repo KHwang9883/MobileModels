@@ -345,9 +345,9 @@
 
 `M1810E5GG`: Mi MIX 3 5G
 
-**[`J18`] Mi MIX Fold (`cetus`):**
+**[`J18`] MIX Fold (`cetus`):**
 
-`M2011J18C`: Mi MIX Fold China
+`M2011J18C`: MIX FOLD China
 
 **[`B3`] Mi Max (`hydrogen`):**
 
