@@ -356,9 +356,9 @@
 
 `M1810E5GG`: 小米 MIX 3 5G
 
-**[`J18`] 小米 MIX Fold (`cetus`):**
+**[`J18`] MIX FOLD (`cetus`):**
 
-`M2011J18C`: 小米 MIX Fold
+`M2011J18C`: MIX FOLD
 
 ## 小米 Max 系列
 
