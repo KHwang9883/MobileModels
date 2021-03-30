@@ -356,6 +356,10 @@
 
 `M1810E5GG`: 小米 MIX 3 5G
 
+**[`J18`] 小米 MIX Fold (`cetus`):**
+
+`M2011J18C`: 小米 MIX Fold
+
 ## 小米 Max 系列
 
 **[`B3`] 小米 Max (`hydrogen`):**
@@ -1123,6 +1127,10 @@
 **[`J20S`] POCO X3 Pro (`vayu`):**
 
 `M2102J20SG`: POCO X3 Pro 国际版
+
+**[`J20S`] POCO X3 Pro (`bhima`):**
+
+`M2102J20SI`: POCO X3 Pro 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
 
