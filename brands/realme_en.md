@@ -245,6 +245,8 @@
 
 `RMX2071`: realme X50 Pro 5G
 
+**realme X50 Pro Play:**
+
 `RMX2072`: realme X50 Pro Play
 
 **realme X50m:**
@@ -282,6 +284,12 @@
 `RMX3121`: realme V11 5G China
 
 `RMX3122`: realme V11 5G China Mobile
+
+**realme V13:**
+
+`RMX3141`: realme V13 5G China
+
+`RMX3142`: realme V13 5G China Mobile
 
 **realme V15:**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-03-31
+- `realme_en` Realme V13 (China) has been added.
 ## 2021-03-30
 - `xiaomi_en` India varient POCO X3 Pro and MIX FOLD has been added.
 ## 2021-03-29
