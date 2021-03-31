@@ -22,87 +22,95 @@
 
 `RMX1931`: realme X2 Pro
 
-**realme X50:**
+**realme 真我 X50:**
 
-`RMX2051`: realme X50 5G 全网通版
+`RMX2051`: realme 真我 X50 5G 全网通版
 
-`RMX2025`: realme X50 5G 移动版
+`RMX2025`: realme 真我 X50 5G 移动版
 
-**realme X50 Pro:**
+**realme 真我 X50 Pro:**
 
-`RMX2071`: realme X50 Pro 5G
+`RMX2071`: realme 真我 X50 Pro 5G
 
-`RMX2072`: realme X50 Pro 玩家版
+**realme 真我 X50 Pro 玩家版:**
 
-**realme X50m:**
+`RMX2072`: realme 真我 X50 Pro 玩家版
 
-`RMX2141` `RMX2142`: realme X50m 5G
+**realme 真我 X50m:**
 
-**realme X50t:**
+`RMX2141` `RMX2142`: realme 真我 X50m 5G
 
-`RMX2052`: realme X50t 5G
+**realme 真我 X50t:**
 
-**realme X7:**
+`RMX2052`: realme 真我 X50t 5G
 
-`RMX2176`: realme X7 5G
+**realme 真我 X7:**
 
-**realme X7 Pro:**
+`RMX2176`: realme 真我 X7 5G
 
-`RMX2121`: realme X7 Pro 5G
+**realme 真我 X7 Pro:**
+
+`RMX2121`: realme 真我 X7 Pro 5G
 
 ## V 系列
 
-**realme V3:**
+**realme 真我 V3:**
 
-`RMX2200`: realme V3 5G 全网通版
+`RMX2200`: realme 真我 V3 5G 全网通版
 
-`RMX2201`: realme V3 5G 移动版
+`RMX2201`: realme 真我 V3 5G 移动版
 
-**realme V5:**
+**realme 真我 V5:**
 
-`RMX2111`: realme V5 5G 全网通版
+`RMX2111`: realme 真我 V5 5G 全网通版
 
-`RMX2112`: realme V5 5G 移动版
+`RMX2112`: realme 真我 V5 5G 移动版
 
-**realme V11:**
+**realme 真我 V11:**
 
-`RMX3121`: realme V11 5G 全网通版
+`RMX3121`: realme 真我 V11 5G 全网通版
 
-`RMX3122`: realme V11 5G 移动版
+`RMX3122`: realme 真我 V11 5G 移动版
 
-**realme V15:**
+**realme 真我 V13:**
 
-`RMX3092`: realme V15 5G 全网通版
+`RMX3141`: realme 真我 V13 5G 全网通版
 
-`RMX3093`: realme V15 5G 移动版
+`RMX3142`: realme 真我 V13 5G 移动版
+
+**realme 真我 V15:**
+
+`RMX3092`: realme 真我 V15 5G 全网通版
+
+`RMX3093`: realme 真我 V15 5G 移动版
 
 ## Q 系列
 
-**realme Q:**
+**realme 真我 Q:**
 
-`RMX1971`: realme Q
+`RMX1971`: realme 真我 Q
 
-**realme Q2:**
+**realme 真我 Q2:**
 
-`RMX2117`: realme Q2 5G
+`RMX2117`: realme 真我 Q2 5G
 
-**realme Q2 Pro:**
+**realme 真我 Q2 Pro:**
 
-`RMX2173`: realme Q2 Pro 5G
+`RMX2173`: realme 真我 Q2 Pro 5G
 
-**realme Q2i:**
+**realme 真我 Q2i:**
 
-`RMX2200`: realme Q2i 5G
+`RMX2200`: realme 真我 Q2i 5G
 
 ## GT 系列
 
-**realme GT:**
+**realme 真我 GT:**
 
-`RMX2202`: realme GT 5G
+`RMX2202`: realme 真我 GT 5G
 
-**realme GT Neo:**
+**realme 真我 GT Neo:**
 
-`RMX3031`: realme GT Neo 5G
+`RMX3031`: realme 真我 GT Neo 5G
 
 ## 数字系列 (海外)
 

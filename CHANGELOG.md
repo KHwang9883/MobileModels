@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-03-31
+- `realme` 新增 realme 真我 V13。
 ## 2021-03-30
 - `xiaomi` 新增 MIX FOLD、POCO X3 Pro 印度版。
 - `zte` 新增中兴 S30 系列。
