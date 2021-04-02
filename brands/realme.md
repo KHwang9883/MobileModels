@@ -80,9 +80,9 @@
 
 **realme 真我 V13:**
 
-`RMX3141`: realme 真我 V13 5G 全网通版
+`RMX3041`: realme 真我 V13 5G 全网通版
 
-`RMX3142`: realme 真我 V13 5G 移动版
+`RMX3042`: realme 真我 V13 5G 移动版
 
 **realme 真我 V15:**
 
