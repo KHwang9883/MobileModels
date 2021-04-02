@@ -70,6 +70,10 @@
 
 `V2046A`: vivo X60 5G 全网通版
 
+**vivo X60t (`PD2085`):**
+
+`V2085A`: vivo X60t 5G 全网通版
+
 **vivo X60 Pro (`PD2047`):**
 
 `V2047A`: vivo X60 Pro 5G 全网通版
