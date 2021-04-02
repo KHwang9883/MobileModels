@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-04-02
+- `realme` 新增 realme 真我 X7 Pro 至尊版。
 - `vivo` 新增 vivo X60t。
 ## 2021-03-31
 - `realme` 新增 realme 真我 V13。

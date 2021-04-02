@@ -52,6 +52,12 @@
 
 `RMX2121`: realme 真我 X7 Pro 5G
 
+**realme 真我 X7 Pro 至尊版:**
+
+`RMX3115`: realme 真我 X7 Pro 至尊版 5G 全网通版
+
+`RMX3116`: realme 真我 X7 Pro 至尊版 5G 移动版
+
 ## V 系列
 
 **realme 真我 V3:**
