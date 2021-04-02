@@ -265,6 +265,12 @@
 
 `RMX2121`: realme X7 Pro
 
+**realme X7 Pro Premium Edition:**
+
+`RMX3115`: realme X7 Pro Premium Edition 5G China
+
+`RMX3116`: realme X7 Pro Premium Edition 5G China Mobile
+
 ## V series (China)
 
 **realme V3:**

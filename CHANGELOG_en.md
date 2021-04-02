@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-04-02
+- `realme_en` Realme X7 Pro Premium Edition (China) has been added.
 ## 2021-03-31
 - `realme_en` Realme V13 (China) has been added.
 ## 2021-03-30
