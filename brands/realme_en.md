@@ -293,9 +293,9 @@
 
 **realme V13:**
 
-`RMX3141`: realme V13 5G China
+`RMX3041`: realme V13 5G China
 
-`RMX3142`: realme V13 5G China Mobile
+`RMX3042`: realme V13 5G China Mobile
 
 **realme V15:**
 
