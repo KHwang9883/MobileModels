@@ -177,6 +177,18 @@
 
 `RMX2101`: realme C17
 
+**realme C20:**
+
+`RMX3063`: realme C20
+
+**realme C21:**
+
+`RMX3201`: realme C21
+
+**realme C25:**
+
+`RMX3193`: realme C25
+
 ## U series
 
 **realme U1:**

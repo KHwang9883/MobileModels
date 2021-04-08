@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-04-09
+- `realme_en` Realme C20, C21 & C25 (India) has been added.
 ## 2021-04-02
 - `realme_en` Realme X7 Pro Premium Edition (China) has been added.
 ## 2021-03-31
