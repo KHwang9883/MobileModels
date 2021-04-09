@@ -734,6 +734,8 @@
 
 `M2010J19SY`: Redmi 9T 国际版 (NFC)
 
+**[`J19S`] Redmi 9T (`pomelo`):**
+
 `M2010J19SL`: Redmi 9T 巴西版
 
 ## 红米 / Redmi Note 系列
@@ -930,7 +932,7 @@
 
 `M2007J22R`: Redmi Note 9T 5G 日本版
 
-`A001XM`: Redmi Note 9T 5G SoftBank 版
+`A001XM`: Redmi Note 9T 5G 日本版 (SoftBank)
 
 **[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
