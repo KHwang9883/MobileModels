@@ -245,15 +245,15 @@
 
 **[`K1`] Mi 11 Ultra (`star`):**
 
-`M2102K1C`: Mi 11 Ultra China
-
 `M2102K1G`: Mi 11 Ultra Global
+
+`M2102K1C`: Mi 11 Ultra China
 
 **[`K9`] Mi 11 Lite 5G (`renoir`):**
 
-`M2101K9C`: Mi 11 Lite 5G China
-
 `M2101K9G`: Mi 11 Lite 5G Global
+
+`M2101K9C`: Mi 11 Lite 5G China
 
 **[`K9A`] Mi 11 Lite (`courbet`):**
 
@@ -711,6 +711,8 @@
 
 `M2010J19SY`: Redmi 9T Global (NFC)
 
+**[`J19S`] Redmi 9T (`pomelo`):**
+
 `M2010J19SL`: Redmi 9T Brazil
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
@@ -899,7 +901,7 @@
 
 `M2007J22R`: Redmi Note 9T 5G Japan
 
-`A001XM`: Redmi Note 9T 5G SoftBank
+`A001XM`: Redmi Note 9T 5G Japan (SoftBank)
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
