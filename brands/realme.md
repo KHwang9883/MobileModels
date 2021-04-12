@@ -38,7 +38,9 @@
 
 **realme 真我 X50m:**
 
-`RMX2141` `RMX2142`: realme 真我 X50m 5G
+`RMX2141`: realme 真我 X50m 5G
+
+`RMX2142`: realme 真我 X50m 5G 运营商定制版
 
 **realme 真我 X50t:**
 
@@ -56,7 +58,7 @@
 
 `RMX3115`: realme 真我 X7 Pro 至尊版 5G 全网通版
 
-`RMX3116`: realme 真我 X7 Pro 至尊版 5G 移动版
+`RMX3116`: realme 真我 X7 Pro 至尊版 5G 运营商定制版
 
 ## V 系列
 
@@ -64,31 +66,31 @@
 
 `RMX2200`: realme 真我 V3 5G 全网通版
 
-`RMX2201`: realme 真我 V3 5G 移动版
+`RMX2201`: realme 真我 V3 5G 运营商定制版
 
 **realme 真我 V5:**
 
 `RMX2111`: realme 真我 V5 5G 全网通版
 
-`RMX2112`: realme 真我 V5 5G 移动版
+`RMX2112`: realme 真我 V5 5G 运营商定制版
 
 **realme 真我 V11:**
 
 `RMX3121`: realme 真我 V11 5G 全网通版
 
-`RMX3122`: realme 真我 V11 5G 移动版
+`RMX3122`: realme 真我 V11 5G 运营商定制版
 
 **realme 真我 V13:**
 
 `RMX3041`: realme 真我 V13 5G 全网通版
 
-`RMX3042`: realme 真我 V13 5G 移动版
+`RMX3042` `RMX3043`: realme 真我 V13 5G 运营商定制版
 
 **realme 真我 V15:**
 
 `RMX3092`: realme 真我 V15 5G 全网通版
 
-`RMX3093`: realme 真我 V15 5G 移动版
+`RMX3093`: realme 真我 V15 5G 运营商定制版
 
 ## Q 系列
 
