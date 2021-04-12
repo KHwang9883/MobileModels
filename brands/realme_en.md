@@ -263,7 +263,9 @@
 
 **realme X50m:**
 
-`RMX2141` `RMX2142`: realme X50m 5G
+`RMX2141`: realme X50m 5G China
+
+`RMX2142`: realme X50m 5G Carrier version
 
 **realme X50t:**
 
@@ -281,7 +283,7 @@
 
 `RMX3115`: realme X7 Pro Premium Edition 5G China
 
-`RMX3116`: realme X7 Pro Premium Edition 5G China Mobile
+`RMX3116`: realme X7 Pro Premium Edition 5G Carrier version
 
 ## V series (China)
 
@@ -289,31 +291,31 @@
 
 `RMX2200`: realme V3 5G China
 
-`RMX2201`: realme V3 5G China Mobile
+`RMX2201`: realme V3 5G Carrier version
 
 **realme V5:**
 
 `RMX2111`: realme V5 5G China
 
-`RMX2112`: realme V5 5G China Mobile
+`RMX2112`: realme V5 5G Carrier version
 
 **realme V11:**
 
 `RMX3121`: realme V11 5G China
 
-`RMX3122`: realme V11 5G China Mobile
+`RMX3122`: realme V11 5G Carrier version
 
 **realme V13:**
 
 `RMX3041`: realme V13 5G China
 
-`RMX3042`: realme V13 5G China Mobile
+`RMX3042` `RMX3043`: realme V13 5G Carrier version
 
 **realme V15:**
 
 `RMX3092`: realme V15 5G China
 
-`RMX3093`: realme V15 5G China Mobile
+`RMX3093`: realme V15 5G Carrier version
 
 ## Q series (China)
 
