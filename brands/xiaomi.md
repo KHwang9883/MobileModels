@@ -968,9 +968,17 @@
 
 `M2101K7BN` `M2101K7BNY`: Redmi Note 10S 国际版 (NFC)
 
+**[`K7B`] Redmi Note 10S (`maltose`):**
+
+`M2101K7BL`: Redmi Note 10S 巴西版
+
 **[`K19`] Redmi Note 10 5G (`camellia`):**
 
-`M2103K19Y`: Redmi Note 10 5G 国际版
+`M2103K19G`: Redmi Note 10 5G 国际版
+
+**[`K19`] Redmi Note 10 5G (`camellian`):**
+
+`M2103K19Y`: Redmi Note 10 5G 国际版 (NFC)
 
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
