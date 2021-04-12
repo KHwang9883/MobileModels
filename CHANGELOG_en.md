@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2021-04-12
-- `realme_en` Fix some Chinese device varient names. 
+- `realme_en` Fix some Chinese device variant names.
+- `xiaomi_en` Add few variants for Redmi Note 10 series.
 ## 2021-04-09
 - `realme_en` Realme C20, C21 & C25 (India) has been added.
 ## 2021-04-02
@@ -8,7 +9,7 @@
 ## 2021-03-31
 - `realme_en` Realme V13 (China) has been added.
 ## 2021-03-30
-- `xiaomi_en` India varient POCO X3 Pro and MIX FOLD has been added.
+- `xiaomi_en` India variant POCO X3 Pro and MIX FOLD has been added.
 ## 2021-03-29
 - `oneplus_en` OnePlus 9 series have been added (9R's codename needs update).
 - `realme_en` Realme GT Neo has been added.
@@ -109,7 +110,7 @@
 ## 2020-07-29
 - `oneplus_en` Updated codename for OnePlus Nord.
 ## 2020-07-28
-- `xiaomi_en` Added Chinese varient of Redmi 9A and Black Shark 3S.
+- `xiaomi_en` Added Chinese variant of Redmi 9A and Black Shark 3S.
 ## 2020-07-24
 - `xiaomi_en` Fixed regional infomation for Mi 10 Lite.
 ## 2020-07-22
@@ -154,11 +155,11 @@
 - `oneplus_en` Updated codenames of OnePlus 8 series.
 - `xiaomi_en` Added some international models, updated info for Mi 10 Lite Zoom.
 ## 2020-05-06
-- `xiaomi_en` Added Redmi Note 9 NFC varient.
+- `xiaomi_en` Added Redmi Note 9 NFC variant.
 ## 2020-05-01
 - `xiaomi_en` Added Mi Note 10 Lite & Redmi Note 9 series.
 ## 2020-04-27
-- `xiaomi_en` Added Chinese varient of Mi 10 Lite and the Indian varient of Redmi K30 Pro.
+- `xiaomi_en` Added Chinese variant of Mi 10 Lite and the Indian variant of Redmi K30 Pro.
 ## 2020-04-23
 - `realme_en` Added realme X50m.
 ## 2020-04-20
@@ -192,7 +193,7 @@
 ## 2020-03-03
 - `xiaomi_en` Added Black Shark 3 series.
 ## 2020-02-24
-- `realme_en` Added Chinese varient of realme X50 Pro.
+- `realme_en` Added Chinese variant of realme X50 Pro.
 ## 2020-02-13
 - `xiaomi_en` Added Xiaomi Mi 10 series.
 ## 2020-02-12
@@ -209,9 +210,9 @@
 ## 2020-02-04
 - `xiaomi_en` Added POCO X2.
 ## 2020-01-16
-- `xiaomi_en` Added global varient of Black Shark phones.
+- `xiaomi_en` Added global variant of Black Shark phones.
 ## 2020-01-14
-- `realme_en` Added Indian varient of realme X2.
+- `realme_en` Added Indian variant of realme X2.
 ## 2020-01-07
 - `realme_en` Added realme X50 & realme 5i.
 ## 2019-12-29
@@ -257,12 +258,12 @@
 ## 2019-09-20
 - `apple_en` Added products released in September 2019 event.
 ## 2019-09-17
-- `xiaomi_en` Added Indian varient of Redmi Note 8 Pro.
+- `xiaomi_en` Added Indian variant of Redmi Note 8 Pro.
 ## 2019-09-16
-- `xiaomi_en` Global varient of Mi 9 Lite has been added.
+- `xiaomi_en` Global variant of Mi 9 Lite has been added.
 - `xiaomi_en` Redmi Note 8's codename has been added.
 ## 2019-09-04
-- `xiaomi_en` Added Indian varient of Redmi Note 8.
+- `xiaomi_en` Added Indian variant of Redmi Note 8.
 ## 2019-09-02
 - `xiaomi_en` Updated Redmi Note 8 Pro's codename.
 ## 2019-08-29
@@ -270,13 +271,13 @@
 ## 2019-08-13
 - `meizu_en` Added Meizu 16s Pro.
 ## 2019-07-27
-- `xiaomi_en` Added Indian varient of Mi A3.
+- `xiaomi_en` Added Indian variant of Mi A3.
 ## 2019-07-19
 - `xiaomi_en` Added Black Shark 2 Pro.
 ## 2019-07-17
 - `xiaomi_en` Added Mi A3.
 ## 2019-07-16
-- `oneplus_en` Added Chinese varient of OnePlus 7 Pro 5G.
+- `oneplus_en` Added Chinese variant of OnePlus 7 Pro 5G.
 ## 2019-07-04
 - `xiaomi_en` Updated Mi CC Series' codenames.
 ## 2019-07-03
