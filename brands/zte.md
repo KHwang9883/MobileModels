@@ -48,17 +48,25 @@
 
 `ZTE A2121`: 中兴天机 Axon 20 5G
 
+**中兴 Axon 30 Pro:**
+
+`ZTE A2022`: 中兴 Axon 30 Pro 5G
+
+**中兴 Axon 30 Ultra:**
+
+`ZTE A2022P`: 中兴 Axon 30 Ultra 5G
+
 **中兴 S30:**
 
-`ZTE 9030N`: 中兴 S30
+`ZTE 9030N`: 中兴 S30 5G
 
 **中兴 S30 Pro:**
 
-`ZTE A2122H`: 中兴 S30 Pro
+`ZTE A2122H`: 中兴 S30 Pro 5G
 
 **中兴 S30 SE:**
 
-`ZTE 8030N`: 中兴 S30 SE
+`ZTE 8030N`: 中兴 S30 SE 5G
 
 **中兴 Blade A2 Plus:**
 
