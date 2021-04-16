@@ -159,7 +159,7 @@
 
 `KB2007`: OnePlus 8T T-Mobile
 
-**OnePlus 9R:**
+**OnePlus 9R (`lemonades`):**
 
 `LE2100`: OnePlus 9R China
 

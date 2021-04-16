@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2021-04-17
+- `oneplus_en` Update codename for OnePlus 9R.
 - `realme_en` Several international models have been added.
 ## 2021-04-16
 - `mitv_global_en` International Mi TV models have been added.
@@ -15,7 +16,7 @@
 ## 2021-03-30
 - `xiaomi_en` India variant POCO X3 Pro and MIX FOLD has been added.
 ## 2021-03-29
-- `oneplus_en` OnePlus 9 series have been added (9R's codename needs update).
+- `oneplus_en` OnePlus 9 series have been added.
 - `realme_en` Realme GT Neo has been added.
 - `xiaomi_en` Xiaomi Mi 11 series have been added.
 ## 2021-03-25
