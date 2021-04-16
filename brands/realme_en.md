@@ -77,15 +77,21 @@
 
 **realme 7i:**
 
-`RMX2103` `RMX2104`: realme 7i
+`RMX2103` `RMX2104`: realme 7i India
+
+`RMX2193`: realme 7i Global
 
 **realme 8:**
 
-`RMX3085`: realme 8 India
+`RMX3085`: realme 8
 
 **realme 8 Pro:**
 
-`RMX3081`: realme 8 Pro India
+`RMX3081`: realme 8 Pro
+
+**realme 8 5G:**
+
+`RMX3241`: realme 8 5G
 
 ## X series
 
@@ -159,15 +165,15 @@
 
 **realme C11:**
 
-`RMX2183` `RMX2185`: realme C11
+`RMX2185` `RMX2186`: realme C11
 
 **realme C12:**
 
-`RMX2189`: realme C12
+`RMX2184` `RMX2189`: realme C12
 
 **realme C15:**
 
-`RMX2180`: realme C15
+`RMX2180` `RMX2181` `RMX2183`: realme C15
 
 **realme C15 Qualcomm Edition:**
 
@@ -187,7 +193,7 @@
 
 **realme C25:**
 
-`RMX3193`: realme C25
+`RMX3191` `RMX3193`: realme C25
 
 ## U series
 
@@ -309,7 +315,7 @@
 
 `RMX3041`: realme V13 5G China
 
-`RMX3042` `RMX3043`: realme V13 5G Carrier version
+`RMX3043`: realme V13 5G Carrier version
 
 **realme V15:**
 
@@ -334,6 +340,18 @@
 **realme Q2i:**
 
 `RMX2200`: realme Q2i 5G
+
+**realme Q3:**
+
+`RMX3161`: realme Q3 5G
+
+**realme Q3 Pro:**
+
+`RMX2205`: realme Q3 Pro 5G
+
+**realme Q3i:**
+
+`RMX3042`: realme Q3i 5G
 
 ## GT series (China)
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-04-17
+- `realme_en` Several international models have been added.
 ## 2021-04-16
 - `mitv_global_en` International Mi TV models have been added.
 ## 2021-04-12
