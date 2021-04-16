@@ -1,10 +1,11 @@
 # 手机品牌型号汇总
 
 [![issues](https://img.shields.io/github/issues/KHwang9883/MobileModels?color=green)](https://github.com/KHwang9883/MobileModels/issues)
+[![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/KHwang9883/MobileModels/pulls)
 [![stars](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README_en.md)
+[![english](https://img.shields.io/badge/-English-blue.svg)](README_en.md)
 
 汇总各厂商上市的手机型号与对应的宣传名。
 
@@ -21,7 +22,7 @@
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 | [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 已停更，不包含电视产品 |
 | [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
-| [mitv](brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ⏹ | -- |
+| [mitv](brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ✅ | [国际机型单独汇总](brands/mitv_global_en.md) |
 | [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ✅ | ❌ | -- |
 | [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |

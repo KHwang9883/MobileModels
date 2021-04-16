@@ -2,9 +2,10 @@
 
 - 汇总范围: 全部小米电视/盒子
 - codename: ❌
-- 是否包含国际机型: 仅部分
+- 是否包含国际机型: ❌
+- [国际机型汇总 (英文)](brands/mitv_global_en.md)
 
-## 国内产品
+## 小米电视
 
 **小米电视:**
 
@@ -212,6 +213,22 @@
 
 `L65M5-4`: 小米电视 65 英寸 全面屏 PRO
 
+**小米电视 EA:**
+
+`L32M7-EA`: 小米电视 EA32 2022 款
+
+`L40M7-EA`: 小米电视 EA40 2022 款
+
+`L43M7-EA`: 小米电视 EA43 2022 款
+
+`L50M7-EA`: 小米电视 EA50 2022 款
+
+`L55M7-EA`: 小米电视 EA55 2022 款
+
+`L65M7-EA`: 小米电视 EA65 2022 款
+
+`L75M7-EA`: 小米电视 EA75 2022 款
+
 **小米壁画电视:**
 
 `L65M5-BH`: 小米壁画电视 65 英寸
@@ -227,6 +244,8 @@
 `L82M6-4K`: 小米电视 大师 82 英寸
 
 `L82M6-8KP`: 小米电视 大师 82 英寸 至尊纪念版
+
+## Redmi 电视
 
 **Redmi 红米电视:**
 
@@ -253,6 +272,8 @@
 `L55R6-A`: Redmi 智能电视 A55 55 英寸
 
 `L65R6-A`: Redmi 智能电视 A65 65 英寸
+
+## 电视主机与盒子
 
 **小米电视主机:**
 
@@ -287,91 +308,3 @@
 `MDZ-25-AA`: 小米盒子 4S
 
 `MDZ-26-AA`: 小米盒子 4S Pro
-
-## 印度产品
-
-**Mi TV 4A:**
-
-`L32M5-AI`: Mi LED Smart TV 4A 32
-
-`L40M5-5AIN`: Mi LED Smart TV 4A 40
-
-`L43M5-AI`: Mi LED Smart TV 4A 43
-
-`L32M5-AL`: Mi LED Smart TV 4A Pro 32
-
-`L43M5-AN`: Mi LED Smart TV 4A Pro 43
-
-`L49M5-AN`: Mi LED Smart TV 4A Pro 49
-
-`L32M6-EI`: Mi TV 4A 32 Horizon
-
-`L43M6-EI`: Mi TV 4A 43 Horizon
-
-**Mi TV 4:**
-
-`L55M5-AI`: Mi LED Smart TV 4 55
-
-`L55M5-AN`: Mi LED Smart TV 4 Pro 55
-
-**Mi TV 4C:**
-
-`L32M5-AN`: Mi LED Smart TV 4C Pro 32
-
-**Mi TV 4X:**
-
-`L43M4-4AIN`: Mi TV 4X 43
-
-`L50M5-5AIN`: Mi TV 4X 50
-
-`L55M4-4XINA`: Mi LED Smart TV 4X Pro 55
-
-`L55M5-5XIN`: Mi TV 4X 55
-
-`L65M5-5SIN`: Mi TV 4X 65
-
-**Mi QLED TV:**
-
-`L55M6-EQG`: Mi QLED TV 4K 55
-
-**Mi Box:**
-
-`MDZ-22-AB`: Mi Box 4K
-
-## 国际产品
-
-**Mi TV (印度尼西亚):**
-
-`L32M5-AN`: Mi TV 4A 32
-
-`L43M5-AN`: Mi TV 4A 43
-
-**Mi TV (俄罗斯):**
-
-`L32M5-5ARU`: Mi TV 4A 32
-
-`L43M5-5ARU`: Mi TV 4S 43
-
-`L50M5-5ARU`: Mi TV 4S 50
-
-`L55M5-5ARU`: Mi TV 4S 55
-
-**Mi TV (其他地区):**
-
-`L32M5-5ASP`: Mi TV 4A 32
-
-`L43M5-5ASP`: Mi TV 4S 43
-
-`L55M5-5ASP`: Mi TV 4S 55
-
-`L65M5-5ASP`: Mi TV 4S 65
-
-**Mi Box (国际版):**
-
-`MDZ-16-AB`: Mi Box
-
-`MDZ-22-AB`: Mi Box S
-
-**Mi TV Stick:**
-
-`MDZ-24-AA`: Mi TV Stick
