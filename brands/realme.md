@@ -84,7 +84,7 @@
 
 `RMX3041`: realme 真我 V13 5G 全网通版
 
-`RMX3042` `RMX3043`: realme 真我 V13 5G 运营商定制版
+`RMX3043`: realme 真我 V13 5G 运营商定制版
 
 **realme 真我 V15:**
 
@@ -109,6 +109,18 @@
 **realme 真我 Q2i:**
 
 `RMX2200`: realme 真我 Q2i 5G
+
+**realme 真我 Q3:**
+
+`RMX3161`: realme 真我 Q3 5G
+
+**realme 真我 Q3 Pro:**
+
+`RMX2205`: realme 真我 Q3 Pro 5G
+
+**realme 真我 Q3i:**
+
+`RMX3042`: realme 真我 Q3i 5G
 
 ## GT 系列
 
@@ -194,15 +206,21 @@
 
 **realme 7i:**
 
-`RMX2103` `RMX2104`: realme 7i
+`RMX2103` `RMX2104`: realme 7i 印度版
+
+`RMX2193`: realme 7i 国际版
 
 **realme 8:**
 
-`RMX3085`: realme 8 印度版
+`RMX3085`: realme 8
 
 **realme 8 Pro:**
 
-`RMX3081`: realme 8 Pro 印度版
+`RMX3081`: realme 8 Pro
+
+**realme 8 5G:**
+
+`RMX3241`: realme 8 5G
 
 ## X 系列 (海外)
 
@@ -276,15 +294,15 @@
 
 **realme C11:**
 
-`RMX2183` `RMX2185`: realme C11
+`RMX2185` `RMX2186`: realme C11
 
 **realme C12:**
 
-`RMX2189`: realme C12
+`RMX2184` `RMX2189`: realme C12
 
 **realme C15:**
 
-`RMX2180`: realme C15
+`RMX2180` `RMX2181` `RMX2183`: realme C15
 
 **realme C15 高通版:**
 
@@ -304,7 +322,7 @@
 
 **realme C25:**
 
-`RMX3193`: realme C25
+`RMX3191` `RMX3193`: realme C25
 
 ## U 系列 (海外)
 
