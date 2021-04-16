@@ -164,7 +164,7 @@
 
 `KB2007`: OnePlus 8T T-Mobile 版
 
-**OnePlus 9R:**
+**OnePlus 9R (`lemonades`):**
 
 `LE2100`: OnePlus 9R 全网通版
 

@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-04-17
+- `oneplus` 更新 OnePlus 9R 代号信息。
 - `realme` 增补部分国际型号，新增 realme 真我 Q3 系列。
 ## 2021-04-16
 - `mitv` 新增小米电视 EA 2022；将国际型号单独汇总。
@@ -23,7 +24,7 @@
 - `xiaomi` 新增 MIX FOLD、POCO X3 Pro 印度版。
 - `zte` 新增中兴 S30 系列。
 ## 2021-03-29
-- `oneplus` 新增 OnePlus 9 系列（9R 代号待补充）。
+- `oneplus` 新增 OnePlus 9 系列。
 - `realme` 新增 realme GT Neo。
 - `xiaomi` 新增小米 11 系列新品。
 ## 2021-03-25
