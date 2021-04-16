@@ -3,6 +3,7 @@
 - 汇总范围: 2018 年起新型号命名方式的机型
 - codename: ❌
 - 是否包含国际机型: ❌
+- [国际机型汇总 (英文)](brands/oppo_global_en.md)
 
 ## Find 系列
 
@@ -287,6 +288,10 @@
 `PEHM00`: OPPO A93 全网通版
 
 `PEHT00`: OPPO A93 移动版
+
+**OPPO A95:**
+
+`PELM00`: OPPO A95 全网通版
 
 ## K 系列
 
