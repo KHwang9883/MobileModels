@@ -9,7 +9,7 @@
 
 Collecting device names, models and internal codenames.
 
-[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and Pull Requests are welcomed if you find errors.
+[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests]((https://github.com/KHwang9883/MobileModels/pulls)) are welcomed if you find errors.
 
 Unlisted brands usually not include international models.
 
