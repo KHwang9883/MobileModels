@@ -1,14 +1,15 @@
 # Mobile Models
 
 [![issues](https://img.shields.io/github/issues/KHwang9883/MobileModels?color=green)](https://github.com/KHwang9883/MobileModels/issues)
+[![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/KHwang9883/MobileModels/pulls)
 [![stars](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![chinese](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
+[![chinese](https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-red.svg)](README.md)
 
 Collecting device names, models and internal codenames.
 
-Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues) if you find an error.
+[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and Pull Requests are welcomed if you find errors.
 
 Unlisted brands usually not include international models.
 
@@ -18,6 +19,7 @@ Unlisted brands usually not include international models.
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
 | [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
+| [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international & Indian Mi & Redmi TV models (excluding Chinese models) |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [realme_en](brands/realme_en.md) | realme | All models |
@@ -33,7 +35,7 @@ Unlisted brands usually not include international models.
 
 [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 
-[MIIT](https://ythzxfw.miit.gov.cn/resultQuery) (Select `行政许可` `无线电和卫星通信`)
+[MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
 
 [China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
 

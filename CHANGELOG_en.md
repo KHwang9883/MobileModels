@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-04-16
+- `mitv_global_en` International Mi TV models have been added.
 ## 2021-04-12
 - `realme_en` Fix some Chinese device variant names.
 - `xiaomi_en` Add few variants for Redmi Note 10 series.
