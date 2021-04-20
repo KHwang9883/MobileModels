@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-04-20
+- `honor` 新增荣耀 Play5T 活力版。
 ## 2021-04-17
 - `oneplus` 更新 OnePlus 9R 代号信息。
 - `realme` 增补部分国际型号，新增 realme 真我 Q3 系列。

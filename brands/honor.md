@@ -357,33 +357,37 @@
 
 `COR-TL10`: 荣耀 Play 移动 4G+ 高配版
 
-**荣耀 Play 3 (`asoka`):**
+**荣耀 Play3 (`asoka`):**
 
-`ASK-AL00x`: 荣耀 Play 3 全网通版 (麒麟 710F)
+`ASK-AL00x`: 荣耀 Play3 全网通版 (麒麟 710F)
 
-`ASK-AL20`: 荣耀 Play 3 全网通版 (麒麟 710A)
+`ASK-AL20`: 荣耀 Play3 全网通版 (麒麟 710A)
 
-`ASK-TL00x`: 荣耀 Play 3 移动 4G+ 版 (麒麟 710F)
+`ASK-TL00x`: 荣耀 Play3 移动 4G+ 版 (麒麟 710F)
 
-**荣耀 Play 3e (`katyusha`):**
+**荣耀 Play3e (`katyusha`):**
 
-`KSA-AL10`: 荣耀 Play 3e 全网通版
+`KSA-AL10`: 荣耀 Play3e 全网通版
 
-**荣耀 Play 4T (`asoka`):**
+**荣耀 Play4T (`asoka`):**
 
-`AKA-AL10`: 荣耀 Play 4T 全网通版
+`AKA-AL10`: 荣耀 Play4T 全网通版
 
-**荣耀 Play 4T Pro (`aquaman`):**
+**荣耀 Play4T Pro (`aquaman`):**
 
-`AQM-AL10`: 荣耀 Play 4T Pro 全网通版
+`AQM-AL10`: 荣耀 Play4T Pro 全网通版
 
-**荣耀 Play 4 (`tianshanh`):**
+**荣耀 Play4 (`tianshanh`):**
 
-`TNNH-AN00`: 荣耀 Play 4 5G 全网通版
+`TNNH-AN00`: 荣耀 Play4 5G 全网通版
 
-**荣耀 Play 4 Pro (`oxford`):**
+**荣耀 Play4 Pro (`oxford`):**
 
-`OXP-AN00`: 荣耀 Play 4 Pro 5G 全网通版
+`OXP-AN00`: 荣耀 Play4 Pro 5G 全网通版
+
+**荣耀 Play5T 活力版 (`nezha`):**
+
+`NZA-AL00`: 荣耀 Play5T 活力版 全网通版
 
 ## 荣耀 Note 系列
 
