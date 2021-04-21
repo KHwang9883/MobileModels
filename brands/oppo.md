@@ -318,3 +318,7 @@
 **OPPO K7x:**
 
 `PERM00`: OPPO K7x 全网通版
+
+**OPPO K9:**
+
+`PEXM00`: OPPO K9 全网通版
