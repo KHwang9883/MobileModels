@@ -49,6 +49,8 @@
 
 `L55M6-EQG`: Mi QLED TV Q1 4K 55
 
+`L75M6-ESG`: Mi QLED TV Q1 75
+
 **Redmi Smart TV:**
 
 `L50M6-RA`: Redmi Smart TV X50

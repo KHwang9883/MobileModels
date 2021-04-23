@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-04-23
+- `mitv_global_en` Mi TV Q1 75 (India) has been added.
 ## 2021-04-17
 - `oneplus_en` Update codename for OnePlus 9R.
 - `realme_en` Several international models have been added.
