@@ -97,3 +97,7 @@
 **motorola edge s (`nio`):**
 
 `XT2125-4`: motorola edge s
+
+**motorola g50 (`ibiza`):**
+
+`XT2137-2`: motorola g50
