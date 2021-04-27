@@ -1074,6 +1074,10 @@
 
 `M2012K11C`: Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版
 
+**[`K10`] Redmi K40 游戏增强版 (`ares`):**
+
+`M2012K10C`: Redmi K40 游戏增强版 全网通版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
