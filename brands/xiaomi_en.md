@@ -1039,6 +1039,10 @@
 
 `M2012K11C`: Redmi K40 Pro China / Redmi K40 Pro+ China
 
+**[`K10`] Redmi K40 Gaming (`ares`):**
+
+`M2012K10C`: Redmi K40 Gaming China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)

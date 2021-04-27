@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-04-27
+- `xiaomi_en` Redmi K40 Gaming (China) has been added.
 ## 2021-04-23
 - `mitv_global_en` Mi TV Q1 75 (India) has been added.
 ## 2021-04-17
