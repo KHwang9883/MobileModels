@@ -5,7 +5,7 @@
 - 是否包含国际机型: ❌
 - [国际机型汇总 (英文)](brands/honor_global_en.md)
 
-## 荣耀 HONOR 系列 ( N 系列)
+## 荣耀 HONOR 系列 (N 系列)
 
 **荣耀 6 (`mogolia`):**
 
@@ -401,7 +401,7 @@
 
 `RVL-AL09`: 荣耀 Note 10 全网通版
 
-## 荣耀 C 系列
+## 荣耀畅玩 C 系列
 
 **荣耀 3C:**
 
@@ -463,7 +463,7 @@
 
 `BKK-TL00`: 荣耀畅玩 8C 移动 4G+ 版
 
-## 荣耀 A 系列
+## 荣耀畅玩 A 系列
 
 **荣耀 4A (`scale`):**
 
@@ -707,6 +707,16 @@
 
 `KPRC-W20L`: 荣耀 MagicBook 2019 科技尝鲜版 R7
 
+**荣耀 MagicBook 14 (`nobelB`):**
+
+`Nbl-WAH9HN`: 荣耀 MagicBook 14 i5
+
+`Nbl-WAH9HNP`: 荣耀 MagicBook 14 i5 (16GB+512GB)
+
+`Nbl-WAE9HN`: 荣耀 MagicBook 14 i7
+
+`Nbl-WAE9HNP`: 荣耀 MagicBook 14 i7 (16GB+512GB)
+
 **荣耀 MagicBook 14 (`nobelK`):**
 
 `Nbl-WAQ9HNR`: 荣耀 MagicBook 14 / 14 SE R5
@@ -719,14 +729,6 @@
 
 `Nbl-WAP9HNL`: 荣耀 MagicBook 14 科技尝鲜版 R7
 
-`Nbl-WAH9HN`: 荣耀 MagicBook 14 i5
-
-`Nbl-WAH9HNP`: 荣耀 MagicBook 14 i5 (16GB+512GB)
-
-`Nbl-WAE9HN`: 荣耀 MagicBook 14 i7
-
-`Nbl-WAE9HNP`: 荣耀 MagicBook 14 i7 (16GB+512GB)
-
 **荣耀 MagicBook 14 2020 (`nobelL`):**
 
 `NblL-WFQ9HN`: 荣耀 MagicBook 14 2020 R5
@@ -736,6 +738,18 @@
 **荣耀 MagicBook 14 2021 (`nobelDR`):**
 
 `NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 & i7
+
+**荣耀 MagicBook 14 SE 2021 (`nobelKR`):**
+
+`NIR-WAP9HNRP`: 荣耀 MagicBook 14 SE 2021 R7
+
+**荣耀 MagicBook 15 (`bohrB`):**
+
+`Boh-WAH9HN`: 荣耀 MagicBook 15 i5
+
+`Boh-WAH9HNP`: 荣耀 MagicBook 15 i5 (16GB+512GB)
+
+`Boh-WAE9HN`: 荣耀 MagicBook 15 i7
 
 **荣耀 MagicBook 15 (`bohrK`):**
 
@@ -748,12 +762,6 @@
 `Boh-WAQ9HNL`: 荣耀 MagicBook 15 科技尝鲜版 R5
 
 `Boh-WAP9HNL`: 荣耀 MagicBook 15 科技尝鲜版 R7
-
-`Boh-WAH9HN`: 荣耀 MagicBook 15 i5
-
-`Boh-WAH9HNP`: 荣耀 MagicBook 15 i5 (16GB+512GB)
-
-`Boh-WAE9HN`: 荣耀 MagicBook 15 i7
 
 **荣耀 MagicBook 15 2020 (`bohrL`):**
 
