@@ -964,6 +964,8 @@
 
 `M2101K7BG`: Redmi Note 10S 国际版
 
+`M2101K7BI`: Redmi Note 10S 印度版
+
 **[`K7BN`] Redmi Note 10S (`rosemary`):**
 
 `M2101K7BN` `M2101K7BNY`: Redmi Note 10S 国际版 (NFC)
@@ -972,13 +974,9 @@
 
 `M2101K7BL`: Redmi Note 10S 巴西版
 
-**[`K19`] Redmi Note 10 5G (`camellia`):**
-
-`M2103K19G`: Redmi Note 10 5G 国际版
-
 **[`K19`] Redmi Note 10 5G (`camellian`):**
 
-`M2103K19Y`: Redmi Note 10 5G 国际版 (NFC)
+`M2103K19G` `M2103K19Y`: Redmi Note 10 5G 国际版
 
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
@@ -1161,6 +1159,10 @@
 `M2010J19CT`: POCO M3 泰国版
 
 `M2010J19CI`: POCO M3 印度版
+
+**[`K19P`] POCO M3 Pro (`camellian`):**
+
+`M2103K19PG` `M2103K19PY`: POCO M3 Pro 5G 国际版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
