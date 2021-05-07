@@ -609,6 +609,12 @@
 
 `AGM3-AL09HN`: 荣耀平板 7 10.1 英寸 全网通版
 
+**荣耀平板 X7 (`kobe2`):**
+
+`KOB2-W09HN`: 荣耀平板 X7 8 英寸 Wi-Fi 版
+
+`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 全网通版
+
 **荣耀 Waterplay (`haydn`):**
 
 `HDN-W09`: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
@@ -774,6 +780,18 @@
 **荣耀 MagicBook 15 2021 (`bohrDR`):**
 
 `BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5 & i7
+
+**荣耀 MagicBook X 14 (`nobelBR`):**
+
+`NBR-WAI9`: 荣耀 MagicBook X 14 i3
+
+`NBR-WAH9`: 荣耀 MagicBook X 14 i5
+
+**荣耀 MagicBook X 15 (`bohrBR`):**
+
+`BBR-WAI9`: 荣耀 MagicBook X 15 i3
+
+`BBR-WAH9`: 荣耀 MagicBook X 15 i5
 
 **荣耀 MagicBook Pro:**
 
