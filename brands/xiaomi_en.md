@@ -933,6 +933,8 @@
 
 `M2101K7BG`: Redmi Note 10S Global
 
+`M2101K7BI`: Redmi Note 10S India
+
 **[`K7BN`] Redmi Note 10S (`rosemary`):**
 
 `M2101K7BN` `M2101K7BNY`: Redmi Note 10S Global (NFC)
@@ -941,13 +943,9 @@
 
 `M2101K7BL`: Redmi Note 10S Brazil
 
-**[`K19`] Redmi Note 10 5G (`camellia`):**
-
-`M2103K19G`: Redmi Note 10 5G Global
-
 **[`K19`] Redmi Note 10 5G (`camellian`):**
 
-`M2103K19Y`: Redmi Note 10 5G Global (NFC)
+`M2103K19G` `M2103K19Y`: Redmi Note 10 5G Global
 
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
@@ -1124,6 +1122,10 @@
 `M2010J19CT`: POCO M3 Thailand
 
 `M2010J19CI`: POCO M3 India
+
+**[`K19P`] POCO M3 Pro (`camellian`):**
+
+`M2103K19PG` `M2103K19PY`: POCO M3 Pro 5G Global
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
