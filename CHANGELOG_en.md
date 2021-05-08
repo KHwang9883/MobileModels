@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-05-09
+- `oppo_global_en` Several international models have been added.
 ## 2021-05-08
 - `xiaomi_en` Several international models have been added.
 ## 2021-04-27

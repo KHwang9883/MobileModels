@@ -25,6 +25,10 @@
 
 `CPH2009`: OPPO Find X2 Neo / Reno3 Pro India
 
+**OPPO Find X3 Pro:**
+
+`CPH2173`: OPPO Find X3 Pro
+
 ## Reno series
 
 **OPPO Reno:**
@@ -95,6 +99,18 @@
 
 `CPH2159`: OPPO Reno5
 
+**OPPO Reno5 Pro:**
+
+`CPH2201`: OPPO Reno5 Pro
+
+**OPPO Reno5 Lite:**
+
+`CPH2205`: OPPO Reno5 Lite
+
+**OPPO Reno5 F:**
+
+`CPH2217`: OPPO Reno5 F
+
 ## F series
 
 **OPPO F7:**
@@ -128,6 +144,14 @@
 **OPPO F17 Pro:**
 
 `CPH2119`: OPPO F17 Pro
+
+**OPPO F19 Pro:**
+
+`CPH2217`: OPPO F19 Pro
+
+**OPPO F19 Pro+:**
+
+`CPH2213`: OPPO F19 Pro+
 
 ## R series
 
@@ -207,7 +231,7 @@
 
 **OPPO A11:**
 
-`CPH1943`: OPPO A11
+`CPH1931RU` `CPH1941` `CPH1943`: OPPO A11
 
 **OPPO A12:**
 
@@ -215,7 +239,7 @@
 
 **OPPO A15:**
 
-`CPH2185`: OPPO A15
+`CPH2179` `CPH2185`: OPPO A15
 
 **OPPO A31:**
 
@@ -239,7 +263,7 @@
 
 **OPPO A73:**
 
-`CPH2095`: OPPO A73
+`CPH2095` `CPH2161`: OPPO A73
 
 **OPPO A91:**
 
@@ -252,6 +276,10 @@
 **OPPO A93:**
 
 `CPH2121` `CPH2123`: OPPO A93
+
+**OPPO A94:**
+
+`CPH2203`: OPPO A94
 
 ## K series
 
