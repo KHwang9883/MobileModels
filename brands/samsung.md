@@ -308,6 +308,24 @@
 
 `SM-N9860`: Galaxy Note20 Ultra 5G
 
+## Galaxy Z 系列
+
+**Galaxy Fold (`winner`):**
+
+`SM-F9000`: Galaxy Fold
+
+**Galaxy Z Flip (`bloomq`):**
+
+`SM-F7000`: Galaxy Z Flip
+
+**Galaxy Z Flip 5G (`bloomxq`):**
+
+`SM-F7070`: Galaxy Z Flip 5G
+
+**Galaxy Z Fold2 (`f2q`):**
+
+`SM-F9160`: Galaxy Z Fold2 5G
+
 ## Galaxy A 系列
 
 **Galaxy A3 (`a3ltechn`):**
@@ -436,29 +454,17 @@
 
 `SM-A5260`: Galaxy A52 5G
 
+## Galaxy F 系列
+
+**Galaxy F52 5G (`f52x`):**
+
+`SM-E5260`: Galaxy F52 5G
+
 ## Galaxy M 系列
 
 **Galaxy M30s (`m30s`):**
 
 `SM-M3070`: Galaxy M30s
-
-## Galaxy Z 系列
-
-**Galaxy Fold (`winner`):**
-
-`SM-F9000`: Galaxy Fold
-
-**Galaxy Z Flip (`bloomq`):**
-
-`SM-F7000`: Galaxy Z Flip
-
-**Galaxy Z Flip 5G (`bloomxq`):**
-
-`SM-F7070`: Galaxy Z Flip 5G
-
-**Galaxy Z Fold2 (`f2q`):**
-
-`SM-F9160`: Galaxy Z Fold2 5G
 
 ## Galaxy C 系列
 

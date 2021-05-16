@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-05-16
+- `samsung` 新增 Galaxy F52 5G。
 ## 2021-05-08
 - `honor` 新增 MagicBook X 系列、荣耀平板 X7 8 英寸。
 - `xiaomi` 增补部分国际型号。
