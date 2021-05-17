@@ -1,6 +1,7 @@
 # 更新日志
 ## 2021-05-17
 - `nubia` 新增努比亚 nubia Z30 Pro。
+- `vivo` 新增 iQOO Neo5 活力版。
 ## 2021-05-16
 - `samsung` 新增 Galaxy F52 5G。
 ## 2021-05-08

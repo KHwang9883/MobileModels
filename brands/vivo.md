@@ -310,19 +310,13 @@
 
 `V2031A`: vivo Y73s 5G 全网通版
 
-## iQOO 系列
+## iQOO 手机
 
 **iQOO (`PD1824`):**
 
 `V1824BA`: iQOO (6GB+128GB)
 
 `V1824A`: iQOO (8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB)
-
-**iQOO Neo (`PD1914`):**
-
-`V1914A`: iQOO Neo 全网通版
-
-`V1914T`: iQOO Neo 移动全网通版
 
 **iQOO Pro (`PD1922`):**
 
@@ -336,45 +330,9 @@
 
 `V1916T`: iQOO Pro 5G 移动全网通版
 
-**iQOO Neo 855 版 (`PD1936`):**
-
-`V1936A`: iQOO Neo 855 版 全网通版
-
-`V1936T`: iQOO Neo 855 版 移动全网通版
-
-**iQOO Neo 855 竞速版 (`PD1936`):**
-
-`V1936AL`: iQOO Neo 855 竞速版 全网通版
-
-`V1936TL`: iQOO Neo 855 竞速版 移动全网通版
-
 **iQOO 3 (`PD1955`):**
 
 `V1955A`: iQOO 3 5G 全网通版
-
-**iQOO Neo3 (`PD1981`):**
-
-`V1981A`: iQOO Neo3 5G 全网通版
-
-**iQOO Z1 (`PD1986`):**
-
-`V1986A`: iQOO Z1 5G 全网通版
-
-**iQOO Z1x (`PD2012`):**
-
-`V2012A`: iQOO Z1x 5G 全网通版
-
-**iQOO U1 (`PD2023`):**
-
-`V2023A`: iQOO U1 全网通版
-
-**iQOO U1x (`PD2065`):**
-
-`V2065A`: iQOO U1x 全网通版
-
-**iQOO U3 (`PD2061`):**
-
-`V2061A`: iQOO U3 5G 全网通版
 
 **iQOO 5 (`PD2024`):**
 
@@ -388,13 +346,59 @@
 
 `V2049A`: iQOO 7 5G 全网通版
 
+**iQOO Neo (`PD1914`):**
+
+`V1914A`: iQOO Neo 全网通版
+
+`V1914T`: iQOO Neo 移动全网通版
+
+**iQOO Neo 855 版 (`PD1936`):**
+
+`V1936A`: iQOO Neo 855 版 全网通版
+
+`V1936T`: iQOO Neo 855 版 移动全网通版
+
+**iQOO Neo 855 竞速版 (`PD1936`):**
+
+`V1936AL`: iQOO Neo 855 竞速版 全网通版
+
+`V1936TL`: iQOO Neo 855 竞速版 移动全网通版
+
+**iQOO Neo3 (`PD1981`):**
+
+`V1981A`: iQOO Neo3 5G 全网通版
+
 **iQOO Neo5 (`PD2055`):**
 
 `V2055A`: iQOO Neo5 5G 全网通版
 
+**iQOO Neo5 活力版 (`PD2118`):**
+
+`V2118A`: iQOO Neo5 活力版 5G 全网通版
+
+**iQOO Z1 (`PD1986`):**
+
+`V1986A`: iQOO Z1 5G 全网通版
+
+**iQOO Z1x (`PD2012`):**
+
+`V2012A`: iQOO Z1x 5G 全网通版
+
 **iQOO Z3 (`PD2073`):**
 
 `V2073A`: iQOO Z3 5G 全网通版
+
+**iQOO U1 (`PD2023`):**
+
+`V2023A`: iQOO U1 全网通版
+
+**iQOO U1x (`PD2065`):**
+
+`V2065A`: iQOO U1x 全网通版
+
+**iQOO U3 (`PD2061`):**
+
+`V2061A`: iQOO U3 5G 全网通版
 
 **iQOO U3x (`PD2106`):**
 
