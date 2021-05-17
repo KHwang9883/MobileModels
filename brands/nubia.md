@@ -112,6 +112,10 @@
 
 `NX627J`: nubia Z20
 
+**nubia Z30 Pro:**
+
+`NX667J`: nubia Z30 Pro
+
 ## 红魔手机
 
 **红魔电竞游戏手机:**
