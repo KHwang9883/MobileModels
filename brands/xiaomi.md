@@ -896,6 +896,10 @@
 
 `M1908C3XG`: Redmi Note 8T 国际版
 
+**[`C3JG`] Redmi Note 8 (2021) (`biloba`):**
+
+`M1908C3JGG`: Redmi Note 8 (2021) 国际版
+
 **[`G7`] Redmi Note 8 Pro (`begonia`):**
 
 `M1906G7E`: Redmi Note 8 Pro 全网通版

@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-05-18
+- `xiaomi` 新增 Redmi Note 8 (2021)。
 ## 2021-05-17
 - `nubia` 新增努比亚 nubia Z30 Pro。
 - `vivo` 新增 iQOO Neo5 活力版。
