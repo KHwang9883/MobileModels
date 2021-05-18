@@ -231,13 +231,13 @@
 
 `NTS-AL00`: 荣耀 Magic 全网通版
 
-**荣耀 Magic 2 (`tony`):**
+**荣耀 Magic2 (`tony`):**
 
-`TNY-AL00`: 荣耀 Magic 2 全网通版
+`TNY-AL00`: 荣耀 Magic2 全网通版
 
-`TNY-AL10`: 荣耀 Magic 2 3D 感光版
+`TNY-AL10`: 荣耀 Magic2 3D 感光版
 
-`TNY-TL00`: 荣耀 Magic 2 移动 4G+ 版
+`TNY-TL00`: 荣耀 Magic2 移动 4G+ 版
 
 ## 荣耀 X 系列
 
@@ -377,7 +377,7 @@
 
 `AQM-AL10`: 荣耀 Play4T Pro 全网通版
 
-**荣耀 Play4 (`tianshanh`):**
+**荣耀 Play4 (`tianshanH`):**
 
 `TNNH-AN00`: 荣耀 Play4 5G 全网通版
 
@@ -385,21 +385,29 @@
 
 `OXP-AN00`: 荣耀 Play4 Pro 5G 全网通版
 
+**荣耀 Play5 (`jessicaH`):**
+
+`HJC-AN90`: 荣耀 Play5 5G 全网通版
+
+**荣耀 Play5T:**
+
+`KOZ-AL40`: 荣耀畅玩 20 全网通版
+
 **荣耀 Play5T 活力版 (`nezha`):**
 
 `NZA-AL00`: 荣耀 Play5T 活力版 全网通版
 
 ## 荣耀 Note 系列
 
-**荣耀 Note 8 (`edison`):**
+**荣耀 Note8 (`edison`):**
 
-`EDI-AL10`: 荣耀 Note 8 全网通版
+`EDI-AL10`: 荣耀 Note8 全网通版
 
-`EDI-DL00`: 荣耀 Note 8 移动/联通版
+`EDI-DL00`: 荣耀 Note8 移动/联通版
 
-**荣耀 Note 10 (`ravel`):**
+**荣耀 Note10 (`ravel`):**
 
-`RVL-AL09`: 荣耀 Note 10 全网通版
+`RVL-AL09`: 荣耀 Note10 全网通版
 
 ## 荣耀畅玩 C 系列
 
