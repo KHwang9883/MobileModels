@@ -20,7 +20,7 @@
 | [honor](brands/honor.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [国际机型单独汇总](brands/honor_global_en.md) |
 | [huawei](brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [国际机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
-| [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 已停更，不包含电视产品 |
+| [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 不包含电视产品 |
 | [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
 | [mitv](brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ✅ | [国际机型单独汇总](brands/mitv_global_en.md) |
 | [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
