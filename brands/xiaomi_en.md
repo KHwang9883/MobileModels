@@ -865,6 +865,10 @@
 
 `M1908C3XG`: Redmi Note 8T Global
 
+**[`C3JG`] Redmi Note 8 (2021) (`biloba`):**
+
+`M1908C3JGG`: Redmi Note 8 (2021) Global
+
 **[`G7`] Redmi Note 8 Pro (`begonia`):**
 
 `M1906G7G`: Redmi Note 8 Pro Global
