@@ -1113,7 +1113,13 @@
 
 `KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 
-**HUAWEI MateBook B3-410:**
+**HUAWEI MateBook 16:**
+
+`CREM-WFG9`: HUAWEI MateBook 16 R5
+
+`CREM-WFD9`: HUAWEI MateBook 16 R7
+
+**HUAWEI MateBook B3-410 (`nobelBZ`):**
 
 `NBZ-WBH9`: HUAWEI MateBook B3-410 i5 (8GB+256GB)
 
@@ -1121,7 +1127,7 @@
 
 `NBZ-WBE9`: HUAWEI MateBook B3-410 i7
 
-**HUAWEI MateBook B3-510:**
+**HUAWEI MateBook B3-510 (`bohrBZ`):**
 
 `BBZ-WBH9`: HUAWEI MateBook B3-510 i5
 
@@ -1174,6 +1180,12 @@
 `HD75KANA`: 华为智慧屏 S 75" (3GB+16GB)
 
 `HD75KANS`: 华为智慧屏 S Pro 75" (3GB+32GB)
+
+**华为智慧屏 SE 系列:**
+
+`HD55DESY` `HD55DESZ`: 华为智慧屏 SE 55" 畅连通话版 (2GB+16GB)
+
+`HD65DESY` `HD65DESZ`: 华为智慧屏 SE 65" 畅连通话版 (2GB+16GB)
 
 ## 华为早期产品 
 
