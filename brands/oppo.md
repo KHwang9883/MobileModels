@@ -125,6 +125,18 @@
 
 `PDRM00`: OPPO Reno5 Pro+ 全网通版
 
+**OPPO Reno6:**
+
+`PEQM00`: OPPO Reno6 全网通版
+
+**OPPO Reno6 Pro:**
+
+`PEPM00`: OPPO Reno6 Pro 全网通版
+
+**OPPO Reno6 Pro+:**
+
+`PENM00`: OPPO Reno6 Pro+ 全网通版
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
