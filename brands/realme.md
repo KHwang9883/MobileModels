@@ -296,6 +296,10 @@
 
 `RMX2185` `RMX2186`: realme C11
 
+**realme C11 2021:**
+
+`RMX3231`: realme C11 2021
+
 **realme C12:**
 
 `RMX2184` `RMX2189`: realme C12
@@ -318,7 +322,7 @@
 
 **realme C21:**
 
-`RMX3201`: realme C21
+`RMX3201` `RMX3202` `RMX3203`: realme C21
 
 **realme C25:**
 
