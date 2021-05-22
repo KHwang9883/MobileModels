@@ -4,6 +4,30 @@
 - codename: ✅
 - 是否包含国际机型: ❌
 
+## NEX 系列
+
+**vivo NEX 双屏版 (`PD1821`):**
+
+`V1821A`: vivo NEX 双屏版 全网通版
+
+`V1821T`: vivo NEX 双屏版 移动全网通版
+
+**vivo NEX 3 (`PD1923`):**
+
+`V1923A`: vivo NEX 3 全网通版
+
+`V1923T`: vivo NEX 3 移动全网通版
+
+**vivo NEX 3 5G (`PD1924`):**
+
+`V1924A`: vivo NEX 3 5G 全网通版
+
+`V1924T`: vivo NEX 3 5G 移动全网通版
+
+**vivo NEX 3S 5G (`PD1950`):**
+
+`V1950A`: vivo NEX 3S 5G 全网通版
+
 ## X 系列
 
 **vivo X21s (`PD1814`):**
@@ -70,6 +94,10 @@
 
 `V2046A`: vivo X60 5G 全网通版
 
+**vivo X60 曲屏版 (`PD2059`):**
+
+`V2059A`: vivo X60 曲屏版 5G 全网通版
+
 **vivo X60t (`PD2085`):**
 
 `V2085A`: vivo X60t 5G 全网通版
@@ -82,93 +110,53 @@
 
 `V2056A`: vivo X60 Pro+ 5G 全网通版
 
-## NEX 系列
+## S 系列
 
-**vivo NEX 双屏版 (`PD1821`):**
+**vivo S1 (`PD1831`):**
 
-`V1821A`: vivo NEX 双屏版 全网通版
+`V1831A`: vivo S1 全网通版
 
-`V1821T`: vivo NEX 双屏版 移动全网通版
+`V1831T`: vivo S1 移动全网通版
 
-**vivo NEX 3 (`PD1923`):**
+**vivo S1 Pro (`PD1832`):**
 
-`V1923A`: vivo NEX 3 全网通版
+`V1832A`: vivo S1 Pro 全网通版
 
-`V1923T`: vivo NEX 3 移动全网通版
+`V1832T`: vivo S1 Pro 移动全网通版
 
-**vivo NEX 3 5G (`PD1924`):**
+**vivo S5 (`PD1932`):**
 
-`V1924A`: vivo NEX 3 5G 全网通版
+`V1932A`: vivo S5 全网通版
 
-`V1924T`: vivo NEX 3 5G 移动全网通版
+`V1932T`: vivo S5 移动全网通版
 
-**vivo NEX 3S 5G (`PD1950`):**
+**vivo S6 (`PD1962`):**
 
-`V1950A`: vivo NEX 3S 5G 全网通版
+`V1962A`: vivo S6 5G 全网通版
 
-## Z 系列
+**vivo S7 (`PD2020`):**
 
-**vivo Z1 (`PD1730C`):**
+`V2020A` `V2020CA`: vivo S7 5G 全网通版
 
-`V1801A0`: vivo Z1 全网通版
+**vivo S7t (`PD2080`):**
 
-**vivo Z1i (`PD1730D`):**
+`V2080A`: vivo S7t 5G 全网通版
 
-`V1730DA`: vivo Z1i 全网通版
+**vivo S7e (`PD2031`):**
 
-`V1730DT`: vivo Z1i 移动全网通版
+`V2031A`: vivo S7e 5G 全网通版
 
-**vivo Z1 青春版 (`PD1730E`):**
+**vivo S7e 活力版 (`PD2031E`):**
 
-`V1730EA`: vivo Z1 青春版 全网通版
+`V2031EA`: vivo S7e 活力版 5G 全网通版
 
-**vivo Z3 (`PD1813B`):**
+**vivo S9 (`PD2072`):**
 
-`V1813BA`: vivo Z3 全网通版 (骁龙 670)
+`V2072A`: vivo S9 5G 全网通版
 
-`V1813BT`: vivo Z3 全网通版 (骁龙 710)
+**vivo S9e (`PD2048`):**
 
-**vivo Z3i (`PD1813`):**
-
-`V1813A`: vivo Z3i 全网通版
-
-`V1813T`: vivo Z3i 移动全网通版
-
-**vivo Z3i 标准版 (`PD1813`):**
-
-`V1813A`: vivo Z3i 标准版 全网通版
-
-`V1813T`: vivo Z3i 标准版 移动全网通版
-
-**vivo Z3x (`PD1730G`):**
-
-`V1730GA`: vivo Z3x 全网通版
-
-**vivo Z5 (`PD1921`):**
-
-`V1921A`: vivo Z5 全网通版
-
-`V1921T`: vivo Z5 移动全网通版
-
-**vivo Z5x (`PD1911`):**
-
-`V1911A`: vivo Z5x 全网通版
-
-`V1919A`: vivo Z5x 移动全网通版
-
-**vivo Z5x (`PD1990`):**
-
-`V1990A`: vivo Z5x 712 版 全网通版
-
-**vivo Z5i (`PD1941`):**
-
-`V1941A`: vivo Z5i 全网通版
-
-`V1941T`: vivo Z5i 移动全网通版
-
-**vivo Z6 (`PD1963`):**
-
-`V1963A`: vivo Z6 5G 全网通版
+`V2048A`: vivo S9e 5G 全网通版
 
 ## Y 系列
 
@@ -306,9 +294,77 @@
 
 `V2002A`: vivo Y70s 5G 全网通版
 
+**vivo Y70t (`PD2002`):**
+
+`V2002A`: vivo Y70t 5G 全网通版
+
 **vivo Y73s (`PD2031`):**
 
 `V2031A`: vivo Y73s 5G 全网通版
+
+## Z 系列
+
+**vivo Z1 (`PD1730C`):**
+
+`V1801A0`: vivo Z1 全网通版
+
+**vivo Z1i (`PD1730D`):**
+
+`V1730DA`: vivo Z1i 全网通版
+
+`V1730DT`: vivo Z1i 移动全网通版
+
+**vivo Z1 青春版 (`PD1730E`):**
+
+`V1730EA`: vivo Z1 青春版 全网通版
+
+**vivo Z3 (`PD1813B`):**
+
+`V1813BA`: vivo Z3 全网通版 (骁龙 670)
+
+`V1813BT`: vivo Z3 全网通版 (骁龙 710)
+
+**vivo Z3i (`PD1813`):**
+
+`V1813A`: vivo Z3i 全网通版
+
+`V1813T`: vivo Z3i 移动全网通版
+
+**vivo Z3i 标准版 (`PD1813`):**
+
+`V1813A`: vivo Z3i 标准版 全网通版
+
+`V1813T`: vivo Z3i 标准版 移动全网通版
+
+**vivo Z3x (`PD1730G`):**
+
+`V1730GA`: vivo Z3x 全网通版
+
+**vivo Z5 (`PD1921`):**
+
+`V1921A`: vivo Z5 全网通版
+
+`V1921T`: vivo Z5 移动全网通版
+
+**vivo Z5x (`PD1911`):**
+
+`V1911A`: vivo Z5x 全网通版
+
+`V1919A`: vivo Z5x 移动全网通版
+
+**vivo Z5x (`PD1990`):**
+
+`V1990A`: vivo Z5x 712 版 全网通版
+
+**vivo Z5i (`PD1941`):**
+
+`V1941A`: vivo Z5i 全网通版
+
+`V1941T`: vivo Z5i 移动全网通版
+
+**vivo Z6 (`PD1963`):**
+
+`V1963A`: vivo Z6 5G 全网通版
 
 ## iQOO 手机
 
@@ -403,54 +459,6 @@
 **iQOO U3x (`PD2106`):**
 
 `V2106A`: iQOO U3x 5G 全网通版
-
-## S 系列
-
-**vivo S1 (`PD1831`):**
-
-`V1831A`: vivo S1 全网通版
-
-`V1831T`: vivo S1 移动全网通版
-
-**vivo S1 Pro (`PD1832`):**
-
-`V1832A`: vivo S1 Pro 全网通版
-
-`V1832T`: vivo S1 Pro 移动全网通版
-
-**vivo S5 (`PD1932`):**
-
-`V1932A`: vivo S5 全网通版
-
-`V1932T`: vivo S5 移动全网通版
-
-**vivo S6 (`PD1962`):**
-
-`V1962A`: vivo S6 5G 全网通版
-
-**vivo S7 (`PD2020`):**
-
-`V2020A` `V2020CA`: vivo S7 5G 全网通版
-
-**vivo S7t (`PD2080`):**
-
-`V2080A`: vivo S7t 5G 全网通版
-
-**vivo S7e (`PD2031`):**
-
-`V2031A`: vivo S7e 5G 全网通版
-
-**vivo S7e 活力版 (`PD2031E`):**
-
-`V2031EA`: vivo S7e 活力版 5G 全网通版
-
-**vivo S9 (`PD2072`):**
-
-`V2072A`: vivo S9 5G 全网通版
-
-**vivo S9e (`PD2048`):**
-
-`V2048A`: vivo S9e 5G 全网通版
 
 ## U 系列
 
