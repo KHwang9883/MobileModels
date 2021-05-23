@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-05-23
+- `apple_en` iPad Pro (2021) has been added.
 ## 2021-05-21
 - `realme_en` Several international models have been added.
 ## 2021-05-18

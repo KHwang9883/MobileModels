@@ -503,6 +503,54 @@
 
 `A2233`: iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China mainland)
 
+**iPad Pro (11-inch, 3rd generation) (`iPad13,4`):**
+
+`A2377`: iPad Pro (11-inch, 3rd generation) Wi-Fi (8GB RAM)
+
+**iPad Pro (11-inch, 3rd generation) (`iPad13,5`):**
+
+`A2377`: iPad Pro (11-inch, 3rd generation) Wi-Fi (16GB RAM)
+
+**iPad Pro (11-inch, 3rd generation) (`iPad13,6`):**
+
+`A2459`: iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM)
+
+`A2301`: iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, mmWave)
+
+`A2460`: iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, China mainland)
+
+**iPad Pro (11-inch, 3rd generation) (`iPad13,7`):**
+
+`A2459`: iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM)
+
+`A2301`: iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, mmWave)
+
+`A2460`: iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, China mainland)
+
+**iPad Pro (12.9-inch, 5th generation) (`iPad13,8`):**
+
+`A2378`: iPad Pro (12.9-inch, 5th generation) Wi-Fi (8GB RAM)
+
+**iPad Pro (12.9-inch, 5th generation) (`iPad13,9`):**
+
+`A2378`: iPad Pro (12.9-inch, 5th generation) Wi-Fi (16GB RAM)
+
+**iPad Pro (12.9-inch, 5th generation) (`iPad13,10`):**
+
+`A2461`: iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM)
+
+`A2379`: iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, mmWave)
+
+`A2462`: iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, China mainland)
+
+**iPad Pro (12.9-inch, 5th generation) (`iPad13,11`):**
+
+`A2461`: iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM)
+
+`A2379`: iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, mmWave)
+
+`A2462`: iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, China mainland)
+
 ## iPad mini
 
 **iPad mini (`iPad2,5`):**
