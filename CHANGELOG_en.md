@@ -1,7 +1,7 @@
 # CHANGELOG
 ## 2021-05-25
 - `huawei_global_en` Several international models have been added.
-- `realme_en` Add realme Q3 Pro Carnival Edition & realme GT Neo Flash Speed Edition. 
+- `realme_en` Add realme Q3 Pro Carnival Edition & realme GT Neo Flash Speed Edition; add several international models. 
 ## 2021-05-23
 - `apple_en` iPad Pro (2021) has been added.
 ## 2021-05-21

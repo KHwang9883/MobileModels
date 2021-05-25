@@ -221,6 +221,8 @@
 
 **realme Narzo 20:**
 
+`RMX2191`: realme Narzo 20 Global
+
 `RMX2193`: realme Narzo 20 India
 
 **realme Narzo 20 Pro:**
@@ -230,6 +232,12 @@
 **realme Narzo 20A:**
 
 `RMX2050`: realme Narzo 20A India
+
+**realme Narzo 30:**
+
+`RMX2156`: realme Narzo 30 Asia-Pacific
+
+`RMX3241`: realme Narzo 30 EU
 
 **realme Narzo 30 Pro:**
 
