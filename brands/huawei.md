@@ -137,7 +137,7 @@
 
 **HUAWEI Mate 30E Pro (`lion`):**
 
-`LIO-AN00m`: HUAWEI Mate 30E Pro 全网通版
+`LIO-AN00m`: HUAWEI Mate 30E Pro 5G 全网通版
 
 **HUAWEI Mate 30 RS 保时捷设计 (`lion`):**
 
@@ -145,19 +145,23 @@
 
 **HUAWEI Mate 40 (`ocean`):**
 
-`OCE-AN10`: HUAWEI Mate 40 全网通版
+`OCE-AN10`: HUAWEI Mate 40 5G 全网通版
 
 **HUAWEI Mate 40E (`ocean`):**
 
-`OCE-AN50`: HUAWEI Mate 40E 全网通版
+`OCE-AN50`: HUAWEI Mate 40E 5G 全网通版
+
+`OCE-AL50`: HUAWEI Mate 40E 4G 全网通版
 
 **HUAWEI Mate 40 Pro (`noah`):**
 
-`NOH-AN00` `NOH-AN01`: HUAWEI Mate 40 Pro 全网通版
+`NOH-AN00` `NOH-AN01`: HUAWEI Mate 40 Pro 5G 全网通版
+
+`NOH-AL00`: HUAWEI Mate 40 Pro 4G 全网通版
 
 **HUAWEI Mate 40 Pro+ (`noahp`):**
 
-`NOP-AN00`: HUAWEI Mate 40 Pro+ 全网通版
+`NOP-AN00`: HUAWEI Mate 40 Pro+ 5G 全网通版
 
 **HUAWEI Mate 40 RS 保时捷设计 (`noahp`):**
 
@@ -460,6 +464,8 @@
 **HUAWEI nova 8 Pro:**
 
 `BRQ-AN00`: HUAWEI nova 8 Pro 5G 全网通版
+
+`BRQ-AL00`: HUAWEI nova 8 Pro 4G 全网通版
 
 **HUAWEI nova 8 SE (`jessica`):**
 
