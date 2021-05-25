@@ -358,6 +358,8 @@
 
 **realme Narzo 20:**
 
+`RMX2191`: realme Narzo 20 国际版
+
 `RMX2193`: realme Narzo 20 印度版
 
 **realme Narzo 20 Pro:**
@@ -367,6 +369,12 @@
 **realme Narzo 20A:**
 
 `RMX2050`: realme Narzo 20A 印度版
+
+**realme Narzo 30:**
+
+`RMX2156`: realme Narzo 30 亚太版
+
+`RMX3241`: realme Narzo 30 欧洲版
 
 **realme Narzo 30 Pro:**
 
