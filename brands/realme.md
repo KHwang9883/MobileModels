@@ -118,6 +118,10 @@
 
 `RMX2205`: realme 真我 Q3 Pro 5G
 
+**realme 真我 Q3 Pro 狂欢版:**
+
+`RMX3142`: realme 真我 Q3 Pro 狂欢版 5G
+
 **realme 真我 Q3i:**
 
 `RMX3042`: realme 真我 Q3i 5G
@@ -131,6 +135,10 @@
 **realme 真我 GT Neo:**
 
 `RMX3031`: realme 真我 GT Neo 5G
+
+**realme 真我 GT Neo 闪速版:**
+
+`RMX3350`: realme 真我 GT Neo 闪速版 5G
 
 ## 数字系列 (海外)
 
