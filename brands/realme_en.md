@@ -353,6 +353,10 @@
 
 `RMX2205`: realme Q3 Pro 5G
 
+**realme Q3 Pro Carnival Edition:**
+
+`RMX3142`: realme Q3 Pro Carnival Edition 5G
+
 **realme Q3i:**
 
 `RMX3042`: realme Q3i 5G
@@ -366,3 +370,7 @@
 **realme GT Neo:**
 
 `RMX3031`: realme GT Neo 5G
+
+**realme GT Neo Flash Speed Edition:**
+
+`RMX3350`: realme GT Neo Flash Speed Edition 5G
