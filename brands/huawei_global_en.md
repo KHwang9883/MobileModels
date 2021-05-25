@@ -115,6 +115,10 @@
 
 `LIO-N29`: PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM
 
+**HUAWEI Mate 40 Pro (`noah`):**
+
+`NOH-NX9`: HUAWEI Mate 40 Pro 5G Dual SIM
+
 **HUAWEI Mate Xs (`tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM
@@ -227,21 +231,41 @@
 
 `CDY-NX9`: HUAWEI P40 lite 5G
 
-**HUAWEI P Smart (`figo`):**
+**HUAWEI P40 lite E (`arthur`):**
 
-`FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P Smart
+`ART-L29`: HUAWEI P40 lite E Dual SIM
 
-**HUAWEI P Smart+ (`sydneyi`):**
+**HUAWEI P smart (`figo`):**
 
-`INE-LX1`: HUAWEI P Smart+
+`FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P smart
 
-**HUAWEI P Smart 2019 (`potter`):**
+**HUAWEI P smart+ (`sydneyi`):**
 
-`POT-LX1` `POT-LX1AF` `POT-LX1RU` `POT-LX1T` `POT-LX3`: HUAWEI P Smart 2019
+`INE-LX1`: HUAWEI P smart+
 
-**HUAWEI P Smart Pro (`stark`):**
+**HUAWEI P smart 2019 (`potter`):**
 
-`STK-L21` `STK-LX1`: HUAWEI P Smart Pro
+`POT-LX1` `POT-LX1AF` `POT-LX1RU` `POT-LX3`: HUAWEI P smart 2019
+
+**HUAWEI P smart+ 2019 (`potter`):**
+
+`POT-LX1T`: HUAWEI P smart+ 2019
+
+**HUAWEI P smart Z (`stark`):**
+
+`STK-LX1`: HUAWEI P smart Z Dual SIM
+
+**HUAWEI P smart Pro (`stark`):**
+
+`STK-L21`: HUAWEI P smart Pro Dual SIM
+
+**HUAWEI P smart 2020 (`potter`):**
+
+`POT-LX1A`: HUAWEI P smart 2020 Dual SIM
+
+**HUAWEI P smart 2021:**
+
+`PPA-LX2`: HUAWEI P smart 2021 Dual SIM
 
 ## HUAWEI nova Series
 
