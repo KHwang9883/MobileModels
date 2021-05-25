@@ -371,6 +371,6 @@
 
 `RMX3031`: realme GT Neo 5G
 
-**realme GT Neo Flash Speed Edition:**
+**realme GT Neo Flash:**
 
-`RMX3350`: realme GT Neo Flash Speed Edition 5G
+`RMX3350`: realme GT Neo Flash 5G
