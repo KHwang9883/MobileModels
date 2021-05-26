@@ -923,7 +923,7 @@
 
 `M2003J6B2G`: Redmi Note 9 Pro Global
 
-**[`J17`] Redmi Note 9 Pro 5G (`gauguinpro`):**
+**[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
 `M2007J17C`: Redmi Note 9 Pro 5G China
 
@@ -951,6 +951,10 @@
 
 `M2103K19G` `M2103K19Y`: Redmi Note 10 5G Global
 
+**[`K19`] Redmi Note 10 (`camellia`):**
+
+`M2103K19C`: Redmi Note 10 5G China
+
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro Global
@@ -964,6 +968,10 @@
 `M2101K6P`: Redmi Note 10 Pro India
 
 `M2101K6I`: Redmi Note 10 Pro Max India
+
+**[`K10A`] Redmi Note 10 Pro (`chopin`):**
+
+`M2104K10AC`: Redmi Note 10 Pro 5G China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -1176,6 +1184,8 @@
 `KLE-A0`: Black Shark 3S China
 
 **Black Shark 4 (`penrose`):**
+
+`PRS-H0`: Black Shark 4 Global
 
 `PRS-A0`: Black Shark 4 China
 
