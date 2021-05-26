@@ -916,7 +916,7 @@
 
 `M2010J19SC`: Redmi Note 9 4G 全网通版
 
-**[`J22`] Redmi Note 9 5G (`cannon`):**
+**[`J22`] Redmi Note 9 (`cannon`):**
 
 `M2007J22C`: Redmi Note 9 5G 全网通版
 
@@ -978,6 +978,10 @@
 
 `M2101K7BL`: Redmi Note 10S 巴西版
 
+**[`K19`] Redmi Note 10 (`camellia`):**
+
+`M2103K19C`: Redmi Note 10 5G 全网通版
+
 **[`K19`] Redmi Note 10 5G (`camellian`):**
 
 `M2103K19G` `M2103K19Y`: Redmi Note 10 5G 国际版
@@ -995,6 +999,10 @@
 `M2101K6P`: Redmi Note 10 Pro 印度版
 
 `M2101K6I`: Redmi Note 10 Pro Max 印度版
+
+**[`K10A`] Redmi Note 10 Pro (`chopin`):**
+
+`M2104K10AC`: Redmi Note 10 Pro 5G 全网通版
 
 ## Redmi X 系列
 
@@ -1215,6 +1223,8 @@
 **黑鲨游戏手机 4 (`penrose`):**
 
 `PRS-A0`: 黑鲨游戏手机 4 全网通版
+
+`PRS-H0`: 黑鲨游戏手机 4 国际版
 
 **黑鲨游戏手机 4 Pro (`kaiser`):**
 
