@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-05-27
+- `huawei` 新增 HUAWEI MateBook D AMD 锐龙版 (2021)。
 ## 2021-05-26
 - `xiaomi` 新增 Redmi Note 10 系列（国行）。
 ## 2021-05-25
