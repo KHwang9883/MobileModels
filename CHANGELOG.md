@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-05-31
+- `realme` 新增 realme X7 Max 印度版。
 ## 2021-05-27
 - `huawei` 新增 HUAWEI MateBook D AMD 锐龙版 (2021)。
 ## 2021-05-26
