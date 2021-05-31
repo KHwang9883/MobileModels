@@ -143,6 +143,10 @@
 
 `RMX2121`: realme X7 Pro
 
+**realme X7 Max:**
+
+`RMX3031`: realme X7 Max
+
 ## C series
 
 **realme C1:**

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-05-31
+- `realme_en` Add realme X7 Max (India).
 ## 2021-05-26
 - `xiaomi_en` Redmi Note 10 series (China) have been added.
 ## 2021-05-25
