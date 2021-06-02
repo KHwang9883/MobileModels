@@ -177,7 +177,9 @@
 
 **HUAWEI Mate X2 (`teton`):**
 
-`TET-AN00` `TET-AN10`: HUAWEI Mate X2
+`TET-AN00` `TET-AN10`: HUAWEI Mate X2 5G 全网通版
+
+`TET-AL00`: HUAWEI Mate X2 4G 全网通版
 
 ## HUAWEI P 系列
 
@@ -835,7 +837,19 @@
 
 `MRX-AL19`: HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)
 
-`MRX-AN19`: HUAWEI MatePad Pro 5G 10.8 英寸 全网通版
+`MRX-AN19`: HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
+
+**HUAWEI MatePad Pro (`marxR`):**
+
+`MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+
+**HUAWEI MatePad Pro (`wanger`):**
+
+`WGR-W09`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (麒麟 9000E)
+
+`WGR-W19`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (麒麟 9000)
+
+`WGR-AN19`: HUAWEI MatePad Pro 12.2 英寸 全网通版 (麒麟 9000)
 
 **HUAWEI MatePad (`bach3`):**
 
