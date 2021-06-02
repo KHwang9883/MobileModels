@@ -839,17 +839,17 @@
 
 `MRX-AN19`: HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
 
-**HUAWEI MatePad Pro (`marxR`):**
+**HUAWEI MatePad Pro 10.8 (`marxR`):**
 
 `MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
 
-**HUAWEI MatePad Pro (`wanger`):**
+**HUAWEI MatePad Pro 12.6 (`wanger`):**
 
-`WGR-W09`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (麒麟 9000E)
+`WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
 
-`WGR-W19`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (麒麟 9000)
+`WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
 
-`WGR-AN19`: HUAWEI MatePad Pro 12.2 英寸 全网通版 (麒麟 9000)
+`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
 
 **HUAWEI MatePad (`bach3`):**
 
@@ -861,11 +861,15 @@
 
 `BAH3-AN10`: HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
 
-**HUAWEI MatePad (`schumannR`):**
+**HUAWEI MatePad 10.8 (`schumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
 
 `SCMR-AL09`: HUAWEI MatePad 10.8 英寸 全网通版
+
+**HUAWEI MatePad 11:**
+
+`DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
 **华为畅享平板 (`agassi2`):**
 

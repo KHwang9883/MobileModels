@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-06-03
+- `huawei` 新增 HUAWEI MatePad 11。
 ## 2021-06-02
 - `honor` 新增荣耀平板 V6 新版。
 - `huawei` 新增 HUAWEI MatePad Pro (2021)。
