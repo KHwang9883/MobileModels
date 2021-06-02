@@ -947,9 +947,15 @@
 
 `M2101K7BL`: Redmi Note 10S Brazil
 
-**[`K19`] Redmi Note 10 5G (`camellian`):**
+**[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellian`):**
 
-`M2103K19G` `M2103K19Y`: Redmi Note 10 5G Global
+`M2103K19G`: Redmi Note 10 5G Global
+
+`M2103K19Y`: Redmi Note 10T Global
+
+**[`K19`] Redmi Note 10 5G (`camelliain`):**
+
+`M2103K19I`: Redmi Note 10 5G India
 
 **[`K19`] Redmi Note 10 (`camellia`):**
 
@@ -1138,6 +1144,10 @@
 **[`K19P`] POCO M3 Pro (`camellian`):**
 
 `M2103K19PG` `M2103K19PY`: POCO M3 Pro 5G Global
+
+**[`K19P`] POCO M3 Pro (`camelliain`):**
+
+`M2103K19PI`: POCO M3 Pro 5G India
 
 **[`C3M`] POCO C3 (`angelicain`):**
 

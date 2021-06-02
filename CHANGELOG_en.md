@@ -1,11 +1,13 @@
 # CHANGELOG
+## 2021-06-02
+- `xiaomi_en` Add Redmi Note 10 5G & POCO M3 Pro 5G (India).
 ## 2021-05-31
 - `realme_en` Add realme X7 Max (India).
 ## 2021-05-26
 - `xiaomi_en` Redmi Note 10 series (China) have been added.
 ## 2021-05-25
 - `huawei_global_en` Several international models have been added.
-- `realme_en` Add realme Q3 Pro Carnival Edition & realme GT Neo Flash Speed Edition; add several international models. 
+- `realme_en` Add realme Q3 Pro Carnival Edition & realme GT Neo Flash; add several international models. 
 ## 2021-05-23
 - `apple_en` iPad Pro (2021) has been added.
 ## 2021-05-21
