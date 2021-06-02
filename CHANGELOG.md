@@ -1,6 +1,7 @@
 # 更新日志
 ## 2021-06-02
 - `huawei` 新增 HUAWEI MatePad Pro (2021)。
+- `xiaomi` 新增 Redmi Note 10 5G & POCO M3 Pro 5G 印度版。
 ## 2021-05-31
 - `realme` 新增 realme X7 Max 印度版。
 ## 2021-05-27
