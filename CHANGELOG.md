@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-06-02
+- `honor` 新增荣耀平板 V6 新版。
 - `huawei` 新增 HUAWEI MatePad Pro (2021)。
 - `xiaomi` 新增 Redmi Note 10 5G & POCO M3 Pro 5G 印度版。
 ## 2021-05-31
