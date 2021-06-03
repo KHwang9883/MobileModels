@@ -833,9 +833,9 @@
 
 `HBB-WAE9PHNL`: 荣耀 MagicBook Pro 2020 i7 (16GB+512GB)
 
-`HLYL-WFQ9`: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
+`HLYL-WFQ9` `HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
 
-`HLYL-WFP9`: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+`HLYL-WFP9` `HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
 
 **荣耀猎人游戏本 V700:**
 
