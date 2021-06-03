@@ -327,9 +327,7 @@
 
 **荣耀 X10 (`teller`):**
 
-`TEL-AN00`: 荣耀 X10 5G 全网通版 (6GB+64GB)
-
-`TEL-AN00a` `TEL-AN10`: 荣耀 X10 5G 全网通版
+`TEL-AN00` `TEL-AN00a` `TEL-AN10`: 荣耀 X10 5G 全网通版
 
 `TEL-TN00` `TEL-TN10`: 荣耀 X10 5G 移动定制版
 
