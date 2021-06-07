@@ -110,6 +110,10 @@
 
 `V2056A`: vivo X60 Pro+ 5G 全网通版
 
+**vivo X60t Pro+ (`PD2056`):**
+
+`V2056A`: vivo X60t Pro+ 5G 全网通版
+
 ## S 系列
 
 **vivo S1 (`PD1831`):**
