@@ -294,6 +294,10 @@
 
 `V2054A`: vivo Y52s (t1 版) 5G 全网通版
 
+**vivo Y53s (`PD2111`):**
+
+`V2111A`: vivo Y53s 5G 全网通版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G 全网通版
