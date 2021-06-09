@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-06-10
+- `samsung` 新增 Galaxy Tab S7 FE & Galaxy Tab A7 Lite。
 ## 2021-06-08
 - `vivo` 新增 vivo Y53s。
 ## 2021-06-07

@@ -658,7 +658,7 @@
 
 **Galaxy Tab S 8.4 (`klimtlte`):**
 
-`SM-T705C`: Galaxy Tab S 8.4 4G
+`SM-T705C`: Galaxy Tab S 8.4 LTE
 
 **Galaxy Tab S 10.5 (`chagallwifi`):**
 
@@ -666,7 +666,7 @@
 
 **Galaxy Tab S 10.5 (`chagalllte`):**
 
-`SM-T805C`: Galaxy Tab S 10.5 4G
+`SM-T805C`: Galaxy Tab S 10.5 LTE
 
 **Galaxy Tab S2 8.0 (`gts28wifichn`):**
 
@@ -674,7 +674,7 @@
 
 **Galaxy Tab S2 8.0 (`gts28ltechn`):**
 
-`SM-T715C`: Galaxy Tab S2 8.0 4G (Exynos)
+`SM-T715C`: Galaxy Tab S2 8.0 LTE (Exynos)
 
 **Galaxy Tab S2 8.0 (`gts28vewifichn`):**
 
@@ -682,7 +682,7 @@
 
 **Galaxy Tab S2 8.0 (`gts28veltechn`):**
 
-`SM-T719C`: Galaxy Tab S2 8.0 4G (高通)
+`SM-T719C`: Galaxy Tab S2 8.0 LTE (高通)
 
 **Galaxy Tab S2 9.7 (`gts210wifichn`):**
 
@@ -690,7 +690,7 @@
 
 **Galaxy Tab S2 9.7 (`gts210ltechn`):**
 
-`SM-T815C`: Galaxy Tab S2 9.7 4G (Exynos)
+`SM-T815C`: Galaxy Tab S2 9.7 LTE (Exynos)
 
 **Galaxy Tab S2 9.7 (`gts210vewifichn`):**
 
@@ -698,7 +698,7 @@
 
 **Galaxy Tab S2 9.7 (`gts210veltechn`):**
 
-`SM-T819C`: Galaxy Tab S2 9.7 4G (高通)
+`SM-T819C`: Galaxy Tab S2 9.7 LTE (高通)
 
 **Galaxy Tab S3 (`gts3lwifichn`):**
 
@@ -706,7 +706,7 @@
 
 **Galaxy Tab S3 (`gts3lltechn`):**
 
-`SM-T825C`: Galaxy Tab S3 4G
+`SM-T825C`: Galaxy Tab S3 LTE
 
 **Galaxy Tab S4 (`gts4lwifichn`):**
 
@@ -714,7 +714,7 @@
 
 **Galaxy Tab S4 (`gts4lltechn`):**
 
-`SM-T835C`: Galaxy Tab S4 4G
+`SM-T835C`: Galaxy Tab S4 LTE
 
 **Galaxy Tab S5e (`gts4lvwifichn`):**
 
@@ -722,7 +722,7 @@
 
 **Galaxy Tab S5e (`gts4lv`):**
 
-`SM-T725C`: Galaxy Tab S5e 4G
+`SM-T725C`: Galaxy Tab S5e LTE
 
 **Galaxy Tab S6 (`gts6lwifi`):**
 
@@ -734,7 +734,7 @@
 
 **Galaxy Tab S6 Lite (`gta4xl`):**
 
-`SM-P615C`: Galaxy Tab S6 Lite 4G
+`SM-P615C`: Galaxy Tab S6 Lite LTE
 
 **Galaxy Tab S7 (`gts7lwifi`):**
 
@@ -744,6 +744,14 @@
 
 `SM-T970`: Galaxy Tab S7+ WLAN
 
+**Galaxy Tab S7 FE (`gts7xllitewifi`):**
+
+`SM-T730`: Galaxy Tab S7 FE WLAN
+
+**Galaxy Tab S7 FE (`gts7xllite`):**
+
+`SM-T735C`: Galaxy Tab S7 FE LTE
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
@@ -752,7 +760,7 @@
 
 **Galaxy Tab A 8.0 (`gt58ltechn`):**
 
-`SM-T355C`: Galaxy Tab A 8.0 4G
+`SM-T355C`: Galaxy Tab A 8.0 LTE
 
 **Galaxy Tab A 8.0 (`gt510wifichn`):**
 
@@ -760,7 +768,7 @@
 
 **Galaxy Tab A 8.0 (`gt510ltechn`):**
 
-`SM-T555C`: Galaxy Tab A 9.7 4G
+`SM-T555C`: Galaxy Tab A 9.7 LTE
 
 **Galaxy Tab A (2016) (`gtaxlwifichn`):**
 
@@ -768,7 +776,7 @@
 
 **Galaxy Tab A (2016) (`gtaxlltechn`):**
 
-`SM-T585C`: Galaxy Tab A (2016) 10.1 4G
+`SM-T585C`: Galaxy Tab A (2016) 10.1 LTE
 
 **Galaxy Tab A (2016) with S Pen (`gtanotexlwifichn`):**
 
@@ -776,7 +784,7 @@
 
 **Galaxy Tab A (2016) (S Pen) (`gtanotexlltechn`):**
 
-`SM-P588C`: Galaxy Tab A (2016) with S Pen 10.1 4G
+`SM-P588C`: Galaxy Tab A (2016) with S Pen 10.1 LTE
 
 **Galaxy Tab A (2017) (`gta2swifichn`):**
 
@@ -784,7 +792,7 @@
 
 **Galaxy Tab A (2017) (`gta2sltechn`):**
 
-`SM-T385C`: Galaxy Tab A (2017) 8.0 4G
+`SM-T385C`: Galaxy Tab A (2017) 8.0 LTE
 
 **Galaxy Tab A (2018) (`gta2xlwifichn`):**
 
@@ -792,7 +800,7 @@
 
 **Galaxy Tab A (2018) (`gta2xlltechn`):**
 
-`SM-T595C`: Galaxy Tab A (2018) 10.5 4G
+`SM-T595C`: Galaxy Tab A (2018) 10.5 LTE
 
 **Galaxy Tab A (2019) 8.0 (`gtowifi`):**
 
@@ -800,7 +808,7 @@
 
 **Galaxy Tab A (2019) 8.0 (`gto`):**
 
-`SM-T295C`: Galaxy Tab A (2019) 8.0 4G
+`SM-T295C`: Galaxy Tab A (2019) 8.0 LTE
 
 **Galaxy Tab A (2019) 10.1 (`gta3xlwifi`):**
 
@@ -808,11 +816,19 @@
 
 **Galaxy Tab A7 (`gta4lwifi`):**
 
-`SM-T500`: Galaxy Tab A7 WLAN
+`SM-T500`: Galaxy Tab A7 10.4 WLAN
 
 **Galaxy Tab A7 (`gta4l`):**
 
-`SM-T505C`: Galaxy Tab A7 4G
+`SM-T505C`: Galaxy Tab A7 10.4 LTE
+
+**Galaxy Tab A7 Lite (`gta7litewifi`):**
+
+`SM-T220`: Galaxy Tab A7 Lite 8.7 WLAN
+
+**Galaxy Tab A7 Lite (`gta7lite`):**
+
+`SM-T225C`: Galaxy Tab A7 Lite 8.7 LTE
 
 ## Galaxy Tab 系列
 
@@ -826,7 +842,7 @@
 
 **Galaxy Tab4 7.0 VE (`degasveltechn`):**
 
-`SM-T239C`: Galaxy Tab4 7.0 VE 4G
+`SM-T239C`: Galaxy Tab4 7.0 VE LTE
 
 **Galaxy Tab4 8.0 (`milletwifi`):**
 
