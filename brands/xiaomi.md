@@ -988,9 +988,9 @@
 
 `M2103K19Y`: Redmi Note 10T 国际版
 
-**[`K19`] Redmi Note 10 5G (`camelliain`):**
+**[`K19`] Redmi Note 10T 5G (`camelliain`):**
 
-`M2103K19I`: Redmi Note 10 5G 印度版
+`M2103K19I`: Redmi Note 10T 5G 印度版
 
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
