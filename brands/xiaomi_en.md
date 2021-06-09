@@ -953,9 +953,9 @@
 
 `M2103K19Y`: Redmi Note 10T Global
 
-**[`K19`] Redmi Note 10 5G (`camelliain`):**
+**[`K19`] Redmi Note 10T 5G (`camelliain`):**
 
-`M2103K19I`: Redmi Note 10 5G India
+`M2103K19I`: Redmi Note 10T 5G India
 
 **[`K19`] Redmi Note 10 (`camellia`):**
 
