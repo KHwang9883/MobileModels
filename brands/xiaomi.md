@@ -204,9 +204,7 @@
 
 `M2002J9S`: 小米 10 Lite 韩国版
 
-`M2002J9R`: 小米 10 Lite 日本版
-
-`XIG01`: 小米 10 Lite 日本版 (NTT docomo)
+`M2002J9R` `XIG01`: 小米 10 Lite 日本版 (KDDI)
 
 **[`J1S`] 小米 10 至尊纪念版 (`cas`):**
 
@@ -934,9 +932,7 @@
 
 `M2007J22G`: Redmi Note 9T 5G 国际版
 
-`M2007J22R`: Redmi Note 9T 5G 日本版
-
-`A001XM`: Redmi Note 9T 5G 日本版 (SoftBank)
+`M2007J22R` `A001XM`: Redmi Note 9T 5G 日本版 (SoftBank)
 
 **[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
