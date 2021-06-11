@@ -197,9 +197,7 @@
 
 `M2002J9S`: Mi 10 Lite Korea
 
-`M2002J9R`: Mi 10 Lite Japan
-
-`XIG01`: Mi 10 Lite Japan (NTT docomo)
+`M2002J9R` `XIG01`: Mi 10 Lite Japan (KDDI)
 
 **[`J9A`] Mi 10 Lite Zoom (`vangogh`):**
 
@@ -903,9 +901,7 @@
 
 `M2007J22G`: Redmi Note 9T 5G Global
 
-`M2007J22R`: Redmi Note 9T 5G Japan
-
-`A001XM`: Redmi Note 9T 5G Japan (SoftBank)
+`M2007J22R` `A001XM`: Redmi Note 9T 5G Japan (SoftBank)
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
