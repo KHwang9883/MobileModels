@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-06-10
+- `xiaomi_en` Fix some Black Shark models.
 ## 2021-06-02
 - `xiaomi_en` Add Redmi Note 10 5G & POCO M3 Pro 5G (India).
 ## 2021-05-31

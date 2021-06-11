@@ -1179,26 +1179,26 @@
 
 **Black Shark 3 (`klein`):**
 
-`KLE-H0`: Black Shark 3 Global
+`SHARK KLE-H0`: Black Shark 3 Global
 
-`KLE-A0`: Black Shark 3 China
+`SHARK KLE-A0`: Black Shark 3 China
 
 **Black Shark 3 Pro (`mobius`):**
 
-`MBU-H0`: Black Shark 3 Pro Global
+`SHARK MBU-H0`: Black Shark 3 Pro Global
 
-`MBU-A0`: Black Shark 3 Pro China
+`SHARK MBU-A0`: Black Shark 3 Pro China
 
 **Black Shark 3S (`klein`):**
 
-`KLE-A0`: Black Shark 3S China
+`SHARK KLE-A0`: Black Shark 3S China
 
 **Black Shark 4 (`penrose`):**
 
-`PRS-H0`: Black Shark 4 Global
+`SHARK PRS-H0`: Black Shark 4 Global
 
-`PRS-A0`: Black Shark 4 China
+`SHARK PRS-A0`: Black Shark 4 China
 
 **Black Shark 4 Pro (`kaiser`):**
 
-`KSR-A0`: Black Shark 4 Pro China
+`SHARK KSR-A0`: Black Shark 4 Pro China
