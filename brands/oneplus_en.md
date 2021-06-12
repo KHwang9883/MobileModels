@@ -226,3 +226,10 @@
 **OnePlus Nord N100 (`billie2t`):**
 
 `BE2012`: OnePlus Nord N100 T-Mobile
+
+**OnePlus Nord CE (`ebba`):**
+
+`EB2101`: OnePlus Nord CE 5G India
+
+`EB2103`: OnePlus Nord CE 5G EU / Global
+

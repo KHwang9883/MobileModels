@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-06-11
+- `oneplus_en` Add OnePlus Nord CE 5G.
 ## 2021-06-10
 - `xiaomi_en` Fix some Black Shark models & Japanese models.
 ## 2021-06-02
