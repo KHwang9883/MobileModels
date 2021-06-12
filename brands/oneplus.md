@@ -231,3 +231,9 @@
 **OnePlus Nord N100 (`billie2t`):**
 
 `BE2012`: OnePlus Nord N100 T-Mobile 版
+
+**OnePlus Nord CE (`ebba`):**
+
+`EB2101`: OnePlus Nord CE 5G 印度版
+
+`EB2103`: OnePlus Nord CE 5G 欧洲/国际版

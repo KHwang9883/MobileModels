@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-06-11
+- `oneplus` 新增 OnePlus Nord CE 5G。
 ## 2021-06-10
 - `samsung` 新增 Galaxy Tab S7 FE & Galaxy Tab A7 Lite。
 - `xiaomi` 订正部分黑鲨手机型号；订正部分日版型号。
