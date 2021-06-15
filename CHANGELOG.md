@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-06-16
+- `nokia` 新增 Nokia C20 Plus，增加完整 codename。
 - `realme` 新增 realme GT 国际版。
 ## 2021-06-11
 - `oneplus` 新增 OnePlus Nord CE 5G。
