@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-06-16
+- `realme_en` Add realme GT (Global).
 ## 2021-06-11
 - `oneplus_en` Add OnePlus Nord CE 5G.
 ## 2021-06-10

@@ -239,17 +239,23 @@
 
 **realme Narzo 30:**
 
-`RMX2156`: realme Narzo 30 Asia-Pacific
+`RMX2156`: realme Narzo 30 4G
 
-`RMX3241`: realme Narzo 30 EU
+`RMX3241`: realme Narzo 30 5G
 
 **realme Narzo 30 Pro:**
 
-`RMX2117`: realme Narzo 30 Pro India
+`RMX2117`: realme Narzo 30 Pro 5G India
 
 **realme Narzo 30A:**
 
 `RMX3171`: realme Narzo 30A India
+
+## GT series
+
+**realme GT:**
+
+`RMX2202`: realme GT 5G
 
 ## X series (China)
 
