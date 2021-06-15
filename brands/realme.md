@@ -376,14 +376,20 @@
 
 **realme Narzo 30:**
 
-`RMX2156`: realme Narzo 30 亚太版
+`RMX2156`: realme Narzo 30 4G
 
-`RMX3241`: realme Narzo 30 欧洲版
+`RMX3241`: realme Narzo 30 5G
 
 **realme Narzo 30 Pro:**
 
-`RMX2117`: realme Narzo 30 Pro 印度版
+`RMX2117`: realme Narzo 30 Pro 5G 印度版
 
 **realme Narzo 30A:**
 
 `RMX3171`: realme Narzo 30A 印度版
+
+## GT 系列 (海外)
+
+**realme GT:**
+
+`RMX2202`: realme GT 5G
