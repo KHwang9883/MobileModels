@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-06-16
+- `honor` 新增荣耀 50 系列。
 - `nokia` 新增 Nokia C20 Plus，增加完整 codename。
 - `realme` 新增 realme GT 国际版。
 - `vivo` 新增 vivo Y31s (t1 版)。
