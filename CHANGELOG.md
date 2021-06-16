@@ -2,6 +2,7 @@
 ## 2021-06-16
 - `nokia` 新增 Nokia C20 Plus，增加完整 codename。
 - `realme` 新增 realme GT 国际版。
+- `vivo` 新增 vivo Y31s (t1 版)。
 ## 2021-06-11
 - `oneplus` 新增 OnePlus Nord CE 5G。
 ## 2021-06-10
