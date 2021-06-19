@@ -251,6 +251,8 @@
 
 `L40M5-RA`: Redmi 红米电视 40 英寸 R40A
 
+`L42R7-RA`: Redmi 智能电视 42 英寸
+
 `L70M5-RA`: Redmi 红米电视 70 英寸 R70A
 
 `L50M5-RK`: Redmi 智能电视 X50 50 英寸

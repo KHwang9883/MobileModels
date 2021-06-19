@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-06-19
+- `mitv` 新增 Redmi 智能电视 42 英寸。
 ## 2021-06-16
 - `honor` 新增荣耀 50 系列。
 - `nokia` 新增 Nokia C20 Plus，增加完整 codename。
