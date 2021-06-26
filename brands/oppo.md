@@ -301,6 +301,10 @@
 
 `PEHT00`: OPPO A93 移动版
 
+**OPPO A93s:**
+
+`PFGM00`: OPPO A93s 全网通版
+
 **OPPO A95:**
 
 `PELM00`: OPPO A95 全网通版
