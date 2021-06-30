@@ -5,7 +5,7 @@
 - 是否包含国际机型: ❌
 - [国际机型汇总 (英文)](brands/honor_global_en.md)
 
-## 荣耀 HONOR 系列 (N 系列)
+## 荣耀 HONOR 系列 (数字系列 / N 系列)
 
 **荣耀 6 (`mogolia`):**
 
@@ -187,6 +187,8 @@
 
 `RNA-AN00`: 荣耀 50 Pro 5G 全网通版
 
+`RNA-TN00`: 荣耀 50 Pro 5G 移动版
+
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`knight`):**
@@ -346,6 +348,10 @@
 **荣耀 X10 Max (`kingkong`):**
 
 `KKG-AN00`: 荣耀 X10 Max 5G 全网通版
+
+**荣耀 X20 SE (`chanel`):**
+
+`CHL-AN00`: 荣耀 X20 SE 5G 全网通版
 
 ## 荣耀 Play 系列
 
