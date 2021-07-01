@@ -56,6 +56,18 @@
 
 `ZTE A2022P`: 中兴 Axon 30 Ultra 5G
 
+**中兴天机 A31:**
+
+`ZTE A2122H`: 中兴天机 A31 5G
+
+**中兴天机 A31 Pro:**
+
+`ZTE A2022H`: 中兴天机 A31 Pro 5G
+
+**中兴天机 A31 Ultra:**
+
+`ZTE A2022P`: 中兴天机 A31 Ultra 5G
+
 **中兴 S30:**
 
 `ZTE 9030N`: 中兴 S30 5G
