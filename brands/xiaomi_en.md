@@ -939,7 +939,7 @@
 
 **[`K7BN`] Redmi Note 10S (`rosemary`):**
 
-`M2101K7BN` `M2101K7BNY`: Redmi Note 10S Global (NFC)
+`M2101K7BNY`: Redmi Note 10S Global (NFC)
 
 **[`K7B`] Redmi Note 10S (`maltose`):**
 
