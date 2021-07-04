@@ -336,9 +336,17 @@
 
 `RMX3201` `RMX3202` `RMX3203`: realme C21
 
+**realme C21Y:**
+
+`RMX3261`: realme C21Y
+
 **realme C25:**
 
 `RMX3191` `RMX3193`: realme C25
+
+**realme C25s:**
+
+`RMX3195` `RMX3197`: realme C25s
 
 ## U 系列 (海外)
 
