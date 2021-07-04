@@ -253,6 +253,8 @@
 
 `M2101K9C`: Mi 11 Lite 5G China
 
+`M2101K9R`: Mi 11 Lite 5G Japan
+
 **[`K9A`] Mi 11 Lite (`courbet`):**
 
 `M2101K9AG`: Mi 11 Lite 4G Global
