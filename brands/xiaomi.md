@@ -256,6 +256,8 @@
 
 `M2101K9G`: 小米 11 Lite 5G 国际版
 
+`M2101K9R`: 小米 11 Lite 5G 日本版
+
 **[`K9A`] 小米 11 Lite (`courbet`):**
 
 `M2101K9AG`: 小米 11 Lite 4G 国际版
