@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2021-07-04
+- `realme_en` Add several C-series models.
 - `xiaomi_en` Add Mi 11 Lite 5G (Japan).
 ## 2021-06-16
 - `realme_en` Add realme GT (Global).
