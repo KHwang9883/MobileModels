@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-07-14
+- `lenovo` 增补拯救者 2 Pro codename。
 - `zte` 增补部分型号。
 ## 2021-07-04
 - `realme` 增补部分国际型号。
@@ -101,7 +102,7 @@
 - `realme` 新增 realme C20、C21、C25（印度）。
 ## 2021-04-08
 - `huawei` 新增华为智慧屏 V 系列 2021 款。
-- `lenovo` 新增拯救者电竞手机 2 Pro（代号待补充）。
+- `lenovo` 新增拯救者电竞手机 2 Pro。
 ## 2021-04-02
 - `realme` 新增 realme 真我 X7 Pro 至尊版。
 - `vivo` 新增 vivo X60t。
