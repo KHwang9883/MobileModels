@@ -128,6 +128,10 @@
 
 `ZTE 8012N`: 中兴 Blade 20 5G
 
+**中兴 Blade V2020:**
+
+`ZTE 9000N`: 中兴 Blade V2020
+
 **中兴 Blade V2020 Smart:**
 
 `ZTE 8010`: 中兴 Blade V2020 Smart
