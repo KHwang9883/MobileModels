@@ -162,6 +162,14 @@
 
 `V2048A`: vivo S9e 5G 全网通版
 
+**vivo S10 (`PD2121`):**
+
+`V2121A`: vivo S10 5G 全网通版
+
+**vivo S10 Pro (`PD2121`):**
+
+`V2121A`: vivo S10 Pro 5G 全网通版
+
 ## Y 系列
 
 **vivo Y73 (`PD1731C`):**
