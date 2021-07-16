@@ -1138,6 +1138,10 @@
 
 `M2012K11AG`: POCO F3 国际版
 
+**[`K10`] POCO F3 GT (`aresin`):**
+
+`M2104K10I`: POCO F3 GT 印度版
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 印度版

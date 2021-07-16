@@ -1,6 +1,7 @@
 # 更新日志
 ## 2021-07-16
 - `vivo` 新增 vivo S10 系列。
+- `xiaomi` 新增 POCO F3 GT 印度版。
 ## 2021-07-14
 - `lenovo` 增补拯救者 2 Pro codename。
 - `zte` 增补部分型号。
