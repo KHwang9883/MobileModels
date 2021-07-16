@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-07-16
+- `xiaomi_en` Add POCO F3 GT (India).
 ## 2021-07-04
 - `realme_en` Add several C-series models.
 - `xiaomi_en` Add Mi 11 Lite 5G (Japan).
