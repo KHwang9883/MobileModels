@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-07-19
+- `xiaomi_en` Add POCO X3 GT.
 ## 2021-07-16
 - `xiaomi_en` Add POCO F3 GT (India).
 ## 2021-07-04

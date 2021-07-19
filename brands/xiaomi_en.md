@@ -1127,6 +1127,10 @@
 
 `M2102J20SI`: POCO X3 Pro India
 
+**[`K10A`] POCO X3 GT (`chopin`):**
+
+`21061110AG`: POCO X3 GT Global
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 India
