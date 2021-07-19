@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-07-19
+- `xiaomi` 新增 POCO X3 GT 国际版。
 ## 2021-07-16
 - `vivo` 新增 vivo S10 系列。
 - `xiaomi` 新增 POCO F3 GT 印度版。

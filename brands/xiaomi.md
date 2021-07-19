@@ -1164,6 +1164,10 @@
 
 `M2102J20SI`: POCO X3 Pro 印度版
 
+**[`K10A`] POCO X3 GT (`chopin`):**
+
+`21061110AG`: POCO X3 GT 国际版
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 印度版
