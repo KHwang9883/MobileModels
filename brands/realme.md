@@ -22,123 +22,131 @@
 
 `RMX1931`: realme X2 Pro
 
-**realme 真我 X50:**
+**真我 X50:**
 
-`RMX2051`: realme 真我 X50 5G 全网通版
+`RMX2051`: 真我 X50 5G 全网通版
 
-`RMX2025`: realme 真我 X50 5G 移动版
+`RMX2025`: 真我 X50 5G 移动版
 
-**realme 真我 X50 Pro:**
+**真我 X50 Pro:**
 
-`RMX2071`: realme 真我 X50 Pro 5G
+`RMX2071`: 真我 X50 Pro 5G
 
-**realme 真我 X50 Pro 玩家版:**
+**真我 X50 Pro 玩家版:**
 
-`RMX2072`: realme 真我 X50 Pro 玩家版
+`RMX2072`: 真我 X50 Pro 玩家版
 
-**realme 真我 X50m:**
+**真我 X50m:**
 
-`RMX2141`: realme 真我 X50m 5G
+`RMX2141`: 真我 X50m 5G
 
-`RMX2142`: realme 真我 X50m 5G 运营商定制版
+`RMX2142`: 真我 X50m 5G 运营商定制版
 
-**realme 真我 X50t:**
+**真我 X50t:**
 
-`RMX2052`: realme 真我 X50t 5G
+`RMX2052`: 真我 X50t 5G
 
-**realme 真我 X7:**
+**真我 X7:**
 
-`RMX2176`: realme 真我 X7 5G
+`RMX2176`: 真我 X7 5G
 
-**realme 真我 X7 Pro:**
+**真我 X7 Pro:**
 
-`RMX2121`: realme 真我 X7 Pro 5G
+`RMX2121`: 真我 X7 Pro 5G
 
-**realme 真我 X7 Pro 至尊版:**
+**真我 X7 Pro 至尊版:**
 
-`RMX3115`: realme 真我 X7 Pro 至尊版 5G 全网通版
+`RMX3115`: 真我 X7 Pro 至尊版 5G 全网通版
 
-`RMX3116`: realme 真我 X7 Pro 至尊版 5G 运营商定制版
+`RMX3116`: 真我 X7 Pro 至尊版 5G 运营商定制版
 
 ## V 系列
 
-**realme 真我 V3:**
+**真我 V3:**
 
-`RMX2200`: realme 真我 V3 5G 全网通版
+`RMX2200`: 真我 V3 5G 全网通版
 
-`RMX2201`: realme 真我 V3 5G 运营商定制版
+`RMX2201`: 真我 V3 5G 运营商定制版
 
-**realme 真我 V5:**
+**真我 V5:**
 
-`RMX2111`: realme 真我 V5 5G 全网通版
+`RMX2111`: 真我 V5 5G 全网通版
 
-`RMX2112`: realme 真我 V5 5G 运营商定制版
+`RMX2112`: 真我 V5 5G 运营商定制版
 
-**realme 真我 V11:**
+**真我 V11:**
 
-`RMX3121`: realme 真我 V11 5G 全网通版
+`RMX3121`: 真我 V11 5G 全网通版
 
-`RMX3122`: realme 真我 V11 5G 运营商定制版
+`RMX3122`: 真我 V11 5G 运营商定制版
 
-**realme 真我 V13:**
+**真我 V13:**
 
-`RMX3041`: realme 真我 V13 5G 全网通版
+`RMX3041`: 真我 V13 5G 全网通版
 
-`RMX3043`: realme 真我 V13 5G 运营商定制版
+`RMX3043`: 真我 V13 5G 运营商定制版
 
-**realme 真我 V15:**
+**真我 V15:**
 
-`RMX3092`: realme 真我 V15 5G 全网通版
+`RMX3092`: 真我 V15 5G 全网通版
 
-`RMX3093`: realme 真我 V15 5G 运营商定制版
+`RMX3093`: 真我 V15 5G 运营商定制版
 
 ## Q 系列
 
-**realme 真我 Q:**
+**realme Q:**
 
-`RMX1971`: realme 真我 Q
+`RMX1971`: realme Q
 
-**realme 真我 Q2:**
+**真我 Q2:**
 
-`RMX2117`: realme 真我 Q2 5G
+`RMX2117`: 真我 Q2 5G
 
-**realme 真我 Q2 Pro:**
+**真我 Q2 Pro:**
 
-`RMX2173`: realme 真我 Q2 Pro 5G
+`RMX2173`: 真我 Q2 Pro 5G
 
-**realme 真我 Q2i:**
+**真我 Q2i:**
 
-`RMX2200`: realme 真我 Q2i 5G
+`RMX2200`: 真我 Q2i 5G
 
-**realme 真我 Q3:**
+**真我 Q3:**
 
-`RMX3161`: realme 真我 Q3 5G
+`RMX3161`: 真我 Q3 5G
 
-**realme 真我 Q3 Pro:**
+**真我 Q3 Pro:**
 
-`RMX2205`: realme 真我 Q3 Pro 5G
+`RMX2205`: 真我 Q3 Pro 5G
 
-**realme 真我 Q3 Pro 狂欢版:**
+**真我 Q3 Pro 狂欢版:**
 
-`RMX3142`: realme 真我 Q3 Pro 狂欢版 5G
+`RMX3142`: 真我 Q3 Pro 狂欢版 5G
 
-**realme 真我 Q3i:**
+**真我 Q3i:**
 
-`RMX3042`: realme 真我 Q3i 5G
+`RMX3042`: 真我 Q3i 5G
 
 ## GT 系列
 
-**realme 真我 GT:**
+**真我 GT:**
 
-`RMX2202`: realme 真我 GT 5G
+`RMX2202`: 真我 GT 5G
 
-**realme 真我 GT Neo:**
+**真我 GT Neo:**
 
-`RMX3031`: realme 真我 GT Neo 5G
+`RMX3031`: 真我 GT Neo 5G
 
-**realme 真我 GT Neo 闪速版:**
+**真我 GT Neo 闪速版:**
 
-`RMX3350`: realme 真我 GT Neo 闪速版 5G
+`RMX3350`: 真我 GT Neo 闪速版 5G
+
+**真我 GT 大师版:**
+
+`RMX3361`: 真我 GT 大师版 5G
+
+**真我 GT 大师探索版:**
+
+`RMX3366`: 真我 GT 大师探索版 5G
 
 ## 数字系列 (海外)
 
