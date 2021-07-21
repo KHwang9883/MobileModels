@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-07-21
+- `realme_en` Add realme GT Master series (China).
 ## 2021-07-19
 - `xiaomi_en` Add POCO X3 GT.
 ## 2021-07-16

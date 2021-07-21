@@ -400,3 +400,11 @@
 **realme GT Neo Flash:**
 
 `RMX3350`: realme GT Neo Flash 5G
+
+**realme GT Master:**
+
+`RMX3361`: realme GT Master 5G
+
+**realme GT Master Explore Edition:**
+
+`RMX3366`: realme GT Master Explore Edition 5G
