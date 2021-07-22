@@ -172,56 +172,6 @@
 
 ## Y 系列
 
-**vivo Y73 (`PD1731C`):**
-
-`V1731CA`: vivo Y73 全网通版
-
-**vivo Y81 (`PD1732`):**
-
-`V1732A`: vivo Y81 全网通版
-
-`V1732T`: vivo Y81 移动全网通版
-
-**vivo Y81s (`PD1732`):**
-
-`V1732A`: vivo Y81s 全网通版
-
-`V1732T`: vivo Y81s 移动全网通版
-
-**vivo Y89 (`PD1730E`):**
-
-`V1730EA`: vivo Y89 全网通版
-
-**vivo Y91 (`PD1818C`):**
-
-`V1818CA`: vivo Y91 全网通版
-
-`V1818CT`: vivo Y91 移动全网通版
-
-**vivo Y93 (`PD1818`):**
-
-`V1818A`: vivo Y93 全网通版
-
-`V1818T`: vivo Y93 移动全网通版
-
-**vivo Y93s (`PD1818C`):**
-
-`V1818CA`: vivo Y93s 全网通版
-
-`V1818CT`: vivo Y93s 移动全网通版
-
-**vivo Y93 标准版 (`PD1818C`):**
-
-`V1818CA`: vivo Y93 标准版 全网通版
-
-`V1818CT`: vivo Y93 标准版 移动全网通版
-
-**vivo Y97 (`PD1813`):**
-
-`V1813A`: vivo Y97 全网通版
-
-`V1813T`: vivo Y97 移动全网通版
-
 **vivo Y3 (`PD1901`):**
 
 `V1901A`: vivo Y3 全网通版
@@ -310,6 +260,10 @@
 
 `V2111A`: vivo Y53s 5G 全网通版
 
+**vivo Y53s (t1 版) (`PD2069`):**
+
+`V2069A`: vivo Y53s (t1 版) 5G 全网通版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G 全网通版
@@ -318,9 +272,59 @@
 
 `V2002A`: vivo Y70t 5G 全网通版
 
+**vivo Y73 (`PD1731C`):**
+
+`V1731CA`: vivo Y73 全网通版
+
 **vivo Y73s (`PD2031`):**
 
 `V2031A`: vivo Y73s 5G 全网通版
+
+**vivo Y81 (`PD1732`):**
+
+`V1732A`: vivo Y81 全网通版
+
+`V1732T`: vivo Y81 移动全网通版
+
+**vivo Y81s (`PD1732`):**
+
+`V1732A`: vivo Y81s 全网通版
+
+`V1732T`: vivo Y81s 移动全网通版
+
+**vivo Y89 (`PD1730E`):**
+
+`V1730EA`: vivo Y89 全网通版
+
+**vivo Y91 (`PD1818C`):**
+
+`V1818CA`: vivo Y91 全网通版
+
+`V1818CT`: vivo Y91 移动全网通版
+
+**vivo Y93 (`PD1818`):**
+
+`V1818A`: vivo Y93 全网通版
+
+`V1818T`: vivo Y93 移动全网通版
+
+**vivo Y93s (`PD1818C`):**
+
+`V1818CA`: vivo Y93s 全网通版
+
+`V1818CT`: vivo Y93s 移动全网通版
+
+**vivo Y93 标准版 (`PD1818C`):**
+
+`V1818CA`: vivo Y93 标准版 全网通版
+
+`V1818CT`: vivo Y93 标准版 移动全网通版
+
+**vivo Y97 (`PD1813`):**
+
+`V1813A`: vivo Y97 全网通版
+
+`V1813T`: vivo Y97 移动全网通版
 
 ## Z 系列
 
