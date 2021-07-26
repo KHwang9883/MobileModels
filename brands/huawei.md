@@ -219,29 +219,29 @@
 
 `HUAWEI P7-L09`: 华为 Ascend P7 电信版
 
-**HUAWEI P8 (`grace`):**
+**华为 P8 (`grace`):**
 
-`HUAWEI GRA-TL00`: HUAWEI P8 移动标配版
+`HUAWEI GRA-TL00`: 华为 P8 移动标配版
 
-`HUAWEI GRA-UL00`: HUAWEI P8 双 4G 标配版
+`HUAWEI GRA-UL00`: 华为 P8 双 4G 标配版
 
-`HUAWEI GRA-UL10`: HUAWEI P8 双 4G 高配版
+`HUAWEI GRA-UL10`: 华为 P8 双 4G 高配版
 
-`HUAWEI GRA-CL00`: HUAWEI P8 电信标配版
+`HUAWEI GRA-CL00`: 华为 P8 电信标配版
 
-`HUAWEI GRA-CL10`: HUAWEI P8 电信高配版
+`HUAWEI GRA-CL10`: 华为 P8 电信高配版
 
-**HUAWEI P8 青春版 (`alice`):**
+**华为 P8 青春版 (`alice`):**
 
-`HUAWEI ALE-TL00`: HUAWEI P8 青春版 移动版
+`HUAWEI ALE-TL00`: 华为 P8 青春版 移动版
 
-`HUAWEI ALE-UL00`: HUAWEI P8 青春版 双 4G 版
+`HUAWEI ALE-UL00`: 华为 P8 青春版 双 4G 版
 
-`HUAWEI ALE-CL00`: HUAWEI P8 青春版 电信版
+`HUAWEI ALE-CL00`: 华为 P8 青春版 电信版
 
-**HUAWEI P8 Max:**
+**华为 P8 Max:**
 
-`DAV-703L` `DAV-713L`: HUAWEI P8 Max
+`DAV-703L` `DAV-713L`: 华为 P8 Max
 
 **HUAWEI P9 (`eva`):**
 
@@ -475,6 +475,10 @@
 
 `JSC-TN00`: HUAWEI nova 8 SE 5G 移动全网通版
 
+**HUAWEI nova 8 SE 活力版 (`chanel`):**
+
+`CHL-AL60`: HUAWEI nova 8 SE 活力版 全网通版
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -491,11 +495,11 @@
 
 `HUAWEI G7-UL00`: 华为 Ascend G7 联通版
 
-**HUAWEI G7 Plus (`rio`):**
+**华为 G7 Plus (`rio`):**
 
-`HUAWEI RIO-TL00`: HUAWEI G7 Plus 移动版
+`HUAWEI RIO-TL00`: 华为 G7 Plus 移动版
 
-`HUAWEI RIO-UL00`: HUAWEI G7 Plus 联通版
+`HUAWEI RIO-UL00`: 华为 G7 Plus 联通版
 
 **HUAWEI G9 青春版 (`venus`):**
 
@@ -1191,13 +1195,17 @@
 
 **华为智慧屏 V 系列 2021 款:**
 
-`HD55THAA`: 华为智慧屏 V55 2021 款
+`HD55THAA`: 华为智慧屏 V 55 2021 款
 
-`HD65THAA`: 华为智慧屏 V65 2021 款
+`HD65THAA`: 华为智慧屏 V 65 2021 款
 
-`HD75THAA`: 华为智慧屏 V75 2021 款
+`HD75THAA`: 华为智慧屏 V 75 2021 款
 
-`HD85THAA`: 华为智慧屏 V85 2021 款
+`HD75FREA`: 华为智慧屏 V 75 Super
+
+`HD85THAA`: 华为智慧屏 V 85 2021 款
+
+`HD98SOKA`: 华为智慧屏 V 98 2021 款
 
 **华为智慧屏 X 系列 (`plato`):**
 
