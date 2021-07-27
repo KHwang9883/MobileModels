@@ -48,6 +48,10 @@
 
 `ZTE A2121`: 中兴天机 Axon 20 5G
 
+**中兴 Axon 30:**
+
+`ZTE A2322`: 中兴 Axon 30 5G
+
 **中兴 Axon 30 Pro:**
 
 `ZTE A2022`: 中兴 Axon 30 Pro 5G
