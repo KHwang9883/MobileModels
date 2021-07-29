@@ -1221,23 +1221,25 @@
 
 **华为智慧屏 S 系列 (`kant`):**
 
-`HD55KANB`: 华为智慧屏 S 55" 60Hz (3GB+16GB)
+`HD55KANB`: 华为智慧屏 S 55 60Hz (3GB+16GB)
 
-`HD55KANC`: 华为智慧屏 S 55" 60Hz (3GB+32GB)
+`HD55KANC`: 华为智慧屏 S 55 60Hz (3GB+32GB)
 
-`HD65KANA`: 华为智慧屏 S 65" (3GB+16GB)
+`HD55KANS`: 华为智慧屏 S Pro 55 120Hz (3GB+16GB)
 
-`HD65KANS`: 华为智慧屏 S Pro 65" (3GB+32GB)
+`HD65KANA`: 华为智慧屏 S 65 (3GB+16GB)
 
-`HD75KANA`: 华为智慧屏 S 75" (3GB+16GB)
+`HD65KANS`: 华为智慧屏 S Pro 65 (3GB+32GB)
 
-`HD75KANS`: 华为智慧屏 S Pro 75" (3GB+32GB)
+`HD75KANA`: 华为智慧屏 S 75 (3GB+16GB)
+
+`HD75KANS`: 华为智慧屏 S Pro 75 (3GB+32GB)
 
 **华为智慧屏 SE 系列:**
 
-`HD55DESY` `HD55DESZ`: 华为智慧屏 SE 55" 畅连通话版 (2GB+16GB)
+`HD55DESY` `HD55DESZ`: 华为智慧屏 SE 55 畅连通话版 (2GB+16GB)
 
-`HD65DESY` `HD65DESZ`: 华为智慧屏 SE 65" 畅连通话版 (2GB+16GB)
+`HD65DESY` `HD65DESZ`: 华为智慧屏 SE 65 畅连通话版 (2GB+16GB)
 
 ## 华为早期产品 
 
