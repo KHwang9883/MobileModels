@@ -323,6 +323,14 @@
 
 `ELS-TN10`: HUAWEI P40 Pro+ 5G 移动定制版
 
+**HUAWEI P50 (`amber`):**
+
+`ABR-AL00`: HUAWEI P50 4G 全网通版
+
+**HUAWEI P50 Pro (`jade`):**
+
+`JAD-AL50`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
+
 ## HUAWEI nova 系列
 
 **HUAWEI nova (`cannes`):**
