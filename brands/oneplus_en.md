@@ -115,7 +115,7 @@
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
-`HD1925`: OnePlus 7T Pro 5G
+`HD1925`: OnePlus 7T Pro 5G T-Mobile / OnePlus Concept One
 
 **OnePlus 8 (`instantnoodle`):**
 
@@ -125,7 +125,7 @@
 
 `IN2013`: OnePlus 8 EU / Global
 
-`IN2015`: OnePlus 8 North America
+`IN2015`: OnePlus 8 Visible North America
 
 **OnePlus 8 (`instantnoodlet`):**
 
@@ -133,7 +133,7 @@
 
 **OnePlus 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 5G UW (Verzion)
+`IN2019`: OnePlus 8 UW Verzion
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -203,15 +203,17 @@
 
 `AC2003`: OnePlus Nord EU / Global
 
-**OnePlus Nord N10 (`billie8t`):**
+**OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro
 
 `BE2026`: OnePlus Nord N10 North America
 
-`BE2028`: OnePlus Nord N10 T-Mobile
-
 `BE2029`: OnePlus Nord N10 Global
+
+**OnePlus Nord N10 (`billie8t`):**
+
+`BE2028`: OnePlus Nord N10 T-Mobile
 
 **OnePlus Nord N100 (`bengal`):**
 
@@ -233,10 +235,12 @@
 
 **OnePlus Nord CE (`ebba`):**
 
-`EB2101`: OnePlus Nord CE 5G India
+`EB2101`: OnePlus Nord CE India
 
-`EB2103`: OnePlus Nord CE 5G EU / Global
+`EB2103`: OnePlus Nord CE EU / Global
 
 **OnePlus Nord 2 (`denniz`):**
 
 `DN2101`: OnePlus Nord 2 5G India
+
+`DN2103`: OnePlus Nord 2 5G EU
