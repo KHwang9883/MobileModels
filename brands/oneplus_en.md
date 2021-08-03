@@ -131,7 +131,7 @@
 
 `IN2017`: OnePlus 8 T-Mobile
 
-**OnePlus 8 (`instantnoodlev`):**
+**OnePlus 8 (`instantnoodlevis`):**
 
 `IN2019`: OnePlus 8 5G UW (Verzion)
 
@@ -203,29 +203,33 @@
 
 `AC2003`: OnePlus Nord EU / Global
 
-**OnePlus Nord N10 (`billie8`):**
+**OnePlus Nord N10 (`billie8t`):**
 
 `BE2025`: OnePlus Nord N10 Metro
 
 `BE2026`: OnePlus Nord N10 North America
 
-`BE2029`: OnePlus Nord N10 Global
-
-**OnePlus Nord N10 (`billie8t`):**
-
 `BE2028`: OnePlus Nord N10 T-Mobile
 
-**OnePlus Nord N100 (`billie2`):**
+`BE2029`: OnePlus Nord N10 Global
+
+**OnePlus Nord N100 (`bengal`):**
 
 `BE2011`: OnePlus Nord N100 North America
+
+`BE2012`: OnePlus Nord N100 T-Mobile
 
 `BE2013`: OnePlus Nord N100 Global
 
 `BE2015`: OnePlus Nord N100 Metro
 
-**OnePlus Nord N100 (`billie2t`):**
+**OnePlus Nord N200 (`dre9`):**
 
-`BE2012`: OnePlus Nord N100 T-Mobile
+`DE2117`: OnePlus Nord N200 North America
+
+**OnePlus Nord N200 (`dre8t`):**
+
+`DE2118`: OnePlus Nord N200 T-Mobile
 
 **OnePlus Nord CE (`ebba`):**
 
@@ -233,3 +237,6 @@
 
 `EB2103`: OnePlus Nord CE 5G EU / Global
 
+**OnePlus Nord 2 (`denniz`):**
+
+`DN2101`: OnePlus Nord 2 5G India
