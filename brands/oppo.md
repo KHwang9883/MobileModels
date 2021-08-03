@@ -35,6 +35,24 @@
 
 `PEEM00`: OPPO Find X3 Pro 全网通版
 
+## Watch 系列
+
+**OPPO Watch:**
+
+`OW19W1`: OPPO Watch 46mm
+
+`OW19W2`: OPPO Watch 41mm
+
+`OW19W3`: OPPO Watch 46mm ECG/精钢版
+
+**OPPO Watch 2:**
+
+`OW20W1`: OPPO Watch 2 46mm eSIM 版
+
+`OW19W2`: OPPO Watch 2 42mm 蓝牙版/eSIM 版
+
+`OW19W3`: OPPO Watch 2 46mm ECG
+
 ## Reno 系列
 
 **OPPO Reno:**
