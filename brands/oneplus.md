@@ -136,7 +136,7 @@
 
 `IN2017`: OnePlus 8 T-Mobile 版
 
-**OnePlus 8 (`instantnoodlev`):**
+**OnePlus 8 (`instantnoodlevis`):**
 
 `IN2019`: OnePlus 8 5G UW (Verzion)
 
@@ -208,32 +208,40 @@
 
 `AC2003`: OnePlus Nord 欧洲/国际版
 
-**OnePlus Nord N10 (`billie8`):**
+**OnePlus Nord N10 (`billie8t`):**
 
 `BE2025`: OnePlus Nord N10 Metro 版
 
 `BE2026`: OnePlus Nord N10 北美版
 
-`BE2029`: OnePlus Nord N10 国际版
-
-**OnePlus Nord N10 (`billie8t`):**
-
 `BE2028`: OnePlus Nord N10 T-Mobile 版
 
-**OnePlus Nord N100 (`billie2`):**
+`BE2029`: OnePlus Nord N10 国际版
+
+**OnePlus Nord N100 (`bengal`):**
 
 `BE2011`: OnePlus Nord N100 北美版
+
+`BE2012`: OnePlus Nord N100 T-Mobile 版
 
 `BE2013`: OnePlus Nord N100 国际版
 
 `BE2015`: OnePlus Nord N100 Metro 版
 
-**OnePlus Nord N100 (`billie2t`):**
+**OnePlus Nord N200 (`dre9`):**
 
-`BE2012`: OnePlus Nord N100 T-Mobile 版
+`DE2117`: OnePlus Nord N200 北美版
+
+**OnePlus Nord N200 (`dre8t`):**
+
+`DE2118`: OnePlus Nord N200 T-Mobile 版
 
 **OnePlus Nord CE (`ebba`):**
 
 `EB2101`: OnePlus Nord CE 5G 印度版
 
 `EB2103`: OnePlus Nord CE 5G 欧洲/国际版
+
+**OnePlus Nord 2 (`denniz`):**
+
+`DN2101`: OnePlus Nord 2 5G 印度版
