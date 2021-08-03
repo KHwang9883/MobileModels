@@ -1212,3 +1212,9 @@
 **Black Shark 4 Pro (`kaiser`):**
 
 `SHARK KSR-A0`: Black Shark 4 Pro China
+
+## Others
+
+**Xiaomi Mijia Translator (`FYJ01QP`):**
+
+`FYJ01QP`: Xiaomi Mijia Translator
