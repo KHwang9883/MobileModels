@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-08-03
+- `xiaomi_en` Add Redmi Note 10 JE.
 ## 2021-07-21
 - `realme_en` Add realme GT Master series (China).
 ## 2021-07-19
