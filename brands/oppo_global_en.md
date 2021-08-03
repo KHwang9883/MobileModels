@@ -1,7 +1,7 @@
 # OPPO Global Mobile Phone Models
 
 - Range: International models since 2018
-- Codename: ❌
+- Codename: ⏹
 
 ## Find series
 
@@ -28,6 +28,18 @@
 **OPPO Find X3 Pro:**
 
 `CPH2173`: OPPO Find X3 Pro
+
+## Watch series
+
+**OPPO Watch (`beluga`):**
+
+`OW19W6`: OPPO Watch 41mm Wi-Fi
+
+`OW19W8`: OPPO Watch 46mm Wi-Fi
+
+**OPPO Watch (`belugaxl`):**
+
+`OW19W12`: OPPO Watch 46mm LTE
 
 ## Reno series
 
