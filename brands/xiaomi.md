@@ -990,6 +990,10 @@
 
 `M2103K19I`: Redmi Note 10T 5G 印度版
 
+**[`K19J`] Redmi Note 10 JE (`iris`):**
+
+`2104K19J` `XIG02`: Redmi Note 10 JE 日本版 (KDDI)
+
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro 国际版
