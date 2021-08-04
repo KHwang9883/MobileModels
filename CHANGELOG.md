@@ -1,4 +1,8 @@
 # 更新日志
+## 2021-08-04
+- `oneplus` 新增 OnePlus Nord 2 欧洲版 & 部分机型代号/版本描述修正。
+- `oppo` 添加 OPPO Watch 和 OPPO Watch 2。
+- `xiaomi` 新增 小米米家翻译机 & 小米手表。
 ## 2021-08-03
 - `oneplus` 新增 OnePlus Nord N200 & Nord 2。
 - `xiaomi` 新增 Redmi Note 10 JE。
