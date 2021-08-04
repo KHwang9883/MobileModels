@@ -120,7 +120,7 @@
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
-`HD1925`: OnePlus 7T Pro 5G
+`HD1925`: OnePlus 7T Pro 5G T-Mobile 版 / OnePlus Concept One
 
 **OnePlus 8 (`instantnoodle`):**
 
@@ -130,7 +130,7 @@
 
 `IN2013`: OnePlus 8 欧洲/国际版
 
-`IN2015`: OnePlus 8 北美版
+`IN2015`: OnePlus 8 Visible 北美版
 
 **OnePlus 8 (`instantnoodlet`):**
 
@@ -138,7 +138,7 @@
 
 **OnePlus 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 5G UW (Verzion)
+`IN2019`: OnePlus 8 UW Verzion 版
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -208,15 +208,17 @@
 
 `AC2003`: OnePlus Nord 欧洲/国际版
 
-**OnePlus Nord N10 (`billie8t`):**
+**OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro 版
 
 `BE2026`: OnePlus Nord N10 北美版
 
-`BE2028`: OnePlus Nord N10 T-Mobile 版
-
 `BE2029`: OnePlus Nord N10 国际版
+
+**OnePlus Nord N10 (`billie8t`):**
+
+`BE2028`: OnePlus Nord N10 T-Mobile 版
 
 **OnePlus Nord N100 (`bengal`):**
 
@@ -238,10 +240,12 @@
 
 **OnePlus Nord CE (`ebba`):**
 
-`EB2101`: OnePlus Nord CE 5G 印度版
+`EB2101`: OnePlus Nord CE 印度版
 
-`EB2103`: OnePlus Nord CE 5G 欧洲/国际版
+`EB2103`: OnePlus Nord CE 欧洲/国际版
 
 **OnePlus Nord 2 (`denniz`):**
 
-`DN2101`: OnePlus Nord 2 5G 印度版
+`DN2101`: OnePlus Nord 2 印度版
+
+`DN2103`: OnePlus Nord 2 欧洲版
