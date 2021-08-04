@@ -29,18 +29,6 @@
 
 `CPH2173`: OPPO Find X3 Pro
 
-## Watch series
-
-**OPPO Watch (`beluga`):**
-
-`OW19W6`: OPPO Watch 41mm Wi-Fi
-
-`OW19W8`: OPPO Watch 46mm Wi-Fi
-
-**OPPO Watch (`belugaxl`):**
-
-`OW19W12`: OPPO Watch 46mm LTE
-
 ## Reno series
 
 **OPPO Reno:**
@@ -298,3 +286,15 @@
 **OPPO K3:**
 
 `CPH1955`: OPPO K3
+
+## Watch series
+
+**OPPO Watch (`beluga`):**
+
+`OW19W6`: OPPO Watch 41mm Wi-Fi
+
+`OW19W8`: OPPO Watch 46mm Wi-Fi
+
+**OPPO Watch (`belugaxl`):**
+
+`OW19W12`: OPPO Watch 46mm LTE
