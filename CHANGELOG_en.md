@@ -1,4 +1,8 @@
 # CHANGELOG
+## 2021-08-04
+- `oneplus_en` Add OnePlus Nord 2 EU & Correct.
+- `oppo_global_en` Add OPPO Watch.
+- `xiaomi_en` Add Xiaomi Mijia Translator & Mi Watch.
 ## 2021-08-03
 - `oneplus_en` Add OnePlus Nord N200 & Nord 2.
 - `xiaomi_en` Add Redmi Note 10 JE.
