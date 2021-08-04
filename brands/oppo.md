@@ -353,6 +353,6 @@
 
 `OW20W1`: OPPO Watch 2 46mm eSIM 版
 
-`OW19W2`: OPPO Watch 2 42mm 蓝牙版/eSIM 版
+`OW20W2`: OPPO Watch 2 42mm 蓝牙版/eSIM 版
 
-`OW19W3`: OPPO Watch 2 46mm ECG
+`OW20W3`: OPPO Watch 2 46mm ECG
