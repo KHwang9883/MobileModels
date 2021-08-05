@@ -349,6 +349,10 @@
 
 `KKG-AN00`: 荣耀 X10 Max 5G 全网通版
 
+**荣耀 X20:**
+
+`NTN-AN20`: 荣耀 X20 5G 全网通版
+
 **荣耀 X20 SE (`chanel`):**
 
 `CHL-AN00`: 荣耀 X20 SE 5G 全网通版
@@ -412,6 +416,10 @@
 **荣耀 Play5T 活力版 (`nezha`):**
 
 `NZA-AL00`: 荣耀 Play5T 活力版 全网通版
+
+**荣耀 Play5T Pro (`chanel`):**
+
+`CHL-AL00`: 荣耀 Play5T Pro 全网通版
 
 ## 荣耀 Note 系列
 

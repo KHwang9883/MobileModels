@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-08-05
+- `honor` 新增 荣耀 X20 & 荣耀 Play5T Pro。
 ## 2021-08-04
 - `oneplus` 新增 OnePlus Nord 2 欧洲版 & 部分机型代号/版本描述修正。
 - `oppo` 添加 OPPO Watch 和 OPPO Watch 2。
