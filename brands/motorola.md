@@ -98,11 +98,11 @@
 
 `XT2125-4`: motorola edge s
 
-**motorola edge 轻奢版:**
+**motorola edge 轻奢版 (`berlin`):**
 
 `XT2143-1`: motorola edge 轻奢版
 
-**motorola edge s pro:**
+**motorola edge s pro (`pstar`):**
 
 `XT2153-1`: motorola edge s pro
 
