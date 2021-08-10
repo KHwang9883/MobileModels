@@ -1,4 +1,7 @@
 # 更新日志
+## 2021-08-10
+- `oppo` 增补 OPPO Watch 2 42mm 蓝牙版。
+- `xiaomi` 新增 MIX 4 & 小米平板 5 系列。
 ## 2021-08-05
 - `honor` 新增 荣耀 X20 & 荣耀 Play5T Pro。
 - `motorola` 新增 摩托罗拉 edge 系列。
