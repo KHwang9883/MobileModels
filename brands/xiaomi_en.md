@@ -345,9 +345,13 @@
 
 `M1810E5GG`: Mi MIX 3 5G
 
-**[`J18`] MIX Fold (`cetus`):**
+**[`J18`] Mi MIX Fold (`cetus`):**
 
-`M2011J18C`: MIX FOLD China
+`M2011J18C`: Mi MIX FOLD China
+
+**[`K8`] Mi MIX 4 (`odin`):**
+
+`2106118C`: Mi MIX 4 China
 
 **[`B3`] Mi Max (`hydrogen`):**
 
@@ -442,6 +446,20 @@
 **[`D9P`] Mi Pad 4 Plus (`clover`):**
 
 `M1806D9PE`: Mi Pad 4 Plus LTE
+
+**[`K82`] Mi Pad 5 (`nabu`):**
+
+`21051182G`: Mi Pad 5 Global
+
+`21051182C`: Mi Pad 5 China
+
+**[`K81A`] Mi Pad 5 Pro (`elish`):**
+
+`M2105K81AC`: Mi Pad 5 Pro Wi-Fi
+
+**[`K81`] Mi Pad 5 Pro (`enuma`):**
+
+`M2105K81C`: Mi Pad 5 Pro 5G
 
 ## Redmi Phones
 

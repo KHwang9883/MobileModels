@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-08-10
+- `xiaomi_en` Add Mi MIX 4 & Mi Pad 5 series.
 ## 2021-08-04
 - `oneplus_en` Add OnePlus Nord 2 EU & Correct.
 - `oppo_global_en` Add OPPO Watch.
