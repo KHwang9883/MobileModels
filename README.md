@@ -45,17 +45,21 @@
 
 ## 项目历史
 
+### 2021 年 8 月
+
+- 本仓库已有 400 个 stars。
+
 ### 2021 年 5 月
 
-- 本 GitHub 仓库已有 300 个 stars。
+- 本仓库已有 300 个 stars。
 
 ### 2020 年 12 月
 
-- 本 GitHub 仓库已有 200 个 stars。
+- 本仓库已有 200 个 stars。
 
 ### 2020 年 5 月
 
-- 本 GitHub 仓库已有 100 个 stars。
+- 本仓库已有 100 个 stars。
 
 ### 2019 年 7 月
 
@@ -128,6 +132,6 @@
 
 酷安 **[@KHwang9883](http://www.coolapk.com/u/497671)**
 
-~~新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**~~
+新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
 
-我基本不用微博，如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)，其他事宜请在酷安联系我。如有错误或缺漏，欢迎提交 PR。
+如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)。如有错误或缺漏，欢迎提交 PR。
