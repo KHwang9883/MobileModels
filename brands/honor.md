@@ -253,6 +253,18 @@
 
 `TNY-TL00`: 荣耀 Magic2 移动 4G+ 版
 
+**荣耀 Magic3 (`elizabeth`):**
+
+`ELZ-AN00`: 荣耀 Magic3 5G 全网通版
+
+**荣耀 Magic3 Pro (`elizabeth`):**
+
+`ELZ-AN10`: 荣耀 Magic3 Pro 5G 全网通版
+
+**荣耀 Magic3 至臻版 (`elizabeth`):**
+
+`ELZ-AN20`: 荣耀 Magic3 至臻版 5G 全网通版
+
 ## 荣耀 X 系列
 
 **荣耀 3X:**
@@ -638,6 +650,10 @@
 `AGR-W09HN`: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
 
 `AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 全网通版
+
+**荣耀平板 V7 Pro (`britten`):**
+
+`BRT-W09`: 荣耀平板 V7 Pro 11 英寸 Wi-Fi 版
 
 **荣耀平板 7 (`agassiM3`):**
 

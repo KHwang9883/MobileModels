@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-08-12
+- `honor` 新增 荣耀 Magic3 系列 & 荣耀平板 V7 Pro。
 ## 2021-08-10
 - `mitv` 新增小米电视 OLED 系列。
 - `oppo` 增补 OPPO Watch 2 42mm 蓝牙版。
