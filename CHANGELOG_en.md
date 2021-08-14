@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-08-14
+- `xiaomi_en` Fix codename for Redmi Note 10T 5G & POCO M3 Pro 5G (India).
 ## 2021-08-10
 - `xiaomi_en` Add Mi MIX 4 & Mi Pad 5 series.
 ## 2021-08-04

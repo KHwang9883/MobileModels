@@ -969,7 +969,7 @@
 
 `M2103K19Y`: Redmi Note 10T Global
 
-**[`K19`] Redmi Note 10T 5G (`camelliain`):**
+**[`K19`] Redmi Note 10T 5G (`camellia`):**
 
 `M2103K19I`: Redmi Note 10T 5G India
 
@@ -1173,7 +1173,7 @@
 
 `M2103K19PG` `M2103K19PY`: POCO M3 Pro 5G Global
 
-**[`K19P`] POCO M3 Pro (`camelliain`):**
+**[`K19P`] POCO M3 Pro (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G India
 
