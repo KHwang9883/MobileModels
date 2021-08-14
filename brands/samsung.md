@@ -314,6 +314,14 @@
 
 `SM-F9000`: Galaxy Fold
 
+**Galaxy Z Fold2 (`f2q`):**
+
+`SM-F9160`: Galaxy Z Fold2 5G
+
+**Galaxy Z Fold3 (`q2q`):**
+
+`SM-F9260` Galaxy Z Fold3 5G
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F7000`: Galaxy Z Flip
@@ -322,9 +330,9 @@
 
 `SM-F7070`: Galaxy Z Flip 5G
 
-**Galaxy Z Fold2 (`f2q`):**
+**Galaxy Z Flip3 (`b2q`):**
 
-`SM-F9160`: Galaxy Z Fold2 5G
+`SM-F7110`: Galaxy Z Flip3 5G
 
 ## Galaxy A 系列
 

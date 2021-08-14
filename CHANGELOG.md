@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-08-14
+- `samsung` 新增 Galaxy Z Fold3 & Flip3。
 - `xiaomi` 修正 Redmi Note 10T & POCO M3 Pro 印度版 codename。
 ## 2021-08-12
 - `honor` 新增 荣耀 Magic3 系列 & 荣耀平板 V7 Pro。
