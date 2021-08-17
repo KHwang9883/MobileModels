@@ -264,6 +264,10 @@
 
 `V2069A`: vivo Y53s (t1 版) 5G 全网通版
 
+**vivo Y53s (t2 版) (`PD2123`):**
+
+`V2123A`: vivo Y53s (t2 版) 5G 全网通版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G 全网通版
@@ -425,6 +429,14 @@
 **iQOO 7 (`PD2049`):**
 
 `V2049A`: iQOO 7 5G 全网通版
+
+**iQOO 8 (`PD2136`):**
+
+`V2136A`: iQOO 8 5G 全网通版
+
+**iQOO 8 Pro (`PD2141`):**
+
+`V2141A`: iQOO 8 Pro 5G 全网通版
 
 **iQOO Neo (`PD1914`):**
 

@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-08-17
+- `vivo` 新增 iQOO 8 系列。
 ## 2021-08-14
 - `samsung` 新增 Galaxy Z Fold3 & Flip3。
 - `xiaomi` 修正 Redmi Note 10T & POCO M3 Pro 印度版 codename。
