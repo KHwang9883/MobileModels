@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-08-17
+- `realme` 增补 & 修正。
 - `vivo` 新增 iQOO 8 系列。
 ## 2021-08-14
 - `samsung` 新增 Galaxy Z Fold3 & Flip3。

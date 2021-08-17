@@ -338,7 +338,7 @@
 
 **realme C20:**
 
-`RMX3063`: realme C20
+`RMX3061` `RMX3063`: realme C20
 
 **realme C21:**
 
@@ -394,7 +394,7 @@
 
 `RMX2156`: realme Narzo 30 4G
 
-`RMX3241`: realme Narzo 30 5G
+`RMX3242`: realme Narzo 30 5G
 
 **realme Narzo 30 Pro:**
 
