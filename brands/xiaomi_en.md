@@ -733,6 +733,10 @@
 
 `M2010J19SL`: Redmi 9T Brazil
 
+**[`K19A`] Redmi 10 (`selene`):**
+
+`21061119AG`: Redmi 10 Global
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
