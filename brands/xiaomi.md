@@ -756,6 +756,10 @@
 
 `M2010J19SL`: Redmi 9T 巴西版
 
+**[`K19A`] Redmi 10 (`selene`):**
+
+`21061119AG`: Redmi 10 国际版
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
