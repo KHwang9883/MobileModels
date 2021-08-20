@@ -177,7 +177,7 @@
 
 **HUAWEI Mate X2 (`teton`):**
 
-`TET-AN00` `TET-AN10`: HUAWEI Mate X2 5G 全网通版
+`TET-AN00` `TET-AN10` `TET-AN50`: HUAWEI Mate X2 5G 全网通版
 
 `TET-AL00`: HUAWEI Mate X2 4G 全网通版
 
@@ -328,6 +328,8 @@
 `ABR-AL00`: HUAWEI P50 4G 全网通版
 
 **HUAWEI P50 Pro (`jade`):**
+
+`JAD-AL00`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 
 `JAD-AL50`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 
@@ -667,11 +669,11 @@
 
 `JKM-TL00`: 华为畅享 9 Plus 移动 4G+ 版
 
-**华为畅享 Max (`ares`):**
+**华为畅享 MAX (`ares`):**
 
-`ARS-AL00`: 华为畅享 Max 全网通版
+`ARS-AL00`: 华为畅享 MAX 全网通版
 
-`ARS-TL00`: 华为畅享 Max 移动 4G+ 版
+`ARS-TL00`: 华为畅享 MAX 移动 4G+ 版
 
 **华为畅享 9 (`dubai`):**
 
