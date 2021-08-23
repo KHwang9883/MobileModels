@@ -704,13 +704,13 @@
 
 `M2004J19C`: Redmi 9 全网通版
 
-`M2004J19G`: Redmi 9 国际版 (无 NFC)
+`M2004J19G`: Redmi 9 国际版
 
 `M2004J19I`: Redmi 9 Prime 印度版
 
 **[`J19A`] Redmi 9 (`galahad`):**
 
-`M2004J19AG`: Redmi 9 国际版 (有 NFC)
+`M2004J19AG`: Redmi 9 国际版 (NFC)
 
 **[`C3L`] Redmi 9A / Redmi 9AT / Redmi 9i (`dandelion`):**
 
@@ -759,6 +759,10 @@
 **[`K19A`] Redmi 10 (`selene`):**
 
 `21061119AG`: Redmi 10 国际版
+
+**[`K19D`] Redmi 10 (`eos`):**
+
+`21061119DG`: Redmi 10 国际版 (NFC)
 
 ## 红米 / Redmi Note 系列
 
@@ -944,13 +948,13 @@
 
 **[`J15S`] Redmi Note 9 (`merlin`):**
 
-`M2003J15SS`: Redmi Note 9 国际版 (无 NFC)
+`M2003J15SS`: Redmi Note 9 国际版 
 
 `M2003J15SI`: Redmi Note 9 印度版
 
 **[`J15S`] Redmi Note 9 (`merlinnfc`):**
 
-`M2003J15SG`: Redmi Note 9 国际版 (有 NFC)
+`M2003J15SG`: Redmi Note 9 国际版 (NFC)
 
 **[`J22`] Redmi Note 9T (`cannong`):**
 
