@@ -679,7 +679,7 @@
 
 **[`J19`] Redmi 9 / Redmi 9 Prime (`lancelot`):**
 
-`M2004J19G`: Redmi 9 Global (No NFC)
+`M2004J19G`: Redmi 9 Global
 
 `M2004J19I`: Redmi 9 Prime India
 
@@ -736,6 +736,10 @@
 **[`K19A`] Redmi 10 (`selene`):**
 
 `21061119AG`: Redmi 10 Global
+
+**[`K19D`] Redmi 10 (`eos`):**
+
+`21061119DG`: Redmi 10 Global (NFC)
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -905,7 +909,7 @@
 
 **[`J15S`] Redmi Note 9 (`merlin`):**
 
-`M2003J15SS`: Redmi Note 9 Global (No NFC)
+`M2003J15SS`: Redmi Note 9 Global
 
 `M2003J15SI`: Redmi Note 9 India
 

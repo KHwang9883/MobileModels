@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-08-23
+- `xiaomi_en` Add Redmi 10 (NFC).
 ## 2021-08-18
 - `xiaomi_en` Add Redmi 10.
 ## 2021-08-17
