@@ -434,6 +434,10 @@
 
 `V2136A`: iQOO 8 5G 全网通版
 
+**iQOO 8 Monster (`PD2136G`):**
+
+`V2136GA`: iQOO 8 Monster 5G 全网通版
+
 **iQOO 8 Pro (`PD2141`):**
 
 `V2141A`: iQOO 8 Pro 5G 全网通版

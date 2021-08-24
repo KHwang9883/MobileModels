@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-08-24
+- `vivo` 新增 iQOO 8 Monster 版本。
 ## 2021-08-23
 - `nubia` 新增 腾讯红魔游戏手机 6S Pro。
 - `xiaomi` 新增 Redmi 10 国际版 (NFC)。
