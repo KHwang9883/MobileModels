@@ -320,7 +320,7 @@
 
 **Galaxy Z Fold3 (`q2q`):**
 
-`SM-F9260` Galaxy Z Fold3 5G
+`SM-F9260`: Galaxy Z Fold3 5G
 
 **Galaxy Z Flip (`bloomq`):**
 
