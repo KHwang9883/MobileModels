@@ -29,6 +29,10 @@
 
 `CPH2173`: OPPO Find X3 Pro
 
+**OPPO Find X3 Lite:**
+
+`CPH2145`: OPPO Find X3 Lite
+
 ## Reno series
 
 **OPPO Reno:**
@@ -99,17 +103,37 @@
 
 `CPH2159`: OPPO Reno5
 
+`CPH2145`: OPPO Reno5 5G
+
 **OPPO Reno5 Pro:**
 
 `CPH2201`: OPPO Reno5 Pro
+
+`CPH2207`: OPPO Reno5 Pro 5G
 
 **OPPO Reno5 Lite:**
 
 `CPH2205`: OPPO Reno5 Lite
 
+**OPPO Reno5 A:**
+
+`CPH2199` `A101OP`: OPPO Reno5 A
+
 **OPPO Reno5 F:**
 
 `CPH2217`: OPPO Reno5 F
+
+**OPPO Reno5 Z:**
+
+`CPH2211` `CPH2213`: OPPO Reno5 Z
+
+**OPPO Reno6:**
+
+`CPH2235`: OPPO Reno6
+
+**OPPO Reno6 Pro:**
+
+`CPH2249`: OPPO Reno6 Pro
 
 ## F series
 
@@ -144,6 +168,10 @@
 **OPPO F17 Pro:**
 
 `CPH2119`: OPPO F17 Pro
+
+**OPPO F19:**
+
+`CPH2197` `CPH2219`: OPPO F19
 
 **OPPO F19 Pro:**
 
@@ -233,13 +261,17 @@
 
 `CPH1931RU` `CPH1941` `CPH1943`: OPPO A11
 
+**OPPO A11k:**
+
+`CPH2071` `CPH2083`: OPPO A11k
+
 **OPPO A12:**
 
 `CPH2077` `CPH2083`: OPPO A12
 
 **OPPO A15:**
 
-`CPH2179` `CPH2185`: OPPO A15
+`CPH2179` `CPH2185` `CPH2185T2`: OPPO A15
 
 **OPPO A31:**
 
@@ -257,13 +289,29 @@
 
 `CPH2127` `CPH2131` `CPH2133` `CPH2139`: OPPO A53
 
+**OPPO A53s:**
+
+`CPH2135` `CPH2321`: OPPO A53s 5G
+
+**OPPO A54:**
+
+`CPH2239`: OPPO A54
+
+`CPH2195`: OPPO A54 5G
+
 **OPPO A72:**
 
 `CPH2067`: OPPO A72
 
 **OPPO A73:**
 
-`CPH2095` `CPH2161`: OPPO A73
+`CPH2095` `CPH2099`: OPPO A73
+
+`CPH2161`: OPPO A73 5G
+
+**OPPO A74:**
+
+`CPH2197` `CPH2263`: OPPO A74 5G
 
 **OPPO A91:**
 
@@ -280,6 +328,8 @@
 **OPPO A94:**
 
 `CPH2203`: OPPO A94
+
+`CPH2211`: OPPO A94 5G
 
 ## K series
 

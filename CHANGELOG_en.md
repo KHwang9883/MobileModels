@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-08-28
+- `oppo_global_en` Add several international models.
 ## 2021-08-23
 - `xiaomi_en` Add Redmi 10 (NFC).
 ## 2021-08-18
