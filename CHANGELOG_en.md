@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-02
+- `realme_en` Add realme C21Y.
 ## 2021-08-28
 - `oppo_global_en` Add several international models.
 ## 2021-08-23
