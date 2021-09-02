@@ -346,7 +346,7 @@
 
 **realme C21Y:**
 
-`RMX3261`: realme C21Y
+`RMX3261` `RMX3262`: realme C21Y
 
 **realme C25:**
 
