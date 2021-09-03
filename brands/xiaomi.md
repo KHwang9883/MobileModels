@@ -360,9 +360,9 @@
 
 `M2011J18C`: MIX FOLD 小米折叠屏手机
 
-**[`K8`] 小米 MIX 4 (`odin`):**
+**[`K8`] Xiaomi MIX 4 (`odin`):**
 
-`2106118C`: 小米 MIX 4 全网通版
+`2106118C`: Xiaomi MIX 4 全网通版
 
 ## 小米 Max 系列
 
@@ -754,11 +754,17 @@
 
 **[`J19S`] Redmi 9T (`pomelo`):**
 
-`M2010J19SL`: Redmi 9T 巴西版
+`M2010J19SL`: Redmi 9T 拉美版
 
 **[`K19A`] Redmi 10 (`selene`):**
 
 `21061119AG`: Redmi 10 国际版
+
+`21061119AL`: Redmi 10 拉美版
+
+**[`K19B`] Redmi 10 Prime (`selene`):**
+
+`21061119BI`: Redmi 10 Prime 印度版
 
 **[`K19D`] Redmi 10 (`eos`):**
 
@@ -1000,7 +1006,7 @@
 
 **[`K7B`] Redmi Note 10S (`maltose`):**
 
-`M2101K7BL`: Redmi Note 10S 巴西版
+`M2101K7BL`: Redmi Note 10S 拉美版
 
 **[`K19`] Redmi Note 10 (`camellia`):**
 
