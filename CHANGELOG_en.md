@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-03
+- `xiaomi_en` Add Redmi 10 Prime (India).
 ## 2021-09-02
 - `realme_en` Add realme C21Y.
 ## 2021-08-28

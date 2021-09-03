@@ -731,11 +731,17 @@
 
 **[`J19S`] Redmi 9T (`pomelo`):**
 
-`M2010J19SL`: Redmi 9T Brazil
+`M2010J19SL`: Redmi 9T Latin America
 
 **[`K19A`] Redmi 10 (`selene`):**
 
 `21061119AG`: Redmi 10 Global
+
+`21061119AL`: Redmi 10 Latin America
+
+**[`K19B`] Redmi 10 Prime (`selene`):**
+
+`21061119BI`: Redmi 10 Prime India
 
 **[`K19D`] Redmi 10 (`eos`):**
 
@@ -969,7 +975,7 @@
 
 **[`K7B`] Redmi Note 10S (`maltose`):**
 
-`M2101K7BL`: Redmi Note 10S Brazil
+`M2101K7BL`: Redmi Note 10S Latin America
 
 **[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellian`):**
 
