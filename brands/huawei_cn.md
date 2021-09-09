@@ -2,8 +2,7 @@
 
 - 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号
 - codename: ✅
-- 是否包含国际机型: ❌
-- [国际机型汇总 (英文)](brands/huawei_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](brands/huawei_global_en.md)
 
 ## HUAWEI Mate 系列
 

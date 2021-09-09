@@ -2,7 +2,7 @@
 
 - 汇总范围: Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型
 - codename: ✅
-- 是否包含国际机型: ❌
+- 是否包含海外机型: ❌
 
 ## Galaxy S 系列
 

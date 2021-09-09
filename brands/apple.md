@@ -2,7 +2,7 @@
 
 - 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch
 - codename: ✅
-- 是否包含国际机型: ✅
+- 是否包含海外机型: ✅
 
 ## 国行型号
 

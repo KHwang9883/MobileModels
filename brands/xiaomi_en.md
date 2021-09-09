@@ -1,9 +1,9 @@
 # Xiaomi Mobile Phone Models
 
-- Range: Xiaomi Mi phones, Redmi phones, POCO phones and Black Shark phones
+- Range: Xiaomi phones & tablets, Redmi phones, POCO phones and Black Shark phones
 - Codename: ✅
 
-## Mi Phones
+## Xiaomi phones
 
 **[`X1`] Mi 1 (`mione_plus`):**
 
@@ -423,7 +423,7 @@
 
 `M1906F9SI`: Mi A3 India
 
-## Mi Pads
+## Xiaomi tablets
 
 **[`X6`] Mi Pad (`mocha`):**
 
@@ -461,7 +461,7 @@
 
 `M2105K81C`: Xiaomi Pad 5 Pro 5G
 
-## Redmi Phones
+## Redmi phones
 
 **[`H2TD`] Redmi 1 (`wt93007`):**
 

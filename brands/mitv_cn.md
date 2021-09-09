@@ -2,8 +2,7 @@
 
 - 汇总范围: 全部小米电视/盒子
 - codename: ❌
-- 是否包含国际机型: ❌
-- [国际机型汇总 (英文)](brands/mitv_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](brands/mitv_global_en.md)
 
 ## 小米电视
 

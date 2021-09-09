@@ -13,26 +13,26 @@
 - ⏹ 仅部分包含
 - ❌ 不包含
 
-| 分支 | 品牌 | 汇总范围 | codename | 国际机型 | 备注 |
+| 名称 | 品牌 | 汇总范围 | codename | 海外机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | 已停更 |
 | [apple](brands/apple.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | -- |
-| [honor](brands/honor.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [国际机型单独汇总](brands/honor_global_en.md) |
-| [huawei](brands/huawei.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [国际机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
+| [honor_cn](brands/honor_cn.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [海外机型单独汇总](brands/honor_global_en.md) |
+| [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [海外机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 | [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 不包含电视产品 |
 | [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
-| [mitv](brands/mitv.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ✅ | [国际机型单独汇总](brands/mitv_global_en.md) |
+| [mitv_cn](brands/mitv_cn.md) | 小米 (Xiaomi) | 全部小米电视/盒子 | ❌ | ✅ | [海外机型单独汇总](brands/mitv_global_en.md) |
 | [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ✅ | ❌ | -- |
 | [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
-| [oppo](brands/oppo.md) | OPPO | 2018 年起新型号命名方式的机型 | ❌ | ⏹ | [国际机型单独汇总](brands/oppo_global_en.md) |
-| [realme](brands/realme.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | -- |
+| [oppo_cn](brands/oppo_cn.md) | OPPO | 2018 年起新型号命名方式的机型 | ❌ | ⏹ | [海外机型单独汇总](brands/oppo_global_en.md) |
+| [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | [海外机型单独汇总](brands/realme_global_en.md) |
 | [samsung](brands/samsung.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型 | ✅ | ❌ | [早期型号参阅此处](misc/early-samsung-models.md) |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [vivo](brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | ✅ | ❌ | -- |
-| [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO/黑鲨手机、小米平板 | ✅ | ✅ | -- |
+| [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO/黑鲨手机、小米平板等 | ✅ | ✅ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
 ## 更新日志
@@ -89,6 +89,8 @@
 ### 2016 年 2 月
 
 - 我开始汇总一些国内手机品牌的型号，「手机品牌型号汇总」的雏形诞生。
+
+[![Stargazers over time](https://starchart.cc/KHwang9883/MobileModels.svg)](https://starchart.cc/KHwang9883/MobileModels)
 
 ## 参考资料
 
