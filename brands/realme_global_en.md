@@ -1,4 +1,4 @@
-# realme Mobile Phone Models
+# realme Global Mobile Phone Models
 
 - Range: All models
 - Codename: ❌
@@ -92,6 +92,14 @@
 **realme 8 5G:**
 
 `RMX3241`: realme 8 5G
+
+**realme 8i:**
+
+`RMX3151`: realme 8i
+
+**realme 8s 5G:**
+
+`RMX3381`: realme 8s 5G
 
 ## X series
 
@@ -265,146 +273,12 @@
 
 `RMX2202`: realme GT 5G
 
-## X series (China)
+**realme GT Master Edition:**
 
-**realme X:**
+`RMX3360`: realme GT Master Edition
 
-`RMX1901`: realme X
+## Tablets
 
-**realme X Lite:**
+**realme Pad:**
 
-`RMX1851`: realme X Lite
-
-**realme X2:**
-
-`RMX1991`: realme X2 China
-
-**realme X2 Pro:**
-
-`RMX1931`: realme X2 Pro
-
-**realme X50:**
-
-`RMX2051`: realme X50 5G China
-
-`RMX2025`: realme X50 5G China Mobile
-
-**realme X50 Pro:**
-
-`RMX2071`: realme X50 Pro 5G
-
-**realme X50 Pro Play:**
-
-`RMX2072`: realme X50 Pro Play
-
-**realme X50m:**
-
-`RMX2141`: realme X50m 5G China
-
-`RMX2142`: realme X50m 5G Carrier version
-
-**realme X50t:**
-
-`RMX2052`: realme X50t 5G
-
-**realme X7:**
-
-`RMX2176`: realme X7 5G
-
-**realme X7 Pro:**
-
-`RMX2121`: realme X7 Pro
-
-**realme X7 Pro Premium Edition:**
-
-`RMX3115`: realme X7 Pro Premium Edition 5G China
-
-`RMX3116`: realme X7 Pro Premium Edition 5G Carrier version
-
-## V series (China)
-
-**realme V3:**
-
-`RMX2200`: realme V3 5G China
-
-`RMX2201`: realme V3 5G Carrier version
-
-**realme V5:**
-
-`RMX2111`: realme V5 5G China
-
-`RMX2112`: realme V5 5G Carrier version
-
-**realme V11:**
-
-`RMX3121`: realme V11 5G China
-
-`RMX3122`: realme V11 5G Carrier version
-
-**realme V13:**
-
-`RMX3041`: realme V13 5G China
-
-`RMX3043`: realme V13 5G Carrier version
-
-**realme V15:**
-
-`RMX3092`: realme V15 5G China
-
-`RMX3093`: realme V15 5G Carrier version
-
-## Q series (China)
-
-**realme Q:**
-
-`RMX1971`: realme Q
-
-**realme Q2:**
-
-`RMX2117`: realme Q2 5G
-
-**realme Q2 Pro:**
-
-`RMX2173`: realme Q2 Pro 5G
-
-**realme Q2i:**
-
-`RMX2200`: realme Q2i 5G
-
-**realme Q3:**
-
-`RMX3161`: realme Q3 5G
-
-**realme Q3 Pro:**
-
-`RMX2205`: realme Q3 Pro 5G
-
-**realme Q3 Pro Carnival Edition:**
-
-`RMX3142`: realme Q3 Pro Carnival Edition 5G
-
-**realme Q3i:**
-
-`RMX3042`: realme Q3i 5G
-
-## GT series (China)
-
-**realme GT:**
-
-`RMX2202`: realme GT 5G
-
-**realme GT Neo:**
-
-`RMX3031`: realme GT Neo 5G
-
-**realme GT Neo Flash:**
-
-`RMX3350`: realme GT Neo Flash 5G
-
-**realme GT Master:**
-
-`RMX3361`: realme GT Master 5G
-
-**realme GT Master Explore Edition:**
-
-`RMX3366`: realme GT Master Explore Edition 5G
+`RMP2102`: realme Pad

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-09
+- `realme_en` Add realme 8i, 8s & Pad.
 ## 2021-09-03
 - `xiaomi_en` Add Redmi 10 Prime (India).
 ## 2021-09-02

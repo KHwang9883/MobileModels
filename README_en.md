@@ -13,7 +13,7 @@ Collecting device names, models and internal codenames.
 
 Unlisted brands usually not include international models.
 
-| Branch | Brand | Range |
+| Name | Brand | Range |
 | :-: | :-: | :-: |
 | [apple_en](brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
@@ -22,8 +22,8 @@ Unlisted brands usually not include international models.
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international & Indian Mi & Redmi TV models (excluding Chinese models) |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
-| [realme_en](brands/realme_en.md) | realme | All models |
-| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi Mi phones, Redmi phones, POCO phones and Black Shark phones |
+| [realme_global_en](brands/realme_en.md) | realme | All models |
+| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi phones, Redmi phones, POCO phones and Black Shark phones |
 
 ## Changelog
 
