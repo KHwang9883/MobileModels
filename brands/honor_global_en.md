@@ -1,6 +1,6 @@
 # HONOR Global Mobile Phone Models
 
-- Range: All global models (excluding Chinese models)
+- Range: All international models (excluding Chinese models)
 - Codename: ✅
 
 ## HONOR phones

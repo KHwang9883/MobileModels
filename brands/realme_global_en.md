@@ -1,6 +1,6 @@
 # realme Global Mobile Phone Models
 
-- Range: All models
+- Range: All international models (excluding Chinese models)
 - Codename: ❌
 
 ## Number series
