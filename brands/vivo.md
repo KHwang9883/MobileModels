@@ -114,6 +114,22 @@
 
 `V2056A`: vivo X60t Pro+ 5G 全网通版
 
+**vivo X70 (`PD2133`):**
+
+`V2133A`: vivo X70 5G 全网通版
+
+**vivo X70t (`PD2132`):**
+
+`V2132A`: vivo X70t 5G 全网通版
+
+**vivo X70 Pro (`PD2134`):**
+
+`V2134A`: vivo X70 Pro 5G 全网通版
+
+**vivo X70 Pro+ (`PD2145`):**
+
+`V2145A`: vivo X70 Pro+ 5G 全网通版
+
 ## S 系列
 
 **vivo S1 (`PD1831`):**
@@ -169,6 +185,10 @@
 **vivo S10 Pro (`PD2121`):**
 
 `V2121A`: vivo S10 Pro 5G 全网通版
+
+**vivo S10e (`PD2130`):**
+
+`V2130A`: vivo S10e 5G 全网通版
 
 ## Y 系列
 
