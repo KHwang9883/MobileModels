@@ -794,11 +794,23 @@
 
 **荣耀 MagicBook 14 2021 (`nobelDR`):**
 
-`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 & i7
+`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 
 
-**荣耀 MagicBook 14 SE 2021 (`nobelKR`):**
+`NDR-WFE9HN`: 荣耀 MagicBook 14 2021 i7
 
-`NIR-WAP9HNRP`: 荣耀 MagicBook 14 SE 2021 R7
+**荣耀 MagicBook 14 SE 2021 (`nobelLR`):**
+
+`NLR-WAQ9HNRP`: 荣耀 MagicBook 14 SE 2021 R5
+
+`NLR-WAQ9HNR`: 荣耀 MagicBook 14 SE 2021 R5
+
+**荣耀 MagicBook 14 2021 锐龙版 (`nobelMH`):**
+
+`NMH-WDQ9HN`: 荣耀 MagicBook 14 2021 锐龙版 R5 (8GB+256GB)
+
+`NMH-WFQ9HN`: 荣耀 MagicBook 14 2021 锐龙版 R5 (16GB+512GB)
+
+`NMH-WFP9HN`: 荣耀MagicBook 14 2021款 锐龙版 R7 (16GB+512GB)
 
 **荣耀 MagicBook 15 (`bohrB`):**
 
@@ -830,7 +842,17 @@
 
 **荣耀 MagicBook 15 2021 (`bohrDR`):**
 
-`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5 & i7
+`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5
+
+`BDR-WFE9HN`: 荣耀 MagicBook 15 2021 i7
+
+**荣耀 MagicBook 15 2021 锐龙版 (`bohrMH`):**
+
+`BMH-WDQ9HN`: 荣耀 MagicBook 15 2021 锐龙版 R5 (8GB+256GB)
+
+`BMH-WFQ9HN`: 荣耀 MagicBook 15 2021 锐龙版 R5 (16GB+512GB)
+
+`BMH-WFP9HN`: 荣耀 MagicBook 15 2021 锐龙版 R7
 
 **荣耀 MagicBook X 14 (`nobelBR`):**
 
