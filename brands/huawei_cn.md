@@ -1284,9 +1284,23 @@
 
 **华为智慧屏 SE 系列:**
 
-`HD55DESY` `HD55DESZ`: 华为智慧屏 SE 55 畅连通话版 (2GB+16GB)
+`HD55DESA`: 华为智慧屏 SE 55 (2GB+16GB)
 
-`HD65DESY` `HD65DESZ`: 华为智慧屏 SE 65 畅连通话版 (2GB+16GB)
+`HD55DESZ`: 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
+
+`HD55DESY`: 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
+
+`HD55DESV`: 华为智慧屏 SE 55 畅连通话版 4K (2GB+16GB)
+
+`HD65DESA`: 华为智慧屏 SE 65 (2GB+16GB)
+
+`HD65DESZ`: 华为智慧屏 SE 65 畅连通话版 1080P (2GB+16GB)
+
+`HD65DESY`: 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
+
+`HD65DESV`: 华为智慧屏 SE 65 畅连通话版 4K (2GB+16GB)
+
+`HD75DESA`: 华为智慧屏 SE 75 (2GB+16GB)
 
 ## 华为早期产品 
 

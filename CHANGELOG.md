@@ -2,6 +2,7 @@
 ## 2021-09-14
 - `honor_cn` 增补部分荣耀 MagicBook 型号。
 - `huawei_cn` 增补 & 新增 HUAWEI MateBook 系列。
+- `huawei_cn` 增补部分华为智慧屏型号。
 ## 2021-09-09
 - `vivo` 新增 vivo X70 系列 & vivo S10e。
 ## 2021-09-03
