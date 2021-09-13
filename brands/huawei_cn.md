@@ -1132,6 +1132,14 @@
 
 `WRTD-WFE9`: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
 
+**HUAWEI MateBook 13s:**
+
+`EMD-W58`: HUAWEI MateBook 13s i5 (8GB+512GB)
+
+`EMD-W56`: HUAWEI MateBook 13s i5 (16GB+512GB)
+
+`EMD-W76`: HUAWEI MateBook 13s i7 (16GB+512GB)
+
 **HUAWEI MateBook 14 (`kelvin`):**
 
 `KLV-W19`: HUAWEI MateBook 14 i5
@@ -1162,6 +1170,14 @@
 
 `KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 
+**HUAWEI MateBook 14s:**
+
+`HKD-W58`: HUAWEI MateBook 14s i5 (8GB+512GB)
+
+`HKD-W56`: HUAWEI MateBook 14s i5 (16GB+512GB)
+
+`HKD-W76`: HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
+
 **HUAWEI MateBook 16:**
 
 `CREM-WFG9`: HUAWEI MateBook 16 R5
@@ -1176,15 +1192,45 @@
 
 `NBZ-WBE9`: HUAWEI MateBook B3-410 i7
 
+**HUAWEI MateBook B3-420 (`nobelDZ`):**
+
+`NDZ-WDH9A`: HUAWEI MateBook B3-420 i5 (8GB+512GB)
+
+`NDZ-WFH9A`: HUAWEI MateBook B3-420 i5 (16GB+512GB)
+
+`NDZ-WFE9A`: HUAWEI MateBook B3-420 i7
+
 **HUAWEI MateBook B3-510 (`bohrBZ`):**
 
 `BBZ-WBH9`: HUAWEI MateBook B3-510 i5
 
 `BBZ-WBE9`: HUAWEI MateBook B3-510 i7
 
-**HUAWEI MateBook B5-420 (`kelvinC`):**
+**HUAWEI MateBook B3-520 (`bohrDZ`):**
+
+`BDZ-WDH9A`: HUAWEI MateBook B3-520 i5 (8GB+512GB)
+
+`BDZ-WFH9A`: HUAWEI MateBook B3-520 i5 (16GB+512GB)
+
+`BDZ-WFE9A`: HUAWEI MateBook B3-520 i7
+
+**HUAWEI MateBook B5-420 (`kelvinCZ`):**
 
 `KLCZ-WDH9`: HUAWEI MateBook B5-420
+
+**HUAWEI MateBook B5-430 (`kelvinDZ`):**
+
+`KLDZ-WDH9AQ`: HUAWEI MateBook B5-430 i5 (8GB+512GB)
+
+`KLDZ-WFH9A`: HUAWEI MateBook B5-430 i5 (16GB+512GB)
+
+`KLDZ-WFE9A`: HUAWEI MateBook B5-430 i7
+
+**HUAWEI MateBook B7 (`machDZ`):**
+
+`MDZ-WFH9A`: HUAWEI MateBook B7 i5
+
+`MDZ-WFE9A`: HUAWEI MateBook B7 i7
 
 ## 智慧屏
 
