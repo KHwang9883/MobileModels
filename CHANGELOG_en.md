@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-14
+- `meizu_en` Add MEIZU 18X & 18s series.
 ## 2021-09-09
 - `realme_en` Add realme 8i, 8s & Pad.
 ## 2021-09-03

@@ -209,6 +209,18 @@
 
 `M191Q`: MEIZU 18 Pro
 
+**MEIZU 18X (`m2172`):**
+
+`M172Q`: MEIZU 18X
+
+**MEIZU 18s (`m2182`):**
+
+`M182Q`: MEIZU 18s
+
+**MEIZU 18s Pro (`m2192`):**
+
+`M192Q`: MEIZU 18s
+
 **Meizu m1 note (`m71`):**
 
 `M463H`: Meizu m1 note Global
