@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-09-15
+- `xiaomi` 新增 小米 11T 系列 & 小米 11 Lite 5G NE。
 ## 2021-09-14
 - `honor_cn` 增补部分荣耀 MagicBook 型号。
 - `huawei_cn` 增补 & 新增 HUAWEI MateBook 系列。

@@ -264,6 +264,10 @@
 
 `M2101K9AI`: 小米 11 Lite 4G 印度版
 
+**[`K9D`] Xiaomi 11 Lite 5G NE (`lisa`):**
+
+`2109119DG`: Xiaomi 11 Lite 5G NE 国际版
+
 **[`K11`] 小米 11i (`haydn`):**
 
 `M2012K11G`: 小米 11i 国际版
@@ -275,6 +279,14 @@
 **[`K11`] 小米 11X Pro (`haydnin`):**
 
 `M2012K11I`: 小米 11X Pro 印度版
+
+**[`K11R`] Xiaomi 11T (`amber`):**
+
+`21081111RG`: Xiaomi 11T 国际版
+
+**[`K3S`] Xiaomi 11T Pro (`vili`):**
+
+`2107113SG`: Xiaomi 11T Pro 国际版
 
 ## 小米 Note 系列
 
