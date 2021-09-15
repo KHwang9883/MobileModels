@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-15
+- `xiaomi_en` Add Xiaomi 11T series & Xiaomi 11 Lite 5G NE.
 ## 2021-09-14
 - `meizu_en` Add MEIZU 18X & 18s series.
 ## 2021-09-09

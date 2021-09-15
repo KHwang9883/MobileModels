@@ -261,6 +261,10 @@
 
 `M2101K9AI`: Mi 11 Lite 4G India
 
+**[`K9D`] Xiaomi 11 Lite 5G NE (`lisa`):**
+
+`2109119DG`: Xiaomi 11 Lite 5G NE Global
+
 **[`K11`] Mi 11i (`haydn`):**
 
 `M2012K11G`: Mi 11i Global
@@ -272,6 +276,14 @@
 **[`K11`] Mi 11X Pro (`haydnin`):**
 
 `M2012K11I`: Mi 11X Pro India
+
+**[`K11R`] Xiaomi 11T (`amber`):**
+
+`21081111RG`: Xiaomi 11T Global
+
+**[`K3S`] Xiaomi 11T Pro (`vili`):**
+
+`2107113SG`: Xiaomi 11T Pro Global
 
 **[`X5`] Mi Note (`virgo`):**
 
