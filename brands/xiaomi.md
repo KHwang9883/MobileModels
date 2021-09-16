@@ -268,6 +268,8 @@
 
 `2109119DG`: Xiaomi 11 Lite 5G NE 国际版
 
+`2109119DI`: Xiaomi 11 Lite 5G NE 印度版
+
 **[`K11`] 小米 11i (`haydn`):**
 
 `M2012K11G`: 小米 11i 国际版
