@@ -285,6 +285,8 @@
 
 `2107113SG`: Xiaomi 11T Pro Global
 
+`2107113SR`: Xiaomi 11T Pro Japan
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
