@@ -265,6 +265,8 @@
 
 `2109119DG`: Xiaomi 11 Lite 5G NE Global
 
+`2109119DI`: Xiaomi 11 Lite 5G NE India
+
 **[`K11`] Mi 11i (`haydn`):**
 
 `M2012K11G`: Mi 11i Global
