@@ -288,6 +288,8 @@
 
 `2107113SG`: Xiaomi 11T Pro 国际版
 
+`2107113SR`: Xiaomi 11T Pro 日本版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
