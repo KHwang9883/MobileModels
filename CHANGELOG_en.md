@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-17
+- `mitv_global_en` Add Mi TV 5X (India) & Mi TV P1 (Global).
 ## 2021-09-15
 - `xiaomi_en` Add Xiaomi 11T series & Xiaomi 11 Lite 5G NE.
 ## 2021-09-14

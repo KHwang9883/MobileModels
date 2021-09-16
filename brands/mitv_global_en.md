@@ -1,6 +1,6 @@
 # Xiaomi Global TV Models
 
-- Range: All international & Indian Mi & Redmi TV models (excluding Chinese models)
+- Range: All international & Indian Mi & Redmi TV models (excluding China mainland models)
 - Codename: ❌
 
 ## Indian Products
@@ -31,6 +31,8 @@
 
 **Mi TV 4C:**
 
+`L32M6-INC`: Mi TV 4C 32
+
 `L32M5-AN`: Mi LED Smart TV 4C Pro 32
 
 **Mi TV 4X:**
@@ -44,6 +46,14 @@
 `L55M5-5XIN`: Mi TV 4X 55
 
 `L65M5-5SIN`: Mi TV 4X 65
+
+**Mi TV 5X:**
+
+`L43M6-ES`: Mi TV 5X 43
+
+`L50M6-ES`: Mi TV 5X 50
+
+`L55M6-ES`: Mi TV 5X 55
 
 **Mi QLED TV:**
 
@@ -98,6 +108,26 @@
 `L55M5-5ASP`: Mi TV 4S 55
 
 `L65M5-5ASP`: Mi TV 4S 65
+
+**Mi TV P1 (EEA):**
+
+`L32M6-6AEU`: Mi TV P1 32
+
+`L43M6-6AEU`: Mi TV P1 43
+
+`L50M6-6AEU`: Mi TV P1 50
+
+`L55M6-6AEU`: Mi TV P1 55
+
+**Mi TV P1 (Other regions):**
+
+`L32M6-6ARG`: Mi TV P1 32
+
+`L43M6-6ARG`: Mi TV P1 43
+
+`L50M6-6ARG`: Mi TV P1 50
+
+`L55M6-6ARG`: Mi TV P1 55
 
 **Mi TV Q1:**
 
