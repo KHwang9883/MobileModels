@@ -488,6 +488,14 @@
 
 `CHL-AL60`: HUAWEI nova 8 SE 活力版 全网通版
 
+**HUAWEI nova 9:**
+
+`NAM-AL00`: HUAWEI nova 9 4G 全网通版
+
+**HUAWEI nova 9 Pro:**
+
+`RTE-AL00`: HUAWEI nova 9 Pro 4G 全网通版
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
