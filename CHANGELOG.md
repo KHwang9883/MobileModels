@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-09-22
+- `realme_cn` 新增 realme 真我 GT Neo2。
 ## 2021-09-19
 - `huawei_cn` 新增 HUAWEI nova 9 系列。
 ## 2021-09-17
