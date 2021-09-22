@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-22
+- `realme_global_en` Add realme C25Y.
 ## 2021-09-17
 - `mitv_global_en` Add Mi TV 5X (India) & Mi TV P1 (Global).
 ## 2021-09-15

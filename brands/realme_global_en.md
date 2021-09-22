@@ -219,6 +219,10 @@
 
 `RMX3195` `RMX3197`: realme C25s
 
+**realme C25Y:**
+
+`RMX3265`: realme C25Y
+
 ## U series
 
 **realme U1:**
