@@ -181,7 +181,7 @@
 
 `A2102`: iPhone XS Max (Japan)
 
-`A2104`: iPhone XS Max (Dual nano-SIMs)
+`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
 
 `A2103`: iPhone XS Max (China Mobile)
 
@@ -193,7 +193,7 @@
 
 `A2106`: iPhone XR (Japan)
 
-`A2108`: iPhone XR (Dual nano-SIMs)
+`A2108`: iPhone XR (China mainland, Hong Kong, Macao)
 
 `A2107`: iPhone XR (China Mobile)
 
@@ -201,41 +201,41 @@
 
 `A2111`: iPhone 11 (North America)
 
-`A2223`: iPhone 11 (Dual nano-SIMs)
-
-`A2221`: iPhone 11 (Rest of the world)
+`A2223`: iPhone 11 (China mainland, Hong Kong, Macao)
 
 `A2222`: iPhone 11 (China Mobile)
+
+`A2221`: iPhone 11 (Rest of the world)
 
 **iPhone 11 Pro (`iPhone12,3`):**
 
 `A2160`: iPhone 11 Pro (North America)
 
-`A2217`: iPhone 11 Pro (Dual nano-SIMs)
-
-`A2215`: iPhone 11 Pro (Rest of the world)
+`A2217`: iPhone 11 Pro (China mainland, Hong Kong, Macao)
 
 `A2216`: iPhone 11 Pro (China Mobile)
+
+`A2215`: iPhone 11 Pro (Rest of the world)
 
 **iPhone 11 Pro Max (`iPhone12,5`):**
 
 `A2161`: iPhone 11 Pro Max (North America)
 
-`A2220`: iPhone 11 Pro Max (Dual nano-SIMs)
-
-`A2218`: iPhone 11 Pro Max (Rest of the world)
+`A2220`: iPhone 11 Pro Max (China mainland, Hong Kong, Macao)
 
 `A2219`: iPhone 11 Pro Max (China Mobile)
+
+`A2218`: iPhone 11 Pro Max (Rest of the world)
 
 **iPhone SE (2nd generation) (`iPhone12,8`):**
 
 `A2275`: iPhone SE (2nd generation) (North America)
 
-`A2296`: iPhone SE (2nd generation) (Rest of the world)
-
 `A2298`: iPhone SE (2nd generation) (China mainland)
 
 `A2297`: iPhone SE (2nd generation) (China Mobile)
+
+`A2296`: iPhone SE (2nd generation) (Rest of the world)
 
 **iPhone 12 mini (`iPhone13,1`):**
 
@@ -243,9 +243,9 @@
 
 `A2398`: iPhone 12 mini (Canada, Japan)
 
-`A2399`: iPhone 12 mini (Rest of the world)
-
 `A2400`: iPhone 12 mini (China mainland)
+
+`A2399`: iPhone 12 mini (Rest of the world)
 
 **iPhone 12 (`iPhone13,2`):**
 
@@ -253,9 +253,9 @@
 
 `A2402`: iPhone 12 (Canada, Japan)
 
-`A2403`: iPhone 12 (Rest of the world)
+`A2404`: iPhone 12 (China mainland, Hong Kong, Macao)
 
-`A2404`: iPhone 12 (Dual nano-SIMs)
+`A2403`: iPhone 12 (Rest of the world)
 
 **iPhone 12 Pro (`iPhone13,3`):**
 
@@ -263,9 +263,9 @@
 
 `A2406`: iPhone 12 Pro (Canada, Japan)
 
-`A2407`: iPhone 12 Pro (Rest of the world)
+`A2408`: iPhone 12 Pro (China mainland, Hong Kong, Macao)
 
-`A2408`: iPhone 12 Pro (Dual nano-SIMs)
+`A2407`: iPhone 12 Pro (Rest of the world)
 
 **iPhone 12 Pro Max (`iPhone13,4`):**
 
@@ -273,9 +273,57 @@
 
 `A2410`: iPhone 12 Pro Max (Canada, Japan)
 
+`A2412`: iPhone 12 Pro Max (China mainland, Hong Kong, Macao)
+
 `A2411`: iPhone 12 Pro Max (Rest of the world)
 
-`A2412`: iPhone 12 Pro Max (Dual nano-SIMs)
+**iPhone 13 mini (`iPhone14,4`):**
+
+`A2481`: iPhone 13 mini (United States)
+
+`A2626`: iPhone 13 mini (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2629`: iPhone 13 mini (China mainland)
+
+`A2630`: iPhone 13 mini (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2628`: iPhone 13 mini (Rest of the world)
+
+**iPhone 13 (`iPhone14,5`):**
+
+`A2482`: iPhone 13 (United States)
+
+`A2631`: iPhone 13 (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2634`: iPhone 13 (China mainland, Hong Kong, Macao)
+
+`A2635`: iPhone 13 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2633`: iPhone 13 (Rest of the world)
+
+**iPhone 13 Pro (`iPhone14,2`):**
+
+`A2483`: iPhone 13 Pro (United States)
+
+`A2636`: iPhone 13 Pro (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2639`: iPhone 13 Pro (China mainland, Hong Kong, Macao)
+
+`A2640`: iPhone 13 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2638`: iPhone 13 Pro (Rest of the world)
+
+**iPhone 13 Pro Max (`iPhone14,3`):**
+
+`A2484`: iPhone 13 Pro Max (United States)
+
+`A2641`: iPhone 13 Pro Max (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2644`: iPhone 13 Pro Max (China mainland, Hong Kong, Macao)
+
+`A2645`: iPhone 13 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2643`: iPhone 13 Pro Max (Rest of the world)
 
 ## iPad
 
@@ -360,6 +408,16 @@
 `A2428` `A2429`: iPad (8th generation) Wi-Fi + Cellular
 
 `A2430`: iPad (8th generation) Wi-Fi + Cellular (China mainland)
+
+**iPad (9th generation) (`iPad12,1`):**
+
+`A2602`: iPad (9th generation) Wi-Fi
+
+**iPad (9th generation) (`iPad12,2`):**
+
+`A2603` `A2604`: iPad (9th generation) Wi-Fi + Cellular
+
+`A2605`: iPad (9th generation) Wi-Fi + Cellular (China mainland)
 
 ## iPad Air
 
@@ -606,6 +664,16 @@
 `A2124` `A2126`: iPad mini (5th generation) Wi-Fi + Cellular
 
 `A2125`: iPad mini (5th generation) Wi-Fi + Cellular (China mainland)
+
+**iPad mini (6th generation) (`iPad14,1`):**
+
+`A2567`: iPad mini (6th generation) Wi-Fi
+
+**iPad mini (6th generation) (`iPad14,2`):**
+
+`A2568`: iPad mini (6th generation) Wi-Fi + Cellular
+
+`A2569`: iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
 
 ## Apple Watch
 
