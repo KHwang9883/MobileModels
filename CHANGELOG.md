@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-09-24
+- `apple` 新增 iPhone 13 & iPad 9 & iPad mini 6。
 - `realme_cn` 新增 realme 真我 V11s。
 ## 2021-09-23
 - `vivo` 新增 iQOO Z5。

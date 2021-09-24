@@ -180,6 +180,22 @@
 
 `A2412`: iPhone 12 Pro Max (国行)
 
+**iPhone 13 mini (`iPhone14,4`):**
+
+`A2629`: iPhone 13 mini (国行)
+
+**iPhone 13 (`iPhone14,5`):**
+
+`A2634`: iPhone 13 (国行)
+
+**iPhone 13 Pro (`iPhone14,2`):**
+
+`A2639`: iPhone 13 Pro (国行)
+
+**iPhone 13 Pro Max (`iPhone14,3`):**
+
+`A2644`: iPhone 13 Pro Max (国行)
+
 ### iPad
 
 **iPad (`iPad1,1`):**
@@ -251,6 +267,14 @@
 **iPad (第 8 代) (`iPad11,7`):**
 
 `A2430`: iPad (第 8 代) (无线局域网 + 蜂窝网络) (国行)
+
+**iPad (第 9 代) (`iPad12,1`):**
+
+`A2602`: iPad (第 9 代) (无线局域网)
+
+**iPad (第 9 代) (`iPad12,2`):**
+
+`A2605`: iPad (第 9 代) (无线局域网 + 蜂窝网络) (国行)
 
 ### iPad Air
 
@@ -453,6 +477,14 @@
 **iPad mini (第 5 代) (`iPad11,2`):**
 
 `A2125`: iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (国行)
+
+**iPad mini (第 6 代) (`iPad14,1`):**
+
+`A2567`: iPad mini (第 6 代) (无线局域网)
+
+**iPad mini (第 6 代) (`iPad14,2`):**
+
+`A2569`: iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (国行)
 
 ### Apple Watch
 
@@ -772,6 +804,46 @@
 
 `A2411`: iPhone 12 Pro Max (其他国家和地区)
 
+**iPhone 13 mini (`iPhone14,4`):**
+
+`A2481`: iPhone 13 mini (美国)
+
+`A2626`: iPhone 13 mini (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A2630`: iPhone 13 mini (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)
+
+`A2628`: iPhone 13 mini (其他国家和地区)
+
+**iPhone 13 (`iPhone14,5`):**
+
+`A2482`: iPhone 13 (美国)
+
+`A2631`: iPhone 13 (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A2635`: iPhone 13 (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)
+
+`A2633`: iPhone 13 (其他国家和地区)
+
+**iPhone 13 Pro (`iPhone14,2`):**
+
+`A2483`: iPhone 13 Pro (美国)
+
+`A2636`: iPhone 13 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A2640`: iPhone 13 Pro (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)
+
+`A2638`: iPhone 13 Pro (其他国家和地区)
+
+**iPhone 13 Pro Max (`iPhone14,3`):**
+
+`A2484`: iPhone 13 Pro Max (美国)
+
+`A2641`: iPhone 13 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A2645`: iPhone 13 Pro Max (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)
+
+`A2643`: iPhone 13 Pro Max (其他国家和地区)
+
 ### iPad
 
 **iPad (第 3 代) (`iPad3,2`):**
@@ -789,6 +861,10 @@
 **iPad (第 8 代) (`iPad11,7`):**
 
 `A2428` `A2429`: iPad (第 8 代) (无线局域网 + 蜂窝网络)
+
+**iPad (第 9 代) (`iPad12,2`):**
+
+`A2603` `A2604`: iPad (第 9 代) (无线局域网 + 蜂窝网络)
 
 ### iPad Air
 
@@ -871,6 +947,10 @@
 **iPad mini (第 5 代) (`iPad11.2`):**
 
 `A2124` `A2126`: iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
+
+**iPad mini (第 6 代) (`iPad14,2`):**
+
+`A2568`: iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
 
 ### Apple Watch
 
