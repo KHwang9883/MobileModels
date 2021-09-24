@@ -251,11 +251,11 @@
 
 **realme Narzo 20 Pro:**
 
-`RMX2161`: realme Narzo 20 Pro India
+`RMX2161`: realme Narzo 20 Pro
 
 **realme Narzo 20A:**
 
-`RMX2050`: realme Narzo 20A India
+`RMX2050`: realme Narzo 20A
 
 **realme Narzo 30:**
 
@@ -265,11 +265,19 @@
 
 **realme Narzo 30 Pro:**
 
-`RMX2117`: realme Narzo 30 Pro 5G India
+`RMX2117`: realme Narzo 30 Pro 5G
 
 **realme Narzo 30A:**
 
-`RMX3171`: realme Narzo 30A India
+`RMX3171`: realme Narzo 30A
+
+**realme Narzo 50A:**
+
+`RMX3430`: realme Narzo 50A
+
+**realme Narzo 50i:**
+
+`RMX3231`: realme Narzo 50i
 
 ## GT series
 

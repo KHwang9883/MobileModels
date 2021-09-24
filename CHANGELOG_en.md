@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-24
+- `realme_global_en` Add realme Narzo 50A & 50i.
 ## 2021-09-22
 - `realme_global_en` Add realme C25Y.
 ## 2021-09-17
