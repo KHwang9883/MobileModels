@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-26
+- `realme_global_en` Add several models.
 ## 2021-09-24
 - `apple_en` Add iPhone 13, iPad (9th gen) & iPad mini (6th gen).
 - `realme_global_en` Add realme Narzo 50A & 50i.

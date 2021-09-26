@@ -287,10 +287,10 @@
 
 **realme GT Master Edition:**
 
-`RMX3360`: realme GT Master Edition
+`RMX3360` `RMX3363`: realme GT Master Edition
 
 ## Tablets
 
 **realme Pad:**
 
-`RMP2102`: realme Pad
+`RMP2102` `RMP2103`: realme Pad
