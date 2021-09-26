@@ -658,9 +658,17 @@
 
 `AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 全网通版
 
+**荣耀平板 V7 (`karajan2`):**
+
+`KRJ2-W09`: 荣耀平板 V7 10.4 英寸 Wi-Fi 版
+
+`KRJ2-AN00`: 荣耀平板 V7 10.4 英寸 5G 版
+
 **荣耀平板 V7 Pro (`britten`):**
 
 `BRT-W09`: 荣耀平板 V7 Pro 11 英寸 Wi-Fi 版
+
+`BRT-AN09`: 荣耀平板 V7 Pro 11 英寸 5G 版
 
 **荣耀平板 7 (`agassiM3`):**
 
@@ -814,11 +822,11 @@
 
 **荣耀 MagicBook 14 2021 锐龙版 (`nobelMH`):**
 
-`NMH-WDQ9HN`: 荣耀 MagicBook 14 2021 锐龙版 R5 (8GB+256GB)
+`NMH-WDQ9HN`: 荣耀 MagicBook 14 2021 R5 (8GB+256GB)
 
-`NMH-WFQ9HN`: 荣耀 MagicBook 14 2021 锐龙版 R5 (16GB+512GB)
+`NMH-WFQ9HN`: 荣耀 MagicBook 14 2021 R5 (16GB+512GB)
 
-`NMH-WFP9HN`: 荣耀MagicBook 14 2021款 锐龙版 R7 (16GB+512GB)
+`NMH-WFP9HN`: 荣耀 MagicBook 14 2021 R7
 
 **荣耀 MagicBook 15 (`bohrB`):**
 
@@ -856,23 +864,21 @@
 
 **荣耀 MagicBook 15 2021 锐龙版 (`bohrMH`):**
 
-`BMH-WDQ9HN`: 荣耀 MagicBook 15 2021 锐龙版 R5 (8GB+256GB)
+`BMH-WDQ9HN`: 荣耀 MagicBook 15 2021 R5 (8GB+256GB)
 
-`BMH-WFQ9HN`: 荣耀 MagicBook 15 2021 锐龙版 R5 (16GB+512GB)
+`BMH-WFQ9HN`: 荣耀 MagicBook 15 2021 R5 (16GB+512GB)
 
-`BMH-WFP9HN`: 荣耀 MagicBook 15 2021 锐龙版 R7
+`BMH-WFP9HN`: 荣耀 MagicBook 15 2021 R7
 
-**荣耀 MagicBook X 14 (`nobelBR`):**
+**荣耀 MagicBook 16 (`halleyM`):**
 
-`NBR-WAI9`: 荣耀 MagicBook X 14 i3
+`HYM-W56`: 荣耀 MagicBook 16 2021 R5
 
-`NBR-WAH9`: 荣耀 MagicBook X 14 i5
+`HYM-W76`: 荣耀 MagicBook 16 2021 R7
 
-**荣耀 MagicBook X 15 (`bohrBR`):**
+**荣耀 MagicBook 16 Pro (`halleyM`):**
 
-`BBR-WAI9`: 荣耀 MagicBook X 15 i3
-
-`BBR-WAH9`: 荣耀 MagicBook X 15 i5
+`HYM-W76`: 荣耀 MagicBook 16 Pro 2021 R7
 
 **荣耀 MagicBook Pro:**
 
@@ -883,6 +889,8 @@
 `HBL-W19L`: 荣耀 MagicBook Pro 科技尝鲜版 i5
 
 `HBL-W29L`: 荣耀 MagicBook Pro 科技尝鲜版 i7
+
+**荣耀 MagicBook Pro (`halleyK`):**
 
 `HLY-W19R`: 荣耀 MagicBook Pro R5
 
@@ -902,9 +910,35 @@
 
 `HBB-WAE9PHNL`: 荣耀 MagicBook Pro 2020 i7 (16GB+512GB)
 
-`HLYL-WFQ9` `HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
+**荣耀 MagicBook Pro 2020 (`halleyL`):**
 
-`HLYL-WFP9` `HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+`HLYL-WFQ9`: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
+
+`HLYL-WFP9`: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+
+**荣耀 MagicBook Pro 2020 (`halleyLR`):**
+
+`HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
+
+`HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+
+**荣耀 MagicBook V 14:**
+
+`HGE-W56`: 荣耀 MagicBook V 14 i5
+
+`HGE-W76`: 荣耀 MagicBook V 14 i7
+
+**荣耀 MagicBook X 14 (`nobelBR`):**
+
+`NBR-WAI9`: 荣耀 MagicBook X 14 i3
+
+`NBR-WAH9`: 荣耀 MagicBook X 14 i5
+
+**荣耀 MagicBook X 15 (`bohrBR`):**
+
+`BBR-WAI9`: 荣耀 MagicBook X 15 i3
+
+`BBR-WAH9`: 荣耀 MagicBook X 15 i5
 
 **荣耀猎人游戏本 V700:**
 
@@ -936,11 +970,21 @@
 
 `LOK-350S`: 荣耀智慧屏 X1 55 英寸 (4GB+32GB)
 
+`HN55LOKS`: 荣耀智慧屏 X1 55 英寸 2022 款 (4GB+32GB)
+
 `LOK-360` `LOK-360C`: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
 
 `LOK-360S`: 荣耀智慧屏 X1 65 英寸 (4GB+32GB)
 
+`HN65LOKS`: 荣耀智慧屏 X1 65 英寸 2022 款 (4GB+32GB)
+
 `LOK-370`: 荣耀智慧屏 X1 75 英寸
+
+**荣耀智慧屏 X2:**
+
+`HN55DNTA`: 荣耀智慧屏 X2 55 英寸
+
+`HN65DNTA`: 荣耀智慧屏 X2 65 英寸
 
 ## 荣耀独立前产品 
 
