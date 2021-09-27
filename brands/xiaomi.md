@@ -268,7 +268,7 @@
 
 `2109119DG`: Xiaomi 11 Lite 5G NE 国际版
 
-`2109119DI`: Xiaomi 11 Lite 5G NE 印度版
+`2109119DI`: Xiaomi 11 Lite NE 印度版
 
 **[`K11`] 小米 11i (`haydn`):**
 
@@ -408,7 +408,7 @@
 
 `M1804E4C`: 小米 Max 3 联通电信定制版
 
-## 小米 CC 系列
+## 小米 CC & Civi 系列
 
 **[`F3B`] 小米 CC9 (`pyxis`):**
 
@@ -425,6 +425,10 @@
 **[`F4`] 小米 CC9 Pro (`tucana`):**
 
 `M1910F4E`: 小米 CC9 Pro 全网通版
+
+**[`F9B`] Xiaomi Civi (`mona`):**
+
+`2109119BC`: Xiaomi Civi 全网通版
 
 ## 小米 Play 系列
 
@@ -1288,15 +1292,15 @@
 
 `SHARK KLE-A0`: 腾讯黑鲨游戏手机 3S 全网通版
 
-**黑鲨游戏手机 4 (`penrose`):**
+**黑鲨 4 (`penrose`):**
 
-`SHARK PRS-A0`: 黑鲨游戏手机 4 全网通版
+`SHARK PRS-A0`: 黑鲨 4 全网通版
 
-`SHARK PRS-H0`: 黑鲨游戏手机 4 国际版
+`SHARK PRS-H0`: 黑鲨 4 国际版
 
-**黑鲨游戏手机 4 Pro (`kaiser`):**
+**黑鲨 4 Pro (`kaiser`):**
 
-`SHARK KSR-A0`: 黑鲨游戏手机 4 Pro 全网通版
+`SHARK KSR-A0`: 黑鲨 4 Pro 全网通版
 
 ## 其他系列
 

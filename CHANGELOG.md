@@ -1,6 +1,8 @@
 # 更新日志
+## 2021-09-27
+- `xiaomi` 新增 Xiaomi Civi。
 ## 2021-09-26
-- `honor` 新增荣耀智慧生活新品。
+- `honor_cn` 新增荣耀智慧生活新品。
 ## 2021-09-24
 - `apple` 新增 iPhone 13 & iPad 9 & iPad mini 6。
 - `realme_cn` 新增 realme 真我 V11s。
