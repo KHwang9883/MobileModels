@@ -265,7 +265,7 @@
 
 `2109119DG`: Xiaomi 11 Lite 5G NE Global
 
-`2109119DI`: Xiaomi 11 Lite 5G NE India
+`2109119DI`: Xiaomi 11 Lite NE India
 
 **[`K11`] Mi 11i (`haydn`):**
 
@@ -410,6 +410,10 @@
 **[`F4`] Mi CC 9 Pro (`tucana`):**
 
 `M1910F4E`: Mi CC 9 Pro China
+
+**[`F9B`] Xiaomi Civi (`mona`):**
+
+`2109119BC`: Xiaomi Civi China
 
 **[`F9`] Mi Play (`lotus`):**
 

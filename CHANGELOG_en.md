@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-27
+- `xiaomi_en` Add Xiaomi Civi (China).
 ## 2021-09-26
 - `realme_global_en` Add several models.
 ## 2021-09-24
