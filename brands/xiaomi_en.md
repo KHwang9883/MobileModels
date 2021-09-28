@@ -265,7 +265,7 @@
 
 `2109119DG`: Xiaomi 11 Lite 5G NE Global
 
-`2109119DI`: Xiaomi 11 Lite NE India
+`2109119DI`: Xiaomi 11 Lite NE 5G India
 
 **[`K11`] Mi 11i (`haydn`):**
 
@@ -715,9 +715,9 @@
 
 `M2006C3LVG`: Redmi 9AT Global
 
-`M2006C3LI`: Redmi 9A India
+`M2006C3LI`: Redmi 9A / Redmi 9A Sport India
 
-`M2006C3LII`: Redmi 9i India
+`M2006C3LII`: Redmi 9i / Redmi 9i Sport India
 
 `M2006C3LC`: Redmi 9A China
 
@@ -731,9 +731,9 @@
 
 `M2006C3MNG`: Redmi 9C NFC Global
 
-**[`C3MI`] Redmi 9 (`cattail`):**
+**[`C3MI`] Redmi 9 / Redmi 9 Activ (`cattail`):**
 
-`M2006C3MII`: Redmi 9 India
+`M2006C3MII`: Redmi 9 / Redmi 9 Activ India
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 

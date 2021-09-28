@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-28
+- `xiaomi_en` Add new variants for Redmi 9 series (India).
 ## 2021-09-27
 - `xiaomi_en` Add Xiaomi Civi (China).
 ## 2021-09-26
