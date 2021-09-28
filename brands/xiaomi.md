@@ -268,7 +268,7 @@
 
 `2109119DG`: Xiaomi 11 Lite 5G NE 国际版
 
-`2109119DI`: Xiaomi 11 Lite NE 印度版
+`2109119DI`: Xiaomi 11 Lite NE 5G 印度版
 
 **[`K11`] 小米 11i (`haydn`):**
 
@@ -740,9 +740,9 @@
 
 `M2006C3LVG`: Redmi 9AT 国际版
 
-`M2006C3LI`: Redmi 9A 印度版
+`M2006C3LI`: Redmi 9A / Redmi 9A Sport 印度版
 
-`M2006C3LII`: Redmi 9i 印度版
+`M2006C3LII`: Redmi 9i / Redmi 9i Sport 印度版
 
 **[`C3M`] Redmi 9C (`angelica`):**
 
@@ -754,9 +754,9 @@
 
 `M2006C3MNG`: Redmi 9C NFC 国际版
 
-**[`C3MI`] Redmi 9 (`cattail`):**
+**[`C3MI`] Redmi 9 / Redmi 9 Activ (`cattail`):**
 
-`M2006C3MII`: Redmi 9 印度版
+`M2006C3MII`: Redmi 9 / Redmi 9 Activ 印度版
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
