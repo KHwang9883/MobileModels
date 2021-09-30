@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-09-30
+- `xiaomi_en` Add POCO C31 (India).
 ## 2021-09-28
 - `xiaomi_en` Add new variants for Redmi 9 series (India).
 ## 2021-09-27
