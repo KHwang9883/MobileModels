@@ -1252,6 +1252,10 @@
 
 `M2006C3MI`: POCO C3 印度版
 
+**[`C3M`] POCO C31 (`angelicain`):**
+
+`211033MI`: POCO C31 印度版
+
 ## 黑鲨手机
 
 **黑鲨游戏手机 (`shark`):**
