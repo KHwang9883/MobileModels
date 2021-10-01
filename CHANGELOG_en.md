@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-10-01
+- `xiaomi_en` Add Redmi Note 10 Lite (India).
 ## 2021-09-30
 - `xiaomi_en` Add POCO C31 (India).
 ## 2021-09-28

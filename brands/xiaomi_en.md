@@ -1033,6 +1033,10 @@
 
 `M2104K10AC`: Redmi Note 10 Pro 5G China
 
+**[`J6A1`] Redmi Note 10 Lite (`curtana`):**
+
+`2109106A1I`: Redmi Note 10 Lite India
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
