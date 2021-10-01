@@ -1064,6 +1064,10 @@
 
 `M2104K10AC`: Redmi Note 10 Pro 5G 全网通版
 
+**[`J6A1`] Redmi Note 10 Lite (`curtana`):**
+
+`2109106A1I`: Redmi Note 10 Lite 印度版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
