@@ -888,7 +888,7 @@
 
 `SCMR-AL09`: HUAWEI MatePad 10.8 英寸 全网通版
 
-**HUAWEI MatePad 11:**
+**HUAWEI MatePad 11 (`debussy`):**
 
 `DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
@@ -1112,7 +1112,7 @@
 
 `WRT-W29L`: HUAWEI MateBook 13 i7 Linux 版
 
-**HUAWEI MateBook 13 锐龙版 (`heng`):**
+**HUAWEI MateBook 13 锐龙版 (`hengK`):**
 
 `HN-W19R`: HUAWEI MateBook 13 锐龙版
 
@@ -1140,7 +1140,7 @@
 
 `WRTD-WFE9`: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
 
-**HUAWEI MateBook 13s:**
+**HUAWEI MateBook 13s (`emmyD`):**
 
 `EMD-W58`: HUAWEI MateBook 13s i5 (8GB+512GB)
 
@@ -1178,7 +1178,7 @@
 
 `KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 
-**HUAWEI MateBook 14s:**
+**HUAWEI MateBook 14s (`hookeD`):**
 
 `HKD-W58`: HUAWEI MateBook 14s i5 (8GB+512GB)
 
@@ -1186,7 +1186,7 @@
 
 `HKD-W76`: HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
 
-**HUAWEI MateBook 16:**
+**HUAWEI MateBook 16 (`curieM`):**
 
 `CREM-WFG9`: HUAWEI MateBook 16 R5
 
