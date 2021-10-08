@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-10-08
+- `oneplus_en` Add OnePlus 9RT.
 ## 2021-10-01
 - `xiaomi_en` Add Redmi Note 10 Lite (India).
 ## 2021-09-30

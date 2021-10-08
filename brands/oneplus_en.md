@@ -197,6 +197,12 @@
 
 `LE2127`: OnePlus 9 Pro T-Mobile
 
+**OnePlus 9RT (`martini`):**
+
+`MT2110`: OnePlus 9RT China
+
+`MT2111`: OnePlus 9RT India
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
