@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-10-08
+- `oneplus` 新增 OnePlus 9RT。
 - `oppo_cn` 新增 OPPO A11s。
 ## 2021-10-03
 - `huawei_cn` 增补部分代号信息。
