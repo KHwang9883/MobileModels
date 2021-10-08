@@ -246,6 +246,10 @@
 
 `PCHT00`: OPPO A11n 移动版
 
+**OPPO A11s:**
+
+`PDVM00`: OPPO A11s 全网通版
+
 **OPPO A32:**
 
 `PDVM00`: OPPO A32 全网通版
