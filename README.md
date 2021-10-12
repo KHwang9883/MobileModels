@@ -94,39 +94,23 @@
 
 ## 参考资料
 
-[手机信息网](http://shouji.tenaa.com.cn)
-
-[产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
-
-[无线电发射设备型号核准](https://ythzxfw.miit.gov.cn/resultQuery)
-
-[产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/pud_phone.do)
-
-[Wi-Fi Alliance](https://www.wi-fi.org)
-
-[Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
-
-[RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
-
-[RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
-
-[Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
-
-[Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
-
-[ReaMEIZU](https://reameizu.com/)
-
-[The iPhone Wiki](https://www.theiphonewiki.com)
-
-[ipsw.me](https://ipsw.me)
-
-[XDA Developers](https://www.xda-developers.com)
-
-[SLASHLEAKS](http://www.slashleaks.com)
-
-[Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
-
-[Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+- [手机信息网](http://shouji.tenaa.com.cn)
+- [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
+- [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/resultQuery)
+- [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/pud_phone.do)
+- [Wi-Fi Alliance](https://www.wi-fi.org)
+- [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
+- [RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
+- [RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
+- [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
+- [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+- [ReaMEIZU](https://reameizu.com/)
+- [The iPhone Wiki](https://www.theiphonewiki.com)
+- [ipsw.me](https://ipsw.me)
+- [XDA Developers](https://www.xda-developers.com)
+- [SLASHLEAKS](http://www.slashleaks.com)
+- [Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
+- [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 
 以及各品牌官网、论坛、微博等，恕不一一列出
 
