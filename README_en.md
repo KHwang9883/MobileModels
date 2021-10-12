@@ -9,7 +9,7 @@
 
 Collecting device names, models and internal codenames.
 
-[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcomed if you find errors.
+[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcomed if you find mistakes.
 
 Unlisted brands usually not include international models.
 
@@ -31,39 +31,23 @@ Unlisted brands usually not include international models.
 
 ## References
 
-[TENAA](http://shouji.tenaa.com.cn)
-
-[CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
-
-[MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
-
-[China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
-
-[Wi-Fi Alliance](https://www.wi-fi.org)
-
-[Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
-
-[RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
-
-[RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
-
-[Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
-
-[Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
-
-[ReaMEIZU](https://reameizu.com/)
-
-[The iPhone Wiki](https://www.theiphonewiki.com)
-
-[ipsw.me](https://ipsw.me)
-
-[XDA Developers](https://www.xda-developers.com)
-
-[SLASHLEAKS](http://www.slashleaks.com)
-
-[Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
-
-[Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+- [TENAA](http://shouji.tenaa.com.cn)
+- [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
+- [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
+- [China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
+- [Wi-Fi Alliance](https://www.wi-fi.org)
+- [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
+- [RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
+- [RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
+- [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
+- [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+- [ReaMEIZU](https://reameizu.com/)
+- [The iPhone Wiki](https://www.theiphonewiki.com)
+- [ipsw.me](https://ipsw.me)
+- [XDA Developers](https://www.xda-developers.com)
+- [SLASHLEAKS](http://www.slashleaks.com)
+- [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
+- [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 
 ## License
 
