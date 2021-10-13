@@ -1273,6 +1273,14 @@
 
 `SHARK KSR-A0`: Black Shark 4 Pro China
 
+**Black Shark 4S (`penrose`):**
+
+`SHARK PRS-A0`: Black Shark 4S China
+
+**Black Shark 4S Pro (`kaiser`):**
+
+`SHARK KSR-A0`: Black Shark 4S Pro China
+
 ## Others
 
 **Mi Watch (`baiji`):**

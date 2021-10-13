@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-10-13
+- `xiaomi_en` Add Black Shark 4S series (China).
 ## 2021-10-08
 - `oneplus_en` Add OnePlus 9RT.
 ## 2021-10-01
