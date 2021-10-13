@@ -178,7 +178,7 @@
 
 `JLH-AN00`: 荣耀 50 SE 5G 全网通版
 
-**荣耀 50:**
+**荣耀 50 (`nottingham`):**
 
 `NTH-AN00`: 荣耀 50 5G 全网通版
 
@@ -368,9 +368,9 @@
 
 `CHL-AN00`: 荣耀 X20 SE 5G 全网通版
 
-**荣耀 X20 Max (`kingkong`):**
+**荣耀 X30 Max (`kingkong`):**
 
-`KKG-AN70`: 荣耀 X20 Max 5G 全网通版
+`KKG-AN70`: 荣耀 X30 Max 5G 全网通版
 
 ## 荣耀 Play 系列
 
