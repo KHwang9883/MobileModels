@@ -1310,6 +1310,14 @@
 
 `SHARK KSR-A0`: 黑鲨 4 Pro 全网通版
 
+**黑鲨 4S (`penrose`):**
+
+`SHARK PRS-A0`: 黑鲨 4S 全网通版
+
+**黑鲨 4S Pro (`kaiser`):**
+
+`SHARK KSR-A0`: 黑鲨 4S Pro 全网通版
+
 ## 其他系列
 
 **小米手表 (`baiji`):**

@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-10-13
+- `xiaomi` 新增黑鲨 4S 系列。
 ## 2021-10-08
 - `oneplus` 新增 OnePlus 9RT。
 - `oppo_cn` 新增 OPPO A11s。
@@ -24,7 +26,7 @@
 ## 2021-09-19
 - `huawei_cn` 新增 HUAWEI nova 9 系列。
 ## 2021-09-17
-- `honor_cn` 新增 荣耀畅玩 20 Pro & 荣耀 X20 Max。
+- `honor_cn` 新增 荣耀畅玩 20 Pro & 荣耀 X30 Max。
 ## 2021-09-16
 - `oppo_cn` 新增 OPPO K9 Pro。
 ## 2021-09-15
