@@ -61,3 +61,7 @@
 **Nokia C20 Plus (`sirius`):**
 
 `TA-1388`: Nokia C20 Plus
+
+**Nokia G50 (`punisher`):**
+
+`TA-1361`: Nokia G50
