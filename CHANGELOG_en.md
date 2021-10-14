@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-10-14
+- `realme_global_en` Add realme GT NEO 2.
 ## 2021-10-13
 - `xiaomi_en` Add Black Shark 4S series (China).
 ## 2021-10-08

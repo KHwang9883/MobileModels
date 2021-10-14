@@ -289,6 +289,10 @@
 
 `RMX3360` `RMX3363`: realme GT Master Edition
 
+**realme GT NEO 2:**
+
+`RMX3370`: realme GT NEO 2 5G
+
 ## Tablets
 
 **realme Pad:**
