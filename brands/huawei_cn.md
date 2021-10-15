@@ -966,11 +966,15 @@
 
 **HUAWEI MateBook X (2020):**
 
-`EUL-W19`: HUAWEI MateBook X i5 (8GB+512GB)
+`EUL-W19`: HUAWEI MateBook X (2020) i5 (8GB+512GB)
 
-`EUL-W19P`: HUAWEI MateBook X i5 (16GB+512GB)
+`EUL-W19P`: HUAWEI MateBook X (2020) i5 (16GB+512GB)
 
-`EUL-W29P`: HUAWEI MateBook X i7 (16GB+512GB)
+`EUL-W29P`: HUAWEI MateBook X (2020) i7 (16GB+512GB)
+
+**HUAWEI MateBook X (2021):**
+
+`EULD-WFH9`: HUAWEI MateBook X (2021) i5
 
 **HUAWEI MateBook X Pro (`mach`):**
 

@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-10-15
+- `huawei_cn` 新增 HUAWEI MateBook X (2021)。
 ## 2021-10-14
 - `nokia` 新增 Nokia G50。
 ## 2021-10-13
