@@ -809,6 +809,26 @@
 
 `A2376`: Apple Watch Series 6 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
 
+**Apple Watch Series 7 (`Watch6,6`):**
+
+`A2473`: Apple Watch Series 7 (GPS) (41mm case)
+
+**Apple Watch Series 7 (`Watch6,7`):**
+
+`A2474`: Apple Watch Series 7 (GPS) (45mm case)
+
+**Apple Watch Series 7 (`Watch6,8`):**
+
+`A2475`: Apple Watch Series 7 (GPS + Cellular) (41mm case) (North America)
+
+`A2476`: Apple Watch Series 7 (GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)
+
+**Apple Watch Series 7 (`Watch6,9`):**
+
+`A2477`: Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)
+
+`A2478`: Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)
+
 ## iPod touch
 
 **iPod touch (1st generation) (`iPod1,1`):**

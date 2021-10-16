@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-10-16
+- `apple_en` Add Apple Watch Series 7.
 ## 2021-10-14
 - `realme_global_en` Add realme GT NEO 2.
 ## 2021-10-13
