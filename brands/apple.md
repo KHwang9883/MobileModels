@@ -596,6 +596,22 @@
 
 `A2376`: Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
 
+**Apple Watch Series 7 (`Watch6,6`):**
+
+`A2473`: Apple Watch Series 7 (GPS) (41 毫米表壳)
+
+**Apple Watch Series 7 (`Watch6,7`):**
+
+`A2474`: Apple Watch Series 7 (GPS) (45 毫米表壳)
+
+**Apple Watch Series 7 (`Watch6,8`):**
+
+`A2476`: Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (国行)
+
+**Apple Watch Series 7 (`Watch6,9`):**
+
+`A2478`: Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (国行)
+
 ### iPod touch
 
 **iPod touch (`iPod1,1`):**
@@ -997,6 +1013,14 @@
 **Apple Watch Series 6 (`Watch6,4`):**
 
 `A2294`: Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+
+**Apple Watch Series 7 (`Watch6,8`):**
+
+`A2475`: Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (北美)
+
+**Apple Watch Series 7 (`Watch6,9`):**
+
+`A2477`: Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
 
 ### iPod touch
 

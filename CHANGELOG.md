@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-10-16
+- `apple` 新增 Apple Watch Series 7。
 - `samsung` 新增 三星 W22。
 ## 2021-10-15
 - `huawei_cn` 新增 HUAWEI MateBook X (2021)。
