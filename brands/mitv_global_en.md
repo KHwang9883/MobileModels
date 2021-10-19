@@ -63,6 +63,10 @@
 
 **Redmi Smart TV:**
 
+`L32M6-RA`: Redmi Smart TV 32
+
+`L43M6-RA`: Redmi Smart TV 43
+
 `L50M6-RA`: Redmi Smart TV X50
 
 `L55M6-RA`: Redmi Smart TV X55

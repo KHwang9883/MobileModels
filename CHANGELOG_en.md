@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-10-19
+- `mitv_global_en` Add Redmi Smart TV 32 & 43 (India).
 ## 2021-10-16
 - `apple_en` Add Apple Watch Series 7.
 ## 2021-10-14
