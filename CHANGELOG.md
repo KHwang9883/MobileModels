@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-10-19
+- `realme_cn` 新增 真我 GT Neo2T & 真我 Q3s。
 ## 2021-10-16
 - `apple` 新增 Apple Watch Series 7。
 - `samsung` 新增 三星 W22。
