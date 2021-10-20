@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-10-20
+- `oppo_cn` 新增 OPPO K9s。
 - `vivo` 新增 iQOO Z5x & vivo T1 & T1x。
 ## 2021-10-19
 - `realme_cn` 新增 真我 GT Neo2T & 真我 Q3s。

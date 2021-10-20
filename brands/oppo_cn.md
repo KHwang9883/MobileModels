@@ -342,6 +342,10 @@
 
 `PEXM00`: OPPO K9 全网通版
 
+**OPPO K9s:**
+
+`PERM10`: OPPO K9s 全网通版
+
 **OPPO K9 Pro:**
 
 `PEYM00`: OPPO K9 Pro 全网通版
