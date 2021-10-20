@@ -292,11 +292,11 @@
 
 **Redmi 智能电视 X:**
 
-`L50M5-RK`: Redmi 智能电视 X50
+`L50M5-RK`: Redmi 智能电视 X50 (2020)
 
-`L55M5-RK`: Redmi 智能电视 X55
+`L55M5-RK`: Redmi 智能电视 X55 (2020)
 
-`L65M5-RK`: Redmi 智能电视 X65
+`L65M5-RK`: Redmi 智能电视 X65 (2020)
 
 **Redmi 智能电视 X 2022 款:**
 
