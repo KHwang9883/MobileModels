@@ -28,7 +28,7 @@
 
 `V1950A`: vivo NEX 3S 5G 全网通版
 
-## X 系列
+## vivo X 系列
 
 **vivo X21s (`PD1814`):**
 
@@ -130,7 +130,7 @@
 
 `V2145A`: vivo X70 Pro+ 5G 全网通版
 
-## S 系列
+## vivo S 系列
 
 **vivo S1 (`PD1831`):**
 
@@ -190,7 +190,7 @@
 
 `V2130A`: vivo S10e 5G 全网通版
 
-## Y 系列
+## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
 
@@ -350,7 +350,17 @@
 
 `V1813T`: vivo Y97 移动全网通版
 
-## Z 系列
+## vivo T 系列
+
+**vivo T1 (`PD2115`):**
+
+`V2115A`: vivo T1 5G 全网通版
+
+**vivo T1x (`PD2123`):**
+
+`V2123A`: vivo T1x 5G 全网通版
+
+## vivo Z 系列
 
 **vivo Z1 (`PD1730C`):**
 
@@ -414,7 +424,31 @@
 
 `V1963A`: vivo Z6 5G 全网通版
 
-## iQOO 手机
+## vivo U 系列
+
+**vivo U1 (`PD1818`):**
+
+`V1818A`: vivo U1 全网通版
+
+**vivo U3 (`PD1941`):**
+
+`V1941A`: vivo U3 全网通版
+
+`V1941T`: vivo U3 移动全网通版
+
+**vivo U3x (`PD1928`):**
+
+`V1928A`: vivo U3x 全网通版
+
+`V1928T`: vivo U3x 移动全网通版
+
+## vivo G 系列
+
+**vivo G1 (`PD1962B`):**
+
+`V1962BA`: vivo G1 5G 全网通版
+
+## iQOO 旗舰系列
 
 **iQOO (`PD1824`):**
 
@@ -462,6 +496,8 @@
 
 `V2141A`: iQOO 8 Pro 5G 全网通版
 
+## iQOO Neo 系列
+
 **iQOO Neo (`PD1914`):**
 
 `V1914A`: iQOO Neo 全网通版
@@ -492,6 +528,8 @@
 
 `V2118A`: iQOO Neo5 活力版 5G 全网通版
 
+## iQOO Z 系列
+
 **iQOO Z1 (`PD1986`):**
 
 `V1986A`: iQOO Z1 5G 全网通版
@@ -507,6 +545,12 @@
 **iQOO Z5 (`PD2148`):**
 
 `V2148A`: iQOO Z5 5G 全网通版
+
+**iQOO Z5x (`PD2131`):**
+
+`V2131A`: iQOO Z5x 5G 全网通版
+
+## iQOO U 系列
 
 **iQOO U1 (`PD2023`):**
 
@@ -527,27 +571,3 @@
 **iQOO U3x 标准版 (`PD2143`):**
 
 `V2143A`: iQOO U3x 标准版 全网通版
-
-## U 系列
-
-**vivo U1 (`PD1818`):**
-
-`V1818A`: vivo U1 全网通版
-
-**vivo U3 (`PD1941`):**
-
-`V1941A`: vivo U3 全网通版
-
-`V1941T`: vivo U3 移动全网通版
-
-**vivo U3x (`PD1928`):**
-
-`V1928A`: vivo U3x 全网通版
-
-`V1928T`: vivo U3x 移动全网通版
-
-## G 系列
-
-**vivo G1 (`PD1962B`):**
-
-`V1962BA`: vivo G1 5G 全网通版
