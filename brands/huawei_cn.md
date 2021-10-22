@@ -1186,6 +1186,12 @@
 
 `KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 
+**HUAWEI MateBook 14 (2021) 锐龙版 (`kelvinL`):**
+
+`KLVL-W56W`: HUAWEI MateBook 14 (2021) R5
+
+`KLVL-W76W`: HUAWEI MateBook 14 (2021) R7
+
 **HUAWEI MateBook 14s (`hookeD`):**
 
 `HKD-W58`: HUAWEI MateBook 14s i5 (8GB+512GB)

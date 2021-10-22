@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-10-22
+- `huawei_cn` 新增 HUAWEI MateBook 14 (2021) 锐龙版。
 ## 2021-10-20
 - `huawei_cn` 新增 华为畅享 20e（版本型号待补全）。
 - `mitv_cn` 新增 Redmi 智能电视 X 2022。
