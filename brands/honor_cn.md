@@ -424,6 +424,10 @@
 
 `HJC-AN90`: 荣耀 Play5 5G 全网通版
 
+**荣耀 Play5 活力版 (`newton`):**
+
+`NEW-AN90`: 荣耀 Play5 活力版 5G 全网通版
+
 **荣耀 Play5T:**
 
 `KOZ-AL40`: 荣耀畅玩 20 全网通版

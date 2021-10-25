@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-10-25
+- `honor_cn` 新增 荣耀 Play5 活力版。
 - `vivo` 增补部分型号。
 ## 2021-10-22
 - `huawei_cn` 新增 HUAWEI MateBook 14 (2021) 锐龙版。
