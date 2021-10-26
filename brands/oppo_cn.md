@@ -276,6 +276,10 @@
 
 `PEMT00` `PEMT20`: OPPO A55 移动版
 
+**OPPO A56:**
+
+`PFVM10`: OPPO A56 全网通版
+
 **OPPO A72:**
 
 `PDYM20`: OPPO A72 全网通版
