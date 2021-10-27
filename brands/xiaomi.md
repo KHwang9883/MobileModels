@@ -1068,6 +1068,18 @@
 
 `2109106A1I`: Redmi Note 10 Lite 印度版
 
+**[`K16A`] Redmi Note 11 (`evergo`):**
+
+`21091116AC`: Redmi Note 11 全网通版
+
+**[`K16`] Redmi Note 11 Pro (`pissarro`):**
+
+`21091116C`: Redmi Note 11 Pro 全网通版
+
+**[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
+
+`21091116UC`: Redmi Note 11 Pro+ 全网通版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
