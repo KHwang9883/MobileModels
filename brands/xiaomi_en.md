@@ -1037,6 +1037,18 @@
 
 `2109106A1I`: Redmi Note 10 Lite India
 
+**[`K16A`] Redmi Note 11 (`evergo`):**
+
+`21091116AC`: Redmi Note 11 China
+
+**[`K16`] Redmi Note 11 Pro (`pissarro`):**
+
+`21091116C`: Redmi Note 11 Pro China
+
+**[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
+
+`21091116UC`: Redmi Note 11 Pro+ China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
