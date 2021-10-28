@@ -368,6 +368,10 @@
 
 `CHL-AN00`: 荣耀 X20 SE 5G 全网通版
 
+**荣耀 X30i:**
+
+`TFY-AN00`: 荣耀 X30i 5G 全网通版
+
 **荣耀 X30 Max (`kingkong`):**
 
 `KKG-AN70`: 荣耀 X30 Max 5G 全网通版

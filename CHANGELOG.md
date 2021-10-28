@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-10-28
+- `honor_cn` 新增 荣耀 X30i。
 ## 2021-10-27
 - `xiaomi` 新增 Redmi Note 11 系列。
 ## 2021-10-26
@@ -23,7 +25,7 @@
 ## 2021-10-14
 - `nokia` 新增 Nokia G50。
 ## 2021-10-13
-- `xiaomi` 新增黑鲨 4S 系列。
+- `xiaomi` 新增 黑鲨 4S 系列。
 ## 2021-10-08
 - `oneplus` 新增 OnePlus 9RT。
 - `oppo_cn` 新增 OPPO A11s。
