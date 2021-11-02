@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-11-02
+- `xiaomi_en` Add several international models.
 ## 2021-10-27
 - `xiaomi_en` Add Redmi Note 11 series (China).
 ## 2021-10-19

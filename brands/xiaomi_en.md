@@ -289,6 +289,14 @@
 
 `2107113SR`: Xiaomi 11T Pro Japan
 
+**[`K16`] Xiaomi 11i (`pissarroin`):**
+
+`21091116I`: Xiaomi 11i India
+
+**[`K16U`] Xiaomi 11i HyperCharge (`pissarroinpro`):**
+
+`21091116UI`: Xiaomi 11i HyperCharge India
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1003,11 +1011,9 @@
 
 `M2103K19Y`: Redmi Note 10T Global
 
-**[`K19`] Redmi Note 10T 5G (`camellia`):**
+**[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellia`):**
 
 `M2103K19I`: Redmi Note 10T 5G India
-
-**[`K19`] Redmi Note 10 (`camellia`):**
 
 `M2103K19C`: Redmi Note 10 5G China
 
@@ -1037,7 +1043,9 @@
 
 `2109106A1I`: Redmi Note 10 Lite India
 
-**[`K16A`] Redmi Note 11 (`evergo`):**
+**[`K16A`] Redmi Note 11 / Redmi Note 11T (`evergo`):**
+
+`21091116AI`: Redmi Note 11T India
 
 `21091116AC`: Redmi Note 11 China
 
@@ -1219,13 +1227,17 @@
 
 `M2010J19CI`: POCO M3 India
 
-**[`K19P`] POCO M3 Pro (`camellian`):**
+**[`K19P`] POCO M3 Pro 5G (`camellian`):**
 
 `M2103K19PG` `M2103K19PY`: POCO M3 Pro 5G Global
 
-**[`K19P`] POCO M3 Pro (`camellia`):**
+**[`K19P`] POCO M3 Pro 5G (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G India
+
+**[`K16A`] POCO M4 Pro 5G (`evergreen`):**
+
+`21091116AG`: POCO M4 Pro 5G Global
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
