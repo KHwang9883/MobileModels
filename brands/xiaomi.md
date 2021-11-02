@@ -292,6 +292,14 @@
 
 `2107113SR`: Xiaomi 11T Pro 日本版
 
+**[`K16`] Xiaomi 11i (`pissarroin`):**
+
+`21091116I`: Xiaomi 11i 印度版
+
+**[`K16U`] Xiaomi 11i HyperCharge (`pissarroinpro`):**
+
+`21091116UI`: Xiaomi 11i HyperCharge 印度版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -1028,19 +1036,17 @@
 
 `M2101K7BL`: Redmi Note 10S 拉美版
 
-**[`K19`] Redmi Note 10 (`camellia`):**
+**[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellia`):**
 
 `M2103K19C`: Redmi Note 10 5G 全网通版
+
+`M2103K19I`: Redmi Note 10T 5G 印度版
 
 **[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellian`):**
 
 `M2103K19G`: Redmi Note 10 5G 国际版
 
 `M2103K19Y`: Redmi Note 10T 国际版
-
-**[`K19`] Redmi Note 10T 5G (`camellia`):**
-
-`M2103K19I`: Redmi Note 10T 5G 印度版
 
 **[`K19J`] Redmi Note 10 JE (`iris`):**
 
@@ -1068,9 +1074,11 @@
 
 `2109106A1I`: Redmi Note 10 Lite 印度版
 
-**[`K16A`] Redmi Note 11 (`evergo`):**
+**[`K16A`] Redmi Note 11 / Redmi Note 11T (`evergo`):**
 
 `21091116AC`: Redmi Note 11 全网通版
+
+`21091116AI`: Redmi Note 11T 印度版
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
@@ -1256,13 +1264,17 @@
 
 `M2010J19CI`: POCO M3 印度版
 
-**[`K19P`] POCO M3 Pro (`camellian`):**
+**[`K19P`] POCO M3 Pro 5G (`camellian`):**
 
 `M2103K19PG` `M2103K19PY`: POCO M3 Pro 5G 国际版
 
-**[`K19P`] POCO M3 Pro (`camellia`):**
+**[`K19P`] POCO M3 Pro 5G (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G 印度版
+
+**[`K16A`] POCO M4 Pro 5G (`evergreen`):**
+
+`21091116AG`: POCO M4 Pro 5G 国际版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
