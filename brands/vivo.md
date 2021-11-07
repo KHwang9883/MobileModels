@@ -256,13 +256,17 @@
 
 `V2054A`: vivo Y31s 5G 全网通版
 
-**vivo Y31s (t1 版) (`PD2054`):**
-
-`V2068A`: vivo Y31s (t1 版) 5G 全网通版
-
 **vivo Y31s 标准版 (`PD2068`):**
 
 `V2068A`: vivo Y31s 标准版 5G 全网通版
+
+**vivo Y31s (t1 版) (`PD2068`):**
+
+`V2068A`: vivo Y31s (t1 版) 5G 全网通版
+
+**vivo Y31s (t2 版) (`PD2054`):**
+
+`V2054A`: vivo Y31s 5G 全网通版
 
 **vivo Y50 (`PD1965`):**
 
@@ -276,7 +280,7 @@
 
 `V2057A`: vivo Y52s 5G 全网通版
 
-**vivo Y52s (t1 版) (`PD2054`):**
+**vivo Y52s (t1 版) (`PD2106`):**
 
 `V2054A`: vivo Y52s (t1 版) 5G 全网通版
 
@@ -296,7 +300,7 @@
 
 `V2002A`: vivo Y70s 5G 全网通版
 
-**vivo Y70t (`PD2002`):**
+**vivo Y70t (`PD2019`):**
 
 `V2002A`: vivo Y70t 5G 全网通版
 
