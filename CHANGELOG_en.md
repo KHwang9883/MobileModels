@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-11-10
+- `realme_global_en` Add realme Narzo 50i (Global).
 ## 2021-11-02
 - `xiaomi_en` Add several international models.
 ## 2021-10-27

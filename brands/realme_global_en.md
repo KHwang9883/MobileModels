@@ -277,7 +277,9 @@
 
 **realme Narzo 50i:**
 
-`RMX3231`: realme Narzo 50i
+`RMX3231`: realme Narzo 50i India
+
+`RMX3235`: realme Narzo 50i Global
 
 ## GT series
 
