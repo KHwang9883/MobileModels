@@ -296,6 +296,10 @@
 
 `V2123A`: vivo Y53s (t2 版) 5G 全网通版
 
+**vivo Y53s (NFC 版) (`PD2069`):**
+
+`V2069A`: vivo Y53s (NFC 版) 5G 全网通版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G 全网通版
@@ -319,6 +323,10 @@
 **vivo Y73s (`PD2031`):**
 
 `V2031A`: vivo Y73s 5G 全网通版
+
+**vivo Y76s (`PD2156`):**
+
+`V2156A`: vivo Y76s 5G 全网通版
 
 **vivo Y81 (`PD1732`):**
 
@@ -348,17 +356,17 @@
 
 `V1818T`: vivo Y93 移动全网通版
 
-**vivo Y93s (`PD1818C`):**
-
-`V1818CA`: vivo Y93s 全网通版
-
-`V1818CT`: vivo Y93s 移动全网通版
-
 **vivo Y93 标准版 (`PD1818C`):**
 
 `V1818CA`: vivo Y93 标准版 全网通版
 
 `V1818CT`: vivo Y93 标准版 移动全网通版
+
+**vivo Y93s (`PD1818C`):**
+
+`V1818CA`: vivo Y93s 全网通版
+
+`V1818CT`: vivo Y93s 移动全网通版
 
 **vivo Y97 (`PD1813`):**
 
