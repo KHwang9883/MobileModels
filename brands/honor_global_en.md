@@ -177,6 +177,18 @@
 
 `HRY-AL00Ta`: HONOR 20i Dual SIM
 
+**HONOR 20e (`harrypro`):**
+
+`HRY-LX1T`: HONOR 20e Dual SIM
+
 **HONOR View30 PRO (`oxford`):**
 
-`OXF-N29` `OXF-AN10`: HONOR View30 PRO Dual SIM
+`OXF-N29` `OXF-AN10`: HONOR View30 PRO 5G Dual SIM
+
+**HONOR 50:**
+
+`NTX-NX9`: HONOR 50 5G Dual SIM
+
+**HONOR 50 Lite:**
+
+`NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite 5G Dual SIM
