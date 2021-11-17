@@ -176,7 +176,9 @@
 
 **HUAWEI Mate X2 (`teton`):**
 
-`TET-AN00` `TET-AN10` `TET-AN50`: HUAWEI Mate X2 5G 全网通版
+`TET-AN00` `TET-AN10`: HUAWEI Mate X2 5G 全网通版
+
+`TET-AN50`: HUAWEI Mate X2 典藏版 5G 全网通版
 
 `TET-AL00`: HUAWEI Mate X2 4G 全网通版
 
@@ -330,7 +332,7 @@
 
 `JAD-AL00`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 
-`JAD-AL50`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
+`JAD-AL50` `JAD-AL60`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 
 ## HUAWEI nova 系列
 
@@ -756,6 +758,8 @@
 
 **华为畅享 20e:**
 
+`MLD-AL00`: 华为畅享 20e 全网通版 (麒麟 710A)
+
 `MLD-AL10`: 华为畅享 20e 全网通版 (Helio P35)
 
 ## 平板电脑
@@ -1109,6 +1113,14 @@
 **HUAWEI MateBook E (2019):**
 
 `PAK-AL09`: HUAWEI MateBook E (2019)
+
+**HUAWEI MateBook E (2021):**
+
+`DRC-W58`: HUAWEI MateBook E (2021) i5 (8GB+256GB)
+
+`DRC-W56`: HUAWEI MateBook E (2021) i5 (16GB+512GB)
+
+`DRC-W76`: HUAWEI MateBook E (2021) i7 (16GB+512GB)
 
 **HUAWEI MateBook 13 (`wright`):**
 

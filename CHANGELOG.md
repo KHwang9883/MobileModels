@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-11-17
+- `huawei` 新增 HUAWEI Mate X2 典藏版 & HUAWEI MateBook E (2021)。
 ## 2021-11-10
 - `vivo` 新增 vivo Y76s。
 ## 2021-11-09
