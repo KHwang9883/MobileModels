@@ -1,6 +1,6 @@
 # HUAWEI Global Mobile Phone Models
 
-- Range: HUAWEI Mate & P & nova series (excluding Chinese models)
+- Range: HUAWEI Mate, P, nova & Y series (excluding Chinese models)
 - Codename: ✅
 
 ## HUAWEI Mate Series
@@ -332,3 +332,133 @@
 **HUAWEI nova 7 SE (`cindy`):**
 
 `CDY-NX9`: HUAWEI nova 7 SE 5G
+
+**HUAWEI nova 8i (`newton`):**
+
+`NEN-L22`: HUAWEI nova 8i
+
+**HUAWEI nova Y60 (`wukong`):**
+
+`WKG-LX9`: HUAWEI nova Y60
+
+## HUAWEI Y Series
+
+**HUAWEI Y5 Prime 2018 (`dura`):**
+
+`DRA-L01`: HUAWEI Y5 Prime 2018 Single SIM
+
+`DRA-L21` `DRA-LX2`: HUAWEI Y5 Prime 2018 Dual SIM
+
+**HUAWEI Y5 2019:**
+
+`AMN-LX3` `AMN-LX9`: HUAWEI Y5 2019 Single SIM
+
+`AMN-LX1` `AMN-LX2` `AMN-LX3` `AMN-LX9`: HUAWEI Y5 2019 Dual SIM
+
+**HUAWEI Y5p (`dura`):**
+
+`DRA-LX9`: HUAWEI Y5p Single SIM
+
+`DRA-LX9`: HUAWEI Y5p Dual SIM
+
+**HUAWEI Y6 2017 (`maya`):**
+
+`MYA-L11`: HUAWEI Y6 2017 Single SIM
+
+`MYA-L41`: HUAWEI Y6 2017 Dual SIM
+
+**HUAWEI Y6 2018 (`atomu`):**
+
+`ATU-LX3`: HUAWEI Y6 2018 Single SIM
+
+`ATU-L21` `ATU-L22` `ATU-L23`: HUAWEI Y6 2018 Dual SIM
+
+**HUAWEI Y6 Prime 2018 (`atomu`):**
+
+`ATU-L31` `ATU-L42`: HUAWEI Y6 Prime 2018 Dual SIM
+
+**HUAWEI Y6 2019 (`merida`):**
+
+`MRD-LX1` `MRD-LX3`: HUAWEI Y6 2019 Single SIM
+
+`MRD-LX1` `MRD-LX1F` `MRD-LX1N` `MRD-LX3`: HUAWEI Y6 2019 Dual SIM
+
+**HUAWEI Y6p (`merida`):**
+
+`MED-LX9`: HUAWEI Y6p Single SIM
+
+`MED-LX9` `MED-LX9N`: HUAWEI Y6p Dual SIM
+
+**HUAWEI Y6s (`jakarta`):**
+
+`JAT-LX3`: HUAWEI Y6s Single SIM
+
+`JAT-LX1` `JAT-LX3` `JAT-L29`: HUAWEI Y6s Dual SIM
+
+**HUAWEI Y7 2017 (`toronto`):**
+
+`TRT-LX1` `TRT-LX2` `TRT-LX3`: HUAWEI Y7 2017 Dual SIM
+
+**HUAWEI Y7 2018 (`london`):**
+
+`LDN-LX3`: HUAWEI Y7 2018 Dual SIM
+
+**HUAWEI Y7 Prime 2018 (`london`):**
+
+`LDN-L21`: HUAWEI Y7 Prime 2018 Dual SIM
+
+**HUAWEI Y7 2019 (`dubai`):**
+
+`DUB-LX1` `DUB-LX3`: HUAWEI Y7 2019 Single SIM
+
+`DUB-LX1` `DUB-LX3`: HUAWEI Y7 2019 Dual SIM
+
+**HUAWEI Y7a:**
+
+`PPA-LX3`: HUAWEI Y7a Single SIM
+
+`PPA-LX2` `PPA-LX3`: HUAWEI Y7a Dual SIM
+
+**HUAWEI Y7p (`arthur`):**
+
+`ART-L28`: HUAWEI Y7p Single SIM
+
+`ART-L28` `ART-L29` `ART-L29N`: HUAWEI Y7p Dual SIM
+
+**HUAWEI Y8p (`aquaman`):**
+
+`AQM-LX1`: HUAWEI Y8p Single SIM
+
+`AQM-LX1`: HUAWEI Y8p Dual SIM
+
+**HUAWEI Y8s (`jackman`):**
+
+`JKM-LX1`: HUAWEI Y8s Single SIM
+
+`JKM-LX1` `JKM-LX2` `JKM-LX3`: HUAWEI Y8s Dual SIM
+
+**HUAWEI Y9 2018 (`florida`):**
+
+`FLA-LX1` `FLA-LX3`: HUAWEI Y9 2018 Dual SIM
+
+**HUAWEI Y9 2019 (`jackman`):**
+
+`JKM-LX3`: HUAWEI Y9 2019 Single SIM
+
+`JKM-LX1` `JKM-LX2` `JKM-LX3`: HUAWEI Y9 2019 Dual SIM
+
+**HUAWEI Y9 Prime 2019 (`stark`):**
+
+`STK-LX3`: HUAWEI Y9 Prime 2019 Single SIM
+
+`STK-L21` `STK-L22` `STK-LX3`: HUAWEI Y9 Prime 2019 Dual SIM
+
+**HUAWEI Y9a (`franklin`):**
+
+`FRL-L21` `FRL-L22` `FRL-L23`: HUAWEI Y9a Dual SIM
+
+**HUAWEI Y9s (`stark`):**
+
+`STK-L21`: HUAWEI Y9s Single SIM
+
+`STK-L21` `STK-L22` `STK-LX3`: HUAWEI Y9s Dual SIM

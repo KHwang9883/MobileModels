@@ -17,7 +17,7 @@ Unlisted brands usually not include international models.
 | :-: | :-: | :-: |
 | [apple_en](brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
-| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
+| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, P, nova & Y series |
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international & Indian Mi & Redmi TV models (excluding Chinese models) |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
