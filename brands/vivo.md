@@ -300,6 +300,10 @@
 
 `V2069A`: vivo Y53s (NFC 版) 5G 全网通版
 
+**vivo Y54s (`PD2045`):**
+
+`V2045A`: vivo Y54s 5G 全网通版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G 全网通版
