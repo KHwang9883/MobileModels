@@ -272,6 +272,10 @@
 
 `V1965A`: vivo Y50 全网通版
 
+**vivo Y50t (`PD2023`):**
+
+`V2023EA`: vivo Y50t 全网通版
+
 **vivo Y51s (`PD2019`):**
 
 `V2002A`: vivo Y51s 5G 全网通版
