@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-11-18
+- `motorola` 新增 摩托罗拉 g51 & g71。
 - `vivo` 新增 vivo Y54s。
 ## 2021-11-17
 - `huawei` 新增 HUAWEI Mate X2 典藏版 & HUAWEI MateBook E (2021)。
@@ -23,7 +24,7 @@
 ## 2021-10-22
 - `huawei_cn` 新增 HUAWEI MateBook 14 (2021) 锐龙版。
 ## 2021-10-20
-- `huawei_cn` 新增 华为畅享 20e（版本型号待补全）。
+- `huawei_cn` 新增 华为畅享 20e。
 - `mitv_cn` 新增 Redmi 智能电视 X 2022。
 - `oppo_cn` 新增 OPPO K9s。
 - `vivo` 新增 iQOO Z5x & vivo T1 & T1x。

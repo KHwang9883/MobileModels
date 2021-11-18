@@ -109,3 +109,11 @@
 **motorola g50 (`ibiza`):**
 
 `XT2137-2`: motorola g50
+
+**motorola g51:**
+
+`XT2171-3`: motorola g51
+
+**motorola g71:**
+
+`XT2169-2`: motorola g71
