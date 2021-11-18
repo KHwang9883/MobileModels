@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-11-19
+- `oppo_global_en` Add several devices' models.
 ## 2021-11-17
 - `honor_global_en` Add HONOR 50 series.
 - `huawei_global_en` Add several devices' models.
