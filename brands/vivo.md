@@ -332,6 +332,10 @@
 
 `V2031A`: vivo Y73s 5G 全网通版
 
+**vivo Y74s (`PD2009`):**
+
+`V2009A`: vivo Y74s 5G 全网通版
+
 **vivo Y76s (`PD2156`):**
 
 `V2156A`: vivo Y76s 5G 全网通版
