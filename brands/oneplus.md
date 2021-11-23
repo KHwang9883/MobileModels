@@ -202,11 +202,11 @@
 
 `LE2127`: OnePlus 9 Pro T-Mobile 版
 
-**OnePlus 9RT (`martini`):**
+**OnePlus 9RT / OnePlus RT (`martini`):**
 
 `MT2110`: OnePlus 9RT 全网通版
 
-`MT2111`: OnePlus 9RT 印度版
+`MT2111`: OnePlus RT 印度版
 
 **OnePlus Nord (`avicii`):**
 
