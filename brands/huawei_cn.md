@@ -1266,6 +1266,12 @@
 
 `MDZ-WFE9A`: HUAWEI MateBook B7 i7
 
+**华为擎云 L410 (`kelvinU`):**
+
+`KLVU-WDU0`: 华为擎云 L410 (8GB+256GB)
+
+`KLVU-WDU0B`: 华为擎云 L410 (8GB+512GB)
+
 ## 智慧屏
 
 **华为智慧屏 V 系列 (`hege`):**
