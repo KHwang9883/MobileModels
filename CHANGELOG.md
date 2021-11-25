@@ -1,7 +1,7 @@
 # 更新日志
 ## 2021-11-25
 - `honor_cn` 新增 荣耀智慧屏 X2 43 英寸。
-- `huawei_cn` 新增 华为擎云 L410。
+- `huawei_cn` 新增 HUAWEI nova 8 SE 4G & 华为擎云 L410。
 - `xiaomi` 新增 Redmi Note 11 4G & Redmi 10 2022 国际版。
 - `zte` 新增 中兴远航 20 Pro。
 ## 2021-11-21

@@ -156,7 +156,7 @@
 
 `NOH-AN00` `NOH-AN01`: HUAWEI Mate 40 Pro 5G 全网通版
 
-`NOH-AL00`: HUAWEI Mate 40 Pro 4G 全网通版
+`NOH-AL00` `NOH-AL10`: HUAWEI Mate 40 Pro 4G 全网通版
 
 **HUAWEI Mate 40 Pro+ (`noahp`):**
 
@@ -485,6 +485,8 @@
 `JSC-AN00`: HUAWEI nova 8 SE 5G 全网通版
 
 `JSC-TN00`: HUAWEI nova 8 SE 5G 移动全网通版
+
+`JSC-AL50`: HUAWEI nova 8 SE 4G 全网通版
 
 **HUAWEI nova 8 SE 活力版 (`chanel`):**
 
