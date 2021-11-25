@@ -136,6 +136,18 @@
 
 `PENM00`: OPPO Reno6 Pro+ 全网通版
 
+**OPPO Reno7:**
+
+`PFJM10`: OPPO Reno7 全网通版
+
+**OPPO Reno7 Pro:**
+
+`PFDM00`: OPPO Reno7 Pro 全网通版
+
+**OPPO Reno7 SE:**
+
+`PFCM00`: OPPO Reno7 SE 全网通版
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -266,7 +278,7 @@
 
 **OPPO A53:**
 
-`PECM30`: OPPO A53 (2020) 全网通版
+`PECM20` `PECM30`: OPPO A53 (2020) 全网通版
 
 `PECT30`: OPPO A53 (2020) 移动版
 
