@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-11-25
+- `xiaomi` 新增 Redmi Note 11 4G & Redmi 10 2022 国际版。
 - `zte` 新增 中兴远航 20 Pro。
 ## 2021-11-21
 - `vivo` 新增 vivo Y74s。
