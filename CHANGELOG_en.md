@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-11-25
+- `xiaomi_en` Add Redmi Note 11 4G (China) & Redmi 10 2022.
 ## 2021-11-19
 - `oppo_global_en` Add several devices' models.
 ## 2021-11-17

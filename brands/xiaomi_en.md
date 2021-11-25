@@ -775,6 +775,10 @@
 
 `21061119DG`: Redmi 10 Global (NFC)
 
+**[`K19S`] Redmi 10 2022 (`selene`):**
+
+`21121119SG`: Redmi 10 2022 Global
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -1043,11 +1047,15 @@
 
 `2109106A1I`: Redmi Note 10 Lite India
 
-**[`K16A`] Redmi Note 11 / Redmi Note 11T (`evergo`):**
+**[`K19S`] Redmi Note 11 4G (`selene`):**
 
-`21091116AI`: Redmi Note 11T India
+`21121119SC`: Redmi Note 11 4G China
 
-`21091116AC`: Redmi Note 11 China
+**[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
+
+`21091116AI`: Redmi Note 11T 5G India
+
+`21091116AC`: Redmi Note 11 5G China
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
@@ -1095,7 +1103,7 @@
 
 **[`G7A`] Redmi K30 5G (`picasso`):**
 
-`M2001G7AE`: Redmi K30 5G China / Redmi K30 5G Speed Edition China
+`M2001G7AE`: Redmi K30 5G China / Redmi K30 5G Speed China
 
 `M2001G7AC`: Redmi K30 5G China
 
