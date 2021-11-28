@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-11-28
+- `nokia` 新增 Nokia T20。
 ## 2021-11-25
 - `honor_cn` 新增 荣耀智慧屏 X2 43 英寸。
 - `huawei_cn` 新增 HUAWEI nova 8 SE 4G & 华为擎云 L410。

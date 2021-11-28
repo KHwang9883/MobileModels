@@ -65,3 +65,7 @@
 **Nokia G50 (`punisher`):**
 
 `TA-1361`: Nokia G50
+
+**Nokia T20 (`riddler`):**
+
+`TA-1392`: Nokia T20
