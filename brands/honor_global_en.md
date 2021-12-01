@@ -185,7 +185,7 @@
 
 `OXF-N29` `OXF-AN10`: HONOR View30 PRO 5G Dual SIM
 
-**HONOR 50:**
+**HONOR 50 (`nottingham`):**
 
 `NTH-NX9`: HONOR 50 5G Dual SIM
 
