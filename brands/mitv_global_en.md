@@ -133,13 +133,23 @@
 
 `L55M6-6ARG`: Mi TV P1 55
 
+**Xiaomi TV P1E (EEA):**
+
+`L43M7-7AEU`: Xiaomi TV P1E 43
+
+`L55M7-7AEU`: Xiaomi TV P1E 55
+
 **Mi TV Q1:**
 
 `L75M6-ESG`: Mi TV Q1 75
 
+**Xiaomi TV Q1E:**
+
+`L55M6-ESG`: Xiaomi TV Q1E 55
+
 **Mi Box:**
 
-`MDZ-16-AB`: Mi Box
+`MDZ-16-AA` `MDZ-16-AB`: Mi Box
 
 `MDZ-22-AB`: Mi Box S
 

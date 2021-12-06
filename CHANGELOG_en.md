@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-12-06
+- `mitv_global_en` Add Xiaomi TV P1E & Q1E.
 ## 2021-11-25
 - `xiaomi_en` Add Redmi Note 11 4G (China) & Redmi 10 2022.
 ## 2021-11-19
