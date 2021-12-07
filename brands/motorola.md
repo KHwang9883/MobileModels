@@ -122,6 +122,6 @@
 
 `XT2175-2`: motorola edge S30
 
-**motorola edge X30 (`rouge`):**
+**motorola edge X30 (`hiphic`):**
 
 `XT2201-2`: motorola edge X30
