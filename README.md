@@ -15,7 +15,7 @@
 
 | 名称 | 品牌 | 汇总范围 | codename | 海外机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | 已停更 |
+| [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | -- |
 | [apple](brands/apple.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | -- |
 | [honor_cn](brands/honor_cn.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [海外机型单独汇总](brands/honor_global_en.md) |
 | [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [海外机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
