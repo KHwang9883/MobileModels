@@ -264,7 +264,9 @@
 
 `M2101K9AI`: 小米 11 Lite 4G 印度版
 
-**[`K9D`] Xiaomi 11 Lite 5G NE (`lisa`):**
+**[`K9D`] Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE (`lisa`):**
+
+`2107119DC`: Xiaomi 11 青春活力版 全网通版
 
 `2109119DG`: Xiaomi 11 Lite 5G NE 国际版
 
@@ -1078,7 +1080,7 @@
 
 `2109106A1I`: Redmi Note 10 Lite 印度版
 
-**[`K19S`] Redmi Note 11 4G (`selene`):**
+**[`K19S`] Redmi Note 11 4G (`selenes`):**
 
 `21121119SC`: Redmi Note 11 4G 全网通版
 
