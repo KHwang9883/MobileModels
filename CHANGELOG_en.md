@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-12-09
+- `xiaomi_en` Add Mi 11 LE (China).
 ## 2021-12-06
 - `mitv_global_en` Add Xiaomi TV P1E & Q1E.
 ## 2021-11-25

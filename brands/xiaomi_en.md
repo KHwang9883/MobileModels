@@ -261,11 +261,13 @@
 
 `M2101K9AI`: Mi 11 Lite 4G India
 
-**[`K9D`] Xiaomi 11 Lite 5G NE (`lisa`):**
+**[`K9D`] Xiaomi 11 Lite 5G NE / Mi 11 LE (`lisa`):**
 
 `2109119DG`: Xiaomi 11 Lite 5G NE Global
 
 `2109119DI`: Xiaomi 11 Lite NE 5G India
+
+`2107119DC`: Mi 11 LE China
 
 **[`K11`] Mi 11i (`haydn`):**
 
@@ -1047,7 +1049,7 @@
 
 `2109106A1I`: Redmi Note 10 Lite India
 
-**[`K19S`] Redmi Note 11 4G (`selene`):**
+**[`K19S`] Redmi Note 11 4G (`selenes`):**
 
 `21121119SC`: Redmi Note 11 4G China
 
