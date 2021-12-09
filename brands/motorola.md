@@ -110,18 +110,18 @@
 
 `XT2137-2`: motorola g50
 
-**motorola g51 (`cypfq`):**
+**moto g51 (`cypfq`):**
 
-`XT2171-3`: motorola g51
+`XT2171-3`: moto g51
 
-**motorola g71 (`corfur`):**
+**moto g71 (`corfur`):**
 
-`XT2169-2`: motorola g71
+`XT2169-2`: moto g71
 
-**motorola edge S30 (`xpeng`):**
+**moto edge S30 (`xpeng`):**
 
-`XT2175-2`: motorola edge S30
+`XT2175-2`: moto edge S30
 
-**motorola edge X30 (`hiphic`):**
+**moto edge X30 (`hiphic`):**
 
-`XT2201-2`: motorola edge X30
+`XT2201-2`: moto edge X30
