@@ -34,6 +34,10 @@
 
 `PEEM00`: OPPO Find X3 Pro 全网通版
 
+**OPPO Find N:**
+
+`PEUM00`: OPPO Find N 全网通版
+
 ## Reno 系列
 
 **OPPO Reno:**
