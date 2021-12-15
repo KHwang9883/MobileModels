@@ -476,6 +476,10 @@
 
 ## Galaxy M 系列
 
+**Galaxy M11 (`m11`):**
+
+`SM-M115F`: Galaxy M11
+
 **Galaxy M30s (`m30s`):**
 
 `SM-M3070`: Galaxy M30s
