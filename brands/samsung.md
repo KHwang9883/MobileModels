@@ -292,6 +292,8 @@
 
 `SM-N9608`: Galaxy Note9 4G+
 
+`SM-N960F`: Galaxy Note9 欧版
+
 **Galaxy Note10 (`d1q`):**
 
 `SM-N9700`: Galaxy Note10
