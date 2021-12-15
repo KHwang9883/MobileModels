@@ -454,9 +454,11 @@
 
 `SM-A5160`: Galaxy A51 5G
 
-**Galaxy A71 5G (`a71x`):**
+**Galaxy A71 (`a71x`):**
 
 `SM-A715F`: Galaxy A71 
+
+**Galaxy A71 5G (`a71x`):**
 
 `SM-A7160`: Galaxy A71 5G
 
