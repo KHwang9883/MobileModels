@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-12-17
+- `honor_cn` 新增 荣耀 60 Pro 移动版。
 ## 2021-12-16
 - `honor_cn` 新增 荣耀 X30 & 荣耀畅玩 30 Plus。
 - `huawei_cn` 新增 HUAWEI MateBook D (2022)。

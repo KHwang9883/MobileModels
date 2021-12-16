@@ -196,6 +196,8 @@
 
 `TNA-AN00`: 荣耀 60 Pro 5G 全网通版
 
+`TNA-TN00`: 荣耀 60 Pro 5G 移动版
+
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`knight`):**
