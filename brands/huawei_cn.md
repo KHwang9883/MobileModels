@@ -196,7 +196,7 @@
 
 `HUAWEI P2-0000`: 华为 Ascend P2
 
-**华为 Ascend P6:**
+**华为 Ascend P6 (`edge`):**
 
 `HUAWEI P6-T00`: 华为 Ascend P6 移动渠道版
 
@@ -318,7 +318,7 @@
 
 `ELS-TN00`: HUAWEI P40 Pro 5G 移动定制版
 
-**HUAWEI P40 Pro+ (`elsa`):**
+**HUAWEI P40 Pro+ (`elsaP`):**
 
 `ELS-AN10`: HUAWEI P40 Pro+ 5G 全网通版
 
@@ -434,9 +434,11 @@
 
 **HUAWEI nova 6 (`waltz`):**
 
-`WLZ-AN00`: HUAWEI nova 6 5G 全网通版
-
 `WLZ-AL10`: HUAWEI nova 6 4G 全网通版
+
+**HUAWEI nova 6 (`waltzS`):**
+
+`WLZ-AN00`: HUAWEI nova 6 5G 全网通版
 
 **HUAWEI nova 6 SE (`jenny`):**
 
@@ -456,7 +458,7 @@
 
 `JER-TN10` `JER-TN20`: HUAWEI nova 7 Pro 5G 移动全网通版
 
-**HUAWEI nova 7 SE (`cindy`):**
+**HUAWEI nova 7 SE (`cindyN`):**
 
 `CDY-AN00` `CDY-AN20`: HUAWEI nova 7 SE 5G 全网通版
 
@@ -466,7 +468,7 @@
 
 `CND-AN00`: HUAWEI nova 7 SE 5G 活力版 全网通版
 
-**HUAWEI nova 7 SE 5G 乐活版:**
+**HUAWEI nova 7 SE 5G 乐活版 (`cindyL`):**
 
 `CDL-AN50`: HUAWEI nova 7 SE 5G 乐活版 全网通版
 
@@ -474,7 +476,7 @@
 
 `ANG-AN00`: HUAWEI nova 8 5G 全网通版
 
-**HUAWEI nova 8 Pro:**
+**HUAWEI nova 8 Pro (`barbieq`):**
 
 `BRQ-AN00`: HUAWEI nova 8 Pro 5G 全网通版
 
@@ -492,7 +494,7 @@
 
 `CHL-AL60`: HUAWEI nova 8 SE 活力版 全网通版
 
-**HUAWEI nova 9:**
+**HUAWEI nova 9 (`nottinghamN`):**
 
 `NAM-AL00`: HUAWEI nova 9 4G 全网通版
 
@@ -574,7 +576,7 @@
 
 `RNE-AL00`: HUAWEI 麦芒 6 全网通版
 
-**HUAWEI 麦芒 7 (`sydneym`):**
+**HUAWEI 麦芒 7 (`sydneyM`):**
 
 `SNE-AL00`: HUAWEI 麦芒 7 全网通版
 
@@ -754,7 +756,7 @@
 
 `FRL-TN00`: 华为畅享 20 Plus 5G 移动定制版
 
-**华为畅享 20 SE:**
+**华为畅享 20 SE (`peppa`):**
 
 `PPA-AL20`: 华为畅享 20 SE 全网通版
 
