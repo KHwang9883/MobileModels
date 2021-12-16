@@ -1072,6 +1072,12 @@
 
 `NbM-WFP9`: HUAWEI MateBook D 14 (2021) R7
 
+**HUAWEI MateBook D 14 (`nobelDE`):**
+
+`NbDE-WFH9`: HUAWEI MateBook D 14 (2022) i5
+
+`NbDE-WFE9`: HUAWEI MateBook D 14 (2022) i7
+
 **HUAWEI MateBook D 15 (`bohrK`):**
 
 `Boh-WAQ9R`: HUAWEI MateBook D 15 R5 (8GB+512GB)
@@ -1105,6 +1111,12 @@
 `BoM-WFQ9`: HUAWEI MateBook D 15 (2021) R5
 
 `BoM-WFP9`: HUAWEI MateBook D 15 (2021) R7
+
+**HUAWEI MateBook D 15 (`bohrDE`):**
+
+`BoDE-WFH9`: HUAWEI MateBook D 15 (2022) i5
+
+`BoDE-WFE9`: HUAWEI MateBook D 15 (2022) i7
 
 **HUAWEI MateBook E:**
 

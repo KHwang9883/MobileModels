@@ -1,6 +1,7 @@
 # 更新日志
 ## 2021-12-16
 - `honor_cn` 新增 荣耀 X30 & 荣耀畅玩 30 Plus。
+- `huawei_cn` 新增 HUAWEI MateBook D (2022)。
 ## 2021-12-14
 - `oppo_cn` 新增 OPPO Find N。
 ## 2021-12-09
