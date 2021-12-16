@@ -189,6 +189,6 @@
 
 `NTH-NX9`: HONOR 50 5G Dual SIM
 
-**HONOR 50 Lite (`newton`):**
+**HONOR 50 Lite (`newtonH`):**
 
 `NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite 5G Dual SIM
