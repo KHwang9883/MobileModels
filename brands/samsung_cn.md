@@ -2,7 +2,7 @@
 
 - 汇总范围: Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型
 - codename: ✅
-- 是否包含海外机型: ❌
+- 是否包含海外机型: [单独汇总 (英文)](brands/samsung_global_en.md)
 
 ## Galaxy S 系列
 
@@ -454,10 +454,6 @@
 
 `SM-A5160`: Galaxy A51 5G
 
-**Galaxy A71 (`a71x`):**
-
-`SM-A715F`: Galaxy A71 
-
 **Galaxy A71 5G (`a71x`):**
 
 `SM-A7160`: Galaxy A71 5G
@@ -473,10 +469,6 @@
 `SM-E5260`: Galaxy F52 5G
 
 ## Galaxy M 系列
-
-**Galaxy M11 (`m11`):**
-
-`SM-M115F`: Galaxy M11
 
 **Galaxy M30s (`m30s`):**
 
