@@ -3,7 +3,7 @@
 - Range: All international models (excluding Chinese models)
 - Codename: ✅
 
-**Galaxy Note9 (`crownqltechn`):**
+**Galaxy Note9 (`crownqlte`):**
 
 `SM-N960F`: Galaxy Note9 EU
 
