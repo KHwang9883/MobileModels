@@ -20,7 +20,7 @@
 
 `H60-L21`: 荣耀 6 至尊版
 
-**荣耀 6 Plus (`pine`):**
+**荣耀 6 Plus (`pine`):**
 
 `PE-TL00M`: 荣耀 6 Plus 移动定制版
 
@@ -48,7 +48,7 @@
 
 **荣耀 7i:**
 
-`ATH-AL00`: 荣耀 7i 全网通版
+`ATH-AL00`: 荣耀 7i 全网通版
 
 `ATH-TL00H`: 荣耀 7i 移动渠道版
 
@@ -162,7 +162,7 @@
 
 `EBG-AN10`: 荣耀 30 Pro+ 5G 全网通版
 
-**荣耀 30S (`cindy`):**
+**荣耀 30S (`cindyH`):**
 
 `CDY-AN90` `CDY-AN95`: 荣耀 30S 5G 全网通版
 
@@ -182,7 +182,7 @@
 
 `NTH-AN00`: 荣耀 50 5G 全网通版
 
-**荣耀 50 Pro:**
+**荣耀 50 Pro (`rena`):**
 
 `RNA-AN00`: 荣耀 50 Pro 5G 全网通版
 
@@ -195,6 +195,8 @@
 **荣耀 60 Pro:**
 
 `TNA-AN00`: 荣耀 60 Pro 5G 全网通版
+
+`TNA-TN00`: 荣耀 60 Pro 5G 移动版
 
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
@@ -230,11 +232,11 @@
 
 `PCT-TL10`: 荣耀 V20 移动 4G+ 版
 
-**荣耀 V30 (`oxford`):**
+**荣耀 V30 (`oxfordS`):**
 
 `OXF-AN00`: 荣耀 V30 5G 全网通版
 
-**荣耀 V30 PRO (`oxford`):**
+**荣耀 V30 PRO (`oxfordP`):**
 
 `OXF-AN10`: 荣耀 V30 PRO 5G 全网通版
 
@@ -368,7 +370,7 @@
 
 `KKG-AN00`: 荣耀 X10 Max 5G 全网通版
 
-**荣耀 X20 (`newton`):**
+**荣耀 X20 (`newtonH`):**
 
 `NTN-AN20`: 荣耀 X20 5G 全网通版
 
@@ -432,7 +434,7 @@
 
 `TNNH-AN00`: 荣耀 Play4 5G 全网通版
 
-**荣耀 Play4 Pro (`oxford`):**
+**荣耀 Play4 Pro (`oxfordPL`):**
 
 `OXP-AN00`: 荣耀 Play4 Pro 5G 全网通版
 
@@ -440,7 +442,7 @@
 
 `HJC-AN90`: 荣耀 Play5 5G 全网通版
 
-**荣耀 Play5 活力版 (`newton`):**
+**荣耀 Play5 活力版 (`newtonH`):**
 
 `NEW-AN90`: 荣耀 Play5 活力版 5G 全网通版
 
@@ -626,7 +628,7 @@
 
 `HJC-LX9`: 荣耀畅玩 20 Pro 全网通版
 
-**荣耀畅玩 30 Plus:**
+**荣耀畅玩 30 Plus (`carmella`):**
 
 `CMA-AN00`: 荣耀畅玩 30 Plus 5G 全网通版
 
@@ -768,7 +770,7 @@
 
 ## 荣耀 MagicBook
 
-**荣耀 MagicBook:**
+**荣耀 MagicBook (`volta`):**
 
 `VLT-W50`: 荣耀 MagicBook i5
 
@@ -778,7 +780,7 @@
 
 `KPL-W00`: 荣耀 MagicBook 锐龙版
 
-**荣耀 MagicBook 2019:**
+**荣耀 MagicBook 2019 (`voltaR`):**
 
 `VLR-W09`: 荣耀 MagicBook 2019 i3
 

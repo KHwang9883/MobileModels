@@ -413,7 +413,7 @@
 
 `DUB-LX1` `DUB-LX3`: HUAWEI Y7 2019 Dual SIM
 
-**HUAWEI Y7a:**
+**HUAWEI Y7a (`peppa`):**
 
 `PPA-LX3`: HUAWEI Y7a Single SIM
 
