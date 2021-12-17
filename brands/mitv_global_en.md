@@ -155,4 +155,8 @@
 
 **Mi TV Stick:**
 
-`MDZ-24-AA`: Mi TV Stick
+`MDZ-24-AA` `MDZ-24-AB`: Mi TV Stick
+
+**Xiaomi TV Stick:**
+
+`MDZ-27-AA`: Xiaomi TV Stick 4K
