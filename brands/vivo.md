@@ -572,6 +572,14 @@
 
 `V2118A`: iQOO Neo5 活力版 5G 全网通版
 
+**iQOO Neo5S (`PD2154`):**
+
+`V2154A`: iQOO Neo5S 5G 全网通版
+
+**iQOO Neo5 SE (`PD2157`):**
+
+`V2157A`: iQOO Neo5 SE 5G 全网通版
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -615,3 +623,7 @@
 **iQOO U3x 标准版 (`PD2143`):**
 
 `V2143A`: iQOO U3x 标准版 全网通版
+
+**iQOO U5 (`PD2165`):**
+
+`V2165A`: iQOO U5 5G 全网通版
