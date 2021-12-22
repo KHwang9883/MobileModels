@@ -11,6 +11,8 @@
 
 `SM-N970U`: Galaxy Note10 US
 
+**Galaxy A12 (`a12`):**
+
 `SM-A125F`: Galaxy A12 Global
 
 **Galaxy A71 (`a71x`):**
