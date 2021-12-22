@@ -194,6 +194,14 @@
 
 `V2130A`: vivo S10e 5G 全网通版
 
+**vivo S12 (`PD2162`):**
+
+`V2162A`: vivo S12 5G 全网通版
+
+**vivo S12 Pro (`PD2163`):**
+
+`V2163A`: vivo S12 Pro 5G 全网通版
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
