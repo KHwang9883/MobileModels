@@ -370,6 +370,10 @@
 
 `PEYM00`: OPPO K9 Pro 全网通版
 
+**OPPO K9x:**
+
+`PGCM10`: OPPO K9x 全网通版
+
 ## Watch 系列
 
 **OPPO Watch:**
