@@ -334,6 +334,12 @@
 
 `JAD-AL50` `JAD-AL60`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 
+**HUAWEI P50 Pocket:**
+
+`BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
+
+`BAL-AL10`: HUAWEI P50 Pocket 艺术定制版 4G 全网通版
+
 ## HUAWEI nova 系列
 
 **HUAWEI nova (`cannes`):**
@@ -1015,6 +1021,12 @@
 `MACHD-WFH9`: HUAWEI MateBook X Pro (2021) i5
 
 `MACHD-WFE9`: HUAWEI MateBook X Pro (2021) i7
+
+**HUAWEI MateBook X Pro (2022) (`morgan`):**
+
+`MRG-W56`: HUAWEI MateBook X Pro (2022) i5
+
+`MRG-W76`: HUAWEI MateBook X Pro (2022) i7
 
 **HUAWEI MateBook D:**
 

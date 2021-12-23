@@ -1,5 +1,6 @@
 # 更新日志
 ## 2021-12-23
+- `huawei_cn` 新增 HUAWEI P50 Pocket。
 - `oppo_cn` 新增 OPPO K9x。
 ## 2021-12-22
 - `mitv_cn` 新增 Redmi 智能电视 X50 2022 款。
