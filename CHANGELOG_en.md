@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2021-12-28
+- `xiaomi_en` Add Xiaomi 12 series.
 ## 2021-12-17
 - `mitv_global_en` Add Xiaomi TV Stick 4K.
 ## 2021-12-09

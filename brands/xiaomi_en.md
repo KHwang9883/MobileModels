@@ -299,6 +299,24 @@
 
 `21091116UI`: Xiaomi 11i HyperCharge India
 
+**[`L3`] Xiaomi 12 (`cupid`):**
+
+`2201123G`: Xiaomi 12 Global
+
+`2201123C`: Xiaomi 12 China
+
+**[`L3A`] Xiaomi 12X (`psyche`):**
+
+`2112123AG`: Xiaomi 12X Global
+
+`2112123AC`: Xiaomi 12X China
+
+**[`L2`] Xiaomi 12 Pro (`zeus`):**
+
+`2201122G`: Xiaomi 12 Pro Global
+
+`2201122C`: Xiaomi 12 Pro China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -780,6 +798,16 @@
 **[`K19S`] Redmi 10 2022 (`selene`):**
 
 `21121119SG`: Redmi 10 2022 Global
+
+`21121119VL`: Redmi 10 2022 Latin America
+
+**[`K19T`] Redmi 10 Prime 2022 (`selene`):**
+
+`22011119TI`: Redmi 10 Prime 2022 India
+
+**[`K19U`] Redmi 10 2022 (`eos`):**
+
+`22011119UY`: Redmi 10 2022 Global (NFC)
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
