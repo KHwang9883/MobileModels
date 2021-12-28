@@ -1,4 +1,6 @@
 # 更新日志
+## 2021-12-28
+- `xiaomi` 新增 Xiaomi 12 系列。
 ## 2021-12-23
 - `huawei_cn` 新增 HUAWEI P50 Pocket。
 - `oppo_cn` 新增 OPPO K9x。

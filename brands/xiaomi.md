@@ -210,13 +210,13 @@
 
 `M2007J1SC`: 小米 10 至尊纪念版 全网通版
 
-**[`J3S`] 小米 10T / 小米 10T Pro (`apollo`):**
+**[`J3S`] 小米 10T (`apollo`):**
 
 `M2007J3SY`: 小米 10T 国际版
 
 `M2007J3SP`: 小米 10T 印度版
 
-**[`J3S`] 小米 10T / 小米 10T Pro (`apollo`):**
+**[`J3S`] 小米 10T Pro (`apollo`):**
 
 `M2007J3SG`: 小米 10T Pro 国际版
 
@@ -301,6 +301,24 @@
 **[`K16U`] Xiaomi 11i HyperCharge (`pissarroinpro`):**
 
 `21091116UI`: Xiaomi 11i HyperCharge 印度版
+
+**[`L3`] Xiaomi 12 (`cupid`):**
+
+`2201123C`: Xiaomi 12 全网通版
+
+`2201123G`: Xiaomi 12 国际版
+
+**[`L3A`] Xiaomi 12X (`psyche`):**
+
+`2112123AC`: Xiaomi 12X 全网通版
+
+`2112123AG`: Xiaomi 12X 国际版
+
+**[`L2`] Xiaomi 12 Pro (`zeus`):**
+
+`2201122C`: Xiaomi 12 Pro 全网通版
+
+`2201122G`: Xiaomi 12 Pro 国际版
 
 ## 小米 Note 系列
 
@@ -803,6 +821,16 @@
 **[`K19S`] Redmi 10 2022 (`selene`):**
 
 `21121119SG`: Redmi 10 2022 国际版
+
+`21121119VL`: Redmi 10 2022 拉美版
+
+**[`K19T`] Redmi 10 Prime 2022 (`selene`):**
+
+`22011119TI`: Redmi 10 Prime 2022 印度版
+
+**[`K19U`] Redmi 10 2022 (`eos`):**
+
+`22011119UY`: Redmi 10 2022 国际版 (NFC)
 
 ## 红米 / Redmi Note 系列
 
