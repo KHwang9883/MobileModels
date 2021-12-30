@@ -880,9 +880,9 @@
 
 **HUAWEI MatePad Pro 10.8 (`marxR`):**
 
-`MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+`MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
 
-**HUAWEI MatePad Pro 12.6 (`wanger`):**
+**HUAWEI MatePad Pro 12.6 (`wagner`):**
 
 `WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
 
@@ -936,7 +936,7 @@
 
 `BZA-L00`: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版
 
-**华为平板 C3:**
+**华为平板 C3 2020:**
 
 `BZD-W00`: 华为平板 C3 8 英寸 2020 款 Wi-Fi 版
 
@@ -958,6 +958,8 @@
 
 `BZT-AL10`: 华为平板 C5 10.1 英寸 全网通高配版
 
+**华为平板 C5 2020:**
+
 `BZW-AL00`: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+32GB)
 
 `BZW-AL10`: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+64GB)
@@ -965,6 +967,18 @@
 `BZT3-W09`: 华为平板 C5 10.4 英寸 2020 款 Wi-Fi 版
 
 `BZT3-AL00`: 华为平板 C5 10.4 英寸 2020 款 全网通版
+
+**华为平板 C5 2021:**
+
+`BZT3-W59` `BZT3-W69`: 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
+
+**华为平板 C5e:**
+
+`BZI-W00`: 华为平板 C5e 10.1 英寸 Wi-Fi 版
+
+**华为平板 C7 (`debussy`):**
+
+`DBY-W09`: 华为平板 C7 11 英寸 Wi-Fi 版
 
 ## 笔记本电脑
 
@@ -1369,6 +1383,16 @@
 `HD65DESV`: 华为智慧屏 SE 65 畅连通话版 4K (2GB+16GB)
 
 `HD75DESA`: 华为智慧屏 SE 75 (2GB+16GB)
+
+**华为智慧屏 B 系列:**
+
+`HD55KANY`: 华为智慧屏 B5-510
+
+`HD65KANY`: 华为智慧屏 B5-610
+
+`HEGE-550AX`: 华为智慧屏 B7-500
+
+`HEGE-550X`: 华为智慧屏 B7-510
 
 ## 华为早期产品 
 
