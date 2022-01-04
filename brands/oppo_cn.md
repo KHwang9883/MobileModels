@@ -332,6 +332,10 @@
 
 `PELM00`: OPPO A95 全网通版
 
+**OPPO A96:**
+
+`PFUM10`: OPPO A96 全网通版
+
 ## K 系列
 
 **OPPO K1:**
