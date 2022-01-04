@@ -200,6 +200,10 @@
 
 `SM-G9980`: Galaxy S21 Ultra 5G
 
+**Galaxy S21 FE (`r9q`):**
+
+`SM-G9900`: Galaxy S21 FE 5G
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -841,6 +845,14 @@
 **Galaxy Tab A7 Lite (`gta7lite`):**
 
 `SM-T225C`: Galaxy Tab A7 Lite 8.7 LTE
+
+**Galaxy Tab A8 (`gta8wifi`):**
+
+`SM-X200`: Galaxy Tab A8 WLAN
+
+**Galaxy Tab A8 (`gta8`):**
+
+`SM-X205C`: Galaxy Tab A8 LTE
 
 ## Galaxy Tab 系列
 
