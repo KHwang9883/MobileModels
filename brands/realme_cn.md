@@ -167,3 +167,11 @@
 **真我 GT Neo2T:**
 
 `RMX3357`: 真我 GT Neo2T 5G
+
+**真我 GT2:**
+
+`RMX3310`: 真我 GT2 5G
+
+**真我 GT2 Pro:**
+
+`RMX3300`: 真我 GT2 Pro 5G
