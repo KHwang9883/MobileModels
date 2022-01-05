@@ -548,6 +548,14 @@
 
 `V2141A`: iQOO 8 Pro 5G 全网通版
 
+**iQOO 9 (`PD2171`):**
+
+`V2171A`: iQOO 9 5G 全网通版
+
+**iQOO 9 Pro (`PD2172`):**
+
+`V2172A`: iQOO 9 Pro 5G 全网通版
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
