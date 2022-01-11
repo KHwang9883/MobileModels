@@ -208,6 +208,16 @@
 
 `MT2111`: OnePlus RT 印度版
 
+**OnePlus 10 Pro (`negroni`):**
+
+`NE2210`: OnePlus 10 Pro 全网通版
+
+`NE2211`: OnePlus 10 Pro 印度版
+
+`NE2213`: OnePlus 10 Pro 欧洲/国际版
+
+`NE2215`: OnePlus 10 Pro 北美版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
