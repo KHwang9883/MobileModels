@@ -203,6 +203,16 @@
 
 `MT2111`: OnePlus RT India
 
+**OnePlus 10 Pro (`negroni`):**
+
+`NE2210`: OnePlus 10 Pro China
+
+`NE2211`: OnePlus 10 Pro India
+
+`NE2213`: OnePlus 10 Pro EU / Global
+
+`NE2215`: OnePlus 10 Pro North America
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
