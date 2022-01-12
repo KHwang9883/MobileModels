@@ -274,6 +274,10 @@
 
 `PEFM00`: OPPO A35 全网通版
 
+**OPPO A36:**
+
+`PESM10`: OPPO A36 全网通版
+
 **OPPO A52:**
 
 `PDAM10`: OPPO A52 全网通版
