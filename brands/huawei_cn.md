@@ -1106,6 +1106,10 @@
 
 `NbDE-WFE9`: HUAWEI MateBook D 14 (2022) i7
 
+**HUAWEI MateBook D 14 SE (`nobelDE`):**
+
+`NbDE-WDH9`: HUAWEI MateBook D 14 SE i5
+
 **HUAWEI MateBook D 15 (`bohrK`):**
 
 `Boh-WAQ9R`: HUAWEI MateBook D 15 R5 (8GB+512GB)

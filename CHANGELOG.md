@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-01-13
+- `huawei_cn` 新增 HUAWEI MateBook D 14 SE。
 ## 2022-01-12
 - `oppo_cn` 新增 OPPO A36。
 ## 2022-01-11
