@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-01-14
+- `vivo` 新增 vivo Y10 & Y33s。
 ## 2022-01-13
 - `huawei_cn` 新增 HUAWEI MateBook D 14 SE。
 ## 2022-01-12
