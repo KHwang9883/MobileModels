@@ -289,6 +289,8 @@
 
 `2107113SG`: Xiaomi 11T Pro Global
 
+`2107113SI`: Xiaomi 11T Pro India
+
 `2107113SR`: Xiaomi 11T Pro Japan
 
 **[`K16`] Xiaomi 11i (`pissarroin`):**

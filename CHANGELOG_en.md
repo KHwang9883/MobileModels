@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-19
+- `xiaomi_en` Add Xiaomi 11T Pro (Indian model).
 ## 2022-01-11
 - `oneplus_en` Add OnePlus 10 Pro.
 ## 2021-12-28
