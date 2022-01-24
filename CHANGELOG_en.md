@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-24
+- `oppo_global_en` Add several new models.
 ## 2022-01-19
 - `xiaomi_en` Add Xiaomi 11T Pro (Indian model).
 ## 2022-01-11
