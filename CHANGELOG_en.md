@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-25
+- `realme_global_en` Add realme 9i.
 ## 2022-01-24
 - `google_en` Add Pixel device models (models for Nexus will be added later).
 - `oppo_global_en` Add several new models.

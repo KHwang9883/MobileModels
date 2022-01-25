@@ -101,6 +101,10 @@
 
 `RMX3381`: realme 8s 5G
 
+**realme 9i:**
+
+`RMX3491`: realme 9i
+
 ## X series
 
 **realme X:**
