@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2022-01-26
+- `huawei_global_en` Add HUAWEI P50 Pro & nova 9.
 - `xiaomi_en` Add Redmi Note 11 series.
 ## 2022-01-25
 - `realme_global_en` Add realme 9i.
