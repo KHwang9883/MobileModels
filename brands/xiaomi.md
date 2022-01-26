@@ -350,7 +350,7 @@
 
 `2015212`: 小米 Note 2 移动 4G+ 版
 
-`2015213`: 小米 Note 2 全球版
+`2015213`: 小米 Note 2 全网通版 (全球频段)
 
 **[`C8`] 小米 Note 3 (`jason`):**
 
@@ -386,7 +386,7 @@
 
 `M1803D5XE`: 小米 MIX 2S 全网通版
 
-`M1803D5XA`: 小米 MIX 2S 尊享版
+`M1803D5XA`: 小米 MIX 2S 尊享版 (全球频段)
 
 `M1803D5XT`: 小米 MIX 2S 移动 4G+ 版
 
@@ -1114,6 +1114,30 @@
 
 `21121119SC`: Redmi Note 11 4G 全网通版
 
+**[`K7T`] Redmi Note 11 (`spes`):**
+
+`2201117TG`: Redmi Note 11 国际版
+
+`2201117TI`: Redmi Note 11 印度版
+
+`2201117TL`: Redmi Note 11 拉美版
+
+**[`K7T`] Redmi Note 11 (`spesn`):**
+
+`2201117TY`: Redmi Note 11 国际版 (NFC)
+
+**[`K7S`] Redmi Note 11S (`miel`):**
+
+`2201117SG`: Redmi Note 11S 国际版
+
+`2201117SI`: Redmi Note 11S 印度版
+
+`2201117SL`: Redmi Note 11S 拉美版
+
+**[`K7S`] Redmi Note 11S (`fleur`):**
+
+`2201117SY`: Redmi Note 11S 国际版 (NFC)
+
 **[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
 
 `21091116AC`: Redmi Note 11 5G 全网通版
@@ -1124,9 +1148,27 @@
 
 `21091116C`: Redmi Note 11 Pro 全网通版
 
+**[`K6T`] Redmi Note 11 Pro (`viva`):**
+
+`2201116TG`: Redmi Note 11 Pro 4G 国际版
+
+**[`K6T`] Redmi Note 11 Pro (`vida`):**
+
+`2201116TI`: Redmi Note 11 Pro 印度版
+
+**[`K6S`] Redmi Note 11 Pro 5G (`veux`):**
+
+`2201116SG`: Redmi Note 11 Pro 5G 国际版
+
+`2201116SR`: Redmi Note 11 Pro 5G 日本版
+
+`2201116SI`: Redmi Note 11 Pro 5G 印度版
+
 **[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
 
 `21091116UC`: Redmi Note 11 Pro+ 全网通版
+
+`21091116UG`: Redmi Note 11 Pro+ 5G 国际版
 
 ## Redmi X 系列
 
