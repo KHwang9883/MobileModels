@@ -237,7 +237,7 @@
 
 **HUAWEI P50 Pro (`jade`):**
 
-`JAD-LX9`: HUAWEI P50 Pro
+`JAD-LX4` `JAD-LX9`: HUAWEI P50 Pro
 
 **HUAWEI P smart (`figo`):**
 
