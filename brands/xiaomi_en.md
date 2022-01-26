@@ -1083,17 +1083,59 @@
 
 `21121119SC`: Redmi Note 11 4G China
 
+**[`K7T`] Redmi Note 11 (`spes`):**
+
+`2201117TG`: Redmi Note 11 Global
+
+`2201117TI`: Redmi Note 11 India
+
+`2201117TL`: Redmi Note 11 Latin America
+
+**[`K7T`] Redmi Note 11 (`spesn`):**
+
+`2201117TY`: Redmi Note 11 Global (NFC)
+
+**[`K7S`] Redmi Note 11S (`miel`):**
+
+`2201117SG`: Redmi Note 11S Global
+
+`2201117SI`: Redmi Note 11S India
+
+`2201117SL`: Redmi Note 11S Latin America
+
+**[`K7S`] Redmi Note 11S (`fleur`):**
+
+`2201117SY`: Redmi Note 11S Global (NFC)
+
 **[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
 
 `21091116AI`: Redmi Note 11T 5G India
 
 `21091116AC`: Redmi Note 11 5G China
 
+**[`K6T`] Redmi Note 11 Pro (`viva`):**
+
+`2201116TG`: Redmi Note 11 Pro Global
+
+**[`K6T`] Redmi Note 11 Pro (`vida`):**
+
+`2201116TI`: Redmi Note 11 Pro India
+
+**[`K6S`] Redmi Note 11 Pro 5G (`veux`):**
+
+`2201116SG`: Redmi Note 11 Pro 5G Global
+
+`2201116SR`: Redmi Note 11 Pro 5G Japan
+
+`2201116SI`: Redmi Note 11 Pro 5G India
+
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
 `21091116C`: Redmi Note 11 Pro China
 
 **[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
+
+`21091116UG`: Redmi Note 11 Pro+ 5G Global
 
 `21091116UC`: Redmi Note 11 Pro+ China
 
