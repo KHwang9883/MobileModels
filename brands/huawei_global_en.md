@@ -239,6 +239,10 @@
 
 `JAD-LX4` `JAD-LX9`: HUAWEI P50 Pro
 
+**HUAWEI P50 Pocket:**
+
+`BAL-L49`: HUAWEI P50 Pocket
+
 **HUAWEI P smart (`figo`):**
 
 `FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P smart

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-29
+- `huawei_global_en` Add HUAWEI P50 Pocket.
 ## 2022-01-26
 - `huawei_global_en` Add HUAWEI P50 Pro & nova 9.
 - `xiaomi_en` Add Redmi Note 11 series.
