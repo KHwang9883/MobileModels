@@ -147,11 +147,19 @@
 
 **OPPO Reno6 Pro:**
 
-`CPH2247` `CPH2249`: OPPO Reno6 Pro
+`CPH2247` `CPH2249`: OPPO Reno6 Pro 5G
 
 **OPPO Reno6 Z:**
 
 `CPH2237`: OPPO Reno6 Z
+
+**OPPO Reno7:**
+
+`CPH2371`: OPPO Reno7 5G
+
+**OPPO Reno7 Pro:**
+
+`CPH2293`: OPPO Reno7 Pro 5G
 
 ## F series
 
@@ -197,7 +205,7 @@
 
 **OPPO F19 Pro+:**
 
-`CPH2213`: OPPO F19 Pro+
+`CPH2213`: OPPO F19 Pro+ 5G
 
 **OPPO F19s:**
 

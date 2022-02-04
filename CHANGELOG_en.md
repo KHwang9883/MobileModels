@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-04
+- `oppo_global_en` Add OPPO Reno7 series.
 ## 2022-01-29
 - `huawei_global_en` Add HUAWEI P50 Pocket.
 ## 2022-01-26
