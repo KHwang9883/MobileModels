@@ -1254,6 +1254,10 @@
 
 `M2012K10C`: Redmi K40 游戏增强版 全网通版
 
+**[`L10`] Redmi K50 电竞版 (`ingres`):**
+
+`21121210C`: Redmi K50 电竞版 全网通版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -1303,6 +1307,12 @@
 **[`K10`] POCO F3 GT (`aresin`):**
 
 `M2104K10I`: POCO F3 GT 印度版
+
+**[`L10`] POGO F4 GT (`ingres`):**
+
+`21121210G`: POCO F4 GT 国际版
+
+`21121210I`: POCO F4 GT 印度版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1357,6 +1367,10 @@
 **[`K16A`] POCO M4 Pro 5G (`evergreen`):**
 
 `21091116AG`: POCO M4 Pro 5G 国际版
+
+**[`K16A`] POCO M4 Pro 5G (`evergo`):**
+
+`21091116AI`: POCO M4 Pro 5G 印度版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
