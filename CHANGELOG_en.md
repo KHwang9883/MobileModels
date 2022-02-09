@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-09
+- `xiaomi_en` Add Redmi K50 Gaming.
 ## 2022-02-04
 - `oppo_global_en` Add OPPO Reno7 series.
 ## 2022-01-29

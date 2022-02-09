@@ -1219,6 +1219,10 @@
 
 `M2012K10C`: Redmi K40 Gaming China
 
+**[`L10`] Redmi K50 Gaming (`ingres`):**
+
+`21121210C`: Redmi K50 Gaming China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -1266,6 +1270,12 @@
 **[`K10`] POCO F3 GT (`aresin`):**
 
 `M2104K10I`: POCO F3 GT India
+
+**[`L10`] POGO F4 GT (`ingres`):**
+
+`21121210G`: POCO F4 GT Global
+
+`21121210I`: POCO F4 GT India
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1320,6 +1330,10 @@
 **[`K16A`] POCO M4 Pro 5G (`evergreen`):**
 
 `21091116AG`: POCO M4 Pro 5G Global
+
+**[`K16A`] POCO M4 Pro 5G (`evergo`):**
+
+`21091116AI`: POCO M4 Pro 5G India
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
