@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-10
+- `realme_global_en` Add realme C35.
 ## 2022-02-09
 - `xiaomi_en` Add Redmi K50 Gaming.
 ## 2022-02-04

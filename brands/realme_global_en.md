@@ -227,6 +227,10 @@
 
 `RMX3265`: realme C25Y
 
+**realme C35:**
+
+`RMX3511`: realme C35
+
 ## U series
 
 **realme U1:**
