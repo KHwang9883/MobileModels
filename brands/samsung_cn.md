@@ -204,6 +204,18 @@
 
 `SM-G9900`: Galaxy S21 FE 5G
 
+**Galaxy S22 (`r0q`):**
+
+`SM-S9010`: Galaxy S22 5G
+
+**Galaxy S22+ (`g0q`):**
+
+`SM-S9060`: Galaxy S22+ 5G
+
+**Galaxy S22 Ultra (`b0q`):**
+
+`SM-S9080`: Galaxy S22 Ultra 5G
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -767,6 +779,30 @@
 **Galaxy Tab S7 FE (`gts7xllite`):**
 
 `SM-T735C`: Galaxy Tab S7 FE LTE
+
+**Galaxy Tab S8 (`gts8wifi`):**
+
+`SM-X700`: Galaxy Tab S8 WLAN
+
+**Galaxy Tab S8 (`gts8`):**
+
+`SM-X706C`: Galaxy Tab S8 5G
+
+**Galaxy Tab S8+ (`gts8pwifi`):**
+
+`SM-X800`: Galaxy Tab S8+ WLAN
+
+**Galaxy Tab S8+ (`gts8p`):**
+
+`SM-X806C`: Galaxy Tab S8+ 5G
+
+**Galaxy Tab S8 Ultra (`gts8uwifi`):**
+
+`SM-X900`: Galaxy Tab S8 Ultra WLAN
+
+**Galaxy Tab S8 Ultra (`gts8u`):**
+
+`SM-X906C`: Galaxy Tab S8 Ultra 5G
 
 ## Galaxy Tab A 系列
 
