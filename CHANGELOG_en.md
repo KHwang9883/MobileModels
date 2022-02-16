@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-16
+- `realme_global_en` Add realme 9 Pro & Pro+.
 ## 2022-02-10
 - `realme_global_en` Add realme C35.
 ## 2022-02-09
