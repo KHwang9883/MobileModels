@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-17
+- `oneplus_en` Add OnePlus Nord 2 CE.
 ## 2022-02-16
 - `realme_global_en` Add realme 9 Pro & Pro+.
 ## 2022-02-10
