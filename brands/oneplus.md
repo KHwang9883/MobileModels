@@ -265,3 +265,7 @@
 `DN2101`: OnePlus Nord 2 印度版
 
 `DN2103`: OnePlus Nord 2 欧洲版
+
+**OnePlus Nord 2 CE (`ivan`):**
+
+`IV2201`: OnePlus Nord 2 CE 印度版
