@@ -1,6 +1,6 @@
 # 更新日志
 ## 2022-02-17
-- `oneplus` 新增 OnePlus Nord 2 CE 印度版。
+- `oneplus` 新增 OnePlus Nord CE 2 印度版。
 ## 2022-02-16
 - `nubia` 新增 红魔 7 系列 & 努比亚 Z40 Pro。
 ## 2022-02-12
