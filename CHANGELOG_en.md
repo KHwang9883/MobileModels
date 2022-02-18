@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-19
+- `mitv_global_en` Add several Indian models.
 ## 2022-02-17
 - `oneplus_en` Add OnePlus Nord CE 2.
 ## 2022-02-16

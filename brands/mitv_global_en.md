@@ -35,6 +35,8 @@
 
 `L32M5-AN`: Mi LED Smart TV 4C Pro 32
 
+`L43M6-INC`: Mi LED TV 4C 43
+
 **Mi TV 4X:**
 
 `L43M4-4AIN`: Mi TV 4X 43
@@ -66,6 +68,8 @@
 `L32M6-RA`: Redmi Smart TV 32
 
 `L43M6-RA`: Redmi Smart TV 43
+
+`L43R7-7AIN`: Redmi Smart TV X43
 
 `L50M6-RA`: Redmi Smart TV X50
 
