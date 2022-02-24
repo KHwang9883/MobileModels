@@ -287,6 +287,10 @@
 
 `RMX3171`: realme Narzo 30A
 
+**realme Narzo 50:**
+
+`RMX3286`: realme Narzo 50
+
 **realme Narzo 50A:**
 
 `RMX3430`: realme Narzo 50A

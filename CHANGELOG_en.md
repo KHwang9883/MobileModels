@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-24
+- `realme_global_en` Add realme Narzo 50.
 ## 2022-02-19
 - `mitv_global_en` Add several Indian models.
 ## 2022-02-17
