@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-02-24
+- `oppo_cn` 新增 OPPO Find X5 系列 & OPPO Pad。
 ## 2022-02-17
 - `oneplus` 新增 OnePlus Nord CE 2 印度版。
 ## 2022-02-16

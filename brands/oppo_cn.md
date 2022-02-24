@@ -38,6 +38,18 @@
 
 `PEUM00`: OPPO Find N 全网通版
 
+**OPPO Find X5:**
+
+`PFFM10`: OPPO Find X5 全网通版
+
+**OPPO Find X5 Pro:**
+
+`PFEM10`: OPPO Find X5 Pro 全网通版
+
+**OPPO Find X5 Pro 天玑版:**
+
+`PFFM20`: OPPO Find X5 Pro 天玑版 全网通版
+
 ## Reno 系列
 
 **OPPO Reno:**
@@ -381,6 +393,12 @@
 **OPPO K9x:**
 
 `PGCM10`: OPPO K9x 全网通版
+
+## 平板电脑
+
+**OPPO Pad:**
+
+`OPD2101`: OPPO Pad
 
 ## Watch 系列
 
