@@ -37,6 +37,18 @@
 
 `CPH2207`: OPPO Find X3 Neo
 
+**OPPO Find X5:**
+
+`CPH2307`: OPPO Find X5
+
+**OPPO Find X5 Pro:**
+
+`CPH2305`: OPPO Find X5 Pro
+
+**OPPO Find X5 Lite:**
+
+`CPH2371`: OPPO Find X5 Lite
+
 ## Reno series
 
 **OPPO Reno:**
