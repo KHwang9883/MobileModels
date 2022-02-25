@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-02-25
+- `xiaomi_en` Add several upcoming models.
 ## 2022-02-24
 - `oppo_global_en` Add OPPO Find X5 series.
 - `realme_global_en` Add realme Narzo 50.

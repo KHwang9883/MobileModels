@@ -1121,13 +1121,15 @@
 
 `2201116TI`: Redmi Note 11 Pro India
 
-**[`K6S`] Redmi Note 11 Pro 5G (`veux`):**
+**[`K6S`] Redmi Note 11 Pro 5G / Redmi Note 11E Pro (`veux`):**
 
 `2201116SG`: Redmi Note 11 Pro 5G Global
 
 `2201116SR`: Redmi Note 11 Pro 5G Japan
 
-`2201116SI`: Redmi Note 11 Pro 5G India
+`2201116SI`: Redmi Note 11 Pro+ 5G India
+
+`2201116SC`: Redmi Note 11E Pro China
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
@@ -1219,9 +1221,9 @@
 
 `M2012K10C`: Redmi K40 Gaming China
 
-**[`L10`] Redmi K50 Gaming (`ingres`):**
+**[`L10`] Redmi K50G (`ingres`):**
 
-`21121210C`: Redmi K50 Gaming China
+`21121210C`: Redmi K50G China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -1303,6 +1305,12 @@
 
 `21061110AG`: POCO X3 GT Global
 
+**[`K6P`] POCO X4 Pro 5G (`peux`):**
+
+`2201116PG`: POCO X4 Pro 5G Global
+
+`2201116PI`: POCO X4 Pro 5G India
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 India
@@ -1326,6 +1334,14 @@
 **[`K19P`] POCO M3 Pro 5G (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G India
+
+**[`K7P`] POCO M4 Pro (`fleur`):**
+
+`2201117PG`: POCO M4 Pro Global
+
+**[`K7P`] POCO M4 Pro (`miel`):**
+
+`2201117PI`: POCO M4 Pro India
 
 **[`K16A`] POCO M4 Pro 5G (`evergreen`):**
 
