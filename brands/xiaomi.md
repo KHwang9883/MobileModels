@@ -1156,13 +1156,15 @@
 
 `2201116TI`: Redmi Note 11 Pro 印度版
 
-**[`K6S`] Redmi Note 11 Pro 5G (`veux`):**
+**[`K6S`] Redmi Note 11E Pro / Redmi Note 11 Pro 5G (`veux`):**
+
+`2201116SC`: Redmi Note 11E Pro 全网通版
 
 `2201116SG`: Redmi Note 11 Pro 5G 国际版
 
 `2201116SR`: Redmi Note 11 Pro 5G 日本版
 
-`2201116SI`: Redmi Note 11 Pro 5G 印度版
+`2201116SI`: Redmi Note 11 Pro+ 5G 印度版
 
 **[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
 
@@ -1340,6 +1342,12 @@
 
 `21061110AG`: POCO X3 GT 国际版
 
+**[`K6P`] POCO X4 Pro 5G (`peux`):**
+
+`2201116PG`: POCO X4 Pro 5G 国际版
+
+`2201116PI`: POCO X4 Pro 5G 印度版
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 印度版
@@ -1363,6 +1371,14 @@
 **[`K19P`] POCO M3 Pro 5G (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G 印度版
+
+**[`K7P`] POCO M4 Pro (`fleur`):**
+
+`2201117PG`: POCO M4 Pro 国际版
+
+**[`K7P`] POCO M4 Pro (`miel`):**
+
+`2201117PI`: POCO M4 Pro 印度版
 
 **[`K16A`] POCO M4 Pro 5G (`evergreen`):**
 
