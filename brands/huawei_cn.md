@@ -911,6 +911,16 @@
 
 `DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
+**HUAWEI MatePad (2022) (`bach4`):**
+
+`BAH4-W19`: HUAWEI MatePad (2022) 10.4 英寸 Wi-Fi 版
+
+`BAH4-AL10`: HUAWEI MatePad (2022) 10.4 英寸 全网通版
+
+**HUAWEI MatePad Paper:**
+
+`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+
 **华为畅享平板 (`agassi2`):**
 
 `AGS2-W09`: 华为畅享平板 10.1 英寸 Wi-Fi 版
@@ -973,6 +983,12 @@
 
 `BZT3-W59` `BZT3-W69`: 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
 
+**华为平板 C5 2022:**
+
+`BZT4-W19`: 华为平板 C5 10.4 英寸 2022 款 Wi-Fi 版
+
+`BZT4-AL10`: 华为平板 C5 10.4 英寸 2022 款 全网通版
+
 **华为平板 C5e:**
 
 `BZI-W00`: 华为平板 C5e 10.1 英寸 Wi-Fi 版
@@ -1033,9 +1049,9 @@
 
 **HUAWEI MateBook X Pro (2021) (`machD`):**
 
-`MACHD-WFH9`: HUAWEI MateBook X Pro (2021) i5
+`MACHD-WFH9` `MACHD-WFH9Q`: HUAWEI MateBook X Pro (2021) i5
 
-`MACHD-WFE9`: HUAWEI MateBook X Pro (2021) i7
+`MACHD-WFE9` `MACHD-WFE9Q`: HUAWEI MateBook X Pro (2021) i7
 
 **HUAWEI MateBook X Pro (2022) (`morgan`):**
 
@@ -1053,7 +1069,7 @@
 
 `WRT-W29L`: HUAWEI MateBook 13 i7 Linux 版
 
-**HUAWEI MateBook 13 锐龙版 (`hengK`):**
+**HUAWEI MateBook 13 (`hengK`):**
 
 `HN-W19R`: HUAWEI MateBook 13 锐龙版
 
@@ -1067,19 +1083,25 @@
 
 `WRTB-WFE9L`: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook 13 (2020) 锐龙版 (`hengL`):**
+**HUAWEI MateBook 13 (2020)  (`hengL`):**
 
-`HNL-WFQ9`: HUAWEI MateBook 13 (2020) R5
+`HNL-WDQ9Q`: HUAWEI MateBook 13 (2020) R5 (8GB+512GB)
 
-`HNL-WFP9`: HUAWEI MateBook 13 (2020) R7
+`HNL-WDP9Q`: HUAWEI MateBook 13 (2020) R7 (8GB+512GB)
+
+`HNL-WFQ9`: HUAWEI MateBook 13 (2020) R5 (16GB+512GB)
+
+`HNL-WFP9` `HNL-WFP9Q`: HUAWEI MateBook 13 (2020) R7 (16GB+512GB)
 
 **HUAWEI MateBook 13 (2021) (`wrightD`):**
 
-`WRTD-WDH9`: HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+`WRTD-WDH9` `WRTD-WDH9Q`: HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
 
-`WRTD-WFH9`: HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
+`WRTD-WDE9Q`: HUAWEI MateBook 13 (2021) i7 (8GB+512GB)
 
-`WRTD-WFE9`: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+`WRTD-WFH9` `WRTD-WFH9Q`: HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
+
+`WRTD-WFE9` `WRTD-WFE9Q`: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
 
 **HUAWEI MateBook 13s (`emmyD`):**
 
@@ -1105,21 +1127,23 @@
 
 `KLVC-WFE9L`: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook 14 (2020) 锐龙版 (`kelvinL`):**
+**HUAWEI MateBook 14 (2020) (`kelvinL`):**
 
 `KLVL-WFH9`: HUAWEI MateBook 14 (2020) R5
 
-`KLVL-WFE9`: HUAWEI MateBook 14 (2020) R7
+`KLVL-WFE9` `KLVL-WFE9Q`: HUAWEI MateBook 14 (2020) R7
 
 **HUAWEI MateBook 14 (2021) (`kelvinD`):**
 
-`KLVD-WDH9`: HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+`KLVD-WDH9` `KLVD-WDH9Q`: HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+
+`KLVD-WDE9Q`: HUAWEI MateBook 14 (2021) i7 (8GB+512GB)
 
 `KLVD-WFH9`: HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
 
 `KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 
-**HUAWEI MateBook 14 (2021) 锐龙版 (`kelvinL`):**
+**HUAWEI MateBook 14 (2021) (`kelvinL`):**
 
 `KLVL-W56W`: HUAWEI MateBook 14 (2021) R5
 
@@ -1193,9 +1217,11 @@
 
 **HUAWEI MateBook D 14 (`nobelM`):**
 
-`NbM-WFQ9`: HUAWEI MateBook D 14 (2021) R5
+`NbM-WDQ9D`: HUAWEI MateBook D 14 (2021) R5 (8GB+512GB)
 
-`NbM-WFP9`: HUAWEI MateBook D 14 (2021) R7
+`NbM-WFQ9`: HUAWEI MateBook D 14 (2021) R5 (16GB+512GB)
+
+`NbM-WFP9`: HUAWEI MateBook D 14 (2021) R7 (16GB+512GB)
 
 **HUAWEI MateBook D 14 (`nobelDE`):**
 
