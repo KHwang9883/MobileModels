@@ -159,6 +159,10 @@
 
 `NOH-AL00` `NOH-AL10`: HUAWEI Mate 40 Pro 4G 全网通版
 
+**HUAWEI Mate 40E Pro (`noah`):**
+
+`NOH-AN50`: HUAWEI Mate 40E Pro 5G 全网通版
+
 **HUAWEI Mate 40 Pro+ (`noahp`):**
 
 `NOP-AN00`: HUAWEI Mate 40 Pro+ 5G 全网通版
