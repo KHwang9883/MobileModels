@@ -1144,13 +1144,17 @@
 
 `21091116AI`: Redmi Note 11T 5G 印度版
 
+**[`L19`] Redmi Note 11E 5G (`light`):**
+
+`22041219C`: Redmi Note 11E 5G 全网通版
+
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
 `21091116C`: Redmi Note 11 Pro 全网通版
 
 **[`K6T`] Redmi Note 11 Pro (`viva`):**
 
-`2201116TG`: Redmi Note 11 Pro 4G 国际版
+`2201116TG`: Redmi Note 11 Pro 国际版
 
 **[`K6T`] Redmi Note 11 Pro (`vida`):**
 

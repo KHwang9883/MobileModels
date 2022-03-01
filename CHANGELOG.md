@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-03-01
+- `xiaomi` 新增 Redmi Note 11E 5G。
 ## 2022-02-28
 - `huawei_cn` 增补 部分笔记本/平板型号；新增 HUAWEI Mate 40E Pro。
 - `lenovo` 新增 联想拯救者 Y90。
