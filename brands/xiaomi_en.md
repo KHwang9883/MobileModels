@@ -1113,6 +1113,10 @@
 
 `21091116AC`: Redmi Note 11 5G China
 
+**[`L19`] Redmi Note 11E 5G (`light`):**
+
+`22041219C`: Redmi Note 11E 5G China
+
 **[`K6T`] Redmi Note 11 Pro (`viva`):**
 
 `2201116TG`: Redmi Note 11 Pro Global

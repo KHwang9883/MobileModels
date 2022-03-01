@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-01
+- `xiaomi_en` Add Redmi Note 11E 5G (China).
 ## 2022-02-25
 - `xiaomi_en` Add several upcoming models.
 ## 2022-02-24
