@@ -125,3 +125,5 @@
 **moto edge X30 (`hiphic`):**
 
 `XT2201-2`: moto edge X30
+
+`XT2201-6`: moto edge X30 屏下摄像头版

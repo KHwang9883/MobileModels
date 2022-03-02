@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-03-02
+- `motorola` 新增 moto edge X30 屏下摄像头版。
 ## 2022-03-01
 - `xiaomi` 新增 Redmi Note 11E 5G。
 ## 2022-02-28
