@@ -1168,6 +1168,8 @@
 
 `2201116SR`: Redmi Note 11 Pro 5G 日本版
 
+**[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
+
 `2201116SI`: Redmi Note 11 Pro+ 5G 印度版
 
 **[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
@@ -1346,9 +1348,11 @@
 
 `21061110AG`: POCO X3 GT 国际版
 
-**[`K6P`] POCO X4 Pro 5G (`peux`):**
+**[`K6P`] POCO X4 Pro 5G (`veux`):**
 
 `2201116PG`: POCO X4 Pro 5G 国际版
+
+**[`K6P`] POCO X4 Pro 5G (`peux`):**
 
 `2201116PI`: POCO X4 Pro 5G 印度版
 
