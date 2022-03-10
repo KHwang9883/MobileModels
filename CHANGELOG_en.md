@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-10
+- `realme_global_en` Add realme 9 5G.
 ## 2022-03-01
 - `xiaomi_en` Add Redmi Note 11E 5G (China).
 ## 2022-02-25

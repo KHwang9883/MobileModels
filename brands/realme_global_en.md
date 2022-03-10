@@ -105,13 +105,21 @@
 
 `RMX3491`: realme 9i
 
-**realme 9 Pro:**
+**realme 9 5G:**
+
+`RMX3388`: realme 9 5G
+
+**realme 9 Pro 5G:**
 
 `RMX3471`: realme 9 Pro 5G
 
-**realme 9 Pro+:**
+**realme 9 Pro+ 5G:**
 
 `RMX3392`: realme 9 Pro+ 5G
+
+**realme 9 5G Speed Edition:**
+
+`RMX3461`: realme 9 5G Speed Edition
 
 ## X series
 
