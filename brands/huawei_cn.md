@@ -169,7 +169,7 @@
 
 **HUAWEI Mate 40 RS 保时捷设计 (`noahp`):**
 
-`NOP-AN00`: HUAWEI Mate 40 RS 保时捷设计
+`NOP-AN00-PD`: HUAWEI Mate 40 RS 保时捷设计
 
 **HUAWEI Mate X (`tahiti`):**
 
