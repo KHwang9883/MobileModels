@@ -1,6 +1,6 @@
 # 更新日志
 ## 2022-03-15
-- `apple` 新增 iPhone SE 3 & iPad Air 5；单独汇总国行型号。
+- `apple` 新增 iPhone SE 3 & iPad Air 5；单独汇总国行型号；新增设备内部代号。
 ## 2022-03-03
 - `realme_cn` 新增 真我 V25。
 ## 2022-03-02
