@@ -25,11 +25,13 @@
 
 `A1332`: iPhone 4 (GSM)
 
-`A1349`: iPhone 4 (CDMA)
-
 **iPhone 4 (`iPhone3,2`):**
 
-`A1332`: iPhone 4 (GSM) (2011)
+`A1332`: iPhone 4 (GSM, 2011)
+
+**iPhone 4 (`iPhone3,3`):**
+
+`A1349`: iPhone 4 (CDMA)
 
 **iPhone 4S (`iPhone4,1`):**
 
@@ -105,9 +107,9 @@
 
 `A1660`: iPhone 7
 
-`A1780`: iPhone 7 (China Mobile)
-
 `A1779`: iPhone 7 (Japan)
+
+`A1780`: iPhone 7 (China Mobile)
 
 **iPhone 7 (`iPhone9,3`):**
 
@@ -117,9 +119,9 @@
 
 `A1661`: iPhone 7 Plus
 
-`A1786`: iPhone 7 Plus (China Mobile)
-
 `A1785`: iPhone 7 Plus (Japan)
+
+`A1786`: iPhone 7 Plus (China Mobile)
 
 **iPhone 7 Plus (`iPhone9,4`):**
 
@@ -129,9 +131,9 @@
 
 `A1863`: iPhone 8
 
-`A1907`: iPhone 8 (China Mobile)
-
 `A1906`: iPhone 8 (Japan)
+
+`A1907`: iPhone 8 (China Mobile)
 
 **iPhone 8 (`iPhone10,4`):**
 
@@ -141,9 +143,9 @@
 
 `A1864`: iPhone 8 Plus
 
-`A1899`: iPhone 8 Plus (China Mobile)
-
 `A1898`: iPhone 8 Plus (Japan)
+
+`A1899`: iPhone 8 Plus (China Mobile)
 
 **iPhone 8 Plus (`iPhone10,5`):**
 
@@ -173,6 +175,12 @@
 
 `A2099`: iPhone XS (China Mobile)
 
+**iPhone XS Max (`iPhone11,4`):**
+
+`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
+
+`A2103`: iPhone XS Max (China Mobile)
+
 **iPhone XS Max (`iPhone11,6`):**
 
 `A1921`: iPhone XS Max (North America)
@@ -180,10 +188,6 @@
 `A2101`: iPhone XS Max (GSM)
 
 `A2102`: iPhone XS Max (Japan)
-
-`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
-
-`A2103`: iPhone XS Max (China Mobile)
 
 **iPhone XR (`iPhone11,8`):**
 
@@ -325,6 +329,18 @@
 
 `A2643`: iPhone 13 Pro Max (Rest of the world)
 
+**iPhone SE (3rd generation) (`iPhone14,6`):**
+
+`A2595`: iPhone SE (3rd generation) (North America)
+
+`A2782`: iPhone SE (3rd generation) (Japan)
+
+`A2784`: iPhone SE (3rd generation) (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2785`: iPhone SE (3rd generation) (China mainland)
+
+`A2783`: iPhone SE (3rd generation) (Rest of the world)
+
 ## iPad
 
 **iPad (`iPad1,1`):**
@@ -460,6 +476,16 @@
 `A2072` `A2324`: iPad Air (4th generation) Wi-Fi + Cellular
 
 `A2325`: iPad Air (4th generation) Wi-Fi + Cellular (China mainland)
+
+**iPad Air (5th generation) (`iPad13,16`):**
+
+`A2588`: iPad Air (5th generation) Wi-Fi
+
+**iPad Air (4th generation) (`iPad13,17`):**
+
+`A2589`: iPad Air (5th generation) Wi-Fi + Cellular
+
+`A2591`: iPad Air (5th generation) Wi-Fi + Cellular (China mainland)
 
 ## iPad Pro
 

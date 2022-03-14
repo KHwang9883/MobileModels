@@ -15,7 +15,7 @@ Unlisted brands usually not include international models.
 
 | Name | Brand | Range |
 | :-: | :-: | :-: |
-| [apple_en](brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
 | [google_en](brands/google_en.md) | Google | Google Pixel phones & tablets |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
 | [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, P, nova & Y series |

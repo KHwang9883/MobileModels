@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-15
+- `apple_all_en` Add iPhone SE 3 & iPad Air 5.
 ## 2022-03-10
 - `realme_global_en` Add realme 9 5G.
 ## 2022-03-01
