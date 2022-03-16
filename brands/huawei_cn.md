@@ -333,6 +333,10 @@
 
 `ABR-AL00`: HUAWEI P50 4G 全网通版
 
+**HUAWEI P50E (`amber`):**
+
+`ABR-AL60`: HUAWEI P50E 4G 全网通版
+
 **HUAWEI P50 Pro (`jade`):**
 
 `JAD-AL00`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
@@ -512,6 +516,10 @@
 **HUAWEI nova 9 Pro:**
 
 `RTE-AL00`: HUAWEI nova 9 Pro 4G 全网通版
+
+**HUAWEI nova 9 SE (`juliaN`):**
+
+`JLN-AL00`: HUAWEI nova 9 SE 4G 全网通版
 
 ## HUAWEI G 系列
 
@@ -917,9 +925,11 @@
 
 **HUAWEI MatePad (2022) (`bach4`):**
 
-`BAH4-W19`: HUAWEI MatePad (2022) 10.4 英寸 Wi-Fi 版
+`BAH4-W09`: HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
 
-`BAH4-AL10`: HUAWEI MatePad (2022) 10.4 英寸 全网通版
+`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+
+`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
 
 **HUAWEI MatePad Paper:**
 
@@ -951,7 +961,7 @@
 
 `BZA-L00`: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版
 
-**华为平板 C3 2020:**
+**华为平板 C3 (2020):**
 
 `BZD-W00`: 华为平板 C3 8 英寸 2020 款 Wi-Fi 版
 
@@ -973,7 +983,7 @@
 
 `BZT-AL10`: 华为平板 C5 10.1 英寸 全网通高配版
 
-**华为平板 C5 2020:**
+**华为平板 C5 (2020):**
 
 `BZW-AL00`: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+32GB)
 
@@ -983,11 +993,11 @@
 
 `BZT3-AL00`: 华为平板 C5 10.4 英寸 2020 款 全网通版
 
-**华为平板 C5 2021:**
+**华为平板 C5 (2021):**
 
 `BZT3-W59` `BZT3-W69`: 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
 
-**华为平板 C5 2022:**
+**华为平板 C5 (2022):**
 
 `BZT4-W19`: 华为平板 C5 10.4 英寸 2022 款 Wi-Fi 版
 
@@ -1432,6 +1442,10 @@
 `HEGE-550AX`: 华为智慧屏 B7-500
 
 `HEGE-550X`: 华为智慧屏 B7-510
+
+**华为小精灵学习智慧屏:**
+
+`BLM-00`: 华为小精灵学习智慧屏
 
 ## 华为早期产品 
 
