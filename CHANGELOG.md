@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-03-17
+- `xiaomi_cn` 新增 Redmi 10 系列 & K40S、K50 系列等。
 ## 2022-03-16
 - `huawei_cn` 新增 HUAWEI P50E & nova 9 SE。
 ## 2022-03-15

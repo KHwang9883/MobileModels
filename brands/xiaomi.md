@@ -834,6 +834,32 @@
 
 `22011119UY`: Redmi 10 2022 国际版 (NFC)
 
+**[`L19`] Redmi 10 5G / Redmi 10 Prime+ 5G (`light`):**
+
+`22041219G`: Redmi 10 5G 国际版
+
+`22041219I`: Redmi 10 Prime+ 5G 印度版
+
+**[`L19N`] Redmi 10 5G (`thunder`):**
+
+`22041219NY`: Redmi 10 5G 国际版 (NFC)
+
+**[`C3QA`] Redmi 10C (`fog`):**
+
+`220333QAG`: Redmi 10C 国际版
+
+**[`C3QB`] Redmi 10 (`fog`):**
+
+`220333QBI`: Redmi 10 印度版
+
+**[`C3L2`] Redmi 10A (`dandelion`):**
+
+`220233L2C`: Redmi 10A 全网通版
+
+`220233L2G`: Redmi 10A 国际版
+
+`220233L2I`: Redmi 10A 印度版
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
@@ -1126,6 +1152,16 @@
 
 `2201117TY`: Redmi Note 11 国际版 (NFC)
 
+**[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
+
+`21091116AC`: Redmi Note 11 5G 全网通版
+
+`21091116AI`: Redmi Note 11T 5G 印度版
+
+**[`L19`] Redmi Note 11E 5G (`light`):**
+
+`22041219C`: Redmi Note 11E 5G 全网通版
+
 **[`K7S`] Redmi Note 11S (`miel`):**
 
 `2201117SG`: Redmi Note 11S 国际版
@@ -1138,15 +1174,9 @@
 
 `2201117SY`: Redmi Note 11S 国际版 (NFC)
 
-**[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
+**[`K16B`] Redmi Note 11S 5G (`opal`):**
 
-`21091116AC`: Redmi Note 11 5G 全网通版
-
-`21091116AI`: Redmi Note 11T 5G 印度版
-
-**[`L19`] Redmi Note 11E 5G (`light`):**
-
-`22041219C`: Redmi Note 11E 5G 全网通版
+`22031116BG`: Redmi Note 11S 5G 国际版
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
@@ -1167,8 +1197,6 @@
 `2201116SG`: Redmi Note 11 Pro 5G 国际版
 
 `2201116SR`: Redmi Note 11 Pro 5G 日本版
-
-**[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
 
 `2201116SI`: Redmi Note 11 Pro+ 5G 印度版
 
@@ -1262,6 +1290,18 @@
 
 `M2012K10C`: Redmi K40 游戏增强版 全网通版
 
+**[`L11R`] Redmi K40S (`munch`):**
+
+`22021211RC`: Redmi K40S 全网通版
+
+**[`L11A`] Redmi K50 (`rubens`):**
+
+`22041211AC`: Redmi K50 全网通版
+
+**[`L11`] Redmi K50 Pro (`matisse`):**
+
+`22011211C`: Redmi K50 Pro 全网通版
+
 **[`L10`] Redmi K50 电竞版 (`ingres`):**
 
 `21121210C`: Redmi K50 电竞版 全网通版
@@ -1316,6 +1356,14 @@
 
 `M2104K10I`: POCO F3 GT 印度版
 
+**[`L11R`] POCO F4 (`munch`):**
+
+`22021211RG`: POCO F4 国际版
+
+**[`L11`] POCO F4 Pro (`matisse`):**
+
+`22011211G`: POCO F4 Pro 国际版
+
 **[`L10`] POGO F4 GT (`ingres`):**
 
 `21121210G`: POCO F4 GT 国际版
@@ -1352,8 +1400,6 @@
 
 `2201116PG`: POCO X4 Pro 5G 国际版
 
-**[`K6P`] POCO X4 Pro 5G (`peux`):**
-
 `2201116PI`: POCO X4 Pro 5G 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
@@ -1379,6 +1425,14 @@
 **[`K19P`] POCO M3 Pro 5G (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G 印度版
+
+**[`L19P`] POCO M4 5G (`thunder`):**
+
+`22041219PG`: POCO M4 5G 国际版
+
+**[`L19P`] POCO M4 5G (`light`):**
+
+`22041219PI`: POCO M4 5G 印度版
 
 **[`K7P`] POCO M4 Pro (`fleur`):**
 
