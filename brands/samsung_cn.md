@@ -478,6 +478,10 @@
 
 `SM-A5260`: Galaxy A52 5G
 
+**Galaxy A53 5G (`a53xq`):**
+
+`SM-A5360`: Galaxy A53 5G
+
 ## Galaxy F 系列
 
 **Galaxy F52 5G (`f52x`):**
