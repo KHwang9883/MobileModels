@@ -282,6 +282,18 @@
 
 `MGI-AN00`: 荣耀 Magic V 5G 全网通版
 
+**荣耀 Magic4:**
+
+`LGE-AN00`: 荣耀 Magic4 5G 全网通版
+
+**荣耀 Magic4 Pro:**
+
+`LGE-AN10`: 荣耀 Magic4 Pro 5G 全网通版
+
+**荣耀 Magic4 至臻版:**
+
+`LGE-AN20`: 荣耀 Magic4 至臻版 5G 全网通版
+
 ## 荣耀 X 系列
 
 **荣耀 3X:**
