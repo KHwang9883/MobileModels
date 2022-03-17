@@ -811,6 +811,32 @@
 
 `22011119UY`: Redmi 10 2022 Global (NFC)
 
+**[`L19`] Redmi 10 5G / Redmi 10 Prime+ 5G (`light`):**
+
+`22041219G`: Redmi 10 5G Global
+
+`22041219I`: Redmi 10 Prime+ 5G India
+
+**[`L19N`] Redmi 10 5G (`thunder`):**
+
+`22041219NY`: Redmi 10 5G Global (NFC)
+
+**[`C3QA`] Redmi 10C (`fog`):**
+
+`220333QAG`: Redmi 10C Global
+
+**[`C3QB`] Redmi 10 (`fog`):**
+
+`220333QBI`: Redmi 10 India
+
+**[`C3L2`] Redmi 10A (`dandelion`):**
+
+`220233L2G`: Redmi 10A Global
+
+`220233L2I`: Redmi 10A India
+
+`220233L2C`: Redmi 10A China
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -1095,6 +1121,16 @@
 
 `2201117TY`: Redmi Note 11 Global (NFC)
 
+**[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
+
+`21091116AI`: Redmi Note 11T 5G India
+
+`21091116AC`: Redmi Note 11 5G China
+
+**[`L19`] Redmi Note 11E 5G (`light`):**
+
+`22041219C`: Redmi Note 11E 5G China
+
 **[`K7S`] Redmi Note 11S (`miel`):**
 
 `2201117SG`: Redmi Note 11S Global
@@ -1107,15 +1143,9 @@
 
 `2201117SY`: Redmi Note 11S Global (NFC)
 
-**[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
+**[`K16B`] Redmi Note 11S 5G (`opal`):**
 
-`21091116AI`: Redmi Note 11T 5G India
-
-`21091116AC`: Redmi Note 11 5G China
-
-**[`L19`] Redmi Note 11E 5G (`light`):**
-
-`22041219C`: Redmi Note 11E 5G China
+`22031116BG`: Redmi Note 11S 5G Global
 
 **[`K6T`] Redmi Note 11 Pro (`viva`):**
 
@@ -1132,8 +1162,6 @@
 `2201116SR`: Redmi Note 11 Pro 5G Japan
 
 `2201116SC`: Redmi Note 11E Pro China
-
-**[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
 
 `2201116SI`: Redmi Note 11 Pro+ 5G India
 
@@ -1227,6 +1255,18 @@
 
 `M2012K10C`: Redmi K40 Gaming China
 
+**[`L11R`] Redmi K40S (`munch`):**
+
+`22021211RC`: Redmi K40S China
+
+**[`L11A`] Redmi K50 (`rubens`):**
+
+`22041211AC`: Redmi K50 China
+
+**[`L11`] Redmi K50 Pro (`matisse`):**
+
+`22011211C`: Redmi K50 Pro China
+
 **[`L10`] Redmi K50G (`ingres`):**
 
 `21121210C`: Redmi K50G China
@@ -1279,6 +1319,14 @@
 
 `M2104K10I`: POCO F3 GT India
 
+**[`L11R`] POCO F4 (`munch`):**
+
+`22021211RG`: POCO F4 Global
+
+**[`L11`] POCO F4 Pro (`matisse`):**
+
+`22011211G`: POCO F4 Pro Global
+
 **[`L10`] POGO F4 GT (`ingres`):**
 
 `21121210G`: POCO F4 GT Global
@@ -1315,8 +1363,6 @@
 
 `2201116PG`: POCO X4 Pro 5G Global
 
-**[`K6P`] POCO X4 Pro 5G (`peux`):**
-
 `2201116PI`: POCO X4 Pro 5G India
 
 **[`J19P`] POCO M2 (`shiva`):**
@@ -1342,6 +1388,14 @@
 **[`K19P`] POCO M3 Pro 5G (`camellia`):**
 
 `M2103K19PI`: POCO M3 Pro 5G India
+
+**[`L19P`] POCO M4 5G (`thunder`):**
+
+`22041219PG`: POCO M4 5G Global
+
+**[`L19P`] POCO M4 5G (`light`):**
+
+`22041219PI`: POCO M4 5G India
 
 **[`K7P`] POCO M4 Pro (`fleur`):**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-17
+- `xiaomi_en` Add several Redmi & POCO models.
 ## 2022-03-15
 - `apple_all_en` Add iPhone SE 3 & iPad Air 5; Add codenames.
 ## 2022-03-10
