@@ -1,6 +1,6 @@
 # 华为智选手机型号汇总
 
-- 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON
+- 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech
 - codename: ❌
 
 ## U-MAGIC 优畅享手机
@@ -60,3 +60,13 @@
 **雷鸟 FF1:**
 
 `F810`: 雷鸟 FF1 5G
+
+## TD Tech（鼎桥）
+
+**TD Tech N8 Pro:**
+
+`NAT-TN70`: TD Tech N8 Pro
+
+**TD Tech M40:**
+
+`TDT-MA01`: TD Tech M40

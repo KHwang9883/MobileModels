@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-03-21
+- `zhixuan` 新增 TD Tech（鼎桥）型号。
 ## 2022-03-17
 - `honor_cn` 新增 荣耀 Magic4 系列。
 - `mitv_cn` 新增 Redmi MAX 智能电视 100 英寸。
