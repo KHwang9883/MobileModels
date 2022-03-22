@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-22
+- `realme_global_en` Add realme GT 2 series.
 ## 2022-03-17
 - `xiaomi_en` Add several Redmi & POCO models.
 ## 2022-03-15

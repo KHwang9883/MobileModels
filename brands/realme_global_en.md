@@ -103,7 +103,7 @@
 
 **realme 9i:**
 
-`RMX3491`: realme 9i
+`RMX3491` `RMX3493`: realme 9i
 
 **realme 9 5G:**
 
@@ -115,7 +115,7 @@
 
 **realme 9 Pro+ 5G:**
 
-`RMX3392`: realme 9 Pro+ 5G
+`RMX3392` `RMX3393`: realme 9 Pro+ 5G
 
 **realme 9 5G Speed Edition:**
 
@@ -229,7 +229,7 @@
 
 **realme C21Y:**
 
-`RMX3261` `RMX3262`: realme C21Y
+`RMX3261` `RMX3262` `RMX3263`: realme C21Y
 
 **realme C25:**
 
@@ -241,7 +241,7 @@
 
 **realme C25Y:**
 
-`RMX3265`: realme C25Y
+`RMX3265` `RMX3269`: realme C25Y
 
 **realme C35:**
 
@@ -322,6 +322,14 @@
 **realme GT NEO 2:**
 
 `RMX3370`: realme GT NEO 2 5G
+
+**realme GT 2:**
+
+`RMX3311` `RMX3322`: realme GT 2 5G
+
+**realme GT 2 Pro:**
+
+`RMX3301`: realme GT 2 Pro 5G
 
 ## Tablets
 
