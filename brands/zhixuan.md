@@ -3,7 +3,7 @@
 - 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech
 - codename: ❌
 
-## U-MAGIC 优畅享手机
+## U-MAGIC 优畅享
 
 **优畅享 20 Plus:**
 
@@ -17,7 +17,7 @@
 
 `VP003`: 优畅享 30e 5G
 
-## 麦芒手机
+## 电信麦芒
 
 **麦芒 9:**
 
@@ -31,7 +31,11 @@
 
 `TYH612M`: 麦芒 10 5G
 
-## NZONE 手机
+**麦芒 11:**
+
+`TYH622M`: 麦芒 11 5G
+
+## NZONE
 
 **NZONE S7:**
 
@@ -45,7 +49,7 @@
 
 `SP300`: NZONE S7 Pro+ 5G
 
-## Hi nova 手机
+## Hi nova
 
 **Hi nova 9:**
 
@@ -54,6 +58,10 @@
 **Hi nova 9 Pro:**
 
 `Hebe-BD00`: Hi nova 9 Pro 5G
+
+**Hi nova 9 SE:**
+
+`FIO-BD00` `FIO-TL00`: Hi nova 9 SE 5G
 
 ## 雷鸟 FFALCON
 
