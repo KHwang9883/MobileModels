@@ -98,6 +98,12 @@
 
 `RMX3300`: 真我 GT2 Pro 5G
 
+**真我 GT Neo3:**
+
+`RMX3560`: 真我 GT Neo3
+
+`RMX3562`: 真我 GT Neo3 150W
+
 ## Q 系列
 
 **realme Q:**
