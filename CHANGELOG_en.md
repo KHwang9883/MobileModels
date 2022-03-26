@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-27
+- `oppo_global_en` Add several new models.
 ## 2022-03-22
 - `realme_global_en` Add realme GT 2 series.
 ## 2022-03-17
