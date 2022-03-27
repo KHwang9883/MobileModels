@@ -1163,6 +1163,8 @@
 
 `2201116SC`: Redmi Note 11E Pro China
 
+**[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
+
 `2201116SI`: Redmi Note 11 Pro+ 5G India
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
@@ -1362,6 +1364,8 @@
 **[`K6P`] POCO X4 Pro 5G (`veux`):**
 
 `2201116PG`: POCO X4 Pro 5G Global
+
+**[`K6P`] POCO X4 Pro 5G (`peux`):**
 
 `2201116PI`: POCO X4 Pro 5G India
 
