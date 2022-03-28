@@ -336,3 +336,7 @@
 **realme Pad:**
 
 `RMP2102` `RMP2103`: realme Pad
+
+**realme Pad mini:**
+
+`RMP2105`: realme Pad mini
