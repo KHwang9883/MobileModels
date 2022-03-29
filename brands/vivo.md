@@ -134,6 +134,14 @@
 
 `V2145A`: vivo X70 Pro+ 5G 全网通版
 
+**vivo X Fold (`PD2178`):**
+
+`V2178A`: vivo X Fold 全网通版
+
+**vivo X Note (`PD2170`):**
+
+`V2170A`: vivo X Note 全网通版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -424,6 +432,12 @@
 
 `V2123A`: vivo T1x 5G 全网通版
 
+## vivo 平板电脑
+
+**vivo Pad (`PA2170`):**
+
+`PA2170`: vivo Pad
+
 ## vivo Z 系列
 
 **vivo Z1 (`PD1730C`):**
@@ -552,10 +566,6 @@
 
 `V2136A`: iQOO 8 5G 全网通版
 
-**iQOO 8 Monster (`PD2136G`):**
-
-`V2136GA`: iQOO 8 Monster 5G 全网通版
-
 **iQOO 8 Pro (`PD2141`):**
 
 `V2141A`: iQOO 8 Pro 5G 全网通版
@@ -608,6 +618,10 @@
 
 `V2157A`: iQOO Neo5 SE 5G 全网通版
 
+**iQOO Neo6 (`PD2196`):**
+
+`V2196A`: iQOO Neo6 5G 全网通版
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -658,4 +672,4 @@
 
 **iQOO U5x (`PD2180G`):**
 
-`V2180GA`: iQOO U5x 5G 全网通版
+`V2180GA`: iQOO U5x 全网通版

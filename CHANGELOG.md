@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-03-29
 - `honor_cn` 增补 荣耀平板 Z3。
+- `vivo` 新增 vivo X Fold, X Note & vivo Pad 及 iQOO Neo6。
 ## 2022-03-26
 - `zhixuan` 新增 优畅享 50 Plus。
 ## 2022-03-25
