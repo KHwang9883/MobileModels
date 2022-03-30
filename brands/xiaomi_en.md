@@ -1473,6 +1473,8 @@
 
 **Black Shark 4 Pro (`kaiser`):**
 
+`SHARK KSR-H0`: Black Shark 4 Pro Global
+
 `SHARK KSR-A0`: Black Shark 4 Pro China
 
 **Black Shark 4S (`penrose`):**
@@ -1482,6 +1484,18 @@
 **Black Shark 4S Pro (`kaiser`):**
 
 `SHARK KSR-A0`: Black Shark 4S Pro China
+
+**Black Shark 5 (`patriot`):**
+
+`SHARK PAR-A0`: Black Shark 5 China
+
+**Black Shark 5 RS (`kaiser`):**
+
+`SHARK KSR-A0`: Black Shark 5 RS China
+
+**Black Shark 5 Pro (`katyusha`):**
+
+`SHARK KTUS-A0`: Black Shark 5 Pro China
 
 ## Others
 

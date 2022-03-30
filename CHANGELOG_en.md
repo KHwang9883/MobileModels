@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-03-30
+- `xiaomi_en` Add Black Shark 5 series (China).
 ## 2022-03-29
 - `honor_global_en` Add HONOR X7, X8 & X9 5G.
 ## 2022-03-28
