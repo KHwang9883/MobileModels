@@ -1512,6 +1512,8 @@
 
 `SHARK KSR-A0`: 黑鲨 4 Pro 全网通版
 
+`SHARK KSR-H0`: 黑鲨 4 Pro 国际版
+
 **黑鲨 4S (`penrose`):**
 
 `SHARK PRS-A0`: 黑鲨 4S 全网通版
@@ -1519,6 +1521,18 @@
 **黑鲨 4S Pro (`kaiser`):**
 
 `SHARK KSR-A0`: 黑鲨 4S Pro 全网通版
+
+**黑鲨 5 (`patriot`):**
+
+`SHARK PAR-A0`: 黑鲨 5 全网通版
+
+**黑鲨 5 RS (`kaiser`):**
+
+`SHARK KSR-A0`: 黑鲨 5 RS 全网通版
+
+**黑鲨 5 Pro (`katyusha`):**
+
+`SHARK KTUS-A0`: 黑鲨 5 Pro 全网通版
 
 ## 其他系列
 

@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-03-30
+- `xiaomi` 新增 黑鲨 5 系列。
 ## 2022-03-29
 - `honor_cn` 增补 荣耀平板 Z3。
 - `vivo` 新增 vivo X Fold, X Note & vivo Pad 及 iQOO Neo6。
