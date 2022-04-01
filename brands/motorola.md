@@ -126,4 +126,6 @@
 
 `XT2201-2`: moto edge X30
 
-`XT2201-6`: moto edge X30 屏下摄像头版
+**moto edge X30 (`hiphid`):**
+
+`XT2201-6`: moto edge X30 屏下摄像版
