@@ -478,6 +478,14 @@
 
 `CHL-AL00`: 荣耀 Play5T Pro 全网通版
 
+**荣耀 Play6T (`carmella`):**
+
+`CMA-AN40`: 荣耀 Play6T 5G 全网通版
+
+**荣耀 Play6T Pro (`tiffany`):**
+
+`TFY-AN40`: 荣耀 Play6T Pro 5G 全网通版
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`edison`):**
