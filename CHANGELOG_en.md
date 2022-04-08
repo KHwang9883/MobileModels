@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-04-08
+- `realme_global_en` Add realme 9 (4G).
 ## 2022-03-30
 - `xiaomi_en` Add Black Shark 5 series (China).
 ## 2022-03-29
