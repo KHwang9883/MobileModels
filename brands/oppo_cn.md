@@ -312,6 +312,10 @@
 
 `PFVM10`: OPPO A56 全网通版
 
+**OPPO A57:**
+
+`PFTM20`: OPPO A57 (2022) 全网通版
+
 **OPPO A72:**
 
 `PDYM20`: OPPO A72 全网通版
