@@ -202,21 +202,25 @@
 
 `LE2127`: OnePlus 9 Pro T-Mobile 版
 
-**OnePlus 9RT (`martini`):**
+**一加 9RT (`martini`):**
 
-`MT2110`: OnePlus 9RT 全网通版
+`MT2110`: 一加 9RT 全网通版
 
-`MT2111`: OnePlus 9RT 印度版
+`MT2111`: 一加 9RT 印度版
 
-**OnePlus 10 Pro (`negroni`):**
+**一加 10 Pro (`negroni`):**
 
-`NE2210`: OnePlus 10 Pro 全网通版
+`NE2210`: 一加 10 Pro 全网通版
 
-`NE2211`: OnePlus 10 Pro 印度版
+`NE2211`: 一加 10 Pro 印度版
 
-`NE2213`: OnePlus 10 Pro 欧洲/国际版
+`NE2213`: 一加 10 Pro 欧洲/国际版
 
-`NE2215`: OnePlus 10 Pro 北美版
+`NE2215`: 一加 10 Pro 北美版
+
+**一加 Ace:**
+
+`PGKM10`: 一加 Ace 全网通版
 
 **OnePlus Nord (`avicii`):**
 
