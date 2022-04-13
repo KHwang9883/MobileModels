@@ -213,6 +213,10 @@
 
 `NE2215`: OnePlus 10 Pro North America
 
+**OnePlus Ace:**
+
+`PGKM10`: OnePlus Ace China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
@@ -264,3 +268,7 @@
 **OnePlus Nord CE 2 (`ivan`):**
 
 `IV2201`: OnePlus Nord CE 2 India
+
+**OnePlus Nord CE 2 Lite:**
+
+`CPH2409`: OnePlus Nord CE 2 Lite India

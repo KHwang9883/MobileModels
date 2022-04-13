@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2022-04-13
+- `oneplus_en` Add OnePlus Ace (China) & OnePlus Nord CE 2 Lite (India).
 - `realme_global_en` Add realme C31.
 ## 2022-04-08
 - `realme_global_en` Add realme 9 (4G).
