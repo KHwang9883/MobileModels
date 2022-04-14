@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-04-14
 - `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
+- `vivo` 新增 vivo S15 系列。
 - `xiaomi` 新增 Redmi Note 10T 日版。
 - `zte` 新增 中兴远航 30 系列。
 ## 2022-04-13

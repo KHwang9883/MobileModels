@@ -210,6 +210,18 @@
 
 `V2163A`: vivo S12 Pro 5G 全网通版
 
+**vivo S15 (`PD2199`):**
+
+`V2199A`: vivo S15 5G 全网通版
+
+**vivo S15 Pro (`PD2203`):**
+
+`V2203A`: vivo S15 Pro 5G 全网通版
+
+**vivo S15e (`PD2190`):**
+
+`V2190A`: vivo S15e 5G 全网通版
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
