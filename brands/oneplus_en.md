@@ -155,9 +155,9 @@
 
 `KB2005`: OnePlus 8T North America
 
-**OnePlus 8T (`kebabt`):**
+**OnePlus 8T+ (`kebabt`):**
 
-`KB2007`: OnePlus 8T T-Mobile
+`KB2007`: OnePlus 8T+ T-Mobile
 
 **OnePlus 9R (`lemonades`):**
 
@@ -213,7 +213,11 @@
 
 `NE2215`: OnePlus 10 Pro North America
 
-**OnePlus Ace:**
+**OnePlus 10R (`pickle`):**
+
+`CPH2381`: OnePlus 10R India
+
+**OnePlus Ace (`pickle`):**
 
 `PGKM10`: OnePlus Ace China
 
@@ -271,4 +275,6 @@
 
 **OnePlus Nord CE 2 Lite:**
 
-`CPH2409`: OnePlus Nord CE 2 Lite India
+`CPH2401`: OnePlus Nord CE 2 Lite India
+
+`CPH2409`: OnePlus Nord CE 2 Lite Global
