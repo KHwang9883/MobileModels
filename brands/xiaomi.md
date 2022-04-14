@@ -1114,6 +1114,12 @@
 
 `2104K19J` `XIG02`: Redmi Note 10 JE 日本版 (KDDI)
 
+**[`K19K`] Redmi Note 10T (`lilac`):**
+
+`22021119KR`: Redmi Note 10T 日本版 (SIM Free)
+
+`A101XM`: Redmi Note 10T 日本版 (SoftBank)
+
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro 国际版
@@ -1543,3 +1549,7 @@
 **小米米家翻译机 (`FYJ01QP`):**
 
 `FYJ01QP`: 小米米家翻译机
+
+**[`K91`] CyberDog 仿生四足机器人:**
+
+`21051191C`: CyberDog 仿生四足机器人

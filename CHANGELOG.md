@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-04-14
+- `xiaomi` 新增 Redmi Note 10T 日版。
 ## 2022-04-13
 - `oneplus` 新增 一加 Ace。
 - `realme_cn` 新增 真我 Q5 系列 & 真我 V23。
