@@ -2,6 +2,7 @@
 ## 2022-04-14
 - `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
 - `xiaomi` 新增 Redmi Note 10T 日版。
+- `zte` 新增 中兴远航 30 系列。
 ## 2022-04-13
 - `oneplus` 新增 一加 Ace。
 - `realme_cn` 新增 真我 Q5 系列 & 真我 V23。
