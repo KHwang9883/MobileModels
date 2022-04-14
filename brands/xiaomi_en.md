@@ -1083,6 +1083,12 @@
 
 `2104K19J` `XIG02`: Redmi Note 10 JE Japan (KDDI)
 
+**[`K19K`] Redmi Note 10T (`lilac`):**
+
+`22021119KR`: Redmi Note 10T Japan (SIM Free)
+
+`A101XM`: Redmi Note 10T Japan (SoftBank)
+
 **[`K6`] Redmi Note 10 Pro (`sweet`):**
 
 `M2101K6G`: Redmi Note 10 Pro Global
@@ -1506,3 +1512,7 @@
 **Xiaomi Mijia Translator (`FYJ01QP`):**
 
 `FYJ01QP`: Xiaomi Mijia Translator
+
+**[`K91`] Xiaomi CyberDog:**
+
+`21051191C`: Xiaomi CyberDog Bio-inspired Quadruped Robot
