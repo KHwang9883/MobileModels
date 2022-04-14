@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-04-14
+- `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
 - `xiaomi` 新增 Redmi Note 10T 日版。
 ## 2022-04-13
 - `oneplus` 新增 一加 Ace。

@@ -160,9 +160,9 @@
 
 `KB2005`: OnePlus 8T 北美版
 
-**OnePlus 8T (`kebabt`):**
+**OnePlus 8T+ (`kebabt`):**
 
-`KB2007`: OnePlus 8T T-Mobile 版
+`KB2007`: OnePlus 8T+ T-Mobile 版
 
 **OnePlus 9R (`lemonades`):**
 
@@ -218,7 +218,11 @@
 
 `NE2215`: 一加 10 Pro 北美版
 
-**一加 Ace:**
+**一加 10R (`pickle`):**
+
+`CPH2381`: 一加 10R 印度版
+
+**一加 Ace (`pickle`):**
 
 `PGKM10`: 一加 Ace 全网通版
 
@@ -273,3 +277,9 @@
 **OnePlus Nord CE 2 (`ivan`):**
 
 `IV2201`: OnePlus Nord CE 2 印度版
+
+**OnePlus Nord CE 2 Lite:**
+
+`CPH2401`: OnePlus Nord CE 2 Lite 印度版
+
+`CPH2409`: OnePlus Nord CE 2 Lite 国际版
