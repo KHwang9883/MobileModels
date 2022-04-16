@@ -42,8 +42,6 @@
 
 `ONEPLUS A3003`: OnePlus 3T 国际版
 
-`ONEPLUS A3000`: OnePlus 3T 北美版
-
 **OnePlus 5 (`cheeseburger`):**
 
 `ONEPLUS A5000`: OnePlus 5 全网通版
@@ -70,9 +68,9 @@
 
 `GM1901`: OnePlus 7 印度版
 
-`GM1903`: OnePlus 7 欧洲/国际版 
+`GM1903`: OnePlus 7 欧洲版
 
-`GM1905`: OnePlus 7 北美版
+`GM1905`: OnePlus 7 北美版/国际版
 
 **OnePlus 7 Pro (`guacamole`):**
 
@@ -80,9 +78,9 @@
 
 `GM1911`: OnePlus 7 Pro 印度版
 
-`GM1913`: OnePlus 7 Pro 国际版
+`GM1913`: OnePlus 7 Pro 欧洲版
 
-`GM1915`: OnePlus 7 Pro 欧洲版
+`GM1915`: OnePlus 7 Pro 国际版
 
 **OnePlus 7 Pro (`guacamolet`):**
 
@@ -102,9 +100,9 @@
 
 `HD1901`: OnePlus 7T 印度版
 
-`HD1903`: OnePlus 7T 欧洲/国际版
+`HD1903`: OnePlus 7T 欧洲版
 
-`HD1905`: OnePlus 7T 北美版
+`HD1905`: OnePlus 7T 北美版/国际版
 
 **OnePlus 7T (`hotdogt`):**
 
@@ -116,7 +114,7 @@
 
 `HD1911`: OnePlus 7T Pro 印度版
 
-`HD1913`: OnePlus 7T Pro 欧洲/国际版
+`HD1913`: OnePlus 7T Pro 欧洲版/国际版
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
@@ -128,9 +126,9 @@
 
 `IN2011`: OnePlus 8 印度版
 
-`IN2013`: OnePlus 8 欧洲/国际版
+`IN2013`: OnePlus 8 欧洲版
 
-`IN2015`: OnePlus 8 Visible 北美版
+`IN2015`: OnePlus 8 北美版/国际版
 
 **OnePlus 8 (`instantnoodlet`):**
 
@@ -138,7 +136,7 @@
 
 **OnePlus 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 UW Verzion 版
+`IN2019`: OnePlus 8 Visible 版/Verizon 版
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -146,9 +144,9 @@
 
 `IN2021`: OnePlus 8 Pro 印度版
 
-`IN2023`: OnePlus 8 Pro 欧洲/国际版
+`IN2023`: OnePlus 8 Pro 欧洲版
 
-`IN2025`: OnePlus 8 Pro 北美版
+`IN2025`: OnePlus 8 Pro 北美版/国际版
 
 **OnePlus 8T (`kebab`):**
 
@@ -156,9 +154,9 @@
 
 `KB2001`: OnePlus 8T 印度版
 
-`KB2003`: OnePlus 8T 欧洲/国际版
+`KB2003`: OnePlus 8T 欧洲版
 
-`KB2005`: OnePlus 8T 北美版
+`KB2005`: OnePlus 8T 北美版/国际版
 
 **OnePlus 8T+ (`kebabt`):**
 
@@ -176,9 +174,9 @@
 
 `LE2111`: OnePlus 9 印度版
 
-`LE2113`: OnePlus 9 欧洲/国际版
+`LE2113`: OnePlus 9 欧洲版
 
-`LE2115`: OnePlus 9 北美版
+`LE2115`: OnePlus 9 北美版/国际版
 
 **OnePlus 9 (`lemonadet`):**
 
@@ -214,23 +212,25 @@
 
 `NE2211`: 一加 10 Pro 印度版
 
-`NE2213`: 一加 10 Pro 欧洲/国际版
+`NE2213`: 一加 10 Pro 欧洲版
 
-`NE2215`: 一加 10 Pro 北美版
+`NE2215`: 一加 10 Pro 北美版/国际版
 
-**一加 10R (`pickle`):**
+`NE2217`: 一加 10 Pro T-Mobile 版
+
+**一加 10R / 一加 Ace (`pickle`):**
+
+`PGKM10`: 一加 Ace 全网通版
 
 `CPH2381`: 一加 10R 印度版
 
-**一加 Ace (`pickle`):**
-
-`PGKM10`: 一加 Ace 全网通版
+`CPH2411`: 一加 10R 国际版
 
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
 
-`AC2003`: OnePlus Nord 欧洲/国际版
+`AC2003`: OnePlus Nord 欧洲版/国际版
 
 **OnePlus Nord N10 (`billie8`):**
 
@@ -266,7 +266,7 @@
 
 `EB2101`: OnePlus Nord CE 印度版
 
-`EB2103`: OnePlus Nord CE 欧洲/国际版
+`EB2103`: OnePlus Nord CE 欧洲版/国际版
 
 **OnePlus Nord 2 (`denniz`):**
 
