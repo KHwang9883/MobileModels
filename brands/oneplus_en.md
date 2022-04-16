@@ -211,7 +211,7 @@
 
 `NE2215`: OnePlus 10 Pro North America / Global
 
-`NE2215`: OnePlus 10 Pro T-Mobile
+`NE2217`: OnePlus 10 Pro T-Mobile
 
 **OnePlus 10R / OnePlus Ace (`pickle`):**
 
