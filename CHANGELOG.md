@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-04-18
+- `xiaomi` 新增 Xiaomi Civi 1S。
 ## 2022-04-14
 - `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
 - `vivo` 新增 vivo S15 系列。
