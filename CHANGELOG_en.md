@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-04-18
+- `xiaomi_en` Add Xiaomi Civi 1S (China).
 ## 2022-04-14
 - `oneplus_en` Add OnePlus 10R (India).
 - `xiaomi_en` Add Redmi Note 10T (Japan).
