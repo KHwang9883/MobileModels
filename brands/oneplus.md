@@ -80,11 +80,11 @@
 
 `GM1913`: OnePlus 7 Pro 欧洲版
 
-`GM1915`: OnePlus 7 Pro 国际版
+`GM1915`: OnePlus 7 Pro 北美版/国际版
 
 **OnePlus 7 Pro (`guacamolet`):**
 
-`GM1917`: OnePlus 7 Pro 北美/T-Mobile 版
+`GM1917`: OnePlus 7 Pro T-Mobile 版
 
 **OnePlus 7 Pro 5G (`guacamoleg`):**
 
@@ -192,9 +192,9 @@
 
 `LE2121`: OnePlus 9 Pro 印度版
 
-`LE2123`: OnePlus 9 Pro 欧洲/国际版
+`LE2123`: OnePlus 9 Pro 欧洲版
 
-`LE2125`: OnePlus 9 Pro 北美版
+`LE2125`: OnePlus 9 Pro 北美版/国际版
 
 **OnePlus 9 Pro (`lemonadept`):**
 
@@ -212,9 +212,9 @@
 
 `NE2211`: 一加 10 Pro 印度版
 
-`NE2213`: 一加 10 Pro 欧洲版
+`NE2213`: 一加 10 Pro 欧洲版/国际版
 
-`NE2215`: 一加 10 Pro 北美版/国际版
+`NE2215`: 一加 10 Pro 北美版
 
 `NE2217`: 一加 10 Pro T-Mobile 版
 
