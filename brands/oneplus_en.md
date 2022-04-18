@@ -75,11 +75,11 @@
 
 `GM1913`: OnePlus 7 Pro EU
  
-`GM1915`: OnePlus 7 Pro Global
+`GM1915`: OnePlus 7 Pro North America / Global
 
 **OnePlus 7 Pro (`guacamolet`):**
 
-`GM1917`: OnePlus 7 Pro North America / T-Mobile
+`GM1917`: OnePlus 7 Pro T-Mobile
 
 **OnePlus 7 Pro 5G (`guacamoleg`):**
 
@@ -187,9 +187,9 @@
 
 `LE2121`: OnePlus 9 Pro India
 
-`LE2123`: OnePlus 9 Pro EU / Global
+`LE2123`: OnePlus 9 Pro EU
 
-`LE2125`: OnePlus 9 Pro North America
+`LE2125`: OnePlus 9 Pro North America / Global
 
 **OnePlus 9 Pro (`lemonadept`):**
 
@@ -207,9 +207,9 @@
 
 `NE2211`: OnePlus 10 Pro India
 
-`NE2213`: OnePlus 10 Pro EU
+`NE2213`: OnePlus 10 Pro EU / Global
 
-`NE2215`: OnePlus 10 Pro North America / Global
+`NE2215`: OnePlus 10 Pro North America
 
 `NE2217`: OnePlus 10 Pro T-Mobile
 
