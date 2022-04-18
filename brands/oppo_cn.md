@@ -308,6 +308,10 @@
 
 `PEMT00` `PEMT20`: OPPO A55 移动版
 
+**OPPO A55s:**
+
+`PEMM00`: OPPO A55s 全网通版
+
 **OPPO A56:**
 
 `PFVM10`: OPPO A56 全网通版
@@ -397,6 +401,14 @@
 **OPPO K9x:**
 
 `PGCM10`: OPPO K9x 全网通版
+
+**OPPO K10:**
+
+`PGJM10`: OPPO K10 全网通版
+
+**OPPO K10 Pro:**
+
+`PGIM10`: OPPO K10 Pro 全网通版
 
 ## 平板电脑
 
