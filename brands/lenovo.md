@@ -94,7 +94,7 @@
 
 `Lenovo L70081`: 拯救者电竞手机 2 Pro
 
-**联想拯救者 Y90 电竞手机:**
+**联想拯救者 Y90 电竞手机 (`diablo`):**
 
 `Lenovo L71061`: 联想拯救者 Y90 电竞手机
 
@@ -123,3 +123,73 @@
 **ZUK Edge:**
 
 `Z2151`: ZUK Edge
+
+## 平板电脑
+
+**联想小新平板 (2017):**
+
+`Lenovo TB-8804F`: 联想小新平板 8 英寸
+
+`Lenovo TB-X804F`: 联想小新平板 10 英寸
+
+**联想小新 Pad:**
+
+`Lenovo TB-J606F`: 联想小新 Pad
+
+**联想小新 Pad Plus:**
+
+`Lenovo TB-J607F`: 联想小新 Pad Plus
+
+`Lenovo TB-J607Z`: 联想小新 Pad Plus 5G
+
+**联想小新 Pad Pro:**
+
+`Lenovo TB-J706F`: 联想小新 Pad Pro 2020
+
+`Lenovo TB-J716F`: 联想小新 Pad Pro 2021
+
+`Lenovo TB-Q706F`: 联想小新 Pad Pro 12.6
+
+**联想 YOGA Pad Pro:**
+
+`Lenovo YT-K606F`: 联想 YOGA Pad Pro
+
+**联想拯救者 Y700 游戏平板:**
+
+`Lenovo TB-9707F`: 联想拯救者 Y700 游戏平板
+
+**联想天骄平板电脑:**
+
+`Lenovo TB-J616F`: 联想天骄平板电脑
+
+**联想 TAB4:**
+
+`Lenovo TB-8504F`: 联想 TAB4 8 英寸 Wi-Fi 版
+
+`Lenovo TB-8504N`: 联想 TAB4 8 英寸 LTE 版
+
+`Lenovo TB-8604F` `Lenovo TB-8X04F`: 联想 TAB4 8 英寸 REL
+
+`Lenovo TB-X304F`: 联想 TAB4 10.1 英寸 Wi-Fi 版
+
+`Lenovo TB-X304N`: 联想 TAB4 10.1 英寸 LTE 版
+
+`Lenovo TB-X504F`: 联想 TAB4 10.1 英寸 REL
+
+**联想 TAB4 Plus:**
+
+`Lenovo TB-8704F`: 联想 TAB4 Plus 8 英寸 Wi-Fi 版
+
+`Lenovo TB-8704N`: 联想 TAB4 Plus 8 英寸 LTE 版
+
+`Lenovo TB-X704F`: 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
+
+`Lenovo TB-X704N`: 联想 TAB4 Plus 10.1 英寸 LTE 版
+
+**联想 M10 PLUS:**
+
+`Lenovo TB-X606F`: 联想 M10 PLUS
+
+**Lenovo Tab K11:**
+
+`Lenovo TB-J606N`: Lenovo Tab K11
