@@ -113,7 +113,7 @@
 
 `M1804D2ST`: Mi 6X China Mobile
 
-`M1804D2SC`: Mi 6X China Unicom / China Telecom
+`M1804D2SC`: Mi 6X China Unicom & China Telecom
 
 **[`E1`] Mi 8 (`dipper`):**
 
@@ -121,7 +121,7 @@
 
 `M1803E1T`: Mi 8 China Mobile
 
-`M1803E1C`: Mi 8 China Unicom / China Telecom
+`M1803E1C`: Mi 8 China Unicom & China Telecom
 
 **[`E8`] Mi 8 Explorer Edition (`ursa`):**
 
@@ -143,7 +143,7 @@
 
 `M1808D2TT`: Mi 8 Lite China Mobile
 
-`M1808D2TC`: Mi 8 Lite China Unicom / China Telecom
+`M1808D2TC`: Mi 8 Lite China Unicom & China Telecom
 
 **[`F1`] Mi 9 (`cepheus`):**
 
@@ -153,7 +153,7 @@
 
 `M1902F1T`: Mi 9 China Mobile
 
-`M1902F1C`: Mi 9 China Unicom / China Telecom
+`M1902F1C`: Mi 9 China Unicom & China Telecom
 
 **[`F1X`] Mi 9 Pro (`crux`):**
 
@@ -379,7 +379,7 @@
 
 `M1803D5XT`: Mi MIX 2S China Mobile
 
-`M1803D5XC`: Mi MIX 2S China Unicom / China Telecom
+`M1803D5XC`: Mi MIX 2S China Unicom & China Telecom
 
 **[`E5`] Mi MIX 3 (`perseus`):**
 
@@ -423,7 +423,7 @@
 
 `M1804E4T`: Mi Max 3 China Mobile
 
-`M1804E4C`: Mi Max 3 China Unicom / China Telecom
+`M1804E4C`: Mi Max 3 China Unicom & China Telecom
 
 **[`F3B`] Mi CC 9 (`pyxis`):**
 
@@ -659,7 +659,7 @@
 
 `M1804C3DT`: Redmi 6 China Mobile
 
-`M1804C3DC`: Redmi 6 China Unicom / China Telecom
+`M1804C3DC`: Redmi 6 China Unicom & China Telecom
 
 **[`D1S`] Redmi 6 Pro (`sakura`):**
 
@@ -669,7 +669,7 @@
 
 `M1805D1ST`: Redmi 6 Pro China Mobile
 
-`M1805D1SC`: Redmi 6 Pro China Unicom / China Telecom
+`M1805D1SC`: Redmi 6 Pro China Unicom & China Telecom
 
 **[`C3C`] Redmi 6A (`cactus`):**
 
@@ -681,7 +681,7 @@
 
 `M1804C3CT`: Redmi 6A China Mobile
 
-`M1804C3CC`: Redmi 6A China Unicom / China Telecom
+`M1804C3CC`: Redmi 6A China Unicom & China Telecom
 
 **[`F6L`] Redmi 7 (`onclite`):**
 
@@ -703,7 +703,7 @@
 
 `M1903C3ET`: Redmi 7A China Mobile
 
-`M1903C3EC`: Redmi 7A China Unicom / China Telecom
+`M1903C3EC`: Redmi 7A China Unicom & China Telecom
 
 **[`C3I`] Redmi 8 (`olive`):**
 
@@ -745,9 +745,9 @@
 
 `M2006C3LVG`: Redmi 9AT Global
 
-`M2006C3LI`: Redmi 9A / Redmi 9A Sport India
+`M2006C3LI`: Redmi 9A India / Redmi 9A Sport India
 
-`M2006C3LII`: Redmi 9i / Redmi 9i Sport India
+`M2006C3LII`: Redmi 9i India / Redmi 9i Sport India
 
 `M2006C3LC`: Redmi 9A China
 
@@ -763,7 +763,7 @@
 
 **[`C3MI`] Redmi 9 / Redmi 9 Activ (`cattail`):**
 
-`M2006C3MII`: Redmi 9 / Redmi 9 Activ India
+`M2006C3MII`: Redmi 9 India / Redmi 9 Activ India
 
 **[`J19S`] Redmi 9T / Redmi 9 Power (`lime`):**
 
@@ -827,7 +827,7 @@
 
 **[`C3QB`] Redmi 10 (`fog`):**
 
-`220333QBI`: Redmi 10 India
+`220333QBI`: Redmi 10 India / Redmi 10 Power India
 
 **[`C3L2`] Redmi 10A (`dandelion`):**
 
@@ -927,7 +927,7 @@
 
 `MET7S`: Redmi Note 5 China Mobile
 
-`MEC7S`: Redmi Note 5 China Unicom / China Telecom
+`MEC7S`: Redmi Note 5 China Unicom & China Telecom
 
 **[`D6`] Redmi Note 5A / Redmi Y1 Lite (`ugglite`):**
 
@@ -959,13 +959,13 @@
 
 `M1901F7G` `M1901F7H`: Redmi Note 7 Global
 
-`M1901F7I`: Redmi Note 7 / Redmi Note 7S India
+`M1901F7I`: Redmi Note 7 India / Redmi Note 7S India
 
 `M1901F7E`: Redmi Note 7 China
 
 `M1901F7T`: Redmi Note 7 China Mobile
 
-`M1901F7C`: Redmi Note 7 China Unicom / China Telecom
+`M1901F7C`: Redmi Note 7 China Unicom & China Telecom
 
 **[`F7B`] Redmi Note 7 Pro (`violet`):**
 
@@ -1031,7 +1031,7 @@
 
 `M2003J6A1G`: Redmi Note 9S Global
 
-`M2003J6A1R`: Redmi Note 9S Japan / Korea
+`M2003J6A1R`: Redmi Note 9S Japan / Redmi Note 9S Korea
 
 `M2003J6A1I`: Redmi Note 9 Pro India
 
@@ -1295,7 +1295,7 @@
 
 `M1803E6T`: Redmi S2 China Mobile
 
-`M1803E6C`: Redmi S2 China Unicom / China Telecom
+`M1803E6C`: Redmi S2 China Unicom & China Telecom
 
 **[`F6`] Redmi Y3 (`onc`):**
 
