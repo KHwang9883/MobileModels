@@ -996,6 +996,16 @@
 
 `BBR-WAH9`: 荣耀 MagicBook X 15 i5
 
+**荣耀 MagicBook X 14 2022 (`nobelDR`):**
+
+`NDR-WFH`: 荣耀 MagicBook X 14 2022 i5
+
+**荣耀 MagicBook X 15 2022 (`bohrDR`):**
+
+`BDR-WDH`: 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
+
+`BDR-WFH`: 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
+
 **荣耀猎人游戏本 V700:**
 
 `FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB)
