@@ -1,5 +1,5 @@
 # CHANGELOG
-## 2022-04-19
+## 2022-04-20
 - `xiaomi_en` Add Redmi 10 Power (India).
 ## 2022-04-18
 - `xiaomi_en` Add Xiaomi Civi 1S (China).

@@ -441,9 +441,13 @@
 
 `M1910F4E`: Mi CC 9 Pro China
 
-**[`F9B`] Xiaomi Civi / Xiaomi Civi 1S (`mona`):**
+**[`F9B`] Xiaomi Civi (`mona`):**
 
-`2109119BC`: Xiaomi Civi China / Xiaomi Civi 1S China
+`2109119BC`: Xiaomi Civi China
+
+**[`F9B`] Xiaomi Civi 1S (`zijin`):**
+
+`2109119BC`: Xiaomi Civi 1S China
 
 **[`F9`] Mi Play (`lotus`):**
 
