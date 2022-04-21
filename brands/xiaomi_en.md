@@ -441,11 +441,11 @@
 
 `M1910F4E`: Mi CC 9 Pro China
 
-**[`F9B`] Xiaomi Civi (`mona`):**
+**[`K9B`] Xiaomi Civi (`mona`):**
 
 `2109119BC`: Xiaomi Civi China
 
-**[`F9B`] Xiaomi Civi 1S (`zijin`):**
+**[`K9E`] Xiaomi Civi 1S (`zijin`):**
 
 `2109119BC`: Xiaomi Civi 1S China
 
