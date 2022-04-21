@@ -456,11 +456,11 @@
 
 `M1910F4E`: 小米 CC9 Pro 全网通版
 
-**[`F9B`] Xiaomi Civi (`mona`):**
+**[`K9B`] Xiaomi Civi (`mona`):**
 
 `2109119BC`: Xiaomi Civi 全网通版
 
-**[`F9B`] Xiaomi Civi 1S (`zijin`):**
+**[`K9E`] Xiaomi Civi 1S (`zijin`):**
 
 `2109119BC`: Xiaomi Civi 1S 全网通版
 
