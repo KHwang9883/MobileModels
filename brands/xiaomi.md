@@ -456,9 +456,13 @@
 
 `M1910F4E`: 小米 CC9 Pro 全网通版
 
-**[`F9B`] Xiaomi Civi / Xiaomi Civi 1S (`mona`):**
+**[`F9B`] Xiaomi Civi (`mona`):**
 
-`2109119BC`: Xiaomi Civi 全网通版 / Xiaomi Civi 1S 全网通版
+`2109119BC`: Xiaomi Civi 全网通版
+
+**[`F9B`] Xiaomi Civi 1S (`zijin`):**
+
+`2109119BC`: Xiaomi Civi 1S 全网通版
 
 ## 小米 Play 系列
 
