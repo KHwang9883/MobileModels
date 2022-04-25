@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-04-25
+- `mitv_cn` 新增 Redmi 智能电视 A 2022 款 & 小米电子水牌。
 ## 2022-04-20
 - `honor_cn` 新增 荣耀 MagicBook X 2022 款。
 - `xiaomi` 新增 Redmi 10 Power 印度版。
