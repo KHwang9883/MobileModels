@@ -142,6 +142,18 @@
 
 `V2170A`: vivo X Note 全网通版
 
+**vivo X80 (`PD2183`):**
+
+`V2183A`: vivo X80 全网通版
+
+**vivo X80 Pro (`PD2185`):**
+
+`V2185A`: vivo X80 Pro 全网通版
+
+**vivo X80 Pro 天玑 9000 版 (`PD2186`):**
+
+`V2186A`: vivo X80 Pro 天玑 9000 版 全网通版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -209,14 +221,6 @@
 **vivo S12 Pro (`PD2163`):**
 
 `V2163A`: vivo S12 Pro 5G 全网通版
-
-**vivo S15 (`PD2199`):**
-
-`V2199A`: vivo S15 5G 全网通版
-
-**vivo S15 Pro (`PD2203`):**
-
-`V2203A`: vivo S15 Pro 5G 全网通版
 
 **vivo S15e (`PD2190`):**
 

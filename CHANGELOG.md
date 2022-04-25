@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-04-25
 - `mitv_cn` 新增 Redmi 智能电视 A 2022 款 & 小米电子水牌。
+- `vivo` 新增 vivo X80 系列 & vivo S15e。
 ## 2022-04-20
 - `honor_cn` 新增 荣耀 MagicBook X 2022 款。
 - `xiaomi` 新增 Redmi 10 Power 印度版。
@@ -10,7 +11,6 @@
 - `xiaomi` 新增 Xiaomi Civi 1S。
 ## 2022-04-14
 - `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
-- `vivo` 新增 vivo S15 系列。
 - `xiaomi` 新增 Redmi Note 10T 日版。
 - `zte` 新增 中兴远航 30 系列。
 ## 2022-04-13
