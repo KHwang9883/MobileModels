@@ -1,6 +1,6 @@
 # Xiaomi Global TV Models
 
-- Range: All international & Indian Mi & Redmi TV models (excluding China mainland models)
+- Range: All international/Indian Xiaomi & Redmi TV models (excluding China mainland models)
 - Codename: ❌
 
 ## Indian Products
@@ -57,11 +57,23 @@
 
 `L55M6-ES`: Mi TV 5X 55
 
+**Xiaomi Smart TV 5A:**
+
+`L32M7-5AIN`: Xiaomi Smart TV 5A 32
+
+`L40M7-EAIN`: Xiaomi Smart TV 5A 40
+
+`L43M7-EAIN`: Xiaomi Smart TV 5A 43
+
 **Mi QLED TV:**
 
 `L55M6-EQG`: Mi QLED TV Q1 4K 55
 
 `L75M6-ESG`: Mi QLED TV Q1 75
+
+**Xiaomi OLED Vision TV:**
+
+`O55M7-Z2IN`: Xiaomi OLED Vision 55
 
 **Redmi Smart TV:**
 

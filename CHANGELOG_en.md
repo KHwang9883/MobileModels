@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-04-27
+- `mitv_global_en` Add Xiaomi TV 5A series & Xiaomi OLED Vision 55.
 ## 2022-04-20
 - `xiaomi_en` Add Redmi 10 Power (India).
 ## 2022-04-18
