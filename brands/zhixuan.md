@@ -69,6 +69,10 @@
 
 `FIO-BD00` `FIO-TL00`: Hi nova 9 SE 5G
 
+**Hi nova 9z:**
+
+`MNT-BD00`: Hi nova 9z 5G
+
 ## 雷鸟 FFALCON
 
 **雷鸟 FF1:**
