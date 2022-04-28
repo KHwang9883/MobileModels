@@ -20,8 +20,8 @@
 | 诺基亚 (Nokia) | ✅ | [✅](https://www.nokia.com/phones/en_int/opensource) | -- |
 | 努比亚 (nubia) | ✅ | [⏹](https://github.com/ztemt) | -- |
 | 一加 (OnePlus) | ✅ | [✅](https://github.com/OnePlusOSS) | -- |
-| OPPO | [⏹](https://www.oppo.cn/thread-397164526-1) | [⏹](https://github.com/oppo-source) | 仅部分机型支持解锁，需申请并等待 60 天 |
-| 真我 (realme) | [⏹](https://www.realmebbs.com/post-details/1275426081138028544) | [✅](https://github.com/realme-kernel-opensource) | 仅部分机型支持解锁，需申请并等待 60 天 |
+| OPPO | [⏹](https://www.oppo.cn/thread-397164526-1) | [⏹](https://github.com/oppo-source) | 仅部分机型支持解锁，需申请并等待一个月 |
+| 真我 (realme) | [⏹](https://www.realmebbs.com/post-details/1275426081138028544) | [✅](https://github.com/realme-kernel-opensource) | 仅部分机型支持解锁，需申请并等待一个月 |
 | 三星 (Samsung) | ✅ | [✅](https://opensource.samsung.com/main) | 解锁 BL 将导致 KNOX 熔断，部分功能失效 |
 | 索尼 (SONY) | [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) | [✅](https://github.com/sonyxperiadev/kernel) | -- |
 | 坚果 (Smartisan) | ✅ | [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) | 缺少部分机型内核源码 |
