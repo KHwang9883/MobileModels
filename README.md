@@ -33,7 +33,7 @@
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [vivo](brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | ✅ | ❌ | -- |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO/黑鲨手机、小米平板等 | ✅ | ✅ | -- |
-| [zhixuan](brands/zhixuan.md) | 华为智选 |  U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech | ❌ | ❌ | -- |
+| [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech | ❌ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
 ## 更新日志
@@ -46,33 +46,32 @@
 
 ## 项目历史
 
-### 2019 年 7 月
+### 2022 年 4 月
+- 新增 [各大手机厂商 BL 解锁/内核开源情况](misc/bootloader-kernel-source.md) 汇总。
 
+### 2021 年 12 月
+- 新增 [各品牌型号命名规则](misc/naming-rules.md) 汇总。
+
+### 2019 年 7 月
 - 文档版停止维护。
 
 ### 2019 年 4 月
-
 - 文档版迁移至 GitHub 直链下载。
 - 新增英文版。
 
 ### 2019 年 3 月
-
 - 文档版迁移至微云。
 
 ### 2018 年 11 月
-
 - 项目同步至 GitHub。
 
 ### 2018 年 7 月
-
 - 由于小米社区帖子失效，「手机品牌型号汇总」项目公开发布，提供文档版百度网盘下载。
 
 ### 2016 年 3 月
-
 - 小米手机型号汇总发布至 [小米社区](http://bbs.xiaomi.cn/t-12641411)（帖子已失效）。
 
 ### 2016 年 2 月
-
 - 我开始汇总一些国内手机品牌的型号，「手机品牌型号汇总」的雏形诞生。
 
 [![Stargazers over time](https://starchart.cc/KHwang9883/MobileModels.svg)](https://starchart.cc/KHwang9883/MobileModels)
