@@ -187,6 +187,10 @@
 
 `TET-AL00`: HUAWEI Mate X2 4G 全网通版
 
+**HUAWEI Mate Xs 2 (`palau`):**
+
+`PAL-AL00`: HUAWEI Mate Xs 2 4G 全网通版
+
 ## HUAWEI P 系列
 
 **华为 Ascend P1:**
@@ -935,6 +939,12 @@
 
 `HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
 
+**HUAWEI MatePad SE (`agassi3K`):**
+
+`AGS3K-W20`: HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
+
+`AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
+
 **华为畅享平板 (`agassi2`):**
 
 `AGS2-W09`: 华为畅享平板 10.1 英寸 Wi-Fi 版
@@ -947,7 +957,9 @@
 
 `AGS3-W00E`: 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+128GB)
 
-`AGS3-AL00`: 华为畅享平板 2 10.1 英寸 全网通版
+`AGS3K-W00` `AGS3K-W10`: 华为畅享平板 2 10.1 英寸 Wi-Fi 版
+
+`AGS3-AL00` `AGS3K-AL00`: 华为畅享平板 2 10.1 英寸 全网通版
 
 **华为平板 C3 (`kobe`):**
 
@@ -970,6 +982,10 @@
 `BZC-W00`: 华为平板 C3 9.7 英寸 2020 款 Wi-Fi 版
 
 `BZC-AL00`: 华为平板 C3 9.7 英寸 2020 款 全网通版
+
+**华为平板 C3 (2022):**
+
+`BZH-W00`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
 
 **华为平板 C5:**
 
@@ -1005,11 +1021,11 @@
 
 **华为平板 C5e:**
 
-`BZI-W00`: 华为平板 C5e 10.1 英寸 Wi-Fi 版
+`BZI-W00`: 华为平板 C5e 10.1 英寸 2022 款 Wi-Fi 版
 
 **华为平板 C7 (`debussy`):**
 
-`DBY-W09`: 华为平板 C7 11 英寸 Wi-Fi 版
+`DBY-W09`: 华为平板 C7 10.95 英寸 2022 款 Wi-Fi 版
 
 ## 笔记本电脑
 
@@ -1393,6 +1409,12 @@
 
 `HD98SOKA`: 华为智慧屏 V 98 2021 款
 
+**华为智慧屏 V Pro 系列:**
+
+`HD65FRUA`: 华为智慧屏 V 65 Pro
+
+`HD75FRUA`: 华为智慧屏 V 75 Pro
+
 **华为智慧屏 X 系列 (`plato`):**
 
 `PLAT-760`: 华为智慧屏 X65
@@ -1419,9 +1441,11 @@
 
 `HD55DESZ`: 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
 
-`HD55DESY`: 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
+`HD55DESY`: 华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)
 
 `HD55DESV`: 华为智慧屏 SE 55 畅连通话版 4K (2GB+16GB)
+
+`HD55DESS`: 华为智慧屏 SE 55A 会员版 4K (2GB+16GB)
 
 `HD65DESA`: 华为智慧屏 SE 65 (2GB+16GB)
 
@@ -1432,6 +1456,18 @@
 `HD65DESV`: 华为智慧屏 SE 65 畅连通话版 4K (2GB+16GB)
 
 `HD75DESA`: 华为智慧屏 SE 75 (2GB+16GB)
+
+**华为智慧屏 SE 系列 2022 款:**
+
+`HD43KHAA`: 华为智慧屏 SE43 (2022)
+
+`HD55KHAA`: 华为智慧屏 SE55 (2022)
+
+`HD55KHAS`: 华为智慧屏 SE55 Pro (2022)
+
+`HD65KHAA`: 华为智慧屏 SE65 (2022)
+
+`HD65KHAS`: 华为智慧屏 SE65 Pro (2022)
 
 **华为智慧屏 B 系列:**
 

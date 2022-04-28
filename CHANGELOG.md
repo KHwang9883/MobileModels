@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-04-28
+- `huawei_cn` 新增 HUAWEI Mate Xs 2 等。
 ## 2022-04-27
 - `zhixuan` 新增 Hi nova 9z。
 ## 2022-04-25
