@@ -339,6 +339,12 @@
 
 `RMX3301`: realme GT 2 Pro 5G
 
+**realme GT NEO 3:**
+
+`RMX3561`: realme GT NEO 3
+
+`RMX3563`: realme GT NEO 3 150W
+
 ## Tablets
 
 **realme Pad:**

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-04-30
+- `realme_global_en` Add realme GT NEO 3.
 ## 2022-04-27
 - `mitv_global_en` Add Xiaomi TV 5A series & Xiaomi OLED Vision 55.
 ## 2022-04-20
