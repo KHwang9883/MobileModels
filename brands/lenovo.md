@@ -150,6 +150,28 @@
 
 `Lenovo TB-Q706F`: 联想小新 Pad Pro 12.6
 
+**联想 YOGA Tab 3:**
+
+`Lenovo YT3-850F`: 联想 YOGA Tab 3 8” Wi-Fi 版
+
+`Lenovo YT3-850L`: 联想 YOGA Tab 3 8” LTE 版
+
+`Lenovo YT3-X50F`: 联想 YOGA Tab 3 10” Wi-Fi 版
+
+`Lenovo YT3-X50L`: 联想 YOGA Tab 3 10” LTE 版
+
+**联想 YOGA Tab 3 Plus:**
+
+`Lenovo YT-X703F`: 联想 YOGA Tab 3 Plus Wi-Fi 版
+
+`Lenovo YT-X703L`: 联想 YOGA Tab 3 Plus LTE 版
+
+**联想 YOGA Tab 3 PRO:**
+
+`Lenovo YT3-X90F`: 联想 YOGA Tab 3 PRO 10” Wi-Fi 版
+
+`Lenovo YT3-X90L`: 联想 YOGA Tab 3 PRO 10” LTE 版
+
 **联想 YOGA Pad Pro:**
 
 `Lenovo YT-K606F`: 联想 YOGA Pad Pro
@@ -186,10 +208,60 @@
 
 `Lenovo TB-X704N`: 联想 TAB4 Plus 10.1 英寸 LTE 版
 
+**联想 M8:**
+
+`Lenovo TB-8705F`: 联想 M8 8 英寸 Wi-Fi 版
+
+`Lenovo TB-8705N`: 联想 M8 8 英寸 LTE 版
+
+`Lenovo TB-8505F`: 联想 M8 8 英寸 Wi-Fi 版 (商用)
+
+`Lenovo TB-8505N`: 联想 M8 8 英寸 LTE 版 (商用)
+
+**联想 M10 HD:**
+
+`Lenovo TB-X306FC`: 联想 M10 HD 10.1 英寸 Wi-Fi 版
+
+`Lenovo TB-X306NC`: 联想 M10 HD 10.1 英寸 LTE 版
+
+**联想 M10 FHD:**
+
+`Lenovo TB-X605FC`: 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
+
+`Lenovo TB-X605LC`: 联想 M10 FHD-REL 10.1 英寸 LTE 版
+
 **联想 M10 PLUS:**
 
-`Lenovo TB-X606F`: 联想 M10 PLUS
+`Lenovo TB-X606F`: 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
+
+**联想平板 TB-X616F:**
+
+`Lenovo TB-X616F`: 联想平板 TB-X616F 10.3 英寸 Wi-Fi 版
+
+**联想启天 K10:**
+
+`Lenovo TB-X6C6F`: 联想启天 K10 10.3 英寸 Wi-Fi 版
+
+`Lenovo TB-X6C6X`: 联想启天 K10 10.3 英寸 LTE 版
+
+**联想启天 K11:**
+
+`Lenovo TB-J6C6F`: 联想启天 K11 11 英寸 Wi-Fi 版
+
+`Lenovo TB-J6C6X`: 联想启天 K11 11 英寸 LTE 版
+
+**联想启天 K11 Pro 5G:**
+
+`Lenovo TB-J607Z`: 联想启天 K11 Pro 5G
+
+**Lenovo Tab K10:**
+
+`Lenovo TB-X6E6F`: Lenovo Tab K10 10.3 英寸 Wi-Fi 版
+
+`Lenovo TB-X6E6X`: Lenovo Tab K10 10.3 英寸 LTE 版
 
 **Lenovo Tab K11:**
 
-`Lenovo TB-J606N`: Lenovo Tab K11
+`Lenovo TB-J606F`: Lenovo Tab K11 11 英寸 Wi-Fi 版
+
+`Lenovo TB-J606N`: Lenovo Tab K11 11 英寸 LTE 版
