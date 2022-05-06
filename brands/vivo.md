@@ -638,6 +638,10 @@
 
 `V2196A`: iQOO Neo6 5G 全网通版
 
+**iQOO Neo6 SE (`PD2199`):**
+
+`V2199A`: iQOO Neo6 SE 5G 全网通版
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
