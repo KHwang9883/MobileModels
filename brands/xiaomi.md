@@ -856,10 +856,6 @@
 
 `220333QBI`: Redmi 10 印度版 / Redmi 10 Power 印度版
 
-**[`C3QN`] Redmi 10C (`rain`):**
-
-`220333QNY`: Redmi 10C 国际版 (NFC)
-
 **[`C3L2`] Redmi 10A (`dandelion`):**
 
 `220233L2C`: Redmi 10A 全网通版
@@ -1124,7 +1120,7 @@
 
 **[`K19K`] Redmi Note 10T (`lilac`):**
 
-`22031119KR`: Redmi Note 10T 日本版 (SIM Free)
+`22021119KR`: Redmi Note 10T 日本版 (SIM Free)
 
 `A101XM`: Redmi Note 10T 日本版 (SoftBank)
 
