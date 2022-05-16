@@ -888,6 +888,12 @@
 
 `NMH-WFP9HN`: 荣耀 MagicBook 14 2021 R7
 
+**荣耀 MagicBook 14 2022:**
+
+`GLO-F56`: 荣耀 MagicBook 14 2022 i5
+
+`GLO-F76`: 荣耀 MagicBook 14 2022 i7
+
 **荣耀 MagicBook 15 (`bohrB`):**
 
 `Boh-WAH9HN`: 荣耀 MagicBook 15 i5
