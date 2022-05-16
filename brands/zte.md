@@ -80,6 +80,18 @@
 
 `ZTE A2023P`: 中兴 Axon 40 Ultra
 
+**中兴天机 A41:**
+
+`ZTE A2023BH`: 中兴天机 A41
+
+**中兴天机 A41 Ultra:**
+
+`ZTE A2023H`: 中兴天机 A41 Ultra
+
+**中兴天机 A41 Ultra 至尊版:**
+
+`ZTE A2023P`: 中兴天机 A41 Ultra 至尊版
+
 **中兴 S30:**
 
 `ZTE 9030N`: 中兴 S30 5G
