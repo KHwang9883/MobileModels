@@ -118,6 +118,10 @@
 
 `XT2169-2`: moto g71
 
+**moto g71s (`rhodep`):**
+
+`XT2225-2`: moto g71s
+
 **moto edge S30 (`xpeng`):**
 
 `XT2175-2`: moto edge S30

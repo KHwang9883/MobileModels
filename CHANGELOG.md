@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-05-17
+- `motorola` 新增 moto g71s。
 - `oneplus` 新增 一加 Ace 竞速版。
 ## 2022-05-16
 - `honor_cn` 新增 荣耀 MagicBook 14 2022。
