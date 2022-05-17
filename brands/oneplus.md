@@ -226,6 +226,10 @@
 
 `CPH2411`: 一加 10R 国际版
 
+**一加 Ace 竞速版:**
+
+`PGZ110`: 一加 Ace 竞速版 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
@@ -253,6 +257,10 @@
 `BE2013`: OnePlus Nord N100 国际版
 
 `BE2015`: OnePlus Nord N100 Metro 版
+
+**OnePlus Nord N20:**
+
+`GN2200`: OnePlus Nord N20
 
 **OnePlus Nord N200 (`dre9`):**
 
