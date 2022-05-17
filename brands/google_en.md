@@ -29,9 +29,13 @@
 
 `G013A`: Pixel 3
 
+`G013B`: Pixel 3 (Japan)
+
 **Pixel 3 XL (`crosshatch`):**
 
 `G013C`: Pixel 3 XL
+
+`G013D`: Pixel 3 XL (Japan)
 
 **Pixel 3a (`sargo`):**
 
