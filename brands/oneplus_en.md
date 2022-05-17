@@ -221,6 +221,10 @@
 
 `PGKM10`: OnePlus Ace China
 
+**OnePlus Ace Speed:**
+
+`PGZ110`: OnePlus Ace Speed China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
@@ -248,6 +252,10 @@
 `BE2013`: OnePlus Nord N100 Global
 
 `BE2015`: OnePlus Nord N100 Metro
+
+**OnePlus Nord N20:**
+
+`GN2200`: OnePlus Nord N20
 
 **OnePlus Nord N200 (`dre9`):**
 
