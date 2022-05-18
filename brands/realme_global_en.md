@@ -307,9 +307,21 @@
 
 `RMX3286`: realme Narzo 50
 
+`RMX3571`: realme Narzo 50 5G
+
+**realme Narzo 50 Pro:**
+
+`RMX3395`: realme Narzo 50 Pro 5G India
+
+`RMX3396`: realme Narzo 50 Pro 5G Global
+
 **realme Narzo 50A:**
 
 `RMX3430`: realme Narzo 50A
+
+**realme Narzo 50A Prime:**
+
+`RMX3516`: realme Narzo 50A Prime
 
 **realme Narzo 50i:**
 
