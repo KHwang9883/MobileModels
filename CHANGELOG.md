@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-05-19
+- `vivo` 新增 vivo S15 系列 & T2。
 ## 2022-05-17
 - `motorola` 新增 moto g71s。
 - `oneplus` 新增 一加 Ace 竞速版。
