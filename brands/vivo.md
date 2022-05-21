@@ -384,6 +384,10 @@
 
 `V2102A`: vivo Y70t 5G 全网通版
 
+**vivo Y72t (`PD2164`):**
+
+`V2164A`: vivo Y72t 5G 全网通版
+
 **vivo Y73 (`PD1731C`):**
 
 `V1731CA`: vivo Y73 全网通版

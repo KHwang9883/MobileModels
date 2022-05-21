@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-05-21
+- `vivo` 新增 vivo Y72t。
 - `xiaomi` 新增 Redmi Note 11T 系列等。
 ## 2022-05-19
 - `vivo` 新增 vivo S15 系列 & T2。
