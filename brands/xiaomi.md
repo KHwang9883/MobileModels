@@ -856,6 +856,14 @@
 
 `220333QBI`: Redmi 10 印度版 / Redmi 10 Power 印度版
 
+**[`C3QN`] Redmi 10C (`rain`):**
+
+`220333QNY`: Redmi 10C 国际版 (NFC)
+
+**[`C3Q`] Redmi 10C (`wind`):**
+
+`220333QL`: Redmi 10C 拉美版
+
 **[`C3L2`] Redmi 10A (`dandelion`):**
 
 `220233L2C`: Redmi 10A 全网通版
@@ -1116,7 +1124,7 @@
 
 **[`K19J`] Redmi Note 10 JE (`iris`):**
 
-`2104K19J` `XIG02`: Redmi Note 10 JE 日本版 (KDDI)
+`M2104K19J` `XIG02`: Redmi Note 10 JE 日本版 (KDDI)
 
 **[`K19K`] Redmi Note 10T (`lilac`):**
 
@@ -1217,6 +1225,14 @@
 `21091116UC`: Redmi Note 11 Pro+ 全网通版
 
 `21091116UG`: Redmi Note 11 Pro+ 5G 国际版
+
+**[`L16`] Redmi Note 11T Pro (`xaga`):**
+
+`22041216C`: Redmi Note 11T Pro 全网通版
+
+**[`L16U`] Redmi Note 11T Pro+ (`xagapro`):**
+
+`22041216UC`: Redmi Note 11T Pro+ 全网通版
 
 ## Redmi X 系列
 
@@ -1471,6 +1487,12 @@
 **[`C3M2`] POCO C31 (`angelicain`):**
 
 `211033MI`: POCO C31 印度版
+
+**[`C3QP`] POCO C40 (`frost`):**
+
+`220333QPG`: POCO C40 国际版
+
+`220333QPI`: POCO C40 印度版
 
 ## 黑鲨手机
 
