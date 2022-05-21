@@ -833,6 +833,14 @@
 
 `220333QBI`: Redmi 10 India / Redmi 10 Power India
 
+**[`C3QN`] Redmi 10C (`rain`):**
+
+`220333QNY`: Redmi 10C Global (NFC)
+
+**[`C3Q`] Redmi 10C (`wind`):**
+
+`220333QL`: Redmi 10C Latin America
+
 **[`C3L2`] Redmi 10A (`dandelion`):**
 
 `220233L2G`: Redmi 10A Global
@@ -1085,7 +1093,7 @@
 
 **[`K19J`] Redmi Note 10 JE (`iris`):**
 
-`2104K19J` `XIG02`: Redmi Note 10 JE Japan (KDDI)
+`M2104K19J` `XIG02`: Redmi Note 10 JE Japan (KDDI)
 
 **[`K19K`] Redmi Note 10T (`lilac`):**
 
@@ -1186,6 +1194,14 @@
 `21091116UG`: Redmi Note 11 Pro+ 5G Global
 
 `21091116UC`: Redmi Note 11 Pro+ China
+
+**[`L16`] Redmi Note 11T Pro (`xaga`):**
+
+`22041216C`: Redmi Note 11T Pro China
+
+**[`L16U`] Redmi Note 11T Pro+ (`xagapro`):**
+
+`22041216UC`: Redmi Note 11T Pro+ China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -1434,6 +1450,12 @@
 **[`C3M2`] POCO C31 (`angelicain`):**
 
 `211033MI`: POCO C31 India
+
+**[`C3QP`] POCO C40 (`frost`):**
+
+`220333QPG`: POCO C40 Global
+
+`220333QPI`: POCO C40 India
 
 ## Black Shark
 
