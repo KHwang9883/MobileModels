@@ -61,11 +61,15 @@
 
 `RMX2002`: realme 6i India
 
-`RMX2040` `RMX2041` `RMX2042`: realme 6i Global
+`RMX2040`: realme 6i EU
+
+`RMX2041` `RMX2042`: realme 6i Global
 
 **realme 7:**
 
-`RMX2151`: realme 7
+`RMX2151`: realme 7 India
+
+`RMX2155`: realme 7 Global
 
 **realme 7 5G:**
 
@@ -107,23 +111,33 @@
 
 **realme 9i:**
 
-`RMX3491` `RMX3493`: realme 9i
+`RMX3491`: realme 9i India / Global
+
+`RMX3492`: realme 9i
+
+`RMX3493`: realme 9i EU
 
 **realme 9 5G:**
 
-`RMX3388`: realme 9 5G
+`RMX3388`: realme 9 5G India
+
+`RMX3474`: realme 9 5G EU
 
 **realme 9 Pro 5G:**
 
-`RMX3471`: realme 9 Pro 5G
+`RMX3471`: realme 9 Pro 5G India
+
+`RMX3472`: realme 9 Pro 5G Global
 
 **realme 9 Pro+ 5G:**
 
-`RMX3392` `RMX3393`: realme 9 Pro+ 5G
+`RMX3392`: realme 9 Pro+ 5G India
+
+`RMX3393`: realme 9 Pro+ 5G Global
 
 **realme 9 5G Speed Edition:**
 
-`RMX3461`: realme 9 5G Speed Edition
+`RMX3461`: realme 9 5G Speed Edition India
 
 ## X series
 
@@ -133,7 +147,9 @@
 
 **realme XT:**
 
-`RMX1921` `RMX1922`: realme XT
+`RMX1921`: realme XT Global
+
+`RMX1922`: realme XT India
 
 **realme X2:**
 
