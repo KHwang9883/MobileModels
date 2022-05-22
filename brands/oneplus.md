@@ -222,9 +222,9 @@
 
 `PGKM10`: 一加 Ace 全网通版
 
-`CPH2381`: 一加 10R 印度版
-
 `CPH2411`: 一加 10R 国际版
+
+`CPH2423`: 一加 10R 印度版
 
 **一加 Ace 竞速版:**
 
@@ -288,6 +288,6 @@
 
 **OnePlus Nord CE 2 Lite:**
 
-`CPH2401`: OnePlus Nord CE 2 Lite 印度版
+`CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
 `CPH2409`: OnePlus Nord CE 2 Lite 国际版
