@@ -217,7 +217,7 @@
 
 `CPH2411`: OnePlus 10R Global
 
-`CPH2381`: OnePlus 10R India
+`CPH2423`: OnePlus 10R India
 
 `PGKM10`: OnePlus Ace China
 
@@ -283,6 +283,6 @@
 
 **OnePlus Nord CE 2 Lite:**
 
-`CPH2401`: OnePlus Nord CE 2 Lite India
+`CPH2381`: OnePlus Nord CE 2 Lite India
 
 `CPH2409`: OnePlus Nord CE 2 Lite Global
