@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-05-23
+- `honor_cn` 增补部分代号信息。
 - `huawei_cn` 新增 HUAWEI MateBook 系列 2022 款。
 - `oppo_cn` 新增 Reno8 系列, K10x & OPPO Pad Air。
 ## 2022-05-21
