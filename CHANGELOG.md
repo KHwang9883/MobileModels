@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-05-23
+- `huawei_cn` 新增 HUAWEI MateBook 系列 2022 款。
 - `oppo_cn` 新增 Reno8 系列, K10x & OPPO Pad Air。
 ## 2022-05-21
 - `vivo` 新增 vivo Y72t。
