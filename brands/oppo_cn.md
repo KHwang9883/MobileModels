@@ -422,6 +422,10 @@
 
 `PGIM10`: OPPO K10 Pro 全网通版
 
+**OPPO K10x:**
+
+`PGGM10`: OPPO K10x 全网通版
+
 ## 平板电脑
 
 **OPPO Pad:**
