@@ -136,6 +136,8 @@
 
 `Lenovo TB-J606F`: 联想小新 Pad
 
+`TB128FU`: 联想小新 Pad 2022
+
 **联想小新 Pad Plus:**
 
 `Lenovo TB-J607F`: 联想小新 Pad Plus
