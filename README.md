@@ -31,7 +31,7 @@
 | [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | [海外机型单独汇总](brands/realme_global_en.md) |
 | [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型 | ✅ | ⏹ | [海外机型单独汇总](brands/samsung_global_en.md)；[其他早期型号参阅此处](misc/early-samsung-models.md) |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
-| [sony](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
+| [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo](brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | ✅ | ❌ | -- |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO/黑鲨手机、小米平板等 | ✅ | ✅ | -- |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech | ❌ | ❌ | -- |
