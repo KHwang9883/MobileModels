@@ -4,6 +4,7 @@
 - `huawei_cn` 新增 HUAWEI MateBook 系列 2022 款。
 - `lenovo` 新增 小新 Pad 2022。
 - `oppo_cn` 新增 Reno8 系列, K10x & OPPO Pad Air。
+- `sony_cn` 新增 索尼手机型号汇总。
 ## 2022-05-21
 - `vivo` 新增 vivo Y72t。
 - `xiaomi` 新增 Redmi Note 11T 系列等。
