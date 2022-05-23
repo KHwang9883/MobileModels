@@ -164,6 +164,18 @@
 
 `PFCM00`: OPPO Reno7 SE 全网通版
 
+**OPPO Reno8:**
+
+`PGBM10`: OPPO Reno8 全网通版
+
+**OPPO Reno8 Pro:**
+
+`PGAM10`: OPPO Reno8 Pro 全网通版
+
+**OPPO Reno8 Pro+:**
+
+`PFZM10`: OPPO Reno8 Pro+ 全网通版
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -415,6 +427,10 @@
 **OPPO Pad:**
 
 `OPD2101`: OPPO Pad
+
+**OPPO Pad Air:**
+
+`OPD2102`: OPPO Pad Air
 
 ## Watch 系列
 

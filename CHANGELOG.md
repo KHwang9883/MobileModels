@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-05-23
+- `oppo_cn` 新增 Reno8 系列 & OPPO Pad Air。
 ## 2022-05-21
 - `vivo` 新增 vivo Y72t。
 - `xiaomi` 新增 Redmi Note 11T 系列等。
