@@ -119,7 +119,7 @@
 
 `LLD-L31` `LLD-AL10`: HONOR 9 Lite
 
-**HONOR 9N (`Lelandp`):**
+**HONOR 9N (`LelandP`):**
 
 `LLD-AL20`: HONOR 9N
 
