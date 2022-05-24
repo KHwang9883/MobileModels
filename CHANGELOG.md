@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-05-24
+- `xiaomi` 新增 Redmi Note 11SE。
 ## 2022-05-23
 - `honor_cn` 增补部分代号信息。
 - `huawei_cn` 新增 HUAWEI MateBook 系列 2022 款。

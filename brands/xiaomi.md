@@ -1110,9 +1110,9 @@
 
 `M2101K7BL`: Redmi Note 10S 拉美版
 
-**[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellia`):**
+**[`K19`] Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE (`camellia`):**
 
-`M2103K19C`: Redmi Note 10 5G 全网通版
+`M2103K19C`: Redmi Note 10 5G 全网通版 / Redmi Note 11SE 全网通版
 
 `M2103K19I`: Redmi Note 10T 5G 印度版
 
