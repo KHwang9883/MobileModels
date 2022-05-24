@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-05-24
+- `xiaomi_en` Add Redmi Note 11SE (China).
 ## 2022-05-21
 - `xiaomi_en` Add Redmi 10C, Note 11T Pro & POCO C40.
 ## 2022-05-18

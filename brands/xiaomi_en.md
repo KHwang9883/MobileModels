@@ -1085,11 +1085,11 @@
 
 `M2103K19Y`: Redmi Note 10T Global
 
-**[`K19`] Redmi Note 10 5G / Redmi Note 10T (`camellia`):**
+**[`K19`] Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE (`camellia`):**
 
 `M2103K19I`: Redmi Note 10T 5G India
 
-`M2103K19C`: Redmi Note 10 5G China
+`M2103K19C`: Redmi Note 10 5G China / Redmi Note 11SE China
 
 **[`K19J`] Redmi Note 10 JE (`iris`):**
 
