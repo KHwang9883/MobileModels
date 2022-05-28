@@ -324,6 +324,10 @@
 
 `V2166A`: vivo Y33s 5G 全网通版
 
+**vivo Y33e (`PD2166`):**
+
+`V2166A`: vivo Y33e 5G 全网通版
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50 全网通版
