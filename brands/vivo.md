@@ -468,6 +468,10 @@
 
 `V2199GA`: vivo T2 5G 全网通版
 
+**vivo T2x (`PD2188`):**
+
+`V2188A`: vivo T2x 5G 全网通版
+
 ## vivo 平板电脑
 
 **vivo Pad (`PA2170`):**
