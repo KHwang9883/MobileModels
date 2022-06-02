@@ -717,3 +717,7 @@
 **iQOO U5x (`PD2180G`):**
 
 `V2180GA`: iQOO U5x 全网通版
+
+**iQOO U5e (`PD2197`):**
+
+`V2197A`: iQOO U5e 5G 全网通版
