@@ -88,3 +88,7 @@
 **TD Tech M40:**
 
 `TDT-MA01`: TD Tech M40
+
+**TD Tech P50:**
+
+`AVA-PA00`: TD Tech P50
