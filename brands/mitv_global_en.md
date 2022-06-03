@@ -163,6 +163,14 @@
 
 `L55M6-ESG`: Xiaomi TV Q1E 55
 
+**Xiaomi Fire TV F2:**
+
+`L43M7-FVEU`: Xiaomi Fire TV F2 43
+
+`L50M7-FVEU`: Xiaomi Fire TV F2 50
+
+`L55M7-FVEU`: Xiaomi Fire TV F2 55
+
 **Mi Box:**
 
 `MDZ-16-AA` `MDZ-16-AB`: Mi Box

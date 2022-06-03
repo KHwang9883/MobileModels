@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-06-03
+- `mitv_global_en` Add Xiaomi Fire TV F2 series.
 ## 2022-05-24
 - `xiaomi_en` Add Redmi Note 11SE (China).
 ## 2022-05-21
