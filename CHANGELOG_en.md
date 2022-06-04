@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-06-04
+- `oppo_global_en` Add several new models.
 ## 2022-06-03
 - `mitv_global_en` Add Xiaomi Fire TV F2 series.
 ## 2022-05-24
