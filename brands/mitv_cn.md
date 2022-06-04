@@ -338,6 +338,14 @@
 
 `L75R8-X`: Redmi 智能电视 X75 2022 款
 
+**Redmi AI 智能电视 X:**
+
+`L55R9-XT`: Redmi AI 智能电视 X55
+
+`L65R9-XT`: Redmi AI 智能电视 X65
+
+`L75R9-XT`: Redmi AI 智能电视 X75
+
 **Redmi 智能电视 MAX:**
 
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸

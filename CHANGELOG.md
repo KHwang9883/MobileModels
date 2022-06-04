@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-06-04
+- `mitv_cn` 新增 Redmi AI 智能电视 X 系列。
 ## 2022-06-02
 - `vivo` 新增 iQOO U5e。
 - `zhixuan` 新增 TD Tech P50。
