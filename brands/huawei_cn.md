@@ -789,6 +789,10 @@
 
 `MLD-AL10`: 华为畅享 20e 全网通版 (Helio P35)
 
+**华为畅享 50 (`Mega`):**
+
+`MGA-AN00`: 华为畅享 50 全网通版
+
 ## 平板电脑
 
 **华为 MediaPad M1:**
@@ -929,7 +933,7 @@
 
 **HUAWEI MatePad (2022) (`Bach4`):**
 
-`BAH4-W09`: HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
+`BAH4-W09` `BAH4-W29`: HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
 
 `BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 
