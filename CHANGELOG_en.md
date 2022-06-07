@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-06-07
+- `realme_global_en` Add realme GT NEO 3T.
 ## 2022-06-04
 - `oppo_global_en` Add several new models.
 ## 2022-06-03
