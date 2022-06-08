@@ -370,7 +370,7 @@
 
 **OPPO A96:**
 
-`PFUM10`: OPPO A96 全网通版
+`PFUM10` `PHA120`: OPPO A96 全网通版
 
 ## K 系列
 
