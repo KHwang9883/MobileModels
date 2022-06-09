@@ -221,9 +221,9 @@
 
 `PGKM10`: OnePlus Ace China
 
-**OnePlus Ace Speed:**
+**OnePlus Ace Race (`qqcandy`):**
 
-`PGZ110`: OnePlus Ace Speed China
+`PGZ110`: OnePlus Ace Race China
 
 **OnePlus Nord (`avicii`):**
 
@@ -281,7 +281,7 @@
 
 `IV2201`: OnePlus Nord CE 2 India
 
-**OnePlus Nord CE 2 Lite:**
+**OnePlus Nord CE 2 Lite (`oscar`):**
 
 `CPH2381`: OnePlus Nord CE 2 Lite India
 
