@@ -1432,6 +1432,14 @@
 
 `2201116PI`: POCO X4 Pro 5G 印度版
 
+**[`L16`] POCO X4 GT (`xaga`):**
+
+`22041216G`: POCO X4 GT 国际版
+
+**[`L16U`] POCO X4 GT Pro (`xagapro`):**
+
+`22041216UG`: POCO X4 GT Pro 国际版
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 印度版
@@ -1558,6 +1566,8 @@
 
 `SHARK PAR-A0`: 黑鲨 5 全网通版
 
+`SHARK PAR-H0`: 黑鲨 5 国际版
+
 **黑鲨 5 RS (`kaiser`):**
 
 `SHARK KSR-A0`: 黑鲨 5 RS 全网通版
@@ -1565,6 +1575,8 @@
 **黑鲨 5 Pro (`katyusha`):**
 
 `SHARK KTUS-A0`: 黑鲨 5 Pro 全网通版
+
+`SHARK KTUS-H0`: 黑鲨 5 Pro 国际版
 
 ## 其他系列
 
