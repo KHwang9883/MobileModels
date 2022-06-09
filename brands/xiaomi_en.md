@@ -1395,6 +1395,14 @@
 
 `2201116PI`: POCO X4 Pro 5G India
 
+**[`L16`] POCO X4 GT (`xaga`):**
+
+`22041216G`: POCO X4 GT Global
+
+**[`L16U`] POCO X4 GT Pro (`xagapro`):**
+
+`22041216UG`: POCO X4 GT Pro Global
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 India
@@ -1519,6 +1527,8 @@
 
 **Black Shark 5 (`patriot`):**
 
+`SHARK PAR-H0`: Black Shark 5 Global
+
 `SHARK PAR-A0`: Black Shark 5 China
 
 **Black Shark 5 RS (`kaiser`):**
@@ -1526,6 +1536,8 @@
 `SHARK KSR-A0`: Black Shark 5 RS China
 
 **Black Shark 5 Pro (`katyusha`):**
+
+`SHARK KTUS-H0`: Black Shark 5 Pro Global
 
 `SHARK KTUS-A0`: Black Shark 5 Pro China
 

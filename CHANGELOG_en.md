@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-06-10
+- `xiaomi_en` Add Black Shark 5 series & POCO X4 GT.
 ## 2022-06-07
 - `realme_global_en` Add realme GT NEO 3T.
 ## 2022-06-04
