@@ -226,7 +226,7 @@
 
 `CPH2423`: 一加 10R 印度版
 
-**一加 Ace 竞速版:**
+**一加 Ace 竞速版 (`qqcandy`):**
 
 `PGZ110`: 一加 Ace 竞速版 全网通版
 
@@ -286,7 +286,7 @@
 
 `IV2201`: OnePlus Nord CE 2 印度版
 
-**OnePlus Nord CE 2 Lite:**
+**OnePlus Nord CE 2 Lite (`oscar`):**
 
 `CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
