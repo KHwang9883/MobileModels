@@ -33,9 +33,9 @@
 
 **OnePlus 3T (`oneplus3t`):**
 
-`ONEPLUS A3003`: OnePlus 3T Global
-
 `ONEPLUS A3010`: OnePlus 3T China
+
+`ONEPLUS A3013`: OnePlus 3T Global
 
 **OnePlus 5 (`cheeseburger`):**
 
@@ -215,11 +215,11 @@
 
 **OnePlus 10R / OnePlus Ace (`pickle`):**
 
-`CPH2411`: OnePlus 10R Global
-
-`CPH2423`: OnePlus 10R India
-
 `PGKM10`: OnePlus Ace China
+
+`CPH2411`: OnePlus 10R 150W India
+
+`CPH2423`: OnePlus 10R 80W India
 
 **OnePlus Ace Race (`qqcandy`):**
 
@@ -237,7 +237,7 @@
 
 `BE2026`: OnePlus Nord N10 North America
 
-`BE2029`: OnePlus Nord N10 Global
+`BE2029`: OnePlus Nord N10 EU / Global
 
 **OnePlus Nord N10 (`billie8t`):**
 
@@ -285,4 +285,4 @@
 
 `CPH2381`: OnePlus Nord CE 2 Lite India
 
-`CPH2409`: OnePlus Nord CE 2 Lite Global
+`CPH2409`: OnePlus Nord CE 2 Lite EU / Global
