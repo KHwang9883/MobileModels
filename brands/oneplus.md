@@ -40,7 +40,7 @@
 
 `ONEPLUS A3010`: OnePlus 3T 全网通版
 
-`ONEPLUS A3003`: OnePlus 3T 国际版
+`ONEPLUS A3013`: OnePlus 3T 国际版
 
 **OnePlus 5 (`cheeseburger`):**
 
@@ -222,9 +222,9 @@
 
 `PGKM10`: 一加 Ace 全网通版
 
-`CPH2411`: 一加 10R 国际版
+`CPH2411`: 一加 10R 150W 印度版
 
-`CPH2423`: 一加 10R 印度版
+`CPH2423`: 一加 10R 80W 印度版
 
 **一加 Ace 竞速版 (`qqcandy`):**
 
@@ -242,7 +242,7 @@
 
 `BE2026`: OnePlus Nord N10 北美版
 
-`BE2029`: OnePlus Nord N10 国际版
+`BE2029`: OnePlus Nord N10 欧洲版/国际版
 
 **OnePlus Nord N10 (`billie8t`):**
 
@@ -290,4 +290,4 @@
 
 `CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
-`CPH2409`: OnePlus Nord CE 2 Lite 国际版
+`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
