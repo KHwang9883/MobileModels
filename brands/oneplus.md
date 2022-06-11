@@ -40,7 +40,7 @@
 
 `ONEPLUS A3010`: OnePlus 3T 全网通版
 
-`ONEPLUS A3003`: OnePlus 3T 国际版
+`ONEPLUS A3013`: OnePlus 3T 国际版
 
 **OnePlus 5 (`cheeseburger`):**
 
