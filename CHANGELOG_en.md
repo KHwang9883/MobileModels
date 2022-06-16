@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-06-16
+- `xiaomi_en` Add POCO F4 (India).
 ## 2022-06-10
 - `xiaomi_en` Add Black Shark 5 series & POCO X4 GT.
 ## 2022-06-07
