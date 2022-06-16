@@ -1388,9 +1388,7 @@
 
 `22021211RG`: POCO F4 国际版
 
-**[`L11`] POCO F4 Pro (`matisse`):**
-
-`22011211G`: POCO F4 Pro 国际版
+`22021211RI`: POCO F4 印度版
 
 **[`L10`] POGO F4 GT (`ingres`):**
 
