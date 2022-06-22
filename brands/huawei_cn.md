@@ -521,7 +521,7 @@
 
 `RTE-AL00`: HUAWEI nova 9 Pro 4G 全网通版
 
-**HUAWEI nova 9 SE (`JuliaN`):**
+**HUAWEI nova 9 SE (`JuliaQN`):**
 
 `JLN-AL00`: HUAWEI nova 9 SE 4G 全网通版
 
