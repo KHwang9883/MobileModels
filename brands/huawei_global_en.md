@@ -267,6 +267,10 @@
 
 `STK-L21`: HUAWEI P smart Pro Dual SIM
 
+**HUAWEI P smart S (`Aquaman`):**
+
+`AQM-LX1`: HUAWEI P smart S
+
 **HUAWEI P smart 2020 (`Potter`):**
 
 `POT-LX1A`: HUAWEI P smart 2020 Dual SIM
@@ -348,6 +352,10 @@
 **HUAWEI nova 9 (`NottinghamN`):**
 
 `NAM-L09`: HUAWEI nova 9
+
+**HUAWEI nova 9 SE (`JuliaQN`):**
+
+`JLN-LX1` `JLN-LX3`: HUAWEI nova 9 SE
 
 **HUAWEI nova Y60 (`Wukong`):**
 
