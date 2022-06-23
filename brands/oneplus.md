@@ -260,7 +260,7 @@
 
 **OnePlus Nord N20:**
 
-`GN2200`: OnePlus Nord N20
+`GN2200` `CPH2459`: OnePlus Nord N20
 
 **OnePlus Nord N200 (`dre9`):**
 
@@ -281,6 +281,12 @@
 `DN2101`: OnePlus Nord 2 印度版
 
 `DN2103`: OnePlus Nord 2 欧洲版
+
+**OnePlus Nord 2T:**
+
+`CPH2399`: OnePlus Nord 2T 国际版
+
+`CPH2401`: OnePlus Nord 2T 印度版
 
 **OnePlus Nord CE 2 (`ivan`):**
 
