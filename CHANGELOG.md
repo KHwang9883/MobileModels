@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-06-23
+- `huawei_cn` 新增 华为畅享 50 Pro。
 - `oneplus` 新增 OnePlus Nord 2T。
 ## 2022-06-18
 - `realme_cn` 新增 真我 GT2 大师探索版 & Q5x。
