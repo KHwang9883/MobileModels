@@ -255,7 +255,7 @@
 
 **OnePlus Nord N20:**
 
-`GN2200`: OnePlus Nord N20
+`GN2200` `CPH2459`: OnePlus Nord N20
 
 **OnePlus Nord N200 (`dre9`):**
 
@@ -276,6 +276,12 @@
 `DN2101`: OnePlus Nord 2 5G India
 
 `DN2103`: OnePlus Nord 2 5G EU
+
+**OnePlus Nord 2T:**
+
+`CPH2399`: OnePlus Nord 2T Global
+
+`CPH2401`: OnePlus Nord 2T India
 
 **OnePlus Nord CE 2 (`ivan`):**
 

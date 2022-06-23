@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2022-06-23
 - `huawei_global_en` Add HUAWEI nova 9 SE.
+- `oneplus_en` Add OnePlus Nord 2T.
 ## 2022-06-16
 - `xiaomi_en` Add POCO F4 (India).
 ## 2022-06-10
