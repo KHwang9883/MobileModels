@@ -123,6 +123,10 @@
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM
 
+**HUAWEI Mate Xs 2 (`Palau`):**
+
+`PAL-LX9` `PAL-L29`: HUAWEI Mate Xs 2
+
 ## HUAWEI P Series
 
 **HUAWEI Ascend P6:**
@@ -241,7 +245,7 @@
 
 **HUAWEI P50 Pocket (`Bali`):**
 
-`BAL-L49`: HUAWEI P50 Pocket
+`BAL-L49` `BAL-LX9`: HUAWEI P50 Pocket
 
 **HUAWEI P smart (`Figo`):**
 
@@ -347,11 +351,11 @@
 
 **HUAWEI nova 8i (`Newton`):**
 
-`NEN-L22`: HUAWEI nova 8i
+`NEN-LX1` `NEN-L22` `NEN-LX3`: HUAWEI nova 8i
 
 **HUAWEI nova 9 (`NottinghamN`):**
 
-`NAM-L09`: HUAWEI nova 9
+`NAM-LX9`: HUAWEI nova 9
 
 **HUAWEI nova 9 SE (`JuliaQN`):**
 
@@ -360,6 +364,14 @@
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
+
+**HUAWEI nova Y70 (`Mega`):**
+
+`MGA-LX9`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus
+
+**HUAWEI nova Y90:**
+
+`CTR-LX1` `CTR-LX2` `CTR-LX3`: HUAWEI nova Y60
 
 ## HUAWEI Y Series
 
