@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-06-26
+- `zte` 新增 中兴畅行 30。
 ## 2022-06-23
 - `huawei_cn` 新增 华为畅享 50 Pro。
 - `oneplus` 新增 OnePlus Nord 2T。
