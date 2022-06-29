@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-06-30
+- `oppo_global_en` Add several new models.
 ## 2022-06-23
 - `huawei_global_en` Add HUAWEI Mate Xs 2, nova 9 SE, Y70/Y90.
 - `oneplus_en` Add OnePlus Nord 2T.

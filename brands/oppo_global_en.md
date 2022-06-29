@@ -167,6 +167,8 @@
 
 **OPPO Reno7:**
 
+`CPH2363`: OPPO Reno7
+
 `CPH2371`: OPPO Reno7 5G
 
 **OPPO Reno7 Pro:**
@@ -176,6 +178,14 @@
 **OPPO Reno7 Z:**
 
 `CPH2343`: OPPO Reno7 Z 5G
+
+**OPPO Reno7 A:**
+
+`CPH2353`: OPPO Reno7 A
+
+`A201OP`: OPPO Reno7 A (SoftBank)
+
+`OPG04`: OPPO Reno7 A (KDDI)
 
 ## F series
 
@@ -229,7 +239,7 @@
 
 **OPPO F21 Pro:**
 
-`CPH2341`: OPPO F21 Pro 5G
+`CPH2341` `CPH2363`: OPPO F21 Pro 5G
 
 ## R series
 
@@ -378,6 +388,12 @@
 `CPH2309`: OPPO A55s 5G
 
 `A102OP`: OPPO A55s 5G (SoftBank)
+
+**OPPO A57:**
+
+`CPH1701`: OPPO A57 (2016)
+
+`CPH2387`: OPPO A57
 
 **OPPO A59:**
 
