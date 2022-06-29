@@ -265,11 +265,11 @@
 
 **realme C31:**
 
-`RMX3501`: realme C31
+`RMX3501` `RMX3502` `RMX3503`: realme C31
 
 **realme C35:**
 
-`RMX3511`: realme C35
+`RMX3511` `RMX3512` `RMX3513`: realme C35
 
 ## U series
 
@@ -337,7 +337,7 @@
 
 **realme Narzo 50A Prime:**
 
-`RMX3516`: realme Narzo 50A Prime
+`RMX3516` `RMX3517`: realme Narzo 50A Prime
 
 **realme Narzo 50i:**
 
