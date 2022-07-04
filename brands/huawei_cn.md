@@ -525,6 +525,14 @@
 
 `JLN-AL00`: HUAWEI nova 9 SE 4G 全网通版
 
+**HUAWEI nova 10 (`Nicole`):**
+
+`NCO-AL00`: HUAWEI nova 10 4G 全网通版
+
+**HUAWEI nova 10 Pro (`Gloria`):**
+
+`GLA-AL00`: HUAWEI nova 10 Pro 4G 全网通版
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
