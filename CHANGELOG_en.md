@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-07-04
+- `xiaomi_en` Add Xiaomi 12S series & Xiaomi 12 Lite.
 ## 2022-06-30
 - `oppo_global_en` Add several new models.
 - `realme_global_en` Add several new models.

@@ -319,6 +319,28 @@
 
 `2201122C`: Xiaomi 12 Pro China
 
+**[`L2M`] Xiaomi 12 Pro Dimensity (`daumier`):**
+
+`2207122MC`: Xiaomi 12 Pro Dimensity China
+
+**[`L9`] Xiaomi 12 Lite (`taoyao`):**
+
+`2203129G`: Xiaomi 12 Lite Global
+
+`2203129I`: Xiaomi 12 Lite India
+
+**[`L3S`] Xiaomi 12S (`mayfly`):**
+
+`2206123SC`: Xiaomi 12S China
+
+**[`L2S`] Xiaomi 12S Pro (`unicorn`):**
+
+`2206122SC`: Xiaomi 12S Pro China
+
+**[`L1`] Xiaomi 12S Ultra (`thor`):**
+
+`2203121C`: Xiaomi 12S Ultra China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
