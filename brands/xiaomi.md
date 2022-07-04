@@ -322,6 +322,28 @@
 
 `2201122G`: Xiaomi 12 Pro 国际版
 
+**[`L2M`] Xiaomi 12 Pro 天玑版 (`daumier`):**
+
+`2207122MC`: Xiaomi 12 Pro 天玑版 全网通版
+
+**[`L9`] Xiaomi 12 Lite (`taoyao`):**
+
+`2203129G`: Xiaomi 12 Lite 国际版
+
+`2203129I`: Xiaomi 12 Lite 印度版
+
+**[`L3S`] Xiaomi 12S (`mayfly`):**
+
+`2206123SC`: Xiaomi 12S 全网通版
+
+**[`L2S`] Xiaomi 12S Pro (`unicorn`):**
+
+`2206122SC`: Xiaomi 12S Pro 全网通版
+
+**[`L1`] Xiaomi 12S Ultra (`thor`):**
+
+`2203121C`: Xiaomi 12S Ultra 全网通版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
