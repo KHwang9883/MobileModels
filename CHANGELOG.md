@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-07-05
+- `vivo` 新增 vivo Y77 5G。
 ## 2022-07-04
 - `huawei_cn` 新增 nova 10 系列。
 - `xiaomi` 新增 Xiaomi 12S 系列。
