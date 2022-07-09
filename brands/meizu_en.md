@@ -1,137 +1,137 @@
-# Meizu Mobile Phone Models
+# MEIZU Mobile Phone Models
 
 - Range: All models
 - Codename: ✅
 
-## Meizu Phones
+## MEIZU Phones
 
-**Meizu M8:**
+**MEIZU M8:**
 
-`M8`: Meizu M8
+`M8`: MEIZU M8
 
-`M8SE`: Meizu M8 SE
+`M8SE`: MEIZU M8 SE
 
-**Meizu M9:**
+**MEIZU M9:**
 
-`M9`: Meizu M9
+`M9`: MEIZU M9
 
-**Meizu MX:**
+**MEIZU MX:**
 
-`M030`: Meizu MX (Dual Core)
+`M030`: MEIZU MX (Dual Core)
 
-`M031`: Meizu MX (Dual Core) (New)
+`M031`: MEIZU MX (Dual Core) (New)
 
-**Meizu MX (Quad Core) (`m03`):**
+**MEIZU MX (Quad Core) (`m03`):**
 
-`M032`: Meizu MX (Quad Core)
+`M032`: MEIZU MX (Quad Core)
 
-**Meizu MX2 (`m04`):**
+**MEIZU MX2 (`m04`):**
 
-`M040`: Meizu MX2 China Unicom
+`M040`: MEIZU MX2 China Unicom
 
-`M045`: Meizu MX2 China Mobile
+`M045`: MEIZU MX2 China Mobile
 
-**Meizu MX3 (`m35`):**
+**MEIZU MX3 (`m35`):**
 
-`M351`: Meizu MX3 16GB China Unicom
+`M351`: MEIZU MX3 16GB China Unicom
 
-`M353`: Meizu MX3 32GB / 64GB China Unicom 
+`M353`: MEIZU MX3 32GB / 64GB China Unicom 
 
-`M355`: Meizu MX3 16GB China Mobile
+`M355`: MEIZU MX3 16GB China Mobile
 
-`M356`: Meizu MX3 32GB / 64GB China Mobile
+`M356`: MEIZU MX3 32GB / 64GB China Mobile
 
-**Meizu MX4 (`m75`):**
+**MEIZU MX4 (`m75`):**
 
-`M460H`: Meizu MX4 Global
+`M460H`: MEIZU MX4 Global
 
-`M460`: Meizu MX4 China Mobile 
+`M460`: MEIZU MX4 China Mobile 
 
-`M460A`: Meizu MX4 YunOS Edition
+`M460A`: MEIZU MX4 YunOS Edition
 
-`M461`: Meizu MX4 China Unicom
+`M461`: MEIZU MX4 China Unicom
 
-**Meizu MX4 Pro (`m76`):**
+**MEIZU MX4 Pro (`m76`):**
 
-`M462H`: Meizu MX4 Pro Global
+`M462H`: MEIZU MX4 Pro Global
 
-`M462`: Meizu MX4 Pro China Mobile 
+`M462`: MEIZU MX4 Pro China Mobile 
 
-`M462U`: Meizu MX4 Pro China Unicom
+`M462U`: MEIZU MX4 Pro China Unicom
 
-**Meizu MX5 (`m85`):**
+**MEIZU MX5 (`m85`):**
 
-`M575H`: Meizu MX5 Global
+`M575H`: MEIZU MX5 Global
 
-`M575`: Meizu MX5 China
+`M575`: MEIZU MX5 China
 
-`M575M`: Meizu MX5 China Mobile
+`M575M`: MEIZU MX5 China Mobile
 
-`M575U`: Meizu MX5 China Unicom
+`M575U`: MEIZU MX5 China Unicom
 
-**Meizu MX6 (`m95`):**
+**MEIZU MX6 (`m95`):**
 
-`M685H`: Meizu MX6 Global
+`M685H`: MEIZU MX6 Global
 
-`M685Q`: Meizu MX6 China
+`M685Q`: MEIZU MX6 China
 
-`M685M`: Meizu MX6 China Mobile
+`M685M`: MEIZU MX6 China Mobile
 
-`M685U`: Meizu MX6 China Unicom
+`M685U`: MEIZU MX6 China Unicom
 
-`M685C`: Meizu MX6 China Telecom
+`M685C`: MEIZU MX6 China Telecom
 
-**Meizu PRO 5 (`m86`):**
+**MEIZU PRO 5 (`m86`):**
 
-`M576H`: Meizu PRO 5 Global
+`M576H`: MEIZU PRO 5 Global
 
-`M576`: Meizu PRO 5 China
+`M576`: MEIZU PRO 5 China
 
-`M576U`: Meizu PRO 5 China Unicom
+`M576U`: MEIZU PRO 5 China Unicom
 
-**Meizu PRO 6 (`m80`):**
+**MEIZU PRO 6 (`m80`):**
 
-`M570H`: Meizu PRO 6 Global
+`M570H`: MEIZU PRO 6 Global
 
-`M570Q`: Meizu PRO 6 China
+`M570Q`: MEIZU PRO 6 China
 
-`M570M`: Meizu PRO 6 China Mobile
+`M570M`: MEIZU PRO 6 China Mobile
 
-`M570C`: Meizu PRO 6 China Telecom
+`M570C`: MEIZU PRO 6 China Telecom
 
-**Meizu PRO 6s (`m80`):**
+**MEIZU PRO 6s (`m80`):**
 
-`M570Q-S`: Meizu PRO 6s
+`M570Q-S`: MEIZU PRO 6s
 
-**Meizu PRO 6 Plus (`m96`):**
+**MEIZU PRO 6 Plus (`m96`):**
 
-`M686H`: Meizu PRO 6 Plus Global
+`M686H`: MEIZU PRO 6 Plus Global
 
-`M686`: Meizu PRO 6 Plus 64GB China
+`M686`: MEIZU PRO 6 Plus 64GB China
 
-`M686G`: Meizu PRO 6 Plus 128GB China
+`M686G`: MEIZU PRO 6 Plus 128GB China
 
-**Meizu PRO 7 (`m1792L`):**
+**MEIZU PRO 7 (`m1792L`):**
 
-`M792H`: Meizu PRO 7 Global
+`M792H`: MEIZU PRO 7 Global
 
-`M792Q-L`: Meizu PRO 7 64GB China
+`M792Q-L`: MEIZU PRO 7 64GB China
 
-`M792M-L`: Meizu PRO 7 64GB China Mobile
+`M792M-L`: MEIZU PRO 7 64GB China Mobile
 
-`M792C-L`: Meizu PRO 7 64GB China Telecom 
+`M792C-L`: MEIZU PRO 7 64GB China Telecom 
 
-**Meizu PRO 7 (`m1792`):**
+**MEIZU PRO 7 (`m1792`):**
 
-`M792Q`: Meizu PRO 7 128GB China
+`M792Q`: MEIZU PRO 7 128GB China
 
-`M792C`: Meizu PRO 7 128GB China Telecom
+`M792C`: MEIZU PRO 7 128GB China Telecom
 
-**Meizu PRO 7 Plus (`m1793`):**
+**MEIZU PRO 7 Plus (`m1793`):**
 
-`M793H`: Meizu PRO 7 Plus Global
+`M793H`: MEIZU PRO 7 Plus Global
 
-`M793Q`: Meizu PRO 7 Plus China
+`M793Q`: MEIZU PRO 7 Plus China
 
 **MEIZU 15 (`m1881`):**
 
@@ -153,41 +153,41 @@
 
 `M871Q`: MEIZU M15 China
 
-**Meizu 16th (`m1882`):**
+**MEIZU 16th (`m1882`):**
 
-`M882H`: Meizu 16th Global
+`M882H`: MEIZU 16th Global
 
-`M882Q`: Meizu 16th China
+`M882Q`: MEIZU 16th China
 
-**Meizu 16th Plus (`m1892`):**
+**MEIZU 16th Plus (`m1892`):**
 
-`M892Q`: Meizu 16th Plus China
+`M892Q`: MEIZU 16th Plus China
 
-**Meizu 16 (`m1872`):**
+**MEIZU 16 (`m1872`):**
 
-`M872H`: Meizu 16 Global
+`M872H`: MEIZU 16 Global
 
-`M872Q`: Meizu 16 X China
+`M872Q`: MEIZU 16 X China
 
-**Meizu 16s (`m1971`):**
+**MEIZU 16s (`m1971`):**
 
-`M971H`: Meizu 16s Global
+`M971H`: MEIZU 16s Global
 
-`M971Q`: Meizu 16s China
+`M971Q`: MEIZU 16s China
 
-**Meizu 16Xs (`m1926`):**
+**MEIZU 16Xs (`m1926`):**
 
-`M926H`: Meizu 16Xs Global
+`M926H`: MEIZU 16Xs Global
 
-`M926Q`: Meizu 16Xs China
+`M926Q`: MEIZU 16Xs China
 
-**Meizu 16s Pro (`m1973`):**
+**MEIZU 16s Pro (`m1973`):**
 
-`M973Q`: Meizu 16s Pro China
+`M973Q`: MEIZU 16s Pro China
 
-**Meizu 16T (`m1928`):**
+**MEIZU 16T (`m1928`):**
 
-`M928Q`: Meizu 16T China
+`M928Q`: MEIZU 16T China
 
 **MEIZU 17 (`m2081`):**
 
@@ -219,262 +219,270 @@
 
 **MEIZU 18s Pro (`m2192`):**
 
-`M192Q`: MEIZU 18s
+`M192Q`: MEIZU 18s Pro
 
-**Meizu m1 note (`m71`):**
+**MEIZU m1 note (`m71`):**
 
-`M463H`: Meizu m1 note Global
+`M463H`: MEIZU m1 note Global
 
-`M463M`: Meizu m1 note China Mobile
+`M463M`: MEIZU m1 note China Mobile
 
-`M463U`: Meizu m1 note China Unicom
+`M463U`: MEIZU m1 note China Unicom
 
-`M463C`: Meizu m1 note China Telecom
+`M463C`: MEIZU m1 note China Telecom
 
-**Meizu m2 note (`m81`):**
+**MEIZU m2 note (`m81`):**
 
-`M571H`: Meizu m2 note Global
+`M571H`: MEIZU m2 note Global
 
-`M571`: Meizu m2 note China
+`M571`: MEIZU m2 note China
 
-`M571M`: Meizu m2 note China Mobile
+`M571M`: MEIZU m2 note China Mobile
 
-`M571U`: Meizu m2 note China Unicom
+`M571U`: MEIZU m2 note China Unicom
 
-`M571C`: Meizu m2 note China Telecom
+`M571C`: MEIZU m2 note China Telecom
 
-**Meizu M3 note (`m91`):**
+**MEIZU M3 note (`m91`):**
 
-`M681H` `L681H`: Meizu M3 note Global
+`M681H` `L681H`: MEIZU M3 note Global
 
-`M681Q` `L681Q`: Meizu M3 note China
+`M681Q` `L681Q`: MEIZU M3 note China
 
-`M681M` `L681M`: Meizu M3 note China Mobile
+`M681M` `L681M`: MEIZU M3 note China Mobile
 
-`M681C` `L681C`: Meizu M3 note China Telecom
+`M681C` `L681C`: MEIZU M3 note China Telecom
 
-**Meizu M5 Note (`m1621`):**
+**MEIZU M5 Note (`m1621`):**
 
-`M621H`: Meizu M5 Note Global
+`M621H`: MEIZU M5 Note Global
 
-`M621Q`: Meizu M5 Note China
+`M621Q`: MEIZU M5 Note China
 
-`M621M`: Meizu M5 Note China Mobile
+`M621M`: MEIZU M5 Note China Mobile
 
-`M621C` `M621C-S`: Meizu M5 Note China Telecom
+`M621C` `M621C-S`: MEIZU M5 Note China Telecom
 
-**Meizu M6 Note (`m1721`):**
+**MEIZU M6 Note (`m1721`):**
 
-`M721H`: Meizu M6 Note Global
+`M721H`: MEIZU M6 Note Global
 
-`M721Q`: Meizu M6 Note China
+`M721Q`: MEIZU M6 Note China
 
-`M721M`: Meizu M6 Note China Mobile
+`M721M`: MEIZU M6 Note China Mobile
 
-`M721C`: Meizu M6 Note China Telecom
+`M721C`: MEIZU M6 Note China Telecom
 
-**Meizu Note 8 (`m1822`):**
+**MEIZU Note 8 (`m1822`):**
 
-`M822H`: Meizu Note 8 Global
+`M822H`: MEIZU Note 8 Global
 
-`M822Q`: Meizu Note 8 China
+`M822Q`: MEIZU Note 8 China
 
-**Meizu Note 9 (`m1923`):**
+**MEIZU Note 9 (`m1923`):**
 
-`M923H`: Meizu Note 9 Global
+`M923H`: MEIZU Note 9 Global
 
-`M923Q`: Meizu Note 9 China
+`M923Q`: MEIZU Note 9 China
 
-**Meizu M3E (`a02`):**
+**MEIZU M3E (`a02`):**
 
-`A680H`: Meizu M3E Global
+`A680H`: MEIZU M3E Global
 
-`A680Q`: Meizu M1 E China
+`A680Q`: MEIZU M1 E China
 
-`A680M`: Meizu M1 E China Mobile
+`A680M`: MEIZU M1 E China Mobile
 
-**Meizu E2 (`m1741`):**
+**MEIZU E2 (`m1741`):**
 
-`M741A`: Meizu E2 China
+`M741A`: MEIZU E2 China
 
-`M741Y`: Meizu E2 China Mobile
+`M741Y`: MEIZU E2 China Mobile
 
-**Meizu E3 (`m1851`):**
+**MEIZU E3 (`m1851`):**
 
-`M851Q`: Meizu E3 China
+`M851Q`: MEIZU E3 China
 
-`M851M`: Meizu E3 China Mobile
+`M851M`: MEIZU E3 China Mobile
 
-**Meizu X8 (`m1852`):**
+**MEIZU X8 (`m1852`):**
 
-`M852H`: Meizu X8 Global
+`M852H`: MEIZU X8 Global
 
-`M852Q`: Meizu X8 China
+`M852Q`: MEIZU X8 China
 
-**Meizu M3X (`m92`):**
+**MEIZU M3X (`m92`):**
 
-`M682Q`: Meizu M3X
+`M682Q`: MEIZU M3X
 
-**Meizu m1 (`m79`):**
+**MEIZU m1 (`m79`):**
 
-`M465M`: Meizu m1 China Mobile
+`M465M`: MEIZU m1 China Mobile
 
-`M465A`: Meizu m1 YunOS Edition
+`M465A`: MEIZU m1 YunOS Edition
 
-**Meizu m2 (`m88`):**
+**MEIZU m2 (`m88`):**
 
-`M578H`: Meizu m2 Global
+`M578H`: MEIZU m2 Global
 
-`M578`: Meizu m2 China
+`M578`: MEIZU m2 China
 
-`M578A`: Meizu m2 YunOS Edition
+`M578A`: MEIZU m2 YunOS Edition
 
-`M578M`: Meizu m2 China Mobile
+`M578M`: MEIZU m2 China Mobile
 
-`M578MA`: Meizu m2 YunOS Edition China Mobile
+`M578MA`: MEIZU m2 YunOS Edition China Mobile
 
-`M578U`: Meizu m2 China Unicom
+`M578U`: MEIZU m2 China Unicom
 
-`M578C` `M578CE`: Meizu m2 China Telecom
+`M578C` `M578CE`: MEIZU m2 China Telecom
 
-`M578CA`: Meizu m2 YunOS Edition China Telecom
+`M578CA`: MEIZU m2 YunOS Edition China Telecom
 
-**Meizu M3 (`m98`):**
+**MEIZU M3 (`m98`):**
 
-`M688Q`: Meizu M3 China
+`M688Q`: MEIZU M3 China
 
-`M688M`: Meizu M3 China Mobile
+`M688M`: MEIZU M3 China Mobile
 
-`M688U`: Meizu M3 China Unicom
+`M688U`: MEIZU M3 China Unicom
 
-`M688C`: Meizu M3 China Telecom
+`M688C`: MEIZU M3 China Telecom
 
-**Meizu M3s (`y15`):**
+**MEIZU M3s (`y15`):**
 
-`Y685H`: Meizu M3s Global
+`Y685H`: MEIZU M3s Global
 
-`Y685Q`: Meizu M3s China
+`Y685Q`: MEIZU M3s China
 
-`Y685M`: Meizu M3s China Mobile
+`Y685M`: MEIZU M3s China Mobile
 
-`Y685C`: Meizu M3s China Telecom
+`Y685C`: MEIZU M3s China Telecom
 
-**Meizu M5 (`m1611`):**
+**MEIZU M5 (`m1611`):**
 
-`M611H`: Meizu M5 Global
+`M611H`: MEIZU M5 Global
 
-`M611A`: Meizu M5 China
+`M611A`: MEIZU M5 China
 
-`M611Y`: Meizu M5 China Mobile
+`M611Y`: MEIZU M5 China Mobile
 
-`M611D`: Meizu M5 China Telecom
+`M611D`: MEIZU M5 China Telecom
 
-**Meizu M5s (`m1612`):**
+**MEIZU M5s (`m1612`):**
 
-`M612H`: Meizu M5s Global
+`M612H`: MEIZU M5s Global
 
-`M612Q`: Meizu M5s China
+`M612Q`: MEIZU M5s China
 
-`M612M`: Meizu M5s China Mobile
+`M612M`: MEIZU M5s China Mobile
 
-`M612C`: Meizu M5s China Telecom
+`M612C`: MEIZU M5s China Telecom
 
-**Meizu M5c (`m1710`):**
+**MEIZU M5c (`m1710`):**
 
-`M710H`: Meizu M5c Global
+`M710H`: MEIZU M5c Global
 
-`M710M`: Meizu M5c China Mobile
+`M710M`: MEIZU M5c China Mobile
 
-**Meizu M6 (`m1711`):**
+**MEIZU M6 (`m1711`):**
 
-`M711H`: Meizu M6 Global
+`M711H`: MEIZU M6 Global
 
-`M711Q`: Meizu M6 China
+`M711Q`: MEIZU M6 China
 
-`M711M`: Meizu M6 China Mobile
+`M711M`: MEIZU M6 China Mobile
 
-`M711C`: Meizu M6 China Telecom
+`M711C`: MEIZU M6 China Telecom
 
-**Meizu M6s (`m1712`):**
+**MEIZU M6s (`m1712`):**
 
-`M712H`: Meizu M6s Global
+`M712H`: MEIZU M6s Global
 
-`M712Q` `M712Q-B`: Meizu M6s China
+`M712Q` `M712Q-B`: MEIZU M6s China
 
-`M712M`: Meizu M6s China Mobile
+`M712M`: MEIZU M6s China Mobile
 
-`M712C`: Meizu M6s China Telecom
+`M712C`: MEIZU M6s China Telecom
 
-**Meizu M6T (`m1811`):**
+**MEIZU M6T (`m1811`):**
 
-`M811H`: Meizu M6T Global
+`M811H`: MEIZU M6T Global
 
-`M811Q`: Meizu M6T China
+`M811Q`: MEIZU M6T China
 
-**Meizu M8 (2018) (`m1813`):**
+**MEIZU M8 (2018) (`m1813`):**
 
-`M813H`: Meizu M8 Global
+`M813H`: MEIZU M8 Global
 
-`M813Q`: Meizu V8 Pro China
+`M813Q`: MEIZU V8 Pro China
 
-**Meizu M8 Lite (`m1816`):**
+**MEIZU M8 Lite (`m1816`):**
 
-`M816H`: Meizu M8 Lite Global
+`M816H`: MEIZU M8 Lite Global
 
-`M816Q`: Meizu V8 China
+`M816Q`: MEIZU V8 China
 
-**Meizu M8c (`m1810`):**
+**MEIZU M8c (`m1810`):**
 
-`M810H`: Meizu M8c Global
+`M810H`: MEIZU M8c Global
 
-**Meizu M10 (`m1918`):**
+**MEIZU M10 (`m1918`):**
 
-`M918H`: Meizu M10 Global
+`M918H`: MEIZU M10 Global
 
-**Meizu M3 Max (`s25`):**
+**mblu 10 (`m2110`):**
 
-`S685H`: Meizu M3 Max Global
+`M2110`: mblu 10
 
-`S685Q`: Meizu M3 Max China
+**mblu 10s (`m2111`):**
 
-`S685M`: Meizu M3 Max China Mobile
+`M2111`: mblu 10s
 
-`S685C`: Meizu M3 Max China Telecom
+**MEIZU M3 Max (`s25`):**
 
-**Meizu m1 metal (`ma01`):**
+`S685H`: MEIZU M3 Max Global
 
-`M57A`: Meizu m1 metal China
+`S685Q`: MEIZU M3 Max China
 
-`M57AM`: Meizu m1 metal China Mobile
+`S685M`: MEIZU M3 Max China Mobile
 
-`M57AU`: Meizu m1 metal China Unicom
+`S685C`: MEIZU M3 Max China Telecom
 
-`M57AC`: Meizu m1 metal China Telecom
+**MEIZU m1 metal (`ma01`):**
 
-**Meizu U10 (`u10`):**
+`M57A`: MEIZU m1 metal China
 
-`U680H`: Meizu U10 Global
+`M57AM`: MEIZU m1 metal China Mobile
 
-`U680A`: Meizu U10 China
+`M57AU`: MEIZU m1 metal China Unicom
 
-`U680Y`: Meizu U10 China Mobile
+`M57AC`: MEIZU m1 metal China Telecom
 
-`U680D`: Meizu U10 China Telecom
+**MEIZU U10 (`u10`):**
 
-**Meizu U20 (`u15`):**
+`U680H`: MEIZU U10 Global
 
-`U685H`: Meizu U20 Global
+`U680A`: MEIZU U10 China
 
-`U685Q`: Meizu U20 China
+`U680Y`: MEIZU U10 China Mobile
 
-`U685M`: Meizu U20 China Mobile
+`U680D`: MEIZU U10 China Telecom
 
-`U685C`: Meizu U20 China Telecom
+**MEIZU U20 (`u15`):**
 
-**Meizu C9 (`m1818`):**
+`U685H`: MEIZU U20 Global
 
-`M818H`: Meizu C9 Global
+`U685Q`: MEIZU U20 China
 
-**Meizu C9 Pro (`m1819`):**
+`U685M`: MEIZU U20 China Mobile
 
-`M819H`: Meizu C9 Pro Global
+`U685C`: MEIZU U20 China Telecom
+
+**MEIZU C9 (`m1818`):**
+
+`M818H`: MEIZU C9 Global
+
+**MEIZU C9 Pro (`m1819`):**
+
+`M819H`: MEIZU C9 Pro Global
