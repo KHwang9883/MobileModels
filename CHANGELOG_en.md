@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-07-11
+- `google_en` Add Pixel 6a.
 ## 2022-07-09
 - `meizu_en` Add mblu 10/10s.
 ## 2022-07-04

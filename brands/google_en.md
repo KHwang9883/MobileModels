@@ -119,7 +119,17 @@
 
 `GLUOG`: Pixel 6 Pro (Rest of the world)
 
-`GR1YH`: Pixel 6 Pro (Japan)
+`GF5KQ`: Pixel 6 Pro (Japan)
+
+**Pixel 6a (`bluejay`):**
+
+`GB62Z`: Pixel 6a (US, mmWave)
+
+`GX7AS`: Pixel 6a (North America, TW)
+
+`G1AZG`: Pixel 6a (Rest of the world)
+
+`GB17L`: Pixel 6a (Japan)
 
 **Pixel C (`dragon`):**
 
