@@ -372,6 +372,10 @@
 
 `PFUM10` `PHA120`: OPPO A96 全网通版
 
+**OPPO A97:**
+
+`PFTM10`: OPPO A97 全网通版
+
 ## K 系列
 
 **OPPO K1:**
