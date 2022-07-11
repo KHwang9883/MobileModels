@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-07-11
+- `asus` 新增 华硕 ROG Phone 型号汇总。
 - `nubia` 新增 红魔 7S 系列 & nubia Z40S Pro。
 - `oppo_cn` 新增 OPPO A97。
 ## 2022-07-09

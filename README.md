@@ -17,6 +17,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | -- |
 | [apple_all](brands/apple_all.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | [国行机型单独汇总](brands/apple_cn.md) |
+| [asus](brands/asus.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
 | [honor_cn](brands/honor_cn.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [海外机型单独汇总](brands/honor_global_en.md) |
 | [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [海外机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
