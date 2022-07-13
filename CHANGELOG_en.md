@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-07-13
+- `mitv_global_en` Add Xiaomi TV A2 series.
 ## 2022-07-11
 - `google_en` Add Pixel 6a.
 ## 2022-07-09
