@@ -422,6 +422,10 @@
 
 `KKG-AN70`: 荣耀 X30 Max 5G 全网通版
 
+**荣耀 X40i:**
+
+`DIO-AN00`: 荣耀 X40i 5G 全网通版
+
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**

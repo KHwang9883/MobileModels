@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-07-13
+- `honor_cn` 新增 荣耀 X40i。
 ## 2022-07-11
 - `asus` 新增 华硕 ROG Phone 型号汇总。
 - `nubia` 新增 红魔 7S 系列 & nubia Z40S Pro。
