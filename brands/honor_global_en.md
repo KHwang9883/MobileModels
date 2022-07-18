@@ -197,6 +197,14 @@
 
 `LGE-NX9`: HONOR Magic4 Pro 5G
 
+**HONOR Magic4 Lite (`Andy`):**
+
+`ANY-LX1`: HONOR Magic4 Lite
+
+**HONOR Magic4 Lite 5G (`Andy`):**
+
+`ANY-NX1`: HONOR Magic4 Lite 5G
+
 **HONOR X7 (`Carmella`):**
 
 `CMA-LX1` `CMA-LX2` `CMA-LX3`: HONOR X7
@@ -204,6 +212,14 @@
 **HONOR X8 (`Tiffany`):**
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
+
+**HONOR X8 5G (`Vinnie`):**
+
+`VNE-N41`: HONOR X8 5G
+
+**HONOR X9 (`Andy`):**
+
+`ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR X9
 
 **HONOR X9 5G (`Andy`):**
 

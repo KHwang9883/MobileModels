@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-07-19
+- `honor_global_en` Add HONOR X8 5G.
 ## 2022-07-13
 - `mitv_global_en` Add Xiaomi TV A2 series.
 ## 2022-07-11
