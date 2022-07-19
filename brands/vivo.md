@@ -626,6 +626,14 @@
 
 `V2172A`: iQOO 9 Pro
 
+**iQOO 10 (`PD2217`):**
+
+`V2217A`: iQOO 10
+
+**iQOO 10 Pro (`PD2218`):**
+
+`V2218A`: iQOO 10 Pro
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
