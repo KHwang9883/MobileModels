@@ -1510,7 +1510,7 @@
 
 **[`K16A`] POCO M4 Pro 5G (`evergo`):**
 
-`21091116AI`: POCO M4 Pro 5G 印度版
+`22031116AI`: POCO M4 Pro 5G 印度版
 
 **[`K7BP`] POCO M5s (`rosemaryp`):**
 
