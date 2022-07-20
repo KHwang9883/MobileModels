@@ -1321,6 +1321,10 @@
 
 `21121210C`: Redmi K50G China
 
+**[`L16`] Redmi K50i (`xagain`):**
+
+`22041216I`: Redmi K50i India
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -1470,6 +1474,10 @@
 **[`K16A`] POCO M4 Pro 5G (`evergo`):**
 
 `21091116AI`: POCO M4 Pro 5G India
+
+**[`K7BP`] POCO M5s (`rosemaryp`):**
+
+`2207117BPG`: POCO M5s Global
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
