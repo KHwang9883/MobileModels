@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-07-20
+- `oppo_global_en` Add several new models.
 ## 2022-07-19
 - `honor_global_en` Add HONOR X8 5G.
 ## 2022-07-13

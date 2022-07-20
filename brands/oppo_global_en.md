@@ -17,6 +17,8 @@
 
 `CPH2025`: OPPO Find X2 Pro
 
+`OPG01`: OPPO Find X2 Pro (KDDI)
+
 **OPPO Find X2 Lite:**
 
 `CPH2005`: OPPO Find X2 Lite
@@ -28,6 +30,8 @@
 **OPPO Find X3 Pro:**
 
 `CPH2173`: OPPO Find X3 Pro
+
+`OPG03`: OPPO Find X3 Pro (KDDI)
 
 **OPPO Find X3 Lite:**
 
@@ -165,6 +169,10 @@
 
 `CPH2237`: OPPO Reno6 Z
 
+**OPPO Reno6 Lite:**
+
+`CPH2365`: OPPO Reno6 Lite
+
 **OPPO Reno7:**
 
 `CPH2363`: OPPO Reno7
@@ -186,6 +194,18 @@
 `A201OP`: OPPO Reno7 A (SoftBank)
 
 `OPG04`: OPPO Reno7 A (KDDI)
+
+**OPPO Reno8:**
+
+`CPH2359`: OPPO Reno8 5G
+
+**OPPO Reno8 Pro:**
+
+`CPH2357`: OPPO Reno8 Pro 5G
+
+**OPPO Reno8 Z:**
+
+`CPH2457`: OPPO Reno8 Z 5G
 
 ## F series
 
@@ -319,7 +339,7 @@
 
 **OPPO A11:**
 
-`CPH1931RU` `CPH1941` `CPH1943`: OPPO A11
+`CPH1931` `CPH1941` `CPH1943`: OPPO A11
 
 **OPPO A11k:**
 
@@ -331,7 +351,7 @@
 
 **OPPO A15:**
 
-`CPH2179` `CPH2185` `CPH2185T2`: OPPO A15
+`CPH2179` `CPH2185`: OPPO A15
 
 **OPPO A16:**
 
@@ -355,7 +375,7 @@
 
 **OPPO A33:**
 
-`CPH2137`: OPPO A33
+`CPH2127` `CPH2137`: OPPO A33
 
 **OPPO A52:**
 
@@ -363,7 +383,7 @@
 
 **OPPO A53:**
 
-`CPH2127` `CPH2131` `CPH2133` `CPH2139`: OPPO A53
+`CPH2127` `CPH2131` `CPH2133` `CPH2137` `CPH2139`: OPPO A53
 
 **OPPO A53s:**
 
@@ -373,7 +393,9 @@
 
 `CPH2239`: OPPO A54
 
-`CPH2195`: OPPO A54 5G
+`CPH2195` `CPH2303`: OPPO A54 5G
+
+`OPG02`: OPPO A54 5G (KDDI)
 
 **OPPO A54s:**
 
@@ -393,11 +415,11 @@
 
 `CPH1701`: OPPO A57 (2016)
 
-`CPH2387`: OPPO A57
+`CPH2387` `CPH2407`: OPPO A57
 
-**OPPO A59:**
+**OPPO A57s:**
 
-`CPH2365`: OPPO A59
+`CPH2385`: OPPO A57s
 
 **OPPO A72:**
 
@@ -419,9 +441,15 @@
 
 `CPH2375`: OPPO A76
 
+**OPPO A77:**
+
+`CPH2385`: OPPO A77
+
+`CPH2339`: OPPO A77 5G
+
 **OPPO A91:**
 
-`CPH2021`: OPPO A91
+`CPH2001` `CPH2021`: OPPO A91
 
 **OPPO A92:**
 
@@ -457,6 +485,12 @@
 
 `CPH2237`: OPPO K10 5G
 
+## Pad series
+
+**OPPO Pad Air:**
+
+`OPD2102A`: OPPO Pad Air
+
 ## Watch series
 
 **OPPO Watch (`beluga`):**
@@ -468,3 +502,7 @@
 **OPPO Watch (`belugaxl`):**
 
 `OW19W12`: OPPO Watch 46mm LTE
+
+**OPPO Watch Free:**
+
+`OWWE201`: OPPO Watch Free
