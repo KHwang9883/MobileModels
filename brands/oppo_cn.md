@@ -459,3 +459,9 @@
 `OW20W2`: OPPO Watch 2 42mm eSIM 版
 
 `OW20W3`: OPPO Watch 2 46mm ECG
+
+**OPPO Watch Free:**
+
+`OWW206`: OPPO Watch Free 标准版
+
+`OWW208`: OPPO Watch Free NFC 版
