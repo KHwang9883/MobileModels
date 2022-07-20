@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-07-20
 - `oppo_cn` 增补 OPPO Watch Free。
+- `xiaomi` 新增 Redmi K50i 印度版。
 ## 2022-07-19
 - `vivo` 新增 iQOO 10 系列。
 ## 2022-07-15

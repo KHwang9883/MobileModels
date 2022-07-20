@@ -1356,6 +1356,10 @@
 
 `21121210C`: Redmi K50 电竞版 全网通版
 
+**[`L16`] Redmi K50i (`xagain`):**
+
+`22041216I`: Redmi K50i 印度版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -1507,6 +1511,10 @@
 **[`K16A`] POCO M4 Pro 5G (`evergo`):**
 
 `21091116AI`: POCO M4 Pro 5G 印度版
+
+**[`K7BP`] POCO M5s (`rosemaryp`):**
+
+`2207117BPG`: POCO M5s 国际版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
