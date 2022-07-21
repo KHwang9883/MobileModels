@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-07-21
+- `honor_cn` 新增 荣耀平板 8, 荣耀智慧屏 X3 系列, 荣耀 MagicBook 14 锐龙版。
 - `oppo_cn` 新增 OPPO K10 活力版。
 ## 2022-07-20
 - `oppo_cn` 增补 OPPO Watch Free。
