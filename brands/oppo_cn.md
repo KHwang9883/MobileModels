@@ -24,31 +24,31 @@
 
 **OPPO Find X2 Pro:**
 
-`PDEM30`: OPPO Find X2 Pro 全网通版
+`PDEM30`: OPPO Find X2 Pro
 
 **OPPO Find X3:**
 
-`PEDM00`: OPPO Find X3 全网通版
+`PEDM00`: OPPO Find X3
 
 **OPPO Find X3 Pro:**
 
-`PEEM00`: OPPO Find X3 Pro 全网通版
+`PEEM00`: OPPO Find X3 Pro
 
 **OPPO Find N:**
 
-`PEUM00`: OPPO Find N 全网通版
+`PEUM00`: OPPO Find N
 
 **OPPO Find X5:**
 
-`PFFM10`: OPPO Find X5 全网通版
+`PFFM10`: OPPO Find X5
 
 **OPPO Find X5 Pro:**
 
-`PFEM10`: OPPO Find X5 Pro 全网通版
+`PFEM10`: OPPO Find X5 Pro
 
 **OPPO Find X5 Pro 天玑版:**
 
-`PFFM20`: OPPO Find X5 Pro 天玑版 全网通版
+`PFFM20`: OPPO Find X5 Pro 天玑版
 
 ## Reno 系列
 
@@ -138,53 +138,53 @@
 
 **OPPO Reno5 Pro+:**
 
-`PDRM00`: OPPO Reno5 Pro+ 全网通版
+`PDRM00`: OPPO Reno5 Pro+
 
 **OPPO Reno6:**
 
-`PEQM00`: OPPO Reno6 全网通版
+`PEQM00`: OPPO Reno6
 
 **OPPO Reno6 Pro:**
 
-`PEPM00`: OPPO Reno6 Pro 全网通版
+`PEPM00`: OPPO Reno6 Pro
 
 **OPPO Reno6 Pro+:**
 
-`PENM00`: OPPO Reno6 Pro+ 全网通版
+`PENM00`: OPPO Reno6 Pro+
 
 **OPPO Reno7:**
 
-`PFJM10`: OPPO Reno7 全网通版
+`PFJM10`: OPPO Reno7
 
 **OPPO Reno7 Pro:**
 
-`PFDM00`: OPPO Reno7 Pro 全网通版
+`PFDM00`: OPPO Reno7 Pro
 
 **OPPO Reno7 SE:**
 
-`PFCM00`: OPPO Reno7 SE 全网通版
+`PFCM00`: OPPO Reno7 SE
 
 **OPPO Reno8:**
 
-`PGBM10`: OPPO Reno8 全网通版
+`PGBM10`: OPPO Reno8
 
 **OPPO Reno8 Pro:**
 
-`PGAM10`: OPPO Reno8 Pro 全网通版
+`PGAM10`: OPPO Reno8 Pro
 
 **OPPO Reno8 Pro+:**
 
-`PFZM10`: OPPO Reno8 Pro+ 全网通版
+`PFZM10`: OPPO Reno8 Pro+
 
 ## Ace 系列
 
 **OPPO Reno Ace:**
 
-`PCLM10`: OPPO Reno Ace 全网通版
+`PCLM10`: OPPO Reno Ace
 
 **OPPO Ace2:**
 
-`PDHM00`: OPPO Ace2 全网通版
+`PDHM00`: OPPO Ace2
 
 ## R 系列
 
@@ -288,19 +288,19 @@
 
 **OPPO A11s:**
 
-`PDVM00`: OPPO A11s 全网通版
+`PDVM00`: OPPO A11s
 
 **OPPO A32:**
 
-`PDVM00`: OPPO A32 全网通版
+`PDVM00`: OPPO A32
 
 **OPPO A35:**
 
-`PEFM00`: OPPO A35 全网通版
+`PEFM00`: OPPO A35
 
 **OPPO A36:**
 
-`PESM10`: OPPO A36 全网通版
+`PESM10`: OPPO A36
 
 **OPPO A52:**
 
@@ -322,15 +322,15 @@
 
 **OPPO A55s:**
 
-`PEMM00`: OPPO A55s 全网通版
+`PEMM00`: OPPO A55s
 
 **OPPO A56:**
 
-`PFVM10`: OPPO A56 全网通版
+`PFVM10`: OPPO A56
 
 **OPPO A57:**
 
-`PFTM20`: OPPO A57 (2022) 全网通版
+`PFTM20`: OPPO A57 (2022)
 
 **OPPO A72:**
 
@@ -340,7 +340,7 @@
 
 **OPPO A72n:**
 
-`PDYM10`: OPPO A72n 全网通版
+`PDYM10`: OPPO A72n
 
 **OPPO A91:**
 
@@ -362,25 +362,25 @@
 
 **OPPO A93s:**
 
-`PFGM00`: OPPO A93s 全网通版
+`PFGM00`: OPPO A93s
 
 **OPPO A95:**
 
-`PELM00`: OPPO A95 全网通版
+`PELM00`: OPPO A95
 
 **OPPO A96:**
 
-`PFUM10` `PHA120`: OPPO A96 全网通版
+`PFUM10` `PHA120`: OPPO A96
 
 **OPPO A97:**
 
-`PFTM10`: OPPO A97 全网通版
+`PFTM10`: OPPO A97
 
 ## K 系列
 
 **OPPO K1:**
 
-`PBCM30`: OPPO K1 全网通版
+`PBCM30`: OPPO K1
 
 **OPPO K3:**
 
@@ -396,39 +396,43 @@
 
 **OPPO K7:**
 
-`PCLM50`: OPPO K7 全网通版
+`PCLM50`: OPPO K7
 
 **OPPO K7x:**
 
-`PERM00`: OPPO K7x 全网通版
+`PERM00`: OPPO K7x
 
 **OPPO K9:**
 
-`PEXM00`: OPPO K9 全网通版
+`PEXM00`: OPPO K9
 
 **OPPO K9s:**
 
-`PERM10`: OPPO K9s 全网通版
+`PERM10`: OPPO K9s
 
 **OPPO K9 Pro:**
 
-`PEYM00`: OPPO K9 Pro 全网通版
+`PEYM00`: OPPO K9 Pro
 
 **OPPO K9x:**
 
-`PGCM10`: OPPO K9x 全网通版
+`PGCM10`: OPPO K9x
 
 **OPPO K10:**
 
-`PGJM10`: OPPO K10 全网通版
+`PGJM10`: OPPO K10
 
 **OPPO K10 Pro:**
 
-`PGIM10`: OPPO K10 Pro 全网通版
+`PGIM10`: OPPO K10 Pro
+
+**OPPO K10 活力版:**
+
+`PERM10`: OPPO K10 活力版
 
 **OPPO K10x:**
 
-`PGGM10`: OPPO K10x 全网通版
+`PGGM10`: OPPO K10x
 
 ## 平板电脑
 

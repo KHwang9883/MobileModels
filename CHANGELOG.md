@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-07-21
+- `oppo_cn` 新增 OPPO K10 活力版。
 ## 2022-07-20
 - `oppo_cn` 增补 OPPO Watch Free。
 - `xiaomi` 新增 Redmi K50i 印度版。
