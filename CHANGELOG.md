@@ -2,6 +2,7 @@
 ## 2022-07-27
 - `huawei_cn` 新增 HUAWEI MatePad Pro 11, MateBook X Pro, 智慧屏 S 系列等。
 - `lenovo` 新增 联想拯救者 Y70。
+- `xiaomi` 新增 Redmi 10A Sport 印度版。
 ## 2022-07-21
 - `honor_cn` 新增 荣耀平板 8, 荣耀智慧屏 X3 系列, 荣耀 MagicBook 14 锐龙版。
 - `oppo_cn` 新增 OPPO K10 活力版。

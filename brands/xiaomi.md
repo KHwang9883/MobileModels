@@ -892,7 +892,7 @@
 
 `220233L2G`: Redmi 10A 国际版
 
-`220233L2I`: Redmi 10A 印度版
+`220233L2I`: Redmi 10A 印度版 / Redmi 10A Sport 印度版
 
 ## 红米 / Redmi Note 系列
 
