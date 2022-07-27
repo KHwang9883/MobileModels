@@ -371,7 +371,7 @@
 
 **HUAWEI nova Y90:**
 
-`CTR-LX1` `CTR-LX2` `CTR-LX3`: HUAWEI nova Y60
+`CTR-LX1` `CTR-LX2` `CTR-LX3`: HUAWEI nova Y90
 
 ## HUAWEI Y Series
 
