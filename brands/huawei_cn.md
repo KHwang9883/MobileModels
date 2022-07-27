@@ -1219,6 +1219,10 @@
 
 `HKD-W76`: HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
 
+**HUAWEI MateBook 14s (`HookeF`):**
+
+`HKF-16`: HUAWEI MateBook 14s (2022)
+
 **HUAWEI MateBook 16 (`CurieM`):**
 
 `CREM-WFG9`: HUAWEI MateBook 16 R5
