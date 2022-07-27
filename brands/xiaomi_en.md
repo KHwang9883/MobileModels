@@ -867,7 +867,7 @@
 
 `220233L2G`: Redmi 10A Global
 
-`220233L2I`: Redmi 10A India
+`220233L2I`: Redmi 10A India / Redmi 10A Sport India
 
 `220233L2C`: Redmi 10A China
 

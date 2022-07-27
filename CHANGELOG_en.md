@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-07-27
+- `xiaomi_en` Add Redmi 10A Sport (India).
 ## 2022-07-20
 - `oppo_global_en` Add several new models.
 - `xiaomi_en` Add Redmi K50i (India).
