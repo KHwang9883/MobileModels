@@ -189,7 +189,7 @@
 
 **HUAWEI Mate Xs 2 (`Palau`):**
 
-`PAL-AL00`: HUAWEI Mate Xs 2 4G 全网通版
+`PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2 4G 全网通版
 
 ## HUAWEI P 系列
 
@@ -335,23 +335,21 @@
 
 **HUAWEI P50 (`Amber`):**
 
-`ABR-AL00`: HUAWEI P50 4G 全网通版
+`ABR-AL00` `ABR-AL80`: HUAWEI P50 4G 全网通版
 
 **HUAWEI P50E (`Amber`):**
 
-`ABR-AL60`: HUAWEI P50E 4G 全网通版
+`ABR-AL60` `ABR-AL90`: HUAWEI P50E 4G 全网通版
 
 **HUAWEI P50 Pro (`Jade`):**
 
-`JAD-AL00`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
+`JAD-AL00` `JAD-AL80`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 
 `JAD-AL50` `JAD-AL60`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 
 **HUAWEI P50 Pocket (`Bali`):**
 
-`BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
-
-`BAL-AL10`: HUAWEI P50 Pocket 艺术定制版 4G 全网通版
+`BAL-AL00` `BAL-AL80`: HUAWEI P50 Pocket 4G 全网通版
 
 ## HUAWEI nova 系列
 
@@ -801,7 +799,7 @@
 
 `MGA-AL00`: 华为畅享 50 全网通版
 
-**华为畅享 50 Pro ():**
+**华为畅享 50 Pro:**
 
 `CTR-AL00`: 华为畅享 50 Pro 全网通版
 
@@ -915,13 +913,23 @@
 
 `MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
 
+**HUAWEI MatePad Pro 11 (`Goethe`):**
+
+`GOT-W29`: HUAWEI MatePad Pro 11 英寸 Wi-Fi 版
+
+`GOT-W09`: HUAWEI MatePad Pro 11 英寸 性能版 Wi-Fi 版
+
+`GOT-AL09`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版
+
+`GOT-AL19`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
+
 **HUAWEI MatePad Pro 12.6 (`Wagner`):**
 
-`WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
+`WGR-W09` `WGRR-W09`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
 
-`WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
+`WGR-W19` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
 
-`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
+`WGR-AN19` `WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
 
 **HUAWEI MatePad (`Bach3`):**
 
@@ -1104,6 +1112,10 @@
 `MRG-W56`: HUAWEI MateBook X Pro (2022) i5
 
 `MRG-W76`: HUAWEI MateBook X Pro (2022) i7
+
+**HUAWEI MateBook X Pro (2022) (`MorganF`):**
+
+`MRGF-16`: HUAWEI MateBook X Pro (2022) 12 代酷睿版
 
 **HUAWEI MateBook 13 (`Wright`):**
 
@@ -1347,7 +1359,7 @@
 
 `PAK-AL09`: HUAWEI MateBook E (2019)
 
-**HUAWEI MateBook E (2021):**
+**HUAWEI MateBook E (2021) (`Dirac`):**
 
 `DRC-W58`: HUAWEI MateBook E (2021) i5 (8GB+256GB)
 
@@ -1468,6 +1480,16 @@
 `HD75KANA`: 华为智慧屏 S 75 (3GB+16GB)
 
 `HD75KANS`: 华为智慧屏 S Pro 75 (3GB+32GB)
+
+**华为智慧屏 S 系列 (2022):**
+
+`HD55AJMA`: 华为智慧屏 S 55 (2022)
+
+`HD65AJMA`: 华为智慧屏 S 65 (2022)
+
+**华为智慧屏 S Pro (`Kepler`):**
+
+`HD86KEPA`: 华为智慧屏 S86 Pro
 
 **华为智慧屏 SE 系列:**
 
