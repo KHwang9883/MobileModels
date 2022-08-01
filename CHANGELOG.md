@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-08-02
+- `motorola` 新增 moto X30 Pro, S30 Pro, razr 2022。
 ## 2022-07-27
 - `huawei_cn` 新增 HUAWEI MatePad Pro 11, MateBook X Pro, 智慧屏 S 系列等。
 - `lenovo` 新增 联想拯救者 Y70。

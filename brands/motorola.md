@@ -130,6 +130,18 @@
 
 `XT2201-2`: moto edge X30
 
-**moto edge X30 (`hiphid`):**
+**moto edge X30 屏下摄像版 (`hiphid`):**
 
 `XT2201-6`: moto edge X30 屏下摄像版
+
+**moto X30 Pro (`eqs`):**
+
+`XT2241-1`: moto X30 Pro
+
+**moto S30 Pro (`tundra`):**
+
+`XT2243-2`: moto S30 Pro
+
+**moto razr 2022 (`oneli`):**
+
+`XT2251-1`: moto razr 2022
