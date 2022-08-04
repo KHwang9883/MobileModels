@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-08-04
+- `oneplus` 新增 一加 Ace Pro / 10T。
 ## 2022-08-02
 - `motorola` 新增 moto X30 Pro, S30 Pro, razr 2022。
 ## 2022-07-27
