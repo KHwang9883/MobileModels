@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-08-04
+- `oneplus_en` Add OnePlus 10T.
 ## 2022-07-27
 - `xiaomi_en` Add Redmi 10A Sport (India).
 ## 2022-07-20
