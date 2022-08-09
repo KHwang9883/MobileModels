@@ -421,6 +421,10 @@
 
 `2106118C`: Xiaomi MIX 4 China
 
+**[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
+
+`22061218C`: Xiaomi MIX Fold 2
+
 **[`B3`] Mi Max (`hydrogen`):**
 
 `2016002`: Mi Max Global
@@ -533,9 +537,13 @@
 
 `M2105K81AC`: Xiaomi Pad 5 Pro Wi-Fi
 
-**[`K81`] Xiaomi Pad 5 Pro (`enuma`):**
+**[`K81`] Xiaomi Pad 5 Pro 5G (`enuma`):**
 
 `M2105K81C`: Xiaomi Pad 5 Pro 5G
+
+**[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
+
+`22081281AC`: Xiaomi Pad 5 Pro 12.4
 
 ## Redmi phones
 
@@ -837,11 +845,11 @@
 
 `22011119UY`: Redmi 10 2022 Global (NFC)
 
-**[`L19`] Redmi 10 5G / Redmi 10 Prime+ 5G (`light`):**
+**[`L19`] Redmi 10 5G / Redmi 11 Prime 5G (`light`):**
 
 `22041219G`: Redmi 10 5G Global
 
-`22041219I`: Redmi 10 Prime+ 5G India
+`22041219I`: Redmi 11 Prime 5G India
 
 **[`L19N`] Redmi 10 5G (`thunder`):**
 

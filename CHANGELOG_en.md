@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-08-09
+- `xiaomi_en` Add Xiaomi MIX Fold 2 & Xiaomi Pad 5 Pro 12.4。
 ## 2022-08-04
 - `oneplus_en` Add OnePlus 10T.
 ## 2022-07-27
