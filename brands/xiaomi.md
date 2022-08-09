@@ -432,6 +432,10 @@
 
 `2106118C`: Xiaomi MIX 4 全网通版
 
+**[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
+
+`22061218C`: Xiaomi MIX Fold 2
+
 ## 小米 Max 系列
 
 **[`B3`] 小米 Max (`hydrogen`):**
@@ -552,9 +556,13 @@
 
 `M2105K81AC`: 小米平板 5 Pro Wi-Fi 版
 
-**[`K81`] 小米平板 5 Pro (`enuma`):**
+**[`K81`] 小米平板 5 Pro 5G (`enuma`):**
 
-`M2105K81C`: 小米平板 5 Pro 5G 版
+`M2105K81C`: 小米平板 5 Pro 5G
+
+**[`L81A`] 小米平板 5 Pro (`dagu`):**
+
+`22081281AC`: 小米平板 5 Pro 12.4 英寸
 
 ## 红米 / Redmi 数字系列
 
@@ -860,11 +868,11 @@
 
 `22011119UY`: Redmi 10 2022 国际版 (NFC)
 
-**[`L19`] Redmi 10 5G / Redmi 10 Prime+ 5G (`light`):**
+**[`L19`] Redmi 10 5G / Redmi 11 Prime 5G (`light`):**
 
 `22041219G`: Redmi 10 5G 国际版
 
-`22041219I`: Redmi 10 Prime+ 5G 印度版
+`22041219I`: Redmi 11 Prime 5G 印度版
 
 **[`L19N`] Redmi 10 5G (`thunder`):**
 
