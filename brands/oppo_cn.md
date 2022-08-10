@@ -469,3 +469,9 @@
 `OWW206`: OPPO Watch Free 标准版
 
 `OWW208`: OPPO Watch Free NFC 版
+
+**OPPO Watch 3:**
+
+`OWW212`: OPPO Watch 3
+
+`OWW211`: OPPO Watch 3 Pro

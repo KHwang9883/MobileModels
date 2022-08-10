@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-08-10
+- `oppo_cn` 新增 OPPO Watch 3。
 ## 2022-08-09
 - `xiaomi` 新增 Xiaomi MIX Fold 2 & 小米平板 5 Pro 12.4。
 ## 2022-08-04
