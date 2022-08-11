@@ -1329,6 +1329,10 @@
 
 `21121210C`: Redmi K50G China
 
+**[`L12`] Redmi K50 Ultra (`diting`):**
+
+`22081212C`: Redmi K50 Ultra China
+
 **[`L16`] Redmi K50i (`xagain`):**
 
 `22041216I`: Redmi K50i India
