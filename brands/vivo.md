@@ -324,6 +324,14 @@
 
 `V2158A`: vivo Y32
 
+**vivo Y32t (`PD2168`):**
+
+`V2168A`: vivo Y32t (8GB+128GB)
+
+**vivo Y32t (`PD2180`):**
+
+`V2180A`: vivo Y32t (8GB+256GB)
+
 **vivo Y33s (`PD2166`):**
 
 `V2166A`: vivo Y33s 5G
@@ -415,6 +423,10 @@
 **vivo Y77 (`PD2219`):**
 
 `V2219A`: vivo Y77 5G
+
+**vivo Y77e (`PD2166B`):**
+
+`V2166BA`: vivo Y77e 5G
 
 **vivo Y81 (`PD1732`):**
 
