@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-08-11
 - `vivo` 新增 vivo Y32t & Y77e。
+- `xiaomi` 新增 Redmi K50 至尊版。
 ## 2022-08-10
 - `oppo_cn` 新增 OPPO Watch 3。
 ## 2022-08-09
