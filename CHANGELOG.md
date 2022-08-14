@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-08-14
+- `samsung_cn` 新增 Galaxy Z Fold4 & Flip4 国行版。
 ## 2022-08-11
 - `vivo` 新增 vivo Y32t & Y77e。
 - `xiaomi` 新增 Redmi K50 至尊版。
