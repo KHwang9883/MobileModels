@@ -156,6 +156,10 @@
 
 `Lenovo TB-Q706F`: 联想小新 Pad Pro 12.6
 
+`TB138FC`: 联想小新 Pad Pro 2022 骁龙版
+
+`TB132FU`: 联想小新 Pad Pro 2022 迅鲲版
+
 **联想 YOGA Tab 3:**
 
 `Lenovo YT3-850F`: 联想 YOGA Tab 3 8” Wi-Fi 版
