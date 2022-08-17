@@ -217,9 +217,9 @@
 
 `PGKM10`: OnePlus Ace China
 
-`CPH2411`: OnePlus 10R 150W India
+`CPH2411`: OnePlus 10R Endurance India
 
-`CPH2423`: OnePlus 10R 80W India
+`CPH2423`: OnePlus 10R India
 
 **OnePlus Ace Race (`qqcandy`):**
 
@@ -233,7 +233,9 @@
 
 `CPH2415`: OnePlus 10T EU / Global
 
-`CPH2417` `CPH2419`: OnePlus 10T North America
+`CPH2417`: OnePlus 10T North America
+
+`CPH2419`: OnePlus 10T T-Mobile
 
 **OnePlus Nord (`avicii`):**
 
