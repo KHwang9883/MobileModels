@@ -117,6 +117,8 @@
 
 `RMX3493`: realme 9i EU
 
+`RMX3612`: realme 9i 5G
+
 **realme 9 5G:**
 
 `RMX3388`: realme 9 5G India

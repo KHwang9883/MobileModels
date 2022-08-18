@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-08-18
+- `realme_global_en` Add realme 9i 5G (India).
 ## 2022-08-11
 - `xiaomi_en` Add Redmi K50 Ultra.
 ## 2022-08-09
