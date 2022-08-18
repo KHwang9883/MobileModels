@@ -1604,7 +1604,7 @@
 
 **黑鲨 5 (`patriot`):**
 
-`SHARK PAR-A0`: 黑鲨 5 全网通版
+`SHARK PAR-A0`: 黑鲨 5 全网通版 / 黑鲨 5 高能版
 
 `SHARK PAR-H0`: 黑鲨 5 国际版
 
