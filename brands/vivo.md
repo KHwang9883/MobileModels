@@ -424,9 +424,9 @@
 
 `V2219A`: vivo Y77 5G
 
-**vivo Y77e (`PD2166B`):**
+**vivo Y77e / vivo Y77e (t1 版) (`PD2166B`):**
 
-`V2166BA`: vivo Y77e 5G
+`V2166BA`: vivo Y77e 5G / vivo Y77e (t1 版) 5G
 
 **vivo Y81 (`PD1732`):**
 
