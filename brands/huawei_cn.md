@@ -1351,7 +1351,7 @@
 
 **HUAWEI MateBook D 16 (`RolleF`):**
 
-`RLEF-16`: HUAWEI MateBook D 16 (2022)
+`RLEF-16`: HUAWEI MateBook D 16 (2022) / HUAWEI MateBook D 16 SE
 
 **HUAWEI MateBook E:**
 
