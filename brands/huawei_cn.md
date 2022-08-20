@@ -1053,7 +1053,7 @@
 
 ## 笔记本电脑
 
-**HUAWEI MateBook:**
+**HUAWEI MateBook (`Hertz`):**
 
 `HZ-W09`: HUAWEI MateBook m3
 
@@ -1061,13 +1061,13 @@
 
 `HZ-W29`: HUAWEI MateBook m7
 
-**HUAWEI MateBook X:**
+**HUAWEI MateBook X (`Watt`):**
 
 `WT-W09`: HUAWEI MateBook X i5
 
 `WT-W19`: HUAWEI MateBook X i7
 
-**HUAWEI MateBook X (2020):**
+**HUAWEI MateBook X (2020) (`Euler`):**
 
 `EUL-W19`: HUAWEI MateBook X (2020) i5 (8GB+512GB)
 
@@ -1075,7 +1075,7 @@
 
 `EUL-W29P`: HUAWEI MateBook X (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook X (2021):**
+**HUAWEI MateBook X (2021) (`EulerD`):**
 
 `EULD-WFH9`: HUAWEI MateBook X (2021) i5
 
@@ -1141,7 +1141,7 @@
 
 `WRTB-WFE9L`: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook 13 (2020)  (`HengL`):**
+**HUAWEI MateBook 13 (2020) (`HengL`):**
 
 `HNL-WDQ9Q`: HUAWEI MateBook 13 (2020) R5 (8GB+512GB)
 
@@ -1233,7 +1233,7 @@
 
 `CREF-16`: HUAWEI MateBook 16s
 
-**HUAWEI MateBook D:**
+**HUAWEI MateBook D (`Pascal`):**
 
 `PL-W09`: HUAWEI MateBook D i5 集显
 
@@ -1241,7 +1241,7 @@
 
 `PL-W29`: HUAWEI MateBook D i7
 
-**HUAWEI MateBook D (2018):**
+**HUAWEI MateBook D (2018) (`MarconiC`):**
 
 `MRC-W00`: HUAWEI MateBook D (2018) i3 集显
 
@@ -1359,7 +1359,7 @@
 
 `BL-W19`: HUAWEI MateBook E i5
 
-**HUAWEI MateBook E (2019):**
+**HUAWEI MateBook E (2019) (`Planck`):**
 
 `PAK-AL09`: HUAWEI MateBook E (2019)
 
