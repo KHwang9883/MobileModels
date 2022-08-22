@@ -484,7 +484,7 @@
 
 `V2123A`: vivo T1x
 
-**vivo T2 (`PD2199`):**
+**vivo T2 (`PD2199G`):**
 
 `V2199GA`: vivo T2
 
@@ -715,6 +715,14 @@
 **iQOO Z5x (`PD2131`):**
 
 `V2131A`: iQOO Z5x
+
+**iQOO Z6 (`PD2220`):**
+
+`V2220A`: iQOO Z6
+
+**iQOO Z6x (`PD2164K`):**
+
+`V2164KA`: iQOO Z6x
 
 ## iQOO U 系列
 
