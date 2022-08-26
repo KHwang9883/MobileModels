@@ -59,6 +59,10 @@
 
 `SP300`: NZONE S7 Pro+ 5G
 
+**NZONE 50 Pro:**
+
+`SP210` `SP210T`: NZONE 50 Pro 5G
+
 ## Hi nova
 
 **Hi nova 9:**
