@@ -1222,6 +1222,10 @@
 
 `2201117SY`: Redmi Note 11S 国际版 (NFC)
 
+**[`K7B`] Redmi Note 11 SE (`secret`):**
+
+`22087RA4DI`: Redmi Note 11 SE 印度版
+
 **[`K16B`] Redmi Note 11S 5G (`opal`):**
 
 `22031116BG`: Redmi Note 11S 5G 国际版
@@ -1524,7 +1528,7 @@
 
 `22031116AI`: POCO M4 Pro 5G 印度版
 
-**[`K7BP`] POCO M5s (`rosemaryp`):**
+**[`K7BP`] POCO M5s (`rosemary_p`):**
 
 `2207117BPG`: POCO M5s 国际版
 
