@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-08-31
+- `xiaomi_en` Add Redmi Note 11 SE (India).
 ## 2022-08-30
 - `mitv_global_en` Add several new models.
 ## 2022-08-18
