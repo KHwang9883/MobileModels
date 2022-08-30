@@ -65,6 +65,14 @@
 
 `L43M7-EAIN`: Xiaomi Smart TV 5A 43
 
+**Xiaomi Smart TV X Series:**
+
+`L43M7-A2IN`: Xiaomi Smart TV X43
+
+`L50M7-A2IN`: Xiaomi Smart TV X50
+
+`L55M7-A2IN`: Xiaomi Smart TV X55
+
 **Mi QLED TV:**
 
 `L55M6-EQG`: Mi QLED TV Q1 4K 55
@@ -163,7 +171,7 @@
 
 `L55M6-ESG`: Xiaomi TV Q1E 55
 
-**Xiaomi TV A2:**
+**Xiaomi TV A2 (EEA):**
 
 `L32M7-EAEU`: Xiaomi TV A2 32
 
@@ -172,6 +180,16 @@
 `L50M7-EAEU`: Xiaomi TV A2 50
 
 `L55M7-EAEU`: Xiaomi TV A2 55
+
+`L58M7-EAEU`: Xiaomi TV A2 58
+
+**Xiaomi TV A2 (Indonesia):**
+
+`L32M7-EAID`: Xiaomi TV A2 32
+
+`L43M7-EAID`: Xiaomi TV A2 UHD 43
+
+`L55M7-EAID`: Xiaomi TV A2 55
 
 **Xiaomi Fire TV F2:**
 

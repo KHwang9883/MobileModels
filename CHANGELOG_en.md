@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-08-30
+- `mitv_global_en` Add several new models.
 ## 2022-08-18
 - `realme_global_en` Add realme 9i 5G (India).
 ## 2022-08-11
