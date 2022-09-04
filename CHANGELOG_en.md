@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-09-04
+- `huawei_global_en` Add HUAWEI nova 10.
 ## 2022-08-31
 - `xiaomi_en` Add Redmi Note 11 SE (India).
 ## 2022-08-30

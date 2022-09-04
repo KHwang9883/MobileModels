@@ -361,6 +361,14 @@
 
 `JLN-LX1` `JLN-LX3`: HUAWEI nova 9 SE
 
+**HUAWEI nova 10 (`Nicole`):**
+
+`NCO-LX1` `NCO-LX3`: HUAWEI nova 10
+
+**HUAWEI nova 10 Pro (`Gloria`):**
+
+`GLA-LX1` `GLA-LX3`: HUAWEI nova 10 Pro
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
