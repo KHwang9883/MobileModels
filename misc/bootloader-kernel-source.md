@@ -13,7 +13,7 @@
 | 酷派 (Coolpad) | ✅ | -- | ❌ | -- | -- |
 | 荣耀 (HONOR) | ❌ | ❌ | [⏹](https://www.hihonor.com/global/opensource/) | -- | -- |
 | 华为 (HUAWEI) | ⏹ | -- | [⏹](https://consumer.huawei.com/en/opensource/) | ❌ | • 官方已关闭解锁渠道，部分早期机型可利用第三方服务解锁 |
-| HTC | [✅](https://www.htcdev.com/bootloader/) | 0<br/>（秒解） | [✅]([https://opensource.ztedevices.com/](https://www.htcdev.com/devcenter/downloads)) | ✅ | -- |
+| HTC | [✅](https://www.htcdev.com/bootloader/) | 0<br/>（秒解） | [✅](https://www.htcdev.com/devcenter/downloads) | ✅ | -- |
 | 联想 (Lenovo) | [✅](https://www.zui.com/iunlock) | 0<br/>（秒解） | ✅ | -- | -- |
 | 乐视 (Letv) | ✅ | -- | ❌ | -- | -- |
 | LG | [⏹](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev) | -- | [✅](https://opensource.lge.com/index) | -- | • 官方已关闭解锁渠道 |
