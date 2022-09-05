@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-09-05
+- `xiaomi_en` Add Redmi A1, POCO M5 & C50.
 ## 2022-09-04
 - `huawei_global_en` Add HUAWEI nova 10.
 ## 2022-08-31

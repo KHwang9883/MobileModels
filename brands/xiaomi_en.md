@@ -1371,6 +1371,16 @@
 
 `M1903C3GI`: Redmi Go India
 
+**[`C3S`] Redmi A1 (`ice`):**
+
+`220733SG`: Redmi A1 Global
+
+`220733SFG`: Redmi A1+ Global
+
+`220733SI`: Redmi A1 India
+
+`220733SL`: Redmi A1 Latin America
+
 ## POCO
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -1491,6 +1501,14 @@
 
 `22031116AI`: POCO M4 Pro 5G India
 
+**[`L19C`] POCO M5 (`stone`):**
+
+`22071219CG`: POCO M5 Global
+
+**[`L19C`] POCO M5 (`rock`):**
+
+`22071219CI`: POCO M5 India
+
 **[`K7BP`] POCO M5s (`rosemary_p`):**
 
 `2207117BPG`: POCO M5s Global
@@ -1508,6 +1526,10 @@
 `220333QPG`: POCO C40 Global
 
 `220333QPI`: POCO C40 India
+
+**[`C3SP`] POCO C50 (`ice`):**
+
+`220733SPI`: POCO C50 India
 
 ## Black Shark
 
