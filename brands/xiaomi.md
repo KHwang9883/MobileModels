@@ -1412,11 +1412,13 @@
 
 `220733SG`: Redmi A1 国际版
 
-`220733SFG`: Redmi A1+ 国际版
-
 `220733SI`: Redmi A1 印度版
 
 `220733SL`: Redmi A1 拉美版
+
+**[`D3F`] Redmi A1+ (`snow`):**
+
+`220743FI`: Redmi A1+ 印度版
 
 ## POCO 手机
 
