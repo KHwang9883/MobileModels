@@ -1408,6 +1408,16 @@
 
 `M1903C3GI`: Redmi Go 印度版
 
+**[`C3S`] Redmi A1 (`ice`):**
+
+`220733SG`: Redmi A1 国际版
+
+`220733SFG`: Redmi A1+ 国际版
+
+`220733SI`: Redmi A1 印度版
+
+`220733SL`: Redmi A1 拉美版
+
 ## POCO 手机
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -1528,6 +1538,14 @@
 
 `22031116AI`: POCO M4 Pro 5G 印度版
 
+**[`L19C`] POCO M5 (`stone`):**
+
+`22071219CG`: POCO M5 国际版
+
+**[`L19C`] POCO M5 (`rock`):**
+
+`22071219CI`: POCO M5 印度版
+
 **[`K7BP`] POCO M5s (`rosemary_p`):**
 
 `2207117BPG`: POCO M5s 国际版
@@ -1545,6 +1563,10 @@
 `220333QPG`: POCO C40 国际版
 
 `220333QPI`: POCO C40 印度版
+
+**[`C3SP`] POCO C50 (`ice`):**
+
+`220733SPI`: POCO C50 印度版
 
 ## 黑鲨手机
 
