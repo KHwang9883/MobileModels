@@ -551,7 +551,7 @@
 
 **HUAWEI nova 10z (`Chanel`):**
 
-`CHL-AL80`: HUAWEI nova 10z 全网通版
+`CHA-AL80`: HUAWEI nova 10z 全网通版
 
 ## HUAWEI G 系列
 
