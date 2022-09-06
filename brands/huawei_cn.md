@@ -163,13 +163,29 @@
 
 `NOH-AN50`: HUAWEI Mate 40E Pro 5G 全网通版
 
-**HUAWEI Mate 40 Pro+ (`Noahp`):**
+**HUAWEI Mate 40 Pro+ (`NoahP`):**
 
 `NOP-AN00`: HUAWEI Mate 40 Pro+ 5G 全网通版
 
-**HUAWEI Mate 40 RS 保时捷设计 (`Noahp`):**
+**HUAWEI Mate 40 RS 保时捷设计 (`NoahP`):**
 
 `NOP-AN00`: HUAWEI Mate 40 RS 保时捷设计
+
+**HUAWEI Mate 50:**
+
+`CET-AL00`: HUAWEI Mate 50 4G 全网通版
+
+**HUAWEI Mate 50E:**
+
+`CET-AL60`: HUAWEI Mate 50E 4G 全网通版
+
+**HUAWEI Mate 50 Pro:**
+
+`DCO-AL00`: HUAWEI Mate 50 Pro 4G 全网通版
+
+**HUAWEI Mate 50 RS 保时捷设计:**
+
+`DCO-AL00`: HUAWEI Mate 50 RS 保时捷设计
 
 **HUAWEI Mate X (`Tahiti`):**
 
@@ -349,7 +365,9 @@
 
 **HUAWEI P50 Pocket (`Bali`):**
 
-`BAL-AL00` `BAL-AL80`: HUAWEI P50 Pocket 4G 全网通版
+`BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
+
+`BAL-AL80`: HUAWEI P50 Pocket New 4G 全网通版
 
 ## HUAWEI nova 系列
 
@@ -530,6 +548,10 @@
 **HUAWEI nova 10 Pro (`Gloria`):**
 
 `GLA-AL00`: HUAWEI nova 10 Pro 4G 全网通版
+
+**HUAWEI nova 10z (`Chanel`):**
+
+`CHL-AL80`: HUAWEI nova 10z 全网通版
 
 ## HUAWEI G 系列
 
@@ -925,11 +947,19 @@
 
 **HUAWEI MatePad Pro 12.6 (`Wagner`):**
 
-`WGR-W09` `WGRR-W09`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
+`WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 (2021) Wi-Fi 版 (麒麟 9000E)
 
-`WGR-W19` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
+`WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 (2021) Wi-Fi 版 (麒麟 9000)
 
-`WGR-AN19` `WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
+`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 (2021) 全网通版 (麒麟 9000)
+
+**HUAWEI MatePad Pro 12.6 (`WagnerR`):**
+
+`WGRR-W09`: HUAWEI MatePad Pro 12.6 英寸 (2022) Wi-Fi 版 (麒麟 9000E)
+
+`WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 (2022) Wi-Fi 版 (麒麟 9000)
+
+`WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 (2022) 全网通版 (麒麟 9000)
 
 **HUAWEI MatePad (`Bach3`):**
 
@@ -961,7 +991,9 @@
 
 **HUAWEI MatePad Paper:**
 
-`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸
+
+`HMW-W59`: HUAWEI MatePad Paper 典藏版 10.3 英寸
 
 **HUAWEI MatePad SE (`Agassi3K`):**
 
@@ -1009,7 +1041,7 @@
 
 **华为平板 C3 (2022):**
 
-`BZH-W00`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
+`BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
 
 **华为平板 C5:**
 
@@ -1370,6 +1402,14 @@
 `DRC-W56`: HUAWEI MateBook E (2021) i5 (16GB+512GB)
 
 `DRC-W76`: HUAWEI MateBook E (2021) i7 (16GB+512GB)
+
+**HUAWEI MateBook E Go (`Gaokun`):**
+
+`GK-G58`: HUAWEI MateBook E Go 全网通 (8GB+256GB)
+
+`GK-G56`: HUAWEI MateBook E Go 全网通 (16GB+512GB)
+
+`GK-W76`: HUAWEI MateBook E Go 性能版 Wi-Fi (16GB+512GB)
 
 **HUAWEI MateBook B3-410 (`NobelBZ`):**
 
