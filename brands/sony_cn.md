@@ -81,3 +81,7 @@
 **Xperia 1 IV:**
 
 `XQ-CT72`: Xperia 1 IV
+
+**Xperia 5 IV:**
+
+`XQ-CQ72`: Xperia 5 IV

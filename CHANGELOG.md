@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-09-07
+- `sony_cn` 新增 Xperia 5 IV。
 - `vivo` 新增 vivo Y75s 5G。
 ## 2022-09-06
 - `huawei_cn` 新增 HUAWEI Mate 50 系列等。
