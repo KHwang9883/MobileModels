@@ -416,6 +416,10 @@
 
 `V2009A`: vivo Y74s 5G
 
+**vivo Y75s (2022) (`PD2069`):**
+
+`V2069BA`: vivo Y75s 5G
+
 **vivo Y76s (`PD2156`):**
 
 `V2156A`: vivo Y76s 5G
