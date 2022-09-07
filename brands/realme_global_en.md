@@ -265,9 +265,17 @@
 
 `RMX3265` `RMX3269`: realme C25Y
 
+**realme C30:**
+
+`RMX3581` `RMX3623`: realme C30
+
 **realme C31:**
 
 `RMX3501` `RMX3502` `RMX3503`: realme C31
+
+**realme C33:**
+
+`RMX3624`: realme C33
 
 **realme C35:**
 
