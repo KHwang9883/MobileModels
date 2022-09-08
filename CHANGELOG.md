@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-09-08
+- `xiaomi` 新增 Xiaomi 12T 系列全球版 & Redmi 11 Prime 印度版。
 ## 2022-09-07
 - `sony_cn` 新增 Xperia 5 IV。
 - `vivo` 新增 vivo Y75s 5G。

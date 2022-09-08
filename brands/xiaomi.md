@@ -344,6 +344,14 @@
 
 `2203121C`: Xiaomi 12S Ultra 全网通版
 
+**[`L12A`] Xiaomi 12T (`plato`):**
+
+`22071212AG`: Xiaomi 12T 国际版
+
+**[`L12U`] Xiaomi 12T Pro (`ditingp`):**
+
+`22081212UG`: Xiaomi 12T Pro 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -901,6 +909,10 @@
 `220233L2G`: Redmi 10A 国际版
 
 `220233L2I`: Redmi 10A 印度版 / Redmi 10A Sport 印度版
+
+**[`L19A`] Redmi 11 Prime (`rock`):**
+
+`22071219AI`: Redmi 11 Prime 印度版
 
 ## 红米 / Redmi Note 系列
 
