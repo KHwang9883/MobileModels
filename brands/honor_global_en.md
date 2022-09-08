@@ -193,6 +193,10 @@
 
 `NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite 5G
 
+**HONOR 70:**
+
+`FNE-NX9`: HONOR 70 5G
+
 **HONOR Magic4 Pro:**
 
 `LGE-NX9`: HONOR Magic4 Pro 5G
@@ -224,3 +228,7 @@
 **HONOR X9 5G (`Andy`):**
 
 `ANY-NX1`: HONOR X9 5G
+
+**HONOR Pad 8:**
+
+`HEY-W09`: HONOR Pad 8
