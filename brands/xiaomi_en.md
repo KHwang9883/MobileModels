@@ -341,6 +341,14 @@
 
 `2203121C`: Xiaomi 12S Ultra China
 
+**[`L12A`] Xiaomi 12T (`plato`):**
+
+`22071212AG`: Xiaomi 12T Global
+
+**[`L12U`] Xiaomi 12T Pro (`ditingp`):**
+
+`22081212UG`: Xiaomi 12T Pro Global
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -878,6 +886,10 @@
 `220233L2I`: Redmi 10A India / Redmi 10A Sport India
 
 `220233L2C`: Redmi 10A China
+
+**[`L19A`] Redmi 11 Prime (`rock`):**
+
+`22071219AI`: Redmi 11 Prime India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 

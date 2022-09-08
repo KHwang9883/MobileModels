@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2022-09-08
 - `honor_global_en` Add HONOR 70 & HONOR Pad 8.
+- `xiaomi_en` Add Xiaomi 12T series & Redmi 11 Prime India.
 ## 2022-09-07
 - `realme_global_en` Add realme C33.
 ## 2022-09-05
