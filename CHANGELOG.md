@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-09-10
+- `apple` 新增 iPhone 14 系列 & Apple Watch Serie 8 等。
 ## 2022-09-08
 - `xiaomi` 新增 Xiaomi 12T 系列全球版 & Redmi 11 Prime 印度版。
 ## 2022-09-07

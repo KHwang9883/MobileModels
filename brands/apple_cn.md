@@ -198,6 +198,22 @@
 
 `A2785`: iPhone SE (第 3 代)
 
+**[`D27AP`] iPhone 14 (`iPhone14,7`):**
+
+`A2884`: iPhone 14
+
+**[`D28AP`] iPhone 14 Plus (`iPhone14,8`):**
+
+`A2888`: iPhone 14 Plus
+
+**[`D73AP`] iPhone 14 Pro (`iPhone15,2`):**
+
+`A2892`: iPhone 14 Pro
+
+**[`D74AP`] iPhone 14 Pro Max (`iPhone15,3`):**
+
+`A2896`: iPhone 14 Pro Max
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -621,6 +637,42 @@
 **[`N188bAP`] Apple Watch Series 7 (`Watch6,9`):**
 
 `A2478`: Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) 
+
+**[`N143sAP`] Apple Watch SE (第二代) (`Watch6,10`):**
+
+`A2722`: Apple Watch SE (第二代) (GPS) (40 毫米表壳)
+
+**[`N143bAP`] Apple Watch SE (第二代) (`Watch6,11`):**
+
+`A2723`: Apple Watch SE (第二代) (GPS) (44 毫米表壳)
+
+**[`N149sAP`] Apple Watch SE (第二代) (`Watch6,12`):**
+
+`A2855`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳)
+
+**[`N149bAP`] Apple Watch SE (第二代) (`Watch6,13`):**
+
+`A2856`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳)
+
+**[`N197sAP`] Apple Watch Series 8 (`Watch6,14`):**
+
+`A2770`: Apple Watch Series 8 (GPS) (41 毫米表壳)
+
+**[`N197bAP`] Apple Watch Series 8 (`Watch6,15`):**
+
+`A2771`: Apple Watch Series 8 (GPS) (45 毫米表壳)
+
+**[`N198sAP`] Apple Watch Series 8 (`Watch6,16`):**
+
+`A2857`: Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳)
+
+**[`N198bAP`] Apple Watch Series 8 (`Watch6,17`):**
+
+`A2858`: Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳)
+
+**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
+
+`A2859`: Apple Watch Ultra
 
 ## iPod touch
 
