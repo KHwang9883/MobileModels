@@ -341,6 +341,54 @@
 
 `A2783`: iPhone SE (3rd generation) (Rest of the world)
 
+**[`D27AP`] iPhone 14 (`iPhone14,7`):**
+
+`A2649`: iPhone 14 (United States)
+
+`A2881`: iPhone 14 (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2883`: iPhone 14 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2884`: iPhone 14 (China mainland, Hong Kong, Macao)
+
+`A2882`: iPhone 14 (Rest of the world)
+
+**[`D28AP`] iPhone 14 Plus (`iPhone14,8`):**
+
+`A2632`: iPhone 14 Plus (United States)
+
+`A2885`: iPhone 14 Plus (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2887`: iPhone 14 Plus (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2888`: iPhone 14 Plus (China mainland, Hong Kong, Macao)
+
+`A2886`: iPhone 14 Plus (Rest of the world)
+
+**[`D73AP`] iPhone 14 Pro (`iPhone15,2`):**
+
+`A2650`: iPhone 14 Pro (United States)
+
+`A2889`: iPhone 14 Pro (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2891`: iPhone 14 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2892`: iPhone 14 Pro (China mainland, Hong Kong, Macao)
+
+`A2890`: iPhone 14 Pro (Rest of the world)
+
+**[`D74AP`] iPhone 14 Pro Max (`iPhone15,3`):**
+
+`A2651`: iPhone 14 Pro Max (United States)
+
+`A2893`: iPhone 14 Pro Max (Canada, Japan, Mexico, Saudi Arabia)
+
+`A2895`: iPhone 14 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
+
+`A2896`: iPhone 14 Pro Max (China mainland, Hong Kong, Macao)
+
+`A2894`: iPhone 14 Pro Max (Rest of the world)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -854,6 +902,62 @@
 `A2477`: Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)
 
 `A2478`: Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)
+
+**[`N143sAP`] Apple Watch SE (2nd generation) (`Watch6,10`):**
+
+`A2722`: Apple Watch SE (2nd generation) (GPS) (40mm case)
+
+**[`N143bAP`] Apple Watch SE (2nd generation) (`Watch6,11`):**
+
+`A2723`: Apple Watch SE (2nd generation) (GPS) (44mm case)
+
+**[`N149sAP`] Apple Watch SE (2nd generation) (`Watch6,12`):**
+
+`A2726`: Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (North America)
+
+`A2855`: Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)
+
+`A2725`: Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (Rest of the world)
+
+**[`N149bAP`] Apple Watch SE (2nd generation) (`Watch6,13`):**
+
+`A2727`: Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (North America)
+
+`A2856`: Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)
+
+`A2724`: Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (Rest of the world)
+
+**[`N197sAP`] Apple Watch Series 8 (`Watch6,14`):**
+
+`A2770`: Apple Watch Series 8 (GPS) (41mm case)
+
+**[`N197bAP`] Apple Watch Series 8 (`Watch6,15`):**
+
+`A2771`: Apple Watch Series 8 (GPS) (45mm case)
+
+**[`N198sAP`] Apple Watch Series 8 (`Watch6,16`):**
+
+`A2772`: Apple Watch Series 8 (GPS + Cellular) (41mm case) (North America)
+
+`A2857`: Apple Watch Series 8 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)
+
+`A2773`: Apple Watch Series 8 (GPS + Cellular) (41mm case) (Rest of the world)
+
+**[`N198bAP`] Apple Watch Series 8 (`Watch6,17`):**
+
+`A2774`: Apple Watch Series 8 (GPS + Cellular) (45mm case) (North America)
+
+`A2858`: Apple Watch Series 8 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)
+
+`A2775`: Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)
+
+**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
+
+`A2622`: Apple Watch Ultra (North America)
+
+`A2859`: Apple Watch Ultra (China mainland, Hong Kong, Macao)
+
+`A2684`: Apple Watch Ultra (Rest of the world)
 
 ## iPod touch
 

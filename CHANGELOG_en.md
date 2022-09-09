@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-09-10
+- `apple_en` Add iPhone 14, Apple Watch Series 8, SE, Ultra.
 ## 2022-09-08
 - `honor_global_en` Add HONOR 70 & HONOR Pad 8.
 - `xiaomi_en` Add Xiaomi 12T series & Redmi 11 Prime India.
