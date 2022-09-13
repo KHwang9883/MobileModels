@@ -1523,7 +1523,7 @@
 
 `22071219CI`: POCO M5 India
 
-**[`K7BP`] POCO M5s (`rosemary_p`):**
+**[`K7BP`] POCO M5s (`rosemary`):**
 
 `2207117BPG`: POCO M5s Global
 

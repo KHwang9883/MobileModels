@@ -1560,7 +1560,7 @@
 
 `22071219CI`: POCO M5 印度版
 
-**[`K7BP`] POCO M5s (`rosemary_p`):**
+**[`K7BP`] POCO M5s (`rosemary`):**
 
 `2207117BPG`: POCO M5s 国际版
 
