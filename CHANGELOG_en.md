@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-09-14
+- `realme_global_en` Add realme C30s.
 ## 2022-09-10
 - `apple_en` Add iPhone 14, Apple Watch Series 8, SE, Ultra.
 ## 2022-09-08

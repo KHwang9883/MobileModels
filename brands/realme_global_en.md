@@ -269,6 +269,10 @@
 
 `RMX3581` `RMX3623`: realme C30
 
+**realme C30s:**
+
+`RMX3690`: realme C30s
+
 **realme C31:**
 
 `RMX3501` `RMX3502` `RMX3503`: realme C31
@@ -309,7 +313,9 @@
 
 **realme Narzo 20 Pro:**
 
-`RMX2161`: realme Narzo 20 Pro
+`RMX2161`: realme Narzo 20 Pro India
+
+`RMX2163`: realme Narzo 20 Pro Global
 
 **realme Narzo 20A:**
 
