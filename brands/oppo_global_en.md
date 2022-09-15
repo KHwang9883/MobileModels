@@ -259,7 +259,15 @@
 
 **OPPO F21 Pro:**
 
-`CPH2341` `CPH2363`: OPPO F21 Pro 5G
+`CPH2363`: OPPO F21 Pro
+
+`CPH2341` `CPH2343`: OPPO F21 Pro 5G
+
+**OPPO F21s Pro:**
+
+`CPH2461`: OPPO F21s Pro
+
+`CPH2455`: OPPO F21s Pro 5G
 
 ## R series
 
