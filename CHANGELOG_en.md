@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2022-09-15
+- `honor_global_en` Add HONOR Pad X8.
 - `oppo_global_en` Add OPPO F21s Pro.
 ## 2022-09-14
 - `realme_global_en` Add realme C30s.

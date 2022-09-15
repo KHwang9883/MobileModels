@@ -232,3 +232,13 @@
 **HONOR Pad 8:**
 
 `HEY-W09`: HONOR Pad 8
+
+**HONOR Pad X8 (`Agassi3M`):**
+
+`AGM3-W09HN`: HONOR Pad X8 Wi-Fi
+
+`AGM3-AL09HN`: HONOR Pad X8 LTE
+
+**HONOR Pad X8 Lite (`AgassiRM`):**
+
+`AGM-W09HN`: HONOR Pad X8 Lite
