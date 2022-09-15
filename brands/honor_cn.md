@@ -422,6 +422,10 @@
 
 `KKG-AN70`: 荣耀 X30 Max 5G 全网通版
 
+**荣耀 X40:**
+
+`RMO-AN00`: 荣耀 X40 5G 全网通版
+
 **荣耀 X40i:**
 
 `DIO-AN00`: 荣耀 X40i 5G 全网通版
@@ -758,6 +762,10 @@
 
 `AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 全网通版
 
+**荣耀平板 X8 (`Agassi3M`):**
+
+`AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
+
 **荣耀平板 8:**
 
 `HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
@@ -1020,6 +1028,12 @@
 
 `HGE-W76`: 荣耀 MagicBook V 14 i7
 
+**荣耀 MagicBook V 14 2022:**
+
+`HGF-W56`: 荣耀 MagicBook V 14 2022 i5
+
+`HGF-W76`: 荣耀 MagicBook V 14 2022 i7
+
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
 `NBR-WAI9`: 荣耀 MagicBook X 14 i3
@@ -1028,7 +1042,11 @@
 
 **荣耀 MagicBook X 14 2022 (`NobelDR`):**
 
-`NDR-WFH`: 荣耀 MagicBook X 14 2022 i5
+`NDR-WFH`: 荣耀 MagicBook X 14 2022 i5 (11 代酷睿)
+
+**荣耀 MagicBook X 14 2022:**
+
+`FRI-F56`: 荣耀 MagicBook X 14 2022 i5 (12 代酷睿)
 
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
@@ -1041,6 +1059,10 @@
 `BDR-WDH`: 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
 
 `BDR-WFH`: 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
+
+**荣耀 MagicBook X 16 2022:**
+
+`BRN-F56`: 荣耀 MagicBook X 16 2022 i5
 
 **荣耀猎人游戏本 V700:**
 
