@@ -360,6 +360,10 @@
 
 `V2054A`: vivo Y52s (t1 版) 5G
 
+**vivo Y52t (`PD2166`):**
+
+`V2166A`: vivo Y52t 5G
+
 **vivo Y53s (`PD2111`):**
 
 `V2111A`: vivo Y53s 5G
