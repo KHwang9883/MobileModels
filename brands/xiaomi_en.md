@@ -1391,7 +1391,9 @@
 
 `220733SL`: Redmi A1 Latin America
 
-**[`D3F`] Redmi A1+ (`snow`):**
+**[`C3SF`] Redmi A1+ (`snow`):**
+
+`220733SFG`: Redmi A1+ Global
 
 `220743FI`: Redmi A1+ India
 
