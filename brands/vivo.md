@@ -154,6 +154,10 @@
 
 `V2186A`: vivo X80 Pro 天玑 9000 版
 
+**vivo X Fold+ (`PD2229`):**
+
+`V2229A`: vivo X Fold+
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
