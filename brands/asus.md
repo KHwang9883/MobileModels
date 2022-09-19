@@ -34,6 +34,12 @@
 
 `ASUS_AI2201_B`: 腾讯 ROG 游戏手机 6 Pro
 
+**ROG Phone 6D (`AI2203`):**
+
+`ASUS_AI2203_A`: 腾讯 ROG 游戏手机 6 天玑版
+
+`ASUS_AI2203_B`: 腾讯 ROG 游戏手机 6 天玑至尊版
+
 **Smartphone for Snapdragon Insiders:**
 
 `ASUS_I007D`: Smartphone for Snapdragon Insiders
