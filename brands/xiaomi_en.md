@@ -483,6 +483,10 @@
 
 `2109119BC`: Xiaomi Civi 1S China
 
+**[`L9S`] Xiaomi Civi 2 (`ziyi`):**
+
+`2209129SC`: Xiaomi Civi 2 China
+
 **[`F9`] Mi Play (`lotus`):**
 
 `M1901F9E`: Mi Play

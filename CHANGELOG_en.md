@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-09-20
+- `xiaomi_en` Add Xiaomi Civi 2.
 ## 2022-09-15
 - `honor_global_en` Add HONOR Pad X8.
 - `oppo_global_en` Add OPPO F21s Pro.
