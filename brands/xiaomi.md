@@ -498,6 +498,10 @@
 
 `2109119BC`: Xiaomi Civi 1S 全网通版
 
+**[`L9S`] Xiaomi Civi 2 (`ziyi`):**
+
+`2209129SC`: Xiaomi Civi 2 全网通版
+
 ## 小米 Play 系列
 
 **[`F9`] 小米 Play (`lotus`):**

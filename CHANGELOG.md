@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-09-20
+- `xiaomi` 新增 Xiaomi Civi 2。
 ## 2022-09-19
 - `asus` 新增 ROG Phone 6D 系列。
 - `vivo` 新增 vivo X Fold+。
