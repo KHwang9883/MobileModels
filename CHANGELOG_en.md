@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-09-27
+- `huawei_global_en` Add HUAWEI Mate 50.
 ## 2022-09-20
 - `xiaomi_en` Add Xiaomi Civi 2.
 ## 2022-09-15

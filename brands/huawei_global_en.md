@@ -119,6 +119,14 @@
 
 `NOH-NX9`: HUAWEI Mate 40 Pro 5G Dual SIM
 
+**HUAWEI Mate 50:**
+
+`CET-LX9`: HUAWEI Mate 50
+
+**HUAWEI Mate 50 Pro:**
+
+`DCO-LX9`: HUAWEI Mate 50 Pro
+
 **HUAWEI Mate Xs (`Tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM
