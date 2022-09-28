@@ -420,6 +420,10 @@
 
 `V2031A`: vivo Y73s 5G
 
+**vivo Y73t (`PD2164P`):**
+
+`V2164PA`: vivo Y73t 5G
+
 **vivo Y74s (`PD2009`):**
 
 `V2009A`: vivo Y74s 5G
