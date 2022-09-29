@@ -1569,6 +1569,16 @@
 
 `HD65KHAS`: 华为智慧屏 SE65 Pro (2022)
 
+**华为 Vision 智慧屏:**
+
+`HD65FRUC`: 华为 Vision 智慧屏 Z65 电竞版
+
+`HD75FRUC`: 华为 Vision 智慧屏 Z75 电竞版
+
+`HD75MILA`: 华为 Vision 智慧屏 75
+
+`HD86KHAA`: 华为 Vision 智慧屏 86
+
 **华为智慧屏 B 系列:**
 
 `HD55KANY`: 华为智慧屏 B5-510
