@@ -334,6 +334,8 @@
 
 `L65R8-A`: Redmi 智能电视 A65 2022 款
 
+`L70R8-A`: Redmi 智能电视 A70 2022 款
+
 `L75R8-A`: Redmi 智能电视 A75 2022 款
 
 **Redmi 智能电视 X:**
@@ -353,6 +355,14 @@
 `L65R8-X`: Redmi 智能电视 X65 2022 款
 
 `L75R8-X`: Redmi 智能电视 X75 2022 款
+
+**Redmi 智能电视 XT:**
+
+`L55RA-XT`: Redmi 智能电视 X55T
+
+`L65RA-XT`: Redmi 智能电视 X65T
+
+`L75RA-XT`: Redmi 智能电视 X75T
 
 **Redmi AI 智能电视 X:**
 
