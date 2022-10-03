@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-10-03
+- `realme_global_en` Add realme Pad X.
 ## 2022-09-27
 - `huawei_global_en` Add HUAWEI Mate 50.
 ## 2022-09-20

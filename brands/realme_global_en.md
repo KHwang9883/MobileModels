@@ -397,8 +397,18 @@
 
 **realme Pad:**
 
-`RMP2102` `RMP2103`: realme Pad
+`RMP2102`: realme Pad LTE
+
+`RMP2103`: realme Pad Wi-Fi
 
 **realme Pad mini:**
 
-`RMP2105` `RMP2106`: realme Pad mini
+`RMP2105`: realme Pad mini LTE
+
+`RMP2106`: realme Pad mini Wi-Fi
+
+**realme Pad X:**
+
+`RMP2107`: realme Pad X 5G
+
+`RMP2108`: realme Pad X Wi-Fi
