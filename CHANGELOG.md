@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-10-04
+- `xiaomi` 新增 Redmi Note 11R & Redmi Pad。
 ## 2022-10-01
 - `mitv_cn` 新增 Redmi 电视 XT 系列。
 ## 2022-09-29

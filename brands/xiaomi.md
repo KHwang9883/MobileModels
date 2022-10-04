@@ -1284,6 +1284,14 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 全网通版
 
+**[`L19P`] Redmi Note 11R (`light`):**
+
+`22095RA98C`: Redmi Note 11R 5G 全网通版
+
+**[`K6A`] Redmi Note 11 Pro 2023 (`sweet`):**
+
+`2209116AG`: Redmi Note 11 Pro 2023 国际版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
@@ -1437,6 +1445,14 @@
 `220733SFG`: Redmi A1+ 国际版
 
 `220743FI`: Redmi A1+ 印度版
+
+## Redmi 平板
+
+**[`L83`] Redmi Pad (`yunluo`):**
+
+`22081283C`: Redmi Pad 国行版
+
+`22081283G`: Redmi Pad 国际版
 
 ## POCO 手机
 
