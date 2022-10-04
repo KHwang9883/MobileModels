@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2022-10-04
 - `oppo_global_en` Add several new models.
+- `xiaomi_en` Add Redmi Pad & Redmi Note 11 Pro 2023.
 ## 2022-10-03
 - `realme_global_en` Add realme Pad X.
 ## 2022-09-27

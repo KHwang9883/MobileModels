@@ -1135,7 +1135,7 @@
 
 `M2103K19I`: Redmi Note 10T 5G India
 
-`M2103K19C`: Redmi Note 10 5G China / Redmi Note 11SE China
+`M2103K19C`: Redmi Note 10 5G China / Redmi Note 11SE 5G China
 
 **[`K19J`] Redmi Note 10 JE (`iris`):**
 
@@ -1229,7 +1229,7 @@
 
 `2201116SR`: Redmi Note 11 Pro 5G Japan
 
-`2201116SC`: Redmi Note 11E Pro China
+`2201116SC`: Redmi Note 11E Pro 5G China
 
 **[`K6S`] Redmi Note 11 Pro+ 5G (`peux`):**
 
@@ -1237,21 +1237,29 @@
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
-`21091116C`: Redmi Note 11 Pro China
+`21091116C`: Redmi Note 11 Pro 5G China
 
 **[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
 
 `21091116UG`: Redmi Note 11 Pro+ 5G Global
 
-`21091116UC`: Redmi Note 11 Pro+ China
+`21091116UC`: Redmi Note 11 Pro+ 5G China
 
 **[`L16`] Redmi Note 11T Pro (`xaga`):**
 
-`22041216C`: Redmi Note 11T Pro China
+`22041216C`: Redmi Note 11T Pro 5G China
 
 **[`L16U`] Redmi Note 11T Pro+ (`xagapro`):**
 
-`22041216UC`: Redmi Note 11T Pro+ China
+`22041216UC`: Redmi Note 11T Pro+ 5G China
+
+**[`L19P`] Redmi Note 11R (`light`):**
+
+`22095RA98C`: Redmi Note 11R 5G China
+
+**[`K6A`] Redmi Note 11 Pro 2023 (`sweet`):**
+
+`2209116AG`: Redmi Note 11 Pro 2023 Global
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -1400,6 +1408,14 @@
 `220733SFG`: Redmi A1+ Global
 
 `220743FI`: Redmi A1+ India
+
+## Redmi tablets
+
+**[`L83`] Redmi Pad (`yunluo`):**
+
+`22081283G`: Redmi Pad Global
+
+`22081283C`: Redmi Pad China
 
 ## POCO
 
