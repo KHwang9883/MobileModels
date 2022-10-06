@@ -131,6 +131,22 @@
 
 `GB17L`: Pixel 6a (Japan)
 
+**Pixel 7 (`panther`):**
+
+`GQML3`: Pixel 7 (US, mmWave)
+
+`GVU6C`: Pixel 7 (Rest of the world)
+
+`G03Z5`: Pixel 7 (Japan)
+
+**Pixel 7 Pro (`cheetah`):**
+
+`GE2AE`: Pixel 7 Pro (US, AU) (mmWave)
+
+`GP4BC`: Pixel 7 Pro (Rest of the world)
+
+`GFE4J`: Pixel 7 Pro (Japan)
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C

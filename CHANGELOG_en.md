@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-10-07
+- `google_en` Add Pixel 7 series.
 ## 2022-10-06
 - `huawei_global_en` Add HUAWEI nova 10 SE.
 ## 2022-10-04
