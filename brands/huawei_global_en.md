@@ -357,7 +357,7 @@
 
 `CDY-NX9`: HUAWEI nova 7 SE 5G
 
-**HUAWEI nova 8i (`Newton`):**
+**HUAWEI nova 8i (`Neumann`):**
 
 `NEN-LX1` `NEN-L22` `NEN-LX3`: HUAWEI nova 8i
 
@@ -371,11 +371,21 @@
 
 **HUAWEI nova 10 (`Nicole`):**
 
-`NCO-LX1` `NCO-LX3`: HUAWEI nova 10
+`NCO-LX1`: HUAWEI nova 10 Dual SIM
+
+`NCO-LX3`: HUAWEI nova 10 Single SIM
 
 **HUAWEI nova 10 Pro (`Gloria`):**
 
-`GLA-LX1` `GLA-LX3`: HUAWEI nova 10 Pro
+`GLA-LX1`: HUAWEI nova 10 Pro Dual SIM
+
+`GLA-LX3`: HUAWEI nova 10 Pro Single SIM
+
+**HUAWEI nova 10 SE:**
+
+`BNE-LX1`: HUAWEI nova 10 SE Dual SIM
+
+`BNE-LX3`: HUAWEI nova 10 SE Single SIM
 
 **HUAWEI nova Y60 (`Wukong`):**
 

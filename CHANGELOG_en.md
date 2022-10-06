@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-10-06
+- `huawei_global_en` Add HUAWEI nova 10 SE.
 ## 2022-10-04
 - `oppo_global_en` Add several new models.
 - `xiaomi_en` Add Redmi Pad & Redmi Note 11 Pro 2023.
