@@ -506,6 +506,10 @@
 
 `TFY-AN40`: 荣耀 Play6T Pro 5G 全网通版
 
+**荣耀 Play6C (`Vinnie`):**
+
+`VNE-AN40`: 荣耀 Play6C 5G 全网通版
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**
