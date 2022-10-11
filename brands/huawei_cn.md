@@ -171,19 +171,19 @@
 
 `NOP-AN00`: HUAWEI Mate 40 RS 保时捷设计
 
-**HUAWEI Mate 50:**
+**HUAWEI Mate 50 (`Cetus`):**
 
 `CET-AL00`: HUAWEI Mate 50 4G 全网通版
 
-**HUAWEI Mate 50E:**
+**HUAWEI Mate 50E (`Cetus-`):**
 
 `CET-AL60`: HUAWEI Mate 50E 4G 全网通版
 
-**HUAWEI Mate 50 Pro:**
+**HUAWEI Mate 50 Pro (`Draco`):**
 
 `DCO-AL00`: HUAWEI Mate 50 Pro 4G 全网通版
 
-**HUAWEI Mate 50 RS 保时捷设计:**
+**HUAWEI Mate 50 RS 保时捷设计 (`Draco`):**
 
 `DCO-AL00`: HUAWEI Mate 50 RS 保时捷设计
 
