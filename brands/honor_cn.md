@@ -430,6 +430,10 @@
 
 `DIO-AN00`: 荣耀 X40i 5G 全网通版
 
+**荣耀 X40 GT (`AndyT`):**
+
+`ADT-AN00`: 荣耀 X40 GT 5G 全网通版
+
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**
