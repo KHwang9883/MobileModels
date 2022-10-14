@@ -69,3 +69,7 @@
 **Nokia T20 (`riddler`):**
 
 `TA-1392`: Nokia T20
+
+**Nokia C31 (`vision`):**
+
+`TA-1511`: Nokia C31
