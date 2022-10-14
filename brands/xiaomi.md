@@ -1600,7 +1600,7 @@
 
 `220333QPI`: POCO C40 印度版
 
-**[`C3SP`] POCO C50 (`ice`):**
+**[`C3SP`] POCO C50 (`snow`):**
 
 `220733SPI`: POCO C50 印度版
 
