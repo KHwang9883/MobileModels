@@ -372,6 +372,12 @@
 
 `L75R9-XT`: Redmi AI 智能电视 X75
 
+**Redmi 智能电视 X Pro:**
+
+`L65R9-XP`: Redmi 智能电视 X Pro 65
+
+`L75R9-XP`: Redmi 智能电视 X Pro 75
+
 **Redmi 智能电视 MAX:**
 
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
