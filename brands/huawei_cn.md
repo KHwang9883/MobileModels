@@ -1039,7 +1039,7 @@
 
 `BZC-AL00`: 华为平板 C3 9.7 英寸 2020 款 全网通版
 
-**华为平板 C3 (2022):**
+**华为平板 C3 (2021):**
 
 `BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
 
@@ -1381,6 +1381,10 @@
 
 `BoDE-WFE9`: HUAWEI MateBook D 15 (2022) i7
 
+**HUAWEI MateBook D 15 SE (`BohrDE`):**
+
+`BoDE-WDH9`: HUAWEI MateBook D 15 SE i5
+
 **HUAWEI MateBook D 16 (`RolleF`):**
 
 `RLEF-16`: HUAWEI MateBook D 16 (2022) / HUAWEI MateBook D 16 SE
@@ -1427,6 +1431,14 @@
 
 `NDZ-WFE9A`: HUAWEI MateBook B3-420 i7
 
+**HUAWEI MateBook B3-430 (`NobelFZ`):**
+
+`NFZ-WDH9`: HUAWEI MateBook B3-430 i5 (8GB+512GB)
+
+`NFZ-WFH9`: HUAWEI MateBook B3-430 i5 (16GB+512GB)
+
+`NFZ-WFE9`: HUAWEI MateBook B3-430 i7
+
 **HUAWEI MateBook B3-510 (`BohrBZ`):**
 
 `BBZ-WBH9`: HUAWEI MateBook B3-510 i5
@@ -1441,6 +1453,12 @@
 
 `BDZ-WFE9A`: HUAWEI MateBook B3-520 i7
 
+**HUAWEI MateBook B5-330 (`WrightDZ`):**
+
+`WRTDZ-WFH9`: HUAWEI MateBook B5-330 i5
+
+`WRTDZ-WFE9`: HUAWEI MateBook B5-330 i7
+
 **HUAWEI MateBook B5-420 (`KelvinCZ`):**
 
 `KLCZ-WDH9`: HUAWEI MateBook B5-420
@@ -1453,11 +1471,29 @@
 
 `KLDZ-WFE9A`: HUAWEI MateBook B5-430 i7
 
-**HUAWEI MateBook B7 (`MachDZ`):**
+**HUAWEI MateBook B5-440 (`KelvinFZ`):**
 
-`MDZ-WFH9A`: HUAWEI MateBook B7 i5
+`KLVFZ-W56`: HUAWEI MateBook B5-440 i5
 
-`MDZ-WFE9A`: HUAWEI MateBook B7 i7
+`KLVFZ-W76`: HUAWEI MateBook B5-440 i7
+
+**HUAWEI MateBook B7-410 (`MachDZ`):**
+
+`MDZ-WDH9A`: HUAWEI MateBook B7-410 i5 (8GB+512GB)
+
+`MDZ-WDH9B`: HUAWEI MateBook B7-410 i5 (8GB+256GB)
+
+`MDZ-WFH9A`: HUAWEI MateBook B7-410 i5 (16GB+512GB)
+
+`MDZ-WFE9A`: HUAWEI MateBook B7-410 i7 (16GB+512GB)
+
+`MDZ-WFE9B`: HUAWEI MateBook B7-410 i7 (16GB+1TB)
+
+**HUAWEI MateBook B7-420 (`MorganFZ`):**
+
+`MRGF-5651`: HUAWEI MateBook B7-420 i5
+
+`MRGF-7651`: HUAWEI MateBook B7-420 i7
 
 **华为擎云 L410 (`KelvinU`):**
 
