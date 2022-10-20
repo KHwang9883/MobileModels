@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-10-20
+- `honor_global_en` Add HONOR X6.
 ## 2022-10-07
 - `google_en` Add Pixel 7 series.
 ## 2022-10-06
