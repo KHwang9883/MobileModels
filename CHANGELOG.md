@@ -2,6 +2,7 @@
 ## 2022-10-20
 - `huawei_cn` 新增部分商用型号。
 - `vivo` 新增 iQOO Neo7。
+- `zhixuan` 新增 Hi nova 10 系列。
 ## 2022-10-18
 - `mitv_cn` 新增 Redmi 电视 X Pro 系列。
 ## 2022-10-14

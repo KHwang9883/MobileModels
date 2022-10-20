@@ -81,6 +81,14 @@
 
 `MNT-BD00`: Hi nova 9z 5G
 
+**Hi nova 10:**
+
+`ALH-BD00`: Hi nova 10 5G
+
+**Hi nova 10 Pro:**
+
+`MGZ-BD00`: Hi nova 10 Pro 5G
+
 ## 雷鸟 FFALCON
 
 **雷鸟 FF1:**
