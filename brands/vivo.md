@@ -710,6 +710,10 @@
 
 `V2199A`: iQOO Neo6 SE
 
+**iQOO Neo7 (`PD2231`):**
+
+`V2231A`: iQOO Neo7
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
