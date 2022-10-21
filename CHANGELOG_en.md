@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-10-21
+- `apple_en` Add iPad 10th generation & M2 iPad Pro.
 ## 2022-10-20
 - `honor_global_en` Add HONOR X6.
 ## 2022-10-07
