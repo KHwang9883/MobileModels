@@ -367,7 +367,9 @@
 
 `BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
 
-`BAL-AL80`: HUAWEI P50 Pocket New 4G 全网通版
+**HUAWEI Pocket S (`Bali`):**
+
+`BAL-AL80`: HUAWEI Pocket S 4G 全网通版
 
 ## HUAWEI nova 系列
 
