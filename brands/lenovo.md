@@ -148,6 +148,8 @@
 
 `Lenovo TB-J607Z`: 联想小新 Pad Plus 5G
 
+`TB350FU`: 联想小新 Pad Plus 2023
+
 **联想小新 Pad Pro:**
 
 `Lenovo TB-J706F`: 联想小新 Pad Pro 2020

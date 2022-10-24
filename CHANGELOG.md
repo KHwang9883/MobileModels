@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-10-24
 - `huawei_cn` 新增 HUAWEI Pocket S。
+- `lenovo` 新增 联想小新 Pad Plus 2023。
 ## 2022-10-22
 - `samsung_cn` 新增 三星 W23。
 ## 2022-10-21
