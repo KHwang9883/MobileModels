@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-10-25
+- `huawei_cn` 新增 MateBook D 14 SE 12 代酷睿版。 
 ## 2022-10-24
 - `huawei_cn` 新增 HUAWEI Pocket S。
 - `lenovo` 新增 联想小新 Pad Plus 2023。

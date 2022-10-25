@@ -993,9 +993,9 @@
 
 **HUAWEI MatePad Paper:**
 
-`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸
+`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
 
-`HMW-W59`: HUAWEI MatePad Paper 典藏版 10.3 英寸
+`HMW-AL10`: HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版
 
 **HUAWEI MatePad SE (`Agassi3K`):**
 
@@ -1337,11 +1337,15 @@
 
 `NbDE-WDH9`: HUAWEI MateBook D 14 SE i5
 
-**HUAWEI MateBook D 14 12 代酷睿版 (`NobelDE`):**
+**HUAWEI MateBook D 14 12 代酷睿版 (`NobelF`):**
 
 `NbF-08`: HUAWEI MateBook D 14 (2022) 12 代酷睿版 (8GB 内存)
 
 `NbF-16`: HUAWEI MateBook D 14 (2022) 12 代酷睿版 (16GB 内存)
+
+**HUAWEI MateBook D 14 SE 12 代酷睿版 (`NobelF`):**
+
+`NbF-08`: HUAWEI MateBook D 14 SE 12 代酷睿版
 
 **HUAWEI MateBook D 15 (`BohrK`):**
 
