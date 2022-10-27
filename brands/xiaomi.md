@@ -1292,6 +1292,22 @@
 
 `2209116AG`: Redmi Note 11 Pro 2023 国际版
 
+**[`M17`] Redmi Note 12:**
+
+`22101317C`: Redmi Note 12 全网通版
+
+**[`M16`] Redmi Note 12 Pro (`ruby`):**
+
+`22101316C`: Redmi Note 12 Pro 全网通版
+
+**[`M16UP`] Redmi Note 12 Pro+ (`rubyplus`):**
+
+`22101316UCP`: Redmi Note 12 Pro+ 全网通版
+
+**[`M16U`] Redmi Note 12 探索版 (`rubypro`):**
+
+`22101316UC`: Redmi Note 12 探索版 全网通版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**

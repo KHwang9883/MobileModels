@@ -1,6 +1,7 @@
 # 更新日志
 ## 2022-10-27
 - `mitv_cn` 新增 Redmi 智能电视 X86。
+- `xiaomi` 新增 Redmi Note 12 系列（Note 12 代号待更新）。
 ## 2022-10-25
 - `huawei_cn` 新增 MateBook D 14 SE 12 代酷睿版。 
 ## 2022-10-24
