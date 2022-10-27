@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-10-27
+- `xiaomi_en` Add Redmi Note 12 series (codename will be added later).
 ## 2022-10-21
 - `apple_en` Add iPad 10th generation & M2 iPad Pro.
 ## 2022-10-20

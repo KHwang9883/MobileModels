@@ -1261,6 +1261,22 @@
 
 `2209116AG`: Redmi Note 11 Pro 2023 Global
 
+**[`M17`] Redmi Note 12:**
+
+`22101317C`: Redmi Note 12 China
+
+**[`M16`] Redmi Note 12 Pro (`ruby`):**
+
+`22101316C`: Redmi Note 12 Pro China
+
+**[`M16UP`] Redmi Note 12 Pro+ (`rubyplus`):**
+
+`22101316UCP`: Redmi Note 12 Pro+ China
+
+**[`M16U`] Redmi Note 12 Explore Edition (`rubypro`):**
+
+`22101316UC`: Redmi Note 12 Explore Edition China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
