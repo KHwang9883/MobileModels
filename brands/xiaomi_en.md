@@ -1273,9 +1273,9 @@
 
 `22101316UCP`: Redmi Note 12 Pro+ China
 
-**[`M16U`] Redmi Note 12 DISCOVERY EDITION (`rubypro`):**
+**[`M16U`] Redmi Note 12 Discovery (`rubypro`):**
 
-`22101316UC`: Redmi Note 12 DISCOVERY EDITION China
+`22101316UC`: Redmi Note 12 Discovery China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
