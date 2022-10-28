@@ -1261,7 +1261,7 @@
 
 `2209116AG`: Redmi Note 11 Pro 2023 Global
 
-**[`M17`] Redmi Note 12:**
+**[`M17`] Redmi Note 12 (`sunstone`):**
 
 `22101317C`: Redmi Note 12 China
 
