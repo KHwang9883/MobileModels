@@ -1273,9 +1273,9 @@
 
 `22101316UCP`: Redmi Note 12 Pro+ China
 
-**[`M16U`] Redmi Note 12 Discovery (`rubypro`):**
+**[`M16U`] Redmi Note 12 Discovery Edition (`rubypro`):**
 
-`22101316UC`: Redmi Note 12 Discovery China
+`22101316UC`: Redmi Note 12 Discovery Edition China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -1413,7 +1413,7 @@
 
 **[`C3S`] Redmi A1 (`ice`):**
 
-`220733SG`: Redmi A1 Global
+`220733SG` `220733SH`: Redmi A1 Global
 
 `220733SI`: Redmi A1 India
 
@@ -1421,7 +1421,7 @@
 
 **[`C3SF`] Redmi A1+ (`snow`):**
 
-`220733SFG`: Redmi A1+ Global
+`220733SFG` `220733SFH`: Redmi A1+ Global
 
 `220743FI`: Redmi A1+ India
 
