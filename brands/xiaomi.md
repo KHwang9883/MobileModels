@@ -1450,7 +1450,7 @@
 
 **[`C3S`] Redmi A1 (`ice`):**
 
-`220733SG`: Redmi A1 国际版
+`220733SG` `220733SH`: Redmi A1 国际版
 
 `220733SI`: Redmi A1 印度版
 
@@ -1458,7 +1458,7 @@
 
 **[`C3SF`] Redmi A1+ (`snow`):**
 
-`220733SFG`: Redmi A1+ 国际版
+`220733SFG` `220733SFH`: Redmi A1+ 国际版
 
 `220743FI`: Redmi A1+ 印度版
 
