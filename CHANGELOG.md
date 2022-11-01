@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-11-01
+- `oppo_cn` 新增 OPPO A58。
 ## 2022-10-27
 - `mitv_cn` 新增 Redmi 智能电视 X86。
 - `xiaomi` 新增 Redmi Note 12 系列。

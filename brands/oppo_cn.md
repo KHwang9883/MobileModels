@@ -332,6 +332,10 @@
 
 `PFTM20`: OPPO A57 (2022)
 
+**OPPO A58**
+
+`PHJ110`: OPPO A58
+
 **OPPO A72:**
 
 `PDYM20`: OPPO A72 全网通版
