@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-11-02
+- `huawei_global_en` Add HUAWEI nova Y61.
 ## 2022-10-27
 - `xiaomi_en` Add Redmi Note 12 series.
 ## 2022-10-21
