@@ -1269,11 +1269,11 @@
 
 `22101316C`: Redmi Note 12 Pro China
 
-**[`M16UP`] Redmi Note 12 Pro+ (`rubyplus`):**
+**[`M16UP`] Redmi Note 12 Pro+ (`rubypro`):**
 
 `22101316UCP`: Redmi Note 12 Pro+ China
 
-**[`M16U`] Redmi Note 12 Discovery Edition (`rubypro`):**
+**[`M16U`] Redmi Note 12 Discovery Edition (`rubyplus`):**
 
 `22101316UC`: Redmi Note 12 Discovery Edition China
 

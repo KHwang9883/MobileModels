@@ -1300,11 +1300,11 @@
 
 `22101316C`: Redmi Note 12 Pro 全网通版
 
-**[`M16UP`] Redmi Note 12 Pro+ (`rubyplus`):**
+**[`M16UP`] Redmi Note 12 Pro+ (`rubypro`):**
 
 `22101316UCP`: Redmi Note 12 Pro+ 全网通版
 
-**[`M16U`] Redmi Note 12 探索版 (`rubypro`):**
+**[`M16U`] Redmi Note 12 探索版 (`rubyplus`):**
 
 `22101316UC`: Redmi Note 12 探索版 全网通版
 
