@@ -369,7 +369,7 @@
 
 **HUAWEI Pocket S (`Bali`):**
 
-`BAL-AL80`: HUAWEI Pocket S 4G 全网通版
+`BAL-AL60`: HUAWEI Pocket S 4G 全网通版
 
 ## HUAWEI nova 系列
 
@@ -1546,6 +1546,12 @@
 `HD65FRUA`: 华为智慧屏 V 65 Pro
 
 `HD75FRUA`: 华为智慧屏 V 75 Pro
+
+**华为智慧屏 V 三代:**
+
+`HD65FRUB`: 华为智慧屏 V 65 三代
+
+`HD75FRUB`: 华为智慧屏 V 75 三代
 
 **华为智慧屏 X 系列 (`Plato`):**
 
