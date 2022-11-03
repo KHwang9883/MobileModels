@@ -539,7 +539,7 @@
 
 `A2588`: iPad Air (5th generation) Wi-Fi
 
-**[`J408AP`] iPad Air (4th generation) (`iPad13,17`):**
+**[`J408AP`] iPad Air (5th generation) (`iPad13,17`):**
 
 `A2589`: iPad Air (5th generation) Wi-Fi + Cellular
 
