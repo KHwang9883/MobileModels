@@ -233,7 +233,7 @@
 
 `ANY-NX1`: HONOR X9 5G
 
-**HONOR Pad 8:**
+**HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8
 
