@@ -3542,6 +3542,9 @@ PFCM00,mob,oppo,OPPO,,,OPPO Reno7 SE,#
 PGBM10,mob,oppo,OPPO,,,OPPO Reno8,#
 PGAM10,mob,oppo,OPPO,,,OPPO Reno8 Pro,#
 PFZM10,mob,oppo,OPPO,,,OPPO Reno8 Pro,#
+PHM110,mob,oppo,OPPO,,,OPPO Reno9,#
+PGX110,mob,oppo,OPPO,,,OPPO Reno9 Pro,#
+PGW110,mob,oppo,OPPO,,,OPPO Reno9 Pro,#89 Pro
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,#
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,#
 PACM00,mob,oppo,OPPO,,,OPPO R15,#全网通版
@@ -3595,6 +3598,7 @@ PEMM00,mob,oppo,OPPO,,,OPPO A55s,#
 PFVM10,mob,oppo,OPPO,,,OPPO A56,#
 PFTM20,mob,oppo,OPPO,,,OPPO A57,#2022
 PHJ110,mob,oppo,OPPO,,,OPPO A58,#
+PHJ110,mob,oppo,OPPO,,,OPPO A58x,#
 PDYM20,mob,oppo,OPPO,,,OPPO A72,#全网通版
 PDYT20,mob,oppo,OPPO,,,OPPO A72,#移动版
 PDYM10,mob,oppo,OPPO,,,OPPO A72n,#
@@ -3609,6 +3613,7 @@ PELM00,mob,oppo,OPPO,,,OPPO A95,#
 PFUM10,mob,oppo,OPPO,,,OPPO A96,#
 PHA120,mob,oppo,OPPO,,,OPPO A96,#
 PFTM10,mob,oppo,OPPO,,,OPPO A97,#
+PHQ110,mob,oppo,OPPO,,,OPPO A1 Pro,#
 PBCM30,mob,oppo,OPPO,,,OPPO K1,#
 PCGM00,mob,oppo,OPPO,,,OPPO K3,#全网通版
 PCGT00,mob,oppo,OPPO,,,OPPO K3,#移动版
@@ -3869,6 +3874,9 @@ RMX3478,mob,realme,realme,,,真我 Q5,#
 RMX3372,mob,realme,realme,,,真我 Q5 Pro,#
 RMX3574,mob,realme,realme,,,真我 Q5i,#
 RMX3616,mob,realme,realme,,,真我 Q5x,#
+RMX3615,mob,realme,realme,,,真我 10,#
+RMX3663,mob,realme,realme,,,真我 10 Pro,#
+RMX3687,mob,realme,realme,,,真我 10 Pro,#
 RMX2200,mob,realme,realme,,,真我 V3,#5G 全网通版
 RMX2201,mob,realme,realme,,,真我 V3,#5G 运营商定制版
 RMX2111,mob,realme,realme,,,真我 V5,#5G 全网通版
