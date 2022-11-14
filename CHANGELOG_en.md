@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-11-14
+- `realme_global_en` Add realme 10 4G.
 ## 2022-11-02
 - `huawei_global_en` Add HUAWEI nova Y61.
 ## 2022-10-27

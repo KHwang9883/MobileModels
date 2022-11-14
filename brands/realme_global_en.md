@@ -141,6 +141,10 @@
 
 `RMX3461`: realme 9 5G Speed Edition India
 
+**realme 10:**
+
+`RMX3630`: realme 10
+
 ## X series
 
 **realme X:**
