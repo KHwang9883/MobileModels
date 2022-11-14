@@ -176,6 +176,18 @@
 
 `PFZM10`: OPPO Reno8 Pro+
 
+**OPPO Reno9:**
+
+`PHM110`: OPPO Reno9
+
+**OPPO Reno9 Pro:**
+
+`PGX110`: OPPO Reno9 Pro
+
+**OPPO Reno9 Pro+:**
+
+`PGW110`: OPPO Reno89 Pro+
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -332,9 +344,13 @@
 
 `PFTM20`: OPPO A57 (2022)
 
-**OPPO A58**
+**OPPO A58:**
 
 `PHJ110`: OPPO A58
+
+**OPPO A58x:**
+
+`PHJ110`: OPPO A58x
 
 **OPPO A72:**
 
@@ -379,6 +395,10 @@
 **OPPO A97:**
 
 `PFTM10`: OPPO A97
+
+**OPPO A1 Pro:**
+
+`PHQ110`: OPPO A1 Pro
 
 ## K 系列
 
