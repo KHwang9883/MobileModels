@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-11-18
+- `vivo` 新增 vivo X90 系列。
 ## 2022-11-14
 - `oppo_cn` 新增 OPPO A1 Pro & Reno9 系列。
 - `realme_cn` 新增 真我 10 系列。

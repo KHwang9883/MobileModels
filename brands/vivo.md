@@ -158,6 +158,18 @@
 
 `V2229A`: vivo X Fold+
 
+**vivo X90 (`PD2241`):**
+
+`V2241A`: vivo X90
+
+**vivo X90 Pro (`PD2242`):**
+
+`V2242A`: vivo X90 Pro
+
+**vivo X90 Pro+ (`PD2227`):**
+
+`V2227A`: vivo X90 Pro+
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -435,6 +447,10 @@
 **vivo Y76s (`PD2156`):**
 
 `V2156A`: vivo Y76s 5G
+
+**vivo Y76s (t1 版) (`PD2156F`):**
+
+`V2156FA`: vivo Y76s (t1 版) 5G
 
 **vivo Y77 (`PD2219`):**
 
