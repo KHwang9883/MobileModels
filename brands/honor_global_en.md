@@ -197,7 +197,7 @@
 
 `FNE-NX9`: HONOR 70 5G
 
-**HONOR Magic4 Pro:**
+**HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro 5G
 
