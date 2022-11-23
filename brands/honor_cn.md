@@ -214,6 +214,18 @@
 
 `HPB-TN00`: 荣耀 70 Pro+ 5G 全网通版
 
+**荣耀 80:**
+
+`ANN-AN00`: 荣耀 80 5G 全网通版
+
+**荣耀 80 Pro:**
+
+`ANP-AN00`: 荣耀 80 Pro 5G 全网通版
+
+**荣耀 80 SE (`Gina`):**
+
+`GIA-AN80`: 荣耀 80 SE 5G 全网通版
+
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`Knight`):**
@@ -290,21 +302,29 @@
 
 `ELZ-AN20`: 荣耀 Magic3 至臻版 5G 全网通版
 
-**荣耀 Magic V:**
+**荣耀 Magic V (`Maggie`):**
 
 `MGI-AN00`: 荣耀 Magic V 5G 全网通版
 
-**荣耀 Magic4:**
+**荣耀 Magic4 (`Lange`):**
 
 `LGE-AN00`: 荣耀 Magic4 5G 全网通版
 
-**荣耀 Magic4 Pro:**
+**荣耀 Magic4 Pro (`Lange`):**
 
 `LGE-AN10`: 荣耀 Magic4 Pro 5G 全网通版
 
-**荣耀 Magic4 至臻版:**
+**荣耀 Magic4 至臻版 (`Lange`):**
 
 `LGE-AN20`: 荣耀 Magic4 至臻版 5G 全网通版
+
+**荣耀 Magic Vs:**
+
+`FRI-AN00`: 荣耀 Magic Vs 5G 全网通版
+
+**荣耀 Magic Vs 至臻版:**
+
+`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G 全网通版
 
 ## 荣耀 X 系列
 

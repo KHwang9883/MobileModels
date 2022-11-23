@@ -1072,6 +1072,9 @@ GIA-AN00,mob,honor,荣耀,,Gina,荣耀 60 SE,#5G 全网通版
 FNE-AN00,mob,honor,荣耀,,,荣耀 70,#5G 全网通版
 SDY-AN00,mob,honor,荣耀,,,荣耀 70 Pro,#5G 全网通版
 HPB-TN00,mob,honor,荣耀,,,荣耀 70 Pro,#5G 全网通版
+ANN-AN00,mob,honor,荣耀,,,荣耀 80,#5G 全网通版
+ANP-AN00,mob,honor,荣耀,,,荣耀 80 Pro,#5G 全网通版
+GIA-AN80,mob,honor,荣耀,,Gina,荣耀 80 SE,#5G 全网通版
 KNT-AL10,mob,honor,荣耀,,Knight,荣耀 V8,#全网通版
 KNT-AL20,mob,honor,荣耀,,Knight,荣耀 V8,"#全网通版 (麒麟 955, 2K 显示屏)"
 KNT-TL10,mob,honor,荣耀,,Knight,荣耀 V8,#移动版
@@ -1095,10 +1098,12 @@ TNY-TL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#移动 4G+ 版
 ELZ-AN00,mob,honor,荣耀,,Elizabeth,荣耀 Magic3,#5G 全网通版
 ELZ-AN10,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 Pro,#5G 全网通版
 ELZ-AN20,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 至臻版,#5G 全网通版
-MGI-AN00,mob,honor,荣耀,,,荣耀 Magic V,#5G 全网通版
-LGE-AN00,mob,honor,荣耀,,,荣耀 Magic4,#5G 全网通版
-LGE-AN10,mob,honor,荣耀,,,荣耀 Magic4 Pro,#5G 全网通版
-LGE-AN20,mob,honor,荣耀,,,荣耀 Magic4 至臻版,#5G 全网通版
+MGI-AN00,mob,honor,荣耀,,Maggie,荣耀 Magic V,#5G 全网通版
+LGE-AN00,mob,honor,荣耀,,Lange,荣耀 Magic4,#5G 全网通版
+LGE-AN10,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#5G 全网通版
+LGE-AN20,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#5G 全网通版
+FRI-AN00,mob,honor,荣耀,,,荣耀 Magic Vs,#5G 全网通版
+FRI-AN10,mob,honor,荣耀,,,荣耀 Magic Vs 至臻版,#5G 全网通版
 G750-T00,mob,honor,荣耀,,,荣耀 3X,#双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,#联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,#Pro
@@ -1508,7 +1513,7 @@ NTN-LX1,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 NTN-L22,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 NTN-LX3,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 FNE-NX9,mob,honor,HONOR,,,HONOR 70,#5G
-LGE-NX9,mob,honor,HONOR,,,HONOR Magic4 Pro,#5G
+LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite 5G,#
 VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,#
