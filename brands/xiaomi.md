@@ -352,6 +352,18 @@
 
 `22081212UG`: Xiaomi 12T Pro 国际版
 
+**[`M3`] Xiaomi 13 (`fuxi`):**
+
+`2211133C`: Xiaomi 13 全网通版
+
+`2211133G`: Xiaomi 13 国际版
+
+**[`M2`] Xiaomi 13 Pro (`nuwa`):**
+
+`2210132C`: Xiaomi 13 Pro 全网通版
+
+`2210132G`: Xiaomi 13 Pro 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
