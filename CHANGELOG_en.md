@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-11-29
+- `xiaomi_en` Add Xiaomi 13 series.
 ## 2022-11-14
 - `realme_global_en` Add realme 10 4G.
 ## 2022-11-02

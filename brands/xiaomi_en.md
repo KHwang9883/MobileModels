@@ -349,6 +349,18 @@
 
 `22081212UG`: Xiaomi 12T Pro Global
 
+**[`M3`] Xiaomi 13 (`fuxi`):**
+
+`2211133G`: Xiaomi 13 Global
+
+`2211133C`: Xiaomi 13 China
+
+**[`M2`] Xiaomi 13 Pro (`nuwa`):**
+
+`2210132G`: Xiaomi 13 Pro Global
+
+`2210132C`: Xiaomi 13 Pro China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
