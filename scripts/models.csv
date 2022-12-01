@@ -30,6 +30,7 @@ model,dtype,brand,brand_title,code,code_alias,model_name,ver_name
 8692-A00,mob,360,360,,,奇酷旗舰版,#极客版
 QSN2112,mob,360,360,,,奇少年 Q10,#
 QSN2201,mob,360,360,,,奇少年 Q10 Pro,#5G
+QSN2211,mob,360,360,,,奇少年 Q20,#
 QSN2207,mob,360,360,,,奇少年 Q20 Pro,#5G
 A1203,mob,apple,Apple,M68AP,"iPhone1,1",iPhone,#
 A1241,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,#
