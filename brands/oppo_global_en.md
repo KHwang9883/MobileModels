@@ -207,6 +207,10 @@
 
 `CPH2457`: OPPO Reno8 Z 5G
 
+**OPPO Reno8 T:**
+
+`CPH2481`: OPPO Reno8 T 5G
+
 ## F series
 
 **OPPO F7:**
@@ -466,6 +470,10 @@
 **OPPO A77s:**
 
 `CPH2473`: OPPO A77s
+
+**OPPO A78:**
+
+`CPH2483` `CPH2495`: OPPO A78 5G
 
 **OPPO A91:**
 

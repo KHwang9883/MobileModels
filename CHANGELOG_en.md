@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-12-01
+- `oppo_global_en` Add several new models.
 ## 2022-11-29
 - `xiaomi_en` Add Xiaomi 13 series.
 ## 2022-11-14
