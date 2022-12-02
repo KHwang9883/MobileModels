@@ -1300,10 +1300,6 @@
 
 `22095RA98C`: Redmi Note 11R 5G 全网通版
 
-**[`K6A`] Redmi Note 11 Pro 2023 (`sweet`):**
-
-`2209116AG`: Redmi Note 11 Pro 2023 国际版
-
 **[`M17`] Redmi Note 12 (`sunstone`):**
 
 `22101317C`: Redmi Note 12 全网通版
