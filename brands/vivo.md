@@ -678,6 +678,14 @@
 
 `V2218A`: iQOO 10 Pro
 
+**iQOO 11 (`PD2243`):**
+
+`V2243A`: iQOO 11
+
+**iQOO 11 Pro (`PD2254`):**
+
+`V2254A`: iQOO 11 Pro
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
@@ -729,6 +737,10 @@
 **iQOO Neo7 (`PD2231`):**
 
 `V2231A`: iQOO Neo7
+
+**iQOO Neo7 SE (`PD2238`):**
+
+`V2238A`: iQOO Neo7 SE
 
 ## iQOO Z 系列
 
