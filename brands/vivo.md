@@ -356,6 +356,10 @@
 
 `V2166A`: vivo Y33e 5G
 
+**vivo Y35 (`PD2230`):**
+
+`V2230A`: vivo Y35 5G
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50
