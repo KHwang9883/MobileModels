@@ -1731,6 +1731,7 @@ JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 9 SE,#4G 全网通版
 NCO-AL00,mob,huawei,华为,,Nicole,HUAWEI nova 10,#4G 全网通版
 GLA-AL00,mob,huawei,华为,,Gloria,HUAWEI nova 10 Pro,#4G 全网通版
 CHA-AL80,mob,huawei,华为,,Chanel,HUAWEI nova 10z,#全网通版
+BNE-AL00,mob,huawei,华为,,,HUAWEI nova 10 SE,#全网通版
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
@@ -1833,6 +1834,7 @@ MLD-AL00,mob,huawei,华为,,,华为畅享 20e,#全网通版 (麒麟 710A)
 MLD-AL10,mob,huawei,华为,,,华为畅享 20e,#全网通版 (Helio P35)
 MGA-AL00,mob,huawei,华为,,Mega,华为畅享 50,#全网通版
 CTR-AL00,mob,huawei,华为,,,华为畅享 50 Pro,#全网通版
+EVE-AL00,mob,huawei,华为,,,华为畅享 50z,#全网通版
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版

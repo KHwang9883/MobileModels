@@ -555,6 +555,10 @@
 
 `CHA-AL80`: HUAWEI nova 10z 全网通版
 
+**HUAWEI nova 10 SE:**
+
+`BNE-AL00`: HUAWEI nova 10 SE 全网通版
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -826,6 +830,10 @@
 **华为畅享 50 Pro:**
 
 `CTR-AL00`: 华为畅享 50 Pro 全网通版
+
+**华为畅享 50z:**
+
+`EVE-AL00`: 华为畅享 50z 全网通版
 
 ## 平板电脑
 

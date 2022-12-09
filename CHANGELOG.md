@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-12-09
+- `huawei_cn` 新增 HUAWEI nova 10 SE, 华为畅享 50z。
 ## 2022-12-08
 - `vivo` 新增 iQOO 11 系列, iQOO Neo 7 SE & vivo Y35。
 ## 2022-12-02
