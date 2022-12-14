@@ -352,6 +352,8 @@
 
 `22081212UG`: Xiaomi 12T Pro 国际版
 
+`A201XM`: Xiaomi 12T Pro 日本版 (SoftBank)
+
 **[`M3`] Xiaomi 13 (`fuxi`):**
 
 `2211133C`: Xiaomi 13 全网通版
