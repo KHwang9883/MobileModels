@@ -349,6 +349,8 @@
 
 `22081212UG`: Xiaomi 12T Pro Global
 
+`A201XM`: Xiaomi 12T Pro Japan (SoftBank)
+
 **[`M3`] Xiaomi 13 (`fuxi`):**
 
 `2211133G`: Xiaomi 13 Global
