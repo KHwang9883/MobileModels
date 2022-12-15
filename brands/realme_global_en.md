@@ -145,6 +145,16 @@
 
 `RMX3630`: realme 10
 
+**realme 10 Pro:**
+
+`RMX3660`: realme 10 Pro 5G India
+
+`RMX3661`: realme 10 Pro 5G Global
+
+**realme 10 Pro+:**
+
+`RMX3686`: realme 10 Pro+ 5G
+
 ## X series
 
 **realme X:**
@@ -364,6 +374,10 @@
 `RMX3231`: realme Narzo 50i India
 
 `RMX3235`: realme Narzo 50i Global
+
+**realme Narzo 50i Prime:**
+
+`RMX3506`: realme Narzo 50i Prime
 
 ## GT series
 

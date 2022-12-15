@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-12-15
+- `realme_global_en` Add realme 10 Pro series.
 ## 2022-12-01
 - `oppo_global_en` Add several new models.
 ## 2022-11-29
