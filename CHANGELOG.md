@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-12-15
+- `oppo_cn` 新增 OPPO Find N2 系列。
 - `realme_cn` 新增 真我 10s。
 ## 2022-12-13
 - `mitv_cn` 新增 小米电视 EA Pro 86。

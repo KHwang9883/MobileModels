@@ -50,6 +50,14 @@
 
 `PFFM20`: OPPO Find X5 Pro 天玑版
 
+**OPPO Find N2:**
+
+`PGU110`: OPPO Find N2
+
+**OPPO Find N2 Flip:**
+
+`PGT110`: OPPO Find N2 Flip
+
 ## Reno 系列
 
 **OPPO Reno:**
