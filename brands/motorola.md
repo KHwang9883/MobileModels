@@ -145,3 +145,11 @@
 **moto razr 2022 (`oneli`):**
 
 `XT2251-1`: moto razr 2022
+
+**moto X40 (`rtwo`):**
+
+`XT2301-5`: moto X40
+
+**moto g53:**
+
+`XT2335-3`: moto g53
