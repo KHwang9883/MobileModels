@@ -348,9 +348,11 @@
 
 `22071212AG`: Xiaomi 12T 国际版
 
-**[`L12U`] Xiaomi 12T Pro (`ditingp`):**
+**[`L12U`] Xiaomi 12T Pro (`diting`):**
 
 `22081212UG`: Xiaomi 12T Pro 国际版
+
+`22081212R`: Xiaomi 12T Pro 日本版 (SIM Free)
 
 `A201XM`: Xiaomi 12T Pro 日本版 (SoftBank)
 
