@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-12-19
+- `nubia` 新增 nubia Z50。
 ## 2022-12-15
 - `motorola` 新增 moto X40 & moto g53。
 - `oppo_cn` 新增 OPPO Find N2 系列。

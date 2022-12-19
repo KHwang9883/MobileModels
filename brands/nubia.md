@@ -124,6 +124,10 @@
 
 `NX702J`: nubia Z40S Pro
 
+**nubia Z50:**
+
+`NX711J`: nubia Z50
+
 ## 红魔手机
 
 **红魔电竞游戏手机:**
