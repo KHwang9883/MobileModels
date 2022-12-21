@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-12-22
+- `honor_global_en` Add HONOR X9a 5G.
 ## 2022-12-15
 - `realme_global_en` Add realme 10 Pro series.
 ## 2022-12-01

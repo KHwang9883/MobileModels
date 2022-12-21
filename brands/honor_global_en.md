@@ -213,6 +213,10 @@
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
 
+**HONOR X6s (`Vinnie`):**
+
+`VNE-LX3`: HONOR X6s
+
 **HONOR X7 (`Carmella`):**
 
 `CMA-LX1` `CMA-LX2` `CMA-LX3`: HONOR X7
@@ -232,6 +236,10 @@
 **HONOR X9 5G (`Andy`):**
 
 `ANY-NX1`: HONOR X9 5G
+
+**HONOR X9a 5G (`Rambo`):**
+
+`RMO-NX1`: HONOR X9a 5G
 
 **HONOR Pad 8 (`Hendry`):**
 
