@@ -1,6 +1,6 @@
 # 华为智选手机型号汇总
 
-- 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech
+- 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO
 - codename: ❌
 
 ## U-MAGIC 优畅享
@@ -108,3 +108,9 @@
 **TD Tech P50:**
 
 `AVA-PA00`: TD Tech P50
+
+## WIKO
+
+**WIKO 5G:**
+
+`LFT-AN00`: WIKO 5G
