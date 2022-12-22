@@ -1,5 +1,6 @@
 # 更新日志
 ## 2022-12-22
+- `vivo` 新增 vivo S16 系列。
 - `zhixuan` 新增 WIKO 5G。
 ## 2022-12-19
 - `nubia` 新增 nubia Z50。

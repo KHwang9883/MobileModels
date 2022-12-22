@@ -250,6 +250,18 @@
 
 `V2190A`: vivo S15e
 
+**vivo S16 (`PD2244`):**
+
+`V2244A`: vivo S16
+
+**vivo S16 Pro (`PD2245`):**
+
+`V2245A`: vivo S16 Pro
+
+**vivo S16e (`PD2239`):**
+
+`V2239A`: vivo S16e
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
@@ -359,6 +371,10 @@
 **vivo Y35 (`PD2230`):**
 
 `V2230A`: vivo Y35 5G
+
+**vivo Y35m (`PD2230`):**
+
+`V2230A`: vivo Y35m 5G
 
 **vivo Y50 (`PD1965`):**
 
@@ -741,6 +757,10 @@
 **iQOO Neo7 (`PD2231`):**
 
 `V2231A`: iQOO Neo7
+
+**iQOO Neo7 竞速版 (`PD2232`):**
+
+`V2232A`: iQOO Neo7 竞速版
 
 **iQOO Neo7 SE (`PD2238`):**
 
