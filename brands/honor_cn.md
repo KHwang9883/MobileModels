@@ -222,9 +222,17 @@
 
 `ANP-AN00`: 荣耀 80 Pro 5G 全网通版
 
+**荣耀 80 Pro 直屏版:**
+
+`ANB-AN00`: 荣耀 80 Pro 直屏版 5G 全网通版
+
 **荣耀 80 SE (`Gina`):**
 
 `GIA-AN80`: 荣耀 80 SE 5G 全网通版
+
+**荣耀 80 GT:**
+
+`AGT-AN00`: 荣耀 80 GT 5G 全网通版
 
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
@@ -809,6 +817,10 @@
 **荣耀平板 8 (`Hendry`):**
 
 `HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
+
+**荣耀平板 V8 Pro:**
+
+`ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
