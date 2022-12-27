@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-12-27
+- `xiaomi` 新增 Redmi K60 系列, Redmi Note 12 Pro 极速版。
 ## 2022-12-26
 - `honor_cn` 新增 荣耀 80 GT, 荣耀平板 V8 Pro。
 - `nubia` 新增 红魔 8 Pro 系列。

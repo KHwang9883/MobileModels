@@ -1320,6 +1320,10 @@
 
 `22101316UC`: Redmi Note 12 探索版 全网通版
 
+**[`M20`] Redmi Note 12 Pro 极速版 (`redwood`):**
+
+`22101320C`: Redmi Note 12 Pro 极速版 全网通版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
@@ -1427,6 +1431,18 @@
 **[`L16`] Redmi K50i (`xagain`):**
 
 `22041216I`: Redmi K50i 印度版
+
+**[`M11A`] Redmi K60 (`mondrian`):**
+
+`23013RK75C`: Redmi K60 全网通版
+
+**[`M11`] Redmi K60 Pro (`socrates`):**
+
+`22127RK46C`: Redmi K60 Pro 全网通版
+
+**[`M11R`] Redmi K60E (`rembrandt`):**
+
+`22122RK93C`: Redmi K60E 全网通版
 
 ## 其他红米 Redmi 手机
 

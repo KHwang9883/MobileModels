@@ -5061,6 +5061,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#全网通版
 22101316UCP,mob,xiaomi,小米,M16UP,rubypro,Redmi Note 12 Pro,#全网通版
 22101316UC,mob,xiaomi,小米,M16U,rubyplus,Redmi Note 12 探索版,#全网通版
+22101320C,mob,xiaomi,小米,M20,redwood,Redmi Note 12 Pro 极速版,#全网通版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#全网通版
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#全网通版
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,#全网通版
@@ -5092,6 +5093,9 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,#全网通版
 21121210C,mob,xiaomi,小米,L10,ingres,Redmi K50 电竞版,#全网通版
 22081212C,mob,xiaomi,小米,L12,diting,Redmi K50 至尊版,#全网通版
 22041216I,mob,xiaomi,小米,L16,xagain,Redmi K50i,#印度版
+23013RK75C,mob,xiaomi,小米,M11A,mondrian,Redmi K60,#全网通版
+22127RK46C,mob,xiaomi,小米,M11,socrates,Redmi K60 Pro,#全网通版
+22122RK93C,mob,xiaomi,小米,M11R,rembrandt,Redmi K60E,#全网通版
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,#标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,#高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2|红米 Y2,#全网通版
@@ -5640,6 +5644,7 @@ M2104K10AC,pad,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22101316C,pad,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro,#China
 22101316UCP,pad,xiaomi,Xiaomi,M16UP,rubypro,Redmi Note 12 Pro,#China
 22101316UC,pad,xiaomi,Xiaomi,M16U,rubyplus,Redmi Note 12 Discovery Edition,#China
+22101320C,pad,xiaomi,Xiaomi,M20,redwood,Redmi Note 12 Pro Speed,#China
 M2004J7AC,pad,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,pad,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,pad,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
@@ -5671,6 +5676,9 @@ M2012K10C,pad,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,#China
 21121210C,pad,xiaomi,Xiaomi,L10,ingres,Redmi K50G,#China
 22081212C,pad,xiaomi,Xiaomi,L12,diting,Redmi K50 Ultra,#China
 22041216I,pad,xiaomi,Xiaomi,L16,xagain,Redmi K50i,#India
+23013RK75C,pad,xiaomi,Xiaomi,M11A,mondrian,Redmi K60,#China
+22127RK46C,pad,xiaomi,Xiaomi,M11,socrates,Redmi K60 Pro,#China
+22122RK93C,pad,xiaomi,Xiaomi,M11R,rembrandt,Redmi K60E,#China
 2016020,pad,xiaomi,Xiaomi,H3C,omega,Redmi Pro,#32GB
 2016021,pad,xiaomi,Xiaomi,H3C,omega,Redmi Pro,#64GB & 128GB
 M1803E6G,pad,xiaomi,Xiaomi,E6,ysl,Redmi S2|Redmi Y2,#Global
