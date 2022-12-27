@@ -1289,6 +1289,10 @@
 
 `22101316UC`: Redmi Note 12 Discovery Edition China
 
+**[`M20`] Redmi Note 12 Pro Speed (`redwood`):**
+
+`22101320C`: Redmi Note 12 Pro Speed China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -1392,6 +1396,18 @@
 **[`L16`] Redmi K50i (`xagain`):**
 
 `22041216I`: Redmi K50i India
+
+**[`M11A`] Redmi K60 (`mondrian`):**
+
+`23013RK75C`: Redmi K60 China
+
+**[`M11`] Redmi K60 Pro (`socrates`):**
+
+`22127RK46C`: Redmi K60 Pro China
+
+**[`M11R`] Redmi K60E (`rembrandt`):**
+
+`22122RK93C`: Redmi K60E China
 
 **[`H3C`] Redmi Pro (`omega`):**
 

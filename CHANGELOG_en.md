@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-12-27
+- `xiaomi_en` Add Redmi K60 series & Redmi Note 12 Speed.
 ## 2022-12-22
 - `honor_global_en` Add HONOR X9a 5G.
 ## 2022-12-15
