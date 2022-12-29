@@ -1353,7 +1353,9 @@
 
 **HUAWEI MateBook D 14 SE 12 代酷睿版 (`NobelF`):**
 
-`NbF-08`: HUAWEI MateBook D 14 SE 12 代酷睿版
+`NbF-08`: HUAWEI MateBook D 14 SE 12 代酷睿版 (8GB 内存)
+
+`NbF-16`: HUAWEI MateBook D 14 SE 12 代酷睿版 (16GB 内存)
 
 **HUAWEI MateBook D 15 (`BohrK`):**
 
