@@ -934,6 +934,20 @@
 
 `22071219AI`: Redmi 11 Prime 印度版
 
+**Redmi 12C (`earth`):**
+
+`22120RN86C`: Redmi 12C 全网通版
+
+`22120RN86G` `22120RN86H`: Redmi 12C 国际版
+
+`22120RN86I`: Redmi 12C 印度版
+
+`2212ARNC4L`: Redmi 12C 拉美版
+
+**Redmi 12C (`aether`):**
+
+`22126RN91Y`: Redmi 12C 国际版 (NFC)
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**

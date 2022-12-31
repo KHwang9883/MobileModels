@@ -1,4 +1,6 @@
 # 更新日志
+## 2022-12-31
+- `xiaomi` 新增 Redmi 12C。
 ## 2022-12-27
 - `xiaomi` 新增 Redmi K60 系列, Redmi Note 12 Pro 极速版。
 ## 2022-12-26
