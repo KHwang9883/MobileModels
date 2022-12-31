@@ -911,6 +911,20 @@
 
 `22071219AI`: Redmi 11 Prime India
 
+**Redmi 12C (`earth`):**
+
+`22120RN86G` `22120RN86H`: Redmi 12C Global
+
+`22120RN86I`: Redmi 12C India
+
+`22120RN86C`: Redmi 12C China
+
+`2212ARNC4L`: Redmi 12C Latin America
+
+**Redmi 12C (`aether`):**
+
+`22126RN91Y`: Redmi 12C Global (NFC)
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)

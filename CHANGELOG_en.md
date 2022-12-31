@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-12-31
+- `xiaomi_en` Add Redmi 12C.
 ## 2022-12-30
 - `mitv_global_en` Add several new models.
 ## 2022-12-27
