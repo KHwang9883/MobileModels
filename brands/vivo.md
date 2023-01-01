@@ -416,6 +416,10 @@
 
 `V2069A`: vivo Y53s (NFC 版) 5G
 
+**vivo Y53t (`PD2230`):**
+
+`V2230A`: vivo Y53t 5G
+
 **vivo Y54s (`PD2045`):**
 
 `V2045A`: vivo Y54s 5G
