@@ -237,6 +237,10 @@
 
 `CPH2419`: OnePlus 10T T-Mobile
 
+**OnePlus 11:**
+
+`PHB110`: OnePlus 11 China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
