@@ -242,6 +242,10 @@
 
 `CPH2419`: 一加 10T T-Mobile 版
 
+**一加 11:**
+
+`PHB110`: 一加 11 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
