@@ -1318,17 +1318,23 @@
 
 `22095RA98C`: Redmi Note 11R 5G 全网通版
 
-**[`M17`] Redmi Note 12 (`sunstone`):**
+**[`M17`] Redmi Note 12 5G (`sunstone`):**
 
-`22101317C`: Redmi Note 12 全网通版
+`22101317C`: Redmi Note 12 5G 全网通版
+
+`22111317I`: Redmi Note 12 5G 印度版
 
 **[`M16`] Redmi Note 12 Pro (`ruby`):**
 
 `22101316C`: Redmi Note 12 Pro 全网通版
 
+`22101316I`: Redmi Note 12 Pro 5G 印度版
+
 **[`M16UP`] Redmi Note 12 Pro+ (`rubypro`):**
 
 `22101316UCP`: Redmi Note 12 Pro+ 全网通版
+
+`22101316UP`: Redmi Note 12 Pro+ 5G 印度版
 
 **[`M16U`] Redmi Note 12 探索版 (`rubyplus`):**
 

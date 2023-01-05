@@ -3388,7 +3388,7 @@ CPH2413,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#印度版
 CPH2415,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#欧洲版/国际版
 CPH2417,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#北美版
 CPH2419,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#T-Mobile 版
-PHB110,mob,oneplus,一加,,,一加 11,#全网通版
+PHB110,mob,oneplus,一加,,salami,一加 11,#全网通版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
@@ -3498,7 +3498,7 @@ CPH2413,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#India
 CPH2415,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#EU / Global
 CPH2417,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#North America
 CPH2419,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#T-Mobile
-PHB110,mob,oneplus,OnePlus,,,OnePlus 11,#China
+PHB110,mob,oneplus,OnePlus,,salami,OnePlus 11,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
@@ -5077,9 +5077,12 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,#全网通版
 22041216UC,mob,xiaomi,小米,L16U,xagapro,Redmi Note 11T Pro,#全网通版
 22095RA98C,mob,xiaomi,小米,L19P,light,Redmi Note 11R,#5G 全网通版
-22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12,#全网通版
+22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#全网通版
+22111317I,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#印度版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#全网通版
+22101316I,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 印度版
 22101316UCP,mob,xiaomi,小米,M16UP,rubypro,Redmi Note 12 Pro,#全网通版
+22101316UP,mob,xiaomi,小米,M16UP,rubypro,Redmi Note 12 Pro,#5G 印度版
 22101316UC,mob,xiaomi,小米,M16U,rubyplus,Redmi Note 12 探索版,#全网通版
 22101320C,mob,xiaomi,小米,M20,redwood,Redmi Note 12 Pro 极速版,#全网通版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#全网通版
@@ -5666,9 +5669,12 @@ M2104K10AC,pad,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22041216C,pad,xiaomi,Xiaomi,L16,xaga,Redmi Note 11T Pro,#5G China
 22041216UC,pad,xiaomi,Xiaomi,L16U,xagapro,Redmi Note 11T Pro,#5G China
 22095RA98C,pad,xiaomi,Xiaomi,L19P,light,Redmi Note 11R,#5G China
-22101317C,pad,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12,#China
-22101316C,pad,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro,#China
-22101316UCP,pad,xiaomi,Xiaomi,M16UP,rubypro,Redmi Note 12 Pro,#China
+22111317I,pad,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#India
+22101317C,pad,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#China
+22101316I,pad,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#India
+22101316C,pad,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#China
+22101316UP,pad,xiaomi,Xiaomi,M16UP,rubypro,Redmi Note 12 Pro+ 5G,#India
+22101316UCP,pad,xiaomi,Xiaomi,M16UP,rubypro,Redmi Note 12 Pro+ 5G,#China
 22101316UC,pad,xiaomi,Xiaomi,M16U,rubyplus,Redmi Note 12 Discovery Edition,#China
 22101320C,pad,xiaomi,Xiaomi,M20,redwood,Redmi Note 12 Pro Speed,#China
 M2004J7AC,pad,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
