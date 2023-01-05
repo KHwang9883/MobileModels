@@ -1287,17 +1287,23 @@
 
 `22095RA98C`: Redmi Note 11R 5G China
 
-**[`M17`] Redmi Note 12 (`sunstone`):**
+**[`M17`] Redmi Note 12 5G (`sunstone`):**
 
-`22101317C`: Redmi Note 12 China
+`22111317I`: Redmi Note 12 5G India
 
-**[`M16`] Redmi Note 12 Pro (`ruby`):**
+`22101317C`: Redmi Note 12 5G China
 
-`22101316C`: Redmi Note 12 Pro China
+**[`M16`] Redmi Note 12 Pro 5G (`ruby`):**
 
-**[`M16UP`] Redmi Note 12 Pro+ (`rubypro`):**
+`22101316I`: Redmi Note 12 Pro 5G India
 
-`22101316UCP`: Redmi Note 12 Pro+ China
+`22101316C`: Redmi Note 12 Pro 5G China
+
+**[`M16UP`] Redmi Note 12 Pro+ 5G (`rubypro`):**
+
+`22101316UP`: Redmi Note 12 Pro+ 5G India
+
+`22101316UCP`: Redmi Note 12 Pro+ 5G China
 
 **[`M16U`] Redmi Note 12 Discovery Edition (`rubyplus`):**
 
