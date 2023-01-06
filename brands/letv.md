@@ -89,3 +89,23 @@
 **未知机型:**
 
 `LEX850`: 乐视 未知机型
+
+**Letv S1:**
+
+`L5`: Letv S1 5G
+
+**Letv Y1 Pro:**
+
+`Letv L6`: Letv Y1 Pro
+
+**Letv Y1 Pro+:**
+
+`Letv L6B`: Letv Y1 Pro+
+
+**Letv Y2 Pro:**
+
+`Letv L7`: Letv Y2 Pro
+
+**Letv S1 Pro:**
+
+`Letv L8`: Letv S1 Pro 5G
