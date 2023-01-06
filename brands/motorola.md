@@ -150,6 +150,6 @@
 
 `XT2301-5`: moto X40
 
-**moto g53:**
+**moto g53 (`penang`):**
 
 `XT2335-3`: moto g53
