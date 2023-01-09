@@ -161,7 +161,7 @@
 
 **HUAWEI Mate 40E Pro (`Noah`):**
 
-`NOH-AN50`: HUAWEI Mate 40E Pro 5G 全网通版
+`NOH-AN50` `NOH-AN80`: HUAWEI Mate 40E Pro 5G 全网通版
 
 **HUAWEI Mate 40 Pro+ (`NoahP`):**
 
