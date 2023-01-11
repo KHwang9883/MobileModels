@@ -490,6 +490,10 @@
 
 `OPD2102`: OPPO Pad Air
 
+**OPPO Pad 2:**
+
+`OPD2201`: OPPO Pad 2
+
 ## Watch 系列
 
 **OPPO Watch:**
