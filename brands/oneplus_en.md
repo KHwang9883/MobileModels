@@ -241,6 +241,14 @@
 
 `PHB110`: OnePlus 11 China
 
+`CPH2451`: OnePlus 11 Global
+
+**OnePlus 11R / OnePlus Ace 2 (`udon`):**
+
+`PHK110`: OnePlus Ace 2 China
+
+`CPH2487`: OnePlus 11R Global
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
