@@ -246,6 +246,14 @@
 
 `PHB110`: 一加 11 全网通版
 
+`CPH2451`: 一加 11 国际版
+
+**一加 Ace 2 / 一加 11R (`udon`):**
+
+`PHK110`: 一加 Ace 2 全网通版
+
+`CPH2487`: 一加 11R 国际版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版

@@ -4,7 +4,7 @@
 - codename: ❌
 - 是否包含海外机型: [单独汇总 (英文)](brands/oppo_global_en.md)
 
-## Find 系列
+## Find X 系列
 
 **OPPO Find X:**
 
@@ -34,10 +34,6 @@
 
 `PEEM00`: OPPO Find X3 Pro
 
-**OPPO Find N:**
-
-`PEUM00`: OPPO Find N
-
 **OPPO Find X5:**
 
 `PFFM10`: OPPO Find X5
@@ -49,6 +45,20 @@
 **OPPO Find X5 Pro 天玑版:**
 
 `PFFM20`: OPPO Find X5 Pro 天玑版
+
+**OPPO Find X6:**
+
+`PGFM10`: OPPO Find X6
+
+**OPPO Find X6 Pro:**
+
+`PGEM10`: OPPO Find X6 Pro
+
+## Find N 系列
+
+**OPPO Find N:**
+
+`PEUM00`: OPPO Find N
 
 **OPPO Find N2:**
 
@@ -194,7 +204,11 @@
 
 **OPPO Reno9 Pro+:**
 
-`PGW110`: OPPO Reno89 Pro+
+`PGW110`: OPPO Reno9 Pro+
+
+**OPPO Reno10 Pro+:**
+
+`PHU110`: OPPO Reno10 Pro+
 
 ## Ace 系列
 
@@ -442,9 +456,9 @@
 
 `PEXM00`: OPPO K9
 
-**OPPO K9s:**
+**OPPO K9s / OPPO K10 活力版:**
 
-`PERM10`: OPPO K9s
+`PERM10`: OPPO K9s / OPPO K10 活力版
 
 **OPPO K9 Pro:**
 
@@ -462,10 +476,6 @@
 
 `PGIM10`: OPPO K10 Pro
 
-**OPPO K10 活力版:**
-
-`PERM10`: OPPO K10 活力版
-
 **OPPO K10x:**
 
 `PGGM10`: OPPO K10x
@@ -480,6 +490,10 @@
 
 `OPD2102`: OPPO Pad Air
 
+**OPPO Pad 2:**
+
+`OPD2201`: OPPO Pad 2
+
 ## Watch 系列
 
 **OPPO Watch:**
@@ -488,7 +502,7 @@
 
 `OW19W2`: OPPO Watch 41mm
 
-`OW19W3`: OPPO Watch 46mm ECG/精钢版
+`OW19W3`: OPPO Watch ECG/精钢版
 
 **OPPO Watch 2:**
 
@@ -511,3 +525,5 @@
 `OWW212`: OPPO Watch 3
 
 `OWW211`: OPPO Watch 3 Pro
+
+`OWW213`: OPPO Watch 3 SE
