@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-11
+- `oneplus_en` Add OnePlus 11R/Ace2.
 ## 2023-01-05
 - `xiaomi_en` Add Redmi Note 12 series (India).
 ## 2023-01-04

@@ -1,4 +1,7 @@
 # 更新日志
+## 2023-01-11
+- `oneplus` 新增 一加 Ace2/11R。
+- `oppo_cn` 新增 Find X6 系列/Reno10 Pro+/Pad 2/Watch 3 SE。
 ## 2023-01-09
 - `oppo_cn` 新增 OPPO A56s。
 ## 2023-01-06

@@ -3395,6 +3395,9 @@ CPH2415,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#欧洲版/国�
 CPH2417,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#北美版
 CPH2419,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#T-Mobile 版
 PHB110,mob,oneplus,一加,,salami,一加 11,#全网通版
+CPH2451,mob,oneplus,一加,,salami,一加 11,#国际版
+PHK110,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,#全网通版
+CPH2487,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,1#国际版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
@@ -3505,6 +3508,9 @@ CPH2415,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#EU / Global
 CPH2417,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#North America
 CPH2419,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#T-Mobile
 PHB110,mob,oneplus,OnePlus,,salami,OnePlus 11,#China
+CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#Global
+PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China
+CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#Global
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
@@ -3539,10 +3545,12 @@ PDET10,mob,oppo,OPPO,,,OPPO Find X2,#移动版
 PDEM30,mob,oppo,OPPO,,,OPPO Find X2 Pro,#
 PEDM00,mob,oppo,OPPO,,,OPPO Find X3,#
 PEEM00,mob,oppo,OPPO,,,OPPO Find X3 Pro,#
-PEUM00,mob,oppo,OPPO,,,OPPO Find N,#
 PFFM10,mob,oppo,OPPO,,,OPPO Find X5,#
 PFEM10,mob,oppo,OPPO,,,OPPO Find X5 Pro,#
 PFFM20,mob,oppo,OPPO,,,OPPO Find X5 Pro 天玑版,#
+PGFM10,mob,oppo,OPPO,,,OPPO Find X6,#
+PGEM10,mob,oppo,OPPO,,,OPPO Find X6 Pro,#
+PEUM00,mob,oppo,OPPO,,,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,,OPPO Find N2,#
 PGT110,mob,oppo,OPPO,,,OPPO Find N2 Flip,#
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,#全网通版
@@ -3585,7 +3593,8 @@ PGAM10,mob,oppo,OPPO,,,OPPO Reno8 Pro,#
 PFZM10,mob,oppo,OPPO,,,OPPO Reno8 Pro,#
 PHM110,mob,oppo,OPPO,,,OPPO Reno9,#
 PGX110,mob,oppo,OPPO,,,OPPO Reno9 Pro,#
-PGW110,mob,oppo,OPPO,,,OPPO Reno9 Pro,#89 Pro
+PGW110,mob,oppo,OPPO,,,OPPO Reno9 Pro,#
+PHU110,mob,oppo,OPPO,,,OPPO Reno10 Pro,#
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,#
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,#
 PACM00,mob,oppo,OPPO,,,OPPO R15,#全网通版
@@ -3664,18 +3673,19 @@ PCNT00,mob,oppo,OPPO,,,OPPO K5,#移动版
 PCLM50,mob,oppo,OPPO,,,OPPO K7,#
 PERM00,mob,oppo,OPPO,,,OPPO K7x,#
 PEXM00,mob,oppo,OPPO,,,OPPO K9,#
-PERM10,mob,oppo,OPPO,,,OPPO K9s,#
+PERM10,mob,oppo,OPPO,,,OPPO K9s|OPPO K10 活力版,#
+PERM10,mob,oppo,OPPO,,,OPPO K9s|OPPO K10 活力版,1#
 PEYM00,mob,oppo,OPPO,,,OPPO K9 Pro,#
 PGCM10,mob,oppo,OPPO,,,OPPO K9x,#
 PGJM10,mob,oppo,OPPO,,,OPPO K10,#
 PGIM10,mob,oppo,OPPO,,,OPPO K10 Pro,#
-PERM10,mob,oppo,OPPO,,,OPPO K10 活力版,#
 PGGM10,mob,oppo,OPPO,,,OPPO K10x,#
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,#
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,#
+OPD2201,pad,oppo,OPPO,,,OPPO Pad 2,#
 OW19W1,watch,oppo,OPPO,,,OPPO Watch,#46mm
 OW19W2,watch,oppo,OPPO,,,OPPO Watch,#41mm
-OW19W3,watch,oppo,OPPO,,,OPPO Watch,#46mm ECG/精钢版
+OW19W3,watch,oppo,OPPO,,,OPPO Watch,#ECG/精钢版
 OWW202,watch,oppo,OPPO,,,OPPO Watch 2,#42mm 蓝牙版
 OW20W1,watch,oppo,OPPO,,,OPPO Watch 2,#46mm eSIM 版
 OW20W2,watch,oppo,OPPO,,,OPPO Watch 2,#42mm eSIM 版
@@ -3684,6 +3694,7 @@ OWW206,watch,oppo,OPPO,,,OPPO Watch Free,#标准版
 OWW208,watch,oppo,OPPO,,,OPPO Watch Free,#NFC 版
 OWW212,watch,oppo,OPPO,,,OPPO Watch 3,#
 OWW211,watch,oppo,OPPO,,,OPPO Watch 3,#Pro
+OWW213,watch,oppo,OPPO,,,OPPO Watch 3,#SE
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,#
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,#
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,#
