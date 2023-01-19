@@ -794,7 +794,11 @@
 
 **Galaxy Tab S7 FE (`gts7xllitewifi`):**
 
-`SM-T730`: Galaxy Tab S7 FE WLAN
+`SM-T730`: Galaxy Tab S7 FE WLAN (骁龙 750G)
+
+**Galaxy Tab S7 FE (`gts7fewifi`):**
+
+`SM-T733`: Galaxy Tab S7 FE WLAN (骁龙 778G)
 
 **Galaxy Tab S7 FE (`gts7xllite`):**
 

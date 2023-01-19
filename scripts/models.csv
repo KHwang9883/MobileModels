@@ -3395,9 +3395,11 @@ CPH2415,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#欧洲版/国�
 CPH2417,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#北美版
 CPH2419,mob,oneplus,一加,,ovaltine,一加 Ace Pro|一加 10T,1#T-Mobile 版
 PHB110,mob,oneplus,一加,,salami,一加 11,#全网通版
-CPH2451,mob,oneplus,一加,,salami,一加 11,#国际版
+CPH2447,mob,oneplus,一加,,salami,一加 11,#印度版
+CPH2449,mob,oneplus,一加,,salami,一加 11,#欧洲版/国际版
+CPH2451,mob,oneplus,一加,,salami,一加 11,#北美版
 PHK110,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,#全网通版
-CPH2487,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,1#国际版
+CPH2487,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,1#印度版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
@@ -3508,9 +3510,11 @@ CPH2415,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#EU / Global
 CPH2417,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#North America
 CPH2419,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#T-Mobile
 PHB110,mob,oneplus,OnePlus,,salami,OnePlus 11,#China
-CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#Global
+CPH2447,mob,oneplus,OnePlus,,salami,OnePlus 11,#India
+CPH2449,mob,oneplus,OnePlus,,salami,OnePlus 11,#EU / Global
+CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#North America
 PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China
-CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#Global
+CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#India
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
@@ -4322,7 +4326,8 @@ SM-P610,mob,samsung,三星,,gta4xlwifi,Galaxy Tab S6 Lite,#WLAN
 SM-P615C,mob,samsung,三星,,gta4xl,Galaxy Tab S6 Lite,#LTE
 SM-T870,mob,samsung,三星,,gts7lwifi,Galaxy Tab S7,#WLAN
 SM-T970,mob,samsung,三星,,gts7xlwifi,Galaxy Tab S7,#WLAN
-SM-T730,mob,samsung,三星,,gts7xllitewifi,Galaxy Tab S7 FE,#WLAN
+SM-T730,mob,samsung,三星,,gts7xllitewifi,Galaxy Tab S7 FE,#WLAN (骁龙 750G)
+SM-T733,mob,samsung,三星,,gts7fewifi,Galaxy Tab S7 FE,#WLAN (骁龙 778G)
 SM-T735C,mob,samsung,三星,,gts7xllite,Galaxy Tab S7 FE,#LTE
 SM-X700,mob,samsung,三星,,gts8wifi,Galaxy Tab S8,#WLAN
 SM-X706C,mob,samsung,三星,,gts8,Galaxy Tab S8,#5G
