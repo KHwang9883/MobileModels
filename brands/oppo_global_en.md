@@ -193,10 +193,6 @@
 
 `CPH2293`: OPPO Reno7 Pro 5G
 
-**OPPO Reno7 Z:**
-
-`CPH2343`: OPPO Reno7 Z 5G
-
 **OPPO Reno7 A:**
 
 `CPH2353`: OPPO Reno7 A
@@ -205,7 +201,13 @@
 
 `OPG04`: OPPO Reno7 A (KDDI)
 
+**OPPO Reno7 Z / OPPO Reno7 Lite / OPPO Reno8 Lite:**
+
+`CPH2343`: OPPO Reno7 Z 5G / OPPO Reno7 Lite 5G / OPPO Reno8 Lite 5G
+
 **OPPO Reno8:**
+
+`CPH2461`: OPPO Reno8
 
 `CPH2359`: OPPO Reno8 5G
 

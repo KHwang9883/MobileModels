@@ -3760,10 +3760,13 @@ CPH2365,mob,oppo,OPPO,,,OPPO Reno6 Lite,#
 CPH2363,mob,oppo,OPPO,,,OPPO Reno7,#
 CPH2371,mob,oppo,OPPO,,,OPPO Reno7,#5G
 CPH2293,mob,oppo,OPPO,,,OPPO Reno7 Pro,#5G
-CPH2343,mob,oppo,OPPO,,,OPPO Reno7 Z,#5G
 CPH2353,mob,oppo,OPPO,,,OPPO Reno7 A,#
 A201OP,mob,oppo,OPPO,,,OPPO Reno7 A,#SoftBank
 OPG04,mob,oppo,OPPO,,,OPPO Reno7 A,#KDDI
+CPH2343,mob,oppo,OPPO,,,OPPO Reno7 Z|OPPO Reno7 Lite|OPPO Reno8 Lite,#5G
+CPH2343,mob,oppo,OPPO,,,OPPO Reno7 Z|OPPO Reno7 Lite|OPPO Reno8 Lite,1#5G
+CPH2343,mob,oppo,OPPO,,,OPPO Reno7 Z|OPPO Reno7 Lite|OPPO Reno8 Lite,2#5G
+CPH2461,mob,oppo,OPPO,,,OPPO Reno8,#
 CPH2359,mob,oppo,OPPO,,,OPPO Reno8,#5G
 CPH2357,mob,oppo,OPPO,,,OPPO Reno8 Pro,#5G
 CPH2457,mob,oppo,OPPO,,,OPPO Reno8 Z,#5G
