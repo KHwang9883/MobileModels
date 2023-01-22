@@ -3,7 +3,7 @@
 - Range: International models since 2018
 - Codename: ⏹
 
-## Find series
+## Find X series
 
 **OPPO Find X:**
 
@@ -52,6 +52,16 @@
 **OPPO Find X5 Lite:**
 
 `CPH2371`: OPPO Find X5 Lite
+
+## Find N series
+
+**OPPO Find N2:**
+
+`CPH2439`: OPPO Find N2
+
+**OPPO Find N2 Flip:**
+
+`CPH2437`: OPPO Find N2 Flip
 
 ## Reno series
 
@@ -272,6 +282,10 @@
 `CPH2461`: OPPO F21s Pro
 
 `CPH2455`: OPPO F21s Pro 5G
+
+**OPPO F23:**
+
+`CPH2481`: OPPO F23
 
 ## R series
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-22
+- `oppo_global_en` Add several new models.
 ## 2022-01-11
 - `oneplus_en` Add OnePlus 11R/Ace2.
 ## 2023-01-05
