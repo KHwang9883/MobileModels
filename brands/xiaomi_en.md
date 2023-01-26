@@ -1289,6 +1289,8 @@
 
 **[`M17`] Redmi Note 12 5G (`sunstone`):**
 
+`22111317G`: Redmi Note 12 5G Global
+
 `22111317I`: Redmi Note 12 5G India
 
 `22101317C`: Redmi Note 12 5G China
@@ -1552,6 +1554,16 @@
 **[`L16U`] POCO X4 GT Pro (`xagapro`):**
 
 `22041216UG`: POCO X4 GT Pro Global
+
+**[`M17P`] POCO X5 5G (`moonstone`):**
+
+`22111317PG`: POCO X5 5G Global
+
+**[`M20`] POCO X5 Pro 5G (`redwood`):**
+
+`22101320G`: POCO X5 Pro 5G Global
+
+`22101320I`: POCO X5 Pro 5G India
 
 **[`J19P`] POCO M2 (`shiva`):**
 

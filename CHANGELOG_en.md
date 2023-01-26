@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2022-01-26
+- `xiaomi_en` Add POCO X5 series.
 ## 2022-01-22
 - `oppo_global_en` Add several new models.
 ## 2022-01-11
