@@ -1322,6 +1322,8 @@
 
 `22101317C`: Redmi Note 12 5G 全网通版
 
+`22111317G`: Redmi Note 12 5G 国际版
+
 `22111317I`: Redmi Note 12 5G 印度版
 
 **[`M16`] Redmi Note 12 Pro (`ruby`):**
@@ -1589,6 +1591,16 @@
 **[`L16U`] POCO X4 GT Pro (`xagapro`):**
 
 `22041216UG`: POCO X4 GT Pro 国际版
+
+**[`M17P`] POCO X5 5G (`moonstone`):**
+
+`22111317PG`: POCO X5 5G 国际版
+
+**[`M20`] POCO X5 Pro 5G (`redwood`):**
+
+`22101320G`: POCO X5 Pro 5G 国际版
+
+`22101320I`: POCO X5 Pro 5G 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
 
