@@ -216,6 +216,18 @@
 
 `SM-S9080`: Galaxy S22 Ultra 5G
 
+**Galaxy S23:**
+
+`SM-S9110`: Galaxy S23 5G
+
+**Galaxy S23+:**
+
+`SM-S9160`: Galaxy S23+ 5G
+
+**Galaxy S23 Ultra:**
+
+`SM-S9180`: Galaxy S23 Ultra 5G
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
