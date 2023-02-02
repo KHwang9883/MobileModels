@@ -1,9 +1,11 @@
 # CHANGELOG
-## 2022-01-26
+## 2023-02-03
+- `oppo_global_en` Add OPPO Reno8 T 5G.
+## 2023-01-26
 - `xiaomi_en` Add POCO X5 series.
-## 2022-01-22
+## 2023-01-22
 - `oppo_global_en` Add several new models.
-## 2022-01-11
+## 2023-01-11
 - `oneplus_en` Add OnePlus 11R/Ace2.
 ## 2023-01-05
 - `xiaomi_en` Add Redmi Note 12 series (India).

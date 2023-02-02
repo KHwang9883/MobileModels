@@ -223,6 +223,8 @@
 
 `CPH2481`: OPPO Reno8 T
 
+`CPH2505`: OPPO Reno8 T 5G
+
 ## F series
 
 **OPPO F7:**
