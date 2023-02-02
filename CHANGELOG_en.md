@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2023-02-03
+- `honor_global_en` Add HONOR X5, X7a.
 - `oppo_global_en` Add OPPO Reno8 T 5G.
 ## 2023-01-26
 - `xiaomi_en` Add POCO X5 series.

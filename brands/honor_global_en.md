@@ -209,6 +209,14 @@
 
 `ANY-NX1`: HONOR Magic4 Lite 5G
 
+**HONOR Magic5 Lite 5G (`Rambo`):**
+
+`RMO-NX1`: HONOR Magic5 Lite 5G
+
+**HONOR X5:**
+
+`VNA-LX2` `VNA-LX3`: HONOR X5
+
 **HONOR X6 (`Vinnie`):**
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
@@ -220,6 +228,10 @@
 **HONOR X7 (`Carmella`):**
 
 `CMA-LX1` `CMA-LX2` `CMA-LX3`: HONOR X7
+
+**HONOR X7a (`Rocky`):**
+
+`RKY-LX1` `RKY-LX2` `RKY-LX3`: HONOR X7a
 
 **HONOR X8 (`Tiffany`):**
 
