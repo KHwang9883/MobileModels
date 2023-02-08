@@ -25,7 +25,7 @@
 | OPPO | [⏹](https://www.oppo.cn/thread-397164526-1) | 43200<br/>（1 月） | [✅](https://github.com/oppo-source) | ✅ | • 仅部分机型支持解锁 |
 | 真我 (realme) | [⏹](https://www.realmebbs.com/post-details/1275426081138028544) | 3~15<br/>（秒解） | [✅](https://github.com/realme-kernel-opensource) | ✅ | • 仅部分机型支持解锁 |
 | 三星 (Samsung) | ✅ | 0<br/>（秒解） | [✅](https://opensource.samsung.com/main) | ❌ | • 解锁 BL 将导致 KNOX 熔断，部分功能失效 |
-| 索尼 (SONY) | [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) | 0<br/>（秒解） | [✅](https://github.com/sonyxperiadev/kernel) | ❌ | -- |
+| 索尼 (SONY) | [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) | 0<br/>（秒解） | [✅](https://github.com/sonyxperiadev/kernel) | ❌ | • 需申请解锁码 |
 | 坚果 (Smartisan) | ✅ | -- | [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) | -- | • 缺少部分机型内核源码 |
 | vivo | ⏹ | -- | [⏹](https://opensource.vivo.com/Project) | ❌ | • 官方未提供解锁，可利用第三方服务解锁<br/>• 缺少部分机型内核源码 |
 | 小米 (Xiaomi) | [⏹](https://www.miui.com/unlock/index.html) | 10080\~172800<br/>（7 天\~2 月） | [⏹](https://github.com/MiCode) | ⏹ | • 仅小米与红米设备支持解锁，黑鲨官方不支持解锁<br/>• 解锁需手机插入 SIM 卡并绑定小米账号，等待时长从小米账号绑定之时起开始计算，随账号解锁次数增加，部分用户出现等待后不允许解锁的情况<br/>• 每账号每月仅允许解锁 1 次设备，每年仅允许解锁 4 次设备，重复绑定解锁单台设备重复计算解锁次数<br/>• 部分机型开源不完整或无提交历史记录（例如 MTK 机型），开源后内核源码不随系统更新<br/>• 秋大已离职，新设备开源进度十分缓慢<br/>• 解锁后主板等部分部件失去保内免费维修资格，刷机等操作易触发永久性熔断机制 |
