@@ -4194,9 +4194,9 @@ SM-G9900,mob,samsung,三星,,r9q,Galaxy S21 FE,#5G
 SM-S9010,mob,samsung,三星,,r0q,Galaxy S22,#5G
 SM-S9060,mob,samsung,三星,,g0q,Galaxy S22,#5G
 SM-S9080,mob,samsung,三星,,b0q,Galaxy S22 Ultra,#5G
-SM-S9110,mob,samsung,三星,,,Galaxy S23,#5G
-SM-S9160,mob,samsung,三星,,,Galaxy S23,#5G
-SM-S9180,mob,samsung,三星,,,Galaxy S23 Ultra,#5G
+SM-S9110,mob,samsung,三星,,dm1q,Galaxy S23,#5G
+SM-S9160,mob,samsung,三星,,dm2q,Galaxy S23,#5G
+SM-S9180,mob,samsung,三星,,dm3q,Galaxy S23 Ultra,#5G
 GT-I9220,mob,samsung,三星,,,Galaxy Note,#公开版
 GT-I9228,mob,samsung,三星,,,Galaxy Note,#移动定制版
 SCH-I889,mob,samsung,三星,,,Galaxy Note,#电信定制版

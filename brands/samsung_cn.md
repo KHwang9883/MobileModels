@@ -216,15 +216,15 @@
 
 `SM-S9080`: Galaxy S22 Ultra 5G
 
-**Galaxy S23:**
+**Galaxy S23 (`dm1q`):**
 
 `SM-S9110`: Galaxy S23 5G
 
-**Galaxy S23+:**
+**Galaxy S23+ (`dm2q`):**
 
 `SM-S9160`: Galaxy S23+ 5G
 
-**Galaxy S23 Ultra:**
+**Galaxy S23 Ultra (`dm3q`):**
 
 `SM-S9180`: Galaxy S23 Ultra 5G
 

@@ -2,7 +2,7 @@
 ## 2023-02-09
 - `realme_cn` 新增 真我 GT Neo5, 真我 V30。
 ## 2023-02-02
-- `samsung_cn` 新增 Galaxy S23 系列（代号待更新）。
+- `samsung_cn` 新增 Galaxy S23 系列。
 ## 2023-01-26
 - `xiaomi` 新增 POCO X5 系列。
 ## 2023-01-11
