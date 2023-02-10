@@ -1011,6 +1011,12 @@
 
 `AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
 
+**HUAWEI MatePad SE 10.4 (`Agassi5`):**
+
+`AGS5-W00`: HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
+
+`AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
+
 **华为畅享平板 (`Agassi2`):**
 
 `AGS2-W09`: 华为畅享平板 10.1 英寸 Wi-Fi 版
@@ -1400,6 +1406,10 @@
 **HUAWEI MateBook D 15 SE (`BohrDE`):**
 
 `BoDE-WDH9`: HUAWEI MateBook D 15 SE i5
+
+**HUAWEI MateBook D 15 12 代酷睿版 (`BohrF`):**
+
+`BoF-16`: HUAWEI MateBook D 15 (2022) 12 代酷睿版 (16GB 内存)
 
 **HUAWEI MateBook D 16 (`RolleF`):**
 

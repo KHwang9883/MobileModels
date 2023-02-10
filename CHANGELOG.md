@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-02-10
+- `huawei_cn` 新增 HUAWEI MatePad SE 10.4。
 ## 2023-02-09
 - `realme_cn` 新增 真我 GT Neo5, 真我 V30。
 ## 2023-02-02

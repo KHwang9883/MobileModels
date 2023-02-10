@@ -1915,6 +1915,8 @@ HMW-W09,pad,huawei,华为,,,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
 HMW-AL10,pad,huawei,华为,,,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
 AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
 AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通版
+AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 Wi-Fi 版
+AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 全网通版
 AGS2-W09,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 Wi-Fi 版
 AGS2-AL00,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 全网通版
 AGS3-W00D,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版 (4GB+64GB)
@@ -2066,6 +2068,7 @@ BoM-WFP9,computer,huawei,华为,,BohrM,HUAWEI MateBook D 15,#(2021) R7
 BoDE-WFH9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15,#(2022) i5
 BoDE-WFE9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15,#(2022) i7
 BoDE-WDH9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15 SE,#i5
+BoF-16,computer,huawei,华为,,BohrF,HUAWEI MateBook D 15 12 代酷睿版,#(2022) 12 代酷睿版 (16GB 内存)
 RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#2022
 RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#SE
 BL-W09,computer,huawei,华为,,,HUAWEI MateBook E,#i3
