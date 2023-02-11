@@ -1439,7 +1439,7 @@
 
 `GK-G56`: HUAWEI MateBook E Go 全网通 (16GB+512GB)
 
-`GK-W76`: HUAWEI MateBook E Go 性能版 Wi-Fi (16GB+512GB)
+`GK-W76`: HUAWEI MateBook E Go 性能版 Wi-Fi / HUAWEI MateBook E Go 2023 款 Wi-Fi
 
 **HUAWEI MateBook B3-410 (`NobelBZ`):**
 
