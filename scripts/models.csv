@@ -2080,7 +2080,7 @@ DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E (2021),#i7 (16GB+512GB)
 GK-G58,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (8GB+256GB)
 GK-G56,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (16GB+512GB)
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#性能版 Wi-Fi
-GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#2023 款
+GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#2023 款 Wi-Fi
 NBZ-WBH9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+256GB)
 NBZ-WBM9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+512GB)
 NBZ-WBE9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i7
@@ -4782,6 +4782,7 @@ A201XM,mob,xiaomi,小米,L12U,diting,Xiaomi 12T Pro,#日本版 (SoftBank)
 2211133G,mob,xiaomi,小米,M3,fuxi,Xiaomi 13,#国际版
 2210132C,mob,xiaomi,小米,M2,nuwa,Xiaomi 13 Pro,#全网通版
 2210132G,mob,xiaomi,小米,M2,nuwa,Xiaomi 13 Pro,#国际版
+2210129SG,mob,xiaomi,小米,L9S,ziyi,Xiaomi 13 Lite,#国际版
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,#双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,#全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,#移动合约版
@@ -5379,6 +5380,7 @@ A201XM,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SoftBank)
 2211133C,mob,xiaomi,Xiaomi,M3,fuxi,Xiaomi 13,#China
 2210132G,mob,xiaomi,Xiaomi,M2,nuwa,Xiaomi 13 Pro,#Global
 2210132C,mob,xiaomi,Xiaomi,M2,nuwa,Xiaomi 13 Pro,#China
+2210129SG,mob,xiaomi,Xiaomi,L9S,ziyi,Xiaomi 13 Lite,#Global
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China

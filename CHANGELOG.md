@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-02-13
+- `xiaomi` 新增 Xiaomi 13 Lite 国际版。
 ## 2023-02-11
 - `huawei_cn` 新增 HUAWEI MateBook E Go 2023 款。
 ## 2023-02-10

@@ -368,6 +368,10 @@
 
 `2210132G`: Xiaomi 13 Pro 国际版
 
+**[`L9S`] Xiaomi 13 Lite (`ziyi`):**
+
+`2210129SG`: Xiaomi 13 Lite 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
