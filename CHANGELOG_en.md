@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-02-13
+- `xiaomi_en` Add Xiaomi 13 Lite.
 ## 2023-02-03
 - `honor_global_en` Add HONOR X5, X7a.
 - `oppo_global_en` Add OPPO Reno8 T 5G.

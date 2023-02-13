@@ -365,6 +365,10 @@
 
 `2210132C`: Xiaomi 13 Pro China
 
+**[`L9S`] Xiaomi 13 Lite (`ziyi`):**
+
+`2210129SG`: Xiaomi 13 Lite Global
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
