@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-02-14
+- `honor_global_en` Add HONOR X8a.
 ## 2023-02-13
 - `xiaomi_en` Add Xiaomi 13 Lite.
 ## 2023-02-03

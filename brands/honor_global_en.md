@@ -237,6 +237,10 @@
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
 
+**HONOR X8a:**
+
+`CRT-LX1` `CRT-LX2` `CRT-LX3`: HONOR X8a
+
 **HONOR X8 5G (`Vinnie`):**
 
 `VNE-N41`: HONOR X8 5G
