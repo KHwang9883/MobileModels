@@ -2208,16 +2208,16 @@ HD55KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-510
 HD65KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-610
 HEGE-550AX,tv,huawei,华为,,,华为智慧屏 B 系列,#7-500
 HEGE-550X,tv,huawei,华为,,,华为智慧屏 B 系列,#7-510
-BLM-00,tv,huawei,华为,,,华为小精灵学习智慧屏,#
-HUAWEI U9500,tv,huawei,华为,,,华为 Ascend D1,#
-HUAWEI U9500E,tv,huawei,华为,,,华为 Ascend D1,#XL
-HUAWEI U9510,tv,huawei,华为,,,华为 Ascend D1,#四核
-HUAWEI U9510E,tv,huawei,华为,,,华为 Ascend D1,#四核 XL
-HUAWEI T9510E,tv,huawei,华为,,,华为 Ascend D1,#四核 XL 移动版
-HUAWEI D2-5000,tv,huawei,华为,,,华为 Ascend D2,#移动 3G 版
-HUAWEI D2-6070,tv,huawei,华为,,,华为 Ascend D2,#移动 4G 版
-HUAWEI D2-0082,tv,huawei,华为,,,华为 Ascend D2,#联通版
-HUAWEI D2-2010,tv,huawei,华为,,,华为 Ascend D2,#电信版
+BLM-00,tv,huawei,华为,,,华为小精灵学习智慧屏(Pad),#
+HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,#
+HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,#XL
+HUAWEI U9510,mob,huawei,华为,,,华为 Ascend D1,#四核
+HUAWEI U9510E,mob,huawei,华为,,,华为 Ascend D1,#四核 XL
+HUAWEI T9510E,mob,huawei,华为,,,华为 Ascend D1,#四核 XL 移动版
+HUAWEI D2-5000,mob,huawei,华为,,,华为 Ascend D2,#移动 3G 版
+HUAWEI D2-6070,mob,huawei,华为,,,华为 Ascend D2,#移动 4G 版
+HUAWEI D2-0082,mob,huawei,华为,,,华为 Ascend D2,#联通版
+HUAWEI D2-2010,mob,huawei,华为,,,华为 Ascend D2,#电信版
 MT7-L09,mob,huawei,HUAWEI,,Jazz,HUAWEI Ascend Mate 7,#Single SIM
 MT7-TL10,mob,huawei,HUAWEI,,Jazz,HUAWEI Ascend Mate 7,#Dual SIM
 CRR-L09,mob,huawei,HUAWEI,,Carrera,HUAWEI Mate S,#Single SIM
