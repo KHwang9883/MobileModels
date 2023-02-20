@@ -18,6 +18,7 @@
 | [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | -- |
 | [apple_all](brands/apple_all.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | [国行机型单独汇总](brands/apple_cn.md) |
 | [asus](brands/asus.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
+| [blackshark](brands/blackshark.md) | 黑鲨 (Black Shark) | 全部机型 | ✅ | ✅ | -- |
 | [coolpad](brands/coolpad.md) | 酷派 (Coolpad) | 酷派近年智能手机机型 | ❌ | ❌ | -- |
 | [honor_cn](brands/honor_cn.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏 | ⏹ | ⏹ | [海外机型单独汇总](brands/honor_global_en.md) |
 | [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号 | ⏹ | ⏹ | [海外机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
@@ -35,7 +36,7 @@
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo](brands/vivo.md) | vivo | 2018 年起新型号命名方式的机型 | ✅ | ❌ | -- |
-| [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO/黑鲨手机、小米平板等 | ✅ | ✅ | -- |
+| [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机、小米/Redmi 平板等 | ✅ | ✅ | -- |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ❌ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 

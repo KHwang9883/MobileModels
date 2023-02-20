@@ -941,6 +941,53 @@ ASUS_AI2201_B,mob,asus,华硕,,AI2201,ROG Phone 6,#游戏手机 6 Pro
 ASUS_AI2203_A,mob,asus,华硕,,AI2203,ROG Phone 6D,#游戏手机 6 天玑版
 ASUS_AI2203_B,mob,asus,华硕,,AI2203,ROG Phone 6D,#游戏手机 6 天玑至尊版
 ASUS_I007D,mob,asus,华硕,,,Smartphone for Snapdragon Insiders,#
+SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#全网通版
+SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#国际版
+AWM-A0,mob,blackshark,黑鲨,,bullhead,黑鲨游戏手机 Helo,#
+SKW-A0,mob,blackshark,黑鲨,,skywalker,黑鲨游戏手机 2,#全网通版
+SKW-H0,mob,blackshark,黑鲨,,skywalker,黑鲨游戏手机 2,#国际版
+DLT-A0,mob,blackshark,黑鲨,,darklighter,黑鲨游戏手机 2 Pro,#全网通版
+DLT-H0,mob,blackshark,黑鲨,,darklighter,黑鲨游戏手机 2 Pro,#国际版
+SHARK KLE-A0,mob,blackshark,黑鲨,,klein,腾讯黑鲨游戏手机 3,#全网通版
+SHARK KLE-H0,mob,blackshark,黑鲨,,klein,腾讯黑鲨游戏手机 3,黑鲨游戏手机 3 国际版
+SHARK MBU-A0,mob,blackshark,黑鲨,,mobius,腾讯黑鲨游戏手机 3 Pro,#全网通版
+SHARK MBU-H0,mob,blackshark,黑鲨,,mobius,腾讯黑鲨游戏手机 3 Pro,黑鲨游戏手机 3 Pro 国际版
+SHARK KLE-A0,mob,blackshark,黑鲨,,klein,腾讯黑鲨游戏手机 3S,#全网通版
+SHARK PRS-A0,mob,blackshark,黑鲨,,penrose,黑鲨 4,#全网通版
+SHARK PRS-H0,mob,blackshark,黑鲨,,penrose,黑鲨 4,#国际版
+SHARK KSR-A0,mob,blackshark,黑鲨,,kaiser,黑鲨 4 Pro,#全网通版
+SHARK KSR-H0,mob,blackshark,黑鲨,,kaiser,黑鲨 4 Pro,#国际版
+SHARK PRS-A0,mob,blackshark,黑鲨,,penrose,黑鲨 4S,#全网通版
+SHARK KSR-A0,mob,blackshark,黑鲨,,kaiser,黑鲨 4S Pro,#全网通版
+SHARK PAR-A0,mob,blackshark,黑鲨,,patriot,黑鲨 5,#全网通版
+SHARK PAR-A0,mob,blackshark,黑鲨,,patriot,黑鲨 5,#高能版
+SHARK PAR-H0,mob,blackshark,黑鲨,,patriot,黑鲨 5,#国际版
+SHARK KSR-A0,mob,blackshark,黑鲨,,kaiser,黑鲨 5 RS,#全网通版
+SHARK KTUS-A0,mob,blackshark,黑鲨,,katyusha,黑鲨 5 Pro,#全网通版
+SHARK KTUS-H0,mob,blackshark,黑鲨,,katyusha,黑鲨 5 Pro,#国际版
+SKR-H0,mob,blackshark,BlackShark,,shark,Black Shark,#Global
+SKR-A0,mob,blackshark,BlackShark,,shark,Black Shark,#China
+AWM-A0,mob,blackshark,BlackShark,,bullhead,Black Shark Helo,#China
+SKW-H0,mob,blackshark,BlackShark,,skywalker,Black Shark 2,#Global
+SKW-A0,mob,blackshark,BlackShark,,skywalker,Black Shark 2,#China
+DLT-H0,mob,blackshark,BlackShark,,darklighter,Black Shark 2 Pro,#Global
+DLT-A0,mob,blackshark,BlackShark,,darklighter,Black Shark 2 Pro,#China
+SHARK KLE-H0,mob,blackshark,BlackShark,,klein,Black Shark 3,#Global
+SHARK KLE-A0,mob,blackshark,BlackShark,,klein,Black Shark 3,#China
+SHARK MBU-H0,mob,blackshark,BlackShark,,mobius,Black Shark 3 Pro,#Global
+SHARK MBU-A0,mob,blackshark,BlackShark,,mobius,Black Shark 3 Pro,#China
+SHARK KLE-A0,mob,blackshark,BlackShark,,klein,Black Shark 3S,#China
+SHARK PRS-H0,mob,blackshark,BlackShark,,penrose,Black Shark 4,#Global
+SHARK PRS-A0,mob,blackshark,BlackShark,,penrose,Black Shark 4,#China
+SHARK KSR-H0,mob,blackshark,BlackShark,,kaiser,Black Shark 4 Pro,#Global
+SHARK KSR-A0,mob,blackshark,BlackShark,,kaiser,Black Shark 4 Pro,#China
+SHARK PRS-A0,mob,blackshark,BlackShark,,penrose,Black Shark 4S,#China
+SHARK KSR-A0,mob,blackshark,BlackShark,,kaiser,Black Shark 4S Pro,#China
+SHARK PAR-H0,mob,blackshark,BlackShark,,patriot,Black Shark 5,#Global
+SHARK PAR-A0,mob,blackshark,BlackShark,,patriot,Black Shark 5,#China
+SHARK KSR-A0,mob,blackshark,BlackShark,,kaiser,Black Shark 5 RS,#China
+SHARK KTUS-H0,mob,blackshark,BlackShark,,katyusha,Black Shark 5 Pro,#Global
+SHARK KTUS-A0,mob,blackshark,BlackShark,,katyusha,Black Shark 5 Pro,#China
 C105,mob,coolpad,酷派,,,酷派 COOL Changer S1,#
 C105-6,mob,coolpad,酷派,,,酷派 COOL Changer S1,#
 C105-8,mob,coolpad,酷派,,,酷派 COOL Changer S1,#
@@ -5278,30 +5325,6 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,#国际版
 220333QPI,mob,xiaomi,小米,C3QP,frost,POCO C40,#印度版
 220733SPI,mob,xiaomi,小米,C3SP,snow,POCO C50,#印度版
-SKR-A0,mob,xiaomi,小米,,shark,黑鲨游戏手机,#全网通版
-SKR-H0,mob,xiaomi,小米,,shark,黑鲨游戏手机,#国际版
-AWM-A0,mob,xiaomi,小米,,bullhead,黑鲨游戏手机 Helo,#
-SKW-A0,mob,xiaomi,小米,,skywalker,黑鲨游戏手机 2,#全网通版
-SKW-H0,mob,xiaomi,小米,,skywalker,黑鲨游戏手机 2,#国际版
-DLT-A0,mob,xiaomi,小米,,darklighter,黑鲨游戏手机 2 Pro,#全网通版
-DLT-H0,mob,xiaomi,小米,,darklighter,黑鲨游戏手机 2 Pro,#国际版
-SHARK KLE-A0,mob,xiaomi,小米,,klein,腾讯黑鲨游戏手机 3,#全网通版
-SHARK KLE-H0,mob,xiaomi,小米,,klein,腾讯黑鲨游戏手机 3,黑鲨游戏手机 3 国际版
-SHARK MBU-A0,mob,xiaomi,小米,,mobius,腾讯黑鲨游戏手机 3 Pro,#全网通版
-SHARK MBU-H0,mob,xiaomi,小米,,mobius,腾讯黑鲨游戏手机 3 Pro,黑鲨游戏手机 3 Pro 国际版
-SHARK KLE-A0,mob,xiaomi,小米,,klein,腾讯黑鲨游戏手机 3S,#全网通版
-SHARK PRS-A0,mob,xiaomi,小米,,penrose,黑鲨 4,#全网通版
-SHARK PRS-H0,mob,xiaomi,小米,,penrose,黑鲨 4,#国际版
-SHARK KSR-A0,mob,xiaomi,小米,,kaiser,黑鲨 4 Pro,#全网通版
-SHARK KSR-H0,mob,xiaomi,小米,,kaiser,黑鲨 4 Pro,#国际版
-SHARK PRS-A0,mob,xiaomi,小米,,penrose,黑鲨 4S,#全网通版
-SHARK KSR-A0,mob,xiaomi,小米,,kaiser,黑鲨 4S Pro,#全网通版
-SHARK PAR-A0,mob,xiaomi,小米,,patriot,黑鲨 5,#全网通版
-SHARK PAR-A0,mob,xiaomi,小米,,patriot,黑鲨 5,#高能版
-SHARK PAR-H0,mob,xiaomi,小米,,patriot,黑鲨 5,#国际版
-SHARK KSR-A0,mob,xiaomi,小米,,kaiser,黑鲨 5 RS,#全网通版
-SHARK KTUS-A0,mob,xiaomi,小米,,katyusha,黑鲨 5 Pro,#全网通版
-SHARK KTUS-H0,mob,xiaomi,小米,,katyusha,黑鲨 5 Pro,#国际版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 FYJ01QP,watch,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
 21051191C,watch,xiaomi,小米,K91,,CyberDog 仿生四足机器人,#
@@ -5875,29 +5898,6 @@ M2006C3MI,pad,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 220333QPG,pad,xiaomi,Xiaomi,C3QP,frost,POCO C40,#Global
 220333QPI,pad,xiaomi,Xiaomi,C3QP,frost,POCO C40,#India
 220733SPI,pad,xiaomi,Xiaomi,C3SP,snow,POCO C50,#India
-SKR-H0,pad,xiaomi,Xiaomi,,shark,Black Shark,#Global
-SKR-A0,pad,xiaomi,Xiaomi,,shark,Black Shark,#China
-AWM-A0,pad,xiaomi,Xiaomi,,bullhead,Black Shark Helo,#China
-SKW-H0,pad,xiaomi,Xiaomi,,skywalker,Black Shark 2,#Global
-SKW-A0,pad,xiaomi,Xiaomi,,skywalker,Black Shark 2,#China
-DLT-H0,pad,xiaomi,Xiaomi,,darklighter,Black Shark 2 Pro,#Global
-DLT-A0,pad,xiaomi,Xiaomi,,darklighter,Black Shark 2 Pro,#China
-SHARK KLE-H0,pad,xiaomi,Xiaomi,,klein,Black Shark 3,#Global
-SHARK KLE-A0,pad,xiaomi,Xiaomi,,klein,Black Shark 3,#China
-SHARK MBU-H0,pad,xiaomi,Xiaomi,,mobius,Black Shark 3 Pro,#Global
-SHARK MBU-A0,pad,xiaomi,Xiaomi,,mobius,Black Shark 3 Pro,#China
-SHARK KLE-A0,pad,xiaomi,Xiaomi,,klein,Black Shark 3S,#China
-SHARK PRS-H0,pad,xiaomi,Xiaomi,,penrose,Black Shark 4,#Global
-SHARK PRS-A0,pad,xiaomi,Xiaomi,,penrose,Black Shark 4,#China
-SHARK KSR-H0,pad,xiaomi,Xiaomi,,kaiser,Black Shark 4 Pro,#Global
-SHARK KSR-A0,pad,xiaomi,Xiaomi,,kaiser,Black Shark 4 Pro,#China
-SHARK PRS-A0,pad,xiaomi,Xiaomi,,penrose,Black Shark 4S,#China
-SHARK KSR-A0,pad,xiaomi,Xiaomi,,kaiser,Black Shark 4S Pro,#China
-SHARK PAR-H0,pad,xiaomi,Xiaomi,,patriot,Black Shark 5,#Global
-SHARK PAR-A0,pad,xiaomi,Xiaomi,,patriot,Black Shark 5,#China
-SHARK KSR-A0,pad,xiaomi,Xiaomi,,kaiser,Black Shark 5 RS,#China
-SHARK KTUS-H0,pad,xiaomi,Xiaomi,,katyusha,Black Shark 5 Pro,#Global
-SHARK KTUS-A0,pad,xiaomi,Xiaomi,,katyusha,Black Shark 5 Pro,#China
 XMWT01,watch,xiaomi,Xiaomi,,baiji,Mi Watch,#
 FYJ01QP,watch,xiaomi,Xiaomi,,FYJ01QP,Xiaomi Mijia Translator,#
 21051191C,watch,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,#Bio-inspired Quadruped Robot
