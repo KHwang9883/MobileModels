@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-02-20
+- `blackshark_en` Separate Black Shark models.
 ## 2023-02-14
 - `honor_global_en` Add HONOR X8a.
 ## 2023-02-13

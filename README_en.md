@@ -16,6 +16,7 @@ Unlisted brands usually not include international models.
 | Name | Brand | Range |
 | :-: | :-: | :-: |
 | [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google_en](brands/google_en.md) | Google | Google Pixel phones & tablets |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
 | [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, P, nova & Y series |
@@ -25,7 +26,7 @@ Unlisted brands usually not include international models.
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | All International models |
 | [realme_global_en](brands/realme_global_en.md) | realme | All international models |
-| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi phones & tablets, Redmi phones, POCO phones and Black Shark phones |
+| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi phones & tablets, Redmi phones & tablets, POCO phones |
 
 ## Changelog
 
