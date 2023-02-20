@@ -4679,81 +4679,81 @@ V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2199GA,mob,vivo,vivo,,PD2199G,T2,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#
+V1801A0,mob,vivo,vivo,,PD1730C,Z1,#
+V1730DA,mob,vivo,vivo,,PD1730D,Z1i,#全网通版
+V1730DT,mob,vivo,vivo,,PD1730D,Z1i,#移动全网通版
+V1730EA,mob,vivo,vivo,,PD1730E,Z1 青春版,#
+V1813BA,mob,vivo,vivo,,PD1813B,Z3,#全网通版 (骁龙 670)
+V1813BT,mob,vivo,vivo,,PD1813B,Z3,#全网通版 (骁龙 710)
+V1813A,mob,vivo,vivo,,PD1813,Z3i,#全网通版
+V1813T,mob,vivo,vivo,,PD1813,Z3i,#移动全网通版
+V1813A,mob,vivo,vivo,,PD1813,Z3i 标准版,#全网通版
+V1813T,mob,vivo,vivo,,PD1813,Z3i 标准版,#移动全网通版
+V1730GA,mob,vivo,vivo,,PD1730G,Z3x,#
+V1921A,mob,vivo,vivo,,PD1921,Z5,#全网通版
+V1921T,mob,vivo,vivo,,PD1921,Z5,#移动全网通版
+V1911A,mob,vivo,vivo,,PD1911,Z5x,#全网通版
+V1919A,mob,vivo,vivo,,PD1911,Z5x,#移动全网通版
+V1990A,mob,vivo,vivo,,PD1990,Z5x,#712 版
+V1941A,mob,vivo,vivo,,PD1941,Z5i,#全网通版
+V1941T,mob,vivo,vivo,,PD1941,Z5i,#移动全网通版
+V1963A,mob,vivo,vivo,,PD1963,Z6,#5G
+V1818A,mob,vivo,vivo,,PD1818,U1,#
+V1941A,mob,vivo,vivo,,PD1941,U3,#全网通版
+V1941T,mob,vivo,vivo,,PD1941,U3,#移动全网通版
+V1928A,mob,vivo,vivo,,PD1928,U3x,#全网通版
+V1928T,mob,vivo,vivo,,PD1928,U3x,#移动全网通版
+V1962BA,mob,vivo,vivo,,PD1962B,G1,#5G
+V1824BA,mob,vivo,vivo,,PD1824,iQOO,#6GB+128GB
+V1824A,mob,vivo,vivo,,PD1824,iQOO,#8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB
+V1922A,mob,vivo,vivo,,PD1922,iQOO Pro,#全网通版
+V1922T,mob,vivo,vivo,,PD1922,iQOO Pro,#移动全网通版
+V1916A,mob,vivo,vivo,,PD1916,iQOO Pro 5G,#全网通版
+V1916T,mob,vivo,vivo,,PD1916,iQOO Pro 5G,#移动全网通版
+V1955A,mob,vivo,vivo,,PD1955,iQOO 3,#
+V2024A,mob,vivo,vivo,,PD2024,iQOO 5,#
+V2025A,mob,vivo,vivo,,PD2025,iQOO 5 Pro,#
+V2049A,mob,vivo,vivo,,PD2049,iQOO 7,#
+V2136A,mob,vivo,vivo,,PD2136,iQOO 8,#
+V2141A,mob,vivo,vivo,,PD2141,iQOO 8 Pro,#
+V2171A,mob,vivo,vivo,,PD2171,iQOO 9,#
+V2172A,mob,vivo,vivo,,PD2172,iQOO 9 Pro,#
+V2217A,mob,vivo,vivo,,PD2217,iQOO 10,#
+V2218A,mob,vivo,vivo,,PD2218,iQOO 10 Pro,#
+V2243A,mob,vivo,vivo,,PD2243,iQOO 11,#
+V2254A,mob,vivo,vivo,,PD2254,iQOO 11 Pro,#
+V1914A,mob,vivo,vivo,,PD1914,iQOO Neo,#全网通版
+V1914T,mob,vivo,vivo,,PD1914,iQOO Neo,#移动全网通版
+V1936A,mob,vivo,vivo,,PD1936,iQOO Neo 855 版,#全网通版
+V1936T,mob,vivo,vivo,,PD1936,iQOO Neo 855 版,#移动全网通版
+V1936AL,mob,vivo,vivo,,PD1936,iQOO Neo 855 竞速版,#全网通版
+V1936TL,mob,vivo,vivo,,PD1936,iQOO Neo 855 竞速版,#移动全网通版
+V1981A,mob,vivo,vivo,,PD1981,iQOO Neo3,#
+V2055A,mob,vivo,vivo,,PD2055,iQOO Neo5,#
+V2118A,mob,vivo,vivo,,PD2118,iQOO Neo5 活力版,#
+V2154A,mob,vivo,vivo,,PD2154,iQOO Neo5S,#
+V2157A,mob,vivo,vivo,,PD2157,iQOO Neo5 SE,#
+V2196A,mob,vivo,vivo,,PD2196,iQOO Neo6,#
+V2199A,mob,vivo,vivo,,PD2199,iQOO Neo6 SE,#
+V2231A,mob,vivo,vivo,,PD2231,iQOO Neo7,#
+V2232A,mob,vivo,vivo,,PD2232,iQOO Neo7 竞速版,#
+V2238A,mob,vivo,vivo,,PD2238,iQOO Neo7 SE,#
+V1986A,mob,vivo,vivo,,PD1986,iQOO Z1,#
+V2012A,mob,vivo,vivo,,PD2012,iQOO Z1x,#
+V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
+V2148A,mob,vivo,vivo,,PD2148,iQOO Z5,#
+V2131A,mob,vivo,vivo,,PD2131,iQOO Z5x,#
+V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#
+V2164KA,mob,vivo,vivo,,PD2164K,iQOO Z6x,#
+V2023A,mob,vivo,vivo,,PD2023,iQOO U1,#
+V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,#
+V2061A,mob,vivo,vivo,,PD2061,iQOO U3,#5G
+V2106A,mob,vivo,vivo,,PD2106,iQOO U3x,#5G
+V2143A,mob,vivo,vivo,,PD2143,iQOO U3x 标准版,#
+V2165A,mob,vivo,vivo,,PD2165,iQOO U5,#5G
+V2180GA,mob,vivo,vivo,,PD2180G,iQOO U5x,#
+V2197A,mob,vivo,vivo,,PD2197,iQOO U5e,#5G
 PA2170,pad,vivo,vivo,,PA2170,,#vivo Pad
-V1801A0,pad,vivo,vivo,,PD1730C,Z1,#
-V1730DA,pad,vivo,vivo,,PD1730D,Z1i,#全网通版
-V1730DT,pad,vivo,vivo,,PD1730D,Z1i,#移动全网通版
-V1730EA,pad,vivo,vivo,,PD1730E,Z1 青春版,#
-V1813BA,pad,vivo,vivo,,PD1813B,Z3,#全网通版 (骁龙 670)
-V1813BT,pad,vivo,vivo,,PD1813B,Z3,#全网通版 (骁龙 710)
-V1813A,pad,vivo,vivo,,PD1813,Z3i,#全网通版
-V1813T,pad,vivo,vivo,,PD1813,Z3i,#移动全网通版
-V1813A,pad,vivo,vivo,,PD1813,Z3i 标准版,#全网通版
-V1813T,pad,vivo,vivo,,PD1813,Z3i 标准版,#移动全网通版
-V1730GA,pad,vivo,vivo,,PD1730G,Z3x,#
-V1921A,pad,vivo,vivo,,PD1921,Z5,#全网通版
-V1921T,pad,vivo,vivo,,PD1921,Z5,#移动全网通版
-V1911A,pad,vivo,vivo,,PD1911,Z5x,#全网通版
-V1919A,pad,vivo,vivo,,PD1911,Z5x,#移动全网通版
-V1990A,pad,vivo,vivo,,PD1990,Z5x,#712 版
-V1941A,pad,vivo,vivo,,PD1941,Z5i,#全网通版
-V1941T,pad,vivo,vivo,,PD1941,Z5i,#移动全网通版
-V1963A,pad,vivo,vivo,,PD1963,Z6,#5G
-V1818A,pad,vivo,vivo,,PD1818,U1,#
-V1941A,pad,vivo,vivo,,PD1941,U3,#全网通版
-V1941T,pad,vivo,vivo,,PD1941,U3,#移动全网通版
-V1928A,pad,vivo,vivo,,PD1928,U3x,#全网通版
-V1928T,pad,vivo,vivo,,PD1928,U3x,#移动全网通版
-V1962BA,pad,vivo,vivo,,PD1962B,G1,#5G
-V1824BA,pad,vivo,vivo,,PD1824,iQOO,#6GB+128GB
-V1824A,pad,vivo,vivo,,PD1824,iQOO,#8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB
-V1922A,pad,vivo,vivo,,PD1922,iQOO Pro,#全网通版
-V1922T,pad,vivo,vivo,,PD1922,iQOO Pro,#移动全网通版
-V1916A,pad,vivo,vivo,,PD1916,iQOO Pro 5G,#全网通版
-V1916T,pad,vivo,vivo,,PD1916,iQOO Pro 5G,#移动全网通版
-V1955A,pad,vivo,vivo,,PD1955,iQOO 3,#
-V2024A,pad,vivo,vivo,,PD2024,iQOO 5,#
-V2025A,pad,vivo,vivo,,PD2025,iQOO 5 Pro,#
-V2049A,pad,vivo,vivo,,PD2049,iQOO 7,#
-V2136A,pad,vivo,vivo,,PD2136,iQOO 8,#
-V2141A,pad,vivo,vivo,,PD2141,iQOO 8 Pro,#
-V2171A,pad,vivo,vivo,,PD2171,iQOO 9,#
-V2172A,pad,vivo,vivo,,PD2172,iQOO 9 Pro,#
-V2217A,pad,vivo,vivo,,PD2217,iQOO 10,#
-V2218A,pad,vivo,vivo,,PD2218,iQOO 10 Pro,#
-V2243A,pad,vivo,vivo,,PD2243,iQOO 11,#
-V2254A,pad,vivo,vivo,,PD2254,iQOO 11 Pro,#
-V1914A,pad,vivo,vivo,,PD1914,iQOO Neo,#全网通版
-V1914T,pad,vivo,vivo,,PD1914,iQOO Neo,#移动全网通版
-V1936A,pad,vivo,vivo,,PD1936,iQOO Neo 855 版,#全网通版
-V1936T,pad,vivo,vivo,,PD1936,iQOO Neo 855 版,#移动全网通版
-V1936AL,pad,vivo,vivo,,PD1936,iQOO Neo 855 竞速版,#全网通版
-V1936TL,pad,vivo,vivo,,PD1936,iQOO Neo 855 竞速版,#移动全网通版
-V1981A,pad,vivo,vivo,,PD1981,iQOO Neo3,#
-V2055A,pad,vivo,vivo,,PD2055,iQOO Neo5,#
-V2118A,pad,vivo,vivo,,PD2118,iQOO Neo5 活力版,#
-V2154A,pad,vivo,vivo,,PD2154,iQOO Neo5S,#
-V2157A,pad,vivo,vivo,,PD2157,iQOO Neo5 SE,#
-V2196A,pad,vivo,vivo,,PD2196,iQOO Neo6,#
-V2199A,pad,vivo,vivo,,PD2199,iQOO Neo6 SE,#
-V2231A,pad,vivo,vivo,,PD2231,iQOO Neo7,#
-V2232A,pad,vivo,vivo,,PD2232,iQOO Neo7 竞速版,#
-V2238A,pad,vivo,vivo,,PD2238,iQOO Neo7 SE,#
-V1986A,pad,vivo,vivo,,PD1986,iQOO Z1,#
-V2012A,pad,vivo,vivo,,PD2012,iQOO Z1x,#
-V2073A,pad,vivo,vivo,,PD2073,iQOO Z3,#
-V2148A,pad,vivo,vivo,,PD2148,iQOO Z5,#
-V2131A,pad,vivo,vivo,,PD2131,iQOO Z5x,#
-V2220A,pad,vivo,vivo,,PD2220,iQOO Z6,#
-V2164KA,pad,vivo,vivo,,PD2164K,iQOO Z6x,#
-V2023A,pad,vivo,vivo,,PD2023,iQOO U1,#
-V2065A,pad,vivo,vivo,,PD2065,iQOO U1x,#
-V2061A,pad,vivo,vivo,,PD2061,iQOO U3,#5G
-V2106A,pad,vivo,vivo,,PD2106,iQOO U3x,#5G
-V2143A,pad,vivo,vivo,,PD2143,iQOO U3x 标准版,#
-V2165A,pad,vivo,vivo,,PD2165,iQOO U5,#5G
-V2180GA,pad,vivo,vivo,,PD2180G,iQOO U5x,#
-V2197A,pad,vivo,vivo,,PD2197,iQOO U5e,#5G
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,#联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,#电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,#青春版

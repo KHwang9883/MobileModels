@@ -548,12 +548,6 @@
 
 `V2188A`: vivo T2x
 
-## vivo 平板电脑
-
-**vivo Pad (`PA2170`):**
-
-`PA2170`: vivo Pad
-
 ## vivo Z 系列
 
 **vivo Z1 (`PD1730C`):**
@@ -833,3 +827,9 @@
 **iQOO U5e (`PD2197`):**
 
 `V2197A`: iQOO U5e 5G
+
+## 平板电脑
+
+**vivo Pad (`PA2170`):**
+
+`PA2170`: vivo Pad
