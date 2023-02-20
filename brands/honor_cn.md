@@ -882,7 +882,7 @@
 
 `BG2-W09`: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
 
-## 荣耀 MagicBook
+## 荣耀笔记本电脑
 
 **荣耀 MagicBook (`Volta`):**
 
