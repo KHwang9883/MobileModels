@@ -535,48 +535,6 @@
 
 `M1906F9SI`: Mi A3 India
 
-## Xiaomi tablets
-
-**[`X6`] Mi Pad (`mocha`):**
-
-`A0101`: Mi Pad
-
-**[`A3`] Mi Pad 2 (`latte`):**
-
-`2015716`: Mi Pad 2
-
-**[`C9`] Mi Pad 3 (`cappu`):**
-
-`MCE91`: Mi Pad 3
-
-**[`D9`] Mi Pad 4 (`clover`):**
-
-`M1806D9W`: Mi Pad 4 Wi-Fi
-
-`M1806D9E`: Mi Pad 4 LTE
-
-**[`D9P`] Mi Pad 4 Plus (`clover`):**
-
-`M1806D9PE`: Mi Pad 4 Plus LTE
-
-**[`K82`] Xiaomi Pad 5 (`nabu`):**
-
-`21051182G`: Xiaomi Pad 5 Global
-
-`21051182C`: Xiaomi Pad 5 China
-
-**[`K81A`] Xiaomi Pad 5 Pro (`elish`):**
-
-`M2105K81AC`: Xiaomi Pad 5 Pro Wi-Fi
-
-**[`K81`] Xiaomi Pad 5 Pro 5G (`enuma`):**
-
-`M2105K81C`: Xiaomi Pad 5 Pro 5G
-
-**[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
-
-`22081281AC`: Xiaomi Pad 5 Pro 12.4
-
 ## Redmi phones
 
 **[`H2TD`] Redmi 1 (`wt93007`):**
@@ -1479,15 +1437,7 @@
 
 `220743FI`: Redmi A1+ India
 
-## Redmi tablets
-
-**[`L83`] Redmi Pad (`yunluo`):**
-
-`22081283G`: Redmi Pad Global
-
-`22081283C`: Redmi Pad China
-
-## POCO
+## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
 
@@ -1646,6 +1596,54 @@
 **[`C3SP`] POCO C50 (`snow`):**
 
 `220733SPI`: POCO C50 India
+
+## Tablets
+
+**[`X6`] Mi Pad (`mocha`):**
+
+`A0101`: Mi Pad
+
+**[`A3`] Mi Pad 2 (`latte`):**
+
+`2015716`: Mi Pad 2
+
+**[`C9`] Mi Pad 3 (`cappu`):**
+
+`MCE91`: Mi Pad 3
+
+**[`D9`] Mi Pad 4 (`clover`):**
+
+`M1806D9W`: Mi Pad 4 Wi-Fi
+
+`M1806D9E`: Mi Pad 4 LTE
+
+**[`D9P`] Mi Pad 4 Plus (`clover`):**
+
+`M1806D9PE`: Mi Pad 4 Plus LTE
+
+**[`K82`] Xiaomi Pad 5 (`nabu`):**
+
+`21051182G`: Xiaomi Pad 5 Global
+
+`21051182C`: Xiaomi Pad 5 China
+
+**[`K81A`] Xiaomi Pad 5 Pro (`elish`):**
+
+`M2105K81AC`: Xiaomi Pad 5 Pro Wi-Fi
+
+**[`K81`] Xiaomi Pad 5 Pro 5G (`enuma`):**
+
+`M2105K81C`: Xiaomi Pad 5 Pro 5G
+
+**[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
+
+`22081281AC`: Xiaomi Pad 5 Pro 12.4
+
+**[`L83`] Redmi Pad (`yunluo`):**
+
+`22081283G`: Redmi Pad Global
+
+`22081283C`: Redmi Pad China
 
 ## Others
 
