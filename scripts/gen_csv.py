@@ -12,8 +12,9 @@ import re
 import traceback
 import pandas as pd
 from typing import Optional, List
+from os.path import dirname, abspath
 
-source_dir = r'../brands'
+source_dir = os.path.join(dirname(dirname(abspath(__file__))), 'brands')
 
 device_type: Optional[str] = None  # 设备类型：手机，电视，手环
 root_brand: Optional[str] = None  # 品牌代码
@@ -32,13 +33,14 @@ _re_non_word = re.compile(r'[\W_]+')
 _re_model_ver = re.compile(r'^`(([^`]+)`\s*)+:\s*')
 _re_model_item = re.compile(r'`([^`]+)`')
 # 匹配设备类型的正则
-_re_device_type = re.compile(r'(手机|手表|平板|电视主机|盒子|(智能)?电视|智慧屏|笔记本电脑|设备|Mobile|Phone|Pad|Pod|Tablet|Watch|Device|\bTV\b)')
+_re_device_type = re.compile(r'(手机|手表|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|Mobile|Phone|Pad|Pod|Tablet|Watch|Device|\bTV\b|学习智慧屏|智慧屏)')
 _device_map = dict(
     手机='mob',
     mobile='mob',
     phone='mob',
     电视='tv',
     智能电视='tv',
+    学习智慧屏='pad',
     智慧屏='tv',
     设备='device',
     手表='watch',
