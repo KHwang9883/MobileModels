@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-02-21
+- `xiaomi_en` Add POCO C55.
 ## 2023-02-20
 - `blackshark_en` Separate Black Shark models.
 ## 2023-02-14

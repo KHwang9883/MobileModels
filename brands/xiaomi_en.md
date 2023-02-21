@@ -1597,6 +1597,12 @@
 
 `220733SPI`: POCO C50 India
 
+**POCO C55 (`earth`):**
+
+`22127PC95G` `22127PC95H`: POCO C55 Global
+
+`22127PC95I`: POCO C55 India
+
 ## Tablets
 
 **[`X6`] Mi Pad (`mocha`):**
