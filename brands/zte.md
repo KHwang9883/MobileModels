@@ -84,6 +84,10 @@
 
 `ZTE A2023BH`: 中兴天机 A41
 
+**中兴天机 A41 Pro:**
+
+`ZTE A2023`: 中兴天机 A41 Pro
+
 **中兴天机 A41 Ultra:**
 
 `ZTE A2023H`: 中兴天机 A41 Ultra
