@@ -160,7 +160,7 @@
 
 **荣耀 30 Pro+ (`Edinburgh`):**
 
-`EBG-AN10`: 荣耀 30 Pro+ 5G 全网通版
+`EBG-AN10`: 荣耀 30 Pro+ 5G
 
 **荣耀 30S (`CindyH`):**
 
@@ -176,7 +176,7 @@
 
 **荣耀 50 (`Nottingham`):**
 
-`NTH-AN00`: 荣耀 50 5G 全网通版
+`NTH-AN00`: 荣耀 50 5G
 
 **荣耀 50 Pro (`Rena`):**
 
@@ -186,11 +186,11 @@
 
 **荣耀 50 SE (`JuliaH`):**
 
-`JLH-AN00`: 荣耀 50 SE 5G 全网通版
+`JLH-AN00`: 荣耀 50 SE 5G
 
 **荣耀 60 (`Lisa`):**
 
-`LSA-AN00`: 荣耀 60 5G 全网通版
+`LSA-AN00`: 荣耀 60 5G
 
 **荣耀 60 Pro (`Tina`):**
 
@@ -200,39 +200,39 @@
 
 **荣耀 60 SE (`Gina`):**
 
-`GIA-AN00`: 荣耀 60 SE 5G 全网通版
+`GIA-AN00`: 荣耀 60 SE 5G
 
 **荣耀 70:**
 
-`FNE-AN00`: 荣耀 70 5G 全网通版
+`FNE-AN00`: 荣耀 70 5G
 
 **荣耀 70 Pro (`Sandy`):**
 
-`SDY-AN00`: 荣耀 70 Pro 5G 全网通版
+`SDY-AN00`: 荣耀 70 Pro 5G
 
 **荣耀 70 Pro+:**
 
-`HPB-TN00`: 荣耀 70 Pro+ 5G 全网通版
+`HPB-TN00`: 荣耀 70 Pro+ 5G
 
 **荣耀 80 (`Anna`):**
 
-`ANN-AN00`: 荣耀 80 5G 全网通版
+`ANN-AN00`: 荣耀 80 5G
 
 **荣耀 80 Pro:**
 
-`ANP-AN00`: 荣耀 80 Pro 5G 全网通版
+`ANP-AN00`: 荣耀 80 Pro 5G
 
 **荣耀 80 Pro 直屏版:**
 
-`ANB-AN00`: 荣耀 80 Pro 直屏版 5G 全网通版
+`ANB-AN00`: 荣耀 80 Pro 直屏版 5G
 
 **荣耀 80 SE (`Gina`):**
 
-`GIA-AN80`: 荣耀 80 SE 5G 全网通版
+`GIA-AN80`: 荣耀 80 SE 5G
 
 **荣耀 80 GT:**
 
-`AGT-AN00`: 荣耀 80 GT 5G 全网通版
+`AGT-AN00`: 荣耀 80 GT 5G
 
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
@@ -270,19 +270,19 @@
 
 **荣耀 V30 (`OxfordS`):**
 
-`OXF-AN00`: 荣耀 V30 5G 全网通版
+`OXF-AN00`: 荣耀 V30 5G
 
 **荣耀 V30 PRO (`OxfordP`):**
 
-`OXF-AN10`: 荣耀 V30 PRO 5G 全网通版
+`OXF-AN10`: 荣耀 V30 PRO 5G
 
 **荣耀 V40 (`York`):**
 
-`YOK-AN10`: 荣耀 V40 5G 全网通版
+`YOK-AN10`: 荣耀 V40 5G
 
 **荣耀 V40 轻奢版:**
 
-`ALA-AN70`: 荣耀 V40 轻奢版 5G 全网通版
+`ALA-AN70`: 荣耀 V40 轻奢版 5G
 
 ## 荣耀 Magic 系列
 
@@ -300,39 +300,51 @@
 
 **荣耀 Magic3 (`Elizabeth`):**
 
-`ELZ-AN00`: 荣耀 Magic3 5G 全网通版
+`ELZ-AN00`: 荣耀 Magic3 5G
 
 **荣耀 Magic3 Pro (`Elizabeth`):**
 
-`ELZ-AN10`: 荣耀 Magic3 Pro 5G 全网通版
+`ELZ-AN10`: 荣耀 Magic3 Pro 5G
 
 **荣耀 Magic3 至臻版 (`Elizabeth`):**
 
-`ELZ-AN20`: 荣耀 Magic3 至臻版 5G 全网通版
+`ELZ-AN20`: 荣耀 Magic3 至臻版 5G
 
 **荣耀 Magic V (`Maggie`):**
 
-`MGI-AN00`: 荣耀 Magic V 5G 全网通版
+`MGI-AN00`: 荣耀 Magic V 5G
 
 **荣耀 Magic4 (`Lange`):**
 
-`LGE-AN00`: 荣耀 Magic4 5G 全网通版
+`LGE-AN00`: 荣耀 Magic4 5G
 
 **荣耀 Magic4 Pro (`Lange`):**
 
-`LGE-AN10`: 荣耀 Magic4 Pro 5G 全网通版
+`LGE-AN10`: 荣耀 Magic4 Pro 5G
 
 **荣耀 Magic4 至臻版 (`Lange`):**
 
-`LGE-AN20`: 荣耀 Magic4 至臻版 5G 全网通版
+`LGE-AN20`: 荣耀 Magic4 至臻版 5G
 
 **荣耀 Magic Vs:**
 
-`FRI-AN00`: 荣耀 Magic Vs 5G 全网通版
+`FRI-AN00`: 荣耀 Magic Vs 5G
 
 **荣耀 Magic Vs 至臻版:**
 
-`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G 全网通版
+`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G
+
+**荣耀 Magic5 (`Piaget`):**
+
+`PGT-AN00`: 荣耀 Magic5 5G
+
+**荣耀 Magic5 Pro (`Piaget`):**
+
+`PGT-AN10`: 荣耀 Magic5 Pro 5G
+
+**荣耀 Magic5 至臻版 (`Piaget`):**
+
+`PGT-AN20`: 荣耀 Magic5 至臻版 5G
 
 ## 荣耀 X 系列
 
@@ -418,49 +430,49 @@
 
 **荣耀 9X PRO (`Hulk`):**
 
-`HLK-AL10`: 荣耀 9X PRO 全网通版
+`HLK-AL10`: 荣耀 9X PRO
 
 **荣耀 X10 (`Teller`):**
 
 `TEL-AN00` `TEL-AN00a` `TEL-AN10`: 荣耀 X10 5G 全网通版
 
-`TEL-TN00` `TEL-TN10`: 荣耀 X10 5G 移动定制版
+`TEL-TN00` `TEL-TN10`: 荣耀 X10 5G 移动版
 
 **荣耀 X10 Max (`Kingkong`):**
 
-`KKG-AN00`: 荣耀 X10 Max 5G 全网通版
+`KKG-AN00`: 荣耀 X10 Max 5G
 
 **荣耀 X20 (`NewtonH`):**
 
-`NTN-AN20`: 荣耀 X20 5G 全网通版
+`NTN-AN20`: 荣耀 X20 5G
 
 **荣耀 X20 SE (`Chanel`):**
 
-`CHL-AN00`: 荣耀 X20 SE 5G 全网通版
+`CHL-AN00`: 荣耀 X20 SE 5G
 
 **荣耀 X30 (`Andy`):**
 
-`ANY-AN00`: 荣耀 X30 5G 全网通版
+`ANY-AN00`: 荣耀 X30 5G
 
 **荣耀 X30i (`Tiffany`):**
 
-`TFY-AN00`: 荣耀 X30i 5G 全网通版
+`TFY-AN00`: 荣耀 X30i 5G
 
 **荣耀 X30 Max (`Kingkong`):**
 
-`KKG-AN70`: 荣耀 X30 Max 5G 全网通版
+`KKG-AN70`: 荣耀 X30 Max 5G
 
 **荣耀 X40 (`Rambo`):**
 
-`RMO-AN00`: 荣耀 X40 5G 全网通版
+`RMO-AN00`: 荣耀 X40 5G
 
 **荣耀 X40i (`Dior`):**
 
-`DIO-AN00`: 荣耀 X40i 5G 全网通版
+`DIO-AN00`: 荣耀 X40i 5G
 
 **荣耀 X40 GT (`AndyT`):**
 
-`ADT-AN00`: 荣耀 X40 GT 5G 全网通版
+`ADT-AN00`: 荣耀 X40 GT 5G
 
 ## 荣耀 Play 系列
 
@@ -492,55 +504,55 @@
 
 **荣耀 Play3e (`Katyusha`):**
 
-`KSA-AL10`: 荣耀 Play3e 全网通版
+`KSA-AL10`: 荣耀 Play3e
 
 **荣耀 Play4T (`Asoka`):**
 
-`AKA-AL10`: 荣耀 Play4T 全网通版
+`AKA-AL10`: 荣耀 Play4T
 
 **荣耀 Play4T Pro (`Aquaman`):**
 
-`AQM-AL10`: 荣耀 Play4T Pro 全网通版
+`AQM-AL10`: 荣耀 Play4T Pro
 
 **荣耀 Play4 (`TianshanH`):**
 
-`TNNH-AN00`: 荣耀 Play4 5G 全网通版
+`TNNH-AN00`: 荣耀 Play4 5G
 
 **荣耀 Play4 Pro (`OxfordPL`):**
 
-`OXP-AN00`: 荣耀 Play4 Pro 5G 全网通版
+`OXP-AN00`: 荣耀 Play4 Pro 5G
 
 **荣耀 Play5 (`JessicaH`):**
 
-`HJC-AN90`: 荣耀 Play5 5G 全网通版
+`HJC-AN90`: 荣耀 Play5 5G
 
 **荣耀 Play5 活力版 (`NewtonH`):**
 
-`NEW-AN90`: 荣耀 Play5 活力版 5G 全网通版
+`NEW-AN90`: 荣耀 Play5 活力版 5G
 
 **荣耀 Play5T (`KonanZ`):**
 
-`KOZ-AL40`: 荣耀 Play5T 全网通版
+`KOZ-AL40`: 荣耀 Play5T
 
 **荣耀 Play5T 活力版 (`Nezha`):**
 
-`NZA-AL00`: 荣耀 Play5T 活力版 全网通版
+`NZA-AL00`: 荣耀 Play5T 活力版
 
 **荣耀 Play5T Pro (`Chanel`):**
 
-`CHL-AL00`: 荣耀 Play5T Pro 全网通版
+`CHL-AL00`: 荣耀 Play5T Pro
 
 **荣耀 Play6T (`Carmella`):**
 
-`CMA-AN40`: 荣耀 Play6T 5G 全网通版
+`CMA-AN40`: 荣耀 Play6T 5G
 
 **荣耀 Play6T Pro (`Tiffany`):**
 
-`TFY-AN40`: 荣耀 Play6T Pro 5G 全网通版
+`TFY-AN40`: 荣耀 Play6T Pro 5G
 
 **荣耀 Play6C (`Vinnie`):**
 
-`VNE-AN40`: 荣耀 Play6C 5G 全网通版
+`VNE-AN40`: 荣耀 Play6C 5G
 
 ## 荣耀 Note 系列
 
@@ -552,7 +564,7 @@
 
 **荣耀 Note10 (`Ravel`):**
 
-`RVL-AL09`: 荣耀 Note10 全网通版
+`RVL-AL09`: 荣耀 Note10
 
 ## 荣耀畅玩系列
 
@@ -702,31 +714,31 @@
 
 **荣耀畅玩 20 (`KonanZ`):**
 
-`KOZ-AL00`: 荣耀畅玩 20 全网通版
+`KOZ-AL00`: 荣耀畅玩 20
 
 **荣耀畅玩 20a (`KonanZ`):**
 
-`KOZ-AL00CM`: 荣耀畅玩 20a 全网通版
+`KOZ-AL00CM`: 荣耀畅玩 20a
 
 **荣耀畅玩 20 Pro (`JessicaH`):**
 
-`HJC-LX9`: 荣耀畅玩 20 Pro 全网通版
+`HJC-LX9`: 荣耀畅玩 20 Pro
 
 **荣耀畅玩 30 (`Vinnie`):**
 
-`VNE-AN00`: 荣耀畅玩 30 5G 全网通版
+`VNE-AN00`: 荣耀畅玩 30 5G
 
 **荣耀畅玩 30M (`Vinnie`):**
 
-`VNE-AN40`: 荣耀畅玩 30M 5G 全网通版
+`VNE-AN40`: 荣耀畅玩 30M 5G
 
 **荣耀畅玩 30 Plus (`Carmella`):**
 
-`CMA-AN00`: 荣耀畅玩 30 Plus 5G 全网通版
+`CMA-AN00`: 荣耀畅玩 30 Plus 5G
 
 **荣耀畅玩 40 Plus (`Rocky`):**
 
-`RKY-AN00`: 荣耀畅玩 40 Plus 5G 全网通版
+`RKY-AN00`: 荣耀畅玩 40 Plus 5G
 
 ## 荣耀平板
 
