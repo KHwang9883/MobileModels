@@ -299,6 +299,10 @@
 
 `RMX3511` `RMX3512` `RMX3513`: realme C35
 
+**realme C55:**
+
+`RMX3710`: realme C55
+
 ## U series
 
 **realme U1:**
@@ -395,7 +399,7 @@
 
 **realme GT 2:**
 
-`RMX3311` `RMX3322`: realme GT 2 5G
+`RMX3311` `RMX3312`: realme GT 2 5G
 
 **realme GT 2 Pro:**
 
@@ -410,6 +414,10 @@
 **realme GT NEO 3T:**
 
 `RMX3371`: realme GT NEO 3T
+
+**realme GT 3:**
+
+`RMX3709`: realme GT 3 240W
 
 ## Tablets
 

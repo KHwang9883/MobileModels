@@ -2730,6 +2730,8 @@ M191Q,mob,meizu,魅族,,m2191,魅族 18 Pro,#
 M172Q,mob,meizu,魅族,,m2172,魅族 18X,#
 M182Q,mob,meizu,魅族,,m2182,魅族 18s,#
 M192Q,mob,meizu,魅族,,m2192,魅族 18s Pro,#
+M381Q,mob,meizu,魅族,,m2381,魅族 20,#
+M391Q,mob,meizu,魅族,,m2391,魅族 20 Pro,#
 M852Q,mob,meizu,魅族,,m1852,魅族 X8,#公开版
 M852H,mob,meizu,魅族,,m1852,魅族 X8,#国际版
 M813Q,mob,meizu,魅族,,m1813,魅族 V8 高配版,#
@@ -2910,6 +2912,8 @@ M191Q,mob,meizu,MEIZU,,m2191,MEIZU 18 Pro,#
 M172Q,mob,meizu,MEIZU,,m2172,MEIZU 18X,#
 M182Q,mob,meizu,MEIZU,,m2182,MEIZU 18s,#
 M192Q,mob,meizu,MEIZU,,m2192,MEIZU 18s Pro,#
+M381Q,mob,meizu,MEIZU,,m2381,MEIZU 20,#
+M391Q,mob,meizu,MEIZU,,m2391,MEIZU 20 Pro,#
 M463H,mob,meizu,MEIZU,,m71,MEIZU m1 note,#Global
 M463M,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Mobile
 M463U,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Unicom
@@ -4187,6 +4191,7 @@ RMX3624,mob,realme,realme,,,C33,#
 RMX3511,mob,realme,realme,,,C35,#
 RMX3512,mob,realme,realme,,,C35,#
 RMX3513,mob,realme,realme,,,C35,#
+RMX3710,mob,realme,realme,,,C55,#
 RMX1831,mob,realme,realme,,,U1,#
 RMX1833,mob,realme,realme,,,U1,#
 RMX2002,mob,realme,realme,,,Narzo,#Indonesia
@@ -4216,11 +4221,12 @@ RMX3360,mob,realme,realme,,,GT Master Edition,#
 RMX3363,mob,realme,realme,,,GT Master Edition,#
 RMX3370,mob,realme,realme,,,GT NEO 2,#5G
 RMX3311,mob,realme,realme,,,GT 2,#5G
-RMX3322,mob,realme,realme,,,GT 2,#5G
+RMX3312,mob,realme,realme,,,GT 2,#5G
 RMX3301,mob,realme,realme,,,GT 2 Pro,#5G
 RMX3561,mob,realme,realme,,,GT NEO 3,#
 RMX3563,mob,realme,realme,,,GT NEO 3,#150W
 RMX3371,mob,realme,realme,,,GT NEO 3T,#
+RMX3709,mob,realme,realme,,,GT 3,#240W
 RMP2102,pad,realme,realme,,,,#realme Pad LTE
 RMP2103,pad,realme,realme,,,,#realme Pad Wi-Fi
 RMP2105,pad,realme,realme,,,mini,#LTE
