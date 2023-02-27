@@ -221,6 +221,14 @@
 
 `M192Q`: MEIZU 18s Pro
 
+**MEIZU 20 (`m2381`):**
+
+`M381Q`: MEIZU 20
+
+**MEIZU 20 Pro (`m2391`):**
+
+`M391Q`: MEIZU 20 Pro
+
 **MEIZU m1 note (`m71`):**
 
 `M463H`: MEIZU m1 note Global
