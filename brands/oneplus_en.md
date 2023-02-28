@@ -253,6 +253,10 @@
 
 `CPH2487`: OnePlus 11R India
 
+**OnePlus Ace 2V:**
+
+`PHP110`: OnePlus Ace 2V China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-02-28
+- `oneplus_en` Add OnePlus Ace 2V.
 ## 2023-02-27
 - `meizu_en` Add MEIZU 20 series.
 - `realme_global_en` Add realme GT 3.
