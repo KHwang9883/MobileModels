@@ -1470,11 +1470,15 @@ NBR-WAI9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i3
 NBR-WAH9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i5
 NDR-WFH,computer,honor,荣耀,,NobelDR,荣耀 MagicBook X 14 2022,#i5 (11 代酷睿)
 FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2022,#i5 (12 代酷睿)
+FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+512GB)
+FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
 BBR-WAH9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i5
 BDR-WDH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (8GB+512GB)
 BDR-WFH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (16GB+512GB)
 BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2022,#i5
+BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+512GB)
+BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+1TB)
 FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB)
 FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB)
 FRR-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB)
@@ -3510,6 +3514,7 @@ CPH2449,mob,oneplus,一加,,salami,一加 11,#欧洲版/国际版
 CPH2451,mob,oneplus,一加,,salami,一加 11,#北美版
 PHK110,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,#全网通版
 CPH2487,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,1#印度版
+PHP110,mob,oneplus,一加,,,一加 Ace 2V,#全网通版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
@@ -3625,6 +3630,7 @@ CPH2449,mob,oneplus,OnePlus,,salami,OnePlus 11,#EU / Global
 CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#North America
 PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China
 CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#India
+PHP110,mob,oneplus,OnePlus,,,OnePlus Ace 2V,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
