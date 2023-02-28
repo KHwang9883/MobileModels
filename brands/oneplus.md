@@ -258,6 +258,10 @@
 
 `CPH2487`: 一加 11R 印度版
 
+**一加 Ace 2V:**
+
+`PHP110`: 一加 Ace 2V 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版

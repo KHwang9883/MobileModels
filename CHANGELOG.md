@@ -2,6 +2,7 @@
 ## 2023-02-28
 - `lenovo` 新增 联想拯救者 Y900。
 - `nubia` 新增 努比亚 Z50 Ultra。
+- `oneplus` 新增 一加 Ace 2V。
 ## 2023-02-27
 - `honor_cn` 新增 荣耀 Magic5 系列。
 - `meizu` 新增 魅族 20 系列。
