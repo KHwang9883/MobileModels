@@ -128,6 +128,10 @@
 
 `NX711J`: nubia Z50
 
+**nubia Z50 Ultra:**
+
+`NX712J`: nubia Z50 Ultra
+
 ## 红魔手机
 
 **红魔电竞游戏手机:**
