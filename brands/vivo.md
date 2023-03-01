@@ -540,10 +540,6 @@
 
 `V2123A`: vivo T1x
 
-**vivo T2 (`PD2199G`):**
-
-`V2199GA`: vivo T2
-
 **vivo T2x (`PD2188`):**
 
 `V2188A`: vivo T2x
