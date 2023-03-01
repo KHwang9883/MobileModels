@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-01
+- `xiaomi_en` Add Redmi Note 12 series (Global).
 ## 2023-02-28
 - `oneplus_en` Add OnePlus Ace 2V.
 ## 2023-02-27
