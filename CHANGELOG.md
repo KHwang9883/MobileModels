@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-03-01
+- `xiaomi` 新增 Redmi Note 12 系列国际版。
 ## 2023-02-28
 - `honor_cn` 新增 荣耀 MagicBook X 2023。
 - `lenovo` 新增 联想拯救者 Y900。
