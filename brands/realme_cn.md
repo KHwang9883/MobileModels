@@ -116,6 +116,10 @@
 
 `RMX3708`: 真我 GT Neo5 240W
 
+**真我 GT Neo5 SE:**
+
+`RMX3700`: 真我 GT Neo5 SE
+
 ## Q 系列
 
 **realme Q:**
