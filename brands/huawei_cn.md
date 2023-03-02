@@ -559,6 +559,10 @@
 
 `BNE-AL00`: HUAWEI nova 10 SE 全网通版
 
+**HUAWEI nova 10 青春版 (`JuliaQN`):**
+
+`JLN-AL00`: HUAWEI nova 10 青春版 4G 全网通版
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
