@@ -790,6 +790,14 @@
 
 `V2164KA`: iQOO Z6x
 
+**iQOO Z7 (`PD2270`):**
+
+`V2270A`: iQOO Z7
+
+**iQOO Z7x (`PD2272`):**
+
+`V2272A`: iQOO Z7x
+
 ## iQOO U 系列
 
 **iQOO U1 (`PD2023`):**
