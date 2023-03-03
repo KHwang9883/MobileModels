@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-03-03
+- `zhixuan` 新增 麦芒 20。
 ## 2023-03-02
 - `huawei_cn` 新增 nova 10 青春版。
 - `realme_cn` 新增 真我 GT Neo5 SE。
