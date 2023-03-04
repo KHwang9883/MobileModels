@@ -1615,6 +1615,8 @@ FNE-NX9,mob,honor,HONOR,,,HONOR 70,#5G
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite 5G,#
+PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#5G
+PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
 VNA-LX3,mob,honor,HONOR,,,HONOR X5,#
@@ -1622,6 +1624,7 @@ VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX2,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6s,#
+RBN-NX1,mob,honor,HONOR,,,HONOR X6 5G,#
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#

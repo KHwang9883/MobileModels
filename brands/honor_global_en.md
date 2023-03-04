@@ -209,6 +209,14 @@
 
 `ANY-NX1`: HONOR Magic4 Lite 5G
 
+**HONOR Magic5 (`Piaget`):**
+
+`PGT-N09`: HONOR Magic5 5G
+
+**HONOR Magic5 Pro (`Piaget`):**
+
+`PGT-N19`: HONOR Magic5 Pro 5G
+
 **HONOR Magic5 Lite 5G (`Rambo`):**
 
 `RMO-NX1`: HONOR Magic5 Lite 5G
@@ -224,6 +232,10 @@
 **HONOR X6s (`Vinnie`):**
 
 `VNE-LX3`: HONOR X6s
+
+**HONOR X6 5G:**
+
+`RBN-NX1`: HONOR X6 5G
 
 **HONOR X7 (`Carmella`):**
 

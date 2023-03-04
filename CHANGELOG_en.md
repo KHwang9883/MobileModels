@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-03
+- `honor_global_en` Add HONOR Magic5, X6 5G.
 ## 2023-03-01
 - `xiaomi_en` Add Redmi Note 12 series (Global).
 ## 2023-02-28
