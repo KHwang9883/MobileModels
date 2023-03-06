@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-07
+- `honor_global_en` Add HONOR 70 Lite 5G.
 ## 2023-03-04
 - `honor_global_en` Add HONOR Magic5, X6 5G.
 ## 2023-03-01
