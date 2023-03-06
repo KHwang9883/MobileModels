@@ -1124,6 +1124,12 @@
 
 `FRI-F56`: 荣耀 MagicBook X 14 2022 i5 (12 代酷睿)
 
+**荣耀 MagicBook X 14 2023:**
+
+`FRI-F38`: 荣耀 MagicBook X 14 2023 i3 (8GB 内存)
+
+`FRI-F56`: 荣耀 MagicBook X 14 2023 i5 (16GB 内存)
+
 **荣耀 MagicBook X 14 Pro 2023:**
 
 `FRI-G56`: 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+512GB)
