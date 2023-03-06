@@ -349,7 +349,7 @@
 
 `22081212UG`: Xiaomi 12T Pro Global
 
-`22081212R`: Xiaomi 12T Pro Japan (SIM Free)
+`22081212R` `22200414R`: Xiaomi 12T Pro Japan (SIM Free)
 
 `A201XM`: Xiaomi 12T Pro Japan (SoftBank)
 
