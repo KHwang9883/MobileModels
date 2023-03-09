@@ -1221,6 +1221,10 @@
 
 `EMD-W76`: HUAWEI MateBook 13s i7 (16GB+512GB)
 
+**HUAWEI MateBook 13s (`EmmyF`):**
+
+`EMF-16`: HUAWEI MateBook 13s 12 代酷睿版
+
 **HUAWEI MateBook 14 (`Kelvin`):**
 
 `KLV-W19`: HUAWEI MateBook 14 i5

@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-03-09
+- `huawei_cn` 新增 HUAWEI MateBook 13s 12 代酷睿版。
 ## 2023-03-06
 - `honor_cn` 新增 荣耀 MagicBook X 14 2023。
 ## 2023-03-03
