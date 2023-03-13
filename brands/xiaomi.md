@@ -1532,6 +1532,12 @@
 
 `220743FI`: Redmi A1+ 印度版
 
+**Redmi A2 (`water`):**
+
+`23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 国际版
+
+`23028RN4DI`: Redmi A2 印度版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -1615,6 +1621,8 @@
 **[`M17P`] POCO X5 5G (`moonstone`):**
 
 `22111317PG`: POCO X5 5G 国际版
+
+`22111317PI`: POCO X5 5G 印度版
 
 **[`M20`] POCO X5 Pro 5G (`redwood`):**
 

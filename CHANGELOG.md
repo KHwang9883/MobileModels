@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-03-13
 - `vivo` 新增 iQOO Z7i。
+- `xiaomi` 新增 Redmi A2。
 ## 2023-03-09
 - `huawei_cn` 新增 HUAWEI MateBook 13s 12 代酷睿版。
 ## 2023-03-06
