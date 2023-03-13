@@ -798,6 +798,10 @@
 
 `V2272A`: iQOO Z7x
 
+**iQOO Z7i (`PD2230`):**
+
+`V2230EA`: iQOO Z7i
+
 ## iQOO U 系列
 
 **iQOO U1 (`PD2023`):**
