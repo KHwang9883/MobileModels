@@ -1453,6 +1453,12 @@
 
 `220743FI`: Redmi A1+ India
 
+**Redmi A2 (`water`):**
+
+`23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 Global
+
+`23028RN4DI`: Redmi A2 India
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -1528,6 +1534,8 @@
 **[`M17P`] POCO X5 5G (`moonstone`):**
 
 `22111317PG`: POCO X5 5G Global
+
+`22111317PI`: POCO X5 5G India
 
 **[`M20`] POCO X5 Pro 5G (`redwood`):**
 
