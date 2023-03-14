@@ -155,6 +155,14 @@
 
 `RMX3686`: realme 10 Pro+ 5G
 
+**realme 10T:**
+
+`RMX3612`: realme 10T 5G
+
+**realme 11 Pro:**
+
+`RMX3771`: realme 11 Pro 5G
+
 ## X series
 
 **realme X:**
@@ -291,9 +299,9 @@
 
 `RMX3501` `RMX3502` `RMX3503`: realme C31
 
-**realme C33:**
+**realme C33 / realme C33 2023:**
 
-`RMX3624`: realme C33
+`RMX3624`: realme C33 / realme C33 2023
 
 **realme C35:**
 
@@ -357,7 +365,9 @@
 
 `RMX3286`: realme Narzo 50
 
-`RMX3571`: realme Narzo 50 5G
+`RMX3571`: realme Narzo 50 5G India
+
+`RMX3572`: realme Narzo 50 5G Global
 
 **realme Narzo 50 Pro:**
 

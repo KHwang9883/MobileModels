@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-14
+- `realme_global_en` Add several new models.
 ## 2023-03-13
 - `xiaomi_en` Add Redmi A2.
 ## 2023-03-07
