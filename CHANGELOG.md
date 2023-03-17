@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-03-17
+- `xiaomi` 新增 13 Ultra, Note 12 Turbo, 平板 6, POCO F5。
 - `zte` 新增 中兴远航 30 畅行版。
 ## 2023-03-13
 - `vivo` 新增 iQOO Z7i。

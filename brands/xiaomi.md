@@ -368,6 +368,12 @@
 
 `2210132G`: Xiaomi 13 Pro 国际版
 
+**[`M1`] Xiaomi 13 Ultra (`ishtar`):**
+
+`2304FPN6DC`: Xiaomi 13 Ultra 全网通版
+
+`2304FPN6DG`: Xiaomi 13 Ultra 国际版
+
 **[`L9S`] Xiaomi 13 Lite (`ziyi`):**
 
 `2210129SG`: Xiaomi 13 Lite 国际版
@@ -595,6 +601,16 @@
 **[`L81A`] 小米平板 5 Pro (`dagu`):**
 
 `22081281AC`: 小米平板 5 Pro 12.4 英寸
+
+**[`M82`] 小米平板 6 (`pipa`):**
+
+`23043RP34C`: 小米平板 6 国行版
+
+`23043RP34G`: 小米平板 6 国际版
+
+**[`M81`] 小米平板 6 Pro (`liuqin`):**
+
+`23046RP50C`: 小米平板 6 Pro
 
 ## 红米 / Redmi 数字系列
 
@@ -1366,6 +1382,10 @@
 
 `22101320C`: Redmi Note 12 Pro 极速版 全网通版
 
+**[`M16T`] Redmi Note 12 Turbo (`marble`):**
+
+`23049RAD8C`: Redmi Note 12 Turbo 全网通版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
@@ -1575,6 +1595,18 @@
 `21121210G`: POCO F4 GT 国际版
 
 `21121210I`: POCO F4 GT 印度版
+
+**[`M16T`] POCO F5 (`marble`):**
+
+`23049PCD8G`: POCO F5 国际版
+
+`23049PCD8I`: POCO F5 印度版
+
+**[`M11A`] POCO F5 Pro (`mondrian`):**
+
+`23013PC75G`: POCO F5 Pro 国际版
+
+`23013PC75I`: POCO F5 Pro 印度版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
