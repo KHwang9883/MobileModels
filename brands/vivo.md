@@ -838,6 +838,6 @@
 
 ## 平板电脑
 
-**vivo Pad (`PA2170`):**
+**vivo Pad (`DPD2106`):**
 
 `PA2170`: vivo Pad
