@@ -365,6 +365,12 @@
 
 `2210132C`: Xiaomi 13 Pro China
 
+**[`M1`] Xiaomi 13 Ultra (`ishtar`):**
+
+`2304FPN6DG`: Xiaomi 13 Ultra Global
+
+`2304FPN6DC`: Xiaomi 13 Ultra China
+
 **[`L9S`] Xiaomi 13 Lite (`ziyi`):**
 
 `2210129SG`: Xiaomi 13 Lite Global
@@ -1293,6 +1299,10 @@
 
 `22101320C`: Redmi Note 12 Pro Speed China
 
+**[`M16T`] Redmi Note 12 Turbo (`marble`):**
+
+`23049RAD8C`: Redmi Note 12 Turbo China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -1489,6 +1499,18 @@
 
 `21121210I`: POCO F4 GT India
 
+**[`M16T`] POCO F5 (`marble`):**
+
+`23049PCD8G`: POCO F5 Global
+
+`23049PCD8I`: POCO F5 India
+
+**[`M11A`] POCO F5 Pro (`mondrian`):**
+
+`23013PC75G`: POCO F5 Pro Global
+
+`23013PC75I`: POCO F5 Pro India
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 India
@@ -1668,6 +1690,16 @@
 **[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
 
 `22081281AC`: Xiaomi Pad 5 Pro 12.4
+
+**[`M82`] Xiaomi Pad 6 (`pipa`):**
+
+`23043RP34G`: Xiaomi Pad 6 Global
+
+`23043RP34C`: Xiaomi Pad 6 China
+
+**[`M81`] Xiaomi Pad 6 Pro (`liuqin`):**
+
+`23046RP50C`: Xiaomi Pad 6 Pro
 
 **[`L83`] Redmi Pad (`yunluo`):**
 
