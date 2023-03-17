@@ -253,7 +253,7 @@
 
 `CPH2487`: OnePlus 11R India
 
-**OnePlus Ace 2V:**
+**OnePlus Ace 2V (`vitamin`):**
 
 `PHP110`: OnePlus Ace 2V China
 
