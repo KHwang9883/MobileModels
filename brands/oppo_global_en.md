@@ -519,6 +519,10 @@
 
 `CPH2333`: OPPO A96
 
+**OPPO A98:**
+
+`CPH2529`: OPPO A98 5G
+
 ## K series
 
 **OPPO K3:**

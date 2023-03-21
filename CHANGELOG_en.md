@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-21
+- `oppo_global_en` Add OPPO A98 5G.
 ## 2023-03-17
 - `xiaomi_en` Add 13 Ultra, Note 12 Turbo, Pad 6, POCO F5.
 ## 2023-03-14
