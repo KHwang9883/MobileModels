@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-03-21
+- `mitv_cn` 新增 小米电视 S 系列。
 ## 2023-03-17
 - `samsung_cn` 新增 Galaxy A54。
 - `xiaomi` 新增 13 Ultra, Note 12 Turbo, 平板 6, POCO F5。
