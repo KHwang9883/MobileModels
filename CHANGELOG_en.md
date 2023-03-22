@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-22
+- `mitv_global_en` Add Redmi Smart Fire TV.
 ## 2023-03-21
 - `oppo_global_en` Add OPPO A98 5G.
 ## 2023-03-17
