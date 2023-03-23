@@ -1839,8 +1839,8 @@ CDY-TN20,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 移动全网通版
 CND-AN00,mob,huawei,华为,,CindyC,HUAWEI nova 7 SE 5G 活力版,#全网通版
 CDL-AN50,mob,huawei,华为,,CindyL,HUAWEI nova 7 SE 5G 乐活版,#全网通版
 ANG-AN00,mob,huawei,华为,,Angela,HUAWEI nova 8,#5G 全网通版
-BRQ-AN00,mob,huawei,华为,,Barbieq,HUAWEI nova 8 Pro,#5G 全网通版
-BRQ-AL00,mob,huawei,华为,,Barbieq,HUAWEI nova 8 Pro,#4G 全网通版
+BRQ-AN00,mob,huawei,华为,,Barbie,HUAWEI nova 8 Pro,#5G 全网通版
+BRQ-AL00,mob,huawei,华为,,Barbie,HUAWEI nova 8 Pro,#4G 全网通版
 JSC-AN00,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#5G 全网通版
 JSC-TN00,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#5G 移动全网通版
 JSC-AL50,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#4G 全网通版
@@ -1954,7 +1954,7 @@ PPA-AL20,mob,huawei,华为,,Peppa,华为畅享 20 SE,#全网通版
 MLD-AL00,mob,huawei,华为,,,华为畅享 20e,#全网通版 (麒麟 710A)
 MLD-AL10,mob,huawei,华为,,,华为畅享 20e,#全网通版 (Helio P35)
 MGA-AL00,mob,huawei,华为,,Mega,华为畅享 50,#全网通版
-CTR-AL00,mob,huawei,华为,,,华为畅享 50 Pro,#全网通版
+CTR-AL00,mob,huawei,华为,,Cartier,华为畅享 50 Pro,#全网通版
 EVE-AL00,mob,huawei,华为,,,华为畅享 50z,#全网通版
 MGA-AL40,mob,huawei,华为,,Mega,华为畅享 60,#全网通版
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
@@ -2024,8 +2024,8 @@ BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 �
 BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
 DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 (2023),#英寸 2023 款 Wi-Fi 版
 DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 (2023),#英寸 2023 款 柔光版 Wi-Fi 版
-HMW-W09,pad,huawei,华为,,,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
-HMW-AL10,pad,huawei,华为,,,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
+HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
+HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
 AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
 AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通版
 AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 Wi-Fi 版

@@ -531,7 +531,7 @@
 
 `ANG-AN00`: HUAWEI nova 8 5G 全网通版
 
-**HUAWEI nova 8 Pro (`Barbieq`):**
+**HUAWEI nova 8 Pro (`Barbie`):**
 
 `BRQ-AN00`: HUAWEI nova 8 Pro 5G 全网通版
 
@@ -849,7 +849,7 @@
 
 `MGA-AL00`: 华为畅享 50 全网通版
 
-**华为畅享 50 Pro:**
+**华为畅享 50 Pro (`Cartier`):**
 
 `CTR-AL00`: 华为畅享 50 Pro 全网通版
 
@@ -1031,7 +1031,7 @@
 
 `DBR-W10`: HUAWEI MatePad 11 英寸 2023 款 柔光版 Wi-Fi 版
 
-**HUAWEI MatePad Paper:**
+**HUAWEI MatePad Paper (`Hemingway`):**
 
 `HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
 
