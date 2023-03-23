@@ -1015,11 +1015,11 @@
 
 **HUAWEI MatePad 11 (`Debussy`):**
 
-`DBY-W09`: HUAWEI MatePad 11 Wi-Fi 版
+`DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
 **HUAWEI MatePad (2022) (`Bach4`):**
 
-`BAH4-W09` `BAH4-W29`: HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
+`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
 
 `BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 
@@ -1027,9 +1027,9 @@
 
 **HUAWEI MatePad 11 (2023) (`DebussyR`):**
 
-`DBR-W00`: HUAWEI MatePad 11 (2023) Wi-Fi 版
+`DBR-W00`: HUAWEI MatePad 11 英寸 2023 款 Wi-Fi 版
 
-`DBR-W10`: HUAWEI MatePad 11 (2023) 柔光版 Wi-Fi 版
+`DBR-W10`: HUAWEI MatePad 11 英寸 2023 款 柔光版 Wi-Fi 版
 
 **HUAWEI MatePad Paper:**
 
