@@ -1552,7 +1552,7 @@
 
 `220743FI`: Redmi A1+ 印度版
 
-**Redmi A2 (`water`):**
+**Redmi A2 (`cloud`):**
 
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 国际版
 
