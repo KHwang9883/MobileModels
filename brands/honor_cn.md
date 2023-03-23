@@ -210,7 +210,7 @@
 
 `SDY-AN00`: 荣耀 70 Pro 5G
 
-**荣耀 70 Pro+:**
+**荣耀 70 Pro+ (`Hepburn`):**
 
 `HPB-TN00`: 荣耀 70 Pro+ 5G
 
@@ -470,7 +470,7 @@
 
 `DIO-AN00`: 荣耀 X40i 5G
 
-**荣耀 X40 GT (`AndyT`):**
+**荣耀 X40 GT (`AndyGT`):**
 
 `ADT-AN00`: 荣耀 X40 GT 5G
 
