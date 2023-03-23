@@ -207,6 +207,10 @@
 
 `PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2 4G 全网通版
 
+**HUAWEI Mate X3:**
+
+`ALT-AL00`: HUAWEI Mate X3 4G 全网通版
+
 ## HUAWEI P 系列
 
 **华为 Ascend P1:**
@@ -366,6 +370,20 @@
 **HUAWEI P50 Pocket (`Bali`):**
 
 `BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
+
+**HUAWEI P60 (`Leona`):**
+
+`LNA-AL00`: HUAWEI P60 4G 全网通版
+
+**HUAWEI P60 Pro (`Mona`):**
+
+`MNA-AL00`: HUAWEI P60 Pro 4G 全网通版
+
+**HUAWEI P60 Art (`Mona`):**
+
+`MNA-AL00`: HUAWEI P60 Art 4G 全网通版
+
+## HUAWEI Pocket 系列
 
 **HUAWEI Pocket S (`Bali`):**
 
@@ -839,6 +857,10 @@
 
 `EVE-AL00`: 华为畅享 50z 全网通版
 
+**华为畅享 60 (`Mega`):**
+
+`MGA-AL40`: 华为畅享 60 全网通版
+
 ## 平板电脑
 
 **华为 MediaPad M1:**
@@ -993,7 +1015,7 @@
 
 **HUAWEI MatePad 11 (`Debussy`):**
 
-`DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
+`DBY-W09`: HUAWEI MatePad 11 Wi-Fi 版
 
 **HUAWEI MatePad (2022) (`Bach4`):**
 
@@ -1002,6 +1024,12 @@
 `BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 
 `BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
+
+**HUAWEI MatePad 11 (2023) (`DebussyR`):**
+
+`DBR-W00`: HUAWEI MatePad 11 (2023) Wi-Fi 版
+
+`DBR-W10`: HUAWEI MatePad 11 (2023) 柔光版 Wi-Fi 版
 
 **HUAWEI MatePad Paper:**
 
@@ -1529,6 +1557,12 @@
 
 `MRGF-7651`: HUAWEI MateBook B7-420 i7
 
+**华为擎云 S540 (`YutuFZ`):**
+
+`YTFZ-5651SP`: 华为擎云 S540 i5
+
+`YTFZ-7651SP`: 华为擎云 S540 i7
+
 **华为擎云 L410 (`KelvinU`):**
 
 `KLVU-WDU0`: 华为擎云 L410 (8GB+256GB)
@@ -1659,6 +1693,10 @@
 
 **华为智慧屏 B 系列:**
 
+`HD55DESB`: 华为智慧屏 B3-500
+
+`HD65DESB`: 华为智慧屏 B3-600
+
 `HD55KANY`: 华为智慧屏 B5-510
 
 `HD65KANY`: 华为智慧屏 B5-610
@@ -1667,9 +1705,9 @@
 
 `HEGE-550X`: 华为智慧屏 B7-510
 
-**华为小精灵学习智慧屏:**
+**华为小精灵学习智慧屏 / 华为智慧屏便携版:**
 
-`BLM-00`: 华为小精灵学习智慧屏
+`BLM-00`: 华为小精灵学习智慧屏 / 华为智慧屏便携版
 
 ## 华为早期手机产品 
 

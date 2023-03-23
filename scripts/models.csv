@@ -1721,6 +1721,7 @@ TET-AN50,mob,huawei,华为,,Teton,HUAWEI Mate X2,#典藏版 5G 全网通版
 TET-AL00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#4G 全网通版
 PAL-AL00,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#4G 全网通版
 PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#4G 全网通版
+ALT-AL00,mob,huawei,华为,,,HUAWEI Mate X3,#4G 全网通版
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,#
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,#XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,#S
@@ -1782,6 +1783,9 @@ JAD-AL80,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (骁龙 888)
 JAD-AL50,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (麒麟 9000)
 JAD-AL60,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (麒麟 9000)
 BAL-AL00,mob,huawei,华为,,Bali,HUAWEI P50 Pocket,#4G 全网通版
+LNA-AL00,mob,huawei,华为,,Leona,HUAWEI P60,#4G 全网通版
+MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Pro,#4G 全网通版
+MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Art,#4G 全网通版
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,#4G 全网通版
 HUAWEI CAZ-AL00,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通标配版
 HUAWEI CAZ-AL10,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通高配版
@@ -1952,6 +1956,7 @@ MLD-AL10,mob,huawei,华为,,,华为畅享 20e,#全网通版 (Helio P35)
 MGA-AL00,mob,huawei,华为,,Mega,华为畅享 50,#全网通版
 CTR-AL00,mob,huawei,华为,,,华为畅享 50 Pro,#全网通版
 EVE-AL00,mob,huawei,华为,,,华为畅享 50z,#全网通版
+MGA-AL40,mob,huawei,华为,,Mega,华为畅享 60,#全网通版
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版
@@ -2011,11 +2016,13 @@ BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒
 BAH3-AN10,pad,huawei,华为,,Bach3,HUAWEI MatePad,#5G 10.4 英寸 全网通版 (麒麟 820)
 SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 Wi-Fi 版
 SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 全网通版
-DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11,#英寸 Wi-Fi 版
+DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11,#Wi-Fi 版
 BAH4-W09,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
 BAH4-W29,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
 BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
+DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 (2023),#Wi-Fi 版
+DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 (2023),#柔光版 Wi-Fi 版
 HMW-W09,pad,huawei,华为,,,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
 HMW-AL10,pad,huawei,华为,,,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
 AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
@@ -2216,6 +2223,8 @@ MDZ-WFE9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+512GB)
 MDZ-WFE9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+1TB)
 MRGF-5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5
 MRGF-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7
+YTFZ-5651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5
+YTFZ-7651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7
 KLVU-WDU0,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+256GB
 KLVU-WDU0B,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+512GB
 KLVV-W5821,computer,huawei,华为,,KelvinV,华为擎云 L420,#
@@ -2266,11 +2275,13 @@ HD65FRUC,tv,huawei,华为,,,华为 Vision 智慧屏,#Z65 电竞版
 HD75FRUC,tv,huawei,华为,,,华为 Vision 智慧屏,#Z75 电竞版
 HD75MILA,tv,huawei,华为,,,华为 Vision 智慧屏,#75
 HD86KHAA,tv,huawei,华为,,,华为 Vision 智慧屏,#86
+HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-500
+HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-600
 HD55KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-510
 HD65KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-610
 HEGE-550AX,tv,huawei,华为,,,华为智慧屏 B 系列,#7-500
 HEGE-550X,tv,huawei,华为,,,华为智慧屏 B 系列,#7-510
-BLM-00,pad,huawei,华为,,,华为小精灵学习智慧屏,#
+BLM-00,pad,huawei,华为,,,华为小精灵学习智慧屏 / 华为智慧屏便携版,#
 HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,#
 HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,#XL
 HUAWEI U9510,mob,huawei,华为,,,华为 Ascend D1,#四核
