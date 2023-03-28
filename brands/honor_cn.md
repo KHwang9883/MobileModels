@@ -554,6 +554,14 @@
 
 `VNE-AN40`: 荣耀 Play6C 5G
 
+**荣耀 Play7T (`Rocky`):**
+
+`RKY-AN10`: 荣耀 Play7T 5G
+
+**荣耀 Play7T Pro (`Dior`):**
+
+`DIO-AN00`: 荣耀 Play7T Pro 5G
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**
