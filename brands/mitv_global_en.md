@@ -237,6 +237,10 @@
 
 `MDZ-22-AB`: Mi Box S
 
+**Xiaomi TV Box:**
+
+`MDZ-28-AA`: Xiaomi TV Box
+
 **Mi TV Stick:**
 
 `MDZ-24-AA` `MDZ-24-AB`: Mi TV Stick

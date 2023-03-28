@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-28
+- `mitv_global_en` Add Xiaomi TV Box.
 ## 2023-03-22
 - `mitv_global_en` Add Redmi Smart Fire TV.
 ## 2023-03-21
