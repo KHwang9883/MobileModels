@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-03-30
+- `meizu_cn` 新增 魅族 20 INFINITY 无界版。
 - `oppo_cn` 新增 OPPO A1x。
 ## 2023-03-28
 - `honor_cn` 新增 荣耀 Play7T 系列。
