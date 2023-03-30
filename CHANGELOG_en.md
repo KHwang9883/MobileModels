@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-03-30
+- `meizu_en` Add MEIZU 20 INFINITY.
 ## 2023-03-28
 - `mitv_global_en` Add Xiaomi TV Box.
 ## 2023-03-22
