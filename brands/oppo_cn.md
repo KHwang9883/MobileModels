@@ -426,6 +426,10 @@
 
 `PHQ110`: OPPO A1 Pro
 
+**OPPO A1x:**
+
+`PHJ110`: OPPO A1x
+
 ## K 系列
 
 **OPPO K1:**
