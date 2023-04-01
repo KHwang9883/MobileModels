@@ -1342,7 +1342,7 @@
 
 `23021RAAEG`: Redmi Note 12 国际版
 
-`23021RAAEI`: Redmi Note 12 印度版
+`23027RAD4I`: Redmi Note 12 印度版
 
 `23028RA60L`: Redmi Note 12 拉美版
 
