@@ -170,6 +170,14 @@
 
 `V2227A`: vivo X90 Pro+
 
+**vivo X Fold2 (`PD2266`):**
+
+`V2266A`: vivo X Fold2
+
+**vivo X Flip (`PD2256`):**
+
+`V2256A`: vivo X Flip
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -311,6 +319,10 @@
 **vivo Y10 (t2 版) (`PD2180`):**
 
 `V2180A`: vivo Y10 (t2 版)
+
+**vivo Y11 (`PD2236`):**
+
+`V2236A`: vivo Y11
 
 **vivo Y30 (`PD2034`):**
 
@@ -841,3 +853,7 @@
 **vivo Pad (`DPD2106`):**
 
 `PA2170`: vivo Pad
+
+**vivo Pad2 (`DPD2221`):**
+
+`PA2373`: vivo Pad2

@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-04-01
+- `vivo` 新增 X Fold2, X Flip, Y11, Pad2。
 ## 2023-03-30
 - `meizu_cn` 新增 魅族 20 INFINITY 无界版。
 - `oppo_cn` 新增 OPPO A1x。
