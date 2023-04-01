@@ -1259,7 +1259,7 @@
 
 `23021RAAEG`: Redmi Note 12 Global
 
-`23021RAAEI`: Redmi Note 12 India
+`23027RAD4I`: Redmi Note 12 India
 
 `23028RA60L`: Redmi Note 12 Latin America
 
