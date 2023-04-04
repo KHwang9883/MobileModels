@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-04-05
+- `oneplus_en` Add OnePlus Nord CE 3 Lite.
 ## 2023-03-30
 - `meizu_en` Add MEIZU 20 INFINITY.
 ## 2023-03-28
