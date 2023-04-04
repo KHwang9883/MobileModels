@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-04-05
+- `oneplus` 新增 OnePlus Nord CE 3 Lite。
 ## 2023-04-03
 - `oppo_cn` 新增 OPPO A1 5G (2023)。
 ## 2023-04-01
