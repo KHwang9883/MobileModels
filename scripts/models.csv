@@ -5312,6 +5312,10 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#全网通版
 22111317G,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#国际版
 22111317I,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#印度版
+2303CRA44A,mob,xiaomi,小米,,sea,Redmi Note 12S,#国际版
+2303ERA42L,mob,xiaomi,小米,,sea,Redmi Note 12S,#拉美版
+23030RAC7Y,mob,xiaomi,小米,,ocean,Redmi Note 12S,#国际版 (NFC)
+2209116AG,mob,xiaomi,小米,K6A,sweet,Redmi Note 12 Pro,#国际版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#全网通版
 22101316G,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 国际版
 22101316I,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 印度版
@@ -5379,6 +5383,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 23028RN4DG,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
 23028RN4DH,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
 23028RN4DI,mob,xiaomi,小米,,cloud,Redmi A2,#印度版
+23028RNCAG,mob,xiaomi,小米,,water,Redmi A2,#国际版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -5896,6 +5901,10 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22111317G,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#Global
 22111317I,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#India
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#China
+2303CRA44A,mob,xiaomi,Xiaomi,,sea,Redmi Note 12S,#Global
+2303ERA42L,mob,xiaomi,Xiaomi,,sea,Redmi Note 12S,#Latin America
+23030RAC7Y,mob,xiaomi,Xiaomi,,ocean,Redmi Note 12S,#Global (NFC)
+2209116AG,mob,xiaomi,Xiaomi,K6A,sweet,Redmi Note 12 Pro,#Global
 22101316G,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#Global
 22101316I,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#India
 22101316C,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#China
@@ -5963,6 +5972,7 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 23028RN4DG,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
 23028RN4DH,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
 23028RN4DI,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#India
+23028RNCAG,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global

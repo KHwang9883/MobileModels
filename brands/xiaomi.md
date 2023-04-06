@@ -1358,6 +1358,20 @@
 
 `22111317I`: Redmi Note 12 5G 印度版
 
+**Redmi Note 12S (`sea`):**
+
+`2303CRA44A`: Redmi Note 12S 国际版
+
+`2303ERA42L`: Redmi Note 12S 拉美版
+
+**Redmi Note 12S (`ocean`):**
+
+`23030RAC7Y`: Redmi Note 12S 国际版 (NFC)
+
+**[`K6A`] Redmi Note 12 Pro (`sweet`):**
+
+`2209116AG`: Redmi Note 12 Pro 国际版
+
 **[`M16`] Redmi Note 12 Pro (`ruby`):**
 
 `22101316C`: Redmi Note 12 Pro 全网通版
@@ -1557,6 +1571,10 @@
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 国际版
 
 `23028RN4DI`: Redmi A2 印度版
+
+**Redmi A2+ (`water`):**
+
+`23028RNCAG`: Redmi A2+ 国际版
 
 ## Redmi 平板
 
