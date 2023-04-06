@@ -1275,6 +1275,20 @@
 
 `22101317C`: Redmi Note 12 5G China
 
+**Redmi Note 12S (`sea`):**
+
+`2303CRA44A`: Redmi Note 12S Global
+
+`2303ERA42L`: Redmi Note 12S Latin America
+
+**Redmi Note 12S (`ocean`):**
+
+`23030RAC7Y`: Redmi Note 12S Global (NFC)
+
+**[`K6A`] Redmi Note 12 Pro (`sweet`):**
+
+`2209116AG`: Redmi Note 12 Pro Global
+
 **[`M16`] Redmi Note 12 Pro 5G (`ruby`):**
 
 `22101316G`: Redmi Note 12 Pro 5G Global
@@ -1468,6 +1482,10 @@
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 Global
 
 `23028RN4DI`: Redmi A2 India
+
+**Redmi A2+ (`water`):**
+
+`23028RNCAG`: Redmi A2+ Global
 
 ## POCO Phones
 
