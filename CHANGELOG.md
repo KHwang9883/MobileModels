@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-04-07
+- `coolpad` 新增 酷派 COOL 30。
 ## 2023-04-06
 - `coolpad` 新增 酷派锋尚 40。
 - `xiaomi` 新增 Redmi Note 12S, Note 12 Pro 4G。
