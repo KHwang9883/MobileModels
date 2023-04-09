@@ -118,3 +118,7 @@
 **WIKO 5G:**
 
 `LFT-AN00`: WIKO 5G
+
+**Hi 畅享 60:**
+
+`GAR-AN00`: Hi 畅享 60 5G
