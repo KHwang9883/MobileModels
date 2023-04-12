@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-04-12
+- `realme_en` Add realme Narzo N55.
 ## 2023-04-05
 - `oneplus_en` Add OnePlus Nord CE 3 Lite.
 - `xiaomi_en` Add Redmi Note 12S, Note 12 Pro 4G.

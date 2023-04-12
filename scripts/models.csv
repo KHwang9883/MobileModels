@@ -4256,8 +4256,8 @@ RMX3690,mob,realme,realme,,,C30s,#
 RMX3501,mob,realme,realme,,,C31,#
 RMX3502,mob,realme,realme,,,C31,#
 RMX3503,mob,realme,realme,,,C31,#
-RMX3624,mob,realme,realme,,,C33|C33 2023,#
-RMX3624,mob,realme,realme,,,C33|C33 2023,1#
+RMX3624,mob,realme,realme,,,C33,#
+RMX3627,mob,realme,realme,,,C33 2023,#
 RMX3511,mob,realme,realme,,,C35,#
 RMX3512,mob,realme,realme,,,C35,#
 RMX3513,mob,realme,realme,,,C35,#
@@ -4287,6 +4287,7 @@ RMX3517,mob,realme,realme,,,Narzo 50A Prime,#
 RMX3231,mob,realme,realme,,,Narzo 50i,#India
 RMX3235,mob,realme,realme,,,Narzo 50i,#Global
 RMX3506,mob,realme,realme,,,Narzo 50i Prime,#
+RMX3711,mob,realme,realme,,,Narzo N55,#
 RMX2202,mob,realme,realme,,,GT,#5G
 RMX3360,mob,realme,realme,,,GT Master Edition,#
 RMX3363,mob,realme,realme,,,GT Master Edition,#

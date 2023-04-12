@@ -299,9 +299,13 @@
 
 `RMX3501` `RMX3502` `RMX3503`: realme C31
 
-**realme C33 / realme C33 2023:**
+**realme C33:**
 
-`RMX3624`: realme C33 / realme C33 2023
+`RMX3624`: realme C33
+
+**realme C33 2023:**
+
+`RMX3627`: realme C33 2023
 
 **realme C35:**
 
@@ -392,6 +396,10 @@
 **realme Narzo 50i Prime:**
 
 `RMX3506`: realme Narzo 50i Prime
+
+**realme Narzo N55:**
+
+`RMX3711`: realme Narzo N55
 
 ## GT series
 
