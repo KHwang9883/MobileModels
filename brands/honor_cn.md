@@ -1006,6 +1006,16 @@
 
 `GLO-N76`: 荣耀 MagicBook 14 2022 R7
 
+**荣耀 MagicBook 14 2023:**
+
+`GLO-G56`: 荣耀 MagicBook 14 2023 i5 (16GB+512GB)
+
+`GLO-G561`: 荣耀 MagicBook 14 2023 i5 (16GB+1TB)
+
+**荣耀 MagicBook 14 Pro 2023:**
+
+`GLO-G561`: 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
+
 **荣耀 MagicBook 15 (`BohrB`):**
 
 `Boh-WAH9HN`: 荣耀 MagicBook 15 i5
@@ -1134,9 +1144,11 @@
 
 **荣耀 MagicBook X 14 2023:**
 
-`FRI-F38`: 荣耀 MagicBook X 14 2023 i3 (8GB 内存)
+`FRI-F38`: 荣耀 MagicBook X 14 2023 i3 (8GB+256GB)
 
-`FRI-F56`: 荣耀 MagicBook X 14 2023 i5 (16GB 内存)
+`FRI-F56`: 荣耀 MagicBook X 14 2023 i5 (16GB+512GB)
+
+`FRI-F561`: 荣耀 MagicBook X 14 2023 i5 (16GB+1TB)
 
 **荣耀 MagicBook X 14 Pro 2023:**
 

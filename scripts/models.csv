@@ -1446,6 +1446,9 @@ GLO-F56,computer,honor,荣耀,,,荣耀 MagicBook 14 2022,#i5
 GLO-F76,computer,honor,荣耀,,,荣耀 MagicBook 14 2022,#i7
 GLO-N56,computer,honor,荣耀,,,荣耀 MagicBook 14 2022 锐龙版,#R5
 GLO-N76,computer,honor,荣耀,,,荣耀 MagicBook 14 2022 锐龙版,#R7
+GLO-G56,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (16GB+512GB)
+GLO-G561,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (16GB+1TB)
+GLO-G561,computer,honor,荣耀,,,荣耀 MagicBook 14 Pro 2023,#i5 (16GB+1TB)
 Boh-WAH9HN,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i5
 Boh-WAH9HNP,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i5 (16GB+512GB)
 Boh-WAE9HN,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i7
@@ -1491,8 +1494,9 @@ NBR-WAI9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i3
 NBR-WAH9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i5
 NDR-WFH,computer,honor,荣耀,,NobelDR,荣耀 MagicBook X 14 2022,#i5 (11 代酷睿)
 FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2022,#i5 (12 代酷睿)
-FRI-F38,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i3 (8GB 内存)
-FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB 内存)
+FRI-F38,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i3 (8GB+256GB)
+FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+512GB)
+FRI-F561,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
 FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+512GB)
 FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
