@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-04-13
+- `asus` 新增 ROG Phone 7。
 - `honor_cn` 新增 荣耀 MagicBook 14 2023。
 ## 2023-04-09
 - `zhixuan` 新增 Hi 畅享 60 5G。
