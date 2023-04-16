@@ -474,6 +474,10 @@
 
 `ADT-AN00`: 荣耀 X40 GT 5G
 
+**荣耀 X50i:**
+
+`CRT-AN00`: 荣耀 X50i 5G
+
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**
