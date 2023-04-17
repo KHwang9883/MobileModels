@@ -123,7 +123,7 @@
 
 `TAS-AN00`: HUAWEI Mate 30 5G 全网通版
 
-`TAS-TN00`: HUAWEI Mate 30 5G 移动定制版
+`TAS-TN00`: HUAWEI Mate 30 5G 移动版
 
 **HUAWEI Mate 30 Pro (`Lion`):**
 
@@ -133,11 +133,11 @@
 
 `LIO-AN00`: HUAWEI Mate 30 Pro 5G 全网通版
 
-`LIO-TN00`: HUAWEI Mate 30 Pro 5G 移动定制版
+`LIO-TN00`: HUAWEI Mate 30 Pro 5G 移动版
 
 **HUAWEI Mate 30E Pro (`Lion`):**
 
-`LIO-AN00m`: HUAWEI Mate 30E Pro 5G 全网通版
+`LIO-AN00m`: HUAWEI Mate 30E Pro 5G
 
 **HUAWEI Mate 30 RS 保时捷设计 (`Lion`):**
 
@@ -145,27 +145,27 @@
 
 **HUAWEI Mate 40 (`Ocean`):**
 
-`OCE-AN10`: HUAWEI Mate 40 5G 全网通版
+`OCE-AN10`: HUAWEI Mate 40 5G
 
 **HUAWEI Mate 40E (`Ocean`):**
 
-`OCE-AN50`: HUAWEI Mate 40E 5G 全网通版
+`OCE-AN50`: HUAWEI Mate 40E 5G
 
-`OCE-AL50`: HUAWEI Mate 40E 4G 全网通版
+`OCE-AL50`: HUAWEI Mate 40E 4G
 
 **HUAWEI Mate 40 Pro (`Noah`):**
 
-`NOH-AN00` `NOH-AN01`: HUAWEI Mate 40 Pro 5G 全网通版
+`NOH-AN00` `NOH-AN01`: HUAWEI Mate 40 Pro 5G
 
-`NOH-AL00` `NOH-AL10`: HUAWEI Mate 40 Pro 4G 全网通版
+`NOH-AL00` `NOH-AL10`: HUAWEI Mate 40 Pro 4G
 
 **HUAWEI Mate 40E Pro (`Noah`):**
 
-`NOH-AN50` `NOH-AN80`: HUAWEI Mate 40E Pro 5G 全网通版
+`NOH-AN50` `NOH-AN80`: HUAWEI Mate 40E Pro 5G
 
 **HUAWEI Mate 40 Pro+ (`NoahP`):**
 
-`NOP-AN00`: HUAWEI Mate 40 Pro+ 5G 全网通版
+`NOP-AN00`: HUAWEI Mate 40 Pro+ 5G
 
 **HUAWEI Mate 40 RS 保时捷设计 (`NoahP`):**
 
@@ -173,15 +173,15 @@
 
 **HUAWEI Mate 50 (`Cetus`):**
 
-`CET-AL00`: HUAWEI Mate 50 4G 全网通版
+`CET-AL00`: HUAWEI Mate 50
 
 **HUAWEI Mate 50E (`Cetus-`):**
 
-`CET-AL60`: HUAWEI Mate 50E 4G 全网通版
+`CET-AL60`: HUAWEI Mate 50E
 
 **HUAWEI Mate 50 Pro (`Draco`):**
 
-`DCO-AL00`: HUAWEI Mate 50 Pro 4G 全网通版
+`DCO-AL00`: HUAWEI Mate 50 Pro
 
 **HUAWEI Mate 50 RS 保时捷设计 (`Draco`):**
 
@@ -197,19 +197,19 @@
 
 **HUAWEI Mate X2 (`Teton`):**
 
-`TET-AN00` `TET-AN10`: HUAWEI Mate X2 5G 全网通版
+`TET-AN00` `TET-AN10`: HUAWEI Mate X2 5G
 
-`TET-AN50`: HUAWEI Mate X2 典藏版 5G 全网通版
+`TET-AN50`: HUAWEI Mate X2 典藏版 5G
 
-`TET-AL00`: HUAWEI Mate X2 4G 全网通版
+`TET-AL00`: HUAWEI Mate X2 4G
 
 **HUAWEI Mate Xs 2 (`Palau`):**
 
-`PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2 4G 全网通版
+`PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2
 
 **HUAWEI Mate X3:**
 
-`ALT-AL00`: HUAWEI Mate X3 4G 全网通版
+`ALT-AL00`: HUAWEI Mate X3
 
 ## HUAWEI P 系列
 
@@ -339,55 +339,55 @@
 
 `ANA-AN00`: HUAWEI P40 5G 全网通版
 
-`ANA-TN00`: HUAWEI P40 5G 移动定制版
+`ANA-TN00`: HUAWEI P40 5G 移动版
 
 **HUAWEI P40 Pro (`Elsa`):**
 
 `ELS-AN00`: HUAWEI P40 Pro 5G 全网通版
 
-`ELS-TN00`: HUAWEI P40 Pro 5G 移动定制版
+`ELS-TN00`: HUAWEI P40 Pro 5G 移动版
 
 **HUAWEI P40 Pro+ (`ElsaP`):**
 
 `ELS-AN10`: HUAWEI P40 Pro+ 5G 全网通版
 
-`ELS-TN10`: HUAWEI P40 Pro+ 5G 移动定制版
+`ELS-TN10`: HUAWEI P40 Pro+ 5G 移动版
 
 **HUAWEI P50 (`Amber`):**
 
-`ABR-AL00` `ABR-AL80`: HUAWEI P50 4G 全网通版
+`ABR-AL00` `ABR-AL80`: HUAWEI P50
 
 **HUAWEI P50E (`Amber`):**
 
-`ABR-AL60` `ABR-AL90`: HUAWEI P50E 4G 全网通版
+`ABR-AL60` `ABR-AL90`: HUAWEI P50E
 
 **HUAWEI P50 Pro (`Jade`):**
 
-`JAD-AL00` `JAD-AL80`: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
+`JAD-AL00` `JAD-AL80`: HUAWEI P50 Pro (骁龙 888)
 
-`JAD-AL50` `JAD-AL60`: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
+`JAD-AL50` `JAD-AL60`: HUAWEI P50 Pro (麒麟 9000)
 
 **HUAWEI P50 Pocket (`Bali`):**
 
-`BAL-AL00`: HUAWEI P50 Pocket 4G 全网通版
+`BAL-AL00`: HUAWEI P50 Pocket
 
 **HUAWEI P60 (`Leona`):**
 
-`LNA-AL00`: HUAWEI P60 4G 全网通版
+`LNA-AL00`: HUAWEI P60
 
 **HUAWEI P60 Pro (`Mona`):**
 
-`MNA-AL00`: HUAWEI P60 Pro 4G 全网通版
+`MNA-AL00`: HUAWEI P60 Pro
 
 **HUAWEI P60 Art (`Mona`):**
 
-`MNA-AL00`: HUAWEI P60 Art 4G 全网通版
+`MNA-AL00`: HUAWEI P60 Art
 
 ## HUAWEI Pocket 系列
 
 **HUAWEI Pocket S (`Bali`):**
 
-`BAL-AL60`: HUAWEI Pocket S 4G 全网通版
+`BAL-AL60`: HUAWEI Pocket S
 
 ## HUAWEI nova 系列
 
@@ -489,97 +489,109 @@
 
 **HUAWEI nova 6 (`Waltz`):**
 
-`WLZ-AL10`: HUAWEI nova 6 4G 全网通版
+`WLZ-AL10`: HUAWEI nova 6 4G
 
 **HUAWEI nova 6 (`WaltzS`):**
 
-`WLZ-AN00`: HUAWEI nova 6 5G 全网通版
+`WLZ-AN00`: HUAWEI nova 6 5G
 
 **HUAWEI nova 6 SE (`Jenny`):**
 
 `JNY-AL10`: HUAWEI nova 6 SE 全网通版
 
-`JNY-TL10`: HUAWEI nova 6 SE 移动全网通版
+`JNY-TL10`: HUAWEI nova 6 SE 移动版
 
 **HUAWEI nova 7 (`Jennifer`):**
 
 `JEF-AN00` `JEF-AN20`: HUAWEI nova 7 5G 全网通版
 
-`JEF-TN00` `JEF-TN20`: HUAWEI nova 7 5G 移动全网通版
+`JEF-TN00` `JEF-TN20`: HUAWEI nova 7 5G 移动版
 
 **HUAWEI nova 7 Pro (`JenniferR`):**
 
 `JER-AN10` `JER-AN20`: HUAWEI nova 7 Pro 5G 全网通版
 
-`JER-TN10` `JER-TN20`: HUAWEI nova 7 Pro 5G 移动全网通版
+`JER-TN10` `JER-TN20`: HUAWEI nova 7 Pro 5G 移动版
 
 **HUAWEI nova 7 SE (`CindyN`):**
 
 `CDY-AN00` `CDY-AN20`: HUAWEI nova 7 SE 5G 全网通版
 
-`CDY-TN00` `CDY-TN20`: HUAWEI nova 7 SE 5G 移动全网通版
+`CDY-TN00` `CDY-TN20`: HUAWEI nova 7 SE 5G 移动版
 
 **HUAWEI nova 7 SE 5G 活力版 (`CindyC`):**
 
-`CND-AN00`: HUAWEI nova 7 SE 5G 活力版 全网通版
+`CND-AN00`: HUAWEI nova 7 SE 5G 活力版
 
 **HUAWEI nova 7 SE 5G 乐活版 (`CindyL`):**
 
-`CDL-AN50`: HUAWEI nova 7 SE 5G 乐活版 全网通版
+`CDL-AN50`: HUAWEI nova 7 SE 5G 乐活版
 
 **HUAWEI nova 8 (`Angela`):**
 
-`ANG-AN00`: HUAWEI nova 8 5G 全网通版
+`ANG-AN00`: HUAWEI nova 8 5G
 
 **HUAWEI nova 8 Pro (`Barbie`):**
 
-`BRQ-AN00`: HUAWEI nova 8 Pro 5G 全网通版
+`BRQ-AN00`: HUAWEI nova 8 Pro 5G
 
-`BRQ-AL00`: HUAWEI nova 8 Pro 4G 全网通版
+`BRQ-AL00`: HUAWEI nova 8 Pro 4G
 
 **HUAWEI nova 8 SE (`Jessica`):**
 
 `JSC-AN00`: HUAWEI nova 8 SE 5G 全网通版
 
-`JSC-TN00`: HUAWEI nova 8 SE 5G 移动全网通版
+`JSC-TN00`: HUAWEI nova 8 SE 5G 移动版
 
 `JSC-AL50`: HUAWEI nova 8 SE 4G 全网通版
 
 **HUAWEI nova 8 SE 活力版 (`Chanel`):**
 
-`CHL-AL60`: HUAWEI nova 8 SE 活力版 全网通版
+`CHL-AL60`: HUAWEI nova 8 SE 活力版
 
 **HUAWEI nova 9 (`NottinghamN`):**
 
-`NAM-AL00`: HUAWEI nova 9 4G 全网通版
+`NAM-AL00`: HUAWEI nova 9
 
 **HUAWEI nova 9 Pro:**
 
-`RTE-AL00`: HUAWEI nova 9 Pro 4G 全网通版
+`RTE-AL00`: HUAWEI nova 9 Pro
 
 **HUAWEI nova 9 SE (`JuliaQN`):**
 
-`JLN-AL00`: HUAWEI nova 9 SE 4G 全网通版
+`JLN-AL00`: HUAWEI nova 9 SE
 
 **HUAWEI nova 10 (`Nicole`):**
 
-`NCO-AL00`: HUAWEI nova 10 4G 全网通版
+`NCO-AL00`: HUAWEI nova 10
 
 **HUAWEI nova 10 Pro (`Gloria`):**
 
-`GLA-AL00`: HUAWEI nova 10 Pro 4G 全网通版
+`GLA-AL00`: HUAWEI nova 10 Pro
 
 **HUAWEI nova 10z (`Chanel`):**
 
-`CHA-AL80`: HUAWEI nova 10z 全网通版
+`CHA-AL80`: HUAWEI nova 10z
 
 **HUAWEI nova 10 SE:**
 
-`BNE-AL00`: HUAWEI nova 10 SE 全网通版
+`BNE-AL00`: HUAWEI nova 10 SE
 
 **HUAWEI nova 10 青春版 (`JuliaQN`):**
 
-`JLN-AL00`: HUAWEI nova 10 青春版 4G 全网通版
+`JLN-AL00`: HUAWEI nova 10 青春版
+
+**HUAWEI nova 11 (`Fiona`):**
+
+`FOA-AL00`: HUAWEI nova 11
+
+**HUAWEI nova 11 Pro (`Giona`):**
+
+`GOA-AL80`: HUAWEI nova 11 Pro
+
+**HUAWEI nova 11 Ultra (`Giona`):**
+
+`GOA-AL80U`: HUAWEI nova 11 Ultra
 
 ## HUAWEI G 系列
 
@@ -617,7 +629,7 @@
 
 `HUAWEI MLA-TL00`: HUAWEI G9 Plus 移动 4G 版
 
-`HUAWEI MLA-TL10`: HUAWEI G9 Plus 移动全网通版
+`HUAWEI MLA-TL10`: HUAWEI G9 Plus 移动版
 
 `HUAWEI MLA-UL00`: HUAWEI G9 Plus 双 4G 版
 
@@ -653,19 +665,19 @@
 
 **HUAWEI 麦芒 6 (`Rhone`):**
 
-`RNE-AL00`: HUAWEI 麦芒 6 全网通版
+`RNE-AL00`: HUAWEI 麦芒 6
 
 **HUAWEI 麦芒 7 (`SydneyM`):**
 
-`SNE-AL00`: HUAWEI 麦芒 7 全网通版
+`SNE-AL00`: HUAWEI 麦芒 7
 
 **HUAWEI 麦芒 8 (`Potterpro`):**
 
-`POT-AL00` `POT-AL10`: HUAWEI 麦芒 8 全网通版
+`POT-AL00` `POT-AL10`: HUAWEI 麦芒 8
 
 **华为麦芒 9 (`Tianshan`):**
 
-`TNN-AN00`: 华为麦芒 9 5G 全网通版
+`TNN-AN00`: 华为麦芒 9 5G
 
 ## 华为畅享系列
 
@@ -815,51 +827,55 @@
 
 **华为畅享 Z (`Davinci`):**
 
-`DVC-AN00`: 华为畅享 Z 5G 全网通版
+`DVC-AN00`: 华为畅享 Z 5G
 
 **华为畅享 20 Pro (`Davinci`):**
 
 `DVC-AN20`: 华为畅享 20 Pro 5G 全网通版
 
-`DVC-TN20`: 华为畅享 20 Pro 5G 移动定制版
+`DVC-TN20`: 华为畅享 20 Pro 5G 移动版
 
 **华为畅享 20 (`Wukong`):**
 
 `WKG-AN00`: 华为畅享 20 5G 全网通版
 
-`WKG-TN00`: 华为畅享 20 5G 移动定制版
+`WKG-TN00`: 华为畅享 20 5G 移动版
 
 **华为畅享 20 Plus (`Franklin`):**
 
 `FRL-AN00a`: 华为畅享 20 Plus 5G 全网通版
 
-`FRL-TN00`: 华为畅享 20 Plus 5G 移动定制版
+`FRL-TN00`: 华为畅享 20 Plus 5G 移动版
 
 **华为畅享 20 SE (`Peppa`):**
 
-`PPA-AL20`: 华为畅享 20 SE 全网通版
+`PPA-AL20`: 华为畅享 20 SE
 
 **华为畅享 20e:**
 
-`MLD-AL00`: 华为畅享 20e 全网通版 (麒麟 710A)
+`MLD-AL00`: 华为畅享 20e (麒麟 710A)
 
-`MLD-AL10`: 华为畅享 20e 全网通版 (Helio P35)
+`MLD-AL10`: 华为畅享 20e (Helio P35)
 
 **华为畅享 50 (`Mega`):**
 
-`MGA-AL00`: 华为畅享 50 全网通版
+`MGA-AL00`: 华为畅享 50
 
 **华为畅享 50 Pro (`Cartier`):**
 
-`CTR-AL00`: 华为畅享 50 Pro 全网通版
+`CTR-AL00`: 华为畅享 50 Pro
 
 **华为畅享 50z:**
 
-`EVE-AL00`: 华为畅享 50z 全网通版
+`EVE-AL00`: 华为畅享 50z
 
 **华为畅享 60 (`Mega`):**
 
-`MGA-AL40`: 华为畅享 60 全网通版
+`MGA-AL40`: 华为畅享 60
+
+**华为畅享 60X:**
+
+`STG-AL00`: 华为畅享 60X
 
 ## 平板电脑
 
@@ -969,7 +985,7 @@
 
 **HUAWEI MatePad Pro 10.8 (`MarxR`):**
 
-`MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+`MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 2021 Wi-Fi 版
 
 **HUAWEI MatePad Pro 11 (`Goethe`):**
 
@@ -983,19 +999,15 @@
 
 **HUAWEI MatePad Pro 12.6 (`Wagner`):**
 
-`WGR-W09`: HUAWEI MatePad Pro 12.6 英寸 (2021) Wi-Fi 版 (麒麟 9000E)
+`WGR-W09` `WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版
 
-`WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 (2021) Wi-Fi 版 (麒麟 9000)
-
-`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 (2021) 全网通版 (麒麟 9000)
+`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2021 全网通版
 
 **HUAWEI MatePad Pro 12.6 (`WagnerR`):**
 
-`WGRR-W09`: HUAWEI MatePad Pro 12.6 英寸 (2022) Wi-Fi 版 (麒麟 9000E)
+`WGRR-W09` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版
 
-`WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 (2022) Wi-Fi 版 (麒麟 9000)
-
-`WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 (2022) 全网通版 (麒麟 9000)
+`WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2022 全网通版
 
 **HUAWEI MatePad (`Bach3`):**
 
@@ -1017,19 +1029,19 @@
 
 `DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
-**HUAWEI MatePad (2022) (`Bach4`):**
+**HUAWEI MatePad (`Bach4`):**
 
-`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
+`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 
-`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 
-`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
+`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
 
-**HUAWEI MatePad 11 (2023) (`DebussyR`):**
+**HUAWEI MatePad 11 2023 (`DebussyR`):**
 
-`DBR-W00`: HUAWEI MatePad 11 英寸 2023 款 Wi-Fi 版
+`DBR-W00`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 
-`DBR-W10`: HUAWEI MatePad 11 英寸 2023 款 柔光版 Wi-Fi 版
+`DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
 
 **HUAWEI MatePad Paper (`Hemingway`):**
 
@@ -1079,17 +1091,17 @@
 
 **华为平板 C3 (2020):**
 
-`BZD-W00`: 华为平板 C3 8 英寸 2020 款 Wi-Fi 版
+`BZD-W00`: 华为平板 C3 8 英寸 2020 Wi-Fi 版
 
-`BZD-AL00` `BZD-AL10`: 华为平板 C3 8 英寸 2020 款 全网通版
+`BZD-AL00` `BZD-AL10`: 华为平板 C3 8 英寸 2020 全网通版
 
-`BZC-W00`: 华为平板 C3 9.7 英寸 2020 款 Wi-Fi 版
+`BZC-W00`: 华为平板 C3 9.7 英寸 2020 Wi-Fi 版
 
-`BZC-AL00`: 华为平板 C3 9.7 英寸 2020 款 全网通版
+`BZC-AL00`: 华为平板 C3 9.7 英寸 2020 全网通版
 
-**华为平板 C3 (2021):**
+**华为平板 C3 (2022):**
 
-`BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
+`BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 Wi-Fi 版
 
 **华为平板 C5:**
 
@@ -1105,31 +1117,31 @@
 
 **华为平板 C5 (2020):**
 
-`BZW-AL00`: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+32GB)
+`BZW-AL00`: 华为平板 C5 8 英寸 2020 全网通版 (4GB+32GB)
 
-`BZW-AL10`: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+64GB)
+`BZW-AL10`: 华为平板 C5 8 英寸 2020 全网通版 (4GB+64GB)
 
-`BZT3-W09`: 华为平板 C5 10.4 英寸 2020 款 Wi-Fi 版
+`BZT3-W09`: 华为平板 C5 10.4 英寸 2020 Wi-Fi 版
 
-`BZT3-AL00`: 华为平板 C5 10.4 英寸 2020 款 全网通版
+`BZT3-AL00`: 华为平板 C5 10.4 英寸 2020 全网通版
 
 **华为平板 C5 (2021):**
 
-`BZT3-W59` `BZT3-W69`: 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
+`BZT3-W59` `BZT3-W69`: 华为平板 C5 10.4 英寸 2021 Wi-Fi 版
 
 **华为平板 C5 (2022):**
 
-`BZT4-W19`: 华为平板 C5 10.4 英寸 2022 款 Wi-Fi 版
+`BZT4-W19`: 华为平板 C5 10.4 英寸 2022 Wi-Fi 版
 
-`BZT4-AL10`: 华为平板 C5 10.4 英寸 2022 款 全网通版
+`BZT4-AL10`: 华为平板 C5 10.4 英寸 2022 全网通版
 
 **华为平板 C5e:**
 
-`BZI-W00`: 华为平板 C5e 10.1 英寸 2022 款 Wi-Fi 版
+`BZI-W00`: 华为平板 C5e 10.1 英寸 2022 Wi-Fi 版
 
 **华为平板 C7 (`Debussy`):**
 
-`DBY-W09`: 华为平板 C7 10.95 英寸 2022 款 Wi-Fi 版
+`DBY-W09`: 华为平板 C7 10.95 英寸 2022 Wi-Fi 版
 
 ## 笔记本电脑
 
@@ -1147,17 +1159,17 @@
 
 `WT-W19`: HUAWEI MateBook X i7
 
-**HUAWEI MateBook X (2020) (`Euler`):**
+**HUAWEI MateBook X 2020 (`Euler`):**
 
-`EUL-W19`: HUAWEI MateBook X (2020) i5 (8GB+512GB)
+`EUL-W19`: HUAWEI MateBook X 2020 i5 (8GB+512GB)
 
-`EUL-W19P`: HUAWEI MateBook X (2020) i5 (16GB+512GB)
+`EUL-W19P`: HUAWEI MateBook X 2020 i5 (16GB+512GB)
 
-`EUL-W29P`: HUAWEI MateBook X (2020) i7 (16GB+512GB)
+`EUL-W29P`: HUAWEI MateBook X 2020 i7 (16GB+512GB)
 
-**HUAWEI MateBook X (2021) (`EulerD`):**
+**HUAWEI MateBook X 2021 (`EulerD`):**
 
-`EULD-WFH9`: HUAWEI MateBook X (2021) i5
+`EULD-WFH9`: HUAWEI MateBook X 2021 i5
 
 **HUAWEI MateBook X Pro (`Mach`):**
 
@@ -1165,37 +1177,37 @@
 
 `MACH-W29`: HUAWEI MateBook X Pro i7
 
-**HUAWEI MateBook X Pro (2019) (`MachR`):**
+**HUAWEI MateBook X Pro 2019 (`MachR`):**
 
-`MACHR-W19`: HUAWEI MateBook X Pro (2019) i5
+`MACHR-W19`: HUAWEI MateBook X Pro 2019 i5
 
-`MACHR-W19L`: HUAWEI MateBook X Pro (2019) i5 Linux 版
+`MACHR-W19L`: HUAWEI MateBook X Pro 2019 i5 Linux 版
 
-`MACHR-W29`: HUAWEI MateBook X Pro (2019) i7
+`MACHR-W29`: HUAWEI MateBook X Pro 2019 i7
 
-`MACHR-W29BL`: HUAWEI MateBook X Pro (2019) i7 Linux 版
+`MACHR-W29BL`: HUAWEI MateBook X Pro 2019 i7 Linux 版
 
-**HUAWEI MateBook X Pro (2020) (`MachC`):**
+**HUAWEI MateBook X Pro 2020 (`MachC`):**
 
-`MACHC-WAH9LP`: HUAWEI MateBook X Pro (2020) i5
+`MACHC-WAH9LP`: HUAWEI MateBook X Pro 2020 i5
 
-`MACHC-WAE9LP`: HUAWEI MateBook X Pro (2020) i7
+`MACHC-WAE9LP`: HUAWEI MateBook X Pro 2020 i7
 
-**HUAWEI MateBook X Pro (2021) (`MachD`):**
+**HUAWEI MateBook X Pro 2021 (`MachD`):**
 
-`MACHD-WFH9` `MACHD-WFH9Q`: HUAWEI MateBook X Pro (2021) i5
+`MACHD-WFH9` `MACHD-WFH9Q`: HUAWEI MateBook X Pro 2021 i5
 
-`MACHD-WFE9` `MACHD-WFE9Q`: HUAWEI MateBook X Pro (2021) i7
+`MACHD-WFE9` `MACHD-WFE9Q`: HUAWEI MateBook X Pro 2021 i7
 
-**HUAWEI MateBook X Pro (2022) (`Morgan`):**
+**HUAWEI MateBook X Pro 2022 (`Morgan`):**
 
-`MRG-W56`: HUAWEI MateBook X Pro (2022) i5
+`MRG-W56`: HUAWEI MateBook X Pro 2022 i5
 
-`MRG-W76`: HUAWEI MateBook X Pro (2022) i7
+`MRG-W76`: HUAWEI MateBook X Pro 2022 i7
 
-**HUAWEI MateBook X Pro (2022) (`MorganF`):**
+**HUAWEI MateBook X Pro 2022 (`MorganF`):**
 
-`MRGF-16`: HUAWEI MateBook X Pro (2022) 12 代酷睿版
+`MRGF-16`: HUAWEI MateBook X Pro 2022 12 代酷睿版
 
 **HUAWEI MateBook 13 (`Wright`):**
 
@@ -1213,33 +1225,33 @@
 
 `HN-W19L`: HUAWEI MateBook 13 锐龙 Linux 版
 
-**HUAWEI MateBook 13 (2020) (`WrightB`):**
+**HUAWEI MateBook 13 2020 (`WrightB`):**
 
-`WRTB-WAH9L`: HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
+`WRTB-WAH9L`: HUAWEI MateBook 13 2020 i5 (8GB+512GB)
 
-`WRTB-WFH9L`: HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
+`WRTB-WFH9L`: HUAWEI MateBook 13 2020 i5 (16GB+512GB)
 
-`WRTB-WFE9L`: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
+`WRTB-WFE9L`: HUAWEI MateBook 13 2020 i7 (16GB+512GB)
 
-**HUAWEI MateBook 13 (2020) (`HengL`):**
+**HUAWEI MateBook 13 2020 (`HengL`):**
 
-`HNL-WDQ9Q`: HUAWEI MateBook 13 (2020) R5 (8GB+512GB)
+`HNL-WDQ9Q`: HUAWEI MateBook 13 2020 R5 (8GB+512GB)
 
-`HNL-WDP9Q`: HUAWEI MateBook 13 (2020) R7 (8GB+512GB)
+`HNL-WDP9Q`: HUAWEI MateBook 13 2020 R7 (8GB+512GB)
 
-`HNL-WFQ9`: HUAWEI MateBook 13 (2020) R5 (16GB+512GB)
+`HNL-WFQ9`: HUAWEI MateBook 13 2020 R5 (16GB+512GB)
 
-`HNL-WFP9` `HNL-WFP9Q`: HUAWEI MateBook 13 (2020) R7 (16GB+512GB)
+`HNL-WFP9` `HNL-WFP9Q`: HUAWEI MateBook 13 2020 R7 (16GB+512GB)
 
-**HUAWEI MateBook 13 (2021) (`WrightD`):**
+**HUAWEI MateBook 13 2021 (`WrightD`):**
 
-`WRTD-WDH9` `WRTD-WDH9Q`: HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+`WRTD-WDH9` `WRTD-WDH9Q`: HUAWEI MateBook 13 2021 i5 (8GB+512GB)
 
-`WRTD-WDE9Q`: HUAWEI MateBook 13 (2021) i7 (8GB+512GB)
+`WRTD-WDE9Q`: HUAWEI MateBook 13 2021 i7 (8GB+512GB)
 
-`WRTD-WFH9` `WRTD-WFH9Q`: HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
+`WRTD-WFH9` `WRTD-WFH9Q`: HUAWEI MateBook 13 2021 i5 (16GB+512GB)
 
-`WRTD-WFE9` `WRTD-WFE9Q`: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+`WRTD-WFE9` `WRTD-WFE9Q`: HUAWEI MateBook 13 2021 i7 (16GB+512GB)
 
 **HUAWEI MateBook 13s (`EmmyD`):**
 
@@ -1251,7 +1263,7 @@
 
 **HUAWEI MateBook 13s (`EmmyF`):**
 
-`EMF-16`: HUAWEI MateBook 13s 12 代酷睿版
+`EMF-16`: HUAWEI MateBook 13s 2023
 
 **HUAWEI MateBook 14 (`Kelvin`):**
 
@@ -1261,39 +1273,39 @@
 
 `KLV-W29`: HUAWEI MateBook 14 i7
 
-**HUAWEI MateBook 14 (2020) (`KelvinC`):**
+**HUAWEI MateBook 14 2020 (`KelvinC`):**
 
-`KLVC-WAH9L`: HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
+`KLVC-WAH9L`: HUAWEI MateBook 14 2020 i5 (8GB+512GB)
 
-`KLVC-WFH9L`: HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
+`KLVC-WFH9L`: HUAWEI MateBook 14 2020 i5 (16GB+512GB)
 
-`KLVC-WFE9L`: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
+`KLVC-WFE9L`: HUAWEI MateBook 14 2020 i7 (16GB+512GB)
 
-**HUAWEI MateBook 14 (2020) (`KelvinL`):**
+**HUAWEI MateBook 14 2020 (`KelvinL`):**
 
-`KLVL-WFH9`: HUAWEI MateBook 14 (2020) R5
+`KLVL-WFH9`: HUAWEI MateBook 14 2020 R5
 
-`KLVL-WFE9` `KLVL-WFE9Q`: HUAWEI MateBook 14 (2020) R7
+`KLVL-WFE9` `KLVL-WFE9Q`: HUAWEI MateBook 14 2020 R7
 
-**HUAWEI MateBook 14 (2021) (`KelvinD`):**
+**HUAWEI MateBook 14 2021 (`KelvinD`):**
 
-`KLVD-WDH9` `KLVD-WDH9Q`: HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+`KLVD-WDH9` `KLVD-WDH9Q`: HUAWEI MateBook 14 2021 i5 (8GB+512GB)
 
-`KLVD-WDE9Q`: HUAWEI MateBook 14 (2021) i7 (8GB+512GB)
+`KLVD-WDE9Q`: HUAWEI MateBook 14 2021 i7 (8GB+512GB)
 
-`KLVD-WFH9`: HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
+`KLVD-WFH9`: HUAWEI MateBook 14 2021 i5 (16GB+512GB)
 
-`KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
+`KLVD-WFE9`: HUAWEI MateBook 14 2021 i7 (16GB+512GB)
 
-**HUAWEI MateBook 14 (2021) (`KelvinL`):**
+**HUAWEI MateBook 14 2021 (`KelvinL`):**
 
-`KLVL-W56W`: HUAWEI MateBook 14 (2021) R5
+`KLVL-W56W`: HUAWEI MateBook 14 2021 R5
 
-`KLVL-W76W`: HUAWEI MateBook 14 (2021) R7
+`KLVL-W76W`: HUAWEI MateBook 14 2021 R7
 
-**HUAWEI MateBook 14 (2022) (`KelvinF`):**
+**HUAWEI MateBook 14 2022 (`KelvinF`):**
 
-`KLVF-16`: HUAWEI MateBook 14 (2022)
+`KLVF-16`: HUAWEI MateBook 14 2022
 
 **HUAWEI MateBook 14s (`HookeD`):**
 
@@ -1305,7 +1317,7 @@
 
 **HUAWEI MateBook 14s (`HookeF`):**
 
-`HKF-16`: HUAWEI MateBook 14s (2022)
+`HKF-16`: HUAWEI MateBook 14s 2022
 
 **HUAWEI MateBook 16 (`CurieM`):**
 
@@ -1359,29 +1371,29 @@
 
 **HUAWEI MateBook D 14 (`NobelL`):**
 
-`NblL-WFQ9`: HUAWEI MateBook D 14 (2020) R5
+`NblL-WFQ9`: HUAWEI MateBook D 14 2020 R5
 
-`NblL-WFP9`: HUAWEI MateBook D 14 (2020) R7
+`NblL-WFP9`: HUAWEI MateBook D 14 2020 R7
 
 **HUAWEI MateBook D 14 (`NobelD`):**
 
-`NbD-WFH9`: HUAWEI MateBook D 14 (2021) i5
+`NbD-WFH9`: HUAWEI MateBook D 14 2021 i5
 
-`NbD-WFE9`: HUAWEI MateBook D 14 (2021) i7
+`NbD-WFE9`: HUAWEI MateBook D 14 2021 i7
 
 **HUAWEI MateBook D 14 (`NobelM`):**
 
-`NbM-WDQ9D`: HUAWEI MateBook D 14 (2021) R5 (8GB+512GB)
+`NbM-WDQ9D`: HUAWEI MateBook D 14 2021 R5 (8GB+512GB)
 
-`NbM-WFQ9`: HUAWEI MateBook D 14 (2021) R5 (16GB+512GB)
+`NbM-WFQ9`: HUAWEI MateBook D 14 2021 R5 (16GB+512GB)
 
-`NbM-WFP9`: HUAWEI MateBook D 14 (2021) R7 (16GB+512GB)
+`NbM-WFP9`: HUAWEI MateBook D 14 2021 R7 (16GB+512GB)
 
 **HUAWEI MateBook D 14 (`NobelDE`):**
 
-`NbDE-WFH9`: HUAWEI MateBook D 14 (2022) i5
+`NbDE-WFH9`: HUAWEI MateBook D 14 2022 i5
 
-`NbDE-WFE9`: HUAWEI MateBook D 14 (2022) i7
+`NbDE-WFE9`: HUAWEI MateBook D 14 2022 i7
 
 **HUAWEI MateBook D 14 SE (`NobelDE`):**
 
@@ -1389,15 +1401,19 @@
 
 **HUAWEI MateBook D 14 12 代酷睿版 (`NobelF`):**
 
-`NbF-08`: HUAWEI MateBook D 14 (2022) 12 代酷睿版 (8GB 内存)
+`NbF-08`: HUAWEI MateBook D 14 2022 12 代酷睿版 (8GB 内存)
 
-`NbF-16`: HUAWEI MateBook D 14 (2022) 12 代酷睿版 (16GB 内存)
+`NbF-16`: HUAWEI MateBook D 14 2022 12 代酷睿版 (16GB 内存)
 
 **HUAWEI MateBook D 14 SE 12 代酷睿版 (`NobelF`):**
 
 `NbF-08`: HUAWEI MateBook D 14 SE 12 代酷睿版 (8GB 内存)
 
 `NbF-16`: HUAWEI MateBook D 14 SE 12 代酷睿版 (16GB 内存)
+
+**HUAWEI MateBook D 14:**
+
+`MDG-16`: HUAWEI MateBook D 14 2023
 
 **HUAWEI MateBook D 15 (`BohrK`):**
 
@@ -1417,27 +1433,27 @@
 
 **HUAWEI MateBook D 15 (`BohrL`):**
 
-`BohL-WFQ9`: HUAWEI MateBook D 15 (2020) R5
+`BohL-WFQ9`: HUAWEI MateBook D 15 2020 R5
 
-`BohL-WFP9`: HUAWEI MateBook D 15 (2020) R7
+`BohL-WFP9`: HUAWEI MateBook D 15 2020 R7
 
 **HUAWEI MateBook D 15 (`BohrD`):**
 
-`BoD-WFH9`: HUAWEI MateBook D 15 (2021) i5
+`BoD-WFH9`: HUAWEI MateBook D 15 2021 i5
 
-`BoD-WFE9`: HUAWEI MateBook D 15 (2021) i7
+`BoD-WFE9`: HUAWEI MateBook D 15 2021 i7
 
 **HUAWEI MateBook D 15 (`BohrM`):**
 
-`BoM-WFQ9`: HUAWEI MateBook D 15 (2021) R5
+`BoM-WFQ9`: HUAWEI MateBook D 15 2021 R5
 
-`BoM-WFP9`: HUAWEI MateBook D 15 (2021) R7
+`BoM-WFP9`: HUAWEI MateBook D 15 2021 R7
 
 **HUAWEI MateBook D 15 (`BohrDE`):**
 
-`BoDE-WFH9`: HUAWEI MateBook D 15 (2022) i5
+`BoDE-WFH9`: HUAWEI MateBook D 15 2022 i5
 
-`BoDE-WFE9`: HUAWEI MateBook D 15 (2022) i7
+`BoDE-WFE9`: HUAWEI MateBook D 15 2022 i7
 
 **HUAWEI MateBook D 15 SE (`BohrDE`):**
 
@@ -1445,11 +1461,15 @@
 
 **HUAWEI MateBook D 15 12 代酷睿版 (`BohrF`):**
 
-`BoF-16`: HUAWEI MateBook D 15 (2022) 12 代酷睿版 (16GB 内存)
+`BoF-16`: HUAWEI MateBook D 15 2022 12 代酷睿版 (16GB 内存)
 
 **HUAWEI MateBook D 16 (`RolleF`):**
 
-`RLEF-16`: HUAWEI MateBook D 16 (2022) / HUAWEI MateBook D 16 SE
+`RLEF-16`: HUAWEI MateBook D 16 2022 / HUAWEI MateBook D 16 SE
+
+**HUAWEI MateBook D 16 (`RolleG`):**
+
+`RLEG-16`: HUAWEI MateBook D 16 2023
 
 **HUAWEI MateBook E:**
 
@@ -1461,13 +1481,13 @@
 
 `PAK-AL09`: HUAWEI MateBook E (2019)
 
-**HUAWEI MateBook E (2021) (`Dirac`):**
+**HUAWEI MateBook E 2021 (`Dirac`):**
 
-`DRC-W58`: HUAWEI MateBook E (2021) i5 (8GB+256GB)
+`DRC-W58`: HUAWEI MateBook E 2021 i5 (8GB+256GB)
 
-`DRC-W56`: HUAWEI MateBook E (2021) i5 (16GB+512GB)
+`DRC-W56`: HUAWEI MateBook E 2021 i5 (16GB+512GB)
 
-`DRC-W76`: HUAWEI MateBook E (2021) i7 (16GB+512GB)
+`DRC-W76`: HUAWEI MateBook E 2021 i7 (16GB+512GB)
 
 **HUAWEI MateBook E Go (`Gaokun`):**
 
@@ -1475,7 +1495,7 @@
 
 `GK-G56`: HUAWEI MateBook E Go 全网通 (16GB+512GB)
 
-`GK-W76`: HUAWEI MateBook E Go 性能版 Wi-Fi / HUAWEI MateBook E Go 2023 款 Wi-Fi
+`GK-W76`: HUAWEI MateBook E Go 性能版 Wi-Fi / HUAWEI MateBook E Go 2023 Wi-Fi
 
 **HUAWEI MateBook B3-410 (`NobelBZ`):**
 
@@ -1589,19 +1609,19 @@
 
 `HEGE-570`: 华为智慧屏 V75
 
-**华为智慧屏 V 系列 2021 款:**
+**华为智慧屏 V 系列 2021:**
 
-`HD55THAA`: 华为智慧屏 V 55 2021 款
+`HD55THAA`: 华为智慧屏 V 55 2021
 
-`HD65THAA`: 华为智慧屏 V 65 2021 款
+`HD65THAA`: 华为智慧屏 V 65 2021
 
-`HD75THAA`: 华为智慧屏 V 75 2021 款
+`HD75THAA`: 华为智慧屏 V 75 2021
 
 `HD75FREA`: 华为智慧屏 V 75 Super
 
-`HD85THAA`: 华为智慧屏 V 85 2021 款
+`HD85THAA`: 华为智慧屏 V 85 2021
 
-`HD98SOKA`: 华为智慧屏 V 98 2021 款
+`HD98SOKA`: 华为智慧屏 V 98 2021
 
 **华为智慧屏 V Pro 系列:**
 
@@ -1647,6 +1667,12 @@
 
 `HD86KEPA`: 华为智慧屏 S86 Pro
 
+**华为智慧屏 S3 Pro:**
+
+`HD65AJMS`: 华为智慧屏 S3 Pro 65
+
+`HD75AJMS`: 华为智慧屏 S3 Pro 75
+
 **华为智慧屏 SE 系列:**
 
 `HD55DESA`: 华为智慧屏 SE 55 (2GB+16GB)
@@ -1669,23 +1695,25 @@
 
 `HD75DESA`: 华为智慧屏 SE 75 (2GB+16GB)
 
-**华为智慧屏 SE 系列 2022 款:**
+**华为智慧屏 SE 系列 2022:**
 
-`HD43KHAA`: 华为智慧屏 SE43 (2022)
+`HD43KHAA`: 华为智慧屏 SE43 2022
 
-`HD55KHAA`: 华为智慧屏 SE55 (2022)
+`HD55KHAA`: 华为智慧屏 SE55 2022
 
-`HD55KHAS`: 华为智慧屏 SE55 Pro (2022)
+`HD55KHAS`: 华为智慧屏 SE55 Pro 2022
 
-`HD65KHAA`: 华为智慧屏 SE65 (2022)
+`HD65KHAA`: 华为智慧屏 SE65 2022
 
-`HD65KHAS`: 华为智慧屏 SE65 Pro (2022)
+`HD65KHAS`: 华为智慧屏 SE65 Pro 2022
 
 **华为 Vision 智慧屏:**
 
 `HD65FRUC`: 华为 Vision 智慧屏 Z65 电竞版
 
 `HD75FRUC`: 华为 Vision 智慧屏 Z75 电竞版
+
+`HD65MILA`: 华为 Vision 智慧屏 65
 
 `HD75MILA`: 华为 Vision 智慧屏 75
 
