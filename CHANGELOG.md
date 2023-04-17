@@ -1,7 +1,7 @@
 # 更新日志
 ## 2023-04-17
 - `huawei_cn` 新增 nova 11 系列等。
-- `vivo_cn` 新增 vivo Y78+。
+- `vivo_cn` 新增 vivo Y78, Y78+, Y78m。
 ## 2023-04-16
 - `honor_cn` 新增 荣耀 X50i。
 - `mitv_cn` 新增 小米电视大师 86" Mini LED。
