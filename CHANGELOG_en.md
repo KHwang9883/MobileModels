@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-04-17
+- `vivo_global_en` Add vivo international smartphone models.
 ## 2023-04-12
 - `realme_en` Add realme Narzo N55.
 ## 2023-04-05
