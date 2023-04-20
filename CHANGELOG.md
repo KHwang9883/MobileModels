@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-04-20
 - `mitv_cn` 新增 Redmi 电视 X85。
+- `oneplus` 新增 一加 Nord N30。
 - `zte` 新增 中兴远航 40。
 ## 2023-04-17
 - `huawei_cn` 新增 nova 11 系列等。
