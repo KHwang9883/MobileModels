@@ -293,6 +293,10 @@
 
 `CPH2469`: OnePlus Nord 20 SE
 
+**OnePlus Nord N30:**
+
+`CPH2513` `CPH2515`: OnePlus Nord N30
+
 **OnePlus Nord N200 (`dre9`):**
 
 `DE2117`: OnePlus Nord N200 North America
