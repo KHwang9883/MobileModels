@@ -213,6 +213,10 @@
 
 `V2203` `V2221` `V2229`: vivo Y02s
 
+**vivo Y02t:**
+
+`V2252` `V2254`: vivo Y02t
+
 **vivo Y11s:**
 
 `V2028`: vivo Y11s
