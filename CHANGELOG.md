@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-04-20
+- `mitv_cn` 新增 Redmi 电视 X85。
 ## 2023-04-17
 - `huawei_cn` 新增 nova 11 系列等。
 - `vivo_cn` 新增 vivo Y78, Y78+, Y78m。

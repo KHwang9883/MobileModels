@@ -360,8 +360,6 @@
 
 `L65M5-RK`: Redmi 智能电视 X65 (2020)
 
-**Redmi 智能电视 X 2022 款:**
-
 `L50R8-X`: Redmi 智能电视 X50 2022 款
 
 `L55R8-X`: Redmi 智能电视 X55 2022 款
@@ -369,6 +367,8 @@
 `L65R8-X`: Redmi 智能电视 X65 2022 款
 
 `L75R8-X`: Redmi 智能电视 X75 2022 款
+
+`L85RA-RX`: Redmi 智能电视 X85
 
 `L86R9-X`: Redmi 智能电视 X86
 
