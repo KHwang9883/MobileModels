@@ -143,6 +143,10 @@
 
 `V2237`: vivo V27e
 
+**vivo V29 Lite:**
+
+`V2244`: vivo V29 Lite 5G
+
 **vivo S1:**
 
 `vivo 1907`: vivo S1
@@ -404,6 +408,10 @@
 **vivo Y77:**
 
 `V2169`: vivo Y77 5G
+
+**vivo Y78:**
+
+`V2244`: vivo Y78 5G
 
 **vivo Y100:**
 

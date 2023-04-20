@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2023-04-20
 - `oneplus_en` Add OnePlus Nord N30.
+- `vivo_global_en` Add Y78, V29 Lite 5G.
 ## 2023-04-17
 - `vivo_global_en` Add vivo international smartphone models.
 ## 2023-04-12
