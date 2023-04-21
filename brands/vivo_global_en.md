@@ -479,6 +479,10 @@
 
 `I2207` `I2213`: iQOO Z7 5G
 
+**iQOO Z7s:**
+
+`I2223`: iQOO Z7s 5G
+
 **iQOO Z7x:**
 
 `I2216`: iQOO Z7x 5G

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-04-22
+- `vivo_global_en` Add iQOO Z7s.
 ## 2023-04-20
 - `oneplus_en` Add OnePlus Nord N30.
 - `vivo_global_en` Add Y02t, Y78, V29 Lite 5G.
