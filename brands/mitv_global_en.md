@@ -225,6 +225,8 @@
 
 **Xiaomi Fire TV F2:**
 
+`L32M7-FVEU`: Xiaomi Fire TV F2 32
+
 `L43M7-FVEU`: Xiaomi Fire TV F2 43
 
 `L50M7-FVEU`: Xiaomi Fire TV F2 50
