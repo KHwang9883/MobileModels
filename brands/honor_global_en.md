@@ -261,6 +261,10 @@
 
 `VNE-N41`: HONOR X8 5G
 
+**HONOR X8a 5G:**
+
+`RBN-NX1` `RBN-NX3`: HONOR X8a 5G
+
 **HONOR X9 (`Andy`):**
 
 `ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR X9

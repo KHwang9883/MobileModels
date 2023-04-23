@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-04-23
+- `honor_global_en` Add HONOR X8a 5G.
 ## 2023-04-22
 - `vivo_global_en` Add iQOO Z7s.
 ## 2023-04-20
