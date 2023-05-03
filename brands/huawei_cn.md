@@ -573,7 +573,7 @@
 
 `CHA-AL80`: HUAWEI nova 10z
 
-**HUAWEI nova 10 SE:**
+**HUAWEI nova 10 SE (`Bonnie`):**
 
 `BNE-AL00`: HUAWEI nova 10 SE
 
@@ -865,7 +865,7 @@
 
 `CTR-AL00`: 华为畅享 50 Pro
 
-**华为畅享 50z:**
+**华为畅享 50z (`Eevee`):**
 
 `EVE-AL00`: 华为畅享 50z
 

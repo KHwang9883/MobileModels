@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-05-03
 - `honor_cn` 新增 荣耀平板 V8。
+- `huawei_cn` 更新部分代号。
 - `mitv_cn` 新增部分型号。
 - `oneplus` 新增 OnePlus Pad。
 - `realme_cn` 新增 真我 11 系列。
