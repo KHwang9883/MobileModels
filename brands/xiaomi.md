@@ -602,15 +602,15 @@
 
 `22081281AC`: 小米平板 5 Pro 12.4 英寸
 
-**[`M82`] 小米平板 6 (`pipa`):**
+**[`M82`] Xiaomi Pad 6 (`pipa`):**
 
-`23043RP34C`: 小米平板 6 国行版
+`23043RP34C`: Xiaomi Pad 6 国行版
 
-`23043RP34G`: 小米平板 6 国际版
+`23043RP34G`: Xiaomi Pad 6 国际版
 
-**[`M81`] 小米平板 6 Pro (`liuqin`):**
+**[`M81`] Xiaomi Pad 6 Pro (`liuqin`):**
 
-`23046RP50C`: 小米平板 6 Pro
+`23046RP50C`: Xiaomi Pad 6 Pro
 
 ## 红米 / Redmi 数字系列
 
@@ -1350,9 +1350,9 @@
 
 `23021RAA2Y`: Redmi Note 12 国际版 (NFC)
 
-**[`M17`] Redmi Note 12 5G (`sunstone`):**
+**[`M17`] Redmi Note 12 5G / Redmi Note 12R Pro (`sunstone`):**
 
-`22101317C`: Redmi Note 12 5G 全网通版
+`22101317C`: Redmi Note 12 5G 全网通版 / Redmi Note 12R Pro 全网通版
 
 `22111317G`: Redmi Note 12 5G 国际版
 
@@ -1757,6 +1757,12 @@
 **[`C3SP`] POCO C50 (`snow`):**
 
 `220733SPI`: POCO C50 印度版
+
+**POCO C51 (`water`):**
+
+`2305EPCC4G` `2302EPCC4H`: POCO C51 国际版
+
+`2302EPCC4I`: POCO C51 印度版
 
 **POCO C55 (`earth`):**
 
