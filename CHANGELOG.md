@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-05-03
+- `honor_cn` 新增 荣耀平板 V8。
 - `mitv_cn` 新增部分型号。
 - `xiaomi` 新增 Redmi Note 12R Pro, POCO C51。
 ## 2023-04-20
