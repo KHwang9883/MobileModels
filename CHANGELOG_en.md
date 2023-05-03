@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2023-05-03
+- `vivo_global_en` Add vivo Y36.
 - `xiaomi_en` Add Redmi Note 12R Pro, POCO C51.
 ## 2023-04-23
 - `honor_global_en` Add HONOR X8a 5G.
