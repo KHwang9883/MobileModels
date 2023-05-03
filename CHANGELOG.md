@@ -2,6 +2,7 @@
 ## 2023-05-03
 - `honor_cn` 新增 荣耀平板 V8。
 - `mitv_cn` 新增部分型号。
+- `oneplus` 新增 OnePlus Pad。
 - `xiaomi` 新增 Redmi Note 12R Pro, POCO C51。
 ## 2023-04-20
 - `mitv_cn` 新增 Redmi 电视 X85。
