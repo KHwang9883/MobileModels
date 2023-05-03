@@ -1267,13 +1267,13 @@
 
 `23021RAA2Y`: Redmi Note 12 Global (NFC)
 
-**[`M17`] Redmi Note 12 5G (`sunstone`):**
+**[`M17`] Redmi Note 12 5G / Redmi Note 12R Pro (`sunstone`):**
 
 `22111317G`: Redmi Note 12 5G Global
 
 `22111317I`: Redmi Note 12 5G India
 
-`22101317C`: Redmi Note 12 5G China
+`22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
 
 **Redmi Note 12S (`sea`):**
 
@@ -1660,6 +1660,12 @@
 **[`C3SP`] POCO C50 (`snow`):**
 
 `220733SPI`: POCO C50 India
+
+**POCO C51 (`water`):**
+
+`2305EPCC4G` `2302EPCC4H`: POCO C51 Global
+
+`2302EPCC4I`: POCO C51 India
 
 **POCO C55 (`earth`):**
 
