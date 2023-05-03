@@ -3211,6 +3211,11 @@ L55M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#55
 L65M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#65
 L75M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#75
 L86M8-ES,tv,mitv,小米,,,小米电视 ES Pro,#86
+L90M9-EP,tv,mitv,小米,,,小米电视 ES Pro,#90
+L55MA-AC,tv,mitv,小米,,,小米电视 A,#55 竞技版
+L65MA-AC,tv,mitv,小米,,,小米电视 A,#65 竞技版
+L55MA-AP,tv,mitv,小米,,,小米电视 A Pro,#55 Pro
+L65MA-AP,tv,mitv,小米,,,小米电视 A Pro,#65 Pro
 L55M9-S,tv,mitv,小米,,,小米电视 S,#55
 L65M9-S,tv,mitv,小米,,,小米电视 S,#65
 L75M9-S,tv,mitv,小米,,,小米电视 S,#75
@@ -3257,6 +3262,7 @@ L75R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#75
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#75
 L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
+L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
 L100R8-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 英寸
 MDZ-18-DA,tv_hub,mitv,小米,,,小米电视主机,#

@@ -282,6 +282,20 @@
 
 `L86M8-ES`: 小米电视 ES Pro 86
 
+`L90M9-EP`: 小米电视 ES Pro 90
+
+**小米电视 A:**
+
+`L55MA-AC`: 小米电视 A55 竞技版
+
+`L65MA-AC`: 小米电视 A65 竞技版
+
+**小米电视 A Pro:**
+
+`L55MA-AP`: 小米电视 A55 Pro
+
+`L65MA-AP`: 小米电视 A65 Pro
+
 **小米电视 S:**
 
 `L55M9-S`: 小米电视 S55
@@ -397,6 +411,8 @@
 **Redmi 智能电视 MAX:**
 
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
+
+`L90R9-MAX`: Redmi 智能电视 MAX 90 英寸
 
 `L98M6-RK`: Redmi 智能电视 MAX 98 英寸
 
