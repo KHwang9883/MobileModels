@@ -342,3 +342,7 @@
 `CPH2465`: OnePlus Nord CE 3 Lite Global
 
 `CPH2467`: OnePlus Nord CE 3 Lite India
+
+**OnePlus Pad:**
+
+`OPD2203`: OnePlus Pad
