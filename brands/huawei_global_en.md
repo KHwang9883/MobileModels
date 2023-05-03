@@ -255,6 +255,14 @@
 
 `BAL-L49` `BAL-LX9`: HUAWEI P50 Pocket
 
+**HUAWEI P60 (`Leona`):**
+
+`LNA-LX9`: HUAWEI P60
+
+**HUAWEI P60 Pro (`Mona`):**
+
+`MNA-LX9`: HUAWEI P60 Pro
+
 **HUAWEI P smart (`Figo`):**
 
 `FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P smart
@@ -381,11 +389,15 @@
 
 `GLA-LX3`: HUAWEI nova 10 Pro Single SIM
 
-**HUAWEI nova 10 SE:**
+**HUAWEI nova 10 SE (`Bonnie`):**
 
 `BNE-LX1`: HUAWEI nova 10 SE Dual SIM
 
 `BNE-LX3`: HUAWEI nova 10 SE Single SIM
+
+**HUAWEI nova 11i:**
+
+`MAO-LX9`: HUAWEI nova 11i
 
 **HUAWEI nova Y60 (`Wukong`):**
 

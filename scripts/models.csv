@@ -2450,6 +2450,8 @@ JAD-LX4,mob,huawei,HUAWEI,,Jade,HUAWEI P50 Pro,#
 JAD-LX9,mob,huawei,HUAWEI,,Jade,HUAWEI P50 Pro,#
 BAL-L49,mob,huawei,HUAWEI,,Bali,HUAWEI P50 Pocket,#
 BAL-LX9,mob,huawei,HUAWEI,,Bali,HUAWEI P50 Pocket,#
+LNA-LX9,mob,huawei,HUAWEI,,Leona,HUAWEI P60,#
+MNA-LX9,mob,huawei,HUAWEI,,Mona,HUAWEI P60 Pro,#
 FIG-LA1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,#
 FIG-LX1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,#
 FIG-LX2,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,#
@@ -2514,8 +2516,9 @@ NCO-LX1,mob,huawei,HUAWEI,,Nicole,HUAWEI nova 10,#Dual SIM
 NCO-LX3,mob,huawei,HUAWEI,,Nicole,HUAWEI nova 10,#Single SIM
 GLA-LX1,mob,huawei,HUAWEI,,Gloria,HUAWEI nova 10 Pro,#Dual SIM
 GLA-LX3,mob,huawei,HUAWEI,,Gloria,HUAWEI nova 10 Pro,#Single SIM
-BNE-LX1,mob,huawei,HUAWEI,,,HUAWEI nova 10 SE,#Dual SIM
-BNE-LX3,mob,huawei,HUAWEI,,,HUAWEI nova 10 SE,#Single SIM
+BNE-LX1,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 10 SE,#Dual SIM
+BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 10 SE,#Single SIM
+MAO-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 11i,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
 EVE-LX9,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
 EVE-LX9N,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#

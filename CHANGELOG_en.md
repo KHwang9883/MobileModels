@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2023-05-03
+- `huawei_global_en` Add HUAWEI P60, nova 11i.
 - `oneplus_en` Add OnePlus Pad.
 - `vivo_global_en` Add vivo Y36.
 - `xiaomi_en` Add Redmi Note 12R Pro, POCO C51.
