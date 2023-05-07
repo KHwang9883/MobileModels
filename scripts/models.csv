@@ -4693,6 +4693,7 @@ V2185A,mob,vivo,vivo,,PD2185,X80 Pro,#
 V2186A,mob,vivo,vivo,,PD2186,X80 Pro 天玑 9000 版,#
 V2229A,mob,vivo,vivo,,PD2229,X Fold,#
 V2241A,mob,vivo,vivo,,PD2241,X90,#
+V2241HA,mob,vivo,vivo,,PD2241,X90S,#
 V2242A,mob,vivo,vivo,,PD2242,X90 Pro,#
 V2227A,mob,vivo,vivo,,PD2227,X90 Pro,#
 V2266A,mob,vivo,vivo,,PD2266,X Fold2,#
@@ -4722,6 +4723,9 @@ V2190A,mob,vivo,vivo,,PD2190,S15e,#
 V2244A,mob,vivo,vivo,,PD2244,S16,#
 V2245A,mob,vivo,vivo,,PD2245,S16 Pro,#
 V2239A,mob,vivo,vivo,,PD2239,S16e,#
+V2283A,mob,vivo,vivo,,PD2283,S17,#
+V2284A,mob,vivo,vivo,,PD2284,S17 Pro,#
+V2285A,mob,vivo,vivo,,PD2285,S17e,#
 V1901A,mob,vivo,vivo,,PD1901,Y3,#全网通版
 V1901T,mob,vivo,vivo,,PD1901,Y3,#移动全网通版
 V1930A,mob,vivo,vivo,,PD1930,Y3 标准版,#全网通版
@@ -4752,8 +4756,10 @@ V2168A,mob,vivo,vivo,,PD2168,Y32t,#8GB+128GB
 V2180A,mob,vivo,vivo,,PD2180,Y32t,#8GB+256GB
 V2166A,mob,vivo,vivo,,PD2166,Y33s,#5G
 V2166A,mob,vivo,vivo,,PD2166,Y33e,#5G
-V2230A,mob,vivo,vivo,,PD2230,Y35,#5G
-V2230A,mob,vivo,vivo,,PD2230,Y35m,#5G
+V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,#5G
+V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,1#5G
+V2279A,mob,vivo,vivo,,PD2279,Y35|Y35m,#5G
+V2279A,mob,vivo,vivo,,PD2279,Y35|Y35m,1#5G
 V1965A,mob,vivo,vivo,,PD1965,Y50,#
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,#
 V2002A,mob,vivo,vivo,,PD2019,Y51s,#5G
@@ -4863,6 +4869,8 @@ V2199A,mob,vivo,vivo,,PD2199,iQOO Neo6 SE,#
 V2231A,mob,vivo,vivo,,PD2231,iQOO Neo7,#
 V2232A,mob,vivo,vivo,,PD2232,iQOO Neo7 竞速版,#
 V2238A,mob,vivo,vivo,,PD2238,iQOO Neo7 SE,#
+V2301A,mob,vivo,vivo,,PD2301,iQOO Neo8,#
+V2302A,mob,vivo,vivo,,PD2302,iQOO Neo8 Pro,#
 V1986A,mob,vivo,vivo,,PD1986,iQOO Z1,#
 V2012A,mob,vivo,vivo,,PD2012,iQOO Z1x,#
 V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
