@@ -315,6 +315,10 @@
 
 `RMX3511` `RMX3512` `RMX3513`: realme C35
 
+**realme C53:**
+
+`RMX3760`: realme C53
+
 **realme C55:**
 
 `RMX3710`: realme C55
