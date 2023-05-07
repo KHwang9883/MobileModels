@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-07
+- `realme_global_en` Add realme 11 Pro+.
 ## 2023-05-03
 - `huawei_global_en` Add HUAWEI P60, nova 11i.
 - `oneplus_en` Add OnePlus Pad.
