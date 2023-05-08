@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-08
+- `huawei_global_en` Add HUAWEI Mate X3.
 ## 2023-05-07
 - `realme_global_en` Add realme 11 Pro+, realme C53.
 ## 2023-05-03

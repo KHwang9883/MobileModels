@@ -135,6 +135,10 @@
 
 `PAL-LX9` `PAL-L29`: HUAWEI Mate Xs 2
 
+**HUAWEI Mate X3:**
+
+`ALT-L29`: HUAWEI Mate X3
+
 ## HUAWEI P Series
 
 **HUAWEI Ascend P6:**
