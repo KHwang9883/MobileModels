@@ -401,7 +401,7 @@
 
 **HUAWEI nova 11i:**
 
-`MAO-LX9`: HUAWEI nova 11i
+`MAO-LX9` `MAO-LX9N`: HUAWEI nova 11i
 
 **HUAWEI nova Y60 (`Wukong`):**
 
