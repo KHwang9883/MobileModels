@@ -147,6 +147,26 @@
 
 `GFE4J`: Pixel 7 Pro (Japan)
 
+**Pixel 7a (`lynx`):**
+
+`G0DZQ`: Pixel 7a (mmWave)
+
+`GWKK3`: Pixel 7a (North America, EU)
+
+`GHL1X`: Pixel 7a (Global)
+
+`G82U8`: Pixel 7a (Japan)
+
+**Pixel Fold:**
+
+`G9FPL`: Pixel Fold (US, EU)
+
+`G0B96`: Pixel Fold (Japan)
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C
+
+**Pixel Tablet:**
+
+`GTU8P`: Pixel Tablet

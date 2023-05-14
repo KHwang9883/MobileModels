@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-14
+- `google_en` Add Pixel 7a, Pixel Fold & Tablet.
 ## 2023-05-08
 - `huawei_global_en` Add HUAWEI Mate X3.
 ## 2023-05-07
