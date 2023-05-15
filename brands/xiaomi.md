@@ -954,7 +954,7 @@
 
 `22071219AI`: Redmi 11 Prime 印度版
 
-**Redmi 12C (`earth`):**
+**[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86C`: Redmi 12C 全网通版
 
@@ -964,7 +964,7 @@
 
 `2212ARNC4L`: Redmi 12C 拉美版
 
-**Redmi 12C (`aether`):**
+**[`C3TN`] Redmi 12C (`aether`):**
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
 
@@ -1338,7 +1338,7 @@
 
 `22095RA98C`: Redmi Note 11R 5G 全网通版
 
-**Redmi Note 12 (`tapas`):**
+**[`M7`] Redmi Note 12 (`tapas`):**
 
 `23021RAAEG`: Redmi Note 12 国际版
 
@@ -1346,7 +1346,7 @@
 
 `23028RA60L`: Redmi Note 12 拉美版
 
-**Redmi Note 12 (`topaz`):**
+**[`M7N`] Redmi Note 12 (`topaz`):**
 
 `23021RAA2Y`: Redmi Note 12 国际版 (NFC)
 
@@ -1358,13 +1358,13 @@
 
 `22111317I`: Redmi Note 12 5G 印度版
 
-**Redmi Note 12S (`sea`):**
+**[`K7SR`] Redmi Note 12S (`sea`):**
 
 `2303CRA44A`: Redmi Note 12S 国际版
 
 `2303ERA42L`: Redmi Note 12S 拉美版
 
-**Redmi Note 12S (`ocean`):**
+**[`K7SR`] Redmi Note 12S (`ocean`):**
 
 `23030RAC7Y`: Redmi Note 12S 国际版 (NFC)
 
@@ -1764,7 +1764,7 @@
 
 `2302EPCC4I`: POCO C51 印度版
 
-**POCO C55 (`earth`):**
+**[`C3TP`] POCO C55 (`earth`):**
 
 `22127PC95G` `22127PC95H`: POCO C55 国际版
 

@@ -5404,12 +5404,12 @@ M2010J19SL,mob,xiaomi,小米,J19S,pomelo,Redmi 9T,#拉美版
 220233L2I,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,#印度版
 220233L2I,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,#Sport 印度版
 22071219AI,mob,xiaomi,小米,L19A,rock,Redmi 11 Prime,#印度版
-22120RN86C,mob,xiaomi,小米,,earth,Redmi 12C,#全网通版
-22120RN86G,mob,xiaomi,小米,,earth,Redmi 12C,#国际版
-22120RN86H,mob,xiaomi,小米,,earth,Redmi 12C,#国际版
-22120RN86I,mob,xiaomi,小米,,earth,Redmi 12C,#印度版
-2212ARNC4L,mob,xiaomi,小米,,earth,Redmi 12C,#拉美版
-22126RN91Y,mob,xiaomi,小米,,aether,Redmi 12C,#国际版 (NFC)
+22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,#全网通版
+22120RN86G,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
+22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
+22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
+2212ARNC4L,mob,xiaomi,小米,C3T,earth,Redmi 12C,#拉美版
+22126RN91Y,mob,xiaomi,小米,C3TN,aether,Redmi 12C,#国际版 (NFC)
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,#移动 3G 标准版
@@ -5545,17 +5545,17 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,#全网通版
 22041216UC,mob,xiaomi,小米,L16U,xagapro,Redmi Note 11T Pro,#全网通版
 22095RA98C,mob,xiaomi,小米,L19P,light,Redmi Note 11R,#5G 全网通版
-23021RAAEG,mob,xiaomi,小米,,tapas,Redmi Note 12,#国际版
-23027RAD4I,mob,xiaomi,小米,,tapas,Redmi Note 12,#印度版
-23028RA60L,mob,xiaomi,小米,,tapas,Redmi Note 12,#拉美版
-23021RAA2Y,mob,xiaomi,小米,,topaz,Redmi Note 12,#国际版 (NFC)
+23021RAAEG,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#国际版
+23027RAD4I,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#印度版
+23028RA60L,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#拉美版
+23021RAA2Y,mob,xiaomi,小米,M7N,topaz,Redmi Note 12,#国际版 (NFC)
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#全网通版
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#全网通版
 22111317G,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#国际版
 22111317I,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#印度版
-2303CRA44A,mob,xiaomi,小米,,sea,Redmi Note 12S,#国际版
-2303ERA42L,mob,xiaomi,小米,,sea,Redmi Note 12S,#拉美版
-23030RAC7Y,mob,xiaomi,小米,,ocean,Redmi Note 12S,#国际版 (NFC)
+2303CRA44A,mob,xiaomi,小米,K7SR,sea,Redmi Note 12S,#国际版
+2303ERA42L,mob,xiaomi,小米,K7SR,sea,Redmi Note 12S,#拉美版
+23030RAC7Y,mob,xiaomi,小米,K7SR,ocean,Redmi Note 12S,#国际版 (NFC)
 2209116AG,mob,xiaomi,小米,K6A,sweet,Redmi Note 12 Pro,#国际版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#全网通版
 22101316G,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 国际版
@@ -5679,9 +5679,9 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 2305EPCC4G,mob,xiaomi,小米,,water,POCO C51,#国际版
 2302EPCC4H,mob,xiaomi,小米,,water,POCO C51,#国际版
 2302EPCC4I,mob,xiaomi,小米,,water,POCO C51,#印度版
-22127PC95G,mob,xiaomi,小米,,earth,POCO C55,#国际版
-22127PC95H,mob,xiaomi,小米,,earth,POCO C55,#国际版
-22127PC95I,mob,xiaomi,小米,,earth,POCO C55,#印度版
+22127PC95G,mob,xiaomi,小米,C3TP,earth,POCO C55,#国际版
+22127PC95H,mob,xiaomi,小米,C3TP,earth,POCO C55,#国际版
+22127PC95I,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 FYJ01QP,watch,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
 21051191C,watch,xiaomi,小米,K91,,CyberDog 仿生四足机器人,#
@@ -5998,12 +5998,12 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19S,pomelo,Redmi 9T,#Latin America
 220233L2I,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,#Sport India
 220233L2C,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,#China
 22071219AI,mob,xiaomi,Xiaomi,L19A,rock,Redmi 11 Prime,#India
-22120RN86G,mob,xiaomi,Xiaomi,,earth,Redmi 12C,#Global
-22120RN86H,mob,xiaomi,Xiaomi,,earth,Redmi 12C,#Global
-22120RN86I,mob,xiaomi,Xiaomi,,earth,Redmi 12C,#India
-22120RN86C,mob,xiaomi,Xiaomi,,earth,Redmi 12C,#China
-2212ARNC4L,mob,xiaomi,Xiaomi,,earth,Redmi 12C,#Latin America
-22126RN91Y,mob,xiaomi,Xiaomi,,aether,Redmi 12C,#Global (NFC)
+22120RN86G,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
+22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
+22120RN86I,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
+22120RN86C,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
+2212ARNC4L,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Latin America
+22126RN91Y,mob,xiaomi,Xiaomi,C3TN,aether,Redmi 12C,#Global (NFC)
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,#TD-SCDMA (1GB RAM)
@@ -6138,17 +6138,17 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22041216C,mob,xiaomi,Xiaomi,L16,xaga,Redmi Note 11T Pro,#5G China
 22041216UC,mob,xiaomi,Xiaomi,L16U,xagapro,Redmi Note 11T Pro,#5G China
 22095RA98C,mob,xiaomi,Xiaomi,L19P,light,Redmi Note 11R,#5G China
-23021RAAEG,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#Global
-23027RAD4I,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#India
-23028RA60L,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#Latin America
-23021RAA2Y,mob,xiaomi,Xiaomi,,topaz,Redmi Note 12,#Global (NFC)
+23021RAAEG,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#Global
+23027RAD4I,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#India
+23028RA60L,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#Latin America
+23021RAA2Y,mob,xiaomi,Xiaomi,M7N,topaz,Redmi Note 12,#Global (NFC)
 22111317G,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#Global
 22111317I,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#India
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#China
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#China
-2303CRA44A,mob,xiaomi,Xiaomi,,sea,Redmi Note 12S,#Global
-2303ERA42L,mob,xiaomi,Xiaomi,,sea,Redmi Note 12S,#Latin America
-23030RAC7Y,mob,xiaomi,Xiaomi,,ocean,Redmi Note 12S,#Global (NFC)
+2303CRA44A,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Global
+2303ERA42L,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Latin America
+23030RAC7Y,mob,xiaomi,Xiaomi,K7SR,ocean,Redmi Note 12S,#Global (NFC)
 2209116AG,mob,xiaomi,Xiaomi,K6A,sweet,Redmi Note 12 Pro,#Global
 22101316G,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#Global
 22101316I,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#India
@@ -6270,9 +6270,9 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 2305EPCC4G,mob,xiaomi,Xiaomi,,water,POCO C51,#Global
 2302EPCC4H,mob,xiaomi,Xiaomi,,water,POCO C51,#Global
 2302EPCC4I,mob,xiaomi,Xiaomi,,water,POCO C51,#India
-22127PC95G,mob,xiaomi,Xiaomi,,earth,POCO C55,#Global
-22127PC95H,mob,xiaomi,Xiaomi,,earth,POCO C55,#Global
-22127PC95I,mob,xiaomi,Xiaomi,,earth,POCO C55,#India
+22127PC95G,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#Global
+22127PC95H,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#Global
+22127PC95I,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,#
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,#
 MCE91,pad,xiaomi,Xiaomi,C9,cappu,Mi Pad 3,#
