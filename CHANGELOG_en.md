@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-15
+- `xiaomi_en` Add internal names for several devices.
 ## 2023-05-14
 - `google_en` Add Pixel 7a, Pixel Fold & Tablet.
 ## 2023-05-08

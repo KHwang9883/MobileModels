@@ -879,7 +879,7 @@
 
 `22071219AI`: Redmi 11 Prime India
 
-**Redmi 12C (`earth`):**
+**[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86G` `22120RN86H`: Redmi 12C Global
 
@@ -889,7 +889,7 @@
 
 `2212ARNC4L`: Redmi 12C Latin America
 
-**Redmi 12C (`aether`):**
+**[`C3TN`] Redmi 12C (`aether`):**
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
@@ -1255,7 +1255,7 @@
 
 `22095RA98C`: Redmi Note 11R 5G China
 
-**Redmi Note 12 (`tapas`):**
+**[`M7`] Redmi Note 12 (`tapas`):**
 
 `23021RAAEG`: Redmi Note 12 Global
 
@@ -1263,7 +1263,7 @@
 
 `23028RA60L`: Redmi Note 12 Latin America
 
-**Redmi Note 12 (`topaz`):**
+**[`M7N`] Redmi Note 12 (`topaz`):**
 
 `23021RAA2Y`: Redmi Note 12 Global (NFC)
 
@@ -1275,13 +1275,13 @@
 
 `22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
 
-**Redmi Note 12S (`sea`):**
+**[`K7SR`] Redmi Note 12S (`sea`):**
 
 `2303CRA44A`: Redmi Note 12S Global
 
 `2303ERA42L`: Redmi Note 12S Latin America
 
-**Redmi Note 12S (`ocean`):**
+**[`K7SR`] Redmi Note 12S (`ocean`):**
 
 `23030RAC7Y`: Redmi Note 12S Global (NFC)
 
@@ -1667,7 +1667,7 @@
 
 `2302EPCC4I`: POCO C51 India
 
-**POCO C55 (`earth`):**
+**[`C3TP`] POCO C55 (`earth`):**
 
 `22127PC95G` `22127PC95H`: POCO C55 Global
 
