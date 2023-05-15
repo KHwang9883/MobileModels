@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2023-05-15
+- `oppo_global_en` Add OPPO F23 5G.
 - `xiaomi_en` Add internal names for several devices.
 ## 2023-05-14
 - `google_en` Add Pixel 7a, Pixel Fold & Tablet.

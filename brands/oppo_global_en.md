@@ -291,6 +291,8 @@
 
 `CPH2481`: OPPO F23
 
+`CPH2527`: OPPO F23 5G
+
 ## R series
 
 **OPPO R15:**
