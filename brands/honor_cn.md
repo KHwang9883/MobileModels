@@ -1198,6 +1198,10 @@
 
 `BRN-G561`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
 
+**荣耀 MagicBook Z3 14 2023:**
+
+`FRI-F56Z`: 荣耀 MagicBook Z3 14 2023 i5
+
 **荣耀猎人游戏本 V700:**
 
 `FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB)
