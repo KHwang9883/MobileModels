@@ -796,13 +796,13 @@
 
 **荣耀平板 V6 (`Karajan`):**
 
-`KRJ-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
+`KRJ-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (华为终端)
 
-`KRJ-AN00`: 荣耀平板 V6 10.4 英寸 5G 版
+`KRJ-AN00`: 荣耀平板 V6 10.4 英寸 5G 版 (华为终端)
 
 **荣耀平板 V6 (`KarajanR`):**
 
-`KJR-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
+`KJR-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (荣耀终端)
 
 **荣耀平板 6 (`Agassi3`):**
 
@@ -990,15 +990,15 @@
 
 **荣耀 MagicBook 14 2021 (`NobelD`):**
 
-`NbD-WFH9HN`: 荣耀 MagicBook 14 2021 i5 
+`NbD-WFH9HN`: 荣耀 MagicBook 14 2021 i5 (华为终端)
 
-`NbD-WFE9HN`: 荣耀 MagicBook 14 2021 i7
+`NbD-WFE9HN`: 荣耀 MagicBook 14 2021 i7 (华为终端)
 
 **荣耀 MagicBook 14 2021 (`NobelDR`):**
 
-`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 
+`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 (荣耀终端)
 
-`NDR-WFE9HN`: 荣耀 MagicBook 14 2021 i7
+`NDR-WFE9HN`: 荣耀 MagicBook 14 2021 i7 (荣耀终端)
 
 **荣耀 MagicBook 14 SE 2021 (`NobelLR`):**
 
@@ -1066,15 +1066,15 @@
 
 **荣耀 MagicBook 15 2021 (`BohrD`):**
 
-`BoD-WFH9HN`: 荣耀 MagicBook 15 2021 i5
+`BoD-WFH9HN`: 荣耀 MagicBook 15 2021 i5 (华为终端)
 
-`BoD-WFE9HN`: 荣耀 MagicBook 15 2021 i7
+`BoD-WFE9HN`: 荣耀 MagicBook 15 2021 i7 (华为终端)
 
 **荣耀 MagicBook 15 2021 (`BohrDR`):**
 
-`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5
+`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5 (荣耀终端)
 
-`BDR-WFE9HN`: 荣耀 MagicBook 15 2021 i7
+`BDR-WFE9HN`: 荣耀 MagicBook 15 2021 i7 (荣耀终端)
 
 **荣耀 MagicBook 15 2021 锐龙版 (`BohrMH`):**
 
@@ -1116,15 +1116,15 @@
 
 **荣耀 MagicBook Pro 2020 (`HalleyL`):**
 
-`HLYL-WFQ9`: 荣耀 MagicBook Pro 2020 R5
+`HLYL-WFQ9`: 荣耀 MagicBook Pro 2020 R5 (华为终端)
 
-`HLYL-WFP9`: 荣耀 MagicBook Pro 2020 R7
+`HLYL-WFP9`: 荣耀 MagicBook Pro 2020 R7 (华为终端)
 
 **荣耀 MagicBook Pro 2020 (`HalleyLR`):**
 
-`HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5
+`HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5 (荣耀终端)
 
-`HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7
+`HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7 (荣耀终端)
 
 **荣耀 MagicBook 16 (`HalleyM`):**
 
@@ -1204,11 +1204,15 @@
 
 **荣耀猎人游戏本 V700:**
 
-`FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB)
+`FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB) (华为终端)
 
-`FRD-WFG9` `FRR-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB)
+`FRD-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB) (华为终端)
 
-`FRD-WFD9` `FRR-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB)
+`FRD-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB) (华为终端)
+
+`FRR-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB) (荣耀终端)
+
+`FRR-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB) (荣耀终端)
 
 ## 荣耀智慧屏
 
@@ -1263,6 +1267,96 @@
 `HN65BYRA`: 荣耀智慧屏 X3i 65 英寸
 
 `HN75BYRA`: 荣耀智慧屏 X3i 75 英寸
+
+## 荣耀穿戴设备
+
+**荣耀手表魔法系列:**
+
+`TLS-B19`: 荣耀手表魔法系列
+
+**HONOR MagicWatch 2:**
+
+`HBE-B19`: HONOR MagicWatch 2 42mm (华为终端)
+
+`HBE-B39`: HONOR MagicWatch 2 42mm (荣耀终端)
+
+`MNS-B19`: HONOR MagicWatch 2 46mm (华为终端)
+
+`MNS-B39`: HONOR MagicWatch 2 46mm (荣耀终端)
+
+**荣耀手表 ES:**
+
+`HES-B19`: 荣耀手表 ES (华为终端)
+
+`HES-B59`: 荣耀手表 ES (荣耀终端)
+
+**荣耀手表 GS Pro:**
+
+`KAN-B19`: 荣耀手表 GS Pro (华为终端)
+
+`KAN-B39`: 荣耀手表 GS Pro (荣耀终端)
+
+**荣耀手表 GS 3:**
+
+`MUS-B19`: 荣耀手表 GS 3
+
+**荣耀手表 GS 3i:**
+
+`MNS-B39`: 荣耀手表 GS 3i
+
+**荣耀手环 3:**
+
+`NYX-B10HN`: 荣耀手环 3 标准版
+
+`NYX-B20HN`: 荣耀手环 3 NFC 版
+
+**荣耀手环 4 (`Crius`):**
+
+`CRS-B19`: 荣耀手环 4 标准版
+
+`CRS-B29`: 荣耀手环 4 NFC 版
+
+**荣耀手环 4 Running 版:**
+
+`AW70-B19HN`: 荣耀手环 4 Running 版
+
+**荣耀手环 5 (`Crius`):**
+
+`CRS-B19S`: 荣耀手环 5 标准版 (华为终端)
+
+`CRS-B29S`: 荣耀手环 5 NFC 版 (华为终端)
+
+`CRS-B39`: 荣耀手环 5 标准版 (荣耀终端)
+
+`CRS-B59`: 荣耀手环 5 NFC 版 (荣耀终端)
+
+**荣耀手环 5i:**
+
+`ADS-B19`: 荣耀手环 5i
+
+**荣耀手环 5 篮球版:**
+
+`AW70-B39HN`: 荣耀手环 5 篮球版
+
+**荣耀手环 6:**
+
+`ARG-B19`: 荣耀手环 6 标准版 (华为终端)
+
+`ARG-B29`: 荣耀手环 6 NFC 版 (华为终端)
+
+`ARG-B39`: 荣耀手环 6 标准版 (荣耀终端)
+
+`ARG-B59`: 荣耀手环 6 NFC 版 (荣耀终端)
+
+**荣耀手环 7:**
+
+`FLA-B19`: 荣耀手环 7 标准版
+
+`FLA-B39`: 荣耀手环 7 NFC 版
+
+**荣耀观影眼镜:**
+
+`CGN-A00`: 荣耀观影眼镜
 
 ## 荣耀独立前产品 
 

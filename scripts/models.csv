@@ -1383,9 +1383,9 @@ AGS2-AL00HN,pad,honor,荣耀,,Agassi2,荣耀平板 5,#10.1 英寸 全网通版
 JDN2-W09HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 Wi-Fi 版
 JDN2-AL00HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 全网通版
 JDN-AL50HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 全网通版
-KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,#10.4 英寸 Wi-Fi 版
-KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,#10.4 英寸 5G 版
-KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,#10.4 英寸 Wi-Fi 版
+KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,#10.4 英寸 Wi-Fi 版 (华为终端)
+KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,#10.4 英寸 5G 版 (华为终端)
+KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,#10.4 英寸 Wi-Fi 版 (荣耀终端)
 AGS3-W09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,#10.1 英寸 Wi-Fi 版
 AGS3-AL09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,#10.1 英寸 全网通版
 AGR-W09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,#9.7 英寸 Wi-Fi 版
@@ -1448,10 +1448,10 @@ Nbl-WAQ9HNL,computer,honor,荣耀,,NobelK,荣耀 MagicBook 14,#科技尝鲜版 R
 Nbl-WAP9HNL,computer,honor,荣耀,,NobelK,荣耀 MagicBook 14,#科技尝鲜版 R7
 NblL-WFQ9HN,computer,honor,荣耀,,NobelL,荣耀 MagicBook 14 2020,#R5
 NblL-WFP9HN,computer,honor,荣耀,,NobelL,荣耀 MagicBook 14 2020,#R7
-NbD-WFH9HN,computer,honor,荣耀,,NobelD,荣耀 MagicBook 14 2021,#i5
-NbD-WFE9HN,computer,honor,荣耀,,NobelD,荣耀 MagicBook 14 2021,#i7
-NDR-WFH9HN,computer,honor,荣耀,,NobelDR,荣耀 MagicBook 14 2021,#i5
-NDR-WFE9HN,computer,honor,荣耀,,NobelDR,荣耀 MagicBook 14 2021,#i7
+NbD-WFH9HN,computer,honor,荣耀,,NobelD,荣耀 MagicBook 14 2021,#i5 (华为终端)
+NbD-WFE9HN,computer,honor,荣耀,,NobelD,荣耀 MagicBook 14 2021,#i7 (华为终端)
+NDR-WFH9HN,computer,honor,荣耀,,NobelDR,荣耀 MagicBook 14 2021,#i5 (荣耀终端)
+NDR-WFE9HN,computer,honor,荣耀,,NobelDR,荣耀 MagicBook 14 2021,#i7 (荣耀终端)
 NLR-WAQ9HNRP,computer,honor,荣耀,,NobelLR,荣耀 MagicBook 14 SE 2021,#R5
 NLR-WAQ9HNR,computer,honor,荣耀,,NobelLR,荣耀 MagicBook 14 SE 2021,#R5
 NMH-WDQ9HN,computer,honor,荣耀,,NobelMH,荣耀 MagicBook 14 2021 锐龙版,#R5 (8GB+256GB/8GB+512GB)
@@ -1475,10 +1475,10 @@ Boh-WAP9HNL,computer,honor,荣耀,,BohrK,荣耀 MagicBook 15,#科技尝鲜版 R7
 BohL-WDQ9HN,computer,honor,荣耀,,BohrL,荣耀 MagicBook 15 2020,#R5 (8GB+256GB)
 BohL-WFQ9HN,computer,honor,荣耀,,BohrL,荣耀 MagicBook 15 2020,#R5 (16GB+512GB)
 BohL-WFP9HN,computer,honor,荣耀,,BohrL,荣耀 MagicBook 15 2020,#R7
-BoD-WFH9HN,computer,honor,荣耀,,BohrD,荣耀 MagicBook 15 2021,#i5
-BoD-WFE9HN,computer,honor,荣耀,,BohrD,荣耀 MagicBook 15 2021,#i7
-BDR-WFH9HN,computer,honor,荣耀,,BohrDR,荣耀 MagicBook 15 2021,#i5
-BDR-WFE9HN,computer,honor,荣耀,,BohrDR,荣耀 MagicBook 15 2021,#i7
+BoD-WFH9HN,computer,honor,荣耀,,BohrD,荣耀 MagicBook 15 2021,#i5 (华为终端)
+BoD-WFE9HN,computer,honor,荣耀,,BohrD,荣耀 MagicBook 15 2021,#i7 (华为终端)
+BDR-WFH9HN,computer,honor,荣耀,,BohrDR,荣耀 MagicBook 15 2021,#i5 (荣耀终端)
+BDR-WFE9HN,computer,honor,荣耀,,BohrDR,荣耀 MagicBook 15 2021,#i7 (荣耀终端)
 BMH-WDQ9HN,computer,honor,荣耀,,BohrMH,荣耀 MagicBook 15 2021 锐龙版,#R5 (8GB+256GB)
 BMH-WFQ9HN,computer,honor,荣耀,,BohrMH,荣耀 MagicBook 15 2021 锐龙版,#R5 (16GB+512GB)
 BMH-WFP9HN,computer,honor,荣耀,,BohrMH,荣耀 MagicBook 15 2021 锐龙版,#R7
@@ -1494,10 +1494,10 @@ HLY-W19RLP,computer,honor,荣耀,,HalleyK,荣耀 MagicBook Pro,#科技尝鲜版 
 HLY-W29RL,computer,honor,荣耀,,HalleyK,荣耀 MagicBook Pro,#科技尝鲜版 R7
 HBB-WAH9PHNL,computer,honor,荣耀,,,荣耀 MagicBook Pro 2020,#i5
 HBB-WAE9PHNL,computer,honor,荣耀,,,荣耀 MagicBook Pro 2020,#i7
-HLYL-WFQ9,computer,honor,荣耀,,HalleyL,荣耀 MagicBook Pro 2020,#R5
-HLYL-WFP9,computer,honor,荣耀,,HalleyL,荣耀 MagicBook Pro 2020,#R7
-HYLR-WDQ9,computer,honor,荣耀,,HalleyLR,荣耀 MagicBook Pro 2020,#R5
-HYLR-WFP9,computer,honor,荣耀,,HalleyLR,荣耀 MagicBook Pro 2020,#R7
+HLYL-WFQ9,computer,honor,荣耀,,HalleyL,荣耀 MagicBook Pro 2020,#R5 (华为终端)
+HLYL-WFP9,computer,honor,荣耀,,HalleyL,荣耀 MagicBook Pro 2020,#R7 (华为终端)
+HYLR-WDQ9,computer,honor,荣耀,,HalleyLR,荣耀 MagicBook Pro 2020,#R5 (荣耀终端)
+HYLR-WFP9,computer,honor,荣耀,,HalleyLR,荣耀 MagicBook Pro 2020,#R7 (荣耀终端)
 HYM-W56,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16,#2021 R5
 HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16,#2021 R7
 HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16 Pro,#2021 R7
@@ -1522,11 +1522,11 @@ BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2022,#i5
 BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+512GB)
 BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
 FRI-F56Z,computer,honor,荣耀,,,荣耀 MagicBook Z3 14 2023,#i5
-FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB)
-FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB)
-FRR-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB)
-FRD-WFD9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i7 (16GB+512GB)
-FRR-WFD9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i7 (16GB+512GB)
+FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB) (华为终端)
+FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB) (华为终端)
+FRD-WFD9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i7 (16GB+512GB) (华为终端)
+FRR-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB) (荣耀终端)
+FRR-WFD9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i7 (16GB+512GB) (荣耀终端)
 OSCA-550A,tv,honor,荣耀,,Oscar,荣耀智慧屏,#55 英寸 (2GB+16GB)
 OSCA-550AX,tv,honor,荣耀,,Oscar,荣耀智慧屏,#55 英寸 (4GB+32GB)
 OSCA-550,tv,honor,荣耀,,Oscar,荣耀智慧屏 PRO,#55 英寸 (2GB+32GB)
@@ -1549,6 +1549,35 @@ HN65DNTS,tv,honor,荣耀,,,荣耀智慧屏 X3,#65 英寸
 HN55BYRA,tv,honor,荣耀,,,荣耀智慧屏 X3i,#55 英寸
 HN65BYRA,tv,honor,荣耀,,,荣耀智慧屏 X3i,#65 英寸
 HN75BYRA,tv,honor,荣耀,,,荣耀智慧屏 X3i,#75 英寸
+TLS-B19,watch,honor,荣耀,,,荣耀手表魔法系列,#
+HBE-B19,watch,honor,荣耀,,,HONOR MagicWatch 2,#42mm (华为终端)
+HBE-B39,watch,honor,荣耀,,,HONOR MagicWatch 2,#42mm (荣耀终端)
+MNS-B19,watch,honor,荣耀,,,HONOR MagicWatch 2,#46mm (华为终端)
+MNS-B39,watch,honor,荣耀,,,HONOR MagicWatch 2,#46mm (荣耀终端)
+HES-B19,watch,honor,荣耀,,,荣耀手表 ES,#华为终端
+HES-B59,watch,honor,荣耀,,,荣耀手表 ES,#荣耀终端
+KAN-B19,watch,honor,荣耀,,,荣耀手表 GS Pro,#华为终端
+KAN-B39,watch,honor,荣耀,,,荣耀手表 GS Pro,#荣耀终端
+MUS-B19,watch,honor,荣耀,,,荣耀手表 GS 3,#
+MNS-B39,watch,honor,荣耀,,,荣耀手表 GS 3i,#
+NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,#标准版
+NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,#NFC 版
+CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,#标准版
+CRS-B29,band,honor,荣耀,,Crius,荣耀手环 4,#NFC 版
+AW70-B19HN,band,honor,荣耀,,,荣耀手环 4 Running 版,#
+CRS-B19S,band,honor,荣耀,,Crius,荣耀手环 5,#标准版 (华为终端)
+CRS-B29S,band,honor,荣耀,,Crius,荣耀手环 5,#NFC 版 (华为终端)
+CRS-B39,band,honor,荣耀,,Crius,荣耀手环 5,#标准版 (荣耀终端)
+CRS-B59,band,honor,荣耀,,Crius,荣耀手环 5,#NFC 版 (荣耀终端)
+ADS-B19,band,honor,荣耀,,,荣耀手环 5i,#
+AW70-B39HN,band,honor,荣耀,,,荣耀手环 5 篮球版,#
+ARG-B19,band,honor,荣耀,,,荣耀手环 6,#标准版 (华为终端)
+ARG-B29,band,honor,荣耀,,,荣耀手环 6,#NFC 版 (华为终端)
+ARG-B39,band,honor,荣耀,,,荣耀手环 6,#标准版 (荣耀终端)
+ARG-B59,band,honor,荣耀,,,荣耀手环 6,#NFC 版 (荣耀终端)
+FLA-B19,band,honor,荣耀,,,荣耀手环 7,#标准版
+FLA-B39,band,honor,荣耀,,,荣耀手环 7,#NFC 版
+CGN-A00,band,honor,荣耀,,,荣耀观影眼镜,#
 HUAWEI U8860,mob,honor,荣耀,,,华为荣耀手机,Honor 联通版
 HUAWEI C8860E,mob,honor,荣耀,,,华为荣耀手机,Honor 电信版
 HUAWEI T8950,mob,honor,荣耀,,,华为荣耀手机,Honor+ 移动版
@@ -2400,6 +2429,7 @@ AW70-B29,band,huawei,华为,,,华为手环 3e,#
 ADS-B29,band,huawei,华为,,,华为手环 4,#
 TER-B29S,band,huawei,华为,,Terra,华为手环 4 Pro,#
 AW70-B39,band,huawei,华为,,,华为手环 4e,#
+AW70-B49,band,huawei,华为,,,华为手环 4e,#活力版
 FRA-B19,band,huawei,华为,,,华为手环 6,#标准版
 FRA-B29,band,huawei,华为,,,华为手环 6,#NFC 版
 FRA-B39,band,huawei,华为,,,华为手环 6 Pro,#
