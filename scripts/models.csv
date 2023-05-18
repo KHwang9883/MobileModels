@@ -2004,6 +2004,7 @@ CTR-AL00,mob,huawei,华为,,Cartier,华为畅享 50 Pro,#
 EVE-AL00,mob,huawei,华为,,Eevee,华为畅享 50z,#
 MGA-AL40,mob,huawei,华为,,Mega,华为畅享 60,#
 STG-AL00,mob,huawei,华为,,,华为畅享 60X,#
+MAO-AL00,mob,huawei,华为,,,华为畅享 60 Pro,#
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版
@@ -2057,6 +2058,8 @@ WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 全网�
 WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
 WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
 WGRR-AN19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 全网通版
+DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
+DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
@@ -2141,6 +2144,8 @@ MACHD-WFE9Q,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro 2021,#i7
 MRG-W56,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro 2022,#i5
 MRG-W76,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro 2022,#i7
 MRGF-16,computer,huawei,华为,,MorganF,HUAWEI MateBook X Pro 2022,#12 代酷睿版
+MRGFG-16,computer,huawei,华为,,MorganFG,HUAWEI MateBook X Pro 2023,#16GB 内存
+MRGFG-32,computer,huawei,华为,,MorganFG,HUAWEI MateBook X Pro 2023,#32GB 内存
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i7
@@ -2183,13 +2188,17 @@ KLVD-WFE9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i7 (16GB+512G
 KLVL-W56W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R5
 KLVL-W76W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R7
 KLVF-16,computer,huawei,华为,,KelvinF,HUAWEI MateBook 14 2022,#
+KLVG-16,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,#
 HKD-W58,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (8GB+512GB)
 HKD-W56,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (16GB+512GB)
 HKD-W76,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i7 (16GB+512GB/1TB)
-HKF-16,computer,huawei,华为,,HookeF,HUAWEI MateBook 14s,#2022
+HKF-16,computer,huawei,华为,,HookeF,HUAWEI MateBook 14s 2022,#
+HKFG-16,computer,huawei,华为,,HookeFG,HUAWEI MateBook 14s 2023,#
 CREM-WFG9,computer,huawei,华为,,CurieM,HUAWEI MateBook 16,#R5
 CREM-WFD9,computer,huawei,华为,,CurieM,HUAWEI MateBook 16,#R7
 CREF-16,computer,huawei,华为,,CurieF,HUAWEI MateBook 16s,#
+CREFG-16,computer,huawei,华为,,CurieFG,HUAWEI MateBook 16s 2023,#16GB 内存
+CREFG-32,computer,huawei,华为,,CurieFG,HUAWEI MateBook 16s 2023,#32GB 内存
 PL-W09,computer,huawei,华为,,Pascal,HUAWEI MateBook D,#i5 集显
 PL-W19,computer,huawei,华为,,Pascal,HUAWEI MateBook D,#i5 独显
 PL-W29,computer,huawei,华为,,Pascal,HUAWEI MateBook D,#i7
@@ -2243,9 +2252,11 @@ RLEG-16,computer,huawei,华为,,RolleG,HUAWEI MateBook D 16,#2023
 BL-W09,computer,huawei,华为,,,HUAWEI MateBook E,#i3
 BL-W19,computer,huawei,华为,,,HUAWEI MateBook E,#i5
 PAK-AL09,computer,huawei,华为,,Planck,HUAWEI MateBook E (2019),#
-DRC-W58,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2021,#i5 (8GB+256GB)
-DRC-W56,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2021,#i5 (16GB+512GB)
-DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2021,#i7 (16GB+512GB)
+DRC-W58,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i5 (8GB+256GB)
+DRC-W56,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i5 (16GB+512GB)
+DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i7 (16GB+512GB)
+DRR-W56,computer,huawei,华为,,DiracR,HUAWEI MateBook E 2023,#i5
+DRR-W76,computer,huawei,华为,,DiracR,HUAWEI MateBook E 2023,#i7
 GK-G58,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (8GB+256GB)
 GK-G56,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (16GB+512GB)
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#性能版 Wi-Fi
@@ -2334,6 +2345,8 @@ HD75FRUC,tv,huawei,华为,,,华为 Vision 智慧屏,#Z75 电竞版
 HD65MILA,tv,huawei,华为,,,华为 Vision 智慧屏,#65
 HD75MILA,tv,huawei,华为,,,华为 Vision 智慧屏,#75
 HD86KHAA,tv,huawei,华为,,,华为 Vision 智慧屏,#86
+HD65QINA,tv,huawei,华为,,,华为 Vision 智慧屏 3,#65
+HD75QINA,tv,huawei,华为,,,华为 Vision 智慧屏 3,#75
 HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-500
 HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-600
 HD55KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-510
@@ -2341,6 +2354,75 @@ HD65KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-610
 HEGE-550AX,tv,huawei,华为,,,华为智慧屏 B 系列,#7-500
 HEGE-550X,tv,huawei,华为,,,华为智慧屏 B 系列,#7-510
 BLM-00,pad,huawei,华为,,,华为小精灵学习智慧屏 / 华为智慧屏便携版 / 华为全屋智能中控屏（桌面版）,#
+Leo-B09,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#蓝牙版
+Leo-B19,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#Classic
+Leo-L00E,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#2018
+Leo-L09S,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#4G
+Leo-L19E,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#Pro
+LEO-DLXXU,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#Smartwatch
+GLL-AL00,watch,huawei,华为,,,HUAWEI WATCH 3,#
+GLL-AL30,watch,huawei,华为,,,HUAWEI WATCH 3,#
+GLL-AL01,watch,huawei,华为,,,HUAWEI WATCH 3 Pro,#
+GLL-AL08,watch,huawei,华为,,,HUAWEI WATCH 3 Pro new,#时尚款
+GLL-AL09,watch,huawei,华为,,,HUAWEI WATCH 3 Pro new,#尊享款
+ARC-AL00,watch,huawei,华为,,,HUAWEI WATCH 4,#
+MDS-AL00,watch,huawei,华为,,,HUAWEI WATCH 4 Pro,#
+MDS-AL10,watch,huawei,华为,,,HUAWEI WATCH 4 Pro,#
+CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#
+ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
+FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
+DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#42mm
+LTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#46mm
+HCT-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2e,#
+VID-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2 Pro,#
+VID-B99,watch,huawei,华为,,,HUAWEI WATCH GT 2 Pro,#ECG
+MIL-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3,#42mm
+JPT-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3,#46mm
+FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#43mm
+ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#46mm
+FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro 典藏版,#
+ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 保时捷设计,#
+RUN-B19,watch,huawei,华为,,,HUAWEI WATCH GT Runner,#
+OCF-B29,watch,huawei,华为,,,HUAWEI WATCH GT 2022 典藏版,#
+AND-B19,watch,huawei,华为,,,HUAWEI WATCH GT Cyber,#
+TIA-B19,watch,huawei,华为,,,HUAWEI WATCH FIT,#
+TIA-B29,watch,huawei,华为,,,HUAWEI WATCH FIT,#
+YDA-B09S,watch,huawei,华为,,,HUAWEI WATCH FIT 2,#
+YDA-B19S,watch,huawei,华为,,,HUAWEI WATCH FIT 2,#
+YDA-B19V,watch,huawei,华为,,,HUAWEI WATCH FIT 2,#
+MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,#
+MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,#
+SGA-B19,watch,huawei,华为,,,HUAWEI WATCH Buds,#
+ERS-B29,band,huawei,华为,,,华为运动手环,#
+TER-B09,band,huawei,华为,,Terra,华为手环 3,#
+TER-B29,band,huawei,华为,,Terra,华为手环 3 Pro,#
+AW70-B29,band,huawei,华为,,,华为手环 3e,#
+ADS-B29,band,huawei,华为,,,华为手环 4,#
+TER-B29S,band,huawei,华为,,Terra,华为手环 4 Pro,#
+AW70-B39,band,huawei,华为,,,华为手环 4e,#
+FRA-B19,band,huawei,华为,,,华为手环 6,#标准版
+FRA-B29,band,huawei,华为,,,华为手环 6,#NFC 版
+FRA-B39,band,huawei,华为,,,华为手环 6 Pro,#
+LEA-B19,band,huawei,华为,,,华为手环 7,#标准版
+LEA-B29,band,huawei,华为,,,华为手环 7,#NFC 版
+ASK-B19,band,huawei,华为,,,华为手环 8,#标准版
+ASK-B29,band,huawei,华为,,,华为手环 8,#NFC 版
+GMN-BX9,band,huawei,华为,,Gemini,华为手环 B3,#
+GRU-B09,band,huawei,华为,,,华为手环 B3 青春版,#
+JNS-BX9,band,huawei,华为,,Janus,华为手环 B5,#
+FDS-B19,band,huawei,华为,,,华为手环 B6,#
+SIM-AL00,watch,huawei,华为,,Simba,华为儿童手表 3 Pro,#
+NEO-AL10,watch,huawei,华为,,Nemo,华为儿童手表 3s,#
+ALX-AL10,watch,huawei,华为,,Alex,华为儿童手表 3X,#
+ASN-AL10,watch,huawei,华为,,,华为儿童手表 4 Pro,#
+NIK-AL00,watch,huawei,华为,,,华为儿童手表 4X,#
+KTY-L10,watch,huawei,华为,,,华为儿童手表 5,#
+ALA-AL10,watch,huawei,华为,,,华为儿童手表 5X,#
+AHP-AL10,watch,huawei,华为,,,华为儿童手表 5X Pro,#
+CMG0-PER,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear,#
+FIJ-CG020,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear II,#
+EVI-CG010,watch,huawei,华为,,,华为智能眼镜,#
+ALI-CG01,watch,huawei,华为,,,HUAWEI Vision Glass,#
 HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,#
 HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,#XL
 HUAWEI U9510,mob,huawei,华为,,,华为 Ascend D1,#四核
