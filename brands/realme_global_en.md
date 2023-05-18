@@ -407,7 +407,7 @@
 
 **realme Narzo N55:**
 
-`RMX3711`: realme Narzo N55
+`RMX3710`: realme Narzo N55
 
 ## GT series
 
