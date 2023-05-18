@@ -3616,6 +3616,19 @@ CPH2487,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,1#印度版
 PHP110,mob,oneplus,一加,,vitamin,一加 Ace 2V,#全网通版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
+DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
+DN2103,mob,oneplus,一加,,denniz,OnePlus Nord 2,#欧洲版
+CPH2399,mob,oneplus,一加,,karen,OnePlus Nord 2T,#国际版
+CPH2401,mob,oneplus,一加,,karen,OnePlus Nord 2T,#印度版
+CPH2491,mob,oneplus,一加,,vitamin,OnePlus Nord 3,#印度版
+CPH2493,mob,oneplus,一加,,vitamin,OnePlus Nord 3,#欧洲版
+EB2101,mob,oneplus,一加,,ebba,OnePlus Nord CE,#印度版
+EB2103,mob,oneplus,一加,,ebba,OnePlus Nord CE,#欧洲版/国际版
+IV2201,mob,oneplus,一加,,ivan,OnePlus Nord CE 2,#印度版
+CPH2381,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#印度版
+CPH2409,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#欧洲版/国际版
+CPH2465,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#国际版
+CPH2467,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#印度版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
 BE2026,mob,oneplus,一加,,billie8,OnePlus Nord N10,#北美版
 BE2029,mob,oneplus,一加,,billie8,OnePlus Nord N10,#欧洲版/国际版
@@ -3632,17 +3645,6 @@ CPH2515,mob,oneplus,一加,,,OnePlus Nord N30,#
 DE2117,mob,oneplus,一加,,dre9,OnePlus Nord N200,#北美版
 DE2118,mob,oneplus,一加,,dre8t,OnePlus Nord N200,#T-Mobile 版
 CPH2389,mob,oneplus,一加,,,OnePlus Nord N300,#
-EB2101,mob,oneplus,一加,,ebba,OnePlus Nord CE,#印度版
-EB2103,mob,oneplus,一加,,ebba,OnePlus Nord CE,#欧洲版/国际版
-DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
-DN2103,mob,oneplus,一加,,denniz,OnePlus Nord 2,#欧洲版
-CPH2399,mob,oneplus,一加,,karen,OnePlus Nord 2T,#国际版
-CPH2401,mob,oneplus,一加,,karen,OnePlus Nord 2T,#印度版
-IV2201,mob,oneplus,一加,,ivan,OnePlus Nord CE 2,#印度版
-CPH2381,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#印度版
-CPH2409,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#欧洲版/国际版
-CPH2465,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#国际版
-CPH2467,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#印度版
 OPD2203,pad,oneplus,一加,,,OnePlus Pad,#
 ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
 ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
@@ -3737,6 +3739,19 @@ CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#India
 PHP110,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
+DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
+DN2103,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#EU
+CPH2399,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#Global
+CPH2401,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#India
+CPH2491,mob,oneplus,OnePlus,,vitamin,OnePlus Nord 3,#India
+CPH2493,mob,oneplus,OnePlus,,vitamin,OnePlus Nord 3,#EU
+EB2101,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#India
+EB2103,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#EU / Global
+IV2201,mob,oneplus,OnePlus,,ivan,OnePlus Nord CE 2,#India
+CPH2381,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#India
+CPH2409,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#EU / Global
+CPH2465,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#Global
+CPH2467,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#India
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
 BE2026,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#North America
 BE2029,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#EU / Global
@@ -3753,17 +3768,6 @@ CPH2515,mob,oneplus,OnePlus,,,OnePlus Nord N30,#
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,#North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,#T-Mobile
 CPH2389,mob,oneplus,OnePlus,,,OnePlus Nord N300,#
-EB2101,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#India
-EB2103,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#EU / Global
-DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#5G India
-DN2103,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#5G EU
-CPH2399,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#Global
-CPH2401,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#India
-IV2201,mob,oneplus,OnePlus,,ivan,OnePlus Nord CE 2,#India
-CPH2381,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#India
-CPH2409,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#EU / Global
-CPH2465,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#Global
-CPH2467,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#India
 OPD2203,pad,oneplus,OnePlus,,,OnePlus Pad,#
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,#标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,#标准版 移动版

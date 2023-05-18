@@ -268,6 +268,46 @@
 
 `AC2003`: OnePlus Nord 欧洲版/国际版
 
+**OnePlus Nord 2 (`denniz`):**
+
+`DN2101`: OnePlus Nord 2 印度版
+
+`DN2103`: OnePlus Nord 2 欧洲版
+
+**OnePlus Nord 2T (`karen`):**
+
+`CPH2399`: OnePlus Nord 2T 国际版
+
+`CPH2401`: OnePlus Nord 2T 印度版
+
+**OnePlus Nord 3 (`vitamin`):**
+
+`CPH2491`: OnePlus Nord 3 印度版
+
+`CPH2493`: OnePlus Nord 3 欧洲版
+
+**OnePlus Nord CE (`ebba`):**
+
+`EB2101`: OnePlus Nord CE 印度版
+
+`EB2103`: OnePlus Nord CE 欧洲版/国际版
+
+**OnePlus Nord CE 2 (`ivan`):**
+
+`IV2201`: OnePlus Nord CE 2 印度版
+
+**OnePlus Nord CE 2 Lite (`oscar`):**
+
+`CPH2381`: OnePlus Nord CE 2 Lite 印度版
+
+`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
+
+**OnePlus Nord CE 3 Lite:**
+
+`CPH2465`: OnePlus Nord CE 3 Lite 国际版
+
+`CPH2467`: OnePlus Nord CE 3 Lite 印度版
+
 **OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro 版
@@ -313,40 +353,6 @@
 **OnePlus Nord N300:**
 
 `CPH2389`: OnePlus Nord N300
-
-**OnePlus Nord CE (`ebba`):**
-
-`EB2101`: OnePlus Nord CE 印度版
-
-`EB2103`: OnePlus Nord CE 欧洲版/国际版
-
-**OnePlus Nord 2 (`denniz`):**
-
-`DN2101`: OnePlus Nord 2 印度版
-
-`DN2103`: OnePlus Nord 2 欧洲版
-
-**OnePlus Nord 2T (`karen`):**
-
-`CPH2399`: OnePlus Nord 2T 国际版
-
-`CPH2401`: OnePlus Nord 2T 印度版
-
-**OnePlus Nord CE 2 (`ivan`):**
-
-`IV2201`: OnePlus Nord CE 2 印度版
-
-**OnePlus Nord CE 2 Lite (`oscar`):**
-
-`CPH2381`: OnePlus Nord CE 2 Lite 印度版
-
-`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
-
-**OnePlus Nord CE 3 Lite:**
-
-`CPH2465`: OnePlus Nord CE 3 Lite 国际版
-
-`CPH2467`: OnePlus Nord CE 3 Lite 印度版
 
 **OnePlus Pad:**
 
