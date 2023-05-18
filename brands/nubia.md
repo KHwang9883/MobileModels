@@ -245,3 +245,11 @@
 **nubia N3:**
 
 `NX608J` `NX617J`: nubia N3
+
+**nubia N5:**
+
+`NX301J`: nubia N5
+
+**nubia Pad 3D:**
+
+`LPD-20W`: nubia Pad 3D
