@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-18
+- `oneplus_en` Add OnePlus Nord 3.
 ## 2023-05-15
 - `oppo_global_en` Add OPPO F23 5G.
 - `xiaomi_en` Add internal names for several devices.
