@@ -206,6 +206,14 @@
 
 `PGW110`: OPPO Reno9 Pro+
 
+**OPPO Reno10:**
+
+`PHW110`: OPPO Reno10
+
+**OPPO Reno10 Pro:**
+
+`PHV110`: OPPO Reno10 Pro
+
 **OPPO Reno10 Pro+:**
 
 `PHU110`: OPPO Reno10 Pro+
@@ -430,9 +438,9 @@
 
 `PHQ110`: OPPO A1 Pro
 
-**OPPO A1x:**
+**OPPO A1x / OPPO A1 活力版:**
 
-`PHJ110`: OPPO A1x
+`PHJ110`: OPPO A1x / OPPO A1 活力版
 
 ## K 系列
 
@@ -487,6 +495,10 @@
 **OPPO K10x:**
 
 `PGGM10`: OPPO K10x
+
+**OPPO K11x:**
+
+`PHF110`: OPPO K11x
 
 ## 平板电脑
 
