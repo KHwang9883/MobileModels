@@ -1002,9 +1002,11 @@
 
 **荣耀 MagicBook 14 SE 2021 (`NobelLR`):**
 
-`NLR-WAQ9HNRP`: 荣耀 MagicBook 14 SE 2021 R5
+`NLR-WAQ9HNR`: 荣耀 MagicBook 14 SE 2021 R5 (8GB+256GB)
 
-`NLR-WAQ9HNR`: 荣耀 MagicBook 14 SE 2021 R5
+`Nbl-WAQ9HNRP`: 荣耀 MagicBook 14 SE 2021 R5 (16GB+512GB)
+
+`NIR-WAP9HNRP`: 荣耀 MagicBook 14 SE 2021 R7
 
 **荣耀 MagicBook 14 2021 锐龙版 (`NobelMH`):**
 
