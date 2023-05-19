@@ -162,9 +162,9 @@
 
 `V2241A`: vivo X90
 
-**vivo X90S (`PD2241`):**
+**vivo X90s (`PD2241`):**
 
-`V2241HA`: vivo X90S
+`V2241HA`: vivo X90s
 
 **vivo X90 Pro (`PD2242`):**
 
@@ -889,3 +889,7 @@
 **vivo Pad2 (`DPD2221`):**
 
 `PA2373`: vivo Pad2
+
+**iQOO Pad:**
+
+`iPA2375`: iQOO Pad

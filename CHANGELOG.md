@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-05-20
 - `oppo_cn` 新增 Reno10 系列, K11x, A1 活力版。
+- `vivo_cn` 新增 iQOO Pad。
 ## 2023-05-19
 - `nubia` 新增 nubia N5, nubia Pad 3D。
 ## 2023-05-18
