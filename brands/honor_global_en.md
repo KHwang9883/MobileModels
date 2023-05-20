@@ -263,7 +263,7 @@
 
 **HONOR X8a 5G:**
 
-`RBN-NX1` `RBN-NX3`: HONOR X8a 5G
+`RBN-NX3`: HONOR X8a 5G
 
 **HONOR X9 (`Andy`):**
 
