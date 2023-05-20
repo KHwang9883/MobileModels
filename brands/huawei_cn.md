@@ -881,7 +881,7 @@
 
 `MAO-AL00`: 华为畅享 60 Pro
 
-## 平板电脑
+## 华为平板 M 系列
 
 **华为 MediaPad M1:**
 
@@ -975,15 +975,17 @@
 
 `SCM-AL09`: 华为平板 M6 10.8 英寸 全网通版
 
+## HUAWEI MatePad Pro 系列
+
 **HUAWEI MatePad Pro (`Marx`):**
 
 `MRX-W09` `MRX-W29`: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
 
-`MRX-AL09`: HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)
+`MRX-AL09`: HUAWEI MatePad Pro 10.8 英寸 4G 全网通版 (6GB+128GB/8GB+256GB)
 
 `MRX-W19` `MRX-W39`: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
 
-`MRX-AL19`: HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)
+`MRX-AL19`: HUAWEI MatePad Pro 10.8 英寸 4G 全网通版 (8GB+512GB)
 
 `MRX-AN19`: HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
 
@@ -1005,19 +1007,13 @@
 
 `WGR-W09` `WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版
 
-`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2021 全网通版
+`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2021 5G 全网通版
 
 **HUAWEI MatePad Pro 12.6 (`WagnerR`):**
 
 `WGRR-W09` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版
 
-`WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2022 全网通版
-
-**HUAWEI MatePad Air (`Debussy2`):**
-
-`DBY2-W00`: HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
-
-`DBY2-AL00`: HUAWEI MatePad Air 11.5 英寸 全网通版
+## HUAWEI MatePad 系列
 
 **HUAWEI MatePad (`Bach3`):**
 
@@ -1029,6 +1025,14 @@
 
 `BAH3-AN10`: HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
 
+**HUAWEI MatePad (`Bach4`):**
+
+`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
+
+`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+
+`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
+
 **HUAWEI MatePad 10.8 (`SchumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
@@ -1039,37 +1043,21 @@
 
 `DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
-**HUAWEI MatePad (`Bach4`):**
-
-`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
-
-`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
-
-`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
-
 **HUAWEI MatePad 11 2023 (`DebussyR`):**
 
 `DBR-W00`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 
 `DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
 
-**HUAWEI MatePad Paper (`Hemingway`):**
+## HUAWEI MatePad Air 系列
 
-`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+**HUAWEI MatePad Air (`Debussy2`):**
 
-`HMW-AL10`: HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版
+`DBY2-W00`: HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
 
-**HUAWEI MatePad SE (`Agassi3K`):**
+`DBY2-AL00`: HUAWEI MatePad Air 11.5 英寸 全网通版
 
-`AGS3K-W20`: HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
-
-`AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
-
-**HUAWEI MatePad SE 10.4 (`Agassi5`):**
-
-`AGS5-W00`: HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
-
-`AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
+## HUAWEI MatePad SE 和畅享平板系列
 
 **华为畅享平板 (`Agassi2`):**
 
@@ -1086,6 +1074,28 @@
 `AGS3K-W00` `AGS3K-W10`: 华为畅享平板 2 10.1 英寸 Wi-Fi 版
 
 `AGS3-AL00` `AGS3K-AL00`: 华为畅享平板 2 10.1 英寸 全网通版
+
+**HUAWEI MatePad SE (`Agassi3K`):**
+
+`AGS3K-W20`: HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
+
+`AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
+
+**HUAWEI MatePad SE 10.4 (`Agassi5`):**
+
+`AGS5-W00`: HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
+
+`AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
+
+## HUAWEI MatePad Paper 系列
+
+**HUAWEI MatePad Paper (`Hemingway`):**
+
+`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+
+`HMW-AL10`: HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版
+
+## 华为商用平板
 
 **华为平板 C3 (`Kobe`):**
 
@@ -1377,21 +1387,21 @@
 
 `PL-W29`: HUAWEI MateBook D i7
 
-**HUAWEI MateBook D (2018) (`MarconiC`):**
+**HUAWEI MateBook D 2018 (`MarconiC`):**
 
-`MRC-W00`: HUAWEI MateBook D (2018) i3 集显
+`MRC-W00`: HUAWEI MateBook D 2018 i3 集显
 
-`MRC-W10BR`: HUAWEI MateBook D (2018) i5 集显
+`MRC-W10BR`: HUAWEI MateBook D 2018 i5 集显
 
-`MRC-W50`: HUAWEI MateBook D (2018) i5 独显
+`MRC-W50`: HUAWEI MateBook D 2018 i5 独显
 
-`MRC-W50R`: HUAWEI MateBook D (2018) i5 独显 (8GB+512GB)
+`MRC-W50R`: HUAWEI MateBook D 2018 i5 独显 (8GB+512GB)
 
-`MRC-W60`: HUAWEI MateBook D (2018) i7 独显
+`MRC-W60`: HUAWEI MateBook D 2018 i7 独显
 
-`MRC-W60R`: HUAWEI MateBook D (2018) i7 独显 (8GB+512GB)
+`MRC-W60R`: HUAWEI MateBook D 2018 i7 独显 (8GB+512GB)
 
-`MRC-W70`: HUAWEI MateBook D (2018) i3 集显
+`MRC-W70`: HUAWEI MateBook D 2018 i3 集显
 
 **HUAWEI MateBook D 14 (`NobelK`):**
 
@@ -1517,9 +1527,9 @@
 
 `BL-W19`: HUAWEI MateBook E i5
 
-**HUAWEI MateBook E (2019) (`Planck`):**
+**HUAWEI MateBook E 2019 (`Planck`):**
 
-`PAK-AL09`: HUAWEI MateBook E (2019)
+`PAK-AL09`: HUAWEI MateBook E 2019
 
 **HUAWEI MateBook E 2022 (`Dirac`):**
 

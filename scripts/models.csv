@@ -2070,10 +2070,10 @@ SCM-W09,pad,huawei,华为,,Schumann,华为平板 M6,#10.8 英寸 Wi-Fi 版
 SCM-AL09,pad,huawei,华为,,Schumann,华为平板 M6,#10.8 英寸 全网通版
 MRX-W09,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
 MRX-W29,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
-MRX-AL09,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)
+MRX-AL09,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 4G 全网通版 (6GB+128GB/8GB+256GB)
 MRX-W19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (8GB+256GB)
 MRX-W39,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (8GB+256GB)
-MRX-AL19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 全网通版 (8GB+512GB)
+MRX-AL19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 4G 全网通版 (8GB+512GB)
 MRX-AN19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 5G 全网通版
 MRR-W29,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8,#英寸 2021 Wi-Fi 版
 MRR-W39,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8,#英寸 2021 Wi-Fi 版
@@ -2083,32 +2083,25 @@ GOT-AL09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 全�
 GOT-AL19,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 全网通版 (12GB+512GB)
 WGR-W09,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
 WGR-W19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
-WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 全网通版
+WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 5G 全网通版
 WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
 WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
-WGRR-AN19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 全网通版
-DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
-DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
 BAH3-AN10,pad,huawei,华为,,Bach3,HUAWEI MatePad,#5G 10.4 英寸 全网通版 (麒麟 820)
-SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 Wi-Fi 版
-SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 全网通版
-DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11,#英寸 Wi-Fi 版
 BAH4-W09,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W29,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W39,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
+SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 Wi-Fi 版
+SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 全网通版
+DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11,#英寸 Wi-Fi 版
 DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 2023,#英寸 2023 Wi-Fi 版
 DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 2023,#英寸 2023 柔光版 Wi-Fi 版
-HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
-HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
-AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
-AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通版
-AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 Wi-Fi 版
-AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 全网通版
+DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
+DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
 AGS2-W09,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 Wi-Fi 版
 AGS2-AL00,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 全网通版
 AGS3-W00D,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版 (4GB+64GB)
@@ -2117,6 +2110,12 @@ AGS3K-W00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版
 AGS3K-W10,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版
 AGS3-AL00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 全网通版
 AGS3K-AL00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 全网通版
+AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
+AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通版
+AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 Wi-Fi 版
+AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 全网通版
+HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
+HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
 BZK-W00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
 BZK-L00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享版) 8 英寸 LTE 版
 BZA-W00,pad,huawei,华为,,Agassi,华为平板 C3,#(华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
@@ -2231,13 +2230,13 @@ CREFG-32,computer,huawei,华为,,CurieFG,HUAWEI MateBook 16s 2023,#32GB 内存
 PL-W09,computer,huawei,华为,,Pascal,HUAWEI MateBook D,#i5 集显
 PL-W19,computer,huawei,华为,,Pascal,HUAWEI MateBook D,#i5 独显
 PL-W29,computer,huawei,华为,,Pascal,HUAWEI MateBook D,#i7
-MRC-W00,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i3 集显
-MRC-W10BR,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i5 集显
-MRC-W50,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i5 独显
-MRC-W50R,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i5 独显 (8GB+512GB)
-MRC-W60,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i7 独显
-MRC-W60R,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i7 独显 (8GB+512GB)
-MRC-W70,computer,huawei,华为,,MarconiC,HUAWEI MateBook D (2018),#i3 集显
+MRC-W00,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i3 集显
+MRC-W10BR,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i5 集显
+MRC-W50,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i5 独显
+MRC-W50R,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i5 独显 (8GB+512GB)
+MRC-W60,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i7 独显
+MRC-W60R,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i7 独显 (8GB+512GB)
+MRC-W70,computer,huawei,华为,,MarconiC,HUAWEI MateBook D 2018,#i3 集显
 Nbl-WAQ9R,computer,huawei,华为,,NobelK,HUAWEI MateBook D 14,#R5
 Nbl-WAQ9RP,computer,huawei,华为,,NobelK,HUAWEI MateBook D 14,#R5 (16GB+512GB)
 Nbl-WAQ9L,computer,huawei,华为,,NobelK,HUAWEI MateBook D 14,#R5 Linux 版
@@ -2280,7 +2279,7 @@ RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#SE
 RLEG-16,computer,huawei,华为,,RolleG,HUAWEI MateBook D 16,#2023
 BL-W09,computer,huawei,华为,,,HUAWEI MateBook E,#i3
 BL-W19,computer,huawei,华为,,,HUAWEI MateBook E,#i5
-PAK-AL09,computer,huawei,华为,,Planck,HUAWEI MateBook E (2019),#
+PAK-AL09,computer,huawei,华为,,Planck,HUAWEI MateBook E 2019,#
 DRC-W58,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i5 (8GB+256GB)
 DRC-W56,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i5 (16GB+512GB)
 DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i7 (16GB+512GB)
