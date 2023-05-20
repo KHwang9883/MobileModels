@@ -419,6 +419,10 @@
 
 `CTR-LX1` `CTR-LX2` `CTR-LX3`: HUAWEI nova Y90
 
+**HUAWEI nova Y91:**
+
+`STG-LX1` `STG-LX2`: HUAWEI nova Y91
+
 ## HUAWEI Y Series
 
 **HUAWEI Y5 Prime 2018 (`Dura`):**
