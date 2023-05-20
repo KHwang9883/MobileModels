@@ -1,6 +1,6 @@
 # HUAWEI Global Mobile Phone Models
 
-- Range: HUAWEI Mate, P, nova & Y series (excluding Chinese models)
+- Range: HUAWEI Mate, P, nova & Y series, MediaPad & MatePad series (excluding Chinese models)
 - Codename: ✅
 
 ## HUAWEI Mate Series
@@ -369,6 +369,10 @@
 
 `CDY-NX9`: HUAWEI nova 7 SE 5G
 
+**HUAWEI nova 8 (`Angela`):**
+
+`ANG-LX1` `ANG-LX2`: HUAWEI nova 8
+
 **HUAWEI nova 8i (`Neumann`):**
 
 `NEN-LX1` `NEN-L22` `NEN-LX3`: HUAWEI nova 8i
@@ -544,3 +548,169 @@
 `STK-L21`: HUAWEI Y9s Single SIM
 
 `STK-L21` `STK-L22` `STK-LX3`: HUAWEI Y9s Dual SIM
+
+## HUAWEI Tablets
+
+**HUAWEI MediaPad 7 Youth:**
+
+`S7-701u`: HUAWEI MediaPad 7 Youth
+
+**HUAWEI MediaPad 10 Link+:**
+
+`S10-231L`: HUAWEI MediaPad 10 Link+
+
+**HUAWEI MediaPad M3 (`Beethoven`):**
+
+`BTV-W09`: HUAWEI MediaPad M3 Wi-Fi
+
+`BTV-DL09`: HUAWEI MediaPad M3 LTE
+
+**HUAWEI MediaPad M3 lite 8 (`Chopin`):**
+
+`CPN-W09`: HUAWEI MediaPad M3 lite 8 Wi-Fi
+
+`CPN-L09`: HUAWEI MediaPad M3 lite 8 LTE
+
+**HUAWEI MediaPad M3 lite 10 (`Bach`):**
+
+`BAH-W09`: HUAWEI MediaPad M3 lite 10 Wi-Fi
+
+`BAH-L09`: HUAWEI MediaPad M3 lite 10 LTE
+
+**HUAWEI MediaPad M5 8.4 (`Schubert`):**
+
+`SHT-W09`: HUAWEI MediaPad M5 8.4 Wi-Fi
+
+`SHT-AL09`: HUAWEI MediaPad M5 8.4 LTE
+
+**HUAWEI MediaPad M5 10.8 (`Cameron`):**
+
+`CMR-W09`: HUAWEI MediaPad M5 10.8 Wi-Fi
+
+`CMR-AL09`: HUAWEI MediaPad M5 10.8 LTE
+
+**HUAWEI MediaPad M5 Pro (`Cameron`):**
+
+`CMR-W19`: HUAWEI MediaPad M5 Pro Wi-Fi
+
+`CMR-AL19`: HUAWEI MediaPad M5 Pro LTE
+
+**HUAWEI MediaPad M5 lite (`Bach2`):**
+
+`BAH2-W19`: HUAWEI MediaPad M5 lite Wi-Fi
+
+`BAH2-L09`: HUAWEI MediaPad M5 lite LTE
+
+**HUAWEI MediaPad M6 10.8 (`Schumann`):**
+
+`SCM-W09`: HUAWEI MediaPad M6 10.8 Wi-Fi
+
+`SCM-AL09`: HUAWEI MediaPad M6 10.8 LTE
+
+**HUAWEI MatePad (`Bach3`):**
+
+`BAH3-W09`: HUAWEI MatePad 10.4 Wi-Fi
+
+`BAH3-L09`: HUAWEI MatePad 10.4 LTE
+
+**HUAWEI MatePad (`Bach4`):**
+
+`BAH4-W09`: HUAWEI MatePad 10.4 2022 Wi-Fi
+
+`BAH4-L09`: HUAWEI MatePad 10.4 2022 LTE
+
+**HUAWEI MatePad 11 (`Debussy`):**
+
+`DBY-W09`: HUAWEI MatePad 11 Wi-Fi
+
+**HUAWEI MatePad 11 2023 (`DebussyR`):**
+
+`DBR-W09`: HUAWEI MatePad 11 2023 Wi-Fi
+
+**HUAWEI MatePad Air (`Debussy2`):**
+
+`DBY2-W09`: HUAWEI MatePad Air Wi-Fi
+
+`DBY2-L09`: HUAWEI MatePad Air LTE
+
+**HUAWEI MatePad Pro (`Marx`):**
+
+`MRX-W09` `MRX-W29`: HUAWEI MatePad Pro 10.8 Wi-Fi
+
+`MRX-AL09`: HUAWEI MatePad Pro 10.8 LTE
+
+`MRX-AN19`: HUAWEI MatePad Pro 10.8 5G
+
+**HUAWEI MatePad Pro 11 (`Goethe`):**
+
+`GOT-W29`: HUAWEI MatePad Pro 11 Wi-Fi
+
+`GOT-AL09`: HUAWEI MatePad Pro 11 LTE
+
+**HUAWEI MatePad Pro 12.6 2021 (`Wagner`):**
+
+`WGR-W09` `WGR-W19`: HUAWEI MatePad Pro 12.6 2021 Wi-Fi
+
+**HUAWEI MatePad Pro 12.6 2022 (`WagnerR`):**
+
+`WGRR-W09`: HUAWEI MatePad Pro 12.6 2022 Wi-Fi
+
+**HUAWEI MatePad Paper (`Hemingway`):**
+
+`HMW-W09`: HUAWEI MatePad Paper Wi-Fi
+
+**HUAWEI MediaPad T2 7.0 (`Baggio`):**
+
+`BGO-L03` `BGO-DL09`: HUAWEI MediaPad T2 7.0 LTE
+
+**HUAWEI MediaPad T2 10.0 Pro:**
+
+`FDR-A01L`: HUAWEI MediaPad T2 10.0 Pro LTE
+
+**HUAWEI MediaPad T3 7 (`Baggio2`):**
+
+`BG2-W09`: HUAWEI MediaPad T3 7 Wi-Fi
+
+`BG2-U01` `BG2-U03`: HUAWEI MediaPad T3 7 3G
+
+**HUAWEI MediaPad T3 8 (`Kobe`):**
+
+`KOB-W09`: HUAWEI MediaPad T3 8 Wi-Fi
+
+`KOB-L09`: HUAWEI MediaPad T3 8 LTE
+
+**HUAWEI MediaPad T3 10 (`Agassi`):**
+
+`AGS-W09`: HUAWEI MediaPad T3 10 Wi-Fi
+
+`AGS-L03` `AGS-L09`: HUAWEI MediaPad T3 10 LTE
+
+**HUAWEI MediaPad T5 (`Agassi2`):**
+
+`AGS2-W09` `AGS2-W19`: HUAWEI MediaPad T5 Wi-Fi
+
+`AGS2-L03` `AGS2-L09`: HUAWEI MediaPad T5 LTE
+
+**HUAWEI MatePad T 8 (`Kobe2`):**
+
+`KOB2-W09` `KOB2K-W09`: HUAWEI MatePad T 8 Wi-Fi
+
+`KOB2-L03` `KOB2-L09` `KOB2K-L09`: HUAWEI MatePad T 8 LTE
+
+**HUAWEI MatePad T 10 (`AgassiR`):**
+
+`AGR-W09` `AGRK-W09`: HUAWEI MatePad T 10 Wi-Fi
+
+`AGR-L09` `AGRK-W09`: HUAWEI MatePad T 10 LTE
+
+**HUAWEI MatePad T 10s (`Agassi3`):**
+
+`AGS3-W09` `AGS3K-W09`: HUAWEI MatePad T 10s Wi-Fi
+
+`AGS3-L09` `AGS3K-L09`: HUAWEI MatePad T 10s LTE
+
+**HUAWEI MatePad SE (`Agassi5`):**
+
+`AGS5-W09`: HUAWEI MatePad SE 10.4 Wi-Fi
+
+`AGS5-L09`: HUAWEI MatePad SE 10.4 LTE

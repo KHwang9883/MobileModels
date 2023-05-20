@@ -2637,6 +2637,8 @@ YAL-L21,mob,huawei,HUAWEI,,Yale,HUAWEI nova 5T,#
 YAL-L41,mob,huawei,HUAWEI,,Yale,HUAWEI nova 5T,#Pro
 JNY-LX1,mob,huawei,HUAWEI,,Jenny,HUAWEI nova 7i,#Dual SIM
 CDY-NX9,mob,huawei,HUAWEI,,CindyN,HUAWEI nova 7 SE,#5G
+ANG-LX1,mob,huawei,HUAWEI,,Angela,HUAWEI nova 8,#
+ANG-LX2,mob,huawei,HUAWEI,,Angela,HUAWEI nova 8,#
 NEN-LX1,mob,huawei,HUAWEI,,Neumann,HUAWEI nova 8i,#
 NEN-L22,mob,huawei,HUAWEI,,Neumann,HUAWEI nova 8i,#
 NEN-LX3,mob,huawei,HUAWEI,,Neumann,HUAWEI nova 8i,#
@@ -2733,6 +2735,72 @@ STK-L21,mob,huawei,HUAWEI,,Stark,HUAWEI Y9s,#Single SIM
 STK-L21,mob,huawei,HUAWEI,,Stark,HUAWEI Y9s,#Dual SIM
 STK-L22,mob,huawei,HUAWEI,,Stark,HUAWEI Y9s,#Dual SIM
 STK-LX3,mob,huawei,HUAWEI,,Stark,HUAWEI Y9s,#Dual SIM
+S7-701u,pad,huawei,HUAWEI,,,HUAWEI MediaPad 7 Youth,#
+S10-231L,pad,huawei,HUAWEI,,,HUAWEI MediaPad 10 Link,#
+BTV-W09,pad,huawei,HUAWEI,,Beethoven,HUAWEI MediaPad M3,#Wi-Fi
+BTV-DL09,pad,huawei,HUAWEI,,Beethoven,HUAWEI MediaPad M3,#LTE
+CPN-W09,pad,huawei,HUAWEI,,Chopin,HUAWEI MediaPad M3 lite 8,#Wi-Fi
+CPN-L09,pad,huawei,HUAWEI,,Chopin,HUAWEI MediaPad M3 lite 8,#LTE
+BAH-W09,pad,huawei,HUAWEI,,Bach,HUAWEI MediaPad M3 lite 10,#Wi-Fi
+BAH-L09,pad,huawei,HUAWEI,,Bach,HUAWEI MediaPad M3 lite 10,#LTE
+SHT-W09,pad,huawei,HUAWEI,,Schubert,HUAWEI MediaPad M5 8.4,#Wi-Fi
+SHT-AL09,pad,huawei,HUAWEI,,Schubert,HUAWEI MediaPad M5 8.4,#LTE
+CMR-W09,pad,huawei,HUAWEI,,Cameron,HUAWEI MediaPad M5 10.8,#Wi-Fi
+CMR-AL09,pad,huawei,HUAWEI,,Cameron,HUAWEI MediaPad M5 10.8,#LTE
+CMR-W19,pad,huawei,HUAWEI,,Cameron,HUAWEI MediaPad M5 Pro,#Wi-Fi
+CMR-AL19,pad,huawei,HUAWEI,,Cameron,HUAWEI MediaPad M5 Pro,#LTE
+BAH2-W19,pad,huawei,HUAWEI,,Bach2,HUAWEI MediaPad M5 lite,#Wi-Fi
+BAH2-L09,pad,huawei,HUAWEI,,Bach2,HUAWEI MediaPad M5 lite,#LTE
+SCM-W09,pad,huawei,HUAWEI,,Schumann,HUAWEI MediaPad M6 10.8,#Wi-Fi
+SCM-AL09,pad,huawei,HUAWEI,,Schumann,HUAWEI MediaPad M6 10.8,#LTE
+BAH3-W09,pad,huawei,HUAWEI,,Bach3,HUAWEI MatePad,#10.4 Wi-Fi
+BAH3-L09,pad,huawei,HUAWEI,,Bach3,HUAWEI MatePad,#10.4 LTE
+BAH4-W09,pad,huawei,HUAWEI,,Bach4,HUAWEI MatePad,#10.4 2022 Wi-Fi
+BAH4-L09,pad,huawei,HUAWEI,,Bach4,HUAWEI MatePad,#10.4 2022 LTE
+DBY-W09,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad 11,#Wi-Fi
+DBR-W09,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,#Wi-Fi
+DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#Wi-Fi
+DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#LTE
+MRX-W09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 Wi-Fi
+MRX-W29,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 Wi-Fi
+MRX-AL09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 LTE
+MRX-AN19,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 5G
+GOT-W29,pad,huawei,HUAWEI,,Goethe,HUAWEI MatePad Pro 11,#Wi-Fi
+GOT-AL09,pad,huawei,HUAWEI,,Goethe,HUAWEI MatePad Pro 11,#LTE
+WGR-W09,pad,huawei,HUAWEI,,Wagner,HUAWEI MatePad Pro 12.6 2021,#Wi-Fi
+WGR-W19,pad,huawei,HUAWEI,,Wagner,HUAWEI MatePad Pro 12.6 2021,#Wi-Fi
+WGRR-W09,pad,huawei,HUAWEI,,WagnerR,HUAWEI MatePad Pro 12.6 2022,#Wi-Fi
+HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,#Wi-Fi
+BGO-L03,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,#LTE
+BGO-DL09,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,#LTE
+FDR-A01L,pad,huawei,HUAWEI,,,HUAWEI MediaPad T2 10.0 Pro,#LTE
+BG2-W09,pad,huawei,HUAWEI,,Baggio2,HUAWEI MediaPad T3 7,#Wi-Fi
+BG2-U01,pad,huawei,HUAWEI,,Baggio2,HUAWEI MediaPad T3 7,#3G
+BG2-U03,pad,huawei,HUAWEI,,Baggio2,HUAWEI MediaPad T3 7,#3G
+KOB-W09,pad,huawei,HUAWEI,,Kobe,HUAWEI MediaPad T3 8,#Wi-Fi
+KOB-L09,pad,huawei,HUAWEI,,Kobe,HUAWEI MediaPad T3 8,#LTE
+AGS-W09,pad,huawei,HUAWEI,,Agassi,HUAWEI MediaPad T3 10,#Wi-Fi
+AGS-L03,pad,huawei,HUAWEI,,Agassi,HUAWEI MediaPad T3 10,#LTE
+AGS-L09,pad,huawei,HUAWEI,,Agassi,HUAWEI MediaPad T3 10,#LTE
+AGS2-W09,pad,huawei,HUAWEI,,Agassi2,HUAWEI MediaPad T5,#Wi-Fi
+AGS2-W19,pad,huawei,HUAWEI,,Agassi2,HUAWEI MediaPad T5,#Wi-Fi
+AGS2-L03,pad,huawei,HUAWEI,,Agassi2,HUAWEI MediaPad T5,#LTE
+AGS2-L09,pad,huawei,HUAWEI,,Agassi2,HUAWEI MediaPad T5,#LTE
+KOB2-W09,pad,huawei,HUAWEI,,Kobe2,HUAWEI MatePad T 8,#Wi-Fi
+KOB2K-W09,pad,huawei,HUAWEI,,Kobe2,HUAWEI MatePad T 8,#Wi-Fi
+KOB2-L03,pad,huawei,HUAWEI,,Kobe2,HUAWEI MatePad T 8,#LTE
+KOB2-L09,pad,huawei,HUAWEI,,Kobe2,HUAWEI MatePad T 8,#LTE
+KOB2K-L09,pad,huawei,HUAWEI,,Kobe2,HUAWEI MatePad T 8,#LTE
+AGR-W09,pad,huawei,HUAWEI,,AgassiR,HUAWEI MatePad T 10,#Wi-Fi
+AGRK-W09,pad,huawei,HUAWEI,,AgassiR,HUAWEI MatePad T 10,#Wi-Fi
+AGR-L09,pad,huawei,HUAWEI,,AgassiR,HUAWEI MatePad T 10,#LTE
+AGRK-W09,pad,huawei,HUAWEI,,AgassiR,HUAWEI MatePad T 10,#LTE
+AGS3-W09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,#Wi-Fi
+AGS3K-W09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,#Wi-Fi
+AGS3-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,#LTE
+AGS3K-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,#LTE
+AGS5-W09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,#10.4 Wi-Fi
+AGS5-L09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,#10.4 LTE
 Lenovo L78011,mob,lenovo,联想,,jd2018,联想 Z5,#
 Lenovo L78012,mob,lenovo,联想,,jd2018,联想 Z5,#
 Lenovo L78031,mob,lenovo,联想,,zap,联想 Z5 Pro,#

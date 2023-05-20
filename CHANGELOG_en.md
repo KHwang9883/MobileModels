@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2023-05-20
-- `huawei_global_en` Add HUAWEI nova Y91.
+- `huawei_global_en` Add HUAWEI nova Y91, HUAWEI MediaPad & MatePad series.
 - `vivo_global_en` Add vivo V29e 5G.
 ## 2023-05-18
 - `oneplus_en` Add OnePlus Nord 3.
