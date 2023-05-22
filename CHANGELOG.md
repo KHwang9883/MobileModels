@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-05-22
 - `huawei_cn` 新增 华为擎云 C5。
+- `xiaomi` 新增 Xiaomi Civi 3。
 ## 2023-05-20
 - `oppo_cn` 新增 Reno10 系列, K11x, A1 活力版。
 - `vivo_cn` 新增 iQOO Pad。

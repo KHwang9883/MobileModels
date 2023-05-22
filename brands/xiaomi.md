@@ -528,6 +528,10 @@
 
 `2209129SC`: Xiaomi Civi 2 全网通版
 
+**[`M9`] Xiaomi Civi 3 (`yuechu`):**
+
+`23046PNC9C`: Xiaomi Civi 3 全网通版
+
 ## 小米 Play 系列
 
 **[`F9`] 小米 Play (`lotus`):**
@@ -1566,13 +1570,13 @@
 
 `220743FI`: Redmi A1+ 印度版
 
-**Redmi A2 (`cloud`):**
+**[`C3S2`] Redmi A2 (`cloud`):**
 
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 国际版
 
 `23028RN4DI`: Redmi A2 印度版
 
-**Redmi A2+ (`water`):**
+**[`CSF2`] Redmi A2+ (`water`):**
 
 `23028RNCAG`: Redmi A2+ 国际版
 
@@ -1758,7 +1762,7 @@
 
 `220733SPI`: POCO C50 印度版
 
-**POCO C51 (`water`):**
+**[`CSP2`] POCO C51 (`water`):**
 
 `2305EPCC4G` `2302EPCC4H`: POCO C51 国际版
 

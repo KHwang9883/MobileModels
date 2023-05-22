@@ -5447,6 +5447,7 @@ M1910F4E,mob,xiaomi,小米,F4,tucana,小米 CC9 Pro,#全网通版
 2109119BC,mob,xiaomi,小米,K9B,mona,Xiaomi Civi,#全网通版
 2109119BC,mob,xiaomi,小米,K9E,zijin,Xiaomi Civi 1S,#全网通版
 2209129SC,mob,xiaomi,小米,L9S,ziyi,Xiaomi Civi 2,#全网通版
+23046PNC9C,mob,xiaomi,小米,M9,yuechu,Xiaomi Civi 3,#全网通版
 M1901F9E,mob,xiaomi,小米,F9,lotus,小米 Play,#全网通版
 M1901F9T,mob,xiaomi,小米,F9,lotus,小米 Play,#移动 4G+ 版
 MDG2,mob,xiaomi,小米,D2,tissot,小米 A1,#国际版
@@ -5821,11 +5822,11 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 220733SFG,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
 220733SFH,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
 220743FI,mob,xiaomi,小米,C3SF,snow,Redmi A1,#印度版
-23026RN54G,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
-23028RN4DG,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
-23028RN4DH,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
-23028RN4DI,mob,xiaomi,小米,,cloud,Redmi A2,#印度版
-23028RNCAG,mob,xiaomi,小米,,water,Redmi A2,#国际版
+23026RN54G,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
+23028RN4DG,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
+23028RN4DH,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
+23028RN4DI,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#印度版
+23028RNCAG,mob,xiaomi,小米,CSF2,water,Redmi A2,#国际版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -5877,9 +5878,9 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,#国际版
 220333QPI,mob,xiaomi,小米,C3QP,frost,POCO C40,#印度版
 220733SPI,mob,xiaomi,小米,C3SP,snow,POCO C50,#印度版
-2305EPCC4G,mob,xiaomi,小米,,water,POCO C51,#国际版
-2302EPCC4H,mob,xiaomi,小米,,water,POCO C51,#国际版
-2302EPCC4I,mob,xiaomi,小米,,water,POCO C51,#印度版
+2305EPCC4G,mob,xiaomi,小米,CSP2,water,POCO C51,#国际版
+2302EPCC4H,mob,xiaomi,小米,CSP2,water,POCO C51,#国际版
+2302EPCC4I,mob,xiaomi,小米,CSP2,water,POCO C51,#印度版
 22127PC95G,mob,xiaomi,小米,C3TP,earth,POCO C55,#国际版
 22127PC95H,mob,xiaomi,小米,C3TP,earth,POCO C55,#国际版
 22127PC95I,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
@@ -6055,6 +6056,7 @@ M1910F4E,mob,xiaomi,Xiaomi,F4,tucana,Mi CC 9 Pro,#China
 2109119BC,mob,xiaomi,Xiaomi,K9B,mona,Xiaomi Civi,#China
 2109119BC,mob,xiaomi,Xiaomi,K9E,zijin,Xiaomi Civi 1S,#China
 2209129SC,mob,xiaomi,Xiaomi,L9S,ziyi,Xiaomi Civi 2,#China
+23046PNC9C,mob,xiaomi,Xiaomi,M9,yuechu,Xiaomi Civi 3,#China
 M1901F9E,mob,xiaomi,Xiaomi,F9,lotus,Mi Play,#
 M1901F9T,mob,xiaomi,Xiaomi,F9,lotus,Mi Play,#China Mobile
 MDG2,mob,xiaomi,Xiaomi,D2,tissot,Mi A1,#Global
@@ -6414,11 +6416,11 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 220733SFG,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
 220733SFH,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
 220743FI,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#India
-23026RN54G,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
-23028RN4DG,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
-23028RN4DH,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
-23028RN4DI,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#India
-23028RNCAG,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
+23026RN54G,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
+23028RN4DG,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
+23028RN4DH,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
+23028RN4DI,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#India
+23028RNCAG,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2,#Global
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global
@@ -6468,9 +6470,9 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#Global
 220333QPI,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#India
 220733SPI,mob,xiaomi,Xiaomi,C3SP,snow,POCO C50,#India
-2305EPCC4G,mob,xiaomi,Xiaomi,,water,POCO C51,#Global
-2302EPCC4H,mob,xiaomi,Xiaomi,,water,POCO C51,#Global
-2302EPCC4I,mob,xiaomi,Xiaomi,,water,POCO C51,#India
+2305EPCC4G,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#Global
+2302EPCC4H,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#Global
+2302EPCC4I,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#India
 22127PC95G,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#Global
 22127PC95H,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#Global
 22127PC95I,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
