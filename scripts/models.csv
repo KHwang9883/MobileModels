@@ -5609,7 +5609,7 @@ M2010J19SL,mob,xiaomi,小米,J19S,pomelo,Redmi 9T,#拉美版
 22071219AI,mob,xiaomi,小米,L19A,rock,Redmi 11 Prime,#印度版
 22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,#全网通版
 22120RN86G,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
-22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
+22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 2212ARNC4L,mob,xiaomi,小米,C3T,earth,Redmi 12C,#拉美版
 22126RN91Y,mob,xiaomi,小米,C3TN,aether,Redmi 12C,#国际版 (NFC)
@@ -5817,17 +5817,19 @@ M1903C3GG,mob,xiaomi,小米,C3G,tiare,Redmi Go,#国际版
 M1903C3GH,mob,xiaomi,小米,C3G,tiare,Redmi Go,#国际版
 M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 220733SG,mob,xiaomi,小米,C3S,ice,Redmi A1,#国际版
-220733SH,mob,xiaomi,小米,C3S,ice,Redmi A1,#国际版
+220733SH,mob,xiaomi,小米,C3S,ice,Redmi A1,#印度版
 220733SI,mob,xiaomi,小米,C3S,ice,Redmi A1,#印度版
 220733SL,mob,xiaomi,小米,C3S,ice,Redmi A1,#拉美版
 220733SFG,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
-220733SFH,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
+220733SFH,mob,xiaomi,小米,C3SF,snow,Redmi A1,#印度版
 220743FI,mob,xiaomi,小米,C3SF,snow,Redmi A1,#印度版
 23026RN54G,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
 23028RN4DG,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
-23028RN4DH,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
+23028RN4DH,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#印度版
 23028RN4DI,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#印度版
 23028RNCAG,mob,xiaomi,小米,CSF2,water,Redmi A2,#国际版
+23028RNCAH,mob,xiaomi,小米,CSF2,water,Redmi A2,#印度版
+23028RNCAI,mob,xiaomi,小米,CSF2,water,Redmi A2,#印度版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -5878,12 +5880,13 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,#印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,#国际版
 220333QPI,mob,xiaomi,小米,C3QP,frost,POCO C40,#印度版
+220733SPH,mob,xiaomi,小米,C3SP,snow,POCO C50,#印度版
 220733SPI,mob,xiaomi,小米,C3SP,snow,POCO C50,#印度版
 2305EPCC4G,mob,xiaomi,小米,CSP2,water,POCO C51,#国际版
-2302EPCC4H,mob,xiaomi,小米,CSP2,water,POCO C51,#国际版
+2302EPCC4H,mob,xiaomi,小米,CSP2,water,POCO C51,#印度版
 2302EPCC4I,mob,xiaomi,小米,CSP2,water,POCO C51,#印度版
 22127PC95G,mob,xiaomi,小米,C3TP,earth,POCO C55,#国际版
-22127PC95H,mob,xiaomi,小米,C3TP,earth,POCO C55,#国际版
+22127PC95H,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
 22127PC95I,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 FYJ01QP,watch,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
@@ -6203,7 +6206,7 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19S,pomelo,Redmi 9T,#Latin America
 220233L2C,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,#China
 22071219AI,mob,xiaomi,Xiaomi,L19A,rock,Redmi 11 Prime,#India
 22120RN86G,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
-22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
+22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86I,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86C,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
 2212ARNC4L,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Latin America
@@ -6411,17 +6414,19 @@ M1903C3GG,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#Global
 M1903C3GH,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#Global
 M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 220733SG,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#Global
-220733SH,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#Global
+220733SH,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#India
 220733SI,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#India
 220733SL,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#Latin America
 220733SFG,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
-220733SFH,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
+220733SFH,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#India
 220743FI,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#India
 23026RN54G,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
 23028RN4DG,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
-23028RN4DH,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
+23028RN4DH,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#India
 23028RN4DI,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#India
 23028RNCAG,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2,#Global
+23028RNCAH,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2,#India
+23028RNCAI,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2,#India
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global
@@ -6470,12 +6475,13 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,#India
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#Global
 220333QPI,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#India
+220733SPH,mob,xiaomi,Xiaomi,C3SP,snow,POCO C50,#India
 220733SPI,mob,xiaomi,Xiaomi,C3SP,snow,POCO C50,#India
 2305EPCC4G,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#Global
-2302EPCC4H,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#Global
+2302EPCC4H,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#India
 2302EPCC4I,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#India
 22127PC95G,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#Global
-22127PC95H,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#Global
+22127PC95H,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
 22127PC95I,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,#
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,#

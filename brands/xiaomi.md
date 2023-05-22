@@ -962,9 +962,9 @@
 
 `22120RN86C`: Redmi 12C 全网通版
 
-`22120RN86G` `22120RN86H`: Redmi 12C 国际版
+`22120RN86G`: Redmi 12C 国际版
 
-`22120RN86I`: Redmi 12C 印度版
+`22120RN86H` `22120RN86I`: Redmi 12C 印度版
 
 `2212ARNC4L`: Redmi 12C 拉美版
 
@@ -1558,27 +1558,29 @@
 
 **[`C3S`] Redmi A1 (`ice`):**
 
-`220733SG` `220733SH`: Redmi A1 国际版
+`220733SG`: Redmi A1 国际版
 
-`220733SI`: Redmi A1 印度版
+`220733SH` `220733SI`: Redmi A1 印度版
 
 `220733SL`: Redmi A1 拉美版
 
 **[`C3SF`] Redmi A1+ (`snow`):**
 
-`220733SFG` `220733SFH`: Redmi A1+ 国际版
+`220733SFG`: Redmi A1+ 国际版
 
-`220743FI`: Redmi A1+ 印度版
+`220733SFH` `220743FI`: Redmi A1+ 印度版
 
 **[`C3S2`] Redmi A2 (`cloud`):**
 
-`23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 国际版
+`23026RN54G` `23028RN4DG`: Redmi A2 国际版
 
-`23028RN4DI`: Redmi A2 印度版
+`23028RN4DH` `23028RN4DI`: Redmi A2 印度版
 
 **[`CSF2`] Redmi A2+ (`water`):**
 
 `23028RNCAG`: Redmi A2+ 国际版
+
+`23028RNCAH` `23028RNCAI`: Redmi A2+ 印度版
 
 ## Redmi 平板
 
@@ -1760,19 +1762,19 @@
 
 **[`C3SP`] POCO C50 (`snow`):**
 
-`220733SPI`: POCO C50 印度版
+`220733SPH` `220733SPI`: POCO C50 印度版
 
 **[`CSP2`] POCO C51 (`water`):**
 
-`2305EPCC4G` `2302EPCC4H`: POCO C51 国际版
+`2305EPCC4G`: POCO C51 国际版
 
-`2302EPCC4I`: POCO C51 印度版
+`2302EPCC4H` `2302EPCC4I`: POCO C51 印度版
 
 **[`C3TP`] POCO C55 (`earth`):**
 
-`22127PC95G` `22127PC95H`: POCO C55 国际版
+`22127PC95G`: POCO C55 国际版
 
-`22127PC95I`: POCO C55 印度版
+`22127PC95H` `22127PC95I`: POCO C55 印度版
 
 ## 其他系列
 
