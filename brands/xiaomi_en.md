@@ -513,6 +513,10 @@
 
 `2209129SC`: Xiaomi Civi 2 China
 
+**[`M9`] Xiaomi Civi 3 (`yuechu`):**
+
+`23046PNC9C`: Xiaomi Civi 3 China
+
 **[`F9`] Mi Play (`lotus`):**
 
 `M1901F9E`: Mi Play
@@ -1477,13 +1481,13 @@
 
 `220743FI`: Redmi A1+ India
 
-**Redmi A2 (`cloud`):**
+**[`C3S2`] Redmi A2 (`cloud`):**
 
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 Global
 
 `23028RN4DI`: Redmi A2 India
 
-**Redmi A2+ (`water`):**
+**[`CSF2`] Redmi A2+ (`water`):**
 
 `23028RNCAG`: Redmi A2+ Global
 
@@ -1661,7 +1665,7 @@
 
 `220733SPI`: POCO C50 India
 
-**POCO C51 (`water`):**
+**[`CSP2`] POCO C51 (`water`):**
 
 `2305EPCC4G` `2302EPCC4H`: POCO C51 Global
 

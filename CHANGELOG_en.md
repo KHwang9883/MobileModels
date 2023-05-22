@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-22
+- `xiaomi_en` Add Xiaomi Civi 3.
 ## 2023-05-20
 - `huawei_global_en` Add HUAWEI nova Y91, HUAWEI MediaPad & MatePad series.
 - `vivo_global_en` Add vivo V29e 5G.
