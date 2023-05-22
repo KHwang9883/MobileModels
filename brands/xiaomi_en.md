@@ -885,9 +885,9 @@
 
 **[`C3T`] Redmi 12C (`earth`):**
 
-`22120RN86G` `22120RN86H`: Redmi 12C Global
+`22120RN86G`: Redmi 12C Global
 
-`22120RN86I`: Redmi 12C India
+`22120RN86H` `22120RN86I`: Redmi 12C India
 
 `22120RN86C`: Redmi 12C China
 
@@ -1469,27 +1469,29 @@
 
 **[`C3S`] Redmi A1 (`ice`):**
 
-`220733SG` `220733SH`: Redmi A1 Global
+`220733SG`: Redmi A1 Global
 
-`220733SI`: Redmi A1 India
+`220733SH` `220733SI`: Redmi A1 India
 
 `220733SL`: Redmi A1 Latin America
 
 **[`C3SF`] Redmi A1+ (`snow`):**
 
-`220733SFG` `220733SFH`: Redmi A1+ Global
+`220733SFG`: Redmi A1+ Global
 
-`220743FI`: Redmi A1+ India
+`220733SFH` `220743FI`: Redmi A1+ India
 
 **[`C3S2`] Redmi A2 (`cloud`):**
 
-`23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 Global
+`23026RN54G` `23028RN4DG`: Redmi A2 Global
 
-`23028RN4DI`: Redmi A2 India
+`23028RN4DH` `23028RN4DI`: Redmi A2 India
 
 **[`CSF2`] Redmi A2+ (`water`):**
 
 `23028RNCAG`: Redmi A2+ Global
+
+`23028RNCAH` `23028RNCAI`: Redmi A2+ India
 
 ## POCO Phones
 
@@ -1663,19 +1665,19 @@
 
 **[`C3SP`] POCO C50 (`snow`):**
 
-`220733SPI`: POCO C50 India
+`220733SPH` `220733SPI`: POCO C50 India
 
 **[`CSP2`] POCO C51 (`water`):**
 
-`2305EPCC4G` `2302EPCC4H`: POCO C51 Global
+`2305EPCC4G`: POCO C51 Global
 
-`2302EPCC4I`: POCO C51 India
+`2302EPCC4H` `2302EPCC4I`: POCO C51 India
 
 **[`C3TP`] POCO C55 (`earth`):**
 
-`22127PC95G` `22127PC95H`: POCO C55 Global
+`22127PC95G`: POCO C55 Global
 
-`22127PC95I`: POCO C55 India
+`22127PC95H` `22127PC95I`: POCO C55 India
 
 ## Tablets
 
