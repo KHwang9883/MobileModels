@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2023-05-22
+- `realme_global_en` Add realme Narzo N53.
 - `xiaomi_en` Add Xiaomi Civi 3.
 ## 2023-05-20
 - `huawei_global_en` Add HUAWEI nova Y91, HUAWEI MediaPad & MatePad series.

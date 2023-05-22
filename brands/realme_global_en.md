@@ -405,6 +405,10 @@
 
 `RMX3506`: realme Narzo 50i Prime
 
+**realme Narzo N53:**
+
+`RMX3761`: realme Narzo N53
+
 **realme Narzo N55:**
 
 `RMX3710`: realme Narzo N55
