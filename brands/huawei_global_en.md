@@ -417,7 +417,7 @@
 
 **HUAWEI nova Y70 (`Mega`):**
 
-`MGA-LX9`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus
+`MGA-LX9` `MGA-LX9N`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus
 
 **HUAWEI nova Y90:**
 
