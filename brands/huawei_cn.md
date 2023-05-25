@@ -1471,7 +1471,9 @@
 
 **HUAWEI MateBook D 14:**
 
-`MDG-16`: HUAWEI MateBook D 14 2023
+`MDF-16`: HUAWEI MateBook D 14 2023 12 代酷睿版
+
+`MDG-16`: HUAWEI MateBook D 14 2023 13 代酷睿版
 
 **HUAWEI MateBook D 15 (`BohrK`):**
 
