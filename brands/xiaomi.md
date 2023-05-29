@@ -1400,6 +1400,10 @@
 
 `22101320C`: Redmi Note 12 Pro 极速版 全网通版
 
+**[`L16S`] Redmi Note 12T Pro (`pearl`):**
+
+`23054RA19C`: Redmi Note 12T Pro 全网通版
+
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo 全网通版
