@@ -1317,6 +1317,10 @@
 
 `22101320C`: Redmi Note 12 Pro Speed China
 
+**[`L16S`] Redmi Note 12T Pro (`pearl`):**
+
+`23054RA19C`: Redmi Note 12T Pro China
+
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo China

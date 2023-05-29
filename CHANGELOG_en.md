@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-05-29
+- `xiaomi_en` Add Redmi Note 12T Pro.
 ## 2023-05-23
 - `vivo_global_en` Add vivo Y36 5G.
 ## 2023-05-22
