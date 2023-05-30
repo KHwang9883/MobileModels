@@ -1362,13 +1362,13 @@
 
 `22111317I`: Redmi Note 12 5G 印度版
 
-**[`K7SR`] Redmi Note 12S (`sea`):**
+**[`K7SR`] Redmi Note 12S (`ocean`):**
 
 `2303CRA44A`: Redmi Note 12S 国际版
 
 `2303ERA42L`: Redmi Note 12S 拉美版
 
-**[`K7SR`] Redmi Note 12S (`ocean`):**
+**[`K7SR`] Redmi Note 12S (`sea`):**
 
 `23030RAC7Y`: Redmi Note 12S 国际版 (NFC)
 

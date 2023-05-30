@@ -5763,9 +5763,9 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#全网通版
 22111317G,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#国际版
 22111317I,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#印度版
-2303CRA44A,mob,xiaomi,小米,K7SR,sea,Redmi Note 12S,#国际版
-2303ERA42L,mob,xiaomi,小米,K7SR,sea,Redmi Note 12S,#拉美版
-23030RAC7Y,mob,xiaomi,小米,K7SR,ocean,Redmi Note 12S,#国际版 (NFC)
+2303CRA44A,mob,xiaomi,小米,K7SR,ocean,Redmi Note 12S,#国际版
+2303ERA42L,mob,xiaomi,小米,K7SR,ocean,Redmi Note 12S,#拉美版
+23030RAC7Y,mob,xiaomi,小米,K7SR,sea,Redmi Note 12S,#国际版 (NFC)
 2209116AG,mob,xiaomi,小米,K6A,sweet,Redmi Note 12 Pro,#国际版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#全网通版
 22101316G,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 国际版
@@ -6361,9 +6361,9 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22111317I,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#India
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#China
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#China
-2303CRA44A,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Global
-2303ERA42L,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Latin America
-23030RAC7Y,mob,xiaomi,Xiaomi,K7SR,ocean,Redmi Note 12S,#Global (NFC)
+2303CRA44A,mob,xiaomi,Xiaomi,K7SR,ocean,Redmi Note 12S,#Global
+2303ERA42L,mob,xiaomi,Xiaomi,K7SR,ocean,Redmi Note 12S,#Latin America
+23030RAC7Y,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Global (NFC)
 2209116AG,mob,xiaomi,Xiaomi,K6A,sweet,Redmi Note 12 Pro,#Global
 22101316G,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#Global
 22101316I,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#India

@@ -1279,13 +1279,13 @@
 
 `22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
 
-**[`K7SR`] Redmi Note 12S (`sea`):**
+**[`K7SR`] Redmi Note 12S (`ocean`):**
 
 `2303CRA44A`: Redmi Note 12S Global
 
 `2303ERA42L`: Redmi Note 12S Latin America
 
-**[`K7SR`] Redmi Note 12S (`ocean`):**
+**[`K7SR`] Redmi Note 12S (`sea`):**
 
 `23030RAC7Y`: Redmi Note 12S Global (NFC)
 
