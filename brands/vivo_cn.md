@@ -278,6 +278,10 @@
 
 `V2283A`: vivo S17
 
+**vivo S17t (`PD2282`):**
+
+`V2282A`: vivo S17t
+
 **vivo S17 Pro (`PD2284`):**
 
 `V2284A`: vivo S17 Pro
