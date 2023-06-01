@@ -339,6 +339,10 @@
 
 `V2206`: vivo Y22s
 
+**vivo Y27:**
+
+`V2248`: vivo Y27 5G
+
 **vivo Y30:**
 
 `V2160`: vivo Y30 5G
@@ -460,6 +464,10 @@
 **iQOO Neo7:**
 
 `I2214`: iQOO Neo7 5G
+
+**iQOO Neo7 Pro:**
+
+`I2217`: iQOO Neo7 Pro 5G
 
 **iQOO Z3:**
 
