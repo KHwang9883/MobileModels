@@ -519,7 +519,7 @@
 
 `CDY-TN00` `CDY-TN20`: HUAWEI nova 7 SE 5G 移动版
 
-**HUAWEI nova 7 SE 5G 活力版 (`CindyC`):**
+**HUAWEI nova 7 SE 5G 活力版 (`CindyMN`):**
 
 `CND-AN00`: HUAWEI nova 7 SE 5G 活力版
 
