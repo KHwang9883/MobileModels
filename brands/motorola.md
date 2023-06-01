@@ -153,3 +153,11 @@
 **moto g53 (`penang`):**
 
 `XT2335-3`: moto g53
+
+**moto razr 40 (`lynkco`):**
+
+`XT2323-3`: moto razr 40
+
+**moto razr 40 Ultra (`zeekr`):**
+
+`XT2321-2`: moto razr 40 Ultra
