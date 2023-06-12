@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-06-12
+- `zhixuan` 新增 麦芒 A20。
 ## 2023-06-09
 - `coolpad` 新增 酷派大观 50s。
 - `zte` 新增 中兴 Axon 50 Ultra, Axon Pad。
