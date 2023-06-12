@@ -201,6 +201,10 @@
 
 `RBN-NX1`: HONOR 70 Lite 5G
 
+**HONOR 90 Lite:**
+
+`CRT-NX1`: HONOR 90 Lite 5G
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro 5G
