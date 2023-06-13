@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2023-06-13
 - `honor_global_en` Add HONOR 90 Lite.
+- `oppo_global_en` Add OPPO Reno9 A.
 ## 2023-06-01
 - `vivo_global_en` Add vivo Y27 5G, iQOO Neo7 Pro.
 ## 2023-05-29

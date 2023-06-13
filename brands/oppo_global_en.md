@@ -225,6 +225,12 @@
 
 `CPH2505`: OPPO Reno8 T 5G
 
+**OPPO Reno9 A:**
+
+`CPH2523`: OPPO Reno9 A
+
+`A301OP`: OPPO Reno9 A (SoftBank)
+
 ## F series
 
 **OPPO F7:**
