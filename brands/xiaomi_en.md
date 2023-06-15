@@ -883,6 +883,14 @@
 
 `22071219AI`: Redmi 11 Prime India
 
+**[`M19A`] Redmi 12 (`fire`):**
+
+`23053RN02A`: Redmi 12 Global
+
+`23053RN02Y`: Redmi 12 Global (NFC)
+
+`23053RN02L`: Redmi 12 Latin America
+
 **[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86G`: Redmi 12C Global

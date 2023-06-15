@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-06-16
+- `xiaomi_en` Add Redmi 12.
 ## 2023-06-13
 - `honor_global_en` Add HONOR 90 Lite.
 - `oppo_global_en` Add OPPO Reno9 A.
