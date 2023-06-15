@@ -958,6 +958,14 @@
 
 `22071219AI`: Redmi 11 Prime 印度版
 
+**[`M19A`] Redmi 12 (`fire`):**
+
+`23053RN02A`: Redmi 12 国际版
+
+`23053RN02Y`: Redmi 12 国际版 (NFC)
+
+`23053RN02L`: Redmi 12 拉美版
+
 **[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86C`: Redmi 12C 全网通版
