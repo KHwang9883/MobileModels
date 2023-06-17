@@ -387,21 +387,15 @@
 
 **HUAWEI nova 10 (`Nicole`):**
 
-`NCO-LX1`: HUAWEI nova 10 Dual SIM
-
-`NCO-LX3`: HUAWEI nova 10 Single SIM
+`NCO-LX1` `NCO-LX3`: HUAWEI nova 10
 
 **HUAWEI nova 10 Pro (`Gloria`):**
 
-`GLA-LX1`: HUAWEI nova 10 Pro Dual SIM
-
-`GLA-LX3`: HUAWEI nova 10 Pro Single SIM
+`GLA-LX1` `GLA-LX3`: HUAWEI nova 10 Pro
 
 **HUAWEI nova 10 SE (`Bonnie`):**
 
-`BNE-LX1`: HUAWEI nova 10 SE Dual SIM
-
-`BNE-LX3`: HUAWEI nova 10 SE Single SIM
+`BNE-LX1` `BNE-LX3`: HUAWEI nova 10 SE
 
 **HUAWEI nova 11:**
 
