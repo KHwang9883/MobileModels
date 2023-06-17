@@ -403,6 +403,14 @@
 
 `BNE-LX3`: HUAWEI nova 10 SE Single SIM
 
+**HUAWEI nova 11:**
+
+`FOA-LX9`: HUAWEI nova 11
+
+**HUAWEI nova 11 Pro:**
+
+`GOA-LX9`: HUAWEI nova 11 Pro
+
 **HUAWEI nova 11i:**
 
 `MAO-LX9` `MAO-LX9N`: HUAWEI nova 11i

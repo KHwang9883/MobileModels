@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-06-17
+- `huawei_global_en` Add HUAWEI nova 11.
 ## 2023-06-16
 - `xiaomi_en` Add Redmi 12.
 ## 2023-06-13
