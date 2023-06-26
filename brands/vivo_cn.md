@@ -740,6 +740,10 @@
 
 `V2254A`: iQOO 11 Pro
 
+**iQOO 11S (`PD2304`):**
+
+`V2304A`: iQOO 11S
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
