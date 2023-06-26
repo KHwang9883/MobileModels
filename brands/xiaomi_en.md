@@ -887,9 +887,13 @@
 
 `23053RN02A`: Redmi 12 Global
 
-`23053RN02Y`: Redmi 12 Global (NFC)
+`23053RN02I`: Redmi 12 India
 
 `23053RN02L`: Redmi 12 Latin America
+
+**[`M19A`] Redmi 12 (`heat`):**
+
+`23053RN02Y`: Redmi 12 Global (NFC)
 
 **[`C3T`] Redmi 12C (`earth`):**
 
@@ -1287,6 +1291,10 @@
 
 `22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
 
+**[`M19`] Redmi Note 12R:**
+
+`23076RA4BC`: Redmi Note 12R China
+
 **[`K7SR`] Redmi Note 12S (`ocean`):**
 
 `2303CRA44A`: Redmi Note 12S Global
@@ -1539,6 +1547,8 @@
 
 `23049PCD8G`: POCO F5 Global
 
+**[`M16T`] POCO F5 (`marblein`):**
+
 `23049PCD8I`: POCO F5 India
 
 **[`M11A`] POCO F5 Pro (`mondrian`):**
@@ -1736,6 +1746,8 @@
 **[`M82`] Xiaomi Pad 6 (`pipa`):**
 
 `23043RP34G`: Xiaomi Pad 6 Global
+
+`23043RP34I`: Xiaomi Pad 6 India
 
 `23043RP34C`: Xiaomi Pad 6 China
 

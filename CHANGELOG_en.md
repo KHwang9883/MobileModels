@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-06-27
+- `xiaomi_en` Add several new models.
 ## 2023-06-17
 - `huawei_global_en` Add HUAWEI nova 11.
 ## 2023-06-16
