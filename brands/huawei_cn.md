@@ -1729,6 +1729,12 @@
 
 `HD75AJMA`: 华为智慧屏 S 75 二代
 
+**华为智慧屏 S Pro:**
+
+`HD55DESU`: 华为智慧屏 S55i Pro
+
+`HD65DESU`: 华为智慧屏 S65i Pro
+
 **华为智慧屏 S Pro (`Kepler`):**
 
 `HD86KEPA`: 华为智慧屏 S86 Pro
@@ -1738,6 +1744,8 @@
 `HD65AJMS`: 华为智慧屏 S3 Pro 65
 
 `HD75AJMS`: 华为智慧屏 S3 Pro 75
+
+`HD86AJMS`: 华为智慧屏 S3 Pro 86
 
 **华为智慧屏 SE 系列:**
 
@@ -1790,6 +1798,8 @@
 `HD65QINA`: 华为 Vision 智慧屏 3 65
 
 `HD75QINA`: 华为 Vision 智慧屏 3 75
+
+`HD86QINA`: 华为 Vision 智慧屏 3 86
 
 **华为智慧屏 B 系列:**
 

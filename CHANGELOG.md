@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-06-28
+- `huawei_cn` 新增 华为智慧屏 S3 Pro 86。
 - `zhixuan` 新增 Hi nova 11。
 ## 2023-06-27
 - `xiaomi` 新增 Redmi Note 12R、部分海外型号。
