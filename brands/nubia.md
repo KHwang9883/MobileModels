@@ -190,17 +190,13 @@
 
 `NX709S`: 红魔 7S Pro
 
-**红魔 8 Pro:**
+**红魔 8 Pro / 红魔 8 Pro+:**
 
-`NX729J`: 红魔 8 Pro
+`NX729J`: 红魔 8 Pro / 红魔 8 Pro+
 
-**红魔 8 Pro+:**
+**红魔 8S Pro / 红魔 8S Pro+:**
 
-`NX729J`: 红魔 8 Pro+
-
-**红魔 8S Pro:**
-
-`NX729S`: 红魔 8S Pro
+`NX729S`: 红魔 8S Pro / 红魔 8S Pro+
 
 ## 其他系列
 
