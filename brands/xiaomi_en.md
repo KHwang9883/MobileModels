@@ -1291,7 +1291,7 @@
 
 `22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
 
-**[`M19`] Redmi Note 12R:**
+**[`M19`] Redmi Note 12R (`sky`):**
 
 `23076RA4BC`: Redmi Note 12R China
 
