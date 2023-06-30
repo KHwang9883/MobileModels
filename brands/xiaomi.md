@@ -1376,7 +1376,7 @@
 
 `22111317I`: Redmi Note 12 5G 印度版
 
-**[`M19`] Redmi Note 12R:**
+**[`M19`] Redmi Note 12R (`sky`):**
 
 `23076RA4BC`: Redmi Note 12R 全网通版
 
