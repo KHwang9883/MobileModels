@@ -157,7 +157,7 @@
 
 `G82U8`: Pixel 7a (Japan)
 
-**Pixel Fold:**
+**Pixel Fold (`felix`):**
 
 `G9FPL`: Pixel Fold (US, EU)
 
@@ -167,6 +167,6 @@
 
 `C1502W`: Pixel C
 
-**Pixel Tablet:**
+**Pixel Tablet (`tangorpro`):**
 
 `GTU8P`: Pixel Tablet
