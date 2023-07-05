@@ -854,6 +854,10 @@
 
 `AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 
+**荣耀平板 X8 Pro:**
+
+`ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
+
 **荣耀平板 8 (`Hendry`):**
 
 `HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
@@ -865,6 +869,10 @@
 **荣耀平板 V8 Pro:**
 
 `ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
+
+**荣耀平板 MagicPad:**
+
+`GDI-W09`: 荣耀平板 MagicPad 13 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
@@ -1198,6 +1206,12 @@
 
 `BRN-F56`: 荣耀 MagicBook X 16 2022 i5
 
+**荣耀 MagicBook X 16 2023:**
+
+`BRN-F56`: 荣耀 MagicBook X 16 2023 i5 (16GB+512GB)
+
+`BRN-F561`: 荣耀 MagicBook X 16 2023 i5 (16GB+1TB)
+
 **荣耀 MagicBook X 16 Pro 2023:**
 
 `BRN-G56`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+512GB)
@@ -1233,6 +1247,12 @@
 `OSCA-550`: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
 
 `OSCA-550X`: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
+
+**荣耀智慧屏 5:**
+
+`HN65TAG`: 荣耀智慧屏 5 65 英寸
+
+`HN75TAG`: 荣耀智慧屏 5 75 英寸
 
 **荣耀智慧屏 X1 (`Locke`):**
 

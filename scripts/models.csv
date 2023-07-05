@@ -1404,9 +1404,11 @@ KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,#8 英寸 全网通版
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 Wi-Fi 版
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 全网通版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,#10.1 英寸 Wi-Fi 版
+ELN-W09,pad,honor,荣耀,,,荣耀平板 X8 Pro,#11.5 英寸 Wi-Fi 版
 HEY-W09,pad,honor,荣耀,,Hendry,荣耀平板 8,#12 英寸 Wi-Fi 版
 BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V8,#11 英寸 Wi-Fi 版
 ROD-W09,pad,honor,荣耀,,,荣耀平板 V8 Pro,#12.1 英寸 Wi-Fi 版
+GDI-W09,pad,honor,荣耀,,,荣耀平板 MagicPad,#13 英寸 Wi-Fi 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 LTE 版
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 Wi-Fi 版
@@ -1523,6 +1525,8 @@ BBR-WAH9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i5
 BDR-WDH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (8GB+512GB)
 BDR-WFH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (16GB+512GB)
 BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2022,#i5
+BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+512GB)
+BRN-F561,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+1TB)
 BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+512GB)
 BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
 FRI-F56Z,computer,honor,荣耀,,,荣耀 MagicBook Z3 14 2023,#i5
@@ -1535,6 +1539,8 @@ OSCA-550A,tv,honor,荣耀,,Oscar,荣耀智慧屏,#55 英寸 (2GB+16GB)
 OSCA-550AX,tv,honor,荣耀,,Oscar,荣耀智慧屏,#55 英寸 (4GB+32GB)
 OSCA-550,tv,honor,荣耀,,Oscar,荣耀智慧屏 PRO,#55 英寸 (2GB+32GB)
 OSCA-550X,tv,honor,荣耀,,Oscar,荣耀智慧屏 PRO,#55 英寸 (4GB+64GB)
+HN65TAG,tv,honor,荣耀,,,荣耀智慧屏 5,#65 英寸
+HN75TAG,tv,honor,荣耀,,,荣耀智慧屏 5,#75 英寸
 LOK-330,tv,honor,荣耀,,Locke,荣耀智慧屏 X1,#50 英寸
 LOK-350,tv,honor,荣耀,,Locke,荣耀智慧屏 X1,#55 英寸 (2GB+16GB)
 LOK-350C,tv,honor,荣耀,,Locke,荣耀智慧屏 X1,#55 英寸 (2GB+16GB)

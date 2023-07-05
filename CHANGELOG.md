@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-07-05
+- `honor_cn` 新增 荣耀平板 X8 Pro, MagicPad, MagicBook X16, 智慧屏 5。
 - `nubia` 新增 红魔电竞平板。
 ## 2023-07-04
 - `coolpad` 新增 酷派大观 40 Pro。
