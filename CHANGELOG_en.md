@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-07-05
+- `huawei_global_en` Add several models.
 ## 2023-06-27
 - `xiaomi_en` Add several new models.
 ## 2023-06-17

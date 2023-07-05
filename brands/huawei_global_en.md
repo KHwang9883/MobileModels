@@ -417,9 +417,9 @@
 
 `EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61
 
-**HUAWEI nova Y70 (`Mega`):**
+**HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71 (`Mega`):**
 
-`MGA-LX9` `MGA-LX9N`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus
+`MGA-LX9` `MGA-LX9N` `MGA-LX3`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 
 **HUAWEI nova Y90:**
 
@@ -716,3 +716,23 @@
 `AGS5-W09`: HUAWEI MatePad SE 10.4 Wi-Fi
 
 `AGS5-L09`: HUAWEI MatePad SE 10.4 LTE
+
+**HUAWEI MatePad C3 (`Kobe2K`):**
+
+`KOB2K-W09`: HUAWEI MatePad C3 8 Wi-Fi
+
+`KOB2K-L09`: HUAWEI MatePad C3 8 LTE
+
+**HUAWEI MatePad C3 (`AgassiRK`):**
+
+`AGRK-W09`: HUAWEI MatePad C3 9.7 Wi-Fi
+
+`AGRK-L09`: HUAWEI MatePad C3 9.7 LTE
+
+**HUAWEI MatePad C5e (`AgassiRK`):**
+
+`AGS3K-L09`: HUAWEI MatePad C5e LTE
+
+**HUAWEI MatePad C7 (`Debussy`):**
+
+`DBY-W09`: HUAWEI MatePad C7 Wi-Fi

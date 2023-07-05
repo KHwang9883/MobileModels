@@ -2671,10 +2671,15 @@ WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
 EVE-LX9,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
 EVE-LX9N,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
 EVE-LX3,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
-MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70,#
-MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70,#
-MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70,#Plus
-MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70,#Plus
+MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
+MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
+MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,1#
+MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,1#
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,1#
+MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,2#
+MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,2#
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,2#
 CTR-LX1,mob,huawei,HUAWEI,,,HUAWEI nova Y90,#
 CTR-LX2,mob,huawei,HUAWEI,,,HUAWEI nova Y90,#
 CTR-LX3,mob,huawei,HUAWEI,,,HUAWEI nova Y90,#
@@ -2817,6 +2822,12 @@ AGS3-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,#LTE
 AGS3K-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,#LTE
 AGS5-W09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,#10.4 Wi-Fi
 AGS5-L09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,#10.4 LTE
+KOB2K-W09,pad,huawei,HUAWEI,,Kobe2K,HUAWEI MatePad C3,#8 Wi-Fi
+KOB2K-L09,pad,huawei,HUAWEI,,Kobe2K,HUAWEI MatePad C3,#8 LTE
+AGRK-W09,pad,huawei,HUAWEI,,AgassiRK,HUAWEI MatePad C3,#9.7 Wi-Fi
+AGRK-L09,pad,huawei,HUAWEI,,AgassiRK,HUAWEI MatePad C3,#9.7 LTE
+AGS3K-L09,pad,huawei,HUAWEI,,AgassiRK,HUAWEI MatePad C5e,#LTE
+DBY-W09,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad C7,#Wi-Fi
 Lenovo L78011,mob,lenovo,联想,,jd2018,联想 Z5,#
 Lenovo L78012,mob,lenovo,联想,,jd2018,联想 Z5,#
 Lenovo L78031,mob,lenovo,联想,,zap,联想 Z5 Pro,#
