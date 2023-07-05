@@ -4,7 +4,7 @@
 - codename: ❌
 - 是否包含海外机型: ❌
 
-## Z 系列
+## 努比亚 Z 系列
 
 **nubia Z5:**
 
@@ -132,7 +132,63 @@
 
 `NX712J`: nubia Z50 Ultra
 
-## 红魔手机
+## 努比亚其他系列
+
+**nubia X6:**
+
+`NX601J`: nubia X6
+
+**nubia X:**
+
+`NX616J`: nubia X
+
+**nubia V18:**
+
+`NX612J`: nubia V18
+
+**nubia Play:**
+
+`NX651J`: nubia Play
+
+**nubia My 布拉格:**
+
+`NX513J`: nubia My 布拉格 全网通版
+
+`NX513H`: nubia My 布拉格 双 4G 版
+
+**nubia M2:**
+
+`NX551J`: nubia M2
+
+**nubia M2 青春版:**
+
+`NX573J`: nubia M2 青春版
+
+**nubia M2 畅玩版:**
+
+`NX907J`: nubia M2 畅玩版
+
+**nubia N1:**
+
+`NX541J`: nubia N1
+
+**nubia N2:**
+
+`NX575J`: nubia N2
+
+**nubia N3:**
+
+`NX608J` `NX617J`: nubia N3
+
+**nubia N5:**
+
+`NX301J`: nubia N5
+
+**nubia Pad 3D:**
+
+`LPD-20W`: nubia Pad 3D
+
+## 红魔
 
 **红魔电竞游戏手机:**
 
@@ -198,58 +254,6 @@
 
 `NX729S`: 红魔 8S Pro / 红魔 8S Pro+
 
-## 其他系列
+**红魔电竞平板:**
 
-**nubia X6:**
-
-`NX601J`: nubia X6
-
-**nubia X:**
-
-`NX616J`: nubia X
-
-**nubia V18:**
-
-`NX612J`: nubia V18
-
-**nubia Play:**
-
-`NX651J`: nubia Play
-
-**nubia My 布拉格:**
-
-`NX513J`: nubia My 布拉格 全网通版
-
-`NX513H`: nubia My 布拉格 双 4G 版
-
-**nubia M2:**
-
-`NX551J`: nubia M2
-
-**nubia M2 青春版:**
-
-`NX573J`: nubia M2 青春版
-
-**nubia M2 畅玩版:**
-
-`NX907J`: nubia M2 畅玩版
-
-**nubia N1:**
-
-`NX541J`: nubia N1
-
-**nubia N2:**
-
-`NX575J`: nubia N2
-
-**nubia N3:**
-
-`NX608J` `NX617J`: nubia N3
-
-**nubia N5:**
-
-`NX301J`: nubia N5
-
-**nubia Pad 3D:**
-
-`LPD-20W`: nubia Pad 3D
+`NP01J`: 红魔电竞平板 5G
