@@ -315,6 +315,10 @@
 
 `RMX3511` `RMX3512` `RMX3513`: realme C35
 
+**realme C51:**
+
+`RMX3830`: realme C51
+
 **realme C53:**
 
 `RMX3760`: realme C53
@@ -412,6 +416,14 @@
 **realme Narzo N55:**
 
 `RMX3710`: realme Narzo N55
+
+**realme Narzo 60:**
+
+`RMX3750`: realme Narzo 60 5G
+
+**realme Narzo 60 Pro:**
+
+`RMX3771`: realme Narzo 60 Pro 5G
 
 ## GT series
 

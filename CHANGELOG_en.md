@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2023-07-06
 - `oppo_global_en` Add OPPO Reno10 series.
+- `realme_global_en` Add realme Narzo 60 series.
 ## 2023-07-05
 - `huawei_global_en` Add several models.
 ## 2023-06-27
