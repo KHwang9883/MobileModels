@@ -231,6 +231,18 @@
 
 `A301OP`: OPPO Reno9 A (SoftBank)
 
+**OPPO Reno10:**
+
+`CPH2531`: OPPO Reno10 5G
+
+**OPPO Reno10 Pro:**
+
+`CPH2525`: OPPO Reno10 Pro 5G
+
+**OPPO Reno10 Pro+:**
+
+`CPH2521`: OPPO Reno10 Pro+ 5G
+
 ## F series
 
 **OPPO F7:**
@@ -498,6 +510,8 @@
 `CPH2473`: OPPO A77s
 
 **OPPO A78:**
+
+`CPH2565`: OPPO A78
 
 `CPH2483` `CPH2495`: OPPO A78 5G
 

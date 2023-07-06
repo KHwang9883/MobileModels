@@ -4237,6 +4237,9 @@ CPH2481,mob,oppo,OPPO,,,OPPO Reno8 T,#
 CPH2505,mob,oppo,OPPO,,,OPPO Reno8 T,#5G
 CPH2523,mob,oppo,OPPO,,,OPPO Reno9 A,#
 A301OP,mob,oppo,OPPO,,,OPPO Reno9 A,#SoftBank
+CPH2531,mob,oppo,OPPO,,,OPPO Reno10,#5G
+CPH2525,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G
+CPH2521,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
@@ -4347,6 +4350,7 @@ CPH2375,mob,oppo,OPPO,,,OPPO A76,#
 CPH2385,mob,oppo,OPPO,,,OPPO A77,#
 CPH2339,mob,oppo,OPPO,,,OPPO A77,#5G
 CPH2473,mob,oppo,OPPO,,,OPPO A77s,#
+CPH2565,mob,oppo,OPPO,,,OPPO A78,#
 CPH2483,mob,oppo,OPPO,,,OPPO A78,#5G
 CPH2495,mob,oppo,OPPO,,,OPPO A78,#5G
 CPH2001,mob,oppo,OPPO,,,OPPO A91,#
