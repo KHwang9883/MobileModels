@@ -201,9 +201,13 @@
 
 `RBN-NX1`: HONOR 70 Lite 5G
 
+**HONOR 90:**
+
+`REA-NX9`: HONOR 90 5G
+
 **HONOR 90 Lite:**
 
-`CRT-NX1`: HONOR 90 Lite 5G
+`CRT-NX1` `CRT-NX3`: HONOR 90 Lite 5G
 
 **HONOR Magic4 Pro (`Lange`):**
 
@@ -216,6 +220,10 @@
 **HONOR Magic4 Lite 5G (`Andy`):**
 
 `ANY-NX1`: HONOR Magic4 Lite 5G
+
+**HONOR Magic Vs:**
+
+`FRI-NX9`: HONOR Magic Vs
 
 **HONOR Magic5 (`Piaget`):**
 
@@ -294,3 +302,7 @@
 **HONOR Pad X8 Lite (`AgassiRM`):**
 
 `AGM-W09HN`: HONOR Pad X8 Lite
+
+**HONOR Pad X9:**
+
+`ELN-W09`: HONOR Pad X9

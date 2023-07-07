@@ -1696,10 +1696,13 @@ NTN-L22,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 NTN-LX3,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 FNE-NX9,mob,honor,HONOR,,,HONOR 70,#5G
 RBN-NX1,mob,honor,HONOR,,,HONOR 70 Lite,#5G
+REA-NX9,mob,honor,HONOR,,,HONOR 90,#5G
 CRT-NX1,mob,honor,HONOR,,,HONOR 90 Lite,#5G
+CRT-NX3,mob,honor,HONOR,,,HONOR 90 Lite,#5G
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite 5G,#
+FRI-NX9,mob,honor,HONOR,,,HONOR Magic Vs,#
 PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#5G
 PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
@@ -1733,6 +1736,7 @@ HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,#
+ELN-W09,pad,honor,HONOR,,,HONOR Pad X9,#
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,#移动版
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,#联通版
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,#联通 3G 版
