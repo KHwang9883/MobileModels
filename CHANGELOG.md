@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-07-10
+- `mitv_cn` 新增 小米电视 EA 系列 (2023)。
 ## 2023-07-05
 - `honor_cn` 新增 荣耀平板 X8 Pro, MagicPad, MagicBook X16, 智慧屏 5。
 - `nubia` 新增 红魔电竞平板。
