@@ -132,6 +132,10 @@
 
 `NX712J`: nubia Z50 Ultra
 
+**nubia Z50S Pro:**
+
+`NX713J`: nubia Z50S Pro
+
 ## 努比亚其他系列
 
 **nubia X6:**
