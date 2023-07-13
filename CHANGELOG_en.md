@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-07-13
+- `oppo_global_en` Add OPPO Pad 2.
 ## 2023-07-07
 - `honor_global_en` Add HONOR Pad X9.
 ## 2023-07-06

@@ -563,6 +563,10 @@
 
 `OPD2102A`: OPPO Pad Air
 
+**OPPO Pad 2:**
+
+`OPD2202`: OPPO Pad 2
+
 ## Watch series
 
 **OPPO Watch (`beluga`):**
