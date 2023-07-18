@@ -1033,6 +1033,10 @@
 
 `BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
 
+**HUAWEI MatePad (`Bartok`):**
+
+`BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
+
 **HUAWEI MatePad 10.8 (`SchumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
@@ -1160,6 +1164,12 @@
 `KOB2KZ-W09`: 华为擎云 C5 8 英寸 2023 Wi-Fi 版
 
 `KOB2KZ-AL00`: 华为擎云 C5 8 英寸 2023 全网通版
+
+**华为擎云 C5 (`BartokZ`):**
+
+`BTKZ-W00`: 华为擎云 C5 11.5 英寸 2023 Wi-Fi 版
+
+`BTKZ-AL00`: 华为擎云 C5 11.5 英寸 2023 全网通版
 
 **华为平板 C5e:**
 
