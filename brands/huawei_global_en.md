@@ -397,11 +397,11 @@
 
 `BNE-LX1` `BNE-LX3`: HUAWEI nova 10 SE
 
-**HUAWEI nova 11:**
+**HUAWEI nova 11 (`Fiona`):**
 
 `FOA-LX9`: HUAWEI nova 11
 
-**HUAWEI nova 11 Pro:**
+**HUAWEI nova 11 Pro (`Giona`):**
 
 `GOA-LX9`: HUAWEI nova 11 Pro
 
@@ -413,7 +413,7 @@
 
 `WKG-LX9`: HUAWEI nova Y60
 
-**HUAWEI nova Y61:**
+**HUAWEI nova Y61 (`Eevee`):**
 
 `EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61
 
@@ -620,6 +620,12 @@
 `BAH4-W09`: HUAWEI MatePad 10.4 2022 Wi-Fi
 
 `BAH4-L09`: HUAWEI MatePad 10.4 2022 LTE
+
+**HUAWEI MatePad (`Bartok`):**
+
+`BTK-W09`: HUAWEI MatePad 11.5 Wi-Fi
+
+`BTK-AL09`: HUAWEI MatePad 11.5 LTE
 
 **HUAWEI MatePad 11 (`Debussy`):**
 

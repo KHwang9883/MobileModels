@@ -2677,14 +2677,14 @@ GLA-LX1,mob,huawei,HUAWEI,,Gloria,HUAWEI nova 10 Pro,#
 GLA-LX3,mob,huawei,HUAWEI,,Gloria,HUAWEI nova 10 Pro,#
 BNE-LX1,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 10 SE,#
 BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 10 SE,#
-FOA-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 11,#
-GOA-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 11 Pro,#
+FOA-LX9,mob,huawei,HUAWEI,,Fiona,HUAWEI nova 11,#
+GOA-LX9,mob,huawei,HUAWEI,,Giona,HUAWEI nova 11 Pro,#
 MAO-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 11i,#
 MAO-LX9N,mob,huawei,HUAWEI,,,HUAWEI nova 11i,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
-EVE-LX9,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
-EVE-LX9N,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
-EVE-LX3,mob,huawei,HUAWEI,,,HUAWEI nova Y61,#
+EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,#
+EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,#
+EVE-LX3,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,#
 MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
 MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
@@ -2792,6 +2792,8 @@ BAH3-W09,pad,huawei,HUAWEI,,Bach3,HUAWEI MatePad,#10.4 Wi-Fi
 BAH3-L09,pad,huawei,HUAWEI,,Bach3,HUAWEI MatePad,#10.4 LTE
 BAH4-W09,pad,huawei,HUAWEI,,Bach4,HUAWEI MatePad,#10.4 2022 Wi-Fi
 BAH4-L09,pad,huawei,HUAWEI,,Bach4,HUAWEI MatePad,#10.4 2022 LTE
+BTK-W09,pad,huawei,HUAWEI,,Bartok,HUAWEI MatePad,#11.5 Wi-Fi
+BTK-AL09,pad,huawei,HUAWEI,,Bartok,HUAWEI MatePad,#11.5 LTE
 DBY-W09,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad 11,#Wi-Fi
 DBR-W09,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,#Wi-Fi
 DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#Wi-Fi

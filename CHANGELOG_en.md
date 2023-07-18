@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-07-18
+- `huawei_global_en` Add HUAWEI MatePad 11.5.
 ## 2023-07-13
 - `oppo_global_en` Add OPPO Pad 2.
 ## 2023-07-07
