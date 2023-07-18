@@ -496,6 +496,10 @@
 
 `PGGM10`: OPPO K10x
 
+**OPPO K11:**
+
+`PJC110`: OPPO K11
+
 **OPPO K11x:**
 
 `PHF110`: OPPO K11x

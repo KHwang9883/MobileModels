@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-07-18
 - `huawei_cn` 新增 HUAWEI MatePad 11.5。
+- `oppo_cn` 新增 OPPO K11。
 ## 2023-07-14
 - `honor_cn` 新增 荣耀畅玩 40C。
 ## 2023-07-12
