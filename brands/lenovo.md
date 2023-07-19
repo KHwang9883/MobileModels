@@ -188,9 +188,15 @@
 
 `Lenovo YT-K606F`: 联想 YOGA Pad Pro
 
-**联想拯救者 Y700 游戏平板:**
+**联想 YOGA Paper 墨水平板:**
 
-`Lenovo TB-9707F`: 联想拯救者 Y700 游戏平板
+`SP101FU`: 联想 YOGA Paper 墨水平板
+
+**联想拯救者 Y700:**
+
+`Lenovo TB-9707F`: 联想拯救者 Y700 (2022)
+
+`TB320FC`: 联想拯救者 Y700 (2023)
 
 **联想拯救者 Y900:**
 
@@ -254,11 +260,23 @@
 
 `Lenovo TB-X616F`: 联想平板 TB-X616F 10.3 英寸 Wi-Fi 版
 
+**联想启天 K9:**
+
+`TB310FU`: 联想启天 K9 9 英寸 Wi-Fi 版
+
+`TB310XC`: 联想启天 K9 9 英寸 LTE 版
+
 **联想启天 K10:**
 
 `Lenovo TB-X6C6F`: 联想启天 K10 10.3 英寸 Wi-Fi 版
 
 `Lenovo TB-X6C6X`: 联想启天 K10 10.3 英寸 LTE 版
+
+**联想启天 K10 Pro:**
+
+`TB223FC`: 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
+
+`TB226XC`: 联想启天 K10 Pro 10.61 英寸 LTE 版
 
 **联想启天 K11:**
 
@@ -269,6 +287,10 @@
 **联想启天 K11 Pro 5G:**
 
 `Lenovo TB-J607Z`: 联想启天 K11 Pro 5G
+
+**联想启天 SmartPaper:**
+
+`SP523FC`: 联想启天 SmartPaper 10.3 英寸 Wi-Fi 版
 
 **Lenovo Tab K10:**
 
