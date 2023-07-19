@@ -321,7 +321,9 @@
 
 **realme C53:**
 
-`RMX3760`: realme C53
+`RMX3760`: realme C53 Global
+
+`RMX3762`: realme C53 India
 
 **realme C55:**
 
@@ -480,3 +482,9 @@
 `RMP2107`: realme Pad X 5G
 
 `RMP2108`: realme Pad X Wi-Fi
+
+**realme Pad 2:**
+
+`RMP2204`: realme Pad 2 LTE
+
+`RMP2205`: realme Pad 2 Wi-Fi

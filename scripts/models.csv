@@ -4586,7 +4586,8 @@ RMX3511,mob,realme,realme,,,C35,#
 RMX3512,mob,realme,realme,,,C35,#
 RMX3513,mob,realme,realme,,,C35,#
 RMX3830,mob,realme,realme,,,C51,#
-RMX3760,mob,realme,realme,,,C53,#
+RMX3760,mob,realme,realme,,,C53,#Global
+RMX3762,mob,realme,realme,,,C53,#India
 RMX3710,mob,realme,realme,,,C55,#
 RMX1831,mob,realme,realme,,,U1,#
 RMX1833,mob,realme,realme,,,U1,#
@@ -4634,6 +4635,8 @@ RMP2105,pad,realme,realme,,,mini,#LTE
 RMP2106,pad,realme,realme,,,mini,#Wi-Fi
 RMP2107,pad,realme,realme,,,X,#5G
 RMP2108,pad,realme,realme,,,X,#Wi-Fi
+RMP2204,pad,realme,realme,,,2,#LTE
+RMP2205,pad,realme,realme,,,2,#Wi-Fi
 GT-I9000,mob,samsung,三星,,,Galaxy S,#公开版
 GT-I9008,mob,samsung,三星,,,Galaxy S,#移动定制版
 GT-I9008L,mob,samsung,三星,,,Galaxy S,#移动定制版

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-07-20
+- `realme_global_en` Add realme Pad 2.
 ## 2023-07-18
 - `huawei_global_en` Add HUAWEI MatePad 11.5.
 ## 2023-07-13
