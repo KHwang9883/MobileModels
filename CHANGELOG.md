@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-07-20
 - `lenovo` 新增 部分平板电脑型号。
+- `vivo_cn` 新增 vivo Pad Air。
 ## 2023-07-18
 - `huawei_cn` 新增 HUAWEI MatePad 11.5。
 - `oppo_cn` 新增 OPPO K11。

@@ -898,6 +898,10 @@
 
 `PA2373`: vivo Pad2
 
+**vivo Pad Air (`DPD2305`):**
+
+`PA2353`: vivo Pad Air
+
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
