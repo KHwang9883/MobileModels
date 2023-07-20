@@ -143,6 +143,10 @@
 
 `V2237`: vivo V27e
 
+**vivo V29:**
+
+`V2250`: vivo V29
+
 **vivo V29e:**
 
 `V2304`: vivo V29e 5G

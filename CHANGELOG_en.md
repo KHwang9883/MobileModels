@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2023-07-20
 - `realme_global_en` Add realme Pad 2.
+- `vivo_global_en` Add vivo Y29.
 ## 2023-07-18
 - `huawei_global_en` Add HUAWEI MatePad 11.5.
 ## 2023-07-13
