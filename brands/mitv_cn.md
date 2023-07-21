@@ -386,6 +386,18 @@
 
 `L75R8-A`: Redmi 智能电视 A75 2022 款
 
+**Redmi 智能电视 A 2024 款:**
+
+`L32RA-RA`: Redmi 智能电视 A32 2024 款
+
+`L43RA-RA`: Redmi 智能电视 A43 2024 款
+
+`L55RA-RA`: Redmi 智能电视 A55 2024 款
+
+`L65RA-RA`: Redmi 智能电视 A65 2024 款
+
+`L70RA-RA`: Redmi 智能电视 A70 2024 款
+
 **Redmi 智能电视 X:**
 
 `L50M5-RK`: Redmi 智能电视 X50 (2020)
