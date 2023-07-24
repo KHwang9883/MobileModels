@@ -891,9 +891,13 @@
 
 `23053RN02L`: Redmi 12 Latin America
 
-**[`M19A`] Redmi 12 (`heat`):**
+**[`M19E`] Redmi 12 (`heat`):**
 
 `23053RN02Y`: Redmi 12 Global (NFC)
+
+**[`M19`] Redmi 12 5G (`sky`):**
+
+`23076RN4BI`: Redmi 12 5G India
 
 **[`C3T`] Redmi 12C (`earth`):**
 

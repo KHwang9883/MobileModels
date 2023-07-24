@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-07-24
+- `xiaomi_en` Add Redmi 12 5G.
 ## 2023-07-20
 - `realme_global_en` Add realme Pad 2.
 - `vivo_global_en` Add vivo Y29.
