@@ -968,9 +968,13 @@
 
 `23053RN02L`: Redmi 12 拉美版
 
-**[`M19A`] Redmi 12 (`heat`):**
+**[`M19E`] Redmi 12 (`heat`):**
 
 `23053RN02Y`: Redmi 12 国际版 (NFC)
+
+**[`M19`] Redmi 12 5G (`sky`):**
+
+`23076RN4BI`: Redmi 12 5G 印度版
 
 **[`C3T`] Redmi 12C (`earth`):**
 
