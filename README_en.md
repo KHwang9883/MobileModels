@@ -38,7 +38,7 @@ Unlisted brands usually not include international models.
 - [TENAA](http://zd.taf.org.cn)
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
-- [China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
+- [China Telecom Tianyi Devices](http://surfing.tydevice.com/)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
 - [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)

@@ -85,7 +85,7 @@
 - [电信设备终端网](http://zd.taf.org.cn)
 - [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/resultQuery)
-- [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/pud_phone.do)
+- [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
 - [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
