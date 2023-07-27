@@ -1198,6 +1198,8 @@
 
 `FRI-G561`: 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+1TB)
 
+`FRI-H76`: 荣耀 MagicBook X 14 Pro 2023 R7 (16GB+512GB)
+
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
 `BBR-WAI9`: 荣耀 MagicBook X 15 i3
@@ -1225,6 +1227,8 @@
 `BRN-G56`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+512GB)
 
 `BRN-G561`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
+
+`BRN-H76`: 荣耀 MagicBook X 16 Pro 2023 R7 (16GB+512GB)
 
 **荣耀 MagicBook Z3 14 2023:**
 
