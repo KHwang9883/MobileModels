@@ -1714,11 +1714,18 @@ PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
 VNA-LX3,mob,honor,HONOR,,,HONOR X5,#
+WOD-LX1,mob,honor,HONOR,,,HONOR X5 Plus,#
+WOD-LX2,mob,honor,HONOR,,,HONOR X5 Plus,#
+WOD-LX3,mob,honor,HONOR,,,HONOR X5 Plus,#
 VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX2,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6s,#
 RBN-NX1,mob,honor,HONOR,,,HONOR X6 5G,#
+WDY-LX1,mob,honor,HONOR,,,HONOR X6a,#
+WDY-LX2,mob,honor,HONOR,,,HONOR X6a,#
+WDY-LX3,mob,honor,HONOR,,,HONOR X6a,#
+WDY-LX3,mob,honor,HONOR,,,HONOR X6a,#Plus
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#
@@ -1742,7 +1749,9 @@ HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,#
-ELN-W09,pad,honor,HONOR,,,HONOR Pad X9,#
+ELN-W09,pad,honor,HONOR,,,HONOR Pad X9,#Wi-Fi
+ELN-L03,pad,honor,HONOR,,,HONOR Pad X9,#LTE
+ELN-L09,pad,honor,HONOR,,,HONOR Pad X9,#LTE
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,#移动版
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,#联通版
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,#联通 3G 版

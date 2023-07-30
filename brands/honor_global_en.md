@@ -241,6 +241,10 @@
 
 `VNA-LX2` `VNA-LX3`: HONOR X5
 
+**HONOR X5 Plus:**
+
+`WOD-LX1` `WOD-LX2` `WOD-LX3`: HONOR X5 Plus
+
 **HONOR X6 (`Vinnie`):**
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
@@ -252,6 +256,12 @@
 **HONOR X6 5G:**
 
 `RBN-NX1`: HONOR X6 5G
+
+**HONOR X6a:**
+
+`WDY-LX1` `WDY-LX2` `WDY-LX3`: HONOR X6a
+
+`WDY-LX3`: HONOR X6a Plus
 
 **HONOR X7 (`Carmella`):**
 
@@ -305,4 +315,6 @@
 
 **HONOR Pad X9:**
 
-`ELN-W09`: HONOR Pad X9
+`ELN-W09`: HONOR Pad X9 Wi-Fi
+
+`ELN-L03` `ELN-L09`: HONOR Pad X9 LTE

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-07-30
+- `honor_global_en` Add HONOR X5 Plus & X6a.
 ## 2023-07-24
 - `xiaomi_en` Add Redmi 12 5G.
 ## 2023-07-20
