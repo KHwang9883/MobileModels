@@ -4765,10 +4765,12 @@ SM-F9000,mob,samsung,三星,,winner,Galaxy Fold,#
 SM-F9160,mob,samsung,三星,,f2q,Galaxy Z Fold2,#5G
 SM-F9260,mob,samsung,三星,,q2q,Galaxy Z Fold3,#5G
 SM-F9360,mob,samsung,三星,,q4q,Galaxy Z Fold4,#5G
+SM-F9460,mob,samsung,三星,,q5q,Galaxy Z Fold5,#5G
 SM-F7000,mob,samsung,三星,,bloomq,Galaxy Z Flip,#
 SM-F7070,mob,samsung,三星,,bloomxq,Galaxy Z Flip 5G,#
 SM-F7110,mob,samsung,三星,,b2q,Galaxy Z Flip3,#5G
 SM-F7210,mob,samsung,三星,,b4q,Galaxy Z Flip4,#5G
+SM-F7310,mob,samsung,三星,,b5q,Galaxy Z Flip5,#5G
 SM-A3000,mob,samsung,三星,,a3ltechn,Galaxy A3,#公开版
 SM-A3009,mob,samsung,三星,,a3ltectc,Galaxy A3,#电信定制版
 SM-A5000,mob,samsung,三星,,a5ltechn,Galaxy A5,#公开版
@@ -4886,6 +4888,10 @@ SM-X800,mob,samsung,三星,,gts8pwifi,Galaxy Tab S8,#WLAN
 SM-X806C,mob,samsung,三星,,gts8p,Galaxy Tab S8,#5G
 SM-X900,mob,samsung,三星,,gts8uwifi,Galaxy Tab S8 Ultra,#WLAN
 SM-X906C,mob,samsung,三星,,gts8u,Galaxy Tab S8 Ultra,#5G
+SM-X710,mob,samsung,三星,,gts9wifi,Galaxy Tab S9,#WLAN
+SM-X810,mob,samsung,三星,,gts9pwifi,Galaxy Tab S9,#WLAN
+SM-X910,mob,samsung,三星,,gts9uwifi,Galaxy Tab S9 Ultra,#WLAN
+SM-X916C,mob,samsung,三星,,gts9u,Galaxy Tab S9 Ultra,#5G
 SM-T350,mob,samsung,三星,,gt58wifichn,Galaxy Tab A 8.0,#WLAN
 SM-T355C,mob,samsung,三星,,gt58ltechn,Galaxy Tab A 8.0,#LTE
 SM-T550,mob,samsung,三星,,gt510wifichn,Galaxy Tab A 8.0,#9.7 WLAN
@@ -4918,6 +4924,21 @@ SM-T320,mob,samsung,三星,,mondrianwifi,Galaxy Tab PRO 8.4,#WLAN
 SM-T321,mob,samsung,三星,,mondrian3g,Galaxy Tab PRO 8.4,#3G
 SM-T520,mob,samsung,三星,,picassowifi,Galaxy Tab PRO 10.1,#WLAN
 SM-W700,mob,samsung,三星,,,Galaxy TabPro S,#WLAN
+SM-R860,watch,samsung,三星,,freshbs,Galaxy Watch4,#蓝牙版 40mm
+SM-R870,watch,samsung,三星,,freshbl,Galaxy Watch4,#蓝牙版 44mm
+SM-R880,watch,samsung,三星,,wisebs,Galaxy Watch4 Classic,#蓝牙版 42mm
+SM-R890,watch,samsung,三星,,wisebl,Galaxy Watch4 Classic,#蓝牙版 46mm
+SM-R8950,watch,samsung,三星,,wiseul,Galaxy Watch4 Classic,#LTE 46mm
+SM-R900,watch,samsung,三星,,heartbs,Galaxy Watch5,#蓝牙版 40mm
+SM-R910,watch,samsung,三星,,heartbl,Galaxy Watch5,#蓝牙版 44mm
+SM-R9150,watch,samsung,三星,,heartul,Galaxy Watch5,#LTE 44mm
+SM-R920,watch,samsung,三星,,projectxbl,Galaxy Watch5 Pro,#蓝牙版 45mm
+SM-R930,watch,samsung,三星,,fresh6bs,Galaxy Watch6,#蓝牙版 40mm
+SM-R940,watch,samsung,三星,,fresh6bl,Galaxy Watch6,#蓝牙版 44mm
+SM-R9450,watch,samsung,三星,,fresh6ul,Galaxy Watch6,#LTE 44mm
+SM-R950,watch,samsung,三星,,wise6bs,Galaxy Watch6 Classic,#蓝牙版 43mm
+SM-R960,watch,samsung,三星,,wise6bl,Galaxy Watch6 Classic,#蓝牙版 47mm
+SM-R9650,watch,samsung,三星,,wise6ul,Galaxy Watch6 Classic,#LTE 47mm
 SM-N960F,mob,samsung,Samsung,,crownqlte,Galaxy Note9,#EU
 SM-N970U,mob,samsung,Samsung,,d1q,Galaxy Note10,#US
 SM-A125F,mob,samsung,Samsung,,a12,Galaxy A12,#Global

@@ -354,6 +354,10 @@
 
 `SM-F9360`: Galaxy Z Fold4 5G
 
+**Galaxy Z Fold5 (`q5q`):**
+
+`SM-F9460`: Galaxy Z Fold5 5G
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F7000`: Galaxy Z Flip
@@ -369,6 +373,10 @@
 **Galaxy Z Flip4 (`b4q`):**
 
 `SM-F7210`: Galaxy Z Flip4 5G
+
+**Galaxy Z Flip5 (`b5q`):**
+
+`SM-F7310`: Galaxy Z Flip5 5G
 
 ## Galaxy A 系列
 
@@ -844,6 +852,22 @@
 
 `SM-X906C`: Galaxy Tab S8 Ultra 5G
 
+**Galaxy Tab S9 (`gts9wifi`):**
+
+`SM-X710`: Galaxy Tab S9 WLAN
+
+**Galaxy Tab S9+ (`gts9pwifi`):**
+
+`SM-X810`: Galaxy Tab S9+ WLAN
+
+**Galaxy Tab S9 Ultra (`gts9uwifi`):**
+
+`SM-X910`: Galaxy Tab S9 Ultra WLAN
+
+**Galaxy Tab S9 Ultra (`gts9u`):**
+
+`SM-X916C`: Galaxy Tab S9 Ultra 5G
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
@@ -975,3 +999,65 @@
 **Galaxy TabPro S:**
 
 `SM-W700`: Galaxy TabPro S WLAN
+
+## Galaxy Watch 系列
+
+**Galaxy Watch4 (`freshbs`):**
+
+`SM-R860`: Galaxy Watch4 蓝牙版 40mm
+
+**Galaxy Watch4 (`freshbl`):**
+
+`SM-R870`: Galaxy Watch4 蓝牙版 44mm
+
+**Galaxy Watch4 Classic (`wisebs`):**
+
+`SM-R880`: Galaxy Watch4 Classic 蓝牙版 42mm
+
+**Galaxy Watch4 Classic (`wisebl`):**
+
+`SM-R890`: Galaxy Watch4 Classic 蓝牙版 46mm
+
+**Galaxy Watch4 Classic (`wiseul`):**
+
+`SM-R8950`: Galaxy Watch4 Classic LTE 46mm
+
+**Galaxy Watch5 (`heartbs`):**
+
+`SM-R900`: Galaxy Watch5 蓝牙版 40mm
+
+**Galaxy Watch5 (`heartbl`):**
+
+`SM-R910`: Galaxy Watch5 蓝牙版 44mm
+
+**Galaxy Watch5 (`heartul`):**
+
+`SM-R9150`: Galaxy Watch5 LTE 44mm
+
+**Galaxy Watch5 Pro (`projectxbl`):**
+
+`SM-R920`: Galaxy Watch5 Pro 蓝牙版 45mm
+
+**Galaxy Watch6 (`fresh6bs`):**
+
+`SM-R930`: Galaxy Watch6 蓝牙版 40mm
+
+**Galaxy Watch6 (`fresh6bl`):**
+
+`SM-R940`: Galaxy Watch6 蓝牙版 44mm
+
+**Galaxy Watch6 (`fresh6ul`):**
+
+`SM-R9450`: Galaxy Watch6 LTE 44mm
+
+**Galaxy Watch6 Classic (`wise6bs`):**
+
+`SM-R950`: Galaxy Watch6 Classic 蓝牙版 43mm
+
+**Galaxy Watch6 Classic (`wise6bl`):**
+
+`SM-R960`: Galaxy Watch6 Classic 蓝牙版 47mm
+
+**Galaxy Watch6 Classic (`wise6ul`):**
+
+`SM-R9650`: Galaxy Watch6 Classic LTE 47mm

@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-07-31
+- `samsung_cn` 新增 Galaxy Z Fold5, Flip5, Watch6 系列, Tab S9 系列。
 ## 2023-07-29
 - `lenovo` 新增 联想小新 Pad Pro 12.7。
 ## 2023-07-27
