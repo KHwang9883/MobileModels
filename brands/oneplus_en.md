@@ -297,6 +297,10 @@
 
 `CPH2409`: OnePlus Nord CE 2 Lite EU / Global
 
+**OnePlus Nord CE 3:**
+
+`CPH2569`: OnePlus Nord CE 3 India
+
 **OnePlus Nord CE 3 Lite:**
 
 `CPH2465`: OnePlus Nord CE 3 Lite Global

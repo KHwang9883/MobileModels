@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-04
+- `oneplus_en` Add OnePlus Nord CE 3.
 ## 2023-07-30
 - `honor_global_en` Add HONOR X5 Plus & X6a.
 ## 2023-07-24
