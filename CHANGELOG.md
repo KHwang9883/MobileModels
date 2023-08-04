@@ -2,6 +2,7 @@
 ## 2023-08-04
 - `mitv_cn` 新增 小米电视 S Pro 100。
 - `oneplus` 新增 一加 Nord CE 3。
+- `xiaomi` 新增 MIX Fold 3, Pad 6 Max, K60 至尊版, Redmi Pad SE 等。
 ## 2023-07-31
 - `samsung_cn` 新增 Galaxy Z Fold5, Flip5, Watch6 系列, Tab S9 系列。
 ## 2023-07-29
