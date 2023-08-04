@@ -302,6 +302,10 @@
 
 `CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
 
+**OnePlus Nord CE 3:**
+
+`CPH2569`: OnePlus Nord CE 3 印度版
+
 **OnePlus Nord CE 3 Lite:**
 
 `CPH2465`: OnePlus Nord CE 3 Lite 国际版
