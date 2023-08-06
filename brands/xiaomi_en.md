@@ -1285,7 +1285,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 5G China
 
-**[`L19P`] Redmi Note 11R (`light`):**
+**[`L19`] Redmi Note 11R (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G China
 
