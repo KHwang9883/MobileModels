@@ -1680,15 +1680,11 @@
 
 `23049PCD8G`: POCO F5 国际版
 
-**[`M16T`] POCO F5 (`marblein`):**
-
 `23049PCD8I`: POCO F5 印度版
 
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75G`: POCO F5 Pro 国际版
-
-`23013PC75I`: POCO F5 Pro 印度版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
