@@ -1569,15 +1569,11 @@
 
 `23049PCD8G`: POCO F5 Global
 
-**[`M16T`] POCO F5 (`marblein`):**
-
 `23049PCD8I`: POCO F5 India
 
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75G`: POCO F5 Pro Global
-
-`23013PC75I`: POCO F5 Pro India
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
