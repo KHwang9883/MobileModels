@@ -1363,7 +1363,9 @@
 
 **HUAWEI MateBook 14 2023 (`KelvinG`):**
 
-`KLVG-16`: HUAWEI MateBook 14 2023
+`KLVG-16`: HUAWEI MateBook 14 2023 (16GB 内存)
+
+`KLVG-32`: HUAWEI MateBook 14 2023 (32GB 内存)
 
 **HUAWEI MateBook 14s (`HookeD`):**
 
@@ -1379,7 +1381,9 @@
 
 **HUAWEI MateBook 14s 2023 (`HookeFG`):**
 
-`HKFG-16`: HUAWEI MateBook 14s 2023
+`HKFG-16`: HUAWEI MateBook 14s 2023 (16GB 内存)
+
+`HKFG-32`: HUAWEI MateBook 14s 2023 (32GB 内存)
 
 **HUAWEI MateBook 16 (`CurieM`):**
 

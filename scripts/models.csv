@@ -2253,12 +2253,14 @@ KLVD-WFE9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i7 (16GB+512G
 KLVL-W56W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R5
 KLVL-W76W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R7
 KLVF-16,computer,huawei,华为,,KelvinF,HUAWEI MateBook 14 2022,#
-KLVG-16,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,#
+KLVG-16,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,#16GB 内存
+KLVG-32,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,#32GB 内存
 HKD-W58,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (8GB+512GB)
 HKD-W56,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (16GB+512GB)
 HKD-W76,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i7 (16GB+512GB/1TB)
 HKF-16,computer,huawei,华为,,HookeF,HUAWEI MateBook 14s 2022,#
-HKFG-16,computer,huawei,华为,,HookeFG,HUAWEI MateBook 14s 2023,#
+HKFG-16,computer,huawei,华为,,HookeFG,HUAWEI MateBook 14s 2023,#16GB 内存
+HKFG-32,computer,huawei,华为,,HookeFG,HUAWEI MateBook 14s 2023,#32GB 内存
 CREM-WFG9,computer,huawei,华为,,CurieM,HUAWEI MateBook 16,#R5
 CREM-WFD9,computer,huawei,华为,,CurieM,HUAWEI MateBook 16,#R7
 CREF-16,computer,huawei,华为,,CurieF,HUAWEI MateBook 16s,#

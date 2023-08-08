@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-08-09
+- `huawei_cn` 新增 HUAWEI MateBook 系列 32GB 内存版。
 ## 2023-08-08
 - `360shouji` 新增 360OS M50 & T20 Pro。
 - `huawei_cn` 增补 部分穿戴设备代号。
