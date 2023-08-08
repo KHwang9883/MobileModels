@@ -5133,8 +5133,9 @@ V2156FA,mob,vivo,vivo,,PD2156U,Y76s (t1 版),#5G
 V2219A,mob,vivo,vivo,,PD2219,Y77,#5G
 V2166BA,mob,vivo,vivo,,PD2224,Y77e|Y77e (t1 版),#5G
 V2166BA,mob,vivo,vivo,,PD2224,Y77e|Y77e (t1 版),1#5G
-V2278A,mob,vivo,vivo,,PD2278,Y78|Y78m,#5G
-V2278A,mob,vivo,vivo,,PD2278,Y78|Y78m,1#5G
+V2278A,mob,vivo,vivo,,PD2278,Y77t|Y78|Y78m,#5G
+V2278A,mob,vivo,vivo,,PD2278,Y77t|Y78|Y78m,1#5G
+V2278A,mob,vivo,vivo,,PD2278,Y77t|Y78|Y78m,2#5G
 V2271A,mob,vivo,vivo,,PD2271,Y78,#5G
 V1732A,mob,vivo,vivo,,PD1732,Y81,#全网通版
 V1732T,mob,vivo,vivo,,PD1732,Y81,#移动全网通版

@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-08-08
+- `vivo_cn` 新增 vivo Y77t。
 ## 2023-08-04
 - `mitv_cn` 新增 小米电视 S Pro 100。
 - `oneplus` 新增 一加 Nord CE 3。
