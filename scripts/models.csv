@@ -2428,39 +2428,39 @@ Leo-L00E,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#2018
 Leo-L09S,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#4G
 Leo-L19E,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#Pro
 LEO-DLXXU,watch,huawei,华为,,Leo,HUAWEI WATCH 2,#Smartwatch
-GLL-AL00,watch,huawei,华为,,,HUAWEI WATCH 3,#
-GLL-AL30,watch,huawei,华为,,,HUAWEI WATCH 3,#
-GLL-AL01,watch,huawei,华为,,,HUAWEI WATCH 3 Pro,#
-GLL-AL08,watch,huawei,华为,,,HUAWEI WATCH 3 Pro new,#时尚款
-GLL-AL09,watch,huawei,华为,,,HUAWEI WATCH 3 Pro new,#尊享款
-ARC-AL00,watch,huawei,华为,,,HUAWEI WATCH 4,#
-MDS-AL00,watch,huawei,华为,,,HUAWEI WATCH 4 Pro,#
-MDS-AL10,watch,huawei,华为,,,HUAWEI WATCH 4 Pro,#
+GLL-AL00,watch,huawei,华为,,Galileo,HUAWEI WATCH 3,#
+GLL-AL30,watch,huawei,华为,,Galileo,HUAWEI WATCH 3,#
+GLL-AL01,watch,huawei,华为,,GalileoPro,HUAWEI WATCH 3 Pro,#
+GLL-AL08,watch,huawei,华为,,GalileoPro,HUAWEI WATCH 3 Pro new,#时尚款
+GLL-AL09,watch,huawei,华为,,GalileoPro,HUAWEI WATCH 3 Pro new,#尊享款
+ARC-AL00,watch,huawei,华为,,Archi,HUAWEI WATCH 4,#
+MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
+MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#42mm
 LTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#46mm
 HCT-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2e,#
-VID-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2 Pro,#
-VID-B99,watch,huawei,华为,,,HUAWEI WATCH GT 2 Pro,#ECG
-MIL-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3,#42mm
-JPT-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3,#46mm
+VID-B19,watch,huawei,华为,,Vidar,HUAWEI WATCH GT 2 Pro,#
+VID-B99,watch,huawei,华为,,Vidar,HUAWEI WATCH GT 2 Pro,#ECG
+MIL-B19,watch,huawei,华为,,Milo,HUAWEI WATCH GT 3,#42mm
+JPT-B19,watch,huawei,华为,,Jupiter,HUAWEI WATCH GT 3,#46mm
 FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#43mm
 ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#46mm
 FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro 典藏版,#
 ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 保时捷设计,#
-RUN-B19,watch,huawei,华为,,,HUAWEI WATCH GT Runner,#
+RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,#
 OCF-B29,watch,huawei,华为,,,HUAWEI WATCH GT 2022 典藏版,#
 AND-B19,watch,huawei,华为,,,HUAWEI WATCH GT Cyber,#
 TIA-B19,watch,huawei,华为,,,HUAWEI WATCH FIT,#
 TIA-B29,watch,huawei,华为,,,HUAWEI WATCH FIT,#
-YDA-B09S,watch,huawei,华为,,,HUAWEI WATCH FIT 2,#
-YDA-B19S,watch,huawei,华为,,,HUAWEI WATCH FIT 2,#
-YDA-B19V,watch,huawei,华为,,,HUAWEI WATCH FIT 2,#
+YDA-B09S,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
+YDA-B19S,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
+YDA-B19V,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,#
 MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,#
-SGA-B19,watch,huawei,华为,,,HUAWEI WATCH Buds,#
+SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,#
 ERS-B29,band,huawei,华为,,,华为运动手环,#
 TER-B09,band,huawei,华为,,Terra,华为手环 3,#
 TER-B29,band,huawei,华为,,Terra,华为手环 3 Pro,#
@@ -2479,13 +2479,13 @@ ASK-B29,band,huawei,华为,,,华为手环 8,#NFC 版
 GMN-BX9,band,huawei,华为,,Gemini,华为手环 B3,#
 GRU-B09,band,huawei,华为,,,华为手环 B3 青春版,#
 JNS-BX9,band,huawei,华为,,Janus,华为手环 B5,#
-FDS-B19,band,huawei,华为,,,华为手环 B6,#
-FDS-B49,band,huawei,华为,,,华为通话手环 B7,#
+FDS-B19,band,huawei,华为,,Fides,华为手环 B6,#
+FDS-B49,band,huawei,华为,,Fides,华为通话手环 B7,#
 SIM-AL00,watch,huawei,华为,,Simba,华为儿童手表 3 Pro,#
 NEO-AL10,watch,huawei,华为,,Nemo,华为儿童手表 3s,#
 ALX-AL10,watch,huawei,华为,,Alex,华为儿童手表 3X,#
 ASN-AL10,watch,huawei,华为,,,华为儿童手表 4 Pro,#
-NIK-AL00,watch,huawei,华为,,,华为儿童手表 4X,#
+NIK-AL00,watch,huawei,华为,,Nick,华为儿童手表 4X,#
 KTY-L10,watch,huawei,华为,,,华为儿童手表 5,#
 ALA-AL10,watch,huawei,华为,,,华为儿童手表 5X,#
 AHP-AL10,watch,huawei,华为,,,华为儿童手表 5X Pro,#

@@ -1845,25 +1845,25 @@
 
 `LEO-DLXXU`: PORSCHE DESIGN | HUAWEI Smartwatch
 
-**HUAWEI WATCH 3:**
+**HUAWEI WATCH 3 (`Galileo`):**
 
 `GLL-AL00` `GLL-AL30`: HUAWEI WATCH 3
 
-**HUAWEI WATCH 3 Pro:**
+**HUAWEI WATCH 3 Pro (`GalileoPro`):**
 
 `GLL-AL01`: HUAWEI WATCH 3 Pro
 
-**HUAWEI WATCH 3 Pro new:**
+**HUAWEI WATCH 3 Pro new (`GalileoPro`):**
 
 `GLL-AL08`: HUAWEI WATCH 3 Pro new 时尚款
 
 `GLL-AL09`: HUAWEI WATCH 3 Pro new 尊享款
 
-**HUAWEI WATCH 4:**
+**HUAWEI WATCH 4 (`Archi`):**
 
 `ARC-AL00`: HUAWEI WATCH 4
 
-**HUAWEI WATCH 4 Pro:**
+**HUAWEI WATCH 4 Pro (`Medes`):**
 
 `MDS-AL00` `MDS-AL10`: HUAWEI WATCH 4 Pro
 
@@ -1887,15 +1887,17 @@
 
 `HCT-B19`: HUAWEI WATCH GT 2e
 
-**HUAWEI WATCH GT 2 Pro:**
+**HUAWEI WATCH GT 2 Pro (`Vidar`):**
 
 `VID-B19`: HUAWEI WATCH GT 2 Pro
 
 `VID-B99`: HUAWEI WATCH GT 2 Pro ECG
 
-**HUAWEI WATCH GT 3:**
+**HUAWEI WATCH GT 3 (`Milo`):**
 
 `MIL-B19`: HUAWEI WATCH GT 3 42mm
+
+**HUAWEI WATCH GT 3 (`Jupiter`):**
 
 `JPT-B19`: HUAWEI WATCH GT 3 46mm
 
@@ -1913,7 +1915,7 @@
 
 `ODN-B19`: HUAWEI WATCH GT 3 保时捷设计
 
-**HUAWEI WATCH GT Runner:**
+**HUAWEI WATCH GT Runner (`Runner`):**
 
 `RUN-B19`: HUAWEI WATCH GT Runner
 
@@ -1929,7 +1931,7 @@
 
 `TIA-B19` `TIA-B29`: HUAWEI WATCH FIT
 
-**HUAWEI WATCH FIT 2:**
+**HUAWEI WATCH FIT 2 (`Yoda`):**
 
 `YDA-B09S` `YDA-B19S` `YDA-B19V`: HUAWEI WATCH FIT 2
 
@@ -1937,7 +1939,7 @@
 
 `MLY-B10` `MLY-B11`: HUAWEI WATCH D
 
-**HUAWEI WATCH Buds:**
+**HUAWEI WATCH Buds (`Saga`):**
 
 `SGA-B19`: HUAWEI WATCH Buds
 
@@ -2005,11 +2007,11 @@
 
 `JNS-BX9`: 华为手环 B5
 
-**华为手环 B6:**
+**华为手环 B6 (`Fides`):**
 
 `FDS-B19`: 华为手环 B6
 
-**华为通话手环 B7:**
+**华为通话手环 B7 (`Fides`):**
 
 `FDS-B49`: 华为通话手环 B7
 
@@ -2029,7 +2031,7 @@
 
 `ASN-AL10`: 华为儿童手表 4 Pro
 
-**华为儿童手表 4X:**
+**华为儿童手表 4X (`Nick`):**
 
 `NIK-AL00`: 华为儿童手表 4X
 
