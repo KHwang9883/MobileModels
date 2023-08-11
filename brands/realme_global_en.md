@@ -159,6 +159,10 @@
 
 `RMX3612`: realme 10T 5G
 
+**realme 11:**
+
+`RMX3636`: realme 11
+
 **realme 11 Pro:**
 
 `RMX3771`: realme 11 Pro 5G
