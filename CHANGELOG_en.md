@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2023-08-11
 - `realme_global_en` Add realme 11 4G.
+- `xiaomi_en` Add Redmi 12 5G.
 ## 2023-08-04
 - `oneplus_en` Add OnePlus Nord CE 3.
 - `xiaomi_en` Add MIX Fold 3, Xiaomi 13T, POCO M6 Pro 5G.

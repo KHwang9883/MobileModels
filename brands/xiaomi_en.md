@@ -911,6 +911,10 @@
 
 **[`M19`] Redmi 12 5G (`sky`):**
 
+`23076RN8DY`: Redmi 12 5G Global (NFC)
+
+`23077RABDC`: Redmi 12 5G China
+
 `23076RN4BI`: Redmi 12 5G India
 
 **[`C3T`] Redmi 12C (`earth`):**
@@ -1777,9 +1781,9 @@
 
 `23046RP50C`: Xiaomi Pad 6 Pro China
 
-**[`M80`] Xiaomi Pad 6 Max (`yudi`):**
+**[`M80`] Xiaomi Pad 6 Max 14 (`yudi`):**
 
-`2307BRPDCC`: Xiaomi Pad 6 Max China
+`2307BRPDCC`: Xiaomi Pad 6 Max 14 China
 
 **[`L83`] Redmi Pad (`yunluo`):**
 
