@@ -5617,7 +5617,7 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,#
 23043RP34G,pad,xiaomi,小米,M82,pipa,Xiaomi Pad 6,#国际版
 23043RP34I,pad,xiaomi,小米,M82,pipa,Xiaomi Pad 6,#印度版
 23046RP50C,pad,xiaomi,小米,M81,liuqin,Xiaomi Pad 6 Pro,#
-2307BRPDCC,pad,xiaomi,小米,M80,yudi,Xiaomi Pad 6 Max,#
+2307BRPDCC,pad,xiaomi,小米,M80,yudi,Xiaomi Pad 6 Max,#14
 2013022,mob,xiaomi,小米,H2TD,wt93007,红米手机,#移动版
 2013023,mob,xiaomi,小米,H2W,wt98007,红米手机,#联通版
 2013029,mob,xiaomi,小米,H2A,armani,红米 1S,#联通版
@@ -5757,6 +5757,8 @@ M2010J19SL,mob,xiaomi,小米,J19S,pomelo,Redmi 9T,#拉美版
 23053RN02I,mob,xiaomi,小米,M19A,fire,Redmi 12,#印度版
 23053RN02L,mob,xiaomi,小米,M19A,fire,Redmi 12,#拉美版
 23053RN02Y,mob,xiaomi,小米,M19E,heat,Redmi 12,#国际版 (NFC)
+23077RABDC,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#全网通版
+23076RN8DY,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#国际版 (NFC)
 23076RN4BI,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#印度版
 22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,#全网通版
 22120RN86G,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
@@ -6370,6 +6372,8 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19S,pomelo,Redmi 9T,#Latin America
 23053RN02I,mob,xiaomi,Xiaomi,M19A,fire,Redmi 12,#India
 23053RN02L,mob,xiaomi,Xiaomi,M19A,fire,Redmi 12,#Latin America
 23053RN02Y,mob,xiaomi,Xiaomi,M19E,heat,Redmi 12,#Global (NFC)
+23076RN8DY,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Global (NFC)
+23077RABDC,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#China
 23076RN4BI,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#India
 22120RN86G,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
 22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
@@ -6667,7 +6671,7 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 23043RP34I,pad,xiaomi,Xiaomi,M82,pipa,Xiaomi Pad 6,#India
 23043RP34C,pad,xiaomi,Xiaomi,M82,pipa,Xiaomi Pad 6,#China
 23046RP50C,pad,xiaomi,Xiaomi,M81,liuqin,Xiaomi Pad 6 Pro,#China
-2307BRPDCC,pad,xiaomi,Xiaomi,M80,yudi,Xiaomi Pad 6 Max,#China
+2307BRPDCC,pad,xiaomi,Xiaomi,M80,yudi,Xiaomi Pad 6 Max 14,#China
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,#Global
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,#China
 23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Global

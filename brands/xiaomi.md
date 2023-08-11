@@ -634,7 +634,7 @@
 
 **[`M80`] Xiaomi Pad 6 Max (`yudi`):**
 
-`2307BRPDCC`: Xiaomi Pad 6 Max
+`2307BRPDCC`: Xiaomi Pad 6 Max 14
 
 ## 红米 / Redmi 数字系列
 
@@ -991,6 +991,10 @@
 `23053RN02Y`: Redmi 12 国际版 (NFC)
 
 **[`M19`] Redmi 12 5G (`sky`):**
+
+`23077RABDC`: Redmi 12 5G 全网通版
+
+`23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
 `23076RN4BI`: Redmi 12 5G 印度版
 
