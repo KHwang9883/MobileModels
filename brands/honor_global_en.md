@@ -257,7 +257,7 @@
 
 `RBN-NX1`: HONOR X6 5G
 
-**HONOR X6a:**
+**HONOR X6a (`Woody`):**
 
 `WDY-LX1` `WDY-LX2` `WDY-LX3`: HONOR X6a
 
