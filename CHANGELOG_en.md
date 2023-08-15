@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-15
+- `mitv_global_en` Add several Indian models.
 ## 2023-08-11
 - `realme_global_en` Add realme 11 4G.
 - `xiaomi_en` Add Redmi 12 5G.

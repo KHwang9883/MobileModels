@@ -3585,6 +3585,7 @@ L32M5-AL,tv,mitv,Xiaomi,,,Mi TV 4A,#LED Smart TV 4A Pro 32
 L43M5-AN,tv,mitv,Xiaomi,,,Mi TV 4A,#LED Smart TV 4A Pro 43
 L49M5-AN,tv,mitv,Xiaomi,,,Mi TV 4A,#LED Smart TV 4A Pro 49
 L32M6-EI,tv,mitv,Xiaomi,,,Mi TV 4A,#32 Horizon
+L50M8-5X,tv,mitv,Xiaomi,,,Mi TV 4A,#40 Horizon
 L43M6-EI,tv,mitv,Xiaomi,,,Mi TV 4A,#43 Horizon
 L55M5-AI,tv,mitv,Xiaomi,,,Mi TV 4,#LED Smart TV 4 55
 L55M5-AN,tv,mitv,Xiaomi,,,Mi TV 4,#LED Smart TV 4 Pro 55
@@ -3602,9 +3603,19 @@ L55M6-ES,tv,mitv,Xiaomi,,,Mi TV 5X,#55
 L32M7-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV 5A,#32
 L40M7-EAIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV 5A,#40
 L43M7-EAIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV 5A,#43
-L43M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Series,#43
-L50M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Series,#50
-L55M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Series,#55
+L32M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#32
+L40M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#40
+L43M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#43
+L43M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#43
+L43M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#43 2023 Edition
+L50M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#50
+L50M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#50 2023 Edition
+L55M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#55
+L55M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#55 2023 Edition
+L65M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#65 2023 Edition
+L43M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#43
+L50M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#50
+L55M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#55
 L55M6-EQG,tv,mitv,Xiaomi,,,Mi QLED TV,#Q1 4K 55
 L75M6-ESG,tv,mitv,Xiaomi,,,Mi QLED TV,#Q1 75
 O55M7-Z2IN,tv,mitv,Xiaomi,,,Xiaomi OLED Vision TV,#55

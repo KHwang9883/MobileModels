@@ -21,6 +21,8 @@
 
 `L32M6-EI`: Mi TV 4A 32 Horizon
 
+`L50M8-5X`: Mi TV 4A 40 Horizon
+
 `L43M6-EI`: Mi TV 4A 43 Horizon
 
 **Mi TV 4:**
@@ -65,13 +67,37 @@
 
 `L43M7-EAIN`: Xiaomi Smart TV 5A 43
 
-**Xiaomi Smart TV X Series:**
+**Xiaomi Smart TV A:**
+
+`L32M8-5AIN`: Xiaomi Smart TV A 32
+
+`L40M8-5AIN`: Xiaomi Smart TV A 40
+
+`L43M8-5AIN`: Xiaomi Smart TV A 43
+
+**Xiaomi Smart TV X:**
 
 `L43M7-A2IN`: Xiaomi Smart TV X43
 
+`L43M8-A2IN`: Xiaomi Smart TV X 43 2023 Edition
+
 `L50M7-A2IN`: Xiaomi Smart TV X50
 
+`L50M8-A2IN`: Xiaomi Smart TV X 50 2023 Edition
+
 `L55M7-A2IN`: Xiaomi Smart TV X55
+
+`L55M8-A2IN`: Xiaomi Smart TV X 55 2023 Edition
+
+`L65M8-A2IN`: Xiaomi Smart TV X 65 2023 Edition
+
+**Xiaomi Smart TV X Pro:**
+
+`L43M8-5XIN`: Xiaomi Smart TV X Pro 43
+
+`L50M8-5XIN`: Xiaomi Smart TV X Pro 50
+
+`L55M8-5XIN`: Xiaomi Smart TV X Pro 55
 
 **Mi QLED TV:**
 
