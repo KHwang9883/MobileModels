@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-16
+- `oneplus_en` Add OnePlus Ace 2 Pro.
 ## 2023-08-15
 - `mitv_global_en` Add several Indian models.
 ## 2023-08-11

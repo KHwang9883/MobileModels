@@ -257,6 +257,10 @@
 
 `PHP110`: OnePlus Ace 2V China
 
+**OnePlus Ace 2 Pro:**
+
+`PJA110`: OnePlus Ace 2 Pro China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
