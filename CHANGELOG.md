@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-08-17
+- `oppo_cn` 新增 OPPO Find N3 Flip。
 ## 2023-08-16
 - `oneplus` 新增 一加 Ace 2 Pro。
 ## 2023-08-11

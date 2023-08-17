@@ -68,6 +68,10 @@
 
 `PGT110`: OPPO Find N2 Flip
 
+**OPPO Find N3 Flip:**
+
+`PHT110`: OPPO Find N3 Flip
+
 ## Reno 系列
 
 **OPPO Reno:**
