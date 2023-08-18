@@ -909,11 +909,13 @@
 
 `23053RN02Y`: Redmi 12 Global (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`):**
+**[`M19`] Redmi 12 5G (`river`):**
 
 `23076RN8DY`: Redmi 12 5G Global (NFC)
 
 `23077RABDC`: Redmi 12 5G China
+
+**[`M19`] Redmi 12 5G (`sky`):**
 
 `23076RN4BI`: Redmi 12 5G India
 
