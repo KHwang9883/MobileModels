@@ -1,6 +1,7 @@
 # 更新日志
 ## 2023-08-18
 - `honor_cn` 新增 荣耀畅玩 40S。
+- `vivo_cn` 新增 vivo Y78+ (t1)。
 ## 2023-08-17
 - `oppo_cn` 新增 OPPO Find N3 Flip。
 ## 2023-08-16

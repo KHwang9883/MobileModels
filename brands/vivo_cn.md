@@ -520,9 +520,9 @@
 
 `V2278A`: vivo Y77t 5G / vivo Y78 5G / vivo Y78m 5G
 
-**vivo Y78+ (`PD2271`):**
+**vivo Y78+ / vivo Y78+ (t1) (`PD2271`):**
 
-`V2271A`: vivo Y78+ 5G
+`V2271A`: vivo Y78+ 5G / vivo Y78+ (t1) 5G
 
 **vivo Y81 (`PD1732`):**
 
