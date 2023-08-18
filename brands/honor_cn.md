@@ -1054,6 +1054,8 @@
 
 `GLO-G561`: 荣耀 MagicBook 14 2023 i5 (16GB+1TB)
 
+`GLO-G52`: 荣耀 MagicBook 14 2023 i5 (32GB+1TB)
+
 **荣耀 MagicBook 14 Pro 2023:**
 
 `GLO-G561`: 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
