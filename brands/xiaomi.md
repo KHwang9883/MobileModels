@@ -990,11 +990,13 @@
 
 `23053RN02Y`: Redmi 12 国际版 (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`):**
+**[`M19`] Redmi 12 5G (`river`):**
 
 `23077RABDC`: Redmi 12 5G 全网通版
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
+
+**[`M19`] Redmi 12 5G (`sky`):**
 
 `23076RN4BI`: Redmi 12 5G 印度版
 
