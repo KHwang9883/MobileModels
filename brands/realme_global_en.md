@@ -145,17 +145,17 @@
 
 `RMX3630`: realme 10
 
-**realme 10 Pro:**
+**realme 10 Pro 5G:**
 
 `RMX3660`: realme 10 Pro 5G India
 
 `RMX3661`: realme 10 Pro 5G Global
 
-**realme 10 Pro+:**
+**realme 10 Pro+ 5G:**
 
 `RMX3686`: realme 10 Pro+ 5G
 
-**realme 10T:**
+**realme 10T 5G:**
 
 `RMX3612`: realme 10T 5G
 
@@ -163,11 +163,19 @@
 
 `RMX3636`: realme 11
 
-**realme 11 Pro:**
+**realme 11 5G:**
+
+`RMX3780`: realme 11 5G
+
+**realme 11x 5G:**
+
+`RMX3785`: realme 11x 5G
+
+**realme 11 Pro 5G:**
 
 `RMX3771`: realme 11 Pro 5G
 
-**realme 11 Pro+:**
+**realme 11 Pro+ 5G:**
 
 `RMX3741`: realme 11 Pro+ 5G
 
@@ -371,7 +379,7 @@
 
 **realme Narzo 30:**
 
-`RMX2156`: realme Narzo 30 4G
+`RMX2156`: realme Narzo 30
 
 `RMX3242`: realme Narzo 30 5G
 

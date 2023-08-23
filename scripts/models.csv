@@ -4568,13 +4568,15 @@ RMX3392,mob,realme,realme,,,9 Pro+ 5G,#India
 RMX3393,mob,realme,realme,,,9 Pro+ 5G,#Global
 RMX3461,mob,realme,realme,,,9 5G Speed Edition,#India
 RMX3630,mob,realme,realme,,,10,#
-RMX3660,mob,realme,realme,,,10 Pro,#5G India
-RMX3661,mob,realme,realme,,,10 Pro,#5G Global
-RMX3686,mob,realme,realme,,,10 Pro,#5G
-RMX3612,mob,realme,realme,,,10T,#5G
+RMX3660,mob,realme,realme,,,10 Pro 5G,#India
+RMX3661,mob,realme,realme,,,10 Pro 5G,#Global
+RMX3686,mob,realme,realme,,,10 Pro+ 5G,#
+RMX3612,mob,realme,realme,,,10T 5G,#
 RMX3636,mob,realme,realme,,,11,#
-RMX3771,mob,realme,realme,,,11 Pro,#5G
-RMX3741,mob,realme,realme,,,11 Pro,#5G
+RMX3780,mob,realme,realme,,,11 5G,#
+RMX3785,mob,realme,realme,,,11x 5G,#
+RMX3771,mob,realme,realme,,,11 Pro 5G,#
+RMX3741,mob,realme,realme,,,11 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
 RMX1921,mob,realme,realme,,,XT,#Global
 RMX1922,mob,realme,realme,,,XT,#India
@@ -4651,7 +4653,7 @@ RMX2193,mob,realme,realme,,,Narzo 20,#India
 RMX2161,mob,realme,realme,,,Narzo 20 Pro,#India
 RMX2163,mob,realme,realme,,,Narzo 20 Pro,#Global
 RMX2050,mob,realme,realme,,,Narzo 20A,#
-RMX2156,mob,realme,realme,,,Narzo 30,#4G
+RMX2156,mob,realme,realme,,,Narzo 30,#
 RMX3242,mob,realme,realme,,,Narzo 30,#5G
 RMX2117,mob,realme,realme,,,Narzo 30 Pro,#5G
 RMX3171,mob,realme,realme,,,Narzo 30A,#

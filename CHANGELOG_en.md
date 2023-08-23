@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-23
+- `realme_global_en` Add realme 11 5G series.
 ## 2023-08-16
 - `oneplus_en` Add OnePlus Ace 2 Pro.
 ## 2023-08-15
