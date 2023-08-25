@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-25
+- `xiaomi_en` Add Redmi 12R.
 ## 2023-08-23
 - `realme_global_en` Add realme 11 5G series.
 ## 2023-08-16

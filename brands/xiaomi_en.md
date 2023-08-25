@@ -919,6 +919,10 @@
 
 `23076RN4BI`: Redmi 12 5G India
 
+**[`M19`] Redmi 12R (`sky`):**
+
+`23076RA4BC`: Redmi 12R China
+
 **[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86G`: Redmi 12C Global
