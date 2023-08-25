@@ -1000,6 +1000,10 @@
 
 `23076RN4BI`: Redmi 12 5G 印度版
 
+**[`M19`] Redmi 12R (`sky`):**
+
+`23076RA4BC`: Redmi 12R 全网通版
+
 **[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86C`: Redmi 12C 全网通版

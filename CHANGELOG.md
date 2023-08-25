@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-08-25
+- `xiaomi` 新增 Redmi 12R.
 ## 2023-08-18
 - `honor_cn` 新增 荣耀畅玩 40S, 荣耀 MagicBook 14 32GB 内存版。
 - `vivo_cn` 新增 vivo Y78+ (t1)。
