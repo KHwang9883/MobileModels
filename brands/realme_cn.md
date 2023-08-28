@@ -86,6 +86,12 @@
 
 `RMX3551`: 真我 GT2 大师探索版
 
+**真我 GT5:**
+
+`RMX3820`: 真我 GT5 150W
+
+`RMX3823`: 真我 GT5 240W
+
 ## Neo 系列
 
 **真我 GT Neo:**
@@ -106,13 +112,13 @@
 
 **真我 GT Neo3:**
 
-`RMX3560`: 真我 GT Neo3
+`RMX3560`: 真我 GT Neo3 80W
 
 `RMX3562`: 真我 GT Neo3 150W
 
 **真我 GT Neo5:**
 
-`RMX3706`: 真我 GT Neo5
+`RMX3706`: 真我 GT Neo5 150W
 
 `RMX3708`: 真我 GT Neo5 240W
 
