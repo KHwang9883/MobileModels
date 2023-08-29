@@ -555,3 +555,7 @@
 `OWW211`: OPPO Watch 3 Pro
 
 `OWW213`: OPPO Watch 3 SE
+
+**OPPO Watch 4 Pro:**
+
+`OWW221`: OPPO Watch 4 Pro
