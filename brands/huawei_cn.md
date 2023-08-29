@@ -187,6 +187,10 @@
 
 `DCO-AL00`: HUAWEI Mate 50 RS 保时捷设计
 
+**HUAWEI Mate 60 Pro (`Allen`):**
+
+`ALN-AL00` `ALN-AL80`: HUAWEI Mate 60 Pro
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
