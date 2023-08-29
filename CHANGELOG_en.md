@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-29
+- `huawei_global_en` Add HUAWEI Mate 60 Pro.
 ## 2023-08-25
 - `xiaomi_en` Add Redmi 12R.
 ## 2023-08-23

@@ -127,6 +127,10 @@
 
 `DCO-LX9`: HUAWEI Mate 50 Pro
 
+**HUAWEI Mate 60 Pro (`Allen`):**
+
+`ALN-LX9`: HUAWEI Mate 60 Pro
+
 **HUAWEI Mate Xs (`Tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM
