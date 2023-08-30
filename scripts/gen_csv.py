@@ -26,7 +26,7 @@ devc_model_names: List[str] = []  # 设备型号正式名
 
 _re_title = re.compile(r'^#+')
 _re_blanks = re.compile(r'\s+')
-_re_char = re.compile(r'[^\W_]')
+_re_char = re.compile(r'([+]+|[^\W_])')
 _re_word = re.compile(r'([a-zA-Z0-9]+|[^\W_]{,3})')
 _re_non_word = re.compile(r'[\W_]+')
 # 匹配model和版本的正则
