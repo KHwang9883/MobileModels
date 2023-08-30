@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-08-30
+- `huawei_cn` 新增 HUAWEI Mate 60。
 ## 2023-08-29
 - `huawei_cn` 新增 HUAWEI Mate 60 Pro。
 - `oppo_cn` 新增 OPPO Watch 4 Pro。
