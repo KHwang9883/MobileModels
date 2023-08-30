@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-08-30
+- `vivo_global_en` Add several new models.
 ## 2023-08-29
 - `huawei_global_en` Add HUAWEI Mate 60 Pro.
 ## 2023-08-25
