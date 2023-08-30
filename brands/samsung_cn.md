@@ -78,7 +78,7 @@
 
 `GT-I9508V`: Galaxy S4 移动 4G 定制版
 
-**Galaxy S4 Zoon (`mproject3g`):**
+**Galaxy S4 Zoom (`mproject3g`):**
 
 `SM-C101`: Galaxy S4 zoom
 
