@@ -1823,6 +1823,14 @@
 
 `HD86QINA`: 华为 Vision 智慧屏 3 86
 
+**华为 Vision 智慧屏 SE3:**
+
+`HD55KUNA`: 华为 Vision 智慧屏 SE3 55
+
+`HD65KUNA`: 华为 Vision 智慧屏 SE3 65
+
+`HD75KUNA`: 华为 Vision 智慧屏 SE3 75
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500

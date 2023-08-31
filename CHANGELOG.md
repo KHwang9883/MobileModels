@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-08-31
+- `huawei_cn` 新增 华为 Vision 智慧屏 SE3。
 ## 2023-08-30
 - `huawei_cn` 新增 HUAWEI Mate 60。
 - `vivo_cn` 新增 iQOO Z8 系列。
