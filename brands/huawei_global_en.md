@@ -139,7 +139,7 @@
 
 `PAL-LX9` `PAL-L29`: HUAWEI Mate Xs 2
 
-**HUAWEI Mate X3:**
+**HUAWEI Mate X3 (`Alta`):**
 
 `ALT-L29`: HUAWEI Mate X3
 
