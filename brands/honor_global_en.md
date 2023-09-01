@@ -205,7 +205,7 @@
 
 `REA-NX9`: HONOR 90 5G
 
-**HONOR 90 Lite:**
+**HONOR 90 Lite (`Cartier`):**
 
 `CRT-NX1` `CRT-NX3`: HONOR 90 Lite 5G
 
@@ -275,7 +275,7 @@
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
 
-**HONOR X8a:**
+**HONOR X8a (`Cartier`):**
 
 `CRT-LX1` `CRT-LX2` `CRT-LX3`: HONOR X8a
 
