@@ -862,7 +862,7 @@
 
 `AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 
-**荣耀平板 X8 Pro:**
+**荣耀平板 X8 Pro (`Eileen`):**
 
 `ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
 
