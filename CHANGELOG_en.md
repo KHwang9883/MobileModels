@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-09-01
+- `vivo_global_en` Add vivo T2 Pro.
 ## 2023-08-30
 - `vivo_global_en` Add several new models.
 ## 2023-08-29

@@ -191,6 +191,10 @@
 
 `V2240`: vivo T2 5G
 
+**vivo T2 Pro:**
+
+`V2321`: vivo T2 Pro 5G
+
 **vivo T2x:**
 
 `V2253` `V2312`: vivo T2x 5G
