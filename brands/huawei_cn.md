@@ -215,7 +215,7 @@
 
 `PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2
 
-**HUAWEI Mate X3:**
+**HUAWEI Mate X3 (`Alta`):**
 
 `ALT-AL00`: HUAWEI Mate X3
 
