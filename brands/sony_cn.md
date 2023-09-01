@@ -89,3 +89,7 @@
 **Xperia 1 V:**
 
 `XQ-DQ72`: Xperia 1 V
+
+**Xperia 5 V:**
+
+`XQ-DE72`: Xperia 5 V
