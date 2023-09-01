@@ -313,7 +313,7 @@
 
 `AGM-W09HN`: HONOR Pad X8 Lite
 
-**HONOR Pad X9:**
+**HONOR Pad X9 (`Eileen`):**
 
 `ELN-W09`: HONOR Pad X9 Wi-Fi
 
