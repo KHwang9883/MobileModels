@@ -161,3 +161,7 @@
 **moto razr 40 Ultra (`zeekr`):**
 
 `XT2321-2`: moto razr 40 Ultra
+
+**moto g54 (`cancunf`):**
+
+`XT2343-3`: moto g54
