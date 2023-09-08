@@ -195,6 +195,10 @@
 
 `ALN-AL00` `ALN-AL80`: HUAWEI Mate 60 Pro
 
+**HUAWEI Mate 60 Pro+ (`Allen`):**
+
+`ALN-AL10`: HUAWEI Mate 60 Pro+
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -218,6 +222,10 @@
 **HUAWEI Mate X3 (`Alta`):**
 
 `ALT-AL00`: HUAWEI Mate X3
+
+**HUAWEI Mate X5 (`Alta`):**
+
+`ALT-AL10`: HUAWEI Mate X5
 
 ## HUAWEI P 系列
 

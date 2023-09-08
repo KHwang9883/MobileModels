@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-09-08
+- `huawei_cn` 新增 HUAWEI Mate X5, Mate 60 Pro+。
 ## 2023-09-05
 - `motorola` 新增 moto g54。
 ## 2023-09-01

@@ -1822,6 +1822,7 @@ DCO-AL00,mob,huawei,华为,,Draco,HUAWEI Mate 50 RS 保时捷设计,#
 BRA-AL00,mob,huawei,华为,,Barry,HUAWEI Mate 60,#
 ALN-AL00,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
+ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,#
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
@@ -1831,6 +1832,7 @@ TET-AL00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#4G
 PAL-AL00,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
 PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
 ALT-AL00,mob,huawei,华为,,Alta,HUAWEI Mate X3,#
+ALT-AL10,mob,huawei,华为,,Alta,HUAWEI Mate X5,#
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,#
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,#XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,#S
