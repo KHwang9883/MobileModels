@@ -446,6 +446,10 @@
 
 `PHJ110`: OPPO A1x / OPPO A1 活力版
 
+**OPPO A2 Pro:**
+
+`PJG110`: OPPO A2 Pro
+
 ## K 系列
 
 **OPPO K1:**
