@@ -292,6 +292,10 @@
 
 `ALA-AN70`: 荣耀 V40 轻奢版 5G
 
+**荣耀 V Purse (`Victoria`):**
+
+`VCA-AN00`: 荣耀 V Purse 5G
+
 ## 荣耀 Magic 系列
 
 **荣耀 Magic:**

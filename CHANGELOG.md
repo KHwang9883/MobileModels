@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-09-11
+- `honor_cn` 新增 荣耀 V Purse。
 ## 2023-09-08
 - `huawei_cn` 新增 HUAWEI Mate X5, Mate 60 Pro+。
 - `oppo_cn` 新增 OPPO A2 Pro。
