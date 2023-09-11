@@ -526,6 +526,10 @@
 
 `OPD2201`: OPPO Pad 2
 
+**OPPO Pad 2 Air:**
+
+`OPD2301`: OPPO Pad 2 Air
+
 ## Watch 系列
 
 **OPPO Watch:**
@@ -560,6 +564,6 @@
 
 `OWW213`: OPPO Watch 3 SE
 
-**OPPO Watch 4 Pro:**
+**OPPO Watch 4 (`comet`):**
 
 `OWW221`: OPPO Watch 4 Pro
