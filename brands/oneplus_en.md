@@ -257,7 +257,7 @@
 
 `PHP110`: OnePlus Ace 2V China
 
-**OnePlus Ace 2 Pro:**
+**OnePlus Ace 2 Pro (`xigua`):**
 
 `PJA110`: OnePlus Ace 2 Pro China
 
@@ -360,3 +360,7 @@
 **OnePlus Pad:**
 
 `OPD2203`: OnePlus Pad
+
+**OnePlus Pad Go:**
+
+`OPD2304`: OnePlus Pad Go
