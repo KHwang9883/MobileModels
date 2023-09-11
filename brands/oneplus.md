@@ -262,7 +262,7 @@
 
 `PHP110`: 一加 Ace 2V 全网通版
 
-**一加 Ace 2 Pro:**
+**一加 Ace 2 Pro (`xigua`):**
 
 `PJA110`: 一加 Ace 2 Pro 全网通版
 
@@ -365,3 +365,7 @@
 **OnePlus Pad:**
 
 `OPD2203`: OnePlus Pad
+
+**OnePlus Pad Go:**
+
+`OPD2304`: OnePlus Pad Go
