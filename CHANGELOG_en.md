@@ -1,4 +1,8 @@
 # CHANGELOG
+## 2023-09-12
+- `realme_global_en` Add realme Narzo 60x.
+## 2023-09-10
+- `oppo_global_en` Add OPPO A38 4G, A58 4G.
 ## 2023-09-01
 - `vivo_global_en` Add vivo T2 Pro.
 ## 2023-08-30
