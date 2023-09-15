@@ -700,6 +700,14 @@
 
 `SM-W7023`: 三星 W23 Flip 5G
 
+**三星 W24 (`v5q`):**
+
+`SM-W9024`: 三星 W24 5G
+
+**三星 W24 Flip (`e5q`):**
+
+`SM-W7024`: 三星 W24 Flip 5G
+
 ## 三星其他手机系列
 
 **Galaxy Folder (`eliteltechn`):**
