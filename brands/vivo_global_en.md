@@ -283,6 +283,10 @@
 
 `vivo 1902`: vivo Y17
 
+**vivo Y17s:**
+
+`V2310`: vivo Y17s
+
 **vivo Y19:**
 
 `vivo 1915`: vivo Y19
@@ -355,7 +359,7 @@
 
 **vivo Y27:**
 
-`V2248` `V2302`: vivo Y27 5G
+`V2248` `V2249` `V2302`: vivo Y27 5G
 
 **vivo Y30:**
 

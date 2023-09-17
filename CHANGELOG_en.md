@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-09-17
+- `vivo_global_en` Add several new models.
 ## 2023-09-12
 - `realme_global_en` Add realme Narzo 60x.
 ## 2023-09-10
