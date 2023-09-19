@@ -1115,6 +1115,24 @@ G9FPL,mob,google,Google,,felix,Pixel Fold,"#US, EU"
 G0B96,mob,google,Google,,felix,Pixel Fold,#Japan
 C1502W,mob,google,Google,,dragon,Pixel C,#
 GTU8P,pad,google,Google,,tangorpro,Pixel Tablet,#
+NTS-AL00,mob,honor,荣耀,,,荣耀 Magic,#全网通版
+TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#全网通版
+TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,#3D 感光版
+TNY-TL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#移动 4G+ 版
+ELZ-AN00,mob,honor,荣耀,,Elizabeth,荣耀 Magic3,#5G
+ELZ-AN10,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 Pro,#5G
+ELZ-AN20,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 至臻版,#5G
+MGI-AN00,mob,honor,荣耀,,Maggie,荣耀 Magic V,#5G
+LGE-AN00,mob,honor,荣耀,,Lange,荣耀 Magic4,#5G
+LGE-AN10,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#5G
+LGE-AN20,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#5G
+FRI-AN00,mob,honor,荣耀,,,荣耀 Magic Vs,#5G
+FRI-AN10,mob,honor,荣耀,,,荣耀 Magic Vs 至臻版,#5G
+PGT-AN00,mob,honor,荣耀,,Piaget,荣耀 Magic5,#5G
+PGT-AN10,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#5G
+PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#5G
+VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2,#5G
+VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 至臻版,#5G
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,#移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,#联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,#移动定制版
@@ -1218,24 +1236,6 @@ OXF-AN10,mob,honor,荣耀,,OxfordP,荣耀 V30 PRO,#5G
 YOK-AN10,mob,honor,荣耀,,York,荣耀 V40,#5G
 ALA-AN70,mob,honor,荣耀,,,荣耀 V40 轻奢版,#5G
 VCA-AN00,mob,honor,荣耀,,Victoria,荣耀 V Purse,#5G
-NTS-AL00,mob,honor,荣耀,,,荣耀 Magic,#全网通版
-TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#全网通版
-TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,#3D 感光版
-TNY-TL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#移动 4G+ 版
-ELZ-AN00,mob,honor,荣耀,,Elizabeth,荣耀 Magic3,#5G
-ELZ-AN10,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 Pro,#5G
-ELZ-AN20,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 至臻版,#5G
-MGI-AN00,mob,honor,荣耀,,Maggie,荣耀 Magic V,#5G
-LGE-AN00,mob,honor,荣耀,,Lange,荣耀 Magic4,#5G
-LGE-AN10,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#5G
-LGE-AN20,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#5G
-FRI-AN00,mob,honor,荣耀,,,荣耀 Magic Vs,#5G
-FRI-AN10,mob,honor,荣耀,,,荣耀 Magic Vs 至臻版,#5G
-PGT-AN00,mob,honor,荣耀,,Piaget,荣耀 Magic5,#5G
-PGT-AN10,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#5G
-PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#5G
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2,#5G
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 至臻版,#5G
 G750-T00,mob,honor,荣耀,,,荣耀 3X,#双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,#联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,#Pro
@@ -1285,7 +1285,8 @@ TFY-AN00,mob,honor,荣耀,,Tiffany,荣耀 X30i,#5G
 KKG-AN70,mob,honor,荣耀,,Kingkong,荣耀 X30 Max,#5G
 RMO-AN00,mob,honor,荣耀,,Rambo,荣耀 X40,#5G
 DIO-AN00,mob,honor,荣耀,,Dior,荣耀 X40i,#5G
-ADT-AN00,mob,honor,荣耀,,AndyGT,荣耀 X40 GT,#5G
+ADT-AN00,mob,honor,荣耀,,AndyGT,荣耀 X40 GT|荣耀 X40 GT 竞速版,#5G
+ADT-AN00,mob,honor,荣耀,,AndyGT,荣耀 X40 GT|荣耀 X40 GT 竞速版,1#5G
 ALI-AN00,mob,honor,荣耀,,Ali,荣耀 X50,#5G
 CRT-AN00,mob,honor,荣耀,,Cartier,荣耀 X50i,#5G
 JMM-AL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通标配版

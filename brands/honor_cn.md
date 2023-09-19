@@ -4,7 +4,77 @@
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/honor_global_en.md)
 
-## 荣耀 HONOR 系列 (数字系列 / N 系列)
+## 荣耀 Magic 系列
+
+**荣耀 Magic:**
+
+`NTS-AL00`: 荣耀 Magic 全网通版
+
+**荣耀 Magic2 (`Tony`):**
+
+`TNY-AL00`: 荣耀 Magic2 全网通版
+
+`TNY-AL10`: 荣耀 Magic2 3D 感光版
+
+`TNY-TL00`: 荣耀 Magic2 移动 4G+ 版
+
+**荣耀 Magic3 (`Elizabeth`):**
+
+`ELZ-AN00`: 荣耀 Magic3 5G
+
+**荣耀 Magic3 Pro (`Elizabeth`):**
+
+`ELZ-AN10`: 荣耀 Magic3 Pro 5G
+
+**荣耀 Magic3 至臻版 (`Elizabeth`):**
+
+`ELZ-AN20`: 荣耀 Magic3 至臻版 5G
+
+**荣耀 Magic V (`Maggie`):**
+
+`MGI-AN00`: 荣耀 Magic V 5G
+
+**荣耀 Magic4 (`Lange`):**
+
+`LGE-AN00`: 荣耀 Magic4 5G
+
+**荣耀 Magic4 Pro (`Lange`):**
+
+`LGE-AN10`: 荣耀 Magic4 Pro 5G
+
+**荣耀 Magic4 至臻版 (`Lange`):**
+
+`LGE-AN20`: 荣耀 Magic4 至臻版 5G
+
+**荣耀 Magic Vs:**
+
+`FRI-AN00`: 荣耀 Magic Vs 5G
+
+**荣耀 Magic Vs 至臻版:**
+
+`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G
+
+**荣耀 Magic5 (`Piaget`):**
+
+`PGT-AN00`: 荣耀 Magic5 5G
+
+**荣耀 Magic5 Pro (`Piaget`):**
+
+`PGT-AN10`: 荣耀 Magic5 Pro 5G
+
+**荣耀 Magic5 至臻版 (`Piaget`):**
+
+`PGT-AN20`: 荣耀 Magic5 至臻版 5G
+
+**荣耀 Magic V2:**
+
+`VER-AN10`: 荣耀 Magic V2 5G
+
+**荣耀 Magic V2 至臻版:**
+
+`VER-AN10`: 荣耀 Magic V2 至臻版 5G
+
+## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
 
@@ -292,79 +362,11 @@
 
 `ALA-AN70`: 荣耀 V40 轻奢版 5G
 
+## 荣耀 V Purse 系列
+
 **荣耀 V Purse (`Victoria`):**
 
 `VCA-AN00`: 荣耀 V Purse 5G
-
-## 荣耀 Magic 系列
-
-**荣耀 Magic:**
-
-`NTS-AL00`: 荣耀 Magic 全网通版
-
-**荣耀 Magic2 (`Tony`):**
-
-`TNY-AL00`: 荣耀 Magic2 全网通版
-
-`TNY-AL10`: 荣耀 Magic2 3D 感光版
-
-`TNY-TL00`: 荣耀 Magic2 移动 4G+ 版
-
-**荣耀 Magic3 (`Elizabeth`):**
-
-`ELZ-AN00`: 荣耀 Magic3 5G
-
-**荣耀 Magic3 Pro (`Elizabeth`):**
-
-`ELZ-AN10`: 荣耀 Magic3 Pro 5G
-
-**荣耀 Magic3 至臻版 (`Elizabeth`):**
-
-`ELZ-AN20`: 荣耀 Magic3 至臻版 5G
-
-**荣耀 Magic V (`Maggie`):**
-
-`MGI-AN00`: 荣耀 Magic V 5G
-
-**荣耀 Magic4 (`Lange`):**
-
-`LGE-AN00`: 荣耀 Magic4 5G
-
-**荣耀 Magic4 Pro (`Lange`):**
-
-`LGE-AN10`: 荣耀 Magic4 Pro 5G
-
-**荣耀 Magic4 至臻版 (`Lange`):**
-
-`LGE-AN20`: 荣耀 Magic4 至臻版 5G
-
-**荣耀 Magic Vs:**
-
-`FRI-AN00`: 荣耀 Magic Vs 5G
-
-**荣耀 Magic Vs 至臻版:**
-
-`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G
-
-**荣耀 Magic5 (`Piaget`):**
-
-`PGT-AN00`: 荣耀 Magic5 5G
-
-**荣耀 Magic5 Pro (`Piaget`):**
-
-`PGT-AN10`: 荣耀 Magic5 Pro 5G
-
-**荣耀 Magic5 至臻版 (`Piaget`):**
-
-`PGT-AN20`: 荣耀 Magic5 至臻版 5G
-
-**荣耀 Magic V2:**
-
-`VER-AN10`: 荣耀 Magic V2 5G
-
-**荣耀 Magic V2 至臻版:**
-
-`VER-AN10`: 荣耀 Magic V2 至臻版 5G
 
 ## 荣耀 X 系列
 
@@ -490,9 +492,9 @@
 
 `DIO-AN00`: 荣耀 X40i 5G
 
-**荣耀 X40 GT (`AndyGT`):**
+**荣耀 X40 GT / 荣耀 X40 GT 竞速版 (`AndyGT`):**
 
-`ADT-AN00`: 荣耀 X40 GT 5G
+`ADT-AN00`: 荣耀 X40 GT 5G / 荣耀 X40 GT 竞速版 5G
 
 **荣耀 X50 (`Ali`):**
 
