@@ -388,6 +388,10 @@
 
 `23078PND5G`: Xiaomi 13T Pro 国际版
 
+`23088PND5R`: Xiaomi 13T Pro 日本版 (SIM Free)
+
+`A301XM`: Xiaomi 13T Pro 日本版 (SoftBank)
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -1434,7 +1438,7 @@
 
 `22101316I`: Redmi Note 12 Pro 5G 印度版
 
-**[`M16UP`] Redmi Note 12 Pro+ (`rubypro`):**
+**[`M16U`] Redmi Note 12 Pro+ (`rubypro`):**
 
 `22101316UCP`: Redmi Note 12 Pro+ 全网通版
 
@@ -1457,6 +1461,30 @@
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo 全网通版
+
+**[`N17`] Redmi Note 13 5G (`gold`):**
+
+`2312DRAABC`: Redmi Note 13 5G 全网通版
+
+`2312DRAABG`: Redmi Note 13 5G 国际版
+
+`2312DRAABI`: Redmi Note 13 5G 印度版
+
+**Redmi Note 13 Pro (`garnet`):**
+
+`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 全网通版
+
+`2312DRA50G`: Redmi Note 13 Pro 5G 国际版
+
+`2312DRA50I`: Redmi Note 13 Pro 5G 印度版
+
+**[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
+
+`23090RA98C`: Redmi Note 13 Pro+ 全网通版
+
+`23090RA98G`: Redmi Note 13 Pro+ 5G 国际版
+
+`23090RA98I`: Redmi Note 13 Pro+ 5G 印度版
 
 ## Redmi X 系列
 
