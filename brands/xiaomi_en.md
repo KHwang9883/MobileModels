@@ -385,6 +385,10 @@
 
 `23078PND5G`: Xiaomi 13T Pro Global
 
+`23088PND5R`: Xiaomi 13T Pro Japan (SIM Free)
+
+`A301XM`: Xiaomi 13T Pro Japan (SoftBank)
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1345,7 +1349,7 @@
 
 `22101316C`: Redmi Note 12 Pro 5G China
 
-**[`M16UP`] Redmi Note 12 Pro+ 5G (`rubypro`):**
+**[`M16U`] Redmi Note 12 Pro+ 5G (`rubypro`):**
 
 `22101316UG`: Redmi Note 12 Pro+ 5G Global
 
@@ -1368,6 +1372,30 @@
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo China
+
+**[`N17`] Redmi Note 13 5G (`gold`):**
+
+`2312DRAABG`: Redmi Note 13 5G Global
+
+`2312DRAABI`: Redmi Note 13 5G India
+
+`2312DRAABC`: Redmi Note 13 5G China
+
+**Redmi Note 13 Pro (`garnet`):**
+
+`2312DRA50G`: Redmi Note 13 Pro 5G Global
+
+`2312DRA50I`: Redmi Note 13 Pro 5G India
+
+`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
+
+**[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
+
+`23090RA98G`: Redmi Note 13 Pro+ 5G Global
+
+`23090RA98I`: Redmi Note 13 Pro+ 5G India
+
+`23090RA98C`: Redmi Note 13 Pro+ 5G China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 

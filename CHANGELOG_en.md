@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-09-21
+- `xiaomi_en` Add Redmi Note 13 series.
 ## 2023-09-17
 - `vivo_global_en` Add several new models.
 ## 2023-09-12
