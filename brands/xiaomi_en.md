@@ -1381,7 +1381,7 @@
 
 `2312DRAABC`: Redmi Note 13 5G China
 
-**Redmi Note 13 Pro (`garnet`):**
+**Redmi Note 13 Pro 5G (`garnet`):**
 
 `2312DRA50G`: Redmi Note 13 Pro 5G Global
 
@@ -1389,7 +1389,7 @@
 
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
 
-**[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
+**[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
 
 `23090RA98G`: Redmi Note 13 Pro+ 5G Global
 
