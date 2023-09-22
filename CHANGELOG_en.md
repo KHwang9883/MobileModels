@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-09-22
+- `apple_en` Add iPhone 15, Apple Watch Series 9/Ultra 2.
 ## 2023-09-21
 - `xiaomi_en` Add Redmi Note 13 series.
 ## 2023-09-17

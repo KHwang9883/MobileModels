@@ -389,6 +389,46 @@
 
 `A2894`: iPhone 14 Pro Max (Rest of the world)
 
+**[`D37AP`] iPhone 15 (`iPhone15,4`):**
+
+`A2846`: iPhone 15 (United States)
+
+`A3089`: iPhone 15 (Canada, Japan, Mexico, Saudi Arabia)
+
+`A3092`: iPhone 15 (China mainland, Hong Kong, Macao)
+
+`A3090`: iPhone 15 (Rest of the world)
+
+**[`D38AP`] iPhone 15 Plus (`iPhone15,5`):**
+
+`A2847`: iPhone 15 Plus (United States)
+
+`A3093`: iPhone 15 Plus (Canada, Japan, Mexico, Saudi Arabia)
+
+`A3096`: iPhone 15 Plus (China mainland, Hong Kong, Macao)
+
+`A3094`: iPhone 15 Plus (Rest of the world)
+
+**[`D83AP`] iPhone 15 Pro (`iPhone16,1`):**
+
+`A2848`: iPhone 15 Pro (United States)
+
+`A3101`: iPhone 15 Pro (Canada, Japan, Mexico, Saudi Arabia)
+
+`A3104`: iPhone 15 Pro (China mainland, Hong Kong, Macao)
+
+`A3102`: iPhone 15 Pro (Rest of the world)
+
+**[`D84AP`] iPhone 15 Pro Max (`iPhone16,2`):**
+
+`A2849`: iPhone 15 Pro Max (United States)
+
+`A3105`: iPhone 15 Pro Max (Canada, Japan, Mexico, Saudi Arabia)
+
+`A3108`: iPhone 15 Pro Max (China mainland, Hong Kong, Macao)
+
+`A3106`: iPhone 15 Pro Max (Rest of the world)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -992,6 +1032,32 @@
 `A2859`: Apple Watch Ultra (China mainland, Hong Kong, Macao)
 
 `A2684`: Apple Watch Ultra (Rest of the world)
+
+**[`N207sAP`] Apple Watch Series 9 (`Watch7,1`):**
+
+`A2978`: Apple Watch Series 9 (GPS) (41mm case)
+
+**[`N207bAP`] Apple Watch Series 9 (`Watch7,2`):**
+
+`A2980`: Apple Watch Series 9 (GPS) (45mm case)
+
+**[`N208sAP`] Apple Watch Series 9 (`Watch7,3`):**
+
+`A2982`: Apple Watch Series 9 (GPS + Cellular) (41mm case) (Global)
+
+`A2983`: Apple Watch Series 9 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)
+
+**[`N208bAP`] Apple Watch Series 9 (`Watch7,4`):**
+
+`A2984`: Apple Watch Series 9 (GPS + Cellular) (45mm case) (Global)
+
+`A2985`: Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)
+
+**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
+
+`A2986`: Apple Watch Ultra 2 (Global)
+
+`A2987`: Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)
 
 ## iPod touch
 
