@@ -191,6 +191,22 @@ A2893,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"#加拿大, 日本, 
 A2895,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯"
 A2896,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,#中国大陆 & 港澳
 A2894,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,#其他国家和地区
+A2846,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,#美国
+A3089,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,"#加拿大, 日本, 墨西哥, 沙特阿拉伯"
+A3092,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,#中国大陆 & 港澳
+A3090,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,#其他国家和地区
+A2847,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,#美国
+A3093,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,"#加拿大, 日本, 墨西哥, 沙特阿拉伯"
+A3096,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,#中国大陆 & 港澳
+A3094,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,#其他国家和地区
+A2848,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,#美国
+A3101,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,"#加拿大, 日本, 墨西哥, 沙特阿拉伯"
+A3104,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,#中国大陆 & 港澳
+A3102,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,#其他国家和地区
+A2849,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,#美国
+A3105,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,"#加拿大, 日本, 墨西哥, 沙特阿拉伯"
+A3108,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,#中国大陆 & 港澳
+A3106,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,#其他国家和地区
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网 + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,#无线局域网
@@ -380,6 +396,14 @@ A2775,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,#(GPS + 蜂窝�
 A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,#北美
 A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,#中国大陆 & 港澳
 A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,#其他国家和地区
+A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,#(GPS) (41 毫米表壳)
+A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,#(GPS) (45 毫米表壳)
+A2982,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,#(GPS + 蜂窝网络) (41 毫米表壳) (全球)
+A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,#(GPS + 蜂窝网络) (41 毫米表壳) (中国大陆 & 港澳)
+A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + 蜂窝网络) (45 毫米表壳) (全球)
+A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
+A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#全球
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#中国大陆 & 港澳
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,#
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),#
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),#中国大陆
@@ -543,6 +567,22 @@ A2893,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"#Canada, Japan, Mexi
 A2895,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"#Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
 A2896,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"#China mainland, Hong Kong, Macao"
 A2894,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,#Rest of the world
+A2846,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,#United States
+A3089,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,"#Canada, Japan, Mexico, Saudi Arabia"
+A3092,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,"#China mainland, Hong Kong, Macao"
+A3090,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,#Rest of the world
+A2847,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,#United States
+A3093,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,"#Canada, Japan, Mexico, Saudi Arabia"
+A3096,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,"#China mainland, Hong Kong, Macao"
+A3094,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,#Rest of the world
+A2848,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,#United States
+A3101,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,"#Canada, Japan, Mexico, Saudi Arabia"
+A3104,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,"#China mainland, Hong Kong, Macao"
+A3102,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,#Rest of the world
+A2849,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,#United States
+A3105,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,"#Canada, Japan, Mexico, Saudi Arabia"
+A3108,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,"#China mainland, Hong Kong, Macao"
+A3106,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,#Rest of the world
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,#Wi-Fi
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,#Wi-Fi + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,#Wi-Fi
@@ -732,6 +772,14 @@ A2775,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,#(GPS + Cellula
 A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,#North America
 A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,"#China mainland, Hong Kong, Macao"
 A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,#Rest of the world
+A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,#(GPS) (41mm case)
+A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,#(GPS) (45mm case)
+A2982,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,#(GPS + Cellular) (41mm case) (Global)
+A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,"#(GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
+A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + Cellular) (45mm case) (Global)
+A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,"#(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
+A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#Global
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"#China mainland, Hong Kong, Macao"
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),#
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),#
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),#China mainland
@@ -805,6 +853,10 @@ A2884,mob,apple,Apple,D27AP,"iPhone14,7",iPhone 14,#
 A2888,mob,apple,Apple,D28AP,"iPhone14,8",iPhone 14 Plus,#
 A2892,mob,apple,Apple,D73AP,"iPhone15,2",iPhone 14 Pro,#
 A2896,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,#
+A3092,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,#
+A3096,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,#
+A3104,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,#
+A3108,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,#
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网 + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,#无线局域网
@@ -925,6 +977,11 @@ A2771,watch,apple,Apple,N197bAP,"Watch6,15",Apple Watch Series 8,#(GPS) (45 毫�
 A2857,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,#(GPS + 蜂窝网络) (41 毫米表壳)
 A2858,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,#(GPS + 蜂窝网络) (45 毫米表壳)
 A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,#
+A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,#(GPS) (41 毫米表壳)
+A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,#(GPS) (45 毫米表壳)
+A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,#(GPS + 蜂窝网络) (41 毫米表壳)
+A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + 蜂窝网络) (45 毫米表壳)
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,#
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),#
 A1318,pod,apple,Apple,N18AP,"iPod3,1",iPod touch (第 3 代),#

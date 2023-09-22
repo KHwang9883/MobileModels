@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-09-22
+- `apple` 新增 iPhone 15 系列、Apple Watch Series 9/Ultra 2。
 ## 2023-09-21
 - `xiaomi` 新增 Redmi Note 13 系列。
 ## 2023-09-19

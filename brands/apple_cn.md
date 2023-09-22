@@ -214,6 +214,22 @@
 
 `A2896`: iPhone 14 Pro Max
 
+**[`D37AP`] iPhone 15 (`iPhone15,4`):**
+
+`A3092`: iPhone 15
+
+**[`D38AP`] iPhone 15 Plus (`iPhone15,5`):**
+
+`A3096`: iPhone 15 Plus
+
+**[`D83AP`] iPhone 15 Pro (`iPhone16,1`):**
+
+`A3104`: iPhone 15 Pro
+
+**[`D84AP`] iPhone 15 Pro Max (`iPhone16,2`):**
+
+`A3108`: iPhone 15 Pro Max
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -697,6 +713,26 @@
 **[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
 
 `A2859`: Apple Watch Ultra
+
+**[`N207sAP`] Apple Watch Series 9 (`Watch7,1`):**
+
+`A2978`: Apple Watch Series 9 (GPS) (41 毫米表壳)
+
+**[`N207bAP`] Apple Watch Series 9 (`Watch7,2`):**
+
+`A2980`: Apple Watch Series 9 (GPS) (45 毫米表壳)
+
+**[`N208sAP`] Apple Watch Series 9 (`Watch7,3`):**
+
+`A2983`: Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳)
+
+**[`N208bAP`] Apple Watch Series 9 (`Watch7,4`):**
+
+`A2985`: Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳)
+
+**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
+
+`A2987`: Apple Watch Ultra 2
 
 ## iPod touch
 

@@ -408,6 +408,46 @@
 
 `A2894`: iPhone 14 Pro Max (其他国家和地区)
 
+**[`D37AP`] iPhone 15 (`iPhone15,4`):**
+
+`A2846`: iPhone 15 (美国)
+
+`A3089`: iPhone 15 (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A3092`: iPhone 15 (中国大陆 & 港澳)
+
+`A3090`: iPhone 15 (其他国家和地区)
+
+**[`D38AP`] iPhone 15 Plus (`iPhone15,5`):**
+
+`A2847`: iPhone 15 Plus (美国)
+
+`A3093`: iPhone 15 Plus (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A3096`: iPhone 15 Plus (中国大陆 & 港澳)
+
+`A3094`: iPhone 15 Plus (其他国家和地区)
+
+**[`D83AP`] iPhone 15 Pro (`iPhone16,1`):**
+
+`A2848`: iPhone 15 Pro (美国)
+
+`A3101`: iPhone 15 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A3104`: iPhone 15 Pro (中国大陆 & 港澳)
+
+`A3102`: iPhone 15 Pro (其他国家和地区)
+
+**[`D84AP`] iPhone 15 Pro Max (`iPhone16,2`):**
+
+`A2849`: iPhone 15 Pro Max (美国)
+
+`A3105`: iPhone 15 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)
+
+`A3108`: iPhone 15 Pro Max (中国大陆 & 港澳)
+
+`A3106`: iPhone 15 Pro Max (其他国家和地区)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -1011,6 +1051,32 @@
 `A2859`: Apple Watch Ultra (中国大陆 & 港澳)
 
 `A2684`: Apple Watch Ultra (其他国家和地区)
+
+**[`N207sAP`] Apple Watch Series 9 (`Watch7,1`):**
+
+`A2978`: Apple Watch Series 9 (GPS) (41 毫米表壳)
+
+**[`N207bAP`] Apple Watch Series 9 (`Watch7,2`):**
+
+`A2980`: Apple Watch Series 9 (GPS) (45 毫米表壳)
+
+**[`N208sAP`] Apple Watch Series 9 (`Watch7,3`):**
+
+`A2982`: Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳) (全球)
+
+`A2983`: Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳) (中国大陆 & 港澳)
+
+**[`N208bAP`] Apple Watch Series 9 (`Watch7,4`):**
+
+`A2984`: Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (全球)
+
+`A2985`: Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
+
+**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
+
+`A2986`: Apple Watch Ultra 2 (全球)
+
+`A2987`: Apple Watch Ultra 2 (中国大陆 & 港澳)
 
 ## iPod touch
 
