@@ -199,6 +199,10 @@
 
 `ALN-AL10`: HUAWEI Mate 60 Pro+
 
+**HUAWEI Mate 60 RS | ULTIMATE DESIGN (`Allen`):**
+
+`ALN-AL10`: HUAWEI Mate 60 RS | ULTIMATE DESIGN
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -1029,6 +1033,12 @@
 
 `WGRR-W09` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版
 
+**HUAWEI MatePad Pro 13.2 (`Poincare`):**
+
+`PCE-W30`: HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版
+
+`PCE-W40`: HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版 (16GB+1TB)
+
 ## HUAWEI MatePad 系列
 
 **HUAWEI MatePad (`Bach3`):**
@@ -1731,6 +1741,12 @@
 
 `HD75FRUB`: 华为智慧屏 V 75 三代
 
+**华为智慧屏 V5 Pro:**
+
+`HD85ARKA`: 华为智慧屏 V5 Pro 85
+
+`HD98ARKA`: 华为智慧屏 V5 Pro 98
+
 **华为智慧屏 X 系列 (`Plato`):**
 
 `PLAT-760`: 华为智慧屏 X65
@@ -1899,6 +1915,10 @@
 
 `CLB-B19`: HUAWEI WATCH Ultimate
 
+**HUAWEI WATCH | ULTIMATE DESIGN:**
+
+`CLB-B39`: HUAWEI WATCH | ULTIMATE DESIGN
+
 **HUAWEI WATCH GT:**
 
 `ELA-B19`: HUAWEI WATCH GT 雅致款
@@ -1943,6 +1963,12 @@
 
 `ODN-B19`: HUAWEI WATCH GT 3 保时捷设计
 
+**HUAWEI WATCH GT 4:**
+
+`ARA-B19`: HUAWEI WATCH GT 4 41mm
+
+`PNX-B19`: HUAWEI WATCH GT 4 46mm
+
 **HUAWEI WATCH GT Runner (`Runner`):**
 
 `RUN-B19`: HUAWEI WATCH GT Runner
@@ -1958,6 +1984,10 @@
 **HUAWEI WATCH FIT:**
 
 `TIA-B19` `TIA-B29`: HUAWEI WATCH FIT
+
+**HUAWEI WATCH FIT new:**
+
+`TIA-B19`: HUAWEI WATCH FIT new
 
 **HUAWEI WATCH FIT 2 (`Yoda`):**
 
@@ -2086,6 +2116,10 @@
 **华为智能眼镜:**
 
 `EVI-CG010`: 华为智能眼镜
+
+**华为智能眼镜 2:**
+
+`LFT-G00`: 华为智能眼镜 2
 
 **HUAWEI Vision Glass:**
 

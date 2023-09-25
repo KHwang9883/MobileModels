@@ -1882,6 +1882,7 @@ BRA-AL00,mob,huawei,华为,,Barry,HUAWEI Mate 60,#
 ALN-AL00,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
+ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS | ULTIMATE DESIGN,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,#
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
@@ -2184,6 +2185,8 @@ WGR-W19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
 WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 5G 全网通版
 WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
 WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
+PCE-W30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2,#英寸 Wi-Fi 版
+PCE-W40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2,#英寸 Wi-Fi 版 (16GB+1TB)
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
@@ -2445,6 +2448,8 @@ HD65FRUA,tv,huawei,华为,,,华为智慧屏 V Pro 系列,#65 Pro
 HD75FRUA,tv,huawei,华为,,,华为智慧屏 V Pro 系列,#75 Pro
 HD65FRUB,tv,huawei,华为,,,华为智慧屏 V 三代,#65 三代
 HD75FRUB,tv,huawei,华为,,,华为智慧屏 V 三代,#75 三代
+HD85ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#85
+HD98ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#98
 PLAT-760,tv,huawei,华为,,Plato,华为智慧屏 X 系列,#65
 HD55KANB,tv,huawei,华为,,Kant,华为智慧屏 S 系列,#55 60Hz (3GB+16GB)
 HD55KANC,tv,huawei,华为,,Kant,华为智慧屏 S 系列,#55 60Hz (3GB+32GB)
@@ -2510,6 +2515,7 @@ ARC-AL00,watch,huawei,华为,,Archi,HUAWEI WATCH 4,#
 MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#
+CLB-B39,watch,huawei,华为,,,HUAWEI WATCH | ULTIMATE DESIGN,#
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#42mm
@@ -2523,11 +2529,14 @@ FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#43mm
 ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#46mm
 FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro 典藏版,#
 ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 保时捷设计,#
+ARA-B19,watch,huawei,华为,,,HUAWEI WATCH GT 4,#41mm
+PNX-B19,watch,huawei,华为,,,HUAWEI WATCH GT 4,#46mm
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,#
 OCF-B29,watch,huawei,华为,,,HUAWEI WATCH GT 2022 典藏版,#
 AND-B19,watch,huawei,华为,,,HUAWEI WATCH GT Cyber,#
 TIA-B19,watch,huawei,华为,,,HUAWEI WATCH FIT,#
 TIA-B29,watch,huawei,华为,,,HUAWEI WATCH FIT,#
+TIA-B19,watch,huawei,华为,,,HUAWEI WATCH FIT new,#
 YDA-B09S,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 YDA-B19S,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 YDA-B19V,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
@@ -2565,6 +2574,7 @@ AHP-AL10,watch,huawei,华为,,,华为儿童手表 5X Pro,#
 CMG0-PER,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear,#
 FIJ-CG020,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear II,#
 EVI-CG010,watch,huawei,华为,,,华为智能眼镜,#
+LFT-G00,watch,huawei,华为,,,华为智能眼镜 2,#
 ALI-CG01,watch,huawei,华为,,,HUAWEI Vision Glass,#
 HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,#
 HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,#XL

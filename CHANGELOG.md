@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-09-25
+- `huawei_cn` 新增 华为新品。
 ## 2023-09-22
 - `apple` 新增 iPhone 15 系列、Apple Watch Series 9/Ultra 2。
 ## 2023-09-21
