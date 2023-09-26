@@ -1381,7 +1381,7 @@
 
 `2312DRAABC`: Redmi Note 13 5G China
 
-**Redmi Note 13 Pro 5G (`garnet`):**
+**[`N16`] Redmi Note 13 Pro 5G (`garnet`):**
 
 `2312DRA50G`: Redmi Note 13 Pro 5G Global
 
