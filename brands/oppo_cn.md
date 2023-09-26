@@ -446,6 +446,14 @@
 
 `PHJ110`: OPPO A1x / OPPO A1 活力版
 
+**OPPO A2m:**
+
+`PJU110`: OPPO A2m
+
+**OPPO A2x:**
+
+`PJS110`: OPPO A2x
+
 **OPPO A2 Pro:**
 
 `PJG110`: OPPO A2 Pro
