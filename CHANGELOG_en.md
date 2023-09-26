@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-09-26
+- `oppo_global_en` Add OPPO A79 5G.
 ## 2023-09-22
 - `apple_en` Add iPhone 15, Apple Watch Series 9/Ultra 2.
 ## 2023-09-21
