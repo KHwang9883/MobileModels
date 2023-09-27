@@ -131,6 +131,10 @@
 
 `GAR-AN00`: Hi 畅享 60 5G
 
+**Hi 畅享 60s:**
+
+`GAR-AN60`: Hi 畅享 60s 5G
+
 **Hi 畅享 60 Pro:**
 
 `LGN-AN00`: Hi 畅享 60 Pro 5G
