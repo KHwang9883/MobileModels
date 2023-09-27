@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-09-27
+- `vivo_cn` 新增 vivo Y78t。
 - `zhixuan` 新增 Hi 畅享 60s 5G。
 ## 2023-09-26
 - `oppo_cn` 新增 OPPO A2m & A2x。

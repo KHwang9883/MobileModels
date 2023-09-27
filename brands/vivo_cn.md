@@ -524,6 +524,10 @@
 
 `V2271A`: vivo Y78+ 5G / vivo Y78+ (t1) 5G
 
+**vivo Y78t (`PD2312`):**
+
+`V2312BA`: vivo Y78t 5G
+
 **vivo Y81 (`PD1732`):**
 
 `V1732A`: vivo Y81 全网通版
