@@ -1000,6 +1000,10 @@
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
+`23076RA4BR`: Redmi 12 5G 日本版 (SIM Free)
+
+`XIG03`: Redmi 12 5G 日本版 (KDDI)
+
 **[`M19`] Redmi 12 5G (`sky`):**
 
 `23076RN4BI`: Redmi 12 5G 印度版
