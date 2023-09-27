@@ -382,7 +382,9 @@
 
 `2306EPN60G`: Xiaomi 13T 国际版
 
-`2306EPN60R`: Xiaomi 13T 日本版
+`2306EPN60R`: Xiaomi 13T 日本版 (SIM Free)
+
+`XIG04`: Xiaomi 13T 日本版 (KDDI)
 
 **[`M12`] Xiaomi 13T Pro (`corot`):**
 
