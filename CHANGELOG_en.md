@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-09-27
+- `xiaomi_en` Add Redmi 12 5G Japan.
 ## 2023-09-26
 - `oppo_global_en` Add OPPO A79 5G.
 ## 2023-09-22

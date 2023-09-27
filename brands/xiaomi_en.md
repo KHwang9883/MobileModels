@@ -919,6 +919,10 @@
 
 `23077RABDC`: Redmi 12 5G China
 
+`23076RA4BR`: Redmi 12 5G Japan (SIM Free)
+
+`XIG03`: Redmi 12 5G Japan (KDDI)
+
 **[`M19`] Redmi 12 5G (`sky`):**
 
 `23076RN4BI`: Redmi 12 5G India
