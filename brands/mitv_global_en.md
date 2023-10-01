@@ -209,6 +209,14 @@
 
 `L65M7-Q2EU`: Xiaomi TV Q2 65
 
+**Xiaomi TV Q2 (Russia):**
+
+`L50M7-Q2RU`: Xiaomi TV Q2 50
+
+`L55M7-Q2RU`: Xiaomi TV Q2 55
+
+`L65M7-Q2RU`: Xiaomi TV Q2 65
+
 **Xiaomi TV A2 (EEA):**
 
 `L32M7-EAEU`: Xiaomi TV A2 32
@@ -220,6 +228,20 @@
 `L55M7-EAEU`: Xiaomi TV A2 55
 
 `L58M7-EAEU`: Xiaomi TV A2 58
+
+**Xiaomi TV A2 (Russia):**
+
+`L32M7-EARU`: Xiaomi TV A2 32
+
+`L43M8-AFRU`: Xiaomi TV A2 FHD 43
+
+`L43M7-EARU`: Xiaomi TV A2 UHD 43
+
+`L50M7-EARU`: Xiaomi TV A2 50
+
+`L55M7-EARU`: Xiaomi TV A2 55
+
+`L65M8-A2RU`: Xiaomi TV A2 65
 
 **Xiaomi TV A2 (Southeast Asia):**
 
@@ -248,6 +270,38 @@
 `L43M7-EAUKR`: Xiaomi TV A2 UHD 43
 
 `L55M7-EAUKR`: Xiaomi TV A2 55
+
+**Xiaomi TV A (Southeast Asia):**
+
+`L32M8-P2SEA`: Xiaomi TV A 32
+
+`L43M8-P2SEA`: Xiaomi TV A FHD 43
+
+`L55M8-P2SEA`: Xiaomi TV A 55
+
+**Xiaomi TV A (Indonesia):**
+
+`L55M8-P2ID`: Xiaomi TV A 55
+
+**Xiaomi TV A Pro (Southeast Asia):**
+
+`L43M8-A2SEA`: Xiaomi TV A Pro 43
+
+`L55M8-A2SEA`: Xiaomi TV A Pro 55
+
+`L65M8-A2SEA`: Xiaomi TV A Pro 65
+
+**Xiaomi TV A Pro (Latin America):**
+
+`L32M8-A2LA`: Xiaomi TV A Pro 32
+
+`L43M8-A2LA`: Xiaomi TV A Pro 43
+
+`L55M8-A2LA`: Xiaomi TV A Pro 55
+
+**Xiaomi TV A Pro (Middle East):**
+
+`L43M8-A2ME`: Xiaomi TV A Pro 43
 
 **Xiaomi Fire TV F2:**
 

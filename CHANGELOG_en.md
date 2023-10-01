@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-01
+- `mitv_global_en` Add several new models.
 ## 2023-09-27
 - `xiaomi_en` Add Redmi 12 5G Japan.
 ## 2023-09-26

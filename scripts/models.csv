@@ -3736,11 +3736,20 @@ L55M6-ESG,tv,mitv,Xiaomi,,,Xiaomi TV Q1E,#55
 L50M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (EEA),#50
 L55M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (EEA),#55
 L65M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (EEA),#65
+L50M7-Q2RU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Russia),#50
+L55M7-Q2RU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Russia),#55
+L65M7-Q2RU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Russia),#65
 L32M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),#32
 L43M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),#43
 L50M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),#50
 L55M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),#55
 L58M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),#58
+L32M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),#32
+L43M8-AFRU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),#FHD 43
+L43M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),#UHD 43
+L50M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),#50
+L55M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),#55
+L65M8-A2RU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),#65
 L43M7-ESEA,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Southeast Asia),#FHD 43
 L58M7-EASEA,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Southeast Asia),#58
 L32M7-EAID,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Indonesia),#32
@@ -3751,6 +3760,17 @@ L43M7-ETH,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Vietnam),#FHD 43
 L32M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#32
 L43M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#UHD 43
 L55M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#55
+L32M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#32
+L43M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#FHD 43
+L55M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#55
+L55M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#55
+L43M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),#43
+L55M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),#55
+L65M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),#65
+L32M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),#32
+L43M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),#43
+L55M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),#55
+L43M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),#43
 L32M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#32
 L43M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#43
 L50M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#50
@@ -6318,7 +6338,8 @@ A201XM,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SoftBank)
 2304FPN6DC,mob,xiaomi,Xiaomi,M1,ishtar,Xiaomi 13 Ultra,#China
 2210129SG,mob,xiaomi,Xiaomi,L9S,ziyi,Xiaomi 13 Lite,#Global
 2306EPN60G,mob,xiaomi,Xiaomi,M12A,aristotle,Xiaomi 13T,#Global
-2306EPN60R,mob,xiaomi,Xiaomi,M12A,aristotle,Xiaomi 13T,#Japan
+2306EPN60R,mob,xiaomi,Xiaomi,M12A,aristotle,Xiaomi 13T,#Japan (SIM Free)
+XIG04,mob,xiaomi,Xiaomi,M12A,aristotle,Xiaomi 13T,#Japan (KDDI)
 23078PND5G,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Global
 23088PND5R,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Japan (SIM Free)
 A301XM,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Japan (SoftBank)
