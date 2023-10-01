@@ -297,6 +297,8 @@
 
 `L43M8-A2LA`: Xiaomi TV A Pro 43
 
+`L50M8-A2LA`: Xiaomi TV A Pro 50
+
 `L55M8-A2LA`: Xiaomi TV A Pro 55
 
 **Xiaomi TV A Pro (Middle East):**
