@@ -880,7 +880,7 @@
 
 `BRT-W09`: 荣耀平板 V8 11 英寸 Wi-Fi 版
 
-**荣耀平板 V8 Pro:**
+**荣耀平板 V8 Pro (`Rolland`):**
 
 `ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
 
