@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-04
+- `google_en` Add Pixel 8, Pixel Watch 2.
 ## 2023-10-01
 - `mitv_global_en` Add several new models.
 ## 2023-09-27

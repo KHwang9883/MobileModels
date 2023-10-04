@@ -1,6 +1,6 @@
 # Google Mobile Phone Models
 
-- Range: Google Pixel phones & tablets
+- Range: Google Pixel phones, tablets & watch
 - Codename: ✅
 
 ## Googel Pixel
@@ -157,6 +157,24 @@
 
 `G82U8`: Pixel 7a (Japan)
 
+**Pixel 8 (`shiba`):**
+
+`GKWS6`: Pixel 8 (mmWave)
+
+`G9BQD`: Pixel 8 (US, Sub 6GHz)
+
+`GPJ41`: Pixel 8 (Global)
+
+`GZPFO`: Pixel 8 (Japan)
+
+**Pixel 8 Pro (`husky`):**
+
+`G1MNW`: Pixel 8 Pro (mmWave)
+
+`GC3VE`: Pixel 8 Pro (Global)
+
+`GE9DP`: Pixel 8 Pro (Japan)
+
 **Pixel Fold (`felix`):**
 
 `G9FPL`: Pixel Fold (US, EU)
@@ -170,3 +188,21 @@
 **Pixel Tablet (`tangorpro`):**
 
 `GTU8P`: Pixel Tablet
+
+**Pixel Watch (`r11btwifi`):**
+
+`GQF4C`: Pixel Watch Bluetooth & Wi-Fi
+
+**Pixel Watch (`r11`):**
+
+`GWT9R`: Pixel Watch LTE (US)
+
+`GBZ4S`: Pixel Watch LTE (Global)
+
+**Pixel Watch 2 (`eos`):**
+
+`G4TSL`: Pixel Watch 2 Bluetooth & Wi-Fi
+
+`GD2WG`: Pixel Watch 2 LTE (US)
+
+`GC3G8`: Pixel Watch 2 LTE (Global)
