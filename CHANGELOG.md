@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-10-04
+- `samsung_cn` 新增 Galaxy S23 FE、Galaxy Tab S9 FE。
 ## 2023-09-27
 - `vivo_cn` 新增 vivo Y78t。
 - `xiaomi` 新增 Redmi 12 5G 日版。

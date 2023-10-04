@@ -4869,6 +4869,7 @@ SM-S9080,mob,samsung,三星,,b0q,Galaxy S22 Ultra,#5G
 SM-S9110,mob,samsung,三星,,dm1q,Galaxy S23,#5G
 SM-S9160,mob,samsung,三星,,dm2q,Galaxy S23+,#5G
 SM-S9180,mob,samsung,三星,,dm3q,Galaxy S23 Ultra,#5G
+SM-S7110,mob,samsung,三星,,r11q,Galaxy S23 FE,#5G
 GT-I9220,mob,samsung,三星,,,Galaxy Note,#公开版
 GT-I9228,mob,samsung,三星,,,Galaxy Note,#移动定制版
 SCH-I889,mob,samsung,三星,,,Galaxy Note,#电信定制版
@@ -5036,6 +5037,10 @@ SM-X710,mob,samsung,三星,,gts9wifi,Galaxy Tab S9,#WLAN
 SM-X810,mob,samsung,三星,,gts9pwifi,Galaxy Tab S9+,#WLAN
 SM-X910,mob,samsung,三星,,gts9uwifi,Galaxy Tab S9 Ultra,#WLAN
 SM-X916C,mob,samsung,三星,,gts9u,Galaxy Tab S9 Ultra,#5G
+SM-X510,mob,samsung,三星,,gts9fewifi,Galaxy Tab S9 FE,#WLAN
+SM-X516C,mob,samsung,三星,,gts9fe,Galaxy Tab S9 FE,#5G
+SM-X610,mob,samsung,三星,,gts9fepwifi,Galaxy Tab S9 FE+,#WLAN
+SM-X616C,mob,samsung,三星,,gts9fep,Galaxy Tab S9 FE+,#5G
 SM-T350,mob,samsung,三星,,gt58wifichn,Galaxy Tab A 8.0,#WLAN
 SM-T355C,mob,samsung,三星,,gt58ltechn,Galaxy Tab A 8.0,#LTE
 SM-T550,mob,samsung,三星,,gt510wifichn,Galaxy Tab A 8.0,#9.7 WLAN

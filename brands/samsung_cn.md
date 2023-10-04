@@ -228,6 +228,10 @@
 
 `SM-S9180`: Galaxy S23 Ultra 5G
 
+**Galaxy S23 FE (`r11q`):**
+
+`SM-S7110`: Galaxy S23 FE 5G
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -875,6 +879,22 @@
 **Galaxy Tab S9 Ultra (`gts9u`):**
 
 `SM-X916C`: Galaxy Tab S9 Ultra 5G
+
+**Galaxy Tab S9 FE (`gts9fewifi`):**
+
+`SM-X510`: Galaxy Tab S9 FE WLAN
+
+**Galaxy Tab S9 FE (`gts9fe`):**
+
+`SM-X516C`: Galaxy Tab S9 FE 5G
+
+**Galaxy Tab S9 FE+ (`gts9fepwifi`):**
+
+`SM-X610`: Galaxy Tab S9 FE WLAN
+
+**Galaxy Tab S9 FE+ (`gts9fep`):**
+
+`SM-X616C`: Galaxy Tab S9 FE 5G
 
 ## Galaxy Tab A 系列
 
