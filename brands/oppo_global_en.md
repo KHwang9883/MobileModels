@@ -63,6 +63,14 @@
 
 `CPH2437`: OPPO Find N2 Flip
 
+**OPPO Find N3:**
+
+`CPH2499`: OPPO Find N3
+
+**OPPO Find N3 Flip:**
+
+`CPH2519`: OPPO Find N3 Flip
+
 ## Reno series
 
 **OPPO Reno:**
@@ -426,6 +434,10 @@
 **OPPO A17k:**
 
 `CPH2471`: OPPO A17k
+
+**OPPO A18:**
+
+`CPH2591`: OPPO A18
 
 **OPPO A31:**
 

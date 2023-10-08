@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-08
+- `oppo_global_en` Add OPPO Find N3.
 ## 2023-10-04
 - `google_en` Add Pixel 8, Pixel Watch 2.
 ## 2023-10-01
