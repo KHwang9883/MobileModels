@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-10-10
+- `honor_cn` 新增 荣耀 Magic Vs2、荣耀畅玩 50 Plus。
 - `mitv_cn` 新增 小米电视 S Pro 系列。
 ## 2023-10-04
 - `samsung_cn` 新增 Galaxy S23 FE、Galaxy Tab S9 FE。

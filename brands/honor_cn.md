@@ -74,6 +74,10 @@
 
 `VER-AN10`: 荣耀 Magic V2 至臻版 5G
 
+**荣耀 Magic Vs2:**
+
+`VER-AN00`: 荣耀 Magic Vs2 5G
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -781,6 +785,10 @@
 **荣耀畅玩 40 Plus (`Rocky`):**
 
 `RKY-AN00`: 荣耀畅玩 40 Plus 5G
+
+**荣耀畅玩 50 Plus:**
+
+`CLK-AN00`: 荣耀畅玩 50 Plus 5G
 
 ## 荣耀平板
 
