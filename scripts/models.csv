@@ -5509,6 +5509,7 @@ V2221,mob,vivo,vivo,,,Y02s,#
 V2229,mob,vivo,vivo,,,Y02s,#
 V2252,mob,vivo,vivo,,,Y02t,#
 V2254,mob,vivo,vivo,,,Y02t,#
+V2325,mob,vivo,vivo,,,Y02t,#
 V2028,mob,vivo,vivo,,,Y11s,#
 vivo 1904,mob,vivo,vivo,,,Y12,#
 V2026,mob,vivo,vivo,,,Y12A,#
@@ -5557,6 +5558,7 @@ V2206,mob,vivo,vivo,,,Y22s,#
 V2248,mob,vivo,vivo,,,Y27,#5G
 V2249,mob,vivo,vivo,,,Y27,#5G
 V2302,mob,vivo,vivo,,,Y27,#5G
+V2322,mob,vivo,vivo,,,Y27s,#
 V2160,mob,vivo,vivo,,,Y30,#5G
 V2036,mob,vivo,vivo,,,Y31,#
 V2036_21,mob,vivo,vivo,,,Y31,#
@@ -5587,8 +5589,9 @@ V2142,mob,vivo,vivo,,,Y75,#5G
 V2124,mob,vivo,vivo,,,Y76,#5G
 V2169,mob,vivo,vivo,,,Y77,#5G
 V2244,mob,vivo,vivo,,,Y78,#5G
-V2239,mob,vivo,vivo,,,Y100,#
-V2222,mob,vivo,vivo,,,Y100A,#
+V2239,mob,vivo,vivo,,,Y100,#5G
+V2222,mob,vivo,vivo,,,Y100A,#5G
+V2307,mob,vivo,vivo,,,Y200,#5G
 I2201,mob,vivo,vivo,,,iQOO 9T,#
 I2022,mob,vivo,vivo,,,iQOO 9 Pro,#
 I2019,mob,vivo,vivo,,,iQOO 9 SE,#

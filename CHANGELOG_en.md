@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-11
+- `vivo_global_en` Add several new models.
 ## 2023-10-08
 - `oppo_global_en` Add OPPO Find N3.
 ## 2023-10-04

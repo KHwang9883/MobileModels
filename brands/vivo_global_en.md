@@ -233,7 +233,7 @@
 
 **vivo Y02t:**
 
-`V2252` `V2254`: vivo Y02t
+`V2252` `V2254` `V2325`: vivo Y02t
 
 **vivo Y11s:**
 
@@ -361,6 +361,10 @@
 
 `V2248` `V2249` `V2302`: vivo Y27 5G
 
+**vivo Y27s:**
+
+`V2322`: vivo Y27s
+
 **vivo Y30:**
 
 `V2160`: vivo Y30 5G
@@ -451,11 +455,15 @@
 
 **vivo Y100:**
 
-`V2239`: vivo Y100
+`V2239`: vivo Y100 5G
 
 **vivo Y100A:**
 
-`V2222`: vivo Y100A
+`V2222`: vivo Y100A 5G
+
+**vivo Y200:**
+
+`V2307`: vivo Y200 5G
 
 ## iQOO Smartphones
 
