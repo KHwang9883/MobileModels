@@ -3577,8 +3577,11 @@ L65MA-EA,tv,mitv,小米,,,小米电视 EA,#65 (2023)
 L70MA-EA,tv,mitv,小米,,,小米电视 EA,#70 (2023)
 L75MA-EA,tv,mitv,小米,,,小米电视 EA,#75 (2023)
 L55M9-EP,tv,mitv,小米,,,小米电视 EA Pro,#55
+L55MA-EP,tv,mitv,小米,,,小米电视 EA Pro,#55 高刷版
 L65M9-EP,tv,mitv,小米,,,小米电视 EA Pro,#65
+L65MA-EP,tv,mitv,小米,,,小米电视 EA Pro,#65 高刷版
 L75M9-EP,tv,mitv,小米,,,小米电视 EA Pro,#75
+L75MA-EP,tv,mitv,小米,,,小米电视 EA Pro,#75 高刷版
 L86M9-EP,tv,mitv,小米,,,小米电视 EA Pro,#86
 L43M7-ES,tv,mitv,小米,,,小米电视 ES,#43 2022 款
 L50M7-ES,tv,mitv,小米,,,小米电视 ES,#50 2022 款
@@ -3591,8 +3594,15 @@ L65M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#65
 L75M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#75
 L86M8-ES,tv,mitv,小米,,,小米电视 ES Pro,#86
 L90M9-EP,tv,mitv,小米,,,小米电视 ES Pro,#90
+L32MA-A,tv,mitv,小米,,,小米电视 A,#32
+L43MA-A,tv,mitv,小米,,,小米电视 A,#43
+L50MA-A,tv,mitv,小米,,,小米电视 A,#50
+L55MA-A,tv,mitv,小米,,,小米电视 A,#55
 L55MA-AC,tv,mitv,小米,,,小米电视 A,#55 竞技版
+L65MA-A,tv,mitv,小米,,,小米电视 A,#65
 L65MA-AC,tv,mitv,小米,,,小米电视 A,#65 竞技版
+L70MA-A,tv,mitv,小米,,,小米电视 A,#70
+L75MA-A,tv,mitv,小米,,,小米电视 A,#75
 L75MA-AC,tv,mitv,小米,,,小米电视 A,#75 竞技版
 L43MA-AP,tv,mitv,小米,,,小米电视 A Pro,#43
 L55MA-AP,tv,mitv,小米,,,小米电视 A Pro,#55
@@ -3652,6 +3662,9 @@ L75RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#75T
 L55R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#55
 L65R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#65
 L75R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#75
+L55MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#55 2024 款
+L65MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#65 2024 款
+L75MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#75 2024 款
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#75
 L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸

@@ -266,9 +266,15 @@
 
 `L55M9-EP`: 小米电视 EA Pro 55
 
+`L55MA-EP`: 小米电视 EA Pro 55 高刷版
+
 `L65M9-EP`: 小米电视 EA Pro 65
 
+`L65MA-EP`: 小米电视 EA Pro 65 高刷版
+
 `L75M9-EP`: 小米电视 EA Pro 75
+
+`L75MA-EP`: 小米电视 EA Pro 75 高刷版
 
 `L86M9-EP`: 小米电视 EA Pro 86
 
@@ -300,9 +306,23 @@
 
 **小米电视 A:**
 
+`L32MA-A`: 小米电视 A32
+
+`L43MA-A`: 小米电视 A43
+
+`L50MA-A`: 小米电视 A50
+
+`L55MA-A`: 小米电视 A55
+
 `L55MA-AC`: 小米电视 A55 竞技版
 
+`L65MA-A`: 小米电视 A65
+
 `L65MA-AC`: 小米电视 A65 竞技版
+
+`L70MA-A`: 小米电视 A70
+
+`L75MA-A`: 小米电视 A75
 
 `L75MA-AC`: 小米电视 A75 竞技版
 
@@ -447,6 +467,14 @@
 `L65R9-XT`: Redmi AI 智能电视 X65
 
 `L75R9-XT`: Redmi AI 智能电视 X75
+
+**Redmi AI 智能电视 X 2024 款:**
+
+`L55MA-XT`: Redmi AI 智能电视 X55 2024 款
+
+`L65MA-XT`: Redmi AI 智能电视 X65 2024 款
+
+`L75MA-XT`: Redmi AI 智能电视 X75 2024 款
 
 **Redmi 智能电视 X Pro:**
 
