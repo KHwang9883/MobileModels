@@ -299,6 +299,10 @@
 
 `RMO-NX1`: HONOR X9a 5G
 
+**HONOR X9b 5G (`Ali`):**
+
+`ALI-NX1` `ALI-NX3`: HONOR X9b 5G
+
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8

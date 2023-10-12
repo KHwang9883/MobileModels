@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-12
+- `honor_global_en` Add HONOR X9b 5G.
 ## 2023-10-11
 - `vivo_global_en` Add several new models.
 ## 2023-10-08
