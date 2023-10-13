@@ -432,6 +432,8 @@
 
 `L70RA-RA`: Redmi 智能电视 A70 2024 款
 
+`L75MA-RA`: Redmi 智能电视 A75 2024 款
+
 **Redmi 智能电视 X:**
 
 `L50M5-RK`: Redmi 智能电视 X50 (2020)
