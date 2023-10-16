@@ -1105,13 +1105,18 @@ DET-A0,mob,coolpad,酷派,,,酷派 COOL 10C,#
 BOS-A0,mob,coolpad,酷派,,,酷派 COOL 10 青春版,#
 HOU-5GA,mob,coolpad,酷派,,,酷派 X10,#5G
 PHO-5GT,mob,coolpad,酷派,,,酷派锋尚 A11,#5G
-CP03,mob,coolpad,酷派,,,酷派 COOL 20 / 酷派锋尚 40,#
+CP03,mob,coolpad,酷派,,,酷派 COOL 20|酷派 COOL 20+|酷派锋尚 40,#
+CP03,mob,coolpad,酷派,,,酷派 COOL 20|酷派 COOL 20+|酷派锋尚 40,1#
+CP03,mob,coolpad,酷派,,,酷派 COOL 20|酷派 COOL 20+|酷派锋尚 40,2#
 CP05,mob,coolpad,酷派,,,酷派 COOL 20 Pro / 酷派大观 40 Pro,#5G / 酷派大观 40 Pro 5G
 CP07,mob,coolpad,酷派,,,酷派 COOL 20s,#5G
-CP13,mob,coolpad,酷派,,,酷派 COOL 30,#
+CP13,mob,coolpad,酷派,,,酷派 COOL 30|酷派 COOL 30+,#
+CP13,mob,coolpad,酷派,,,酷派 COOL 30|酷派 COOL 30+,1#
 CP15,mob,coolpad,酷派,,,酷派 COOL 30 Pro,#5G
 CP16t,mob,coolpad,酷派,,,酷派大观 40s,#5G
 CP17,mob,coolpad,酷派,,,酷派大观 50s,#5G
+CP27,mob,coolpad,酷派,,,酷派大观 Y60,#5G
+CP3AT2,mob,coolpad,酷派,,,酷派大观 Y60 Lite,#5G
 G-2PW4100,mob,google,Google,,sailfish,Pixel,#North America
 G-2PW4200,mob,google,Google,,sailfish,Pixel,#Rest of the world
 G-2PW2100,mob,google,Google,,marlin,Pixel XL,#North America
