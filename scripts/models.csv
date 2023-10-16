@@ -1905,7 +1905,7 @@ BRA-AL00,mob,huawei,华为,,Barry,HUAWEI Mate 60,#
 ALN-AL00,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
-ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS | ULTIMATE DESIGN,#
+ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,#
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
@@ -2389,7 +2389,9 @@ NbF-16,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 12 代酷睿版,#2022
 NbF-08,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 SE 12 代酷睿版,#8GB 内存
 NbF-16,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 SE 12 代酷睿版,#16GB 内存
 MDF-16,computer,huawei,华为,,,HUAWEI MateBook D 14,#2023 12 代酷睿版
+MDF-16,computer,huawei,华为,,,HUAWEI MateBook D 14,#SE 2023
 MDG-16,computer,huawei,华为,,,HUAWEI MateBook D 14,#2023 13 代酷睿版
+MDG-16,computer,huawei,华为,,,HUAWEI MateBook D 14,#SE 13 代酷睿版
 Boh-WAQ9R,computer,huawei,华为,,BohrK,HUAWEI MateBook D 15,#R5 (8GB+512GB)
 Boh-WAQ9RP,computer,huawei,华为,,BohrK,HUAWEI MateBook D 15,#R5 (16GB+256GB+1TB)
 Boh-WAQ9L,computer,huawei,华为,,BohrK,HUAWEI MateBook D 15,#R5 Linux 版
@@ -2538,7 +2540,7 @@ ARC-AL00,watch,huawei,华为,,Archi,HUAWEI WATCH 4,#
 MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#
-CLB-B39,watch,huawei,华为,,,HUAWEI WATCH | ULTIMATE DESIGN,#
+CLB-B39,watch,huawei,华为,,,HUAWEI WATCH | ULTIMATE DESIGN 非凡大师,#
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#42mm
