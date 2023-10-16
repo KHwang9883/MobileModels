@@ -282,9 +282,11 @@
 
 **联想启天 K10 Pro:**
 
-`TB223FC`: 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
+`TB128FU` `TB223FC`: 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
 
-`TB226XC`: 联想启天 K10 Pro 10.61 英寸 LTE 版
+`TB128XC` `TB226XC`: 联想启天 K10 Pro 10.61 英寸 LTE 版
+
+`TB360ZU`: 联想启天 K10 Pro 10.61 英寸 5G 版
 
 **联想启天 K11:**
 
@@ -295,6 +297,16 @@
 **联想启天 K11 Pro 5G:**
 
 `Lenovo TB-J607Z`: 联想启天 K11 Pro 5G
+
+**联想启天 K11 Gen2:**
+
+`TB230FC`: 联想启天 K11 Gen2 11.5 英寸 Wi-Fi 版
+
+`TB230XC`: 联想启天 K11 Gen2 11.5 英寸 LTE 版
+
+**联想启天 K12:**
+
+`TB240FC`: 联想启天 K12 12.7 英寸 Wi-Fi 版
 
 **联想启天 SmartPaper:**
 
