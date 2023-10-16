@@ -3,6 +3,7 @@
 - `coolpad` 新增 酷派大观 Y60。
 - `huawei_cn` 新增 HUAWEI MateBook D 14 SE 2023。
 - `lenovo` 增补 部分平板型号。
+- `oppo` 新增 OPPO Find N3。
 - `zte` 新增 中兴畅行 50。
 ## 2023-10-13
 - `mitv_cn` 新增 Redmi A75 2024。
