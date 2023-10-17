@@ -596,6 +596,10 @@
 
 `DIO-AN00`: 荣耀 Play7T Pro 5G
 
+**荣耀 Play8T:**
+
+`CLK-AN00`: 荣耀 Play8T 5G
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**

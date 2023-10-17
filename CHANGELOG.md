@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-10-17
+- `honor_cn` 新增 荣耀 Play8T。
 ## 2023-10-16
 - `coolpad` 新增 酷派大观 Y60。
 - `huawei_cn` 新增 HUAWEI MateBook D 14 SE 2023。
