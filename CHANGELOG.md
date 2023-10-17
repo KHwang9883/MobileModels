@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-10-17
+- `apple` 新增 iPad 第十代 eSIM 型号。
 - `honor_cn` 新增 荣耀 Play8T。
 ## 2023-10-16
 - `coolpad` 新增 酷派大观 Y60。

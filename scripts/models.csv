@@ -238,6 +238,7 @@ A2605,pad,apple,Apple,J182AP,"iPad12,2",iPad (第 9 代),#(无线局域网 + 蜂
 A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (第 10 代),#无线局域网
 A2757,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#(无线局域网 + 蜂窝网络) (eSIM)
 A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#(无线局域网 + 蜂窝网络) (中国大陆)
+A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),"#(无线局域网 + 蜂窝网络) (eSIM, 中国大陆)"
 A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,#无线局域网
 A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,#无线局域网 + 蜂窝网络
 A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,#(无线局域网 + 蜂窝网络) (TD-LTE)
@@ -278,9 +279,9 @@ A1876,pad,apple,Apple,J320xAP,"iPad8,6","iPad Pro (12.9 英寸, 第 3 代)","#�
 A1895,pad,apple,Apple,J321AP,"iPad8,7","iPad Pro (12.9 英寸, 第 3 代)",#(无线局域网 + 蜂窝网络) (eSIM)
 A2014,pad,apple,Apple,J321AP,"iPad8,7","iPad Pro (12.9 英寸, 第 3 代)",#(无线局域网 + 蜂窝网络) (eSIM)
 A1983,pad,apple,Apple,J321AP,"iPad8,7","iPad Pro (12.9 英寸, 第 3 代)",#(无线局域网 + 蜂窝网络) (中国大陆)
-A1983,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9 英寸, 第 3 代)","#(无线局域网 + 蜂窝网络, 1TB) (中国大陆)"
 A1895,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9 英寸, 第 3 代)","#(无线局域网 + 蜂窝网络, 1TB) (eSIM)"
 A2014,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9 英寸, 第 3 代)","#(无线局域网 + 蜂窝网络, 1TB) (eSIM)"
+A1983,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9 英寸, 第 3 代)","#(无线局域网 + 蜂窝网络, 1TB) (中国大陆)"
 A2228,pad,apple,Apple,J417AP,"iPad8,9","iPad Pro (11 英寸, 第 2 代)",#无线局域网
 A2068,pad,apple,Apple,J418AP,"iPad8,10","iPad Pro (11 英寸, 第 2 代)",#(无线局域网 + 蜂窝网络) (eSIM)
 A2230,pad,apple,Apple,J418AP,"iPad8,10","iPad Pro (11 英寸, 第 2 代)",#(无线局域网 + 蜂窝网络) (eSIM)
@@ -614,6 +615,7 @@ A2605,pad,apple,Apple,J182AP,"iPad12,2",iPad (9th generation),#Wi-Fi + Cellular 
 A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (10th generation),#Wi-Fi
 A2757,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),#Wi-Fi + Cellular
 A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),#Wi-Fi + Cellular (China mainland)
+A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),"#Wi-Fi + Cellular (eSIM, China mainland)"
 A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,#Wi-Fi
 A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,#Wi-Fi + Cellular
 A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,#Wi-Fi + Cellular (TD-LTE)
@@ -879,6 +881,7 @@ A2602,pad,apple,Apple,J181AP,"iPad12,1",iPad (第 9 代),#无线局域网
 A2605,pad,apple,Apple,J182AP,"iPad12,2",iPad (第 9 代),#无线局域网 + 蜂窝网络
 A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (第 10 代),#无线局域网
 A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#无线局域网 + 蜂窝网络
+A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#(无线局域网 + 蜂窝网络) (eSIM)
 A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,#无线局域网
 A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,#无线局域网 + 蜂窝网络
 A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,#(无线局域网 + 蜂窝网络) (TD-LTE)
