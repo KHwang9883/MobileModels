@@ -533,6 +533,8 @@
 
 `A2777`: iPad (10th generation) Wi-Fi + Cellular (China mainland)
 
+`A3162`: iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)
+
 ## iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**

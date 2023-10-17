@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-17
+- `apple_en` Add China mainland eSIM model for iPad 10th gen.
 ## 2023-10-12
 - `honor_global_en` Add HONOR X9b 5G.
 ## 2023-10-11
