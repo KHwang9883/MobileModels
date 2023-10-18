@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-10-18
+- `mitv_cn` 新增 小米电视 A Pro 85。
 ## 2023-10-17
 - `apple` 新增 iPad 第十代 eSIM 型号。
 - `honor_cn` 新增 荣耀 Play8T。
