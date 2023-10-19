@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-19
+- `meizu_en` Add MEIZU 20 Classic.
 ## 2023-10-17
 - `apple_en` Add China mainland eSIM model for iPad 10th gen.
 ## 2023-10-12
