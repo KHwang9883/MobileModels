@@ -124,9 +124,9 @@
 
 `NX702J`: nubia Z40S Pro
 
-**nubia Z50:**
+**nubia Z50 / nubia Z50S:**
 
-`NX711J`: nubia Z50
+`NX711J`: nubia Z50 / nubia Z50S
 
 **nubia Z50 Ultra:**
 
