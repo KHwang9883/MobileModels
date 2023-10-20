@@ -5246,6 +5246,8 @@ V2242A,mob,vivo,vivo,,PD2242,X90 Pro,#
 V2227A,mob,vivo,vivo,,PD2227,X90 Pro+,#
 V2266A,mob,vivo,vivo,,PD2266,X Fold2,#
 V2256A,mob,vivo,vivo,,PD2256,X Flip,#
+V2309A,mob,vivo,vivo,,PD2309,X100,#
+V2324A,mob,vivo,vivo,,PD2324,X100 Pro,#
 V1831A,mob,vivo,vivo,,PD1831,S1,#全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,#移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,#全网通版
@@ -5305,6 +5307,7 @@ V2168A,mob,vivo,vivo,,PD2168,Y32t,#8GB+128GB
 V2180A,mob,vivo,vivo,,PD2180,Y32t,#8GB+256GB
 V2166A,mob,vivo,vivo,,PD2166,Y33s,#5G
 V2166A,mob,vivo,vivo,,PD2166,Y33e,#5G
+V2317A,mob,vivo,vivo,,PD2317,Y33t,#
 V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,#5G
 V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,1#5G
 V2279A,mob,vivo,vivo,,PD2279,Y35+|Y35m+,#5G
@@ -5361,6 +5364,7 @@ V1818CA,mob,vivo,vivo,,PD1818C,Y93s,#全网通版
 V1818CT,mob,vivo,vivo,,PD1818C,Y93s,#移动全网通版
 V1813A,mob,vivo,vivo,,PD1813,Y97,#全网通版
 V1813T,mob,vivo,vivo,,PD1813,Y97,#移动全网通版
+V2313A,mob,vivo,vivo,,PD2313,Y100,#5G
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#

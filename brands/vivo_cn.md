@@ -182,6 +182,14 @@
 
 `V2256A`: vivo X Flip
 
+**vivo X100 (`PD2309`):**
+
+`V2309A`: vivo X100
+
+**vivo X100 Pro (`PD2324`):**
+
+`V2324A`: vivo X100 Pro
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -400,6 +408,10 @@
 
 `V2166A`: vivo Y33e 5G
 
+**vivo Y33t (`PD2317`):**
+
+`V2317A`: vivo Y33t
+
 **vivo Y35 / vivo Y35m (`PD2230`):**
 
 `V2230A`: vivo Y35 5G / vivo Y35m 5G
@@ -577,6 +589,10 @@
 `V1813A`: vivo Y97 全网通版
 
 `V1813T`: vivo Y97 移动全网通版
+
+**vivo Y100 (`PD2313`):**
+
+`V2313A`: vivo Y100 5G
 
 ## vivo T 系列
 
