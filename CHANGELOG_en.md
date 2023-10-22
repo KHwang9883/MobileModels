@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-22
+- `oneplus_en` Add OnePlus Open.
 ## 2023-10-19
 - `meizu_en` Add MEIZU 20 Classic.
 ## 2023-10-17
