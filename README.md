@@ -104,6 +104,6 @@
 
 酷安 **[@KHwang9883](http://www.coolapk.com/u/497671)**
 
-新浪微博 **[@KHwang9883](https://weibo.com/huangyf9883)**
+微博及其他平台同名，但不一定回
 
 如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)。如有错误或缺漏，欢迎提交 PR。
