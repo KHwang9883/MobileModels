@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-10-22
+- `oppo_cn` 新增 OPPO A2。
 ## 2023-10-20
 - `nubia` 新增 nubia Z50S。
 - `vivo_cn` 新增 vivo X100 系列。

@@ -362,6 +362,10 @@
 
 `CPH2389`: OnePlus Nord N300
 
+**OnePlus Open:**
+
+`CPH2551`: OnePlus Open
+
 **OnePlus Pad:**
 
 `OPD2203`: OnePlus Pad
