@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-10-23
+- `samsung_cn` 新增 三星 Galaxy Tab A9+。
 - `vivo_cn` 新增 vivo Y55t。
 ## 2023-10-22
 - `oppo_cn` 新增 OPPO A2。

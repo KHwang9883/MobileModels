@@ -5125,6 +5125,8 @@ SM-T220,mob,samsung,三星,,gta7litewifi,Galaxy Tab A7 Lite,#8.7 WLAN
 SM-T225C,mob,samsung,三星,,gta7lite,Galaxy Tab A7 Lite,#8.7 LTE
 SM-X200,mob,samsung,三星,,gta8wifi,Galaxy Tab A8,#WLAN
 SM-X205C,mob,samsung,三星,,gta8,Galaxy Tab A8,#LTE
+SM-X210,mob,samsung,三星,,gta9pwifi,Galaxy Tab A9+,#WLAN
+SM-X216C,mob,samsung,三星,,gta9p,Galaxy Tab A9+,#5G
 SM-T230,mob,samsung,三星,,degaswifi,Galaxy Tab4 7.0,#WLAN
 SM-T231,mob,samsung,三星,,degas3g,Galaxy Tab4 7.0,#3G
 SM-T239C,mob,samsung,三星,,degasveltechn,Galaxy Tab4 7.0 VE,#LTE

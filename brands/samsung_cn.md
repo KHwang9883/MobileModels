@@ -982,6 +982,14 @@
 
 `SM-X205C`: Galaxy Tab A8 LTE
 
+**Galaxy Tab A9+ (`gta9pwifi`):**
+
+`SM-X210`: Galaxy Tab A9+ WLAN
+
+**Galaxy Tab A9+ (`gta9p`):**
+
+`SM-X216C`: Galaxy Tab A9+ 5G
+
 ## Galaxy Tab 系列
 
 **Galaxy Tab4 7.0 (`degaswifi`):**
