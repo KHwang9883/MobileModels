@@ -472,6 +472,10 @@
 
 `V2164A`: vivo Y55s 5G
 
+**vivo Y55t (`PD2279`):**
+
+`V2279A`: vivo Y55t 5G
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G
