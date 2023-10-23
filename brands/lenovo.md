@@ -142,6 +142,8 @@
 
 `TB128FU`: 联想小新 Pad 2022
 
+`TB331FC`: 联想小新 Pad 2024
+
 **联想小新 Pad Plus:**
 
 `Lenovo TB-J607F`: 联想小新 Pad Plus
