@@ -362,7 +362,7 @@
 
 `CPH2389`: OnePlus Nord N300
 
-**OnePlus Open:**
+**OnePlus Open (`hedwig`):**
 
 `CPH2551`: OnePlus Open
 
