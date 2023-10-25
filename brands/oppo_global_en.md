@@ -67,7 +67,7 @@
 
 `CPH2499`: OPPO Find N3
 
-**OPPO Find N3 Flip:**
+**OPPO Find N3 Flip (`flamingo`):**
 
 `CPH2519`: OPPO Find N3 Flip
 
