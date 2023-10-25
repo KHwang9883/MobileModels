@@ -65,11 +65,11 @@
 
 **OPPO Find N3 (`hedwig`):**
 
-`CPH2499`: OPPO Find N3 Global
+`CPH2499`: OPPO Find N3
 
 **OPPO Find N3 Flip:**
 
-`CPH2519`: OPPO Find N3 Flip Global
+`CPH2519`: OPPO Find N3 Flip
 
 ## Reno series
 
