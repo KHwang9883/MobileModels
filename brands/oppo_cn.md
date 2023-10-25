@@ -72,7 +72,7 @@
 
 `PHN110`: OPPO Find N3 / OPPO Find N3 典藏版
 
-**OPPO Find N3 Flip:**
+**OPPO Find N3 Flip (`flamingo`):**
 
 `PHT110`: OPPO Find N3 Flip
 
