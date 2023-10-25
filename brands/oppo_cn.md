@@ -56,15 +56,15 @@
 
 ## Find N 系列
 
-**OPPO Find N:**
+**OPPO Find N (`peacock`):**
 
 `PEUM00`: OPPO Find N
 
-**OPPO Find N2:**
+**OPPO Find N2 (`whiteswan`):**
 
 `PGU110`: OPPO Find N2
 
-**OPPO Find N2 Flip:**
+**OPPO Find N2 Flip (`dragonfly`):**
 
 `PGT110`: OPPO Find N2 Flip
 
