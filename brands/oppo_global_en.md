@@ -55,11 +55,11 @@
 
 ## Find N series
 
-**OPPO Find N2:**
+**OPPO Find N2 (`whiteswan`):**
 
 `CPH2439`: OPPO Find N2
 
-**OPPO Find N2 Flip:**
+**OPPO Find N2 Flip (`dragonfly`):**
 
 `CPH2437`: OPPO Find N2 Flip
 
