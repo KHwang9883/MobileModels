@@ -394,6 +394,18 @@
 
 `A301XM`: Xiaomi 13T Pro 日本版 (SoftBank)
 
+**[`N3`] Xiaomi 14 (`houji`):**
+
+`23127PN0CC`: Xiaomi 14 全网通版
+
+`23127PN0CG`: Xiaomi 14 国际版
+
+**[`N2`] Xiaomi 14 Pro (`shennong`):**
+
+`23116PN5BC`: Xiaomi 14 Pro 全网通版
+
+`23116PN5BG`: Xiaomi 14 Pro 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**

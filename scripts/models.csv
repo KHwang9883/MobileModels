@@ -4240,12 +4240,12 @@ PFEM10,mob,oppo,OPPO,,,OPPO Find X5 Pro,#
 PFFM20,mob,oppo,OPPO,,,OPPO Find X5 Pro 天玑版,#
 PGFM10,mob,oppo,OPPO,,,OPPO Find X6,#
 PGEM10,mob,oppo,OPPO,,,OPPO Find X6 Pro,#
-PEUM00,mob,oppo,OPPO,,,OPPO Find N,#
-PGU110,mob,oppo,OPPO,,,OPPO Find N2,#
-PGT110,mob,oppo,OPPO,,,OPPO Find N2 Flip,#
+PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
+PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
+PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
 PHN110,mob,oppo,OPPO,,hedwig,OPPO Find N3,#
 PHN110,mob,oppo,OPPO,,hedwig,OPPO Find N3,#典藏版
-PHT110,mob,oppo,OPPO,,,OPPO Find N3 Flip,#
+PHT110,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,#全网通版
 PCAT00,mob,oppo,OPPO,,,OPPO Reno,#移动版
 PCCM00,mob,oppo,OPPO,,,OPPO Reno 10 倍变焦版,#全网通版
@@ -4415,10 +4415,10 @@ CPH2207,mob,oppo,OPPO,,,OPPO Find X3 Neo,#
 CPH2307,mob,oppo,OPPO,,,OPPO Find X5,#
 CPH2305,mob,oppo,OPPO,,,OPPO Find X5 Pro,#
 CPH2371,mob,oppo,OPPO,,,OPPO Find X5 Lite,#
-CPH2439,mob,oppo,OPPO,,,OPPO Find N2,#
-CPH2437,mob,oppo,OPPO,,,OPPO Find N2 Flip,#
+CPH2439,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
+CPH2437,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
 CPH2499,mob,oppo,OPPO,,hedwig,OPPO Find N3,#
-CPH2519,mob,oppo,OPPO,,,OPPO Find N3 Flip,#
+CPH2519,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
 CPH1917,mob,oppo,OPPO,,,OPPO Reno,#
 CPH1921,mob,oppo,OPPO,,,OPPO Reno 5G,#
 CPH1919,mob,oppo,OPPO,,,OPPO Reno 10x Zoom,#
@@ -5779,6 +5779,10 @@ XIG04,mob,xiaomi,小米,M12A,aristotle,Xiaomi 13T,#日本版 (KDDI)
 23078PND5G,mob,xiaomi,小米,M12,corot,Xiaomi 13T Pro,#国际版
 23088PND5R,mob,xiaomi,小米,M12,corot,Xiaomi 13T Pro,#日本版 (SIM Free)
 A301XM,mob,xiaomi,小米,M12,corot,Xiaomi 13T Pro,#日本版 (SoftBank)
+23127PN0CC,mob,xiaomi,小米,N3,houji,Xiaomi 14,#全网通版
+23127PN0CG,mob,xiaomi,小米,N3,houji,Xiaomi 14,#国际版
+23116PN5BC,mob,xiaomi,小米,N2,shennong,Xiaomi 14 Pro,#全网通版
+23116PN5BG,mob,xiaomi,小米,N2,shennong,Xiaomi 14 Pro,#国际版
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,#双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,#全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,#移动合约版
@@ -6426,6 +6430,10 @@ XIG04,mob,xiaomi,Xiaomi,M12A,aristotle,Xiaomi 13T,#Japan (KDDI)
 23078PND5G,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Global
 23088PND5R,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Japan (SIM Free)
 A301XM,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Japan (SoftBank)
+23127PN0CG,mob,xiaomi,Xiaomi,N3,houji,Xiaomi 14,#Global
+23127PN0CC,mob,xiaomi,Xiaomi,N3,houji,Xiaomi 14,#China
+23116PN5BG,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#Global
+23116PN5BC,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#China
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China
