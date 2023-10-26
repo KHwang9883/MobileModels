@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-10-26
+- `xiaomi_en` Add Xiaomi 14 series.
 ## 2023-10-22
 - `oneplus_en` Add OnePlus Open.
 ## 2023-10-19

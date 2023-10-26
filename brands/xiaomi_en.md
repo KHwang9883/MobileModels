@@ -391,6 +391,18 @@
 
 `A301XM`: Xiaomi 13T Pro Japan (SoftBank)
 
+**[`N3`] Xiaomi 14 (`houji`):**
+
+`23127PN0CG`: Xiaomi 14 Global
+
+`23127PN0CC`: Xiaomi 14 China
+
+**[`N2`] Xiaomi 14 Pro (`shennong`):**
+
+`23116PN5BG`: Xiaomi 14 Pro Global
+
+`23116PN5BC`: Xiaomi 14 Pro China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
