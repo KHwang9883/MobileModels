@@ -92,6 +92,10 @@
 
 `RMX3823`: 真我 GT5 240W
 
+**真我 GT5 Pro:**
+
+`RMX3888`: 真我 GT5 Pro
+
 ## Neo 系列
 
 **真我 GT Neo:**
