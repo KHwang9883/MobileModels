@@ -1800,6 +1800,9 @@ FRI-NX9,mob,honor,HONOR,,,HONOR Magic Vs,#
 PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#5G
 PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
+RMO-NX3,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
+ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
+ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
 VNA-LX3,mob,honor,HONOR,,,HONOR X5,#
 WOD-LX1,mob,honor,HONOR,,,HONOR X5 Plus,#
@@ -1834,7 +1837,6 @@ ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR X9 5G,#
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR X9a 5G,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
-ALI-NX3,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE

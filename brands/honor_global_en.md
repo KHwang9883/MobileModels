@@ -235,7 +235,11 @@
 
 **HONOR Magic5 Lite 5G (`Rambo`):**
 
-`RMO-NX1`: HONOR Magic5 Lite 5G
+`RMO-NX1` `RMO-NX3`: HONOR Magic5 Lite 5G
+
+**HONOR Magic6 Lite 5G (`Ali`):**
+
+`ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
 **HONOR X5:**
 
@@ -301,7 +305,7 @@
 
 **HONOR X9b 5G (`Ali`):**
 
-`ALI-NX1` `ALI-NX3`: HONOR X9b 5G
+`ALI-NX1`: HONOR X9b 5G
 
 **HONOR Pad 8 (`Hendry`):**
 

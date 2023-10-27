@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2023-10-27
+- `honor_global_en` Add HONOR Magic6 Lite 5G.
 - `oneplus_en` Add OnePlus 12 China.
 ## 2023-10-26
 - `xiaomi_en` Add Xiaomi 14 series.
