@@ -266,6 +266,10 @@
 
 `PJA110`: 一加 Ace 2 Pro 全网通版
 
+**一加 12:**
+
+`PJD110`: 一加 12 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
