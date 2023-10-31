@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-10-31
+- `huawei_cn` 新增 HUAWEI nova 11 SE。
 ## 2023-10-27
 - `oneplus` 新增 一加 12。
 - `realme_cn` 新增 真我 GT5 Pro。

@@ -613,6 +613,10 @@
 
 `GOA-AL80U`: HUAWEI nova 11 Ultra
 
+**HUAWEI nova 11 SE:**
+
+`BON-AL00`: HUAWEI nova 11 SE
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
