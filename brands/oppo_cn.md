@@ -166,23 +166,23 @@
 
 `PDRM00`: OPPO Reno5 Pro+
 
-**OPPO Reno6:**
+**OPPO Reno6 (`garen`):**
 
 `PEQM00`: OPPO Reno6
 
-**OPPO Reno6 Pro:**
+**OPPO Reno6 Pro (`yasuo`):**
 
 `PEPM00`: OPPO Reno6 Pro
 
-**OPPO Reno6 Pro+:**
+**OPPO Reno6 Pro+ (`jin`):**
 
 `PENM00`: OPPO Reno6 Pro+
 
-**OPPO Reno7:**
+**OPPO Reno7 (`libai`):**
 
 `PFJM10`: OPPO Reno7
 
-**OPPO Reno7 Pro:**
+**OPPO Reno7 Pro (`mozi`):**
 
 `PFDM00`: OPPO Reno7 Pro
 
@@ -190,39 +190,39 @@
 
 `PFCM00`: OPPO Reno7 SE
 
-**OPPO Reno8:**
+**OPPO Reno8 (`ali`):**
 
 `PGBM10`: OPPO Reno8
 
-**OPPO Reno8 Pro:**
+**OPPO Reno8 Pro (`wuyi`):**
 
 `PGAM10`: OPPO Reno8 Pro
 
-**OPPO Reno8 Pro+:**
+**OPPO Reno8 Pro+ (`taibai`):**
 
 `PFZM10`: OPPO Reno8 Pro+
 
-**OPPO Reno9:**
+**OPPO Reno9 (`lantian`):**
 
 `PHM110`: OPPO Reno9
 
-**OPPO Reno9 Pro:**
+**OPPO Reno9 Pro (`linhai`):**
 
 `PGX110`: OPPO Reno9 Pro
 
-**OPPO Reno9 Pro+:**
+**OPPO Reno9 Pro+ (`lvzhou`):**
 
 `PGW110`: OPPO Reno9 Pro+
 
-**OPPO Reno10:**
+**OPPO Reno10 (`taylor`):**
 
 `PHW110`: OPPO Reno10
 
-**OPPO Reno10 Pro:**
+**OPPO Reno10 Pro (`viven`):**
 
 `PHV110`: OPPO Reno10 Pro
 
-**OPPO Reno10 Pro+:**
+**OPPO Reno10 Pro+ (`monroe`):**
 
 `PHU110`: OPPO Reno10 Pro+
 
@@ -422,7 +422,7 @@
 
 `PEHT00`: OPPO A93 移动版
 
-**OPPO A93s:**
+**OPPO A93s (`odin-a`):**
 
 `PFGM00`: OPPO A93s
 
@@ -442,7 +442,7 @@
 
 `PHS110`: OPPO A1 (2023)
 
-**OPPO A1 Pro:**
+**OPPO A1 Pro (`hepburn`):**
 
 `PHQ110`: OPPO A1 Pro
 
@@ -462,7 +462,7 @@
 
 `PJS110`: OPPO A2x
 
-**OPPO A2 Pro:**
+**OPPO A2 Pro(`givenchy`):**
 
 `PJG110`: OPPO A2 Pro
 
@@ -496,15 +496,15 @@
 
 `PEXM00`: OPPO K9
 
-**OPPO K9s / OPPO K10 活力版:**
+**OPPO K9s (`walle`) / OPPO K10 活力版 (`walle-k`):**
 
 `PERM10`: OPPO K9s / OPPO K10 活力版
 
-**OPPO K9 Pro:**
+**OPPO K9 Pro (`tiga`):**
 
 `PEYM00`: OPPO K9 Pro
 
-**OPPO K9x:**
+**OPPO K9x (`apollo-o`):**
 
 `PGCM10`: OPPO K9x
 
@@ -512,19 +512,19 @@
 
 `PGJM10`: OPPO K10
 
-**OPPO K10 Pro:**
+**OPPO K10 Pro (`eva`):**
 
 `PGIM10`: OPPO K10 Pro
 
-**OPPO K10x:**
+**OPPO K10x (`oscar-y`):**
 
 `PGGM10`: OPPO K10x
 
-**OPPO K11:**
+**OPPO K11 (`ziti`):**
 
 `PJC110`: OPPO K11
 
-**OPPO K11x:**
+**OPPO K11x (`larry`):**
 
 `PHF110`: OPPO K11x
 
