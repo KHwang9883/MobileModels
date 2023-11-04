@@ -467,6 +467,20 @@
 
 ## iQOO Smartphones
 
+**iQOO 3:**
+
+`I1927`: iQOO 3 4G
+
+`I1928`: iQOO 3 5G
+
+**iQOO 7:**
+
+`I2009` `I2012`: iQOO 7
+
+**iQOO 9:**
+
+`I2017`: iQOO 9
+
 **iQOO 9T:**
 
 `I2201`: iQOO 9T
