@@ -1,7 +1,7 @@
 # OPPO 手机型号汇总
 
 - 汇总范围: 2018 年起新型号命名方式的机型
-- codename: ❌
+- codename: ⏹
 - 是否包含海外机型: [单独汇总 (英文)](brands/oppo_global_en.md)
 
 ## Find X 系列
