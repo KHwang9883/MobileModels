@@ -1,6 +1,6 @@
 # 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
-> 本页面纯属本人临时起意整理，如有错漏欢迎 PR
+> 如有错漏欢迎 PR
 
 - ✅ 支持/是 | **可点击**
 - ⏹ 部分支持/部分开源/部分保修 | **可点击**
@@ -28,5 +28,5 @@
 | 索尼 (SONY) | [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) | 0<br/>（秒解） | [✅](https://github.com/sonyxperiadev/kernel) | ❌ | • 需申请解锁码 |
 | 坚果 (Smartisan) | ✅ | -- | [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) | -- | • 缺少部分机型内核源码 |
 | vivo | ⏹ | -- | [⏹](https://opensource.vivo.com/Project) | ❌ | • 官方未提供解锁，可利用第三方服务解锁<br/>• 缺少部分机型内核源码 |
-| 小米 (Xiaomi) | [⏹](https://www.miui.com/unlock/index.html) | 10080\~172800<br/>（7 天\~2 月） | [⏹](https://github.com/MiCode) | ⏹ | • 仅小米与红米设备支持解锁，黑鲨官方不支持解锁<br/>• 解锁需手机插入 SIM 卡并绑定小米账号，等待时长从小米账号绑定之时起开始计算，随账号解锁次数增加，部分用户出现等待后不允许解锁的情况<br/>• 每账号每月仅允许解锁 1 次设备，每年仅允许解锁 4 次设备，重复绑定解锁单台设备重复计算解锁次数<br/>• 部分机型开源不完整或无提交历史记录（例如 MTK 机型），开源后内核源码不随系统更新<br/>• 秋大已离职，新设备开源进度十分缓慢<br/>• 解锁后主板等部分部件失去保内免费维修资格，刷机等操作易触发永久性熔断机制 |
+| 小米 (Xiaomi) | [⏹](https://www.miui.com/unlock/index.html) | 10080\~172800<br/>（7 天\~2 月） | [⏹](https://github.com/MiCode) | ⏹ | • 仅小米与红米设备支持解锁，黑鲨官方不支持解锁<br/>• Xiaomi HyperOS（小米澎湃 OS）的解锁权限需在小米社区申请<br/>• 解锁需手机插入 SIM 卡并绑定小米账号，等待时长从小米账号绑定之时起开始计算，若绑定设备时设备系统为小米澎湃 OS，绑定成功后解锁等待期为 72 小时<br/>• 每账号每年最多允许解锁 3 台设备<br/>• 部分机型开源不完整或无提交历史记录（例如 MTK 机型），开源后内核源码不随系统更新<br/>• 秋大已离职，部分设备未开源<br/>• 解锁后主板等部分部件失去保内免费维修资格，刷机等操作易触发永久性熔断机制 |
 | 中兴 (ZTE) | ✅ | -- | [✅](https://opensource.ztedevices.com/) | -- | -- |
