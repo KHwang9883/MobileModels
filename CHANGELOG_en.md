@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-11-08
+- `mitv_global_en` Add several new models.
 ## 2023-11-05
 - `vivo_global_en` Add several early iQOO models.
 ## 2023-10-27

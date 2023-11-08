@@ -217,6 +217,10 @@
 
 `L65M7-Q2RU`: Xiaomi TV Q2 65
 
+**Xiaomi 智慧顯示器 Q2 (Taiwan):**
+
+`L65M7-Q2TWN`: Xiaomi 智慧顯示器 Q2 65 型
+
 **Xiaomi TV A2 (EEA):**
 
 `L32M7-EAEU`: Xiaomi TV A2 32
@@ -263,6 +267,12 @@
 
 `L43M7-ETH`: Xiaomi TV A2 FHD 43
 
+**Xiaomi 智慧顯示器 A2 (Taiwan):**
+
+`L43M7-EATWN`: Xiaomi 智慧顯示器 A2 43 型
+
+`L55M7-EATWN`: Xiaomi 智慧顯示器 A2 55 型
+
 **Xiaomi TV A2 (Bangladesh):**
 
 `L32M7-EAUKR`: Xiaomi TV A2 32
@@ -270,6 +280,18 @@
 `L43M7-EAUKR`: Xiaomi TV A2 UHD 43
 
 `L55M7-EAUKR`: Xiaomi TV A2 55
+
+**Xiaomi TV Max (Russia):**
+
+`L86M7-ESRU`: Xiaomi TV Max 86
+
+**Xiaomi TV Max (Middle East):**
+
+`L86M7-ESME`: Xiaomi TV Max 86
+
+**Xiaomi 智慧顯示器 Max (Taiwan):**
+
+`L86M7-ESTWN`: Xiaomi 智慧顯示器 Max 86 型
 
 **Xiaomi TV A (Southeast Asia):**
 
@@ -281,6 +303,10 @@
 
 **Xiaomi TV A (Indonesia):**
 
+`L32M8-P2ID`: Xiaomi TV A 32
+
+`L43M8-P2ID`: Xiaomi TV A FHD 43
+
 `L55M8-P2ID`: Xiaomi TV A 55
 
 **Xiaomi TV A Pro (Southeast Asia):**
@@ -290,6 +316,42 @@
 `L55M8-A2SEA`: Xiaomi TV A Pro 55
 
 `L65M8-A2SEA`: Xiaomi TV A Pro 65
+
+**Xiaomi TV A Pro (Indonesia):**
+
+`L43M8-A2ID`: Xiaomi TV A Pro 43
+
+`L55M8-A2ID`: Xiaomi TV A Pro 55
+
+`L65M8-A2ID`: Xiaomi TV A Pro 65
+
+**Xiaomi TV A Pro (Japan):**
+
+`L32M8A2T`: Xiaomi TV A Pro 32
+
+`L43M8A2T`: Xiaomi TV A Pro 43
+
+`L55M8A2T`: Xiaomi TV A Pro 55
+
+`L65M8A2T`: Xiaomi TV A Pro 65
+
+**Xiaomi TV A Pro (South Korea):**
+
+`L50M8-A2KR`: Xiaomi TV A Pro 50
+
+`L55M8-A2KR`: Xiaomi TV A Pro 55
+
+`L65M8-A2KR`: Xiaomi TV A Pro 65
+
+**Xiaomi 智慧顯示器 A Pro (Taiwan):**
+
+`L32M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 32 型
+
+`L43M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 43 型
+
+`L55M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 55 型
+
+`L65M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 65 型
 
 **Xiaomi TV A Pro (Latin America):**
 
@@ -301,9 +363,19 @@
 
 `L55M8-A2LA`: Xiaomi TV A Pro 55
 
+`L65M8-A2LA`: Xiaomi TV A Pro 65
+
 **Xiaomi TV A Pro (Middle East):**
 
+`L32M8-A2ME`: Xiaomi TV A Pro 32
+
 `L43M8-A2ME`: Xiaomi TV A Pro 43
+
+`L50M8-A2ME`: Xiaomi TV A Pro 50
+
+`L55M8-A2ME`: Xiaomi TV A Pro 55
+
+`L65M8-A2ME`: Xiaomi TV A Pro 65
 
 **Xiaomi Fire TV F2:**
 
