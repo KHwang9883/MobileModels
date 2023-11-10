@@ -10,11 +10,12 @@
 | 品牌 | Bootloader 解锁 | 解锁等待时长（分钟） | Linux 内核开源 | 解锁后保修状态 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 360 手机 | ✅ | -- | ❌ | -- | -- |
+| 黑鲨 (Black Shark) | ❌ | -- | ❌ | -- | -- |
 | 酷派 (Coolpad) | ✅ | -- | ❌ | -- | -- |
 | 荣耀 (HONOR) | ❌ | ❌ | [⏹](https://www.hihonor.com/global/opensource/) | -- | • 缺少部分机型内核源码 |
 | 华为 (HUAWEI) | ❌ | -- | [⏹](https://consumer.huawei.com/en/opensource/) | ❌ | • 官方已关闭解锁渠道，部分早期机型可利用第三方服务解锁<br/>• 个别机型未开源 |
 | HTC | [✅](https://www.htcdev.com/bootloader/) | 3~15<br/>（秒解） | [✅](https://www.htcdev.com/devcenter/downloads) | ✅ | • 解锁需注册 HTCdev 账户<br/>• 提交后会在几分钟内（通常不超过 24 小时）将解锁文件发至邮箱 |
-| 联想 (Lenovo) | [✅](https://www.zui.com/iunlock) | 3~1440<br/>（秒解） | ✅ | ❌ | • 提交后会在几分钟内（通常不超过 24 小时）将解锁文件发至邮箱<br/>• 解锁后若重新回锁，则不影响保修 |
+| 联想 (Lenovo) | [✅](https://www.zui.com/iunlock) | 3~1440<br/>（秒解） | ✅ | ❌ | • 部分设备无需解锁码<br/>• 提交后会在几分钟内（通常不超过 24 小时）将解锁文件发至邮箱<br/>• 解锁后若重新回锁，则不影响保修；部分设备不允许回锁 |
 | 乐视 (Letv) | ✅ | -- | ❌ | -- | -- |
 | LG | [❌](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev) | -- | [✅](https://opensource.lge.com/index) | -- | • 官方解锁渠道已随手机业务同步下线 |
 | 魅族 (MEIZU) | [❌](https://mroot.flyme.cn/) | ❌ | [⏹](https://github.com/meizuosc) | ❌ | • 官方仅支持 root，root 后 OTA 功能失效<br/>• 部分机型可利用第三方服务解锁<br/>• 仅少部分早期机型内核开源 |
@@ -28,5 +29,5 @@
 | 索尼 (SONY) | [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) | 0<br/>（秒解） | [✅](https://github.com/sonyxperiadev/kernel) | ❌ | • 需申请解锁码 |
 | 坚果 (Smartisan) | ✅ | -- | [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) | -- | • 缺少部分机型内核源码 |
 | vivo | ⏹ | -- | [⏹](https://opensource.vivo.com/Project) | ❌ | • 官方未提供解锁，可利用第三方服务解锁<br/>• 缺少部分机型内核源码 |
-| 小米 (Xiaomi) | [⏹](https://www.miui.com/unlock/index.html) | 4320<br/>（3 天） | [⏹](https://github.com/MiCode) | ⏹ | • 仅小米与红米设备支持解锁，黑鲨官方不支持解锁<br/>• Xiaomi HyperOS（小米澎湃 OS）的解锁权限需在小米社区申请，解锁权限有效期截至当年（自然年）12 月 31 日 24:00<br/>• 解锁需手机插入 SIM 卡并绑定小米账号，等待时长从小米账号绑定之时起开始计算，若绑定设备时设备系统为小米澎湃 OS，绑定成功后解锁等待期为 72 小时<br/>• 每账号每年最多允许解锁 3 台设备<br/>• 已解锁设备若处于 MIUI，将不会收到小米澎湃 OS 的 OTA 推送<br/>• 部分机型未开源，部分机型开源不完整或无提交历史记录（例如早期 MTK 机型），开源后内核源码不随系统更新 |
+| 小米 (Xiaomi) | [⏹](https://www.miui.com/unlock/index.html) | 4320<br/>（3 天） | [⏹](https://github.com/MiCode) | ⏹ | • Xiaomi HyperOS（小米澎湃 OS）的解锁权限需在小米社区申请，解锁权限有效期截至当年（自然年）12 月 31 日 24:00<br/>• 解锁需手机插入 SIM 卡并绑定小米账号，等待时长从小米账号绑定之时起开始计算，若绑定设备时设备系统为小米澎湃 OS，绑定成功后解锁等待期为 72 小时<br/>• 每账号每年最多允许解锁 3 台设备<br/>• 已解锁设备若处于 MIUI，将不会收到小米澎湃 OS 的 OTA 推送<br/>• 部分机型未开源，部分机型开源不完整（“假开源”）或无提交历史记录（例如早期 MTK 机型），开源后内核源码不随系统更新<br/>• 解锁后主板等部分部件失去保内免费维修资格，刷机等操作易触发永久性熔断机制（据官方解锁工具） |
 | 中兴 (ZTE) | ✅ | -- | [✅](https://opensource.ztedevices.com/) | -- | -- |
