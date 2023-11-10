@@ -3725,7 +3725,7 @@ L32M5-AL,tv,mitv,Xiaomi,,,Mi TV 4A,#LED Smart TV 4A Pro 32
 L43M5-AN,tv,mitv,Xiaomi,,,Mi TV 4A,#LED Smart TV 4A Pro 43
 L49M5-AN,tv,mitv,Xiaomi,,,Mi TV 4A,#LED Smart TV 4A Pro 49
 L32M6-EI,tv,mitv,Xiaomi,,,Mi TV 4A,#32 Horizon
-L50M8-5X,tv,mitv,Xiaomi,,,Mi TV 4A,#40 Horizon
+L40M6-EI,tv,mitv,Xiaomi,,,Mi TV 4A,#40 Horizon
 L43M6-EI,tv,mitv,Xiaomi,,,Mi TV 4A,#43 Horizon
 L55M5-AI,tv,mitv,Xiaomi,,,Mi TV 4,#LED Smart TV 4 55
 L55M5-AN,tv,mitv,Xiaomi,,,Mi TV 4,#LED Smart TV 4 Pro 55
@@ -3826,12 +3826,21 @@ L55M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#55
 L86M7-ESRU,tv,mitv,Xiaomi,,,Xiaomi TV Max (Russia),#86
 L86M7-ESME,tv,mitv,Xiaomi,,,Xiaomi TV Max (Middle East),#86
 L86M7-ESTWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 Max (Taiwan),#86 型
+L32M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#32
+L43M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#FHD 43
+L50M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#50
+L55M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#55
 L32M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#32
 L43M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#FHD 43
 L55M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#55
 L32M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#32
 L43M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#FHD 43
 L55M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#55
+L32M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#32
+L43M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#43
+L50M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#50
+L55M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#55
+L65M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#65
 L43M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),#43
 L55M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),#55
 L65M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),#65

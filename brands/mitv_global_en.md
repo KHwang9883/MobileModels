@@ -21,7 +21,7 @@
 
 `L32M6-EI`: Mi TV 4A 32 Horizon
 
-`L50M8-5X`: Mi TV 4A 40 Horizon
+`L40M6-EI`: Mi TV 4A 40 Horizon
 
 `L43M6-EI`: Mi TV 4A 43 Horizon
 
@@ -293,6 +293,16 @@
 
 `L86M7-ESTWN`: Xiaomi 智慧顯示器 Max 86 型
 
+**Xiaomi TV A (EEA):**
+
+`L32M8-P2EU`: Xiaomi TV A 32
+
+`L43M8-P2EU`: Xiaomi TV A FHD 43
+
+`L50M8-P2EU`: Xiaomi TV A 50
+
+`L55M8-P2EU`: Xiaomi TV A 55
+
 **Xiaomi TV A (Southeast Asia):**
 
 `L32M8-P2SEA`: Xiaomi TV A 32
@@ -308,6 +318,18 @@
 `L43M8-P2ID`: Xiaomi TV A FHD 43
 
 `L55M8-P2ID`: Xiaomi TV A 55
+
+**Xiaomi TV A Pro (EEA):**
+
+`L32M8-A2EU`: Xiaomi TV A Pro 32
+
+`L43M8-A2EU`: Xiaomi TV A Pro 43
+
+`L50M8-A2EU`: Xiaomi TV A Pro 50
+
+`L55M8-A2EU`: Xiaomi TV A Pro 55
+
+`L65M8-A2EU`: Xiaomi TV A Pro 65
 
 **Xiaomi TV A Pro (Southeast Asia):**
 
