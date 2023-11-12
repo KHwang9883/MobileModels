@@ -3,7 +3,7 @@
 - Range: Google Pixel phones, tablets & watch
 - Codename: ✅
 
-## Googel Pixel
+## Google Pixel
 
 **Pixel (`sailfish`):**
 
