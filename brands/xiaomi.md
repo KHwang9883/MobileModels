@@ -1040,6 +1040,16 @@
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
 
+**Redmi 13C (`gale`):**
+
+`23106RN0DA`: Redmi 13C 国际版
+
+`23100RN82L`: Redmi 13C 拉美版
+
+**Redmi 13C (`gust`):**
+
+`23108RN04Y`: Redmi 13C 国际版 (NFC)
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
@@ -1889,6 +1899,10 @@
 `22127PC95G`: POCO C55 国际版
 
 `22127PC95H` `22127PC95I`: POCO C55 印度版
+
+**POCO C65 (`gust`):**
+
+`2310FPCA4G`: POCO C65 国际版
 
 ## 其他系列
 
