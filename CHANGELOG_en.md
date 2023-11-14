@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-11-14
+- `xiaomi_en` Add Redmi 13C, POCO C65.
 ## 2023-11-08
 - `mitv_global_en` Add several new models.
 ## 2023-11-05

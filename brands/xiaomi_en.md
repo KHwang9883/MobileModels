@@ -959,6 +959,16 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
+**Redmi 13C (`gale`):**
+
+`23106RN0DA`: Redmi 13C Global
+
+`23100RN82L`: Redmi 13C Latin America
+
+**Redmi 13C (`gust`):**
+
+`23108RN04Y`: Redmi 13C Global (NFC)
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -1778,6 +1788,10 @@
 `22127PC95G`: POCO C55 Global
 
 `22127PC95H` `22127PC95I`: POCO C55 India
+
+**POCO C65 (`gust`):**
+
+`2310FPCA4G`: POCO C65 Global
 
 ## Tablets
 
