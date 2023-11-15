@@ -462,7 +462,7 @@
 
 `PJS110`: OPPO A2x
 
-**OPPO A2 Pro(`givenchy`):**
+**OPPO A2 Pro (`givenchy`):**
 
 `PJG110`: OPPO A2 Pro
 
@@ -542,9 +542,9 @@
 
 `OPD2201`: OPPO Pad 2
 
-**OPPO Pad 2 Air:**
+**OPPO Pad Air2:**
 
-`OPD2301`: OPPO Pad 2 Air
+`OPD2301`: OPPO Pad Air2
 
 ## Watch 系列
 
