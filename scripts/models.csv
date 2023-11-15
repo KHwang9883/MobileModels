@@ -5363,6 +5363,9 @@ V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,#5G
 V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,1#5G
 V2279A,mob,vivo,vivo,,PD2279,Y35+|Y35m+,#5G
 V2279A,mob,vivo,vivo,,PD2279,Y35+|Y35m+,1#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i,#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i,1#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i,2#5G
 V1965A,mob,vivo,vivo,,PD1965,Y50,#
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,#
 V2002A,mob,vivo,vivo,,PD2019,Y51s,#5G
