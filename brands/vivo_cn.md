@@ -602,6 +602,10 @@
 
 `V2313A`: vivo Y100 5G
 
+**vivo Y100i (`PD2279`):**
+
+`V2279A`: vivo Y100i 5G
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
