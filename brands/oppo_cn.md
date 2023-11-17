@@ -226,6 +226,10 @@
 
 `PHU110`: OPPO Reno10 Pro+
 
+**OPPO Reno11:**
+
+`PJH110`: OPPO Reno11
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
