@@ -233,6 +233,10 @@
 
 `M392Q`: MEIZU 20 INFINITY
 
+**MEIZU 21 (`m2461`):**
+
+`M461Q`: MEIZU 21
+
 **MEIZU m1 note (`m71`):**
 
 `M463H`: MEIZU m1 note Global
