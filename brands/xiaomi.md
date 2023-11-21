@@ -1514,6 +1514,10 @@
 
 `23090RA98I`: Redmi Note 13 Pro+ 5G 印度版
 
+**[`N17`] Redmi Note 13R Pro (`gold`):**
+
+`2311FRAFDC`: Redmi Note 13R Pro 全网通版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
@@ -1637,6 +1641,18 @@
 **[`M12`] Redmi K60 至尊版 (`corot`):**
 
 `23078RKD5C`: Redmi K60 至尊版 全网通版
+
+**[`N11`] Redmi K70 (`vermeer`):**
+
+`23113RKC6C`: Redmi K70 全网通版
+
+**[`N11R`] Redmi K70 Pro (`manet`):**
+
+`23117RK66C`: Redmi K70 Pro 全网通版
+
+**[`N11A`] Redmi K70E (`duchamp`):**
+
+`2311DRK48C`: Redmi K70E 全网通版
 
 ## 其他红米 Redmi 手机
 
@@ -1805,6 +1821,16 @@
 `22101320G`: POCO X5 Pro 5G 国际版
 
 `22101320I`: POCO X5 Pro 5G 印度版
+
+**[`N16P`] POCO X6 5G (`garnet`):**
+
+`23122PCD1G`: POCO X6 5G 国际版
+
+`23122PCD1I`: POCO X6 5G 印度版
+
+**[`N17`] POCO X6 Neo (`gold`):**
+
+`2312FRAFDI`: POCO X6 Neo 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
 

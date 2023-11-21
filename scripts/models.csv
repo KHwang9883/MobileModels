@@ -4339,7 +4339,7 @@ PHW110,mob,oppo,OPPO,,taylor,OPPO Reno10,#
 PHV110,mob,oppo,OPPO,,viven,OPPO Reno10 Pro,#
 PHU110,mob,oppo,OPPO,,monroe,OPPO Reno10 Pro+,#
 PJH110,mob,oppo,OPPO,,,OPPO Reno11,#
-PJJ110,mob,oppo,OPPO,,,OPPO Reno11 Pro,#
+PJJ110,mob,oppo,OPPO,,daoxiang,OPPO Reno11 Pro,#
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,#
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,#
 PACM00,mob,oppo,OPPO,,,OPPO R15,#全网通版
@@ -6240,6 +6240,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 23090RA98C,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#全网通版
 23090RA98G,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 国际版
 23090RA98I,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 印度版
+2311FRAFDC,mob,xiaomi,小米,N17,gold,Redmi Note 13R Pro,#全网通版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#全网通版
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#全网通版
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,#全网通版
@@ -6275,6 +6276,9 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,#全网通版
 22127RK46C,mob,xiaomi,小米,M11,socrates,Redmi K60 Pro,#全网通版
 22122RK93C,mob,xiaomi,小米,M11R,rembrandt,Redmi K60E,#全网通版
 23078RKD5C,mob,xiaomi,小米,M12,corot,Redmi K60 至尊版,#全网通版
+23113RKC6C,mob,xiaomi,小米,N11,vermeer,Redmi K70,#全网通版
+23117RK66C,mob,xiaomi,小米,N11R,manet,Redmi K70 Pro,#全网通版
+2311DRK48C,mob,xiaomi,小米,N11A,duchamp,Redmi K70E,#全网通版
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,#标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,#高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2|红米 Y2,#全网通版
@@ -6333,6 +6337,9 @@ M2102J20SI,mob,xiaomi,小米,J20S,bhima,POCO X3 Pro,#印度版
 22111317PI,mob,xiaomi,小米,M17P,moonstone,POCO X5 5G,#印度版
 22101320G,mob,xiaomi,小米,M20,redwood,POCO X5 Pro 5G,#国际版
 22101320I,mob,xiaomi,小米,M20,redwood,POCO X5 Pro 5G,#印度版
+23122PCD1G,mob,xiaomi,小米,N16P,garnet,POCO X6 5G,#国际版
+23122PCD1I,mob,xiaomi,小米,N16P,garnet,POCO X6 5G,#印度版
+2312FRAFDI,mob,xiaomi,小米,N17,gold,POCO X6 Neo,#印度版
 M2004J19PI,mob,xiaomi,小米,J19P,shiva,POCO M2,#印度版
 M2003J6CI,mob,xiaomi,小米,J6C,gram,POCO M2 Pro,#印度版
 M2010J19CG,mob,xiaomi,小米,J19C,citrus,POCO M3,#国际版
@@ -6878,6 +6885,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 23090RA98G,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Global
 23090RA98I,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#India
 23090RA98C,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#China
+2311FRAFDC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13R Pro,#China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
@@ -6913,6 +6921,9 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,#China
 22127RK46C,mob,xiaomi,Xiaomi,M11,socrates,Redmi K60 Pro,#China
 22122RK93C,mob,xiaomi,Xiaomi,M11R,rembrandt,Redmi K60E,#China
 23078RKD5C,mob,xiaomi,Xiaomi,M12,corot,Redmi K60 Ultra,#China
+23113RKC6C,mob,xiaomi,Xiaomi,N11,vermeer,Redmi K70,#China
+23117RK66C,mob,xiaomi,Xiaomi,N11R,manet,Redmi K70 Pro,#China
+2311DRK48C,mob,xiaomi,Xiaomi,N11A,duchamp,Redmi K70E,#China
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,#32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,#64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2|Redmi Y2,#Global
@@ -6966,6 +6977,9 @@ M2102J20SI,mob,xiaomi,Xiaomi,J20S,bhima,POCO X3 Pro,#India
 22111317PI,mob,xiaomi,Xiaomi,M17P,moonstone,POCO X5 5G,#India
 22101320G,mob,xiaomi,Xiaomi,M20,redwood,POCO X5 Pro 5G,#Global
 22101320I,mob,xiaomi,Xiaomi,M20,redwood,POCO X5 Pro 5G,#India
+23122PCD1G,mob,xiaomi,Xiaomi,N16P,garnet,POCO X6 5G,#Global
+23122PCD1I,mob,xiaomi,Xiaomi,N16P,garnet,POCO X6 5G,#India
+2312FRAFDI,mob,xiaomi,Xiaomi,N17,gold,POCO X6 Neo,#India
 M2004J19PI,mob,xiaomi,Xiaomi,J19P,shiva,POCO M2,#India
 M2003J6CI,mob,xiaomi,Xiaomi,J6C,gram,POCO M2 Pro,#India
 M2010J19CG,mob,xiaomi,Xiaomi,J19C,citrus,POCO M3,#Global

@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-11-21
+- `xiaomi` 新增 Redmi K70 系列, Note 13R Pro, POCO X6 系列。
 ## 2023-11-20
 - `meizu` 新增 魅族 21。
 - `nubia` 新增 红魔 9 Pro。
