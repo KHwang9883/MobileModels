@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-11-21
+- `realme_cn` 新增 真我 V50 系列。
 - `xiaomi` 新增 Redmi K70 系列, Note 13R Pro, POCO X6 系列。
 ## 2023-11-20
 - `meizu` 新增 魅族 21。
