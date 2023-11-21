@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-11-21
+- `xiaomi_en` Add Redmi K70, POCO X6, Note 13R Pro.
 ## 2023-11-20
 - `meizu_en` Add MEIZU 21.
 ## 2023-11-14

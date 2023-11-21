@@ -1425,6 +1425,10 @@
 
 `23090RA98C`: Redmi Note 13 Pro+ 5G China
 
+**[`N17`] Redmi Note 13R Pro (`gold`):**
+
+`2311FRAFDC`: Redmi Note 13R Pro China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -1544,6 +1548,18 @@
 **[`M12`] Redmi K60 Ultra (`corot`):**
 
 `23078RKD5C`: Redmi K60 Ultra China
+
+**[`N11`] Redmi K70 (`vermeer`):**
+
+`23113RKC6C`: Redmi K70 China
+
+**[`N11R`] Redmi K70 Pro (`manet`):**
+
+`23117RK66C`: Redmi K70 Pro China
+
+**[`N11A`] Redmi K70E (`duchamp`):**
+
+`2311DRK48C`: Redmi K70E China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -1694,6 +1710,16 @@
 `22101320G`: POCO X5 Pro 5G Global
 
 `22101320I`: POCO X5 Pro 5G India
+
+**[`N16P`] POCO X6 5G (`garnet`):**
+
+`23122PCD1G`: POCO X6 5G Global
+
+`23122PCD1I`: POCO X6 5G India
+
+**[`N17`] POCO X6 Neo (`gold`):**
+
+`2312FRAFDI`: POCO X6 Neo India
 
 **[`J19P`] POCO M2 (`shiva`):**
 
