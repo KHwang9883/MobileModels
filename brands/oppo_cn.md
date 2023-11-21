@@ -230,7 +230,7 @@
 
 `PJH110`: OPPO Reno11
 
-**OPPO Reno11 Pro:**
+**OPPO Reno11 Pro (`daoxiang`):**
 
 `PJJ110`: OPPO Reno11 Pro
 
