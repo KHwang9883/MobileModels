@@ -352,6 +352,10 @@
 
 `V2236A`: vivo Y11
 
+**vivo Y12 (`PD2317`):**
+
+`V2317A`: vivo Y12
+
 **vivo Y30 (`PD2034`):**
 
 `V2034A`: vivo Y30
