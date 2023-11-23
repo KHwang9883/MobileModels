@@ -26,31 +26,35 @@
 
 `PDEM30`: OPPO Find X2 Pro
 
-**OPPO Find X3:**
+**OPPO Find X3 (`horee`):**
 
 `PEDM00`: OPPO Find X3
 
-**OPPO Find X3 Pro:**
+**OPPO Find X3 Pro (`fussi`):**
 
 `PEEM00`: OPPO Find X3 Pro
 
-**OPPO Find X5:**
+**OPPO Find X3 Pro 摄影师版 (`fluorite`):**
+
+`PEEM00`: OPPO Find X3 Pro 摄影师版
+
+**OPPO Find X5 (`luwu`):**
 
 `PFFM10`: OPPO Find X5
 
-**OPPO Find X5 Pro:**
+**OPPO Find X5 Pro (`baize`):**
 
 `PFEM10`: OPPO Find X5 Pro
 
-**OPPO Find X5 Pro 天玑版:**
+**OPPO Find X5 Pro 天玑版 (`diting`):**
 
 `PFFM20`: OPPO Find X5 Pro 天玑版
 
-**OPPO Find X6:**
+**OPPO Find X6 (`luna`):**
 
 `PGFM10`: OPPO Find X6
 
-**OPPO Find X6 Pro:**
+**OPPO Find X6 Pro (`wukong`):**
 
 `PGEM10`: OPPO Find X6 Pro
 
@@ -144,25 +148,25 @@
 
 `PEAT00`: OPPO Reno4 SE 移动版
 
-**OPPO Reno5:**
+**OPPO Reno5 (`kunlun`):**
 
 `PEGM00`: OPPO Reno5 全网通版
 
 `PEGT00`: OPPO Reno5 移动版
 
-**OPPO Reno5 K:**
+**OPPO Reno5 K (`wudang`):**
 
 `PEGM10`: OPPO Reno5 K 全网通版
 
 `PEGT10`: OPPO Reno5 K 移动版
 
-**OPPO Reno5 Pro:**
+**OPPO Reno5 Pro (`chaka`):**
 
 `PDSM00`: OPPO Reno5 Pro 全网通版
 
 `PDST00`: OPPO Reno5 Pro 移动版
 
-**OPPO Reno5 Pro+:**
+**OPPO Reno5 Pro+ (`hima`):**
 
 `PDRM00`: OPPO Reno5 Pro+
 
