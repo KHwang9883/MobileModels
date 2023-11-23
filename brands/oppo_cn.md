@@ -30,9 +30,13 @@
 
 `PEDM00`: OPPO Find X3
 
-**OPPO Find X3 Pro (`fussi`, 摄影师版：`fluorite`):**
+**OPPO Find X3 Pro (`fussi`):**
 
 `PEEM00`: OPPO Find X3 Pro
+
+**OPPO Find X3 Pro 摄影师版 (`fluorite`):**
+
+`PEEM00`: OPPO Find X3 Pro 摄影师版
 
 **OPPO Find X5 (`luwu`):**
 
