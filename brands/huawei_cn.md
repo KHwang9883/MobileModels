@@ -1587,9 +1587,13 @@
 
 `RLEG-16`: HUAWEI MateBook D 16 2023
 
+**HUAWEI MateBook D 16 SE (`MitchellF`):**
+
+`MCLF-16`: HUAWEI MateBook D 16 SE 2024 12 代酷睿版
+
 **HUAWEI MateBook D 16 (`MitchellG`):**
 
-`MCLG-16`: HUAWEI MateBook D 16 2024 / HUAWEI MateBook D 16 SE 2024
+`MCLG-16`: HUAWEI MateBook D 16 2024 / HUAWEI MateBook D 16 SE 2024 13 代酷睿版 / HUAWEI MateBook D 16 高能版 2024
 
 **HUAWEI MateBook E:**
 
