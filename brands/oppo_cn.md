@@ -230,7 +230,7 @@
 
 `PHU110`: OPPO Reno10 Pro+
 
-**OPPO Reno11:**
+**OPPO Reno11 (`huahai`):**
 
 `PJH110`: OPPO Reno11
 
@@ -554,7 +554,7 @@
 
 `OPD2201`: OPPO Pad 2
 
-**OPPO Pad Air2:**
+**OPPO Pad Air2 (`bluey`):**
 
 `OPD2301`: OPPO Pad Air2
 
