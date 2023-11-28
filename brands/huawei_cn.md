@@ -573,7 +573,7 @@
 
 `NAM-AL00`: HUAWEI nova 9
 
-**HUAWEI nova 9 Pro:**
+**HUAWEI nova 9 Pro (`Rena`):**
 
 `RTE-AL00`: HUAWEI nova 9 Pro
 
@@ -605,11 +605,11 @@
 
 `FOA-AL00`: HUAWEI nova 11
 
-**HUAWEI nova 11 Pro (`Giona`):**
+**HUAWEI nova 11 Pro (`Gloria`):**
 
 `GOA-AL80`: HUAWEI nova 11 Pro
 
-**HUAWEI nova 11 Ultra (`Giona`):**
+**HUAWEI nova 11 Ultra (`Gloria`):**
 
 `GOA-AL80U`: HUAWEI nova 11 Ultra
 
@@ -897,13 +897,21 @@
 
 `MGA-AL40`: 华为畅享 60
 
-**华为畅享 60X:**
+**华为畅享 60X (`Santiago`):**
 
 `STG-AL00`: 华为畅享 60X
 
-**华为畅享 60 Pro:**
+**华为畅享 60 Pro (`Mario`):**
 
 `MAO-AL00`: 华为畅享 60 Pro
+
+**华为畅享 70:**
+
+`FGD-AL00`: 华为畅享 70
+
+**华为畅享 70 Pro (`Cartier`):**
+
+`CTR-AL20`: 华为畅享 70 Pro
 
 ## 华为平板 M 系列
 
@@ -1026,6 +1034,10 @@
 `GOT-AL09`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版
 
 `GOT-AL19`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
+
+**HUAWEI MatePad Pro 11:**
+
+`XYAO-W00`: HUAWEI MatePad Pro 11 英寸 2024 Wi-Fi 版
 
 **HUAWEI MatePad Pro 12.6 (`Wagner`):**
 
@@ -1574,6 +1586,10 @@
 **HUAWEI MateBook D 16 (`RolleG`):**
 
 `RLEG-16`: HUAWEI MateBook D 16 2023
+
+**HUAWEI MateBook D 16 (`MitchellG`):**
+
+`MCLG-16`: HUAWEI MateBook D 16 2024 / HUAWEI MateBook D 16 SE 2024
 
 **HUAWEI MateBook E:**
 

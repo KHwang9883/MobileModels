@@ -2049,7 +2049,7 @@ JSC-TN00,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#5G 移动版
 JSC-AL50,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#4G 全网通版
 CHL-AL60,mob,huawei,华为,,Chanel,HUAWEI nova 8 SE 活力版,#
 NAM-AL00,mob,huawei,华为,,NottinghamN,HUAWEI nova 9,#
-RTE-AL00,mob,huawei,华为,,,HUAWEI nova 9 Pro,#
+RTE-AL00,mob,huawei,华为,,Rena,HUAWEI nova 9 Pro,#
 JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 9 SE,#
 NCO-AL00,mob,huawei,华为,,Nicole,HUAWEI nova 10,#
 GLA-AL00,mob,huawei,华为,,Gloria,HUAWEI nova 10 Pro,#
@@ -2057,8 +2057,8 @@ CHA-AL80,mob,huawei,华为,,Chanel,HUAWEI nova 10z,#
 BNE-AL00,mob,huawei,华为,,Bonnie,HUAWEI nova 10 SE,#
 JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 10 青春版,#
 FOA-AL00,mob,huawei,华为,,Fiona,HUAWEI nova 11,#
-GOA-AL80,mob,huawei,华为,,Giona,HUAWEI nova 11 Pro,#
-GOA-AL80U,mob,huawei,华为,,Giona,HUAWEI nova 11 Ultra,#
+GOA-AL80,mob,huawei,华为,,Gloria,HUAWEI nova 11 Pro,#
+GOA-AL80U,mob,huawei,华为,,Gloria,HUAWEI nova 11 Ultra,#
 BON-AL00,mob,huawei,华为,,,HUAWEI nova 11 SE,#
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
@@ -2164,8 +2164,10 @@ MGA-AL00,mob,huawei,华为,,Mega,华为畅享 50,#
 CTR-AL00,mob,huawei,华为,,Cartier,华为畅享 50 Pro,#
 EVE-AL00,mob,huawei,华为,,Eevee,华为畅享 50z,#
 MGA-AL40,mob,huawei,华为,,Mega,华为畅享 60,#
-STG-AL00,mob,huawei,华为,,,华为畅享 60X,#
-MAO-AL00,mob,huawei,华为,,,华为畅享 60 Pro,#
+STG-AL00,mob,huawei,华为,,Santiago,华为畅享 60X,#
+MAO-AL00,mob,huawei,华为,,Mario,华为畅享 60 Pro,#
+FGD-AL00,mob,huawei,华为,,,华为畅享 70,#
+CTR-AL20,mob,huawei,华为,,Cartier,华为畅享 70 Pro,#
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版
@@ -2213,6 +2215,7 @@ GOT-W29,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 Wi-Fi 版
 GOT-W09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 Wi-Fi 版
 GOT-AL09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 全网通版
 GOT-AL19,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 全网通版 (12GB+512GB)
+XYAO-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 11,#英寸 2024 Wi-Fi 版
 WGR-W09,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
 WGR-W19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
 WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 5G 全网通版
@@ -2421,6 +2424,8 @@ BoF-16,computer,huawei,华为,,BohrF,HUAWEI MateBook D 15 12 代酷睿版,#2022 
 RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#2022
 RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#SE
 RLEG-16,computer,huawei,华为,,RolleG,HUAWEI MateBook D 16,#2023
+MCLG-16,computer,huawei,华为,,MitchellG,HUAWEI MateBook D 16,#2024
+MCLG-16,computer,huawei,华为,,MitchellG,HUAWEI MateBook D 16,#SE 2024
 BL-W09,computer,huawei,华为,,,HUAWEI MateBook E,#i3
 BL-W19,computer,huawei,华为,,,HUAWEI MateBook E,#i5
 PAK-AL09,computer,huawei,华为,,Planck,HUAWEI MateBook E 2019,#
@@ -4339,7 +4344,7 @@ PGW110,mob,oppo,OPPO,,lvzhou,OPPO Reno9 Pro+,#
 PHW110,mob,oppo,OPPO,,taylor,OPPO Reno10,#
 PHV110,mob,oppo,OPPO,,viven,OPPO Reno10 Pro,#
 PHU110,mob,oppo,OPPO,,monroe,OPPO Reno10 Pro+,#
-PJH110,mob,oppo,OPPO,,,OPPO Reno11,#
+PJH110,mob,oppo,OPPO,,huahai,OPPO Reno11,#
 PJJ110,mob,oppo,OPPO,,daoxiang,OPPO Reno11 Pro,#
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,#
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,#
@@ -4438,7 +4443,7 @@ PHF110,mob,oppo,OPPO,,larry,OPPO K11x,#
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,#
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2201,pad,oppo,OPPO,,,OPPO Pad 2,#
-OPD2301,pad,oppo,OPPO,,,OPPO Pad Air2,#
+OPD2301,pad,oppo,OPPO,,bluey,OPPO Pad Air2,#
 OW19W1,watch,oppo,OPPO,,,OPPO Watch,#46mm
 OW19W2,watch,oppo,OPPO,,,OPPO Watch,#41mm
 OW19W3,watch,oppo,OPPO,,,OPPO Watch,#ECG/精钢版
