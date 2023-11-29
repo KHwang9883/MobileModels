@@ -1040,15 +1040,25 @@
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
 
-**Redmi 13C (`gale`):**
+**[`C3U`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C 国际版
 
+`2311DRN14I`: Redmi 13C 印度版
+
 `23100RN82L`: Redmi 13C 拉美版
 
-**Redmi 13C (`gust`):**
+**[`C3UN`] Redmi 13C (`gust`):**
 
 `23108RN04Y`: Redmi 13C 国际版 (NFC)
+
+**[`C3V`] Redmi 13C 5G (`air`):**
+
+`23124RN87C`: Redmi 13C 5G 全网通版
+
+`23124RN87G`: Redmi 13C 5G 国际版
+
+`23124RN87I`: Redmi 13C 5G 印度版
 
 ## 红米 / Redmi Note 系列
 
@@ -1828,6 +1838,12 @@
 
 `23122PCD1I`: POCO X6 5G 印度版
 
+**[`N11A`] POCO X6 Pro 5G (`duchamp`):**
+
+`2311DRK48G`: POCO X6 Pro 5G 国际版
+
+`2311DRK48I`: POCO X6 Pro 5G 印度版
+
 **[`N17`] POCO X6 Neo (`gold`):**
 
 `2312FRAFDI`: POCO X6 Neo 印度版
@@ -1926,7 +1942,7 @@
 
 `22127PC95H` `22127PC95I`: POCO C55 印度版
 
-**POCO C65 (`gust`):**
+**[`C3UP`] POCO C65 (`gust`):**
 
 `2310FPCA4G`: POCO C65 国际版
 
