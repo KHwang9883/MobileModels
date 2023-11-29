@@ -959,15 +959,25 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**Redmi 13C (`gale`):**
+**[`C3U`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C Global
 
+`2311DRN14I`: Redmi 13C India
+
 `23100RN82L`: Redmi 13C Latin America
 
-**Redmi 13C (`gust`):**
+**[`C3UN`] Redmi 13C (`gust`):**
 
 `23108RN04Y`: Redmi 13C Global (NFC)
+
+**[`C3V`] Redmi 13C 5G (`air`):**
+
+`23124RN87G`: Redmi 13C 5G Global
+
+`23124RN87C`: Redmi 13C 5G China
+
+`23124RN87I`: Redmi 13C 5G India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1717,6 +1727,12 @@
 
 `23122PCD1I`: POCO X6 5G India
 
+**[`N11A`] POCO X6 Pro 5G (`duchamp`):**
+
+`2311DRK48G`: POCO X6 Pro 5G Global
+
+`2311DRK48I`: POCO X6 Pro 5G India
+
 **[`N17`] POCO X6 Neo (`gold`):**
 
 `2312FRAFDI`: POCO X6 Neo India
@@ -1815,7 +1831,7 @@
 
 `22127PC95H` `22127PC95I`: POCO C55 India
 
-**POCO C65 (`gust`):**
+**[`C3UP`] POCO C65 (`gust`):**
 
 `2310FPCA4G`: POCO C65 Global
 
