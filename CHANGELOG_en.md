@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-11-29
+- `mitv_global_en` Add several Indian models.
 ## 2023-11-21
 - `xiaomi_en` Add Redmi K70, POCO X6, Note 13R Pro.
 ## 2023-11-20

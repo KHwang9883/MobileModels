@@ -111,9 +111,9 @@
 
 **Redmi Smart TV:**
 
-`L32M6-RA`: Redmi Smart TV 32
+`L32M6-RA` `L32M7-RA`: Redmi Smart TV 32
 
-`L43M6-RA`: Redmi Smart TV 43
+`L43M6-RA` `L43M7-RA`: Redmi Smart TV 43
 
 `L43R7-7AIN`: Redmi Smart TV X43
 
@@ -126,6 +126,8 @@
 **Redmi Smart Fire TV:**
 
 `L32R8-FVIN`: Redmi Smart Fire TV 32
+
+`L43R8-FVIN`: Redmi Smart Fire TV 43
 
 **Mi Box:**
 
