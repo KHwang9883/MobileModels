@@ -971,13 +971,13 @@
 
 `23108RN04Y`: Redmi 13C Global (NFC)
 
-**[`C3V`] Redmi 13C 5G (`air`):**
+**[`C3V`] Redmi 13C 5G / Redmi 13R 5G (`air`):**
 
 `23124RN87G`: Redmi 13C 5G Global
 
-`23124RN87C`: Redmi 13C 5G China
-
 `23124RN87I`: Redmi 13C 5G India
+
+`23124RN87C`: Redmi 13R 5G China
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
