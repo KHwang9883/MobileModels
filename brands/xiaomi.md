@@ -1052,9 +1052,9 @@
 
 `23108RN04Y`: Redmi 13C 国际版 (NFC)
 
-**[`C3V`] Redmi 13C 5G (`air`):**
+**[`C3V`] Redmi 13R 5G / Redmi 13C 5G (`air`):**
 
-`23124RN87C`: Redmi 13C 5G 全网通版
+`23124RN87C`: Redmi 13R 5G 全网通版
 
 `23124RN87G`: Redmi 13C 5G 国际版
 
