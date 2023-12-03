@@ -1525,9 +1525,11 @@
 
 `NbF-16`: HUAWEI MateBook D 14 SE 12 代酷睿版 (16GB 内存)
 
-**HUAWEI MateBook D 14:**
+**HUAWEI MateBook D 14 (`MendelF`):**
 
 `MDF-16`: HUAWEI MateBook D 14 2023 12 代酷睿版 / HUAWEI MateBook D 14 SE 2023
+
+**HUAWEI MateBook D 14 (`MendelG`):**
 
 `MDG-16`: HUAWEI MateBook D 14 2023 13 代酷睿版 / HUAWEI MateBook D 14 SE 13 代酷睿版
 
