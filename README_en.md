@@ -17,11 +17,12 @@ Unlisted brands usually not include international models.
 | :-: | :-: | :-: |
 | [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
-| [google_en](brands/google_en.md) | Google | Google Pixel phones, tablets & watch |
+| [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
 | [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, P, nova & Y series, MediaPad & MatePad series |
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international/Indian Xiaomi & Redmi TV models (excluding Chinese models) |
+| [nothing](brands/nothing.md) | Nothing | All models |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | All International models |
