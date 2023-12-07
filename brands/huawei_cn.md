@@ -1035,7 +1035,7 @@
 
 `GOT-AL19`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
 
-**HUAWEI MatePad Pro 11:**
+**HUAWEI MatePad Pro 11 (`Xiaoyao`):**
 
 `XYAO-W00`: HUAWEI MatePad Pro 11 英寸 2024 Wi-Fi 版
 
