@@ -6,21 +6,21 @@
 
 ## X 系列
 
-**realme X:**
+**真我 X:**
 
-`RMX1901`: realme X
+`RMX1901`: 真我 X
 
-**realme X 青春版:**
+**真我 X 青春版:**
 
-`RMX1851`: realme X 青春版
+`RMX1851`: 真我 X 青春版
 
-**realme X2:**
+**真我 X2:**
 
-`RMX1991`: realme X2
+`RMX1991`: 真我 X2
 
-**realme X2 Pro:**
+**真我 X2 Pro:**
 
-`RMX1931`: realme X2 Pro
+`RMX1931`: 真我 X2 Pro
 
 **真我 X50:**
 
@@ -132,9 +132,9 @@
 
 ## Q 系列
 
-**realme Q:**
+**真我 Q:**
 
-`RMX1971`: realme Q
+`RMX1971`: 真我 Q
 
 **真我 Q2:**
 
