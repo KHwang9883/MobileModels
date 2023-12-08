@@ -200,75 +200,75 @@
 
 `LE2127`: OnePlus 9 Pro T-Mobile 版
 
-**一加 9RT (`martini`):**
+**OnePlus 9RT (`martini`):**
 
-`MT2110`: 一加 9RT 全网通版
+`MT2110`: OnePlus 9RT 全网通版
 
-`MT2111`: 一加 9RT 印度版
+`MT2111`: OnePlus 9RT 印度版
 
-**一加 10 Pro (`negroni`):**
+**OnePlus 10 Pro (`negroni`):**
 
-`NE2210`: 一加 10 Pro 全网通版
+`NE2210`: OnePlus 10 Pro 全网通版
 
-`NE2211`: 一加 10 Pro 印度版
+`NE2211`: OnePlus 10 Pro 印度版
 
-`NE2213`: 一加 10 Pro 欧洲版/国际版
+`NE2213`: OnePlus 10 Pro 欧洲版/国际版
 
-`NE2215`: 一加 10 Pro 北美版
+`NE2215`: OnePlus 10 Pro 北美版
 
-`NE2217`: 一加 10 Pro T-Mobile 版
+`NE2217`: OnePlus 10 Pro T-Mobile 版
 
-**一加 10R / 一加 Ace (`pickle`):**
+**OnePlus 10R / OnePlus Ace (`pickle`):**
 
-`PGKM10`: 一加 Ace 全网通版
+`PGKM10`: OnePlus Ace 全网通版
 
-`CPH2411`: 一加 10R 长寿版 印度版
+`CPH2423`: OnePlus 10R 印度版
 
-`CPH2423`: 一加 10R 印度版
+`CPH2411`: OnePlus 10R Endurance 印度版
 
-**一加 Ace 竞速版 (`qqcandy`):**
+**OnePlus Ace 竞速版 (`qqcandy`):**
 
-`PGZ110`: 一加 Ace 竞速版 全网通版
+`PGZ110`: OnePlus Ace 竞速版 全网通版
 
-**一加 Ace Pro / 一加 10T (`ovaltine`):**
+**OnePlus Ace Pro / OnePlus 10T (`ovaltine`):**
 
-`PGP110`: 一加 Ace Pro 全网通版
+`PGP110`: OnePlus Ace Pro 全网通版
 
-`CPH2413`: 一加 10T 印度版
+`CPH2413`: OnePlus 10T 印度版
 
-`CPH2415`: 一加 10T 欧洲版/国际版
+`CPH2415`: OnePlus 10T 欧洲版/国际版
 
-`CPH2417`: 一加 10T 北美版
+`CPH2417`: OnePlus 10T 北美版
 
-`CPH2419`: 一加 10T T-Mobile 版
+`CPH2419`: OnePlus 10T T-Mobile 版
 
-**一加 11 (`salami`):**
+**OnePlus 11 (`salami`):**
 
-`PHB110`: 一加 11 全网通版
+`PHB110`: OnePlus 11 全网通版
 
-`CPH2447`: 一加 11 印度版
+`CPH2447`: OnePlus 11 印度版
 
-`CPH2449`: 一加 11 欧洲版/国际版
+`CPH2449`: OnePlus 11 欧洲版/国际版
 
-`CPH2451`: 一加 11 北美版
+`CPH2451`: OnePlus 11 北美版
 
-**一加 Ace 2 / 一加 11R (`udon`):**
+**OnePlus Ace 2 / OnePlus 11R (`udon`):**
 
-`PHK110`: 一加 Ace 2 全网通版
+`PHK110`: OnePlus Ace 2 全网通版
 
-`CPH2487`: 一加 11R 印度版
+`CPH2487`: OnePlus 11R 印度版
 
-**一加 Ace 2V (`vitamin`):**
+**OnePlus Ace 2V (`vitamin`):**
 
-`PHP110`: 一加 Ace 2V 全网通版
+`PHP110`: OnePlus Ace 2V 全网通版
 
-**一加 Ace 2 Pro (`xigua`):**
+**OnePlus Ace 2 Pro (`xigua`):**
 
-`PJA110`: 一加 Ace 2 Pro 全网通版
+`PJA110`: OnePlus Ace 2 Pro 全网通版
 
-**一加 12:**
+**OnePlus 12:**
 
-`PJD110`: 一加 12 全网通版
+`PJD110`: OnePlus 12 全网通版
 
 **OnePlus Nord (`avicii`):**
 
