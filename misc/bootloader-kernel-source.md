@@ -14,7 +14,7 @@
 | 360 手机 | ❌ | -- | ❌ | -- | -- | -- |
 | 黑鲨 (Black Shark) | ❌ | -- | ❌ | -- | -- | -- |
 | 酷派 (Coolpad) | ✅ | -- | ❌ | -- | -- | -- |
-| Google | ✅ | 无<br/>（秒解） | [✅](https://source.android.com/docs/setup/build/building-pixel-kernels) | ✅ | ✅ | -- |
+| Google | [✅](https://source.android.com/source/running#unlocking-the-bootloader) | 无<br/>（秒解） | [✅](https://source.android.com/docs/setup/build/building-pixel-kernels) | ✅ | ✅ | • 启用 OEM 解锁功能需已连接到互联网并已签入 Google（即便设备不久前曾连接到互联网，也仍然可能没有签入 Google）。如需强制签入，请在拨号器中输入 *#*#CHECKIN#*#* (*#*#2432546#*#*)（不需要插入 SIM 卡）。输入此号码（不需要按“通话”）后，相应文字即会消失，并且系统会显示成功通知。<br/>• 有些设备需要运营商干预才能解锁。如需了解详情，请与您的运营商联系。 |
 | 荣耀 (HONOR) | ❌ | -- | [⏹](https://www.hihonor.com/global/opensource/) | -- | -- | • 缺少部分机型内核源码 |
 | 华为 (HUAWEI) | ❌ | -- | [⏹](https://consumer.huawei.com/en/opensource/) | ❌ | -- | • 官方已关闭解锁渠道<br/>• 部分机型未开源 |
 | HTC | [✅](https://www.htcdev.com/bootloader/) | 无<br/>（秒解） | [✅](https://www.htcdev.com/devcenter/downloads) | ✅ | ✅ | • 解锁需注册 HTCdev 账户<br/>• 提交后会在几分钟内将解锁文件发至邮箱 |
