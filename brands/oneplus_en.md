@@ -261,9 +261,11 @@
 
 `PJA110`: OnePlus Ace 2 Pro China
 
-**OnePlus 12:**
+**OnePlus 12 (`waffle`):**
 
 `PJD110`: OnePlus 12 China
+
+**OnePlus Ace 3 / OnePlus 12R (`aston`):**
 
 **OnePlus Nord (`avicii`):**
 
