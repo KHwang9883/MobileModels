@@ -14,6 +14,7 @@
 | 360 手机 | ❌ | -- | ❌ | -- | -- | -- |
 | 黑鲨 (Black Shark) | ❌ | -- | ❌ | -- | -- | -- |
 | 酷派 (Coolpad) | ✅ | -- | ❌ | -- | -- | -- |
+| Google | ✅ | 无<br/>（秒解） | [✅](https://source.android.com/docs/setup/build/building-pixel-kernels) | ✅ | ✅ | -- |
 | 荣耀 (HONOR) | ❌ | -- | [⏹](https://www.hihonor.com/global/opensource/) | -- | -- | • 缺少部分机型内核源码 |
 | 华为 (HUAWEI) | ❌ | -- | [⏹](https://consumer.huawei.com/en/opensource/) | ❌ | -- | • 官方已关闭解锁渠道<br/>• 部分机型未开源 |
 | HTC | [✅](https://www.htcdev.com/bootloader/) | 无<br/>（秒解） | [✅](https://www.htcdev.com/devcenter/downloads) | ✅ | ✅ | • 解锁需注册 HTCdev 账户<br/>• 提交后会在几分钟内将解锁文件发至邮箱 |
