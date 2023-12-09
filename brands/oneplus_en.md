@@ -367,10 +367,12 @@
 
 `CPH2551`: OnePlus Open
 
-**OnePlus Pad:**
+**OnePlus Pad (`aries`):**
 
 `OPD2203`: OnePlus Pad
 
-**OnePlus Pad Go:**
+**OnePlus Pad Go (`bluey`):**
 
-`OPD2304`: OnePlus Pad Go
+`OPD2304`: OnePlus Pad Go LTE
+
+`OPD2305`: OnePlus Pad Go Wi-Fi
