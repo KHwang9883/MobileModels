@@ -272,6 +272,8 @@
 
 **OnePlus Ace 3 / OnePlus 12R (`aston`):**
 
+`PJE110`: OnePlus Ace 3 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
