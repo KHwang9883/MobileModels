@@ -267,6 +267,8 @@
 
 **OnePlus Ace 3 / OnePlus 12R (`aston`):**
 
+`PJE110`: OnePlus Ace 3 China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
