@@ -550,7 +550,7 @@
 
 `OPD2102`: OPPO Pad Air
 
-**OPPO Pad 2:**
+**OPPO Pad 2 (`aries`):**
 
 `OPD2201`: OPPO Pad 2
 
@@ -592,6 +592,10 @@
 
 `OWW213`: OPPO Watch 3 SE
 
-**OPPO Watch 4 (`comet`):**
+**OPPO Watch 4 Pro (`comet`):**
 
 `OWW221`: OPPO Watch 4 Pro
+
+**OPPO Watch 4 Round (`star`):**
+
+`OWW231`: OPPO Watch 4 Round
