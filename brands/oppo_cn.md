@@ -58,6 +58,14 @@
 
 `PGEM10`: OPPO Find X6 Pro
 
+**OPPO Find X7:**
+
+`PHZ110`: OPPO Find X7
+
+**OPPO Find X7 Pro:**
+
+`PHY110`: OPPO Find X7 Pro
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
