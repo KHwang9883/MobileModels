@@ -530,7 +530,7 @@
 
 `M1804E4C`: 小米 Max 3 联通电信定制版
 
-## 小米 CC & Civi 系列
+## 小米 CC 系列
 
 **[`F3B`] 小米 CC9 (`pyxis`):**
 
@@ -547,6 +547,8 @@
 **[`F4`] 小米 CC9 Pro (`tucana`):**
 
 `M1910F4E`: 小米 CC9 Pro 全网通版
+
+## 小米 Civi 系列
 
 **[`K9B`] Xiaomi Civi (`mona`):**
 
@@ -1778,6 +1780,12 @@
 
 `23013PC75G`: POCO F5 Pro 国际版
 
+**[`N11`] POCO F6 Pro (`vermeer`):**
+
+`23113RKC6G`: POCO F6 Pro 国际版
+
+`23113RKC6I`: POCO F6 Pro 印度版
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 印度版
@@ -1908,6 +1916,10 @@
 
 `2207117BPG`: POCO M5s 国际版
 
+**[`C3VP`] POCO M6 5G (`air`):**
+
+`23128PC33I`: POCO M6 5G 印度版
+
 **[`M19`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G 印度版
@@ -1945,6 +1957,10 @@
 **[`C3UP`] POCO C65 (`gust`):**
 
 `2310FPCA4G`: POCO C65 国际版
+
+**[`C3UP`] POCO C65 (`gale`):**
+
+`2310FPCA4I`: POCO C65 印度版
 
 ## 其他系列
 

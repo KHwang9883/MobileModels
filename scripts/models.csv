@@ -6362,6 +6362,8 @@ M2104K10I,mob,xiaomi,小米,K10,aresin,POCO F3 GT,#印度版
 23049PCD8G,mob,xiaomi,小米,M16T,marble,POCO F5,#国际版
 23049PCD8I,mob,xiaomi,小米,M16T,marble,POCO F5,#印度版
 23013PC75G,mob,xiaomi,小米,M11A,mondrian,POCO F5 Pro,#国际版
+23113RKC6G,mob,xiaomi,小米,N11,vermeer,POCO F6 Pro,#国际版
+23113RKC6I,mob,xiaomi,小米,N11,vermeer,POCO F6 Pro,#印度版
 M1912G7BI,mob,xiaomi,小米,G7B,phoenixin,POCO X2,#印度版
 M2007J20CI,mob,xiaomi,小米,J20C,karna,POCO X3,#印度版
 M2007J20CG,mob,xiaomi,小米,J20C,surya,POCO X3 NFC,#国际版
@@ -6399,6 +6401,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,#印度版
 22071219CG,mob,xiaomi,小米,L19C,stone,POCO M5,#国际版
 22071219CI,mob,xiaomi,小米,L19C,rock,POCO M5,#印度版
 2207117BPG,mob,xiaomi,小米,K7BP,rosemary,POCO M5s,#国际版
+23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,#印度版
 23076PC4BI,mob,xiaomi,小米,M19,sky,POCO M6 Pro 5G,#印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,#印度版
@@ -6413,6 +6416,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 22127PC95H,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
 22127PC95I,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
 2310FPCA4G,mob,xiaomi,小米,C3UP,gust,POCO C65,#国际版
+2310FPCA4I,mob,xiaomi,小米,C3UP,gale,POCO C65,#印度版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 FYJ01QP,watch,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
 21051191C,watch,xiaomi,小米,K91,,CyberDog 仿生四足机器人,#
@@ -7008,6 +7012,8 @@ M2104K10I,mob,xiaomi,Xiaomi,K10,aresin,POCO F3 GT,#India
 23049PCD8G,mob,xiaomi,Xiaomi,M16T,marble,POCO F5,#Global
 23049PCD8I,mob,xiaomi,Xiaomi,M16T,marble,POCO F5,#India
 23013PC75G,mob,xiaomi,Xiaomi,M11A,mondrian,POCO F5 Pro,#Global
+23113RKC6G,mob,xiaomi,Xiaomi,N11,vermeer,POCO F6 Pro,#Global
+23113RKC6I,mob,xiaomi,Xiaomi,N11,vermeer,POCO F6 Pro,#India
 M1912G7BI,mob,xiaomi,Xiaomi,G7B,phoenixin,POCO X2,#India
 M2007J20CI,mob,xiaomi,Xiaomi,J20C,karna,POCO X3,#India
 M2007J20CG,mob,xiaomi,Xiaomi,J20C,surya,POCO X3 NFC,#Global
@@ -7045,6 +7051,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,#India
 22071219CG,mob,xiaomi,Xiaomi,L19C,stone,POCO M5,#Global
 22071219CI,mob,xiaomi,Xiaomi,L19C,rock,POCO M5,#India
 2207117BPG,mob,xiaomi,Xiaomi,K7BP,rosemary,POCO M5s,#Global
+23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,#India
 23076PC4BI,mob,xiaomi,Xiaomi,M19,sky,POCO M6 Pro 5G,#India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,#India
@@ -7059,6 +7066,7 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 22127PC95H,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
 22127PC95I,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
 2310FPCA4G,mob,xiaomi,Xiaomi,C3UP,gust,POCO C65,#Global
+2310FPCA4I,mob,xiaomi,Xiaomi,C3UP,gale,POCO C65,#India
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,#
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,#
 MCE91,pad,xiaomi,Xiaomi,C9,cappu,Mi Pad 3,#
