@@ -1667,6 +1667,12 @@
 
 `23013PC75G`: POCO F5 Pro Global
 
+**[`N11`] POCO F6 Pro (`vermeer`):**
+
+`23113RKC6G`: POCO F6 Pro Global
+
+`23113RKC6I`: POCO F6 Pro India
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 India
@@ -1797,6 +1803,10 @@
 
 `2207117BPG`: POCO M5s Global
 
+**[`C3VP`] POCO M6 5G (`air`):**
+
+`23128PC33I`: POCO M6 5G India
+
 **[`M19`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G India
@@ -1834,6 +1844,10 @@
 **[`C3UP`] POCO C65 (`gust`):**
 
 `2310FPCA4G`: POCO C65 Global
+
+**[`C3UP`] POCO C65 (`gale`):**
+
+`2310FPCA4I`: POCO C65 India
 
 ## Tablets
 
