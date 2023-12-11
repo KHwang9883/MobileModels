@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-12-11
+- `vivo_global_en` Add several new models.
 ## 2023-12-09
 - `oneplus_en` Add OnePlus Ace 3.
 ## 2023-11-29
