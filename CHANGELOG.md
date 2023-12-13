@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-12-13
+- `nubia` 新增 nubia Z50 SE, Z60 Ultra。
 ## 2023-12-11
 - `oppo_cn` 新增 OPPO Find X7 系列。
 - `xiaomi` 新增 部分 POCO 型号。
