@@ -5361,6 +5361,9 @@ V2283A,mob,vivo,vivo,,PD2283,S17,#
 V2282A,mob,vivo,vivo,,PD2282,S17t,#
 V2284A,mob,vivo,vivo,,PD2284,S17 Pro,#
 V2285A,mob,vivo,vivo,,PD2285,S17e,#
+V2323A,mob,vivo,vivo,,PD2323,S18,#
+V2344A,mob,vivo,vivo,,PD2344,S18 Pro,#
+V2334A,mob,vivo,vivo,,PD2334,S18e,#
 V1901A,mob,vivo,vivo,,PD1901,Y3,#全网通版
 V1901T,mob,vivo,vivo,,PD1901,Y3,#移动全网通版
 V1930A,mob,vivo,vivo,,PD1930,Y3 标准版,#全网通版
@@ -5455,6 +5458,7 @@ V1813A,mob,vivo,vivo,,PD1813,Y97,#全网通版
 V1813T,mob,vivo,vivo,,PD1813,Y97,#移动全网通版
 V2313A,mob,vivo,vivo,,PD2313,Y100,#5G
 V2279A,mob,vivo,vivo,,PD2279,Y100i,#5G
+V2312BA,mob,vivo,vivo,,PD2312,Y100i 长续航版,#5G
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#
@@ -5522,6 +5526,8 @@ V2232A,mob,vivo,vivo,,PD2232,iQOO Neo7 竞速版,#
 V2238A,mob,vivo,vivo,,PD2238,iQOO Neo7 SE,#
 V2301A,mob,vivo,vivo,,PD2301,iQOO Neo8,#
 V2302A,mob,vivo,vivo,,PD2302,iQOO Neo8 Pro,#
+V2338A,mob,vivo,vivo,,PD2338,iQOO Neo9,#
+V2339A,mob,vivo,vivo,,PD2339,iQOO Neo9 Pro,#
 V1986A,mob,vivo,vivo,,PD1986,iQOO Z1,#
 V2012A,mob,vivo,vivo,,PD2012,iQOO Z1x,#
 V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#

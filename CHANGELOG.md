@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-12-14
+- `vivo_cn` 新增 vivo S18 系列, iQOO Neo9 系列。
 ## 2023-12-13
 - `nubia` 新增 nubia Z50 SE, Z60 Ultra。
 ## 2023-12-11

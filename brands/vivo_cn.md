@@ -298,6 +298,18 @@
 
 `V2285A`: vivo S17e
 
+**vivo S18 (`PD2323`):**
+
+`V2323A`: vivo S18
+
+**vivo S18 Pro (`PD2344`):**
+
+`V2344A`: vivo S18 Pro
+
+**vivo S18e (`PD2334`):**
+
+`V2334A`: vivo S18e
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
@@ -610,6 +622,10 @@
 
 `V2279A`: vivo Y100i 5G
 
+**vivo Y100i 长续航版 (`PD2312`):**
+
+`V2312BA`: vivo Y100i 长续航版 5G
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
@@ -859,6 +875,14 @@
 **iQOO Neo8 Pro (`PD2302`):**
 
 `V2302A`: iQOO Neo8 Pro
+
+**iQOO Neo9 (`PD2338`):**
+
+`V2338A`: iQOO Neo9
+
+**iQOO Neo9 Pro (`PD2339`):**
+
+`V2339A`: iQOO Neo9 Pro
 
 ## iQOO Z 系列
 
