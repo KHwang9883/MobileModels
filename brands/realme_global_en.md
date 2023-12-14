@@ -343,7 +343,7 @@
 
 **realme C67:**
 
-`RMX3782`: realme C67
+`RMX3782`: realme C67 5G
 
 ## U series
 
