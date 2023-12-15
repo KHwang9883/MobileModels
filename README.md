@@ -30,7 +30,7 @@
 | [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起上市的智能手机机型 | ✅ | ❌ | -- |
 | [nothing](brands/nothing.md) | Nothing | 全部机型 | ✅ | ✅ | -- |
-| [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ❌ | -- |
+| [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ⏹ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
 | [oppo_cn](brands/oppo_cn.md) | OPPO | 2018 年起新型号命名方式的机型 | ⏹ | ⏹ | [海外机型单独汇总](brands/oppo_global_en.md) |
 | [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | [海外机型单独汇总](brands/realme_global_en.md) |

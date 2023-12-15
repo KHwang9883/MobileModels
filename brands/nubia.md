@@ -2,7 +2,7 @@
 
 - 汇总范围: 全部机型
 - codename: ❌
-- 是否包含海外机型: ❌
+- 是否包含海外机型: ⏹
 
 ## 努比亚 Z 系列
 
@@ -195,6 +195,10 @@
 **nubia N5:**
 
 `NX301J`: nubia N5
+
+**nubia Neo:**
+
+`nubia 8150N`: nubia Neo 5G
 
 **nubia Pad 3D:**
 
