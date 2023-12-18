@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-12-18
+- `honor_global_en` Add HONOR X7b, X8b.
 ## 2023-12-14
 - `realme_global_en` Add realme C67.
 ## 2023-12-11

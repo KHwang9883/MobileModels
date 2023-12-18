@@ -1798,7 +1798,7 @@ CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#5G
 CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#5G
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
-ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite 5G,#
+ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#5G
 FRI-NX9,mob,honor,HONOR,,,HONOR Magic Vs,#
 PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#5G
 PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
@@ -1826,14 +1826,20 @@ CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#
 RKY-LX1,mob,honor,HONOR,,Rocky,HONOR X7a,#
 RKY-LX2,mob,honor,HONOR,,Rocky,HONOR X7a,#
 RKY-LX3,mob,honor,HONOR,,Rocky,HONOR X7a,#
+CLK-LX1,mob,honor,HONOR,,Clark,HONOR X7b,#
+CLK-LX2,mob,honor,HONOR,,Clark,HONOR X7b,#
+CLK-LX3,mob,honor,HONOR,,Clark,HONOR X7b,#
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,#
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,#
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,#
+VNE-N41,mob,honor,HONOR,,Vinnie,HONOR X8 5G,#
 CRT-LX1,mob,honor,HONOR,,Cartier,HONOR X8a,#
 CRT-LX2,mob,honor,HONOR,,Cartier,HONOR X8a,#
 CRT-LX3,mob,honor,HONOR,,Cartier,HONOR X8a,#
-VNE-N41,mob,honor,HONOR,,Vinnie,HONOR X8 5G,#
 RBN-NX3,mob,honor,HONOR,,,HONOR X8a 5G,#
+LLY-LX1,mob,honor,HONOR,,,HONOR X8b,#
+LLY-LX2,mob,honor,HONOR,,,HONOR X8b,#
+LLY-LX3,mob,honor,HONOR,,,HONOR X8b,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,#

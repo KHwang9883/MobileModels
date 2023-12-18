@@ -217,8 +217,6 @@
 
 `ANY-LX1`: HONOR Magic4 Lite
 
-**HONOR Magic4 Lite 5G (`Andy`):**
-
 `ANY-NX1`: HONOR Magic4 Lite 5G
 
 **HONOR Magic Vs:**
@@ -275,21 +273,29 @@
 
 `RKY-LX1` `RKY-LX2` `RKY-LX3`: HONOR X7a
 
+**HONOR X7b (`Clark`):**
+
+`CLK-LX1` `CLK-LX2` `CLK-LX3`: HONOR X7b
+
 **HONOR X8 (`Tiffany`):**
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
-
-**HONOR X8a (`Cartier`):**
-
-`CRT-LX1` `CRT-LX2` `CRT-LX3`: HONOR X8a
 
 **HONOR X8 5G (`Vinnie`):**
 
 `VNE-N41`: HONOR X8 5G
 
+**HONOR X8a (`Cartier`):**
+
+`CRT-LX1` `CRT-LX2` `CRT-LX3`: HONOR X8a
+
 **HONOR X8a 5G:**
 
 `RBN-NX3`: HONOR X8a 5G
+
+**HONOR X8b:**
+
+`LLY-LX1` `LLY-LX2` `LLY-LX3`: HONOR X8b
 
 **HONOR X9 (`Andy`):**
 
