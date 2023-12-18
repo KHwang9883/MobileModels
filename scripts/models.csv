@@ -1197,21 +1197,21 @@ NTS-AL00,mob,honor,荣耀,,,荣耀 Magic,#全网通版
 TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#全网通版
 TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,#3D 感光版
 TNY-TL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#移动 4G+ 版
-ELZ-AN00,mob,honor,荣耀,,Elizabeth,荣耀 Magic3,#5G
-ELZ-AN10,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 Pro,#5G
-ELZ-AN20,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 至臻版,#5G
-MGI-AN00,mob,honor,荣耀,,Maggie,荣耀 Magic V,#5G
-LGE-AN00,mob,honor,荣耀,,Lange,荣耀 Magic4,#5G
-LGE-AN10,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#5G
-LGE-AN20,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#5G
-FRI-AN00,mob,honor,荣耀,,,荣耀 Magic Vs,#5G
-FRI-AN10,mob,honor,荣耀,,,荣耀 Magic Vs 至臻版,#5G
-PGT-AN00,mob,honor,荣耀,,Piaget,荣耀 Magic5,#5G
-PGT-AN10,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#5G
-PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#5G
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2,#5G
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 至臻版,#5G
-VER-AN00,mob,honor,荣耀,,,荣耀 Magic Vs2,#5G
+ELZ-AN00,mob,honor,荣耀,,Elizabeth,荣耀 Magic3,#
+ELZ-AN10,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 Pro,#
+ELZ-AN20,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 至臻版,#
+MGI-AN00,mob,honor,荣耀,,Maggie,荣耀 Magic V,#
+LGE-AN00,mob,honor,荣耀,,Lange,荣耀 Magic4,#
+LGE-AN10,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#
+LGE-AN20,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#
+FRI-AN00,mob,honor,荣耀,,,荣耀 Magic Vs,#
+FRI-AN10,mob,honor,荣耀,,,荣耀 Magic Vs 至臻版,#
+PGT-AN00,mob,honor,荣耀,,Piaget,荣耀 Magic5,#
+PGT-AN10,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#
+PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#
+VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2,#
+VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 至臻版,#
+VER-AN00,mob,honor,荣耀,,,荣耀 Magic Vs2,#
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,#移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,#联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,#移动定制版
@@ -1288,18 +1288,19 @@ LSA-AN00,mob,honor,荣耀,,Lisa,荣耀 60,#5G
 TNA-AN00,mob,honor,荣耀,,Tina,荣耀 60 Pro,#5G 全网通版
 TNA-TN00,mob,honor,荣耀,,Tina,荣耀 60 Pro,#5G 移动版
 GIA-AN00,mob,honor,荣耀,,Gina,荣耀 60 SE,#5G
-FNE-AN00,mob,honor,荣耀,,,荣耀 70,#5G
-SDY-AN00,mob,honor,荣耀,,Sandy,荣耀 70 Pro,#5G
-HPB-TN00,mob,honor,荣耀,,Hepburn,荣耀 70 Pro+,#5G
-ANN-AN00,mob,honor,荣耀,,Anna,荣耀 80,#5G
-ANP-AN00,mob,honor,荣耀,,,荣耀 80 Pro,#5G
-ANB-AN00,mob,honor,荣耀,,,荣耀 80 Pro 直屏版,#5G
-GIA-AN80,mob,honor,荣耀,,Gina,荣耀 80 SE,#5G
-AGT-AN00,mob,honor,荣耀,,,荣耀 80 GT,#5G
-REA-AN00,mob,honor,荣耀,,,荣耀 90,#5G
-REP-AN00,mob,honor,荣耀,,,荣耀 90 Pro,#5G
-MAA-AN00,mob,honor,荣耀,,,荣耀 100,#5G
-MAA-AN10,mob,honor,荣耀,,,荣耀 100 Pro,#5G
+FNE-AN00,mob,honor,荣耀,,,荣耀 70,#
+SDY-AN00,mob,honor,荣耀,,Sandy,荣耀 70 Pro,#
+HPB-TN00,mob,honor,荣耀,,Hepburn,荣耀 70 Pro+,#
+ANN-AN00,mob,honor,荣耀,,Anna,荣耀 80,#
+ANP-AN00,mob,honor,荣耀,,,荣耀 80 Pro,#
+ANB-AN00,mob,honor,荣耀,,,荣耀 80 Pro 直屏版,#
+GIA-AN80,mob,honor,荣耀,,Gina,荣耀 80 SE,#
+AGT-AN00,mob,honor,荣耀,,,荣耀 80 GT,#
+REA-AN00,mob,honor,荣耀,,,荣耀 90,#
+REP-AN00,mob,honor,荣耀,,,荣耀 90 Pro,#
+MAG-AN00,mob,honor,荣耀,,,荣耀 90 GT,#
+MAA-AN00,mob,honor,荣耀,,,荣耀 100,#
+MAA-AN10,mob,honor,荣耀,,,荣耀 100 Pro,#
 KNT-AL10,mob,honor,荣耀,,Knight,荣耀 V8,#全网通版
 KNT-AL20,mob,honor,荣耀,,Knight,荣耀 V8,"#全网通版 (麒麟 955, 2K 显示屏)"
 KNT-TL10,mob,honor,荣耀,,Knight,荣耀 V8,#移动版
@@ -1316,7 +1317,7 @@ OXF-AN00,mob,honor,荣耀,,OxfordS,荣耀 V30,#5G
 OXF-AN10,mob,honor,荣耀,,OxfordP,荣耀 V30 PRO,#5G
 YOK-AN10,mob,honor,荣耀,,York,荣耀 V40,#5G
 ALA-AN70,mob,honor,荣耀,,,荣耀 V40 轻奢版,#5G
-VCA-AN00,mob,honor,荣耀,,Victoria,荣耀 V Purse,#5G
+VCA-AN00,mob,honor,荣耀,,Victoria,荣耀 V Purse,#
 G750-T00,mob,honor,荣耀,,,荣耀 3X,#双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,#联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,#Pro
@@ -1396,7 +1397,7 @@ TFY-AN40,mob,honor,荣耀,,Tiffany,荣耀 Play6T Pro,#5G
 VNE-AN40,mob,honor,荣耀,,Vinnie,荣耀 Play6C,#5G
 RKY-AN10,mob,honor,荣耀,,Rocky,荣耀 Play7T,#5G
 DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,#5G
-CLK-AN00,mob,honor,荣耀,,,荣耀 Play8T,#5G
+CLK-AN00,mob,honor,荣耀,,Clark,荣耀 Play8T,#5G
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,#全网通版
 EDI-DL00,mob,honor,荣耀,,Edison,荣耀 Note8,#移动/联通版
 RVL-AL09,mob,honor,荣耀,,Ravel,荣耀 Note10,#
@@ -1466,7 +1467,7 @@ WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 4
 WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,1#5G
 WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,2#5G
 RKY-AN00,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,#5G
-CLK-AN00,mob,honor,荣耀,,,荣耀畅玩 50 Plus,#5G
+CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,#5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,#Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,#3G 版
 T1-821w,pad,honor,荣耀,,,荣耀平板,#优享版
@@ -1500,7 +1501,9 @@ ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,#11.5 英寸 Wi-Fi 版
 HEY-W09,pad,honor,荣耀,,Hendry,荣耀平板 8,#12 英寸 Wi-Fi 版
 BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V8,#11 英寸 Wi-Fi 版
 ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 V8 Pro,#12.1 英寸 Wi-Fi 版
-GDI-W09,pad,honor,荣耀,,,荣耀平板 MagicPad,#13 英寸 Wi-Fi 版
+GDI-W09,pad,honor,荣耀,,Gaudi,荣耀平板 MagicPad,#13 英寸 Wi-Fi 版
+HEY2-W09,pad,honor,荣耀,,Hendry2,荣耀平板 9,#12.1 英寸 Wi-Fi 版
+HEY2-W19,pad,honor,荣耀,,Hendry2,荣耀平板 9,#12.1 英寸 Wi-Fi 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 LTE 版
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 Wi-Fi 版

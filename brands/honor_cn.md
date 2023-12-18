@@ -20,63 +20,63 @@
 
 **荣耀 Magic3 (`Elizabeth`):**
 
-`ELZ-AN00`: 荣耀 Magic3 5G
+`ELZ-AN00`: 荣耀 Magic3
 
 **荣耀 Magic3 Pro (`Elizabeth`):**
 
-`ELZ-AN10`: 荣耀 Magic3 Pro 5G
+`ELZ-AN10`: 荣耀 Magic3 Pro
 
 **荣耀 Magic3 至臻版 (`Elizabeth`):**
 
-`ELZ-AN20`: 荣耀 Magic3 至臻版 5G
+`ELZ-AN20`: 荣耀 Magic3 至臻版
 
 **荣耀 Magic V (`Maggie`):**
 
-`MGI-AN00`: 荣耀 Magic V 5G
+`MGI-AN00`: 荣耀 Magic V
 
 **荣耀 Magic4 (`Lange`):**
 
-`LGE-AN00`: 荣耀 Magic4 5G
+`LGE-AN00`: 荣耀 Magic4
 
 **荣耀 Magic4 Pro (`Lange`):**
 
-`LGE-AN10`: 荣耀 Magic4 Pro 5G
+`LGE-AN10`: 荣耀 Magic4 Pro
 
 **荣耀 Magic4 至臻版 (`Lange`):**
 
-`LGE-AN20`: 荣耀 Magic4 至臻版 5G
+`LGE-AN20`: 荣耀 Magic4 至臻版
 
 **荣耀 Magic Vs:**
 
-`FRI-AN00`: 荣耀 Magic Vs 5G
+`FRI-AN00`: 荣耀 Magic Vs
 
 **荣耀 Magic Vs 至臻版:**
 
-`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G
+`FRI-AN10`: 荣耀 Magic Vs 至臻版
 
 **荣耀 Magic5 (`Piaget`):**
 
-`PGT-AN00`: 荣耀 Magic5 5G
+`PGT-AN00`: 荣耀 Magic5
 
 **荣耀 Magic5 Pro (`Piaget`):**
 
-`PGT-AN10`: 荣耀 Magic5 Pro 5G
+`PGT-AN10`: 荣耀 Magic5 Pro
 
 **荣耀 Magic5 至臻版 (`Piaget`):**
 
-`PGT-AN20`: 荣耀 Magic5 至臻版 5G
+`PGT-AN20`: 荣耀 Magic5 至臻版
 
 **荣耀 Magic V2:**
 
-`VER-AN10`: 荣耀 Magic V2 5G
+`VER-AN10`: 荣耀 Magic V2
 
 **荣耀 Magic V2 至臻版:**
 
-`VER-AN10`: 荣耀 Magic V2 至臻版 5G
+`VER-AN10`: 荣耀 Magic V2 至臻版
 
 **荣耀 Magic Vs2:**
 
-`VER-AN00`: 荣耀 Magic Vs2 5G
+`VER-AN00`: 荣耀 Magic Vs2
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
@@ -278,51 +278,55 @@
 
 **荣耀 70:**
 
-`FNE-AN00`: 荣耀 70 5G
+`FNE-AN00`: 荣耀 70
 
 **荣耀 70 Pro (`Sandy`):**
 
-`SDY-AN00`: 荣耀 70 Pro 5G
+`SDY-AN00`: 荣耀 70 Pro
 
 **荣耀 70 Pro+ (`Hepburn`):**
 
-`HPB-TN00`: 荣耀 70 Pro+ 5G
+`HPB-TN00`: 荣耀 70 Pro+
 
 **荣耀 80 (`Anna`):**
 
-`ANN-AN00`: 荣耀 80 5G
+`ANN-AN00`: 荣耀 80
 
 **荣耀 80 Pro:**
 
-`ANP-AN00`: 荣耀 80 Pro 5G
+`ANP-AN00`: 荣耀 80 Pro
 
 **荣耀 80 Pro 直屏版:**
 
-`ANB-AN00`: 荣耀 80 Pro 直屏版 5G
+`ANB-AN00`: 荣耀 80 Pro 直屏版
 
 **荣耀 80 SE (`Gina`):**
 
-`GIA-AN80`: 荣耀 80 SE 5G
+`GIA-AN80`: 荣耀 80 SE
 
 **荣耀 80 GT:**
 
-`AGT-AN00`: 荣耀 80 GT 5G
+`AGT-AN00`: 荣耀 80 GT
 
 **荣耀 90:**
 
-`REA-AN00`: 荣耀 90 5G
+`REA-AN00`: 荣耀 90
 
 **荣耀 90 Pro:**
 
-`REP-AN00`: 荣耀 90 Pro 5G
+`REP-AN00`: 荣耀 90 Pro
+
+**荣耀 90 GT:**
+
+`MAG-AN00`: 荣耀 90 GT
 
 **荣耀 100:**
 
-`MAA-AN00`: 荣耀 100 5G
+`MAA-AN00`: 荣耀 100
 
 **荣耀 100 Pro:**
 
-`MAA-AN10`: 荣耀 100 Pro 5G
+`MAA-AN10`: 荣耀 100 Pro
 
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
@@ -378,7 +382,7 @@
 
 **荣耀 V Purse (`Victoria`):**
 
-`VCA-AN00`: 荣耀 V Purse 5G
+`VCA-AN00`: 荣耀 V Purse
 
 ## 荣耀 X 系列
 
@@ -608,7 +612,7 @@
 
 `DIO-AN00`: 荣耀 Play7T Pro 5G
 
-**荣耀 Play8T:**
+**荣耀 Play8T (`Clark`):**
 
 `CLK-AN00`: 荣耀 Play8T 5G
 
@@ -802,7 +806,7 @@
 
 `RKY-AN00`: 荣耀畅玩 40 Plus 5G
 
-**荣耀畅玩 50 Plus:**
+**荣耀畅玩 50 Plus (`Clark`):**
 
 `CLK-AN00`: 荣耀畅玩 50 Plus 5G
 
@@ -908,9 +912,13 @@
 
 `ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
 
-**荣耀平板 MagicPad:**
+**荣耀平板 MagicPad (`Gaudi`):**
 
 `GDI-W09`: 荣耀平板 MagicPad 13 英寸 Wi-Fi 版
+
+**荣耀平板 9 (`Hendry2`):**
+
+`HEY2-W09` `HEY2-W19`: 荣耀平板 9 12.1 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
