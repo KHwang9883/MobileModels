@@ -62,9 +62,9 @@
 
 `PHZ110`: OPPO Find X7
 
-**OPPO Find X7 Pro:**
+**OPPO Find X7 Ultra:**
 
-`PHY110`: OPPO Find X7 Pro
+`PHY110`: OPPO Find X7 Ultra
 
 ## Find N 系列
 
