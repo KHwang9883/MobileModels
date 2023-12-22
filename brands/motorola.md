@@ -165,3 +165,7 @@
 **moto g54 (`cancunf`):**
 
 `XT2343-3`: moto g54
+
+**moto g34 (`fogos`):**
+
+`XT2363-4`: moto g34
