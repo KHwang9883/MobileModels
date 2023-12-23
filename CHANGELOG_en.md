@@ -1,4 +1,8 @@
 # CHANGELOG
+## 2023-12-24
+- `oppo_global_en` Add OPPO A59 5G.
+## 2023-12-23
+- `oneplus_en` Add Nord N30 SE.
 ## 2023-12-18
 - `honor_global_en` Add HONOR X7b, X8b.
 ## 2023-12-14
