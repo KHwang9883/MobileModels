@@ -358,6 +358,10 @@
 
 `CPH2513` `CPH2515`: OnePlus Nord N30
 
+**OnePlus Nord N30 SE (`fanli`):**
+
+`CPH2605`: OnePlus Nord N30 SE 欧洲版
+
 **OnePlus Nord N200 (`dre9`):**
 
 `DE2117`: OnePlus Nord N200 北美版
