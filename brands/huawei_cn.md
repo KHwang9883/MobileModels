@@ -617,6 +617,22 @@
 
 `BON-AL00`: HUAWEI nova 11 SE
 
+**HUAWEI nova 12:**
+
+`BLK-AL00`: HUAWEI nova 12
+
+**HUAWEI nova 12 活力版 (`Fiona+`):**
+
+`FIN-AL60`: HUAWEI nova 12 活力版
+
+**HUAWEI nova 12 Pro (`Adela`):**
+
+`ADA-AL00`: HUAWEI nova 12 Pro
+
+**HUAWEI nova 12 Ultra (`Adela`):**
+
+`ADA-AL00U`: HUAWEI nova 12 Ultra
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -1709,6 +1725,12 @@
 
 `MRGF-7651`: HUAWEI MateBook B7-420 i7
 
+**华为擎云 S520 (`YutuFZ`):**
+
+`YTSFZ-5651TP`: 华为擎云 S520 i5
+
+`YTSFZ-7611T`: 华为擎云 S520 i7
+
 **华为擎云 S540 (`YutuFZ`):**
 
 `YTFZ-5651SP`: 华为擎云 S540 i5
@@ -1766,6 +1788,10 @@
 `HD65FRUB`: 华为智慧屏 V 65 三代
 
 `HD75FRUB`: 华为智慧屏 V 75 三代
+
+**华为智慧屏 V5:**
+
+`HD85ARKB`: 华为智慧屏 V5 85
 
 **华为智慧屏 V5 Pro:**
 

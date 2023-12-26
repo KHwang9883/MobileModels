@@ -2069,6 +2069,10 @@ FOA-AL00,mob,huawei,华为,,Fiona,HUAWEI nova 11,#
 GOA-AL80,mob,huawei,华为,,Gloria,HUAWEI nova 11 Pro,#
 GOA-AL80U,mob,huawei,华为,,Gloria,HUAWEI nova 11 Ultra,#
 BON-AL00,mob,huawei,华为,,,HUAWEI nova 11 SE,#
+BLK-AL00,mob,huawei,华为,,,HUAWEI nova 12,#
+FIN-AL60,mob,huawei,华为,,Fiona+,HUAWEI nova 12 活力版,#
+ADA-AL00,mob,huawei,华为,,Adela,HUAWEI nova 12 Pro,#
+ADA-AL00U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
@@ -2478,6 +2482,8 @@ MDZ-WFE9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+512GB)
 MDZ-WFE9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+1TB)
 MRGF-5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5
 MRGF-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7
+YTSFZ-5651TP,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i5
+YTSFZ-7611T,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i7
 YTFZ-5651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5
 YTFZ-7651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7
 KLVU-WDU0,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+256GB
@@ -2499,6 +2505,7 @@ HD65FRUA,tv,huawei,华为,,,华为智慧屏 V Pro 系列,#65 Pro
 HD75FRUA,tv,huawei,华为,,,华为智慧屏 V Pro 系列,#75 Pro
 HD65FRUB,tv,huawei,华为,,,华为智慧屏 V 三代,#65 三代
 HD75FRUB,tv,huawei,华为,,,华为智慧屏 V 三代,#75 三代
+HD85ARKB,tv,huawei,华为,,,华为智慧屏 V5,#85
 HD85ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#85
 HD98ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#98
 PLAT-760,tv,huawei,华为,,Plato,华为智慧屏 X 系列,#65
