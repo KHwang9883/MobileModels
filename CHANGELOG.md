@@ -1,5 +1,6 @@
 # 更新日志
 ## 2023-12-26
+- `honor_cn` 新增 荣耀 X50 Pro, 荣耀笔记本 X 2024。
 - `huawei_cn` 新增 nova 12 系列。
 ## 2023-12-22
 - `motorola` 新增 moto g34。
