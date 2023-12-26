@@ -1071,6 +1071,8 @@
 
 `PCE-W40`: HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版 (16GB+1TB)
 
+`PCE-AL40`: HUAWEI MatePad Pro 13.2 英寸 典藏版 全网通版
+
 ## HUAWEI MatePad 系列
 
 **HUAWEI MatePad (`Bach3`):**
