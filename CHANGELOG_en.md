@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-12-29
+- `xiaomi_en` Add Redmi Note 13 4G.
 ## 2023-12-24
 - `oppo_global_en` Add OPPO A59 5G.
 ## 2023-12-23
