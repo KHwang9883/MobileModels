@@ -1411,6 +1411,16 @@
 
 `23049RAD8C`: Redmi Note 12 Turbo China
 
+**[`N7`] Redmi Note 13 (`sapphire`):**
+
+`23129RAA4G`: Redmi Note 13 Global
+
+`23129RA5FL`: Redmi Note 13 Latin America
+
+**[`N7N`] Redmi Note 13 (`sapphiren`):**
+
+`23124RA7EO`: Redmi Note 13 Global (NFC)
+
 **[`N17`] Redmi Note 13 5G (`gold`):**
 
 `2312DRAABG`: Redmi Note 13 5G Global
