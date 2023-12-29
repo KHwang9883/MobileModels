@@ -1,4 +1,6 @@
 # 更新日志
+## 2023-12-29
+- `xiaomi` 新增 Redmi Note 13 4G 国际版。
 ## 2023-12-26
 - `honor_cn` 新增 荣耀 X50 Pro, 荣耀笔记本 X 2024。
 - `huawei_cn` 新增 nova 12 系列, HUAWEI MatePad Pro 13.2 典藏版。

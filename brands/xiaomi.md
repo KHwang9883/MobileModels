@@ -1054,9 +1054,9 @@
 
 `23108RN04Y`: Redmi 13C 国际版 (NFC)
 
-**[`C3V`] Redmi 13R 5G / Redmi 13C 5G (`air`):**
+**[`C3V`] Redmi 13C 5G / Redmi 13R 5G (`air`):**
 
-`23124RN87C`: Redmi 13R 5G 全网通版
+`23124RN87C`: Redmi 13C 5G 全网通版 / Redmi 13R 5G 全网通版
 
 `23124RN87G`: Redmi 13C 5G 国际版
 
@@ -1501,6 +1501,16 @@
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo 全网通版
+
+**[`N7`] Redmi Note 13 (`sapphire`):**
+
+`23129RAA4G`: Redmi Note 13 国际版
+
+`23129RA5FL`: Redmi Note 13 拉美版
+
+**[`N7N`] Redmi Note 13 (`sapphiren`):**
+
+`23124RA7EO`: Redmi Note 13 国际版 (NFC)
 
 **[`N17`] Redmi Note 13 5G (`gold`):**
 
