@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2023-12-30
+- `huawei_global_en` Add HUAWEI MatePad Pro 13.2.
 ## 2023-12-29
 - `xiaomi_en` Add Redmi Note 13 4G.
 ## 2023-12-24
