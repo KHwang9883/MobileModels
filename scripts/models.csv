@@ -2843,9 +2843,15 @@ GOA-LX9,mob,huawei,HUAWEI,,Giona,HUAWEI nova 11 Pro,#
 MAO-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 11i,#
 MAO-LX9N,mob,huawei,HUAWEI,,,HUAWEI nova 11i,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
-EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,#
-EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,#
-EVE-LX3,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,#
+EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
+EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
+EVE-LX3,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
+EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,1#
+EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,1#
+EVE-LX3,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,1#
+EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,2#
+EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,2#
+EVE-LX3,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,2#
 MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
 MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,#

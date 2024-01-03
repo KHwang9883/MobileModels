@@ -417,9 +417,9 @@
 
 `WKG-LX9`: HUAWEI nova Y60
 
-**HUAWEI nova Y61 (`Eevee`):**
+**HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus (`Eevee`):**
 
-`EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61
+`EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 
 **HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71 (`Mega`):**
 

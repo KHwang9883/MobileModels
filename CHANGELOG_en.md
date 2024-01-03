@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-01-03
+- `huawei_global_en` Add HUAWEI nova Y62.
 ## 2023-12-30
 - `huawei_global_en` Add HUAWEI MatePad Pro 13.2.
 ## 2023-12-29
