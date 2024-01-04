@@ -62,7 +62,7 @@
 
 `PHZ110`: OPPO Find X7
 
-**OPPO Find X7 Ultra:**
+**OPPO Find X7 Ultra (`pangu`):**
 
 `PHY110`: OPPO Find X7 Ultra
 
@@ -80,7 +80,7 @@
 
 `PGT110`: OPPO Find N2 Flip
 
-**OPPO Find N3 (`hedwig`):**
+**OPPO Find N3 (`xueying`):**
 
 `PHN110`: OPPO Find N3 / OPPO Find N3 典藏版
 
