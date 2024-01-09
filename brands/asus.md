@@ -46,6 +46,10 @@
 
 `ASUS_AI2205_B`: 腾讯 ROG 游戏手机 7 Pro
 
+**ROG Phone 8 (`AI2401`):**
+
+`ASUS_AI2401_A`: ROG 游戏手机 8 / ROG 游戏手机 8 Pro
+
 **Smartphone for Snapdragon Insiders:**
 
 `ASUS_I007D`: Smartphone for Snapdragon Insiders

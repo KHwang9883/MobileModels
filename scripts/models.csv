@@ -1007,6 +1007,8 @@ ASUS_AI2203_A,mob,asus,华硕,,AI2203,ROG Phone 6D,#游戏手机 6 天玑版
 ASUS_AI2203_B,mob,asus,华硕,,AI2203,ROG Phone 6D,#游戏手机 6 天玑至尊版
 ASUS_AI2205_A,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7
 ASUS_AI2205_B,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7 Pro
+ASUS_AI2401_A,mob,asus,华硕,,AI2401,ROG Phone 8,#游戏手机 8
+ASUS_AI2401_A,mob,asus,华硕,,AI2401,ROG Phone 8,#游戏手机 8 Pro
 ASUS_I007D,mob,asus,华硕,,,Smartphone for Snapdragon Insiders,#
 SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#全网通版
 SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#国际版
@@ -4342,12 +4344,12 @@ PFFM20,mob,oppo,OPPO,,diting,OPPO Find X5 Pro 天玑版,#
 PGFM10,mob,oppo,OPPO,,luna,OPPO Find X6,#
 PGEM10,mob,oppo,OPPO,,wukong,OPPO Find X6 Pro,#
 PHZ110,mob,oppo,OPPO,,,OPPO Find X7,#
-PHY110,mob,oppo,OPPO,,,OPPO Find X7 Ultra,#
+PHY110,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
-PHN110,mob,oppo,OPPO,,hedwig,OPPO Find N3,#
-PHN110,mob,oppo,OPPO,,hedwig,OPPO Find N3,#典藏版
+PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,#
+PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,#典藏版
 PHT110,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,#全网通版
 PCAT00,mob,oppo,OPPO,,,OPPO Reno,#移动版
@@ -4587,6 +4589,8 @@ A301OP,mob,oppo,OPPO,,,OPPO Reno9 A,#SoftBank
 CPH2531,mob,oppo,OPPO,,,OPPO Reno10,#5G
 CPH2525,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G
 CPH2521,mob,oppo,OPPO,,,OPPO Reno10 Pro+,#5G
+CPH2599,mob,oppo,OPPO,,,OPPO Reno11,#5G
+CPH2607,mob,oppo,OPPO,,,OPPO Reno11 Pro,#5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
