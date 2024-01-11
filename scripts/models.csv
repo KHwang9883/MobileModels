@@ -6238,7 +6238,7 @@ M1906G7T,mob,xiaomi,小米,G7,begonia,Redmi Note 8 Pro,#运营商全网通版
 M1906G7G,mob,xiaomi,小米,G7,begonia,Redmi Note 8 Pro,#国际版
 M1906G7I,mob,xiaomi,小米,G7,begoniain,Redmi Note 8 Pro,#印度版
 M2010J19SC,mob,xiaomi,小米,J19S,lime,Redmi Note 9 4G,#全网通版
-M2007J22C,mob,xiaomi,小米,J22,cannon,Redmi Note 9,#5G 全网通版
+M2007J22C,mob,xiaomi,小米,J22,cannon,Redmi Note 9 5G,#全网通版
 M2003J15SS,mob,xiaomi,小米,J15S,merlin,Redmi Note 9,#国际版
 M2003J15SI,mob,xiaomi,小米,J15S,merlin,Redmi Note 9,#印度版
 M2003J15SG,mob,xiaomi,小米,J15S,merlinnfc,Redmi Note 9,#国际版 (NFC)
@@ -6329,6 +6329,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 2312DRAABC,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#全网通版
 2312DRAABG,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#国际版
 2312DRAABI,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#印度版
+23117RA68G,mob,xiaomi,小米,,emerald,Redmi Note 13 Pro,#国际版
 2312DRA50C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#全网通版
 2312CRAD3C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#全网通版
 2312DRA50G,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 国际版
@@ -6458,6 +6459,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,#印度版
 22071219CI,mob,xiaomi,小米,L19C,rock,POCO M5,#印度版
 2207117BPG,mob,xiaomi,小米,K7BP,rosemary,POCO M5s,#国际版
 23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,#印度版
+2312FPCA6G,mob,xiaomi,小米,,emerald,POCO M6 Pro,#国际版
 23076PC4BI,mob,xiaomi,小米,M19,sky,POCO M6 Pro 5G,#印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,#印度版
@@ -6988,6 +6990,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 2312DRAABG,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#Global
 2312DRAABI,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#India
 2312DRAABC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#China
+23117RA68G,mob,xiaomi,Xiaomi,,emerald,Redmi Note 13 Pro,#Global
 2312DRA50G,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Global
 2312DRA50I,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#India
 2312DRA50C,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#China
@@ -7112,6 +7115,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,#India
 22071219CI,mob,xiaomi,Xiaomi,L19C,rock,POCO M5,#India
 2207117BPG,mob,xiaomi,Xiaomi,K7BP,rosemary,POCO M5s,#Global
 23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,#India
+2312FPCA6G,mob,xiaomi,Xiaomi,,emerald,POCO M6 Pro,#Global
 23076PC4BI,mob,xiaomi,Xiaomi,M19,sky,POCO M6 Pro 5G,#India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,#India

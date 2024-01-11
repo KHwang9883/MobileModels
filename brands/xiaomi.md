@@ -1240,7 +1240,7 @@
 
 `M2010J19SC`: Redmi Note 9 4G 全网通版
 
-**[`J22`] Redmi Note 9 (`cannon`):**
+**[`J22`] Redmi Note 9 5G (`cannon`):**
 
 `M2007J22C`: Redmi Note 9 5G 全网通版
 
@@ -1519,6 +1519,10 @@
 `2312DRAABG`: Redmi Note 13 5G 国际版
 
 `2312DRAABI`: Redmi Note 13 5G 印度版
+
+**Redmi Note 13 Pro (`emerald`):**
+
+`23117RA68G`: Redmi Note 13 Pro 国际版
 
 **[`N16`] Redmi Note 13 Pro (`garnet`):**
 
@@ -1929,6 +1933,10 @@
 **[`C3VP`] POCO M6 5G (`air`):**
 
 `23128PC33I`: POCO M6 5G 印度版
+
+**POCO M6 Pro (`emerald`):**
+
+`2312FPCA6G`: POCO M6 Pro 国际版
 
 **[`M19`] POCO M6 Pro 5G (`sky`):**
 

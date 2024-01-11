@@ -2,6 +2,7 @@
 ## 2024-01-11
 - `honor_cn` 新增 荣耀 Magic6 系列。
 - `huawei_cn` 增补 部分遗漏型号。
+- `xiaomi` 新增 POCO M6 Pro, Redmi Note 13 Pro 4G。
 ## 2024-01-09
 - `asus` 新增 ROG Phone 8。
 ## 2023-12-29
