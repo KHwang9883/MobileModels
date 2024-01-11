@@ -2590,6 +2590,7 @@ VID-B19,watch,huawei,华为,,Vidar,HUAWEI WATCH GT 2 Pro,#
 VID-B99,watch,huawei,华为,,Vidar,HUAWEI WATCH GT 2 Pro,#ECG
 MIL-B19,watch,huawei,华为,,Milo,HUAWEI WATCH GT 3,#42mm
 JPT-B19,watch,huawei,华为,,Jupiter,HUAWEI WATCH GT 3,#46mm
+JPT-B29,watch,huawei,华为,,Jupiter,HUAWEI WATCH GT 3,#46mm
 FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#43mm
 ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro,#46mm
 FRG-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 Pro 典藏版,#
@@ -2597,6 +2598,7 @@ ODN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 3 保时捷设计,#
 ARA-B19,watch,huawei,华为,,,HUAWEI WATCH GT 4,#41mm
 PNX-B19,watch,huawei,华为,,,HUAWEI WATCH GT 4,#46mm
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,#
+RUN-B29,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,#
 OCF-B29,watch,huawei,华为,,,HUAWEI WATCH GT 2022 典藏版,#
 AND-B19,watch,huawei,华为,,,HUAWEI WATCH GT Cyber,#
 TIA-B19,watch,huawei,华为,,,HUAWEI WATCH FIT,#
