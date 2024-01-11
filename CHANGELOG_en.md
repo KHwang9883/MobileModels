@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-01-11
+- `xiaomi_en` Add POCO M6 Pro, Redmi Note 13 Pro 4G.
 ## 2024-01-03
 - `huawei_global_en` Add HUAWEI nova Y62.
 ## 2023-12-30

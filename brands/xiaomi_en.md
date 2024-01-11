@@ -1429,6 +1429,10 @@
 
 `2312DRAABC`: Redmi Note 13 5G China
 
+**Redmi Note 13 Pro (`emerald`):**
+
+`23117RA68G`: Redmi Note 13 Pro Global
+
 **[`N16`] Redmi Note 13 Pro 5G (`garnet`):**
 
 `2312DRA50G`: Redmi Note 13 Pro 5G Global
@@ -1816,6 +1820,10 @@
 **[`C3VP`] POCO M6 5G (`air`):**
 
 `23128PC33I`: POCO M6 5G India
+
+**POCO M6 Pro (`emerald`):**
+
+`2312FPCA6G`: POCO M6 Pro Global
 
 **[`M19`] POCO M6 Pro 5G (`sky`):**
 
