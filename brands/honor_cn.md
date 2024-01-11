@@ -74,9 +74,21 @@
 
 `VER-AN10`: 荣耀 Magic V2 至臻版
 
+**荣耀 Magic V2 RSR 保时捷设计:**
+
+`VER-AN10`: 荣耀 Magic V2 RSR 保时捷设计
+
 **荣耀 Magic Vs2:**
 
 `VER-AN00`: 荣耀 Magic Vs2
+
+**荣耀 Magic6:**
+
+`BVL-AN00`: 荣耀 Magic6
+
+**荣耀 Magic6 Pro:**
+
+`BVL-AN16`: 荣耀 Magic6 Pro
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
