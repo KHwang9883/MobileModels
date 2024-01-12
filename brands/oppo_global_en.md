@@ -607,6 +607,12 @@
 
 `OPD2202`: OPPO Pad 2
 
+**OPPO Pad Neo:**
+
+`OPD2302`: OPPO Pad Neo Wi-Fi Version
+
+`OPD2303`: OPPO Pad Neo LTE Version
+
 ## Watch series
 
 **OPPO Watch (`beluga`):**
