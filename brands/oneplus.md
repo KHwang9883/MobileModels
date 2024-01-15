@@ -258,9 +258,13 @@
 
 `CPH2487`: OnePlus 11R 印度版
 
-**OnePlus Ace 2V (`vitamin`):**
+**OnePlus Ace 2V / OnePlus Nord 3 (`vitamin`):**
 
 `PHP110`: OnePlus Ace 2V 全网通版
+
+`CPH2491`: OnePlus Nord 3 印度版
+
+`CPH2493`: OnePlus Nord 3 欧洲版
 
 **OnePlus Ace 2 Pro (`xigua`):**
 
@@ -270,9 +274,17 @@
 
 `PJD110`: OnePlus 12 全网通版
 
+`CPH2573`: OnePlus 12 印度版
+
+`CPH2581`: OnePlus 12 欧洲版/国际版
+
+`CPH2583`: OnePlus 12 北美版
+
 **OnePlus Ace 3 / OnePlus 12R (`aston`):**
 
 `PJE110`: OnePlus Ace 3 全网通版
+
+`CPH2611`: OnePlus 12R 印度版
 
 **OnePlus Nord (`avicii`):**
 
@@ -291,12 +303,6 @@
 `CPH2399`: OnePlus Nord 2T 国际版
 
 `CPH2401`: OnePlus Nord 2T 印度版
-
-**OnePlus Nord 3 (`vitamin`):**
-
-`CPH2491`: OnePlus Nord 3 印度版
-
-`CPH2493`: OnePlus Nord 3 欧洲版
 
 **OnePlus Nord CE (`ebba`):**
 
