@@ -58,7 +58,7 @@
 
 `PGEM10`: OPPO Find X6 Pro
 
-**OPPO Find X7:**
+**OPPO Find X7 (`nvwa`):**
 
 `PHZ110`: OPPO Find X7
 
