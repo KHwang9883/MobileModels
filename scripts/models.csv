@@ -4161,18 +4161,22 @@ CPH2449,mob,oneplus,一加,,salami,OnePlus 11,#欧洲版/国际版
 CPH2451,mob,oneplus,一加,,salami,OnePlus 11,#北美版
 PHK110,mob,oneplus,一加,,udon,OnePlus Ace 2|OnePlus 11R,#全网通版
 CPH2487,mob,oneplus,一加,,udon,OnePlus Ace 2|OnePlus 11R,1#印度版
-PHP110,mob,oneplus,一加,,vitamin,OnePlus Ace 2V,#全网通版
+PHP110,mob,oneplus,一加,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,#全网通版
+CPH2491,mob,oneplus,一加,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#印度版
+CPH2493,mob,oneplus,一加,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#欧洲版
 PJA110,mob,oneplus,一加,,xigua,OnePlus Ace 2 Pro,#全网通版
 PJD110,mob,oneplus,一加,,waffle,OnePlus 12,#全网通版
+CPH2573,mob,oneplus,一加,,waffle,OnePlus 12,#印度版
+CPH2581,mob,oneplus,一加,,waffle,OnePlus 12,#欧洲版/国际版
+CPH2583,mob,oneplus,一加,,waffle,OnePlus 12,#北美版
 PJE110,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,#全网通版
+CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
 DN2103,mob,oneplus,一加,,denniz,OnePlus Nord 2,#欧洲版
 CPH2399,mob,oneplus,一加,,karen,OnePlus Nord 2T,#国际版
 CPH2401,mob,oneplus,一加,,karen,OnePlus Nord 2T,#印度版
-CPH2491,mob,oneplus,一加,,vitamin,OnePlus Nord 3,#印度版
-CPH2493,mob,oneplus,一加,,vitamin,OnePlus Nord 3,#欧洲版
 EB2101,mob,oneplus,一加,,ebba,OnePlus Nord CE,#印度版
 EB2103,mob,oneplus,一加,,ebba,OnePlus Nord CE,#欧洲版/国际版
 IV2201,mob,oneplus,一加,,ivan,OnePlus Nord CE 2,#印度版
@@ -4292,18 +4296,22 @@ CPH2449,mob,oneplus,OnePlus,,salami,OnePlus 11,#EU / Global
 CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#North America
 PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China
 CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#India
-PHP110,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V,#China
+PHP110,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,#China
+CPH2491,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#India
+CPH2493,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#EU
 PJA110,mob,oneplus,OnePlus,,xigua,OnePlus Ace 2 Pro,#China
 PJD110,mob,oneplus,OnePlus,,waffle,OnePlus 12,#China
+CPH2573,mob,oneplus,OnePlus,,waffle,OnePlus 12,#India
+CPH2581,mob,oneplus,OnePlus,,waffle,OnePlus 12,#EU / Global
+CPH2583,mob,oneplus,OnePlus,,waffle,OnePlus 12,#North America
 PJE110,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,#China
+CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
 DN2103,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#EU
 CPH2399,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#Global
 CPH2401,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#India
-CPH2491,mob,oneplus,OnePlus,,vitamin,OnePlus Nord 3,#India
-CPH2493,mob,oneplus,OnePlus,,vitamin,OnePlus Nord 3,#EU
 EB2101,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#India
 EB2103,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#EU / Global
 IV2201,mob,oneplus,OnePlus,,ivan,OnePlus Nord CE 2,#India
@@ -4348,7 +4356,7 @@ PFEM10,mob,oppo,OPPO,,baize,OPPO Find X5 Pro,#
 PFFM20,mob,oppo,OPPO,,diting,OPPO Find X5 Pro 天玑版,#
 PGFM10,mob,oppo,OPPO,,luna,OPPO Find X6,#
 PGEM10,mob,oppo,OPPO,,wukong,OPPO Find X6 Pro,#
-PHZ110,mob,oppo,OPPO,,,OPPO Find X7,#
+PHZ110,mob,oppo,OPPO,,nvwa,OPPO Find X7,#
 PHY110,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
@@ -4729,6 +4737,8 @@ CPH2373,mob,oppo,OPPO,,,OPPO K10,#
 CPH2237,mob,oppo,OPPO,,,OPPO K10,#5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
+OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi Version
+OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,#LTE Version
 OW19W6,watch,oppo,OPPO,,beluga,OPPO Watch,#41mm Wi-Fi
 OW19W8,watch,oppo,OPPO,,beluga,OPPO Watch,#46mm Wi-Fi
 OW19W12,watch,oppo,OPPO,,belugaxl,OPPO Watch,#46mm LTE
@@ -6327,9 +6337,9 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 23129RA5FL,mob,xiaomi,小米,N7,sapphire,Redmi Note 13,#拉美版
 23124RA7EO,mob,xiaomi,小米,N7N,sapphiren,Redmi Note 13,#国际版 (NFC)
 2312DRAABC,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#全网通版
-2312DRAABG,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#国际版
 2312DRAABI,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#印度版
-23117RA68G,mob,xiaomi,小米,,emerald,Redmi Note 13 Pro,#国际版
+2312DRAABG,mob,xiaomi,小米,N17,iron,Redmi Note 13 5G,#国际版
+23117RA68G,mob,xiaomi,小米,N6,emerald,Redmi Note 13 Pro,#国际版
 2312DRA50C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#全网通版
 2312CRAD3C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#全网通版
 2312DRA50G,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 国际版
@@ -6459,7 +6469,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,#印度版
 22071219CI,mob,xiaomi,小米,L19C,rock,POCO M5,#印度版
 2207117BPG,mob,xiaomi,小米,K7BP,rosemary,POCO M5s,#国际版
 23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,#印度版
-2312FPCA6G,mob,xiaomi,小米,,emerald,POCO M6 Pro,#国际版
+2312FPCA6G,mob,xiaomi,小米,N6P,emerald,POCO M6 Pro,#国际版
 23076PC4BI,mob,xiaomi,小米,M19,sky,POCO M6 Pro 5G,#印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,#印度版
@@ -6987,10 +6997,10 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 23129RAA4G,mob,xiaomi,Xiaomi,N7,sapphire,Redmi Note 13,#Global
 23129RA5FL,mob,xiaomi,Xiaomi,N7,sapphire,Redmi Note 13,#Latin America
 23124RA7EO,mob,xiaomi,Xiaomi,N7N,sapphiren,Redmi Note 13,#Global (NFC)
-2312DRAABG,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#Global
+2312DRAABG,mob,xiaomi,Xiaomi,N17,iron,Redmi Note 13 5G,#Global
 2312DRAABI,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#India
 2312DRAABC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#China
-23117RA68G,mob,xiaomi,Xiaomi,,emerald,Redmi Note 13 Pro,#Global
+23117RA68G,mob,xiaomi,Xiaomi,N6,emerald,Redmi Note 13 Pro,#Global
 2312DRA50G,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Global
 2312DRA50I,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#India
 2312DRA50C,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#China
@@ -7115,7 +7125,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,#India
 22071219CI,mob,xiaomi,Xiaomi,L19C,rock,POCO M5,#India
 2207117BPG,mob,xiaomi,Xiaomi,K7BP,rosemary,POCO M5s,#Global
 23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,#India
-2312FPCA6G,mob,xiaomi,Xiaomi,,emerald,POCO M6 Pro,#Global
+2312FPCA6G,mob,xiaomi,Xiaomi,N6P,emerald,POCO M6 Pro,#Global
 23076PC4BI,mob,xiaomi,Xiaomi,M19,sky,POCO M6 Pro 5G,#India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,#India

@@ -1516,11 +1516,13 @@
 
 `2312DRAABC`: Redmi Note 13 5G 全网通版
 
-`2312DRAABG`: Redmi Note 13 5G 国际版
-
 `2312DRAABI`: Redmi Note 13 5G 印度版
 
-**Redmi Note 13 Pro (`emerald`):**
+**[`N17`] Redmi Note 13 5G (`iron`):**
+
+`2312DRAABG`: Redmi Note 13 5G 国际版
+
+**[`N6`] Redmi Note 13 Pro (`emerald`):**
 
 `23117RA68G`: Redmi Note 13 Pro 国际版
 
@@ -1934,7 +1936,7 @@
 
 `23128PC33I`: POCO M6 5G 印度版
 
-**POCO M6 Pro (`emerald`):**
+**[`N6P`] POCO M6 Pro (`emerald`):**
 
 `2312FPCA6G`: POCO M6 Pro 国际版
 
