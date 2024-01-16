@@ -253,9 +253,13 @@
 
 `CPH2487`: OnePlus 11R India
 
-**OnePlus Ace 2V (`vitamin`):**
+**OnePlus Ace 2V / OnePlus Nord 3 (`vitamin`):**
 
 `PHP110`: OnePlus Ace 2V China
+
+`CPH2491`: OnePlus Nord 3 India
+
+`CPH2493`: OnePlus Nord 3 EU
 
 **OnePlus Ace 2 Pro (`xigua`):**
 
@@ -265,9 +269,17 @@
 
 `PJD110`: OnePlus 12 China
 
+`CPH2573`: OnePlus 12 India
+
+`CPH2581`: OnePlus 12 EU / Global
+
+`CPH2583`: OnePlus 12 North America
+
 **OnePlus Ace 3 / OnePlus 12R (`aston`):**
 
 `PJE110`: OnePlus Ace 3 China
+
+`CPH2611`: OnePlus 12R India
 
 **OnePlus Nord (`avicii`):**
 
@@ -286,12 +298,6 @@
 `CPH2399`: OnePlus Nord 2T Global
 
 `CPH2401`: OnePlus Nord 2T India
-
-**OnePlus Nord 3 (`vitamin`):**
-
-`CPH2491`: OnePlus Nord 3 India
-
-`CPH2493`: OnePlus Nord 3 EU
 
 **OnePlus Nord CE (`ebba`):**
 
