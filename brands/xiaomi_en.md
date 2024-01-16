@@ -1421,15 +1421,17 @@
 
 `23124RA7EO`: Redmi Note 13 Global (NFC)
 
-**[`N17`] Redmi Note 13 5G (`gold`):**
+**[`N17`] Redmi Note 13 5G (`iron`):**
 
 `2312DRAABG`: Redmi Note 13 5G Global
+
+**[`N17`] Redmi Note 13 5G (`gold`):**
 
 `2312DRAABI`: Redmi Note 13 5G India
 
 `2312DRAABC`: Redmi Note 13 5G China
 
-**Redmi Note 13 Pro (`emerald`):**
+**[`N6`] Redmi Note 13 Pro (`emerald`):**
 
 `23117RA68G`: Redmi Note 13 Pro Global
 
@@ -1821,7 +1823,7 @@
 
 `23128PC33I`: POCO M6 5G India
 
-**POCO M6 Pro (`emerald`):**
+**[`N6P`] POCO M6 Pro (`emerald`):**
 
 `2312FPCA6G`: POCO M6 Pro Global
 
