@@ -247,6 +247,8 @@
 
 `CPH2525`: OPPO Reno10 Pro 5G
 
+`CPH2541`: OPPO Reno10 Pro 5G (Japan)
+
 **OPPO Reno10 Pro+:**
 
 `CPH2521`: OPPO Reno10 Pro+ 5G
