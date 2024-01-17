@@ -66,6 +66,8 @@
 
 `PHY110`: OPPO Find X7 Ultra
 
+`PHY120`: OPPO Find X7 Ultra 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**

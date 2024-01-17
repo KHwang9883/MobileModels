@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-01-17
+- `oppo_cn` 新增 OPPO Find X7 Ultra 卫星通信版。
 ## 2024-01-11
 - `honor_cn` 新增 荣耀 Magic6 系列。
 - `huawei_cn` 增补 部分遗漏型号。

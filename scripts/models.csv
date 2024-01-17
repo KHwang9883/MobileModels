@@ -4358,6 +4358,7 @@ PGFM10,mob,oppo,OPPO,,luna,OPPO Find X6,#
 PGEM10,mob,oppo,OPPO,,wukong,OPPO Find X6 Pro,#
 PHZ110,mob,oppo,OPPO,,nvwa,OPPO Find X7,#
 PHY110,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#
+PHY120,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
@@ -4601,6 +4602,7 @@ CPH2523,mob,oppo,OPPO,,,OPPO Reno9 A,#
 A301OP,mob,oppo,OPPO,,,OPPO Reno9 A,#SoftBank
 CPH2531,mob,oppo,OPPO,,,OPPO Reno10,#5G
 CPH2525,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G
+CPH2541,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G (Japan)
 CPH2521,mob,oppo,OPPO,,,OPPO Reno10 Pro+,#5G
 CPH2599,mob,oppo,OPPO,,,OPPO Reno11,#5G
 CPH2607,mob,oppo,OPPO,,,OPPO Reno11 Pro,#5G
