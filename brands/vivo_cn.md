@@ -618,6 +618,10 @@
 
 `V2313A`: vivo Y100 5G
 
+**vivo Y100 GT (`PD2314`):**
+
+`V2314DA`: vivo Y100 GT 5G
+
 **vivo Y100i (`PD2279`):**
 
 `V2279A`: vivo Y100i 5G
@@ -727,6 +731,10 @@
 **vivo G1 (`PD1962B`):**
 
 `V1962BA`: vivo G1 5G
+
+**vivo G2 (`PD2318`):**
+
+`V2318A`: vivo G2 5G
 
 ## iQOO 旗舰系列
 
