@@ -5060,13 +5060,16 @@ SM-G9910,mob,samsung,三星,,o1q,Galaxy S21,#5G
 SM-G9960,mob,samsung,三星,,t2q,Galaxy S21+,#5G
 SM-G9980,mob,samsung,三星,,p3q,Galaxy S21 Ultra,#5G
 SM-G9900,mob,samsung,三星,,r9q,Galaxy S21 FE,#5G
-SM-S9010,mob,samsung,三星,,r0q,Galaxy S22,#5G
-SM-S9060,mob,samsung,三星,,g0q,Galaxy S22+,#5G
-SM-S9080,mob,samsung,三星,,b0q,Galaxy S22 Ultra,#5G
-SM-S9110,mob,samsung,三星,,dm1q,Galaxy S23,#5G
-SM-S9160,mob,samsung,三星,,dm2q,Galaxy S23+,#5G
-SM-S9180,mob,samsung,三星,,dm3q,Galaxy S23 Ultra,#5G
-SM-S7110,mob,samsung,三星,,r11q,Galaxy S23 FE,#5G
+SM-S9010,mob,samsung,三星,,r0q,Galaxy S22,#
+SM-S9060,mob,samsung,三星,,g0q,Galaxy S22+,#
+SM-S9080,mob,samsung,三星,,b0q,Galaxy S22 Ultra,#
+SM-S9110,mob,samsung,三星,,dm1q,Galaxy S23,#
+SM-S9160,mob,samsung,三星,,dm2q,Galaxy S23+,#
+SM-S9180,mob,samsung,三星,,dm3q,Galaxy S23 Ultra,#
+SM-S7110,mob,samsung,三星,,r11q,Galaxy S23 FE,#
+SM-S9210,mob,samsung,三星,,e1q,Galaxy S24,#
+SM-S9260,mob,samsung,三星,,e2q,Galaxy S24+,#
+SM-S9280,mob,samsung,三星,,e3q,Galaxy S24 Ultra,#
 GT-I9220,mob,samsung,三星,,,Galaxy Note,#公开版
 GT-I9228,mob,samsung,三星,,,Galaxy Note,#移动定制版
 SCH-I889,mob,samsung,三星,,,Galaxy Note,#电信定制版
@@ -5104,13 +5107,13 @@ SM-N9860,mob,samsung,三星,,c2q,Galaxy Note20 Ultra,#5G
 SM-F9000,mob,samsung,三星,,winner,Galaxy Fold,#
 SM-F9160,mob,samsung,三星,,f2q,Galaxy Z Fold2,#5G
 SM-F9260,mob,samsung,三星,,q2q,Galaxy Z Fold3,#5G
-SM-F9360,mob,samsung,三星,,q4q,Galaxy Z Fold4,#5G
-SM-F9460,mob,samsung,三星,,q5q,Galaxy Z Fold5,#5G
+SM-F9360,mob,samsung,三星,,q4q,Galaxy Z Fold4,#
+SM-F9460,mob,samsung,三星,,q5q,Galaxy Z Fold5,#
 SM-F7000,mob,samsung,三星,,bloomq,Galaxy Z Flip,#
 SM-F7070,mob,samsung,三星,,bloomxq,Galaxy Z Flip 5G,#
 SM-F7110,mob,samsung,三星,,b2q,Galaxy Z Flip3,#5G
-SM-F7210,mob,samsung,三星,,b4q,Galaxy Z Flip4,#5G
-SM-F7310,mob,samsung,三星,,b5q,Galaxy Z Flip5,#5G
+SM-F7210,mob,samsung,三星,,b4q,Galaxy Z Flip4,#
+SM-F7310,mob,samsung,三星,,b5q,Galaxy Z Flip5,#
 SM-A3000,mob,samsung,三星,,a3ltechn,Galaxy A3,#公开版
 SM-A3009,mob,samsung,三星,,a3ltectc,Galaxy A3,#电信定制版
 SM-A5000,mob,samsung,三星,,a5ltechn,Galaxy A5,#公开版
@@ -5145,6 +5148,7 @@ SM-A7160,mob,samsung,三星,,a71x,Galaxy A71 5G,#
 SM-A5260,mob,samsung,三星,,a52xq,Galaxy A52 5G,#
 SM-A5360,mob,samsung,三星,,a53x,Galaxy A53 5G,#
 SM-A5460,mob,samsung,三星,,a54x,Galaxy A54 5G,#
+SM-A5560,mob,samsung,三星,,a55x,Galaxy A55 5G,#
 SM-E5260,mob,samsung,三星,,f52x,Galaxy F52 5G,#
 SM-M3070,mob,samsung,三星,,m30s,Galaxy M30s,#
 SM-C5000,mob,samsung,三星,,c5ltechn,Galaxy C5,#
@@ -5189,10 +5193,10 @@ SM-W2019,mob,samsung,三星,,lykanlte,三星 W2019,#
 SM-W2020,mob,samsung,三星,,zodiac,三星 W20,#5G
 SM-W2021,mob,samsung,三星,,victory,三星 W21,#5G
 SM-W2022,mob,samsung,三星,,v2q,三星 W22,#5G
-SM-W9023,mob,samsung,三星,,v4q,三星 W23,#5G
-SM-W7023,mob,samsung,三星,,e4q,三星 W23 Flip,#5G
-SM-W9024,mob,samsung,三星,,v5q,三星 W24,#5G
-SM-W7024,mob,samsung,三星,,e5q,三星 W24 Flip,#5G
+SM-W9023,mob,samsung,三星,,v4q,三星 W23,#
+SM-W7023,mob,samsung,三星,,e4q,三星 W23 Flip,#
+SM-W9024,mob,samsung,三星,,v5q,三星 W24,#
+SM-W7024,mob,samsung,三星,,e5q,三星 W24 Flip,#
 SM-G1600,mob,samsung,三星,,eliteltechn,Galaxy Folder,#
 SM-G1650,mob,samsung,三星,,elitexltechn,Galaxy Folder 2,#
 SM-G8508S,mob,samsung,三星,,sltechn,Galaxy Alpha,#

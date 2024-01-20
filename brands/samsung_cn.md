@@ -206,31 +206,43 @@
 
 **Galaxy S22 (`r0q`):**
 
-`SM-S9010`: Galaxy S22 5G
+`SM-S9010`: Galaxy S22
 
 **Galaxy S22+ (`g0q`):**
 
-`SM-S9060`: Galaxy S22+ 5G
+`SM-S9060`: Galaxy S22+
 
 **Galaxy S22 Ultra (`b0q`):**
 
-`SM-S9080`: Galaxy S22 Ultra 5G
+`SM-S9080`: Galaxy S22 Ultra
 
 **Galaxy S23 (`dm1q`):**
 
-`SM-S9110`: Galaxy S23 5G
+`SM-S9110`: Galaxy S23
 
 **Galaxy S23+ (`dm2q`):**
 
-`SM-S9160`: Galaxy S23+ 5G
+`SM-S9160`: Galaxy S23+
 
 **Galaxy S23 Ultra (`dm3q`):**
 
-`SM-S9180`: Galaxy S23 Ultra 5G
+`SM-S9180`: Galaxy S23 Ultra
 
 **Galaxy S23 FE (`r11q`):**
 
-`SM-S7110`: Galaxy S23 FE 5G
+`SM-S7110`: Galaxy S23 FE
+
+**Galaxy S24 (`e1q`):**
+
+`SM-S9210`: Galaxy S24
+
+**Galaxy S24+ (`e2q`):**
+
+`SM-S9260`: Galaxy S24+
+
+**Galaxy S24 Ultra (`e3q`):**
+
+`SM-S9280`: Galaxy S24 Ultra
 
 ## Galaxy Note 系列
 
@@ -356,11 +368,11 @@
 
 **Galaxy Z Fold4 (`q4q`):**
 
-`SM-F9360`: Galaxy Z Fold4 5G
+`SM-F9360`: Galaxy Z Fold4
 
 **Galaxy Z Fold5 (`q5q`):**
 
-`SM-F9460`: Galaxy Z Fold5 5G
+`SM-F9460`: Galaxy Z Fold5
 
 **Galaxy Z Flip (`bloomq`):**
 
@@ -376,11 +388,11 @@
 
 **Galaxy Z Flip4 (`b4q`):**
 
-`SM-F7210`: Galaxy Z Flip4 5G
+`SM-F7210`: Galaxy Z Flip4
 
 **Galaxy Z Flip5 (`b5q`):**
 
-`SM-F7310`: Galaxy Z Flip5 5G
+`SM-F7310`: Galaxy Z Flip5
 
 ## Galaxy A 系列
 
@@ -517,6 +529,10 @@
 **Galaxy A54 5G (`a54x`):**
 
 `SM-A5460`: Galaxy A54 5G
+
+**Galaxy A55 5G (`a55x`):**
+
+`SM-A5560`: Galaxy A55 5G
 
 ## Galaxy F 系列
 
@@ -698,19 +714,19 @@
 
 **三星 W23 (`v4q`):**
 
-`SM-W9023`: 三星 W23 5G
+`SM-W9023`: 三星 W23
 
 **三星 W23 Flip (`e4q`):**
 
-`SM-W7023`: 三星 W23 Flip 5G
+`SM-W7023`: 三星 W23 Flip
 
 **三星 W24 (`v5q`):**
 
-`SM-W9024`: 三星 W24 5G
+`SM-W9024`: 三星 W24
 
 **三星 W24 Flip (`e5q`):**
 
-`SM-W7024`: 三星 W24 Flip 5G
+`SM-W7024`: 三星 W24 Flip
 
 ## 三星其他手机系列
 
