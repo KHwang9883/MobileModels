@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-01-23
+- `vivo_global_en` Add several new models.
 ## 2024-01-11
 - `xiaomi_en` Add POCO M6 Pro, Redmi Note 13 Pro 4G.
 ## 2024-01-03

@@ -179,6 +179,14 @@
 
 `V2314`: vivo V30 Lite
 
+**vivo V30 SE:**
+
+`V2349`: vivo V30 SE
+
+**vivo V40 SE:**
+
+`V2337`: vivo V40 SE 5G
+
 **vivo S1:**
 
 `vivo 1907`: vivo S1
@@ -495,6 +503,10 @@
 
 `V2307`: vivo Y200 5G
 
+**vivo Y200e:**
+
+`V2336`: vivo Y200e 5G
+
 ## iQOO Smartphones
 
 **iQOO 3:**
@@ -542,6 +554,14 @@
 **iQOO Neo7 Pro:**
 
 `I2217`: iQOO Neo7 Pro 5G
+
+**iQOO Neo9:**
+
+`I2303`: iQOO Neo9
+
+**iQOO Neo9 Pro:**
+
+`I2304`: iQOO Neo9 Pro
 
 **iQOO Z3:**
 

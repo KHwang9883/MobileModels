@@ -5671,6 +5671,8 @@ V2244,mob,vivo,vivo,,,V29 Lite,#5G
 V2318,mob,vivo,vivo,,,V30,#
 V2319,mob,vivo,vivo,,,V30 Pro,vivo Y30 Pro
 V2314,mob,vivo,vivo,,,V30 Lite,#
+V2349,mob,vivo,vivo,,,V30 SE,#
+V2337,mob,vivo,vivo,,,V40 SE,#5G
 vivo 1907,mob,vivo,vivo,,,S1,#
 V1937,mob,vivo,vivo,,,S1 Prime,#
 vivo 1920,mob,vivo,vivo,,,S1 Pro,#
@@ -5792,6 +5794,7 @@ V2244,mob,vivo,vivo,,,Y78,#5G
 V2239,mob,vivo,vivo,,,Y100,#5G
 V2222,mob,vivo,vivo,,,Y100A,#5G
 V2307,mob,vivo,vivo,,,Y200,#5G
+V2336,mob,vivo,vivo,,,Y200e,#5G
 I1927,mob,vivo,vivo,,,iQOO 3,#4G
 I1928,mob,vivo,vivo,,,iQOO 3,#5G
 I2009,mob,vivo,vivo,,,iQOO 7,#
@@ -5805,6 +5808,8 @@ I2220,mob,vivo,vivo,,,iQOO 12,#
 I2202,mob,vivo,vivo,,,iQOO Neo6,#
 I2214,mob,vivo,vivo,,,iQOO Neo7,#5G
 I2217,mob,vivo,vivo,,,iQOO Neo7 Pro,#5G
+I2303,mob,vivo,vivo,,,iQOO Neo9,#
+I2304,mob,vivo,vivo,,,iQOO Neo9 Pro,#
 I2011,mob,vivo,vivo,,,iQOO Z3,#5G
 I2018,mob,vivo,vivo,,,iQOO Z5,#
 I2127,mob,vivo,vivo,,,iQOO Z6,#
