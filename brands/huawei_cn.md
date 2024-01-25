@@ -1097,6 +1097,8 @@
 
 `BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
 
+`BTK-AL00`: HUAWEI MatePad 11.5 英寸 2023 全网通版
+
 **HUAWEI MatePad 10.8 (`SchumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
