@@ -389,7 +389,7 @@
 
 **HUAWEI P50 Pocket (`Bali`):**
 
-`BAL-AL00`: HUAWEI P50 Pocket
+`BAL-AL00` `BAL-AL80`: HUAWEI P50 Pocket
 
 **HUAWEI P60 (`Leona`):**
 
@@ -1241,7 +1241,7 @@
 
 **华为擎云 C5e (`Agassi5Z`):**
 
-`AGS5Z-W09`: 华为擎云 C5e 10.4 英寸 2023 Wi-Fi 版
+`AGS5Z-W09` `AGS5Z-W19`: 华为擎云 C5e 10.4 英寸 2023 Wi-Fi 版
 
 `AGS5Z-AL00`: 华为擎云 C5e 10.4 英寸 2023 全网通版
 
@@ -1671,6 +1671,8 @@
 
 `NFZ-WFH9`: HUAWEI MateBook B3-430 i5 (16GB+512GB)
 
+`NFZ-WFH9D`: HUAWEI MateBook B3-430 i5 (16GB+1TB)
+
 `NFZ-WFE9`: HUAWEI MateBook B3-430 i7
 
 **HUAWEI MateBook B3-510 (`BohrBZ`):**
@@ -1695,21 +1697,31 @@
 
 **HUAWEI MateBook B5-420 (`KelvinCZ`):**
 
-`KLCZ-WDH9`: HUAWEI MateBook B5-420
+`KLCZ-WDH9`: HUAWEI MateBook B5-420 i5
+
+`KLCZ-WDH9B`: HUAWEI MateBook B5-420 i5 独显
+
+`KLCZ-WFH9`: HUAWEI MateBook B5-420 i7
 
 **HUAWEI MateBook B5-430 (`KelvinDZ`):**
 
-`KLDZ-WDH9AQ`: HUAWEI MateBook B5-430 i5 (8GB+512GB)
+`KLVDZ-WDH9AQ`: HUAWEI MateBook B5-430 i5 (8GB+512GB)
 
-`KLDZ-WFH9A`: HUAWEI MateBook B5-430 i5 (16GB+512GB)
+`KLVDZ-WFH9`: HUAWEI MateBook B5-430 i5 (16GB+512GB)
 
-`KLDZ-WFE9A`: HUAWEI MateBook B5-430 i7
+`KLVDZ-WFH9B`: HUAWEI MateBook B5-430 i5 独显 (16GB+512GB)
+
+`KLVDZ-WFE9`: HUAWEI MateBook B5-430 i7
 
 **HUAWEI MateBook B5-440 (`KelvinFZ`):**
 
-`KLVFZ-W56`: HUAWEI MateBook B5-440 i5
+`KLVFZ-W56`: HUAWEI MateBook B5-440 i5 (16GB+512GB)
 
-`KLVFZ-W76`: HUAWEI MateBook B5-440 i7
+`KLVFZ-006`: HUAWEI MateBook B5-440 i5 (16GB+1TB)
+
+`KLVFZ-W76`: HUAWEI MateBook B5-440 i7 (16GB+512GB)
+
+`KLVFZ-001`: HUAWEI MateBook B5-440 i7 (16GB+1TB)
 
 **HUAWEI MateBook B7-410 (`MachDZ`):**
 
@@ -1725,9 +1737,11 @@
 
 **HUAWEI MateBook B7-420 (`MorganFZ`):**
 
-`MRGF-5651`: HUAWEI MateBook B7-420 i5
+`MRGFZ-5651`: HUAWEI MateBook B7-420 i5 (16GB+512GB)
 
-`MRGF-7651`: HUAWEI MateBook B7-420 i7
+`MRGFZ-7651`: HUAWEI MateBook B7-420 i7 (16GB+512GB)
+
+`MRGFZ-W7611`: HUAWEI MateBook B7-420 i7 (16GB+1TB)
 
 **华为擎云 S520 (`YutuFZ`):**
 
@@ -1735,11 +1749,33 @@
 
 `YTSFZ-7611T`: 华为擎云 S520 i7
 
+**华为擎云 S520 Gen2 (`YutuGZ`):**
+
+`YTSGZ-5651TP`: 华为擎云 S520 Gen2 i5 (16GB+512GB)
+
+`YTSGZ-7611TP`: 华为擎云 S520 Gen2 i7 (16GB+1TB)
+
 **华为擎云 S540 (`YutuFZ`):**
 
-`YTFZ-5651SP`: 华为擎云 S540 i5
+`YTFZ-5851S`: 华为擎云 S540 i5 (U15) (8GB+512GB)
 
-`YTFZ-7651SP`: 华为擎云 S540 i7
+`YTFZ-5851SP`: 华为擎云 S540 i5 (P28) (8GB+512GB)
+
+`YTFZ-5651S`: 华为擎云 S540 i5 (U15) (16GB+512GB)
+
+`YTFZ-5651SP`: 华为擎云 S540 i5 (P28) (16GB+512GB)
+
+`YTFZ-7651S`: 华为擎云 S540 i7 (U15) (16GB+512GB)
+
+`YTFZ-7651SP`: 华为擎云 S540 i7 (P28) (16GB+512GB)
+
+**华为擎云 G740 (`KelvinG`):**
+
+`KLVG-16Z3-xxx`: 华为擎云 G740 i5 (16GB+512GB)
+
+`KLVG-16Z2-xxx`: 华为擎云 G740 i5 (16GB+1TB)
+
+`KLVG-16Z1-xxx`: 华为擎云 G740 i7 (16GB+1TB)
 
 **华为擎云 L410 (`KelvinU`):**
 
@@ -2057,6 +2093,38 @@
 
 `SGA-B19`: HUAWEI WATCH Buds
 
+**HUAWEI WATCH B5 (`Milo`):**
+
+`MIL-B29B`: HUAWEI WATCH B5-532
+
+**HUAWEI WATCH B5 (`Jupiter`):**
+
+`JPT-B29B`: HUAWEI WATCH B5-536
+
+**HUAWEI WATCH B5:**
+
+`ODN-B99`: HUAWEI WATCH B5-736
+
+**HUAWEI WATCH B7 (`Galileo`):**
+
+`GLL-AL30B`: HUAWEI WATCH B7-536
+
+**HUAWEI WATCH B7 (`GalileoPro`):**
+
+`GLL-AL09B`: HUAWEI WATCH B7-738
+
+**HUAWEI WATCH B9:**
+
+`MLY-B10`: HUAWEI WATCH B9-D10
+
+**华为擎云 H5546:**
+
+`PNX-B19B`: 华为擎云 H5546
+
+**华为擎云 H7546:**
+
+`ARC-AL2B`: 华为擎云 H7546
+
 **华为运动手环:**
 
 `ERS-B29`: 华为运动手环
@@ -2093,6 +2161,8 @@
 
 `FRA-B29`: 华为手环 6 NFC 版
 
+`FRA-B29B`: 华为手环 6 B20
+
 **华为手环 6 Pro:**
 
 `FRA-B39`: 华为手环 6 Pro
@@ -2128,6 +2198,10 @@
 **华为通话手环 B7 (`Fides`):**
 
 `FDS-B49`: 华为通话手环 B7
+
+**华为手环 BA-570:**
+
+`LEA-B29B`: 华为手环 BA-570
 
 **华为儿童手表 3 Pro (`Simba`):**
 

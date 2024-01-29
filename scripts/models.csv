@@ -2005,6 +2005,7 @@ JAD-AL80,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#骁龙 888
 JAD-AL50,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#麒麟 9000
 JAD-AL60,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#麒麟 9000
 BAL-AL00,mob,huawei,华为,,Bali,HUAWEI P50 Pocket,#
+BAL-AL80,mob,huawei,华为,,Bali,HUAWEI P50 Pocket,#
 LNA-AL00,mob,huawei,华为,,Leona,HUAWEI P60,#
 MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Pro,#
 MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Art,#
@@ -2312,6 +2313,7 @@ BZI-W20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 Wi-Fi 版
 BZI-AL00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 全网通版
 BZI-AL20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 全网通版
 AGS5Z-W09,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 2023 Wi-Fi 版
+AGS5Z-W19,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 2023 Wi-Fi 版
 AGS5Z-AL00,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 2023 全网通版
 DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,#10.95 英寸 2022 Wi-Fi 版
 DBY2Z-AL00,pad,huawei,华为,,Debussy2Z,华为擎云 C7,#11.5 英寸 2023 Wi-Fi 版
@@ -2473,6 +2475,7 @@ NDZ-WFH9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i5 (16GB+512GB
 NDZ-WFE9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i7
 NFZ-WDH9,computer,huawei,华为,,NobelFZ,HUAWEI MateBook B3-430,#i5 (8GB+512GB)
 NFZ-WFH9,computer,huawei,华为,,NobelFZ,HUAWEI MateBook B3-430,#i5 (16GB+512GB)
+NFZ-WFH9D,computer,huawei,华为,,NobelFZ,HUAWEI MateBook B3-430,#i5 (16GB+1TB)
 NFZ-WFE9,computer,huawei,华为,,NobelFZ,HUAWEI MateBook B3-430,#i7
 BBZ-WBH9,computer,huawei,华为,,BohrBZ,HUAWEI MateBook B3-510,#i5
 BBZ-WBE9,computer,huawei,华为,,BohrBZ,HUAWEI MateBook B3-510,#i7
@@ -2481,23 +2484,38 @@ BDZ-WFH9A,computer,huawei,华为,,BohrDZ,HUAWEI MateBook B3-520,#i5 (16GB+512GB)
 BDZ-WFE9A,computer,huawei,华为,,BohrDZ,HUAWEI MateBook B3-520,#i7
 WRTDZ-WFH9,computer,huawei,华为,,WrightDZ,HUAWEI MateBook B5-330,#i5
 WRTDZ-WFE9,computer,huawei,华为,,WrightDZ,HUAWEI MateBook B5-330,#i7
-KLCZ-WDH9,computer,huawei,华为,,KelvinCZ,HUAWEI MateBook B5-420,#
-KLDZ-WDH9AQ,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i5 (8GB+512GB)
-KLDZ-WFH9A,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i5 (16GB+512GB)
-KLDZ-WFE9A,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i7
-KLVFZ-W56,computer,huawei,华为,,KelvinFZ,HUAWEI MateBook B5-440,#i5
-KLVFZ-W76,computer,huawei,华为,,KelvinFZ,HUAWEI MateBook B5-440,#i7
+KLCZ-WDH9,computer,huawei,华为,,KelvinCZ,HUAWEI MateBook B5-420,#i5
+KLCZ-WDH9B,computer,huawei,华为,,KelvinCZ,HUAWEI MateBook B5-420,#i5 独显
+KLCZ-WFH9,computer,huawei,华为,,KelvinCZ,HUAWEI MateBook B5-420,#i7
+KLVDZ-WDH9AQ,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i5 (8GB+512GB)
+KLVDZ-WFH9,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i5 (16GB+512GB)
+KLVDZ-WFH9B,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i5 独显 (16GB+512GB)
+KLVDZ-WFE9,computer,huawei,华为,,KelvinDZ,HUAWEI MateBook B5-430,#i7
+KLVFZ-W56,computer,huawei,华为,,KelvinFZ,HUAWEI MateBook B5-440,#i5 (16GB+512GB)
+KLVFZ-006,computer,huawei,华为,,KelvinFZ,HUAWEI MateBook B5-440,#i5 (16GB+1TB)
+KLVFZ-W76,computer,huawei,华为,,KelvinFZ,HUAWEI MateBook B5-440,#i7 (16GB+512GB)
+KLVFZ-001,computer,huawei,华为,,KelvinFZ,HUAWEI MateBook B5-440,#i7 (16GB+1TB)
 MDZ-WDH9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i5 (8GB+512GB)
 MDZ-WDH9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i5 (8GB+256GB)
 MDZ-WFH9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i5 (16GB+512GB)
 MDZ-WFE9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+512GB)
 MDZ-WFE9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+1TB)
-MRGF-5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5
-MRGF-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7
+MRGFZ-5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5 (16GB+512GB)
+MRGFZ-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+512GB)
+MRGFZ-W7611,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+1TB)
 YTSFZ-5651TP,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i5
 YTSFZ-7611T,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i7
-YTFZ-5651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5
-YTFZ-7651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7
+YTSGZ-5651TP,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i5 (16GB+512GB)
+YTSGZ-7611TP,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i7 (16GB+1TB)
+YTFZ-5851S,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (U15) (8GB+512GB)
+YTFZ-5851SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (P28) (8GB+512GB)
+YTFZ-5651S,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (U15) (16GB+512GB)
+YTFZ-5651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (P28) (16GB+512GB)
+YTFZ-7651S,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7 (U15) (16GB+512GB)
+YTFZ-7651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7 (P28) (16GB+512GB)
+KLVG-16Z3-xxx,computer,huawei,华为,,KelvinG,华为擎云 G740,#i5 (16GB+512GB)
+KLVG-16Z2-xxx,computer,huawei,华为,,KelvinG,华为擎云 G740,#i5 (16GB+1TB)
+KLVG-16Z1-xxx,computer,huawei,华为,,KelvinG,华为擎云 G740,#i7 (16GB+1TB)
 KLVU-WDU0,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+256GB
 KLVU-WDU0B,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+512GB
 KLVV-W5821,computer,huawei,华为,,KelvinV,华为擎云 L420,#
@@ -2615,6 +2633,14 @@ YDA-B19V,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,#
 MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,#
 SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,#
+MIL-B29B,watch,huawei,华为,,Milo,HUAWEI WATCH B5,#532
+JPT-B29B,watch,huawei,华为,,Jupiter,HUAWEI WATCH B5,#536
+ODN-B99,watch,huawei,华为,,,HUAWEI WATCH B5,#736
+GLL-AL30B,watch,huawei,华为,,Galileo,HUAWEI WATCH B7,#536
+GLL-AL09B,watch,huawei,华为,,GalileoPro,HUAWEI WATCH B7,#738
+MLY-B10,watch,huawei,华为,,,HUAWEI WATCH B9,#D10
+PNX-B19B,watch,huawei,华为,,,华为擎云 H5546,#
+ARC-AL2B,watch,huawei,华为,,,华为擎云 H7546,#
 ERS-B29,band,huawei,华为,,,华为运动手环,#
 TER-B09,band,huawei,华为,,Terra,华为手环 3,#
 TER-B29,band,huawei,华为,,Terra,华为手环 3 Pro,#
@@ -2625,6 +2651,7 @@ AW70-B39,band,huawei,华为,,,华为手环 4e,#
 AW70-B49,band,huawei,华为,,,华为手环 4e,#活力版
 FRA-B19,band,huawei,华为,,,华为手环 6,#标准版
 FRA-B29,band,huawei,华为,,,华为手环 6,#NFC 版
+FRA-B29B,band,huawei,华为,,,华为手环 6,#B20
 FRA-B39,band,huawei,华为,,,华为手环 6 Pro,#
 LEA-B19,band,huawei,华为,,,华为手环 7,#标准版
 LEA-B29,band,huawei,华为,,,华为手环 7,#NFC 版
@@ -2635,6 +2662,7 @@ GRU-B09,band,huawei,华为,,,华为手环 B3 青春版,#
 JNS-BX9,band,huawei,华为,,Janus,华为手环 B5,#
 FDS-B19,band,huawei,华为,,Fides,华为手环 B6,#
 FDS-B49,band,huawei,华为,,Fides,华为通话手环 B7,#
+LEA-B29B,band,huawei,华为,,,华为手环 BA-570,#
 SIM-AL00,watch,huawei,华为,,Simba,华为儿童手表 3 Pro,#
 NEO-AL10,watch,huawei,华为,,Nemo,华为儿童手表 3s,#
 ALX-AL10,watch,huawei,华为,,Alex,华为儿童手表 3X,#
