@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-01-29
+- `realme_global_en` Add realme 12 Pro series.
 ## 2024-01-23
 - `realme_global_en` Add realme Note 50.
 - `vivo_global_en` Add several new models.
