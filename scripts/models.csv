@@ -4172,7 +4172,9 @@ CPH2573,mob,oneplus,一加,,waffle,OnePlus 12,#印度版
 CPH2581,mob,oneplus,一加,,waffle,OnePlus 12,#欧洲版/国际版
 CPH2583,mob,oneplus,一加,,waffle,OnePlus 12,#北美版
 PJE110,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,#全网通版
-CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版
+CPH2585,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版
+CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版/国际版
+CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -4198,8 +4200,8 @@ BE2015,mob,oneplus,一加,,bengal,OnePlus Nord N100,#Metro 版
 GN2200,mob,oneplus,一加,,,OnePlus Nord N20,#
 CPH2459,mob,oneplus,一加,,,OnePlus Nord N20,#
 CPH2469,mob,oneplus,一加,,,OnePlus Nord N20 SE,#20 SE
-CPH2513,mob,oneplus,一加,,,OnePlus Nord N30,#
-CPH2515,mob,oneplus,一加,,,OnePlus Nord N30,#
+CPH2513,mob,oneplus,一加,,,OnePlus Nord N30,#北美版
+CPH2515,mob,oneplus,一加,,,OnePlus Nord N30,#T-Mobile 版
 CPH2605,mob,oneplus,一加,,fanli,OnePlus Nord N30 SE,#欧洲版
 DE2117,mob,oneplus,一加,,dre9,OnePlus Nord N200,#北美版
 DE2118,mob,oneplus,一加,,dre8t,OnePlus Nord N200,#T-Mobile 版
@@ -4307,7 +4309,9 @@ CPH2573,mob,oneplus,OnePlus,,waffle,OnePlus 12,#India
 CPH2581,mob,oneplus,OnePlus,,waffle,OnePlus 12,#EU / Global
 CPH2583,mob,oneplus,OnePlus,,waffle,OnePlus 12,#North America
 PJE110,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,#China
-CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India
+CPH2585,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India
+CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#EU / Global
+CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
@@ -4333,8 +4337,8 @@ BE2015,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#Metro
 GN2200,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
 CPH2459,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
 CPH2469,mob,oneplus,OnePlus,,,OnePlus Nord N20 SE,#20 SE
-CPH2513,mob,oneplus,OnePlus,,,OnePlus Nord N30,#
-CPH2515,mob,oneplus,OnePlus,,,OnePlus Nord N30,#
+CPH2513,mob,oneplus,OnePlus,,,OnePlus Nord N30,#North America
+CPH2515,mob,oneplus,OnePlus,,,OnePlus Nord N30,#T-Mobile
 CPH2605,mob,oneplus,OnePlus,,fanli,OnePlus Nord N30 SE,#EU
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,#North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,#T-Mobile

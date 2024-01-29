@@ -284,7 +284,11 @@
 
 `PJE110`: OnePlus Ace 3 全网通版
 
-`CPH2611`: OnePlus 12R 印度版
+`CPH2585`: OnePlus 12R 印度版
+
+`CPH2609`: OnePlus 12R 欧洲版/国际版
+
+`CPH2611`: OnePlus 12R 北美版
 
 **OnePlus Nord (`avicii`):**
 
@@ -362,7 +366,9 @@
 
 **OnePlus Nord N30:**
 
-`CPH2513` `CPH2515`: OnePlus Nord N30
+`CPH2513`: OnePlus Nord N30 北美版
+
+`CPH2515`: OnePlus Nord N30 T-Mobile 版
 
 **OnePlus Nord N30 SE (`fanli`):**
 
