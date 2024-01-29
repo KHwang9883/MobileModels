@@ -279,7 +279,11 @@
 
 `PJE110`: OnePlus Ace 3 China
 
-`CPH2611`: OnePlus 12R India
+`CPH2585`: OnePlus 12R India
+
+`CPH2609`: OnePlus 12R EU / Global
+
+`CPH2611`: OnePlus 12R North America
 
 **OnePlus Nord (`avicii`):**
 
@@ -357,7 +361,9 @@
 
 **OnePlus Nord N30:**
 
-`CPH2513` `CPH2515`: OnePlus Nord N30
+`CPH2513`: OnePlus Nord N30 North America
+
+`CPH2515`: OnePlus Nord N30 T-Mobile
 
 **OnePlus Nord N30 SE (`fanli`):**
 

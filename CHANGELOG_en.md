@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-01-30
+- `oneplus_en` Add OnePlus 12R Global variant.
 ## 2024-01-29
 - `realme_global_en` Add realme 12 Pro series.
 ## 2024-01-23
