@@ -82,11 +82,11 @@
 
 `VER-AN00`: 荣耀 Magic Vs2
 
-**荣耀 Magic6:**
+**荣耀 Magic6 (`Bvlgari`):**
 
 `BVL-AN00`: 荣耀 Magic6
 
-**荣耀 Magic6 Pro:**
+**荣耀 Magic6 Pro (`Bvlgari`):**
 
 `BVL-AN16`: 荣耀 Magic6 Pro
 
