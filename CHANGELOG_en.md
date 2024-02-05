@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-02-05
+- `honor_global_en` Add HONOR Pad 9.
 ## 2024-01-30
 - `oneplus_en` Add OnePlus 12R Global variant.
 ## 2024-01-29
