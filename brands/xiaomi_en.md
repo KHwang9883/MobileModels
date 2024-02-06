@@ -403,6 +403,12 @@
 
 `23116PN5BC`: Xiaomi 14 Pro China
 
+**[`N1`] Xiaomi 14 Ultra (`aurora`):**
+
+`24030PN60G`: Xiaomi 14 Ultra Global
+
+`24030PN60C`: Xiaomi 14 Ultra China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
