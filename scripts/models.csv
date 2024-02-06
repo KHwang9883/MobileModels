@@ -4645,6 +4645,7 @@ CPH2541,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G (Japan)
 CPH2521,mob,oppo,OPPO,,,OPPO Reno10 Pro+,#5G
 CPH2599,mob,oppo,OPPO,,,OPPO Reno11,#5G
 CPH2607,mob,oppo,OPPO,,,OPPO Reno11 Pro,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F,#5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
@@ -4778,8 +4779,8 @@ CPH2373,mob,oppo,OPPO,,,OPPO K10,#
 CPH2237,mob,oppo,OPPO,,,OPPO K10,#5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
-OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi Version
-OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,#LTE Version
+OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
+OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,#LTE
 OW19W6,watch,oppo,OPPO,,beluga,OPPO Watch,#41mm Wi-Fi
 OW19W8,watch,oppo,OPPO,,beluga,OPPO Watch,#46mm Wi-Fi
 OW19W12,watch,oppo,OPPO,,belugaxl,OPPO Watch,#46mm LTE

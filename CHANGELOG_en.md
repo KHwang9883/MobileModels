@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-02-06
+- `oppo_global_en` Add OPPO Reno11 F.
 ## 2024-02-05
 - `honor_global_en` Add HONOR Pad 9.
 - `vivo_global_en` Add several new models.

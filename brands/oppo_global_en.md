@@ -261,6 +261,10 @@
 
 `CPH2607`: OPPO Reno11 Pro 5G
 
+**OPPO Reno11 F:**
+
+`CPH2603`: OPPO Reno11 F 5G
+
 ## F series
 
 **OPPO F7:**
@@ -611,9 +615,9 @@
 
 **OPPO Pad Neo:**
 
-`OPD2302`: OPPO Pad Neo Wi-Fi Version
+`OPD2302`: OPPO Pad Neo Wi-Fi
 
-`OPD2303`: OPPO Pad Neo LTE Version
+`OPD2303`: OPPO Pad Neo LTE
 
 ## Watch series
 
