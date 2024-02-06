@@ -406,6 +406,12 @@
 
 `23116PN5BG`: Xiaomi 14 Pro 国际版
 
+**[`N1`] Xiaomi 14 Ultra (`aurora`):**
+
+`24030PN60C`: Xiaomi 14 Ultra 全网通版
+
+`24030PN60G`: Xiaomi 14 Ultra 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
