@@ -18,7 +18,7 @@
 | 荣耀 (HONOR) | ❌ | -- | [⏹](https://www.hihonor.com/global/opensource/) | -- | -- | • 缺少部分机型内核源码 |
 | 华为 (HUAWEI) | ❌ | -- | [⏹](https://consumer.huawei.com/en/opensource/) | ❌ | -- | • 官方已关闭解锁渠道<br/>• 部分机型未开源 |
 | HTC | [✅](https://www.htcdev.com/bootloader/) | 无<br/>（秒解） | [✅](https://www.htcdev.com/devcenter/downloads) | ✅ | ✅ | • 解锁需注册 HTCdev 账户<br/>• 提交后会在几分钟内将解锁文件发至邮箱 |
-| 联想 (Lenovo) | [✅](https://www.zui.com/iunlock) | 无<br/>（秒解） | ❌ | ⏹ | ⏹ | • 部分设备无需申请解锁文件<br/>• 申请解锁文件需登录联想账号<br/>• 提交后会在几分钟内将解锁文件发至邮箱<br/>• 解锁后若重新回锁，则不影响保修<br/>• 部分设备不允许回锁 |
+| 联想 (Lenovo) | [⏹](https://www.zui.com/iunlock) | 无<br/>（秒解） | ❌ | ⏹ | ⏹ | • 部分设备无需申请解锁文件<br/>• 申请解锁文件需登录联想账号<br/>• 提交后会在几分钟内将解锁文件发至邮箱<br/>• 解锁后若重新回锁，则不影响保修<br/>• 部分设备不允许回锁<br/>• 出厂 ZUI 15 系统的部分设备（如小新 Pad 2024）无法解锁 |
 | 乐视 (Letv) | ✅ | -- | ❌ | -- | -- | -- |
 | LG | [❌](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev) | -- | [✅](https://opensource.lge.com/index) | -- | ✅ | • 官方解锁渠道已随手机业务同步下线 |
 | 魅族 (MEIZU) | [❌](https://mroot.flyme.cn/) | -- | [⏹](https://github.com/meizuosc) | ❌ | -- | • 官方仅支持 root，root 后 OTA 功能失效<br/>• 仅少部分早期机型内核开源 |
