@@ -5716,7 +5716,9 @@ V2317,mob,vivo,vivo,,,V29e,#5G
 V2244,mob,vivo,vivo,,,V29 Lite,#5G
 V2318,mob,vivo,vivo,,,V30,#
 V2319,mob,vivo,vivo,,,V30 Pro,vivo Y30 Pro
-V2314,mob,vivo,vivo,,,V30 Lite,#
+V2342,mob,vivo,vivo,,,V30 Lite,#
+V2314,mob,vivo,vivo,,,V30 Lite,#5G
+V2327,mob,vivo,vivo,,,V30 Lite,#5G
 V2349,mob,vivo,vivo,,,V30 SE,#
 V2337,mob,vivo,vivo,,,V40 SE,#5G
 vivo 1907,mob,vivo,vivo,,,S1,#
@@ -5842,9 +5844,11 @@ V2142,mob,vivo,vivo,,,Y75,#5G
 V2124,mob,vivo,vivo,,,Y76,#5G
 V2169,mob,vivo,vivo,,,Y77,#5G
 V2244,mob,vivo,vivo,,,Y78,#5G
-V2239,mob,vivo,vivo,,,Y100,#5G
+V2239,mob,vivo,vivo,,,Y100,#
+V2342,mob,vivo,vivo,,,Y100,#
 V2222,mob,vivo,vivo,,,Y100A,#5G
 V2307,mob,vivo,vivo,,,Y200,#5G
+V2327,mob,vivo,vivo,,,Y200e,#5G
 V2336,mob,vivo,vivo,,,Y200e,#5G
 I1927,mob,vivo,vivo,,,iQOO 3,#4G
 I1928,mob,vivo,vivo,,,iQOO 3,#5G

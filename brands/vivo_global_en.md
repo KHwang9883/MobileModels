@@ -177,7 +177,9 @@
 
 **vivo V30 Lite:**
 
-`V2314`: vivo V30 Lite
+`V2342`: vivo V30 Lite
+
+`V2314` `V2327`: vivo V30 Lite 5G
 
 **vivo V30 SE:**
 
@@ -509,7 +511,7 @@
 
 **vivo Y100:**
 
-`V2239`: vivo Y100 5G
+`V2239` `V2342`: vivo Y100
 
 **vivo Y100A:**
 
@@ -521,7 +523,7 @@
 
 **vivo Y200e:**
 
-`V2336`: vivo Y200e 5G
+`V2327` `V2336`: vivo Y200e 5G
 
 ## iQOO Smartphones
 

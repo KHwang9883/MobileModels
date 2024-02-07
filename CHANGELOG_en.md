@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-02-07
+- `vivo_global_en` Add several new models.
 ## 2024-02-06
 - `oppo_global_en` Add OPPO Reno11 F.
 - `xiaomi_en` Add Xiaomi 14 Ultra.
