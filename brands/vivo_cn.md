@@ -618,9 +618,9 @@
 
 `V2313A`: vivo Y100 5G
 
-**vivo Y100 GT (`PD2314`):**
+**vivo Y100t (`PD2314`):**
 
-`V2314DA`: vivo Y100 GT 5G
+`V2314DA`: vivo Y100t 5G
 
 **vivo Y100i (`PD2279`):**
 

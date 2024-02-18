@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-02-18
+- `vivo_cn` 新增 vivo Y100t。
 ## 2024-02-06
 - `xiaomi` 新增 Xiaomi 14 Ultra。
 ## 2024-02-05
@@ -18,7 +20,7 @@
 ## 2024-01-20
 - `samsung_cn` 新增 Galaxy S24 系列。
 ## 2024-01-18
-- `vivo_cn` 新增 vivo G2, Y100 GT。
+- `vivo_cn` 新增 vivo G2。
 ## 2024-01-17
 - `oppo_cn` 新增 OPPO Find X7 Ultra 卫星通信版。
 ## 2024-01-11
