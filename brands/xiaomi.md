@@ -404,11 +404,9 @@
 
 `23116PN5BC`: Xiaomi 14 Pro 全网通版
 
-`23116PN5BG`: Xiaomi 14 Pro 国际版
-
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
 
-`24030PN60C`: Xiaomi 14 Ultra 全网通版
+`24031PN0DC`: Xiaomi 14 Ultra 全网通版
 
 `24030PN60G`: Xiaomi 14 Ultra 国际版
 
@@ -661,6 +659,12 @@
 **[`M80`] Xiaomi Pad 6 Max (`yudi`):**
 
 `2307BRPDCC`: Xiaomi Pad 6 Max 14
+
+**[`N81A`] Xiaomi Pad 6S Pro (`sheng`):**
+
+`24018RPACC`: Xiaomi Pad 6S Pro 12.4 国行版
+
+`24018RPACG`: Xiaomi Pad 6S Pro 12.4 国际版
 
 ## 红米 / Redmi 数字系列
 
