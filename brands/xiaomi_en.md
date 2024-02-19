@@ -399,15 +399,13 @@
 
 **[`N2`] Xiaomi 14 Pro (`shennong`):**
 
-`23116PN5BG`: Xiaomi 14 Pro Global
-
 `23116PN5BC`: Xiaomi 14 Pro China
 
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
 
 `24030PN60G`: Xiaomi 14 Ultra Global
 
-`24030PN60C`: Xiaomi 14 Ultra China
+`24031PN0DC`: Xiaomi 14 Ultra China
 
 **[`X5`] Mi Note (`virgo`):**
 
@@ -1932,6 +1930,12 @@
 **[`M80`] Xiaomi Pad 6 Max 14 (`yudi`):**
 
 `2307BRPDCC`: Xiaomi Pad 6 Max 14 China
+
+**[`N81A`] Xiaomi Pad 6S Pro 12.4 (`sheng`):**
+
+`24018RPACG`: Xiaomi Pad 6S Pro 12.4 Global
+
+`24018RPACC`: Xiaomi Pad 6S Pro 12.4 China
 
 **[`L83`] Redmi Pad (`yunluo`):**
 

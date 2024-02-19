@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-02-19
+- `xiaomi_en` Add Xiaomi Pad 6S Pro 12.4.
 ## 2024-02-07
 - `vivo_global_en` Add several new models.
 ## 2024-02-06
