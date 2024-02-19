@@ -22,6 +22,10 @@
 
 `M1805E2C`: 小米 8 SE 联通电信定制版 (未上市)
 
+**[`N2`] Xiaomi 14 Pro (`shennong`):**
+
+`23116PN5BG`: Xiaomi 14 Pro 国际版 (未上市)
+
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
