@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-02-22
 - `huawei_cn` 新增 HUAWEI Pocket 2, 华为畅享 70z。
+- `xiaomi` 新增 Xiaomi 14 Pro 钛合金卫星通讯版。
 ## 2024-02-19
 - `xiaomi` 新增 Xiaomi Pad 6S Pro 12.4。
 ## 2024-02-18
