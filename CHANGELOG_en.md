@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-02-22
+- `xiaomi_en` Add Xiaomi 14 Pro Ti Satellite Communication Edition.
 ## 2024-02-19
 - `xiaomi_en` Add Xiaomi Pad 6S Pro 12.4.
 ## 2024-02-07
