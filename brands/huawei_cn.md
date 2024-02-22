@@ -409,6 +409,10 @@
 
 `BAL-AL60`: HUAWEI Pocket S
 
+**HUAWEI Pocket 2:**
+
+`LEM-AL00`: HUAWEI Pocket 2
+
 ## HUAWEI nova 系列
 
 **HUAWEI nova (`Cannes`):**
@@ -613,7 +617,7 @@
 
 `GOA-AL80U`: HUAWEI nova 11 Ultra
 
-**HUAWEI nova 11 SE:**
+**HUAWEI nova 11 SE (`Bonnie`):**
 
 `BON-AL00`: HUAWEI nova 11 SE
 
@@ -928,6 +932,10 @@
 **华为畅享 70 Pro (`Cartier`):**
 
 `CTR-AL20`: 华为畅享 70 Pro
+
+**华为畅享 70z (`Mega`):**
+
+`MGA-AL40`: 华为畅享 70z
 
 ## 华为平板 M 系列
 

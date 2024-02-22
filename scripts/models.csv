@@ -2015,6 +2015,7 @@ LNA-AL00,mob,huawei,华为,,Leona,HUAWEI P60,#
 MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Pro,#
 MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Art,#
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,#
+LEM-AL00,mob,huawei,华为,,,HUAWEI Pocket 2,#
 HUAWEI CAZ-AL00,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通标配版
 HUAWEI CAZ-AL10,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通高配版
 HUAWEI CAZ-TL10,mob,huawei,华为,,Cannes,HUAWEI nova,#移动定制标配版
@@ -2084,7 +2085,7 @@ JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 10 青春版,#
 FOA-AL00,mob,huawei,华为,,Fiona,HUAWEI nova 11,#
 GOA-AL80,mob,huawei,华为,,Gloria,HUAWEI nova 11 Pro,#
 GOA-AL80U,mob,huawei,华为,,Gloria,HUAWEI nova 11 Ultra,#
-BON-AL00,mob,huawei,华为,,,HUAWEI nova 11 SE,#
+BON-AL00,mob,huawei,华为,,Bonnie,HUAWEI nova 11 SE,#
 BLK-AL00,mob,huawei,华为,,,HUAWEI nova 12,#
 FIN-AL60,mob,huawei,华为,,Fiona+,HUAWEI nova 12 活力版,#
 ADA-AL00,mob,huawei,华为,,Adela,HUAWEI nova 12 Pro,#
@@ -2197,6 +2198,7 @@ STG-AL00,mob,huawei,华为,,Santiago,华为畅享 60X,#
 MAO-AL00,mob,huawei,华为,,Mario,华为畅享 60 Pro,#
 FGD-AL00,mob,huawei,华为,,,华为畅享 70,#
 CTR-AL20,mob,huawei,华为,,Cartier,华为畅享 70 Pro,#
+MGA-AL40,mob,huawei,华为,,Mega,华为畅享 70z,#
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版

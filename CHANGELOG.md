@@ -1,6 +1,8 @@
 # 更新日志
+## 2024-02-22
+- `huawei_cn` 新增 HUAWEI Pocket 2, 华为畅享 70z。
 ## 2024-02-19
-- `xiaomi_cn` 新增 Xiaomi Pad 6S Pro 12.4。
+- `xiaomi` 新增 Xiaomi Pad 6S Pro 12.4。
 ## 2024-02-18
 - `vivo_cn` 新增 vivo Y100t。
 ## 2024-02-06
