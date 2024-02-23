@@ -404,7 +404,7 @@
 
 `23116PN5BC`: Xiaomi 14 Pro 全网通版
 
-`2311BPN23C`: Xiaomi 14 Pro 钛合金卫星通讯版
+`2311BPN23C`: Xiaomi 14 Pro 钛金属卫星通讯版
 
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
 
