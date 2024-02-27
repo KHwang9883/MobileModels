@@ -568,25 +568,29 @@
 
 `OPD2301`: OPPO Pad Air2
 
-## Watch 系列
+## Watch/Band 系列
 
-**OPPO Watch:**
+**OPPO Band:**
 
-`OW19W1`: OPPO Watch 46mm
+`OB19B1`: OPPO Band 标准版 / 名侦探柯南限定版
 
-`OW19W2`: OPPO Watch 41mm
+`OB19B3`: OPPO Band NFC 版
 
-`OW19W3`: OPPO Watch ECG/精钢版
+`OB19O0`: OPPO Band 时尚版
 
-**OPPO Watch 2:**
+`OB19O1`: OPPO Band 运动版
 
-`OWW202`: OPPO Watch 2 42mm 蓝牙版
+`OB19O2`: OPPO Band EVA 限定版
 
-`OW20W1`: OPPO Watch 2 46mm eSIM 版
+**OPPO Band 2 (`haisenberg`):**
 
-`OW20W2`: OPPO Watch 2 42mm eSIM 版
+`OBB211`: OPPO Band 2 标准版
 
-`OW20W3`: OPPO Watch 2 46mm ECG
+`OBB213`: OPPO Band 2 NFC 版
+
+**OPPO Watch RX:**
+
+`OR19R1`: OPPO Watch RX / 英雄联盟限定版
 
 **OPPO Watch Free:**
 
@@ -594,18 +598,36 @@
 
 `OWW208`: OPPO Watch Free NFC 版
 
+**OPPO Watch:**
+
+`OW19W1`: OPPO Watch 46mm / EVA 限定版 / 故宫新禧版
+
+`OW19W2`: OPPO Watch 41mm
+
+`OW19W3`: OPPO Watch ECG / 精钢版
+
+**OPPO Watch 2 (`maxwell`):**
+
+`OWW202`: OPPO Watch 2 42mm 蓝牙版
+
+`OW20W1`: OPPO Watch 2 46mm eSIM 版 / 李宁限定版
+
+`OW20W2`: OPPO Watch 2 42mm eSIM 版 / 名侦探柯南限定版
+
+`OW20W3`: OPPO Watch 2 46mm ECG
+
 **OPPO Watch 3:**
 
 `OWW212`: OPPO Watch 3
 
 `OWW211`: OPPO Watch 3 Pro
 
-`OWW213`: OPPO Watch 3 SE
+`OWW213`: OPPO Watch SE
 
 **OPPO Watch 4 Pro (`comet`):**
 
 `OWW221`: OPPO Watch 4 Pro
 
-**OPPO Watch 4 Round (`star`):**
+**OPPO Watch X (`star`):**
 
-`OWW231`: OPPO Watch 4 Round
+`OWW231`: OPPO Watch X
