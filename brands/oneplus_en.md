@@ -381,6 +381,8 @@
 
 `CPH2389`: OnePlus Nord N300
 
+## OnePlus Pads/Foldable Phones
+
 **OnePlus Open (`hedwig`):**
 
 `CPH2551`: OnePlus Open
@@ -394,3 +396,25 @@
 `OPD2304`: OnePlus Pad Go LTE
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
+
+## OnePlus Watches/Bands
+
+**OnePlus Band:**
+
+`W101IN`: OnePlus Band India
+
+**OnePlus Nord Watch:**
+
+`OPBBE221`: OnePlus Nord Watch Global
+
+**OnePlus Watch:**
+
+`W301CN`: OnePlus Watch China / Cyberpunk 2077 Limited Edition
+
+`W501CN`: OnePlus Watch Cobalt Limited Edition (China)
+
+`W301GB`: OnePlus Watch Global / Cobalt Limited Edition (Global)
+
+**OnePlus Watch 2 (`almond`):**
+
+`OPWWE231`: OnePlus Watch 2 Global
