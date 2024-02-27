@@ -386,6 +386,8 @@
 
 `CPH2389`: OnePlus Nord N300
 
+## 一加平板/折叠屏
+
 **OnePlus Open (`hedwig`):**
 
 `CPH2551`: OnePlus Open
@@ -399,3 +401,25 @@
 `OPD2304`: OnePlus Pad Go LTE
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
+
+## 一加手表/手环
+
+**OnePlus Band:**
+
+`W101IN`: OnePlus Band 印度版
+
+**OnePlus Nord Watch:**
+
+`OPBBE221`: OnePlus Nord Watch 国际版
+
+**OnePlus Watch:**
+
+`W301CN`: OnePlus Watch 国行版 / Cyberpunk 2077 限定版
+
+`W501CN`: OnePlus Watch 钴合金限定版(国行)
+
+`W301GB`: OnePlus Watch 国际版 / 钴合金限定版(国际)
+
+**OnePlus Watch 2 (`almond`):**
+
+`OPWWE231`: OnePlus Watch 2 国际版

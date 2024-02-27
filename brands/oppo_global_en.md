@@ -619,7 +619,19 @@
 
 `OPD2303`: OPPO Pad Neo LTE
 
-## Watch series
+## Watch/Band series
+
+**OPPO Band:**
+
+`OB19B1`: OPPO Band / Style
+
+**OPPO Band 2:**
+
+`OBBE215`: OPPO Band 2 Japan
+
+**OPPO Watch Free:**
+
+`OWWE201`: OPPO Watch Free
 
 **OPPO Watch (`beluga`):**
 
@@ -631,6 +643,6 @@
 
 `OW19W12`: OPPO Watch 46mm LTE
 
-**OPPO Watch Free:**
+**OPPO Watch X:**
 
-`OWWE201`: OPPO Watch Free
+`OWWE231`: OPPO Watch X
