@@ -161,7 +161,7 @@
 
 **MEIZU 16th Plus (`m1892`):**
 
-`M892Q`: MEIZU 16th Plus China
+`M892Q`: MEIZU 16th Plus
 
 **MEIZU 16 (`m1872`):**
 
@@ -183,11 +183,11 @@
 
 **MEIZU 16s Pro (`m1973`):**
 
-`M973Q`: MEIZU 16s Pro China
+`M973Q`: MEIZU 16s Pro
 
 **MEIZU 16T (`m1928`):**
 
-`M928Q`: MEIZU 16T China
+`M928Q`: MEIZU 16T
 
 **MEIZU 17 (`m2081`):**
 
@@ -235,7 +235,13 @@
 
 **MEIZU 21 (`m2461`):**
 
-`M461Q`: MEIZU 21
+`M461Q`: MEIZU 21 China
+
+`M461H`: MEIZU 21 Global
+
+**MEIZU 21 PRO (`m2481`):**
+
+`M481Q`: MEIZU 21 PRO
 
 **MEIZU m1 note (`m71`):**
 
@@ -502,3 +508,9 @@
 **MEIZU C9 Pro (`m1819`):**
 
 `M819H`: MEIZU C9 Pro Global
+
+## Polestar Phones
+
+**Polestar Phone (`m2481`):**
+
+`M481S`: Polestar Phone

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-02-29
+- `meizu_en` Add MEIZU 21 PRO, Polestar Phone.
 ## 2024-02-22
 - `xiaomi_en` Add Xiaomi 14 Pro Ti Satellite Communication Edition.
 ## 2024-02-19
