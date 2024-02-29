@@ -179,6 +179,10 @@
 
 `RMX3741`: realme 11 Pro+ 5G
 
+**realme 12+ 5G:**
+
+`RMX3867`: realme 12+ 5G
+
 **realme 12 Pro 5G:**
 
 `RMX3842`: realme 12 Pro 5G
