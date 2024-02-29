@@ -190,6 +190,14 @@
 
 `V2324A`: vivo X100 Pro
 
+**vivo X Fold3 (`PD2303`):**
+
+`V2303A`: vivo X Fold3
+
+**vivo X Fold3 Pro (`PD2337`):**
+
+`V2337A`: vivo X Fold3 Pro
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -993,3 +1001,7 @@
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
+
+**iQOO Pad Air (`DPD2305`):**
+
+`iPA2451`: iQOO Pad Air

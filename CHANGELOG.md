@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-02-29
+- `vivo_cn` 新增 vivo X Fold3 系列, iQOO Pad Air。
 ## 2024-02-22
 - `huawei_cn` 新增 HUAWEI Pocket 2, 华为畅享 70z。
 - `xiaomi` 新增 Xiaomi 14 Pro 钛金属卫星通讯版。
