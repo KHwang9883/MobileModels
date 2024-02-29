@@ -261,9 +261,9 @@
 
 `CPH2607`: OPPO Reno11 Pro 5G
 
-**OPPO Reno11 F:**
+**OPPO Reno11 F / OPPO Reno11 A:**
 
-`CPH2603`: OPPO Reno11 F 5G
+`CPH2603`: OPPO Reno11 F 5G / OPPO Reno11 A
 
 ## F series
 
@@ -332,6 +332,10 @@
 `CPH2481`: OPPO F23
 
 `CPH2527`: OPPO F23 5G
+
+**OPPO F25 Pro:**
+
+`CPH2603`: OPPO F25 Pro 5G
 
 ## R series
 

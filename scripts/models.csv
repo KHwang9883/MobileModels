@@ -4673,7 +4673,8 @@ CPH2541,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G (Japan)
 CPH2521,mob,oppo,OPPO,,,OPPO Reno10 Pro+,#5G
 CPH2599,mob,oppo,OPPO,,,OPPO Reno11,#5G
 CPH2607,mob,oppo,OPPO,,,OPPO Reno11 Pro,#5G
-CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,1#
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
@@ -4699,6 +4700,7 @@ CPH2461,mob,oppo,OPPO,,,OPPO F21s Pro,#
 CPH2455,mob,oppo,OPPO,,,OPPO F21s Pro,#5G
 CPH2481,mob,oppo,OPPO,,,OPPO F23,#
 CPH2527,mob,oppo,OPPO,,,OPPO F23,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO F25 Pro,#5G
 CPH1835,mob,oppo,OPPO,,,OPPO R15,#
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,#
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,#
