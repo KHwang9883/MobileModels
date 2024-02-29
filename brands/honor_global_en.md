@@ -219,7 +219,7 @@
 
 `ANY-NX1`: HONOR Magic4 Lite 5G
 
-**HONOR Magic Vs:**
+**HONOR Magic Vs (`Ferrari`):**
 
 `FRI-NX9`: HONOR Magic Vs
 
@@ -234,6 +234,26 @@
 **HONOR Magic5 Lite 5G (`Rambo`):**
 
 `RMO-NX1` `RMO-NX3`: HONOR Magic5 Lite 5G
+
+**HONOR Magic V2:**
+
+`VER-N49`: HONOR Magic V2
+
+**PORSCHE DESIGN HONOR Magic V2 RSR:**
+
+`VER-N49DP`: PORSCHE DESIGN HONOR Magic V2 RSR
+
+**HONOR Magic6 (`Bvlgari`):**
+
+`BVL-N09`: HONOR Magic6 5G
+
+**HONOR Magic6 Pro (`Bvlgari`):**
+
+`BVL-N49`: HONOR Magic6 Pro 5G
+
+**PORSCHE DESIGN HONOR Magic6 RSR:**
+
+`BVL-N59`: PORSCHE DESIGN HONOR Magic6 RSR
 
 **HONOR Magic6 Lite 5G (`Ali`):**
 

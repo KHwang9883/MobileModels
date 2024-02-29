@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2024-02-29
+- `honor_global_en` Add HONOR Magic6 Pro.
 - `meizu_en` Add MEIZU 21 PRO, Polestar Phone.
 - `oppo_global_en` Add OPPO F25 Pro 5G.
 - `realme_global_en` Add realme 12+ 5G.
