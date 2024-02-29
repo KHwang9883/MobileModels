@@ -401,7 +401,7 @@
 
 `23116PN5BC`: Xiaomi 14 Pro China
 
-`2311BPN23C`: Xiaomi 14 Pro Ti Satellite Communication Edition China
+`2311BPN23C`: Xiaomi 14 Pro Ti Satellite China
 
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
 
