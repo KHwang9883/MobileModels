@@ -46,11 +46,11 @@
 
 `LGE-AN20`: 荣耀 Magic4 至臻版
 
-**荣耀 Magic Vs:**
+**荣耀 Magic Vs (`Ferrari`):**
 
 `FRI-AN00`: 荣耀 Magic Vs
 
-**荣耀 Magic Vs 至臻版:**
+**荣耀 Magic Vs 至臻版 (`Ferrari`):**
 
 `FRI-AN10`: 荣耀 Magic Vs 至臻版
 
