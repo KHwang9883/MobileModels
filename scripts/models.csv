@@ -3280,7 +3280,9 @@ M381Q,mob,meizu,魅族,,m2381,魅族 20|魅族 20 Classic,#
 M381Q,mob,meizu,魅族,,m2381,魅族 20|魅族 20 Classic,1#
 M391Q,mob,meizu,魅族,,m2391,魅族 20 PRO,#
 M392Q,mob,meizu,魅族,,m2392,魅族 20 INFINITY 无界版,#
-M461Q,mob,meizu,魅族,,m2461,魅族 21,#
+M461Q,mob,meizu,魅族,,m2461,魅族 21,#公开版
+M461H,mob,meizu,魅族,,m2461,魅族 21,#国际版
+M481Q,mob,meizu,魅族,,m2481,魅族 21 PRO,#
 M852Q,mob,meizu,魅族,,m1852,魅族 X8,#公开版
 M852H,mob,meizu,魅族,,m1852,魅族 X8,#国际版
 M813Q,mob,meizu,魅族,,m1813,魅族 V8 高配版,#
@@ -3387,6 +3389,7 @@ M57AU,mob,meizu,魅族,,ma01,魅蓝 metal,#联通版
 M57AC,mob,meizu,魅族,,ma01,魅蓝 metal,#电信版
 M710M,mob,meizu,魅族,,m1710,魅蓝 A5,#移动定制版
 M710H,mob,meizu,魅族,,m1710,魅蓝 A5,魅族 M5c 国际版
+M481S,mob,meizu,魅族,,m2481,Polestar Phone,#
 M8,mob,meizu,MEIZU,,,MEIZU M8,#
 M8SE,mob,meizu,MEIZU,,,MEIZU M8,#SE
 M9,mob,meizu,MEIZU,,,MEIZU M9,#
@@ -3443,15 +3446,15 @@ M871H,mob,meizu,MEIZU,,m1871,MEIZU 15 Lite,#Global
 M871Q,mob,meizu,MEIZU,,m1871,MEIZU 15 Lite,#M15 China
 M882H,mob,meizu,MEIZU,,m1882,MEIZU 16th,#Global
 M882Q,mob,meizu,MEIZU,,m1882,MEIZU 16th,#China
-M892Q,mob,meizu,MEIZU,,m1892,MEIZU 16th Plus,#China
+M892Q,mob,meizu,MEIZU,,m1892,MEIZU 16th Plus,#
 M872H,mob,meizu,MEIZU,,m1872,MEIZU 16,#Global
 M872Q,mob,meizu,MEIZU,,m1872,MEIZU 16,#X China
 M971H,mob,meizu,MEIZU,,m1971,MEIZU 16s,#Global
 M971Q,mob,meizu,MEIZU,,m1971,MEIZU 16s,#China
 M926H,mob,meizu,MEIZU,,m1926,MEIZU 16Xs,#Global
 M926Q,mob,meizu,MEIZU,,m1926,MEIZU 16Xs,#China
-M973Q,mob,meizu,MEIZU,,m1973,MEIZU 16s Pro,#China
-M928Q,mob,meizu,MEIZU,,m1928,MEIZU 16T,#China
+M973Q,mob,meizu,MEIZU,,m1973,MEIZU 16s Pro,#
+M928Q,mob,meizu,MEIZU,,m1928,MEIZU 16T,#
 M081Q,mob,meizu,MEIZU,,m2081,MEIZU 17,#China
 M081M,mob,meizu,MEIZU,,m2081,MEIZU 17,#Carrier version
 M091Q,mob,meizu,MEIZU,,m2091,MEIZU 17 Pro,#China
@@ -3465,7 +3468,9 @@ M381Q,mob,meizu,MEIZU,,m2381,MEIZU 20|MEIZU 20 Classic,#
 M381Q,mob,meizu,MEIZU,,m2381,MEIZU 20|MEIZU 20 Classic,1#
 M391Q,mob,meizu,MEIZU,,m2391,MEIZU 20 PRO,#
 M392Q,mob,meizu,MEIZU,,m2392,MEIZU 20 INFINITY,#
-M461Q,mob,meizu,MEIZU,,m2461,MEIZU 21,#
+M461Q,mob,meizu,MEIZU,,m2461,MEIZU 21,#China
+M461H,mob,meizu,MEIZU,,m2461,MEIZU 21,#Global
+M481Q,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,#
 M463H,mob,meizu,MEIZU,,m71,MEIZU m1 note,#Global
 M463M,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Mobile
 M463U,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Unicom
@@ -3572,6 +3577,7 @@ U685M,mob,meizu,MEIZU,,u15,MEIZU U20,#China Mobile
 U685C,mob,meizu,MEIZU,,u15,MEIZU U20,#China Telecom
 M818H,mob,meizu,MEIZU,,m1818,MEIZU C9,#Global
 M819H,mob,meizu,MEIZU,,m1819,MEIZU C9 Pro,#Global
+M481S,mob,meizu,MEIZU,,m2481,Polestar Phone,#
 L47M1-AA,tv,mitv,小米,,,小米电视,#47 英寸
 L40M2-AA,tv,mitv,小米,,,小米电视 2,#40 英寸
 L49M2-AA,tv,mitv,小米,,,小米电视 2,#49 英寸
