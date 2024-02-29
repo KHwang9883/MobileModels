@@ -5531,8 +5531,8 @@ V2068A,mob,vivo,vivo,,PD2068,Y31s 标准版,#5G
 V2068A,mob,vivo,vivo,,PD2068,Y31s (t1 版),#5G
 V2054A,mob,vivo,vivo,,PD2092,Y31s (t2 版),#5G
 V2158A,mob,vivo,vivo,,PD2158,Y32,#
-V2168A,mob,vivo,vivo,,PD2168,Y32t,#8GB+128GB
-V2180A,mob,vivo,vivo,,PD2180,Y32t,#8GB+256GB
+V2168A,mob,vivo,vivo,,PD2168,Y32t,#P70
+V2180A,mob,vivo,vivo,,PD2180,Y32t,#骁龙 680
 V2166A,mob,vivo,vivo,,PD2166,Y33s,#5G
 V2166A,mob,vivo,vivo,,PD2166,Y33e,#5G
 V2317A,mob,vivo,vivo,,PD2317,Y33t,#
@@ -5676,6 +5676,7 @@ V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
 V2148A,mob,vivo,vivo,,PD2148,iQOO Z5,#
 V2131A,mob,vivo,vivo,,PD2131,iQOO Z5x,#
 V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#
+V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#活力版
 V2164KA,mob,vivo,vivo,,PD2164U,iQOO Z6x,#
 V2270A,mob,vivo,vivo,,PD2270,iQOO Z7,#
 V2272A,mob,vivo,vivo,,PD2272,iQOO Z7x,#

@@ -418,11 +418,11 @@
 
 **vivo Y32t (`PD2168`):**
 
-`V2168A`: vivo Y32t (8GB+128GB)
+`V2168A`: vivo Y32t (P70)
 
 **vivo Y32t (`PD2180`):**
 
-`V2180A`: vivo Y32t (8GB+256GB)
+`V2180A`: vivo Y32t (骁龙 680)
 
 **vivo Y33s (`PD2166`):**
 
@@ -924,7 +924,7 @@
 
 **iQOO Z6 (`PD2220`):**
 
-`V2220A`: iQOO Z6
+`V2220A`: iQOO Z6 / iQOO Z6 活力版
 
 **iQOO Z6x (`PD2164U`):**
 
