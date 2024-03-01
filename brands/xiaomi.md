@@ -1752,6 +1752,14 @@
 
 `23028RNCAH` `23028RNCAI`: Redmi A2+ 印度版
 
+**Redmi A3 (`blue`):**
+
+`23129RN51X`: Redmi A3 国际版
+
+`23129RN51H`: Redmi A3 印度版
+
+`2312CRNCCL`: Redmi A3 拉美版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -1985,6 +1993,10 @@
 `22127PC95G`: POCO C55 国际版
 
 `22127PC95H` `22127PC95I`: POCO C55 印度版
+
+**POCO C61 (`blue`):**
+
+`2312BPC51H`: POCO C61 印度版
 
 **[`C3UP`] POCO C65 (`gust`):**
 

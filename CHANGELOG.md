@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-03-01
+- `xiaomi` 新增 Redmi A3, POCO C61。
 ## 2024-02-29
 - `meizu` 新增 魅族 21 PRO, 极星手机。
 - `vivo_cn` 新增 vivo X Fold3 系列, iQOO Pad Air。
