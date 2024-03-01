@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-03-01
+- `xiaomi_en` Add Redmi A3, POCO C61.
 ## 2024-02-29
 - `honor_global_en` Add HONOR Magic6 Pro.
 - `meizu_en` Add MEIZU 21 PRO, Polestar Phone.

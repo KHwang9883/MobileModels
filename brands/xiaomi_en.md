@@ -1649,6 +1649,14 @@
 
 `23028RNCAH` `23028RNCAI`: Redmi A2+ India
 
+**Redmi A3 (`blue`):**
+
+`23129RN51X`: Redmi A3 Global
+
+`23129RN51H`: Redmi A3 India
+
+`2312CRNCCL`: Redmi A3 Latin America
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -1866,6 +1874,10 @@
 `22127PC95G`: POCO C55 Global
 
 `22127PC95H` `22127PC95I`: POCO C55 India
+
+**POCO C61 (`blue`):**
+
+`2312BPC51H`: POCO C61 India
 
 **[`C3UP`] POCO C65 (`gust`):**
 
