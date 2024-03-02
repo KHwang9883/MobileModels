@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-03-02
+- `nubia` 新增 nubia Flip, Neo 2, Blade A72。
 ## 2024-03-01
 - `xiaomi` 新增 Redmi A3, POCO C61。
 ## 2024-02-29
