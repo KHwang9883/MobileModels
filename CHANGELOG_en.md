@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2024-03-05
 - `nothing` Add Nothing Phone (2a).
+- `vivo_global_en` Add vivo Y200 Pro.
 ## 2024-03-01
 - `xiaomi_en` Add Redmi A3, POCO C61.
 ## 2024-02-29

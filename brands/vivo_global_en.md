@@ -521,6 +521,10 @@
 
 `V2307`: vivo Y200 5G
 
+**vivo Y200 Pro:**
+
+`V2303`: vivo Y200 Pro 5G
+
 **vivo Y200e:**
 
 `V2327` `V2336`: vivo Y200e 5G
