@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-03-05
+- `nothing` Add Nothing Phone (2a).
 ## 2024-03-01
 - `xiaomi_en` Add Redmi A3, POCO C61.
 ## 2024-02-29
