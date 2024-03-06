@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-03-06
+- `realme_global_en` Add realme 12 5G.
 ## 2024-03-05
 - `nothing` Add Nothing Phone (2a).
 - `vivo_global_en` Add vivo Y200 Pro.
