@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-03-08
+- `honor_cn` 新增 荣耀 Magic6 至臻版 & RSR 保时捷设计。
 - `zte` 新增 中兴远航 41S。
 ## 2024-03-02
 - `nubia` 新增 nubia Flip, Neo 2, Blade A72。
