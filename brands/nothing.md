@@ -13,7 +13,7 @@
 
 `AIN065`: Nothing Phone (2) India
 
-**Nothing Phone (2a) (`Aerodactyl`):**
+**Nothing Phone (2a) (`Pacman`):**
 
 `A142`: Nothing Phone (2a) Global
 
