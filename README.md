@@ -52,6 +52,9 @@
 
 ## 项目历史
 
+### 2024 年 3 月
+- 将本项目 csv 及脚本迁移至 [此 repo](https://github.com/KHwang9883/MobileModels-csv)，使用 GitHub Actions 自动更新。
+
 ### 2022 年 4 月
 - 新增 [各大手机厂商 BL 解锁/内核开源情况](misc/bootloader-kernel-source.md) 汇总。
 
