@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-03-11
+- `oneplus_en` Add OnePlus Ace 3V.
 ## 2024-03-09
 - `honor_global_en` Add several new models.
 ## 2024-03-06

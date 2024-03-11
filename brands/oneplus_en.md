@@ -285,6 +285,10 @@
 
 `CPH2611`: OnePlus 12R North America
 
+**OnePlus Ace 3V:**
+
+`PJF110`: OnePlus Ace 3V China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
