@@ -943,6 +943,8 @@
 
 `XIG03`: Redmi 12 5G Japan (KDDI)
 
+`A401XM`: Redmi 12 5G Japan (SoftBank)
+
 **[`M19`] Redmi 12 5G (`sky`):**
 
 `23076RN4BI`: Redmi 12 5G India
@@ -1461,6 +1463,10 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro China
 
+**[`N16T`] Redmi Note 13 Turbo (`peridot`):**
+
+`24069RA21C`: Redmi Note 13 Turbo China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -1696,6 +1702,12 @@
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75G`: POCO F5 Pro Global
+
+**[`N16T`] POCO F6 (`peridot`):**
+
+`24069PC21G`: POCO F6 Global
+
+`24069PC21I`: POCO F6 India
 
 **[`N11`] POCO F6 Pro (`vermeer`):**
 
