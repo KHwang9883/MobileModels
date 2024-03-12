@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-03-12
+- `xiaomi` 新增 Redmi Note 13 Turbo, POCO F6。
 ## 2024-03-11
 - `oneplus` 新增 一加 Ace 3V。
 ## 2024-03-08

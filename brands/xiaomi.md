@@ -1032,6 +1032,8 @@
 
 `XIG03`: Redmi 12 5G 日本版 (KDDI)
 
+`A401XM`: Redmi 12 5G 日本版 (SoftBank)
+
 **[`M19`] Redmi 12 5G (`sky`):**
 
 `23076RN4BI`: Redmi 12 5G 印度版
@@ -1558,6 +1560,10 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro 全网通版
 
+**[`N16T`] Redmi Note 13 Turbo (`peridot`):**
+
+`24069RA21C`: Redmi Note 13 Turbo 全网通版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
@@ -1815,6 +1821,12 @@
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75G`: POCO F5 Pro 国际版
+
+**[`N16T`] POCO F6 (`peridot`):**
+
+`24069PC21G`: POCO F6 国际版
+
+`24069PC21I`: POCO F6 印度版
 
 **[`N11`] POCO F6 Pro (`vermeer`):**
 
