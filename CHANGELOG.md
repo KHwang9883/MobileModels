@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-03-14
+- `mitv_cn` 新增 小米电视 S Mini LED。
 ## 2024-03-12
 - `xiaomi` 新增 Redmi Note 13 Turbo, POCO F6。
 ## 2024-03-11
