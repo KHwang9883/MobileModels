@@ -142,3 +142,7 @@
 **Hi 畅享 60 Pro:**
 
 `LGN-AN00`: Hi 畅享 60 Pro 5G
+
+**Hi 畅享 70 Pro:**
+
+`BAL-AN20`: Hi 畅享 70 Pro 5G
