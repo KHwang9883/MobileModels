@@ -1560,10 +1560,6 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro 全网通版
 
-**[`N16T`] Redmi Note 13 Turbo (`peridot`):**
-
-`24069RA21C`: Redmi Note 13 Turbo 全网通版
-
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**

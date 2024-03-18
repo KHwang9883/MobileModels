@@ -2,7 +2,7 @@
 ## 2024-03-14
 - `mitv_cn` 新增 小米电视 S Mini LED。
 ## 2024-03-12
-- `xiaomi` 新增 Redmi Note 13 Turbo, POCO F6。
+- `xiaomi` 新增 POCO F6。
 ## 2024-03-11
 - `oneplus` 新增 一加 Ace 3V。
 ## 2024-03-08
