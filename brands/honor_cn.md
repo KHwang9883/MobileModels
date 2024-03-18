@@ -1226,6 +1226,14 @@
 
 `HYM-W76`: 荣耀 MagicBook 16 Pro 2021 R7
 
+**荣耀 MagicBook Pro 16:**
+
+`DRA-56`: 荣耀 MagicBook Pro 16 Ultra 5 (16GB 内存)
+
+`DRA-54`: 荣耀 MagicBook Pro 16 Ultra 5 (24GB 内存)
+
+`DRA-72`: 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
+
 **荣耀 MagicBook V 14:**
 
 `HGE-W56`: 荣耀 MagicBook V 14 i5
@@ -1270,7 +1278,15 @@
 
 **荣耀笔记本 X14 2024:**
 
-`FRI-G56`: 荣耀笔记本 X14 2024 i5
+`FRI-G56`: 荣耀笔记本 X14 2024 i5 (16GB+512GB)
+
+`FRI-G561`: 荣耀笔记本 X14 2024 i5 (16GB+1TB)
+
+**荣耀笔记本 X14 Plus 2024:**
+
+`FMI-76`: 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
+
+`FMI-721`: 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
 
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
@@ -1304,7 +1320,15 @@
 
 **荣耀笔记本 X16 2024:**
 
-`BRN-G56`: 荣耀笔记本 X16 2024 i5
+`BRN-G56`: 荣耀笔记本 X16 2024 i5 (16GB+512GB)
+
+`BRN-G561`: 荣耀笔记本 X16 2024 i5 (16GB+1TB)
+
+**荣耀笔记本 X16 Plus 2024:**
+
+`BRI-76`: 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
+
+`BRI-721`: 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
 
 **荣耀 MagicBook Z3 14 2023:**
 
@@ -1479,6 +1503,12 @@
 `FLA-B19`: 荣耀手环 7 标准版
 
 `FLA-B39`: 荣耀手环 7 NFC 版
+
+**荣耀手环 9:**
+
+`RHE-B19`: 荣耀手环 9 标准版
+
+`RHE-B39`: 荣耀手环 9 NFC 版
 
 **荣耀观影眼镜:**
 
