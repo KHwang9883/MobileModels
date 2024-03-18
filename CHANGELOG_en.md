@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2024-03-12
-- `xiaomi_en` Add POCO F6, Redmi Note 13 Turbo.
+- `xiaomi_en` Add POCO F6.
 ## 2024-03-11
 - `oneplus_en` Add OnePlus Ace 3V.
 ## 2024-03-09

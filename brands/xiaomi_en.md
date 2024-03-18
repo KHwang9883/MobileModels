@@ -1463,10 +1463,6 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro China
 
-**[`N16T`] Redmi Note 13 Turbo (`peridot`):**
-
-`24069RA21C`: Redmi Note 13 Turbo China
-
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
