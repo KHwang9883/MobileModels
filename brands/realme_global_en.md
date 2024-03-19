@@ -471,6 +471,10 @@
 
 `RMX3782`: realme Narzo 60x 5G
 
+**realme NARZO 70 Pro:**
+
+`RMX3868`: realme NARZO 70 Pro 5G
+
 ## GT series
 
 **realme GT:**

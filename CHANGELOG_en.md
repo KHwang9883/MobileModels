@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-03-19
+- `realme_global_en` Add NARZO 70 Pro 5G.
 ## 2024-03-12
 - `xiaomi_en` Add POCO F6.
 ## 2024-03-11
