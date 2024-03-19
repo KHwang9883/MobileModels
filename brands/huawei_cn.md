@@ -1253,6 +1253,10 @@
 
 `AGS5Z-AL00`: 华为擎云 C5e 10.4 英寸 2023 全网通版
 
+**华为擎云 C5z:**
+
+`BVE-W10`: 华为擎云 C5z 10.4 英寸 Wi-Fi 版
+
 **华为平板 C7 (`Debussy`):**
 
 `DBY-W09`: 华为平板 C7 10.95 英寸 2022 Wi-Fi 版
@@ -1839,9 +1843,13 @@
 
 **华为智慧屏 V5:**
 
+`HD75ARKB`: 华为智慧屏 V5 75
+
 `HD85ARKB`: 华为智慧屏 V5 85
 
 **华为智慧屏 V5 Pro:**
+
+`HD75ARKA`: 华为智慧屏 V5 Pro 75
 
 `HD85ARKA`: 华为智慧屏 V5 Pro 85
 
@@ -2092,6 +2100,10 @@
 **HUAWEI WATCH FIT 2 (`Yoda`):**
 
 `YDA-B09S` `YDA-B19S` `YDA-B19V`: HUAWEI WATCH FIT 2
+
+**HUAWEI WATCH FIT 3 (`Solo`):**
+
+`SLO-B19`: HUAWEI WATCH FIT 3
 
 **HUAWEI WATCH D:**
 

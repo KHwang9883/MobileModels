@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-03-19
+- `huawei_cn` 新增 华为智慧屏 V5 75。
 ## 2024-03-18
 - `honor_cn` 新增 荣耀 MagicBook Pro 16, 荣耀手环 9。
 - `zhixuan` 新增 Hi 畅享 70 Pro。
