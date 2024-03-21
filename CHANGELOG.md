@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-03-21
 - `xiaomi` 新增 Xiaomi Civi 4 Pro。
+- `xiaomi-wear` 新增 小米穿戴设备型号汇总。
 ## 2024-03-20
 - `realme_cn` 新增 真我 12x。
 - `zte` 新增 中兴畅行 60。
