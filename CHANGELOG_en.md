@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2024-03-21
+- `samsung_global_en` Add Galaxy S20 and onwards.
 - `xiaomi_en` Add Xiaomi Civi 4 Pro, Xiaomi Watch 2.
 ## 2024-03-19
 - `realme_global_en` Add NARZO 70 Pro 5G.
