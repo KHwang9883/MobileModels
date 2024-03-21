@@ -1979,22 +1979,6 @@
 
 ## Others
 
-**Mi Watch (`baiji`):**
-
-`XMWT01`: Mi Watch
-
-**Xiaomi Watch 2 (`axolotlaxie`):**
-
-`M2320W1`: Xiaomi Watch 2
-
-**Xiaomi Watch 2 Pro (`axolotl`):**
-
-`M2234W1`: Xiaomi Watch 2 Pro Bluetooth
-
-**Xiaomi Watch 2 Pro (`axolotlte`):**
-
-`M2233W1`: Xiaomi Watch 2 Pro LTE
-
 **Xiaomi Mijia Translator (`FYJ01QP`):**
 
 `FYJ01QP`: Xiaomi Mijia Translator
