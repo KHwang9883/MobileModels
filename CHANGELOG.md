@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-03-21
+- `coolpad` 新增 酷派大观 3 Plus。
 - `xiaomi` 新增 Xiaomi Civi 4 Pro。
 - `xiaomi-wear` 新增 小米穿戴设备型号汇总。
 ## 2024-03-20
