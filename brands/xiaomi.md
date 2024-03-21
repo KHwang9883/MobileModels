@@ -76,7 +76,7 @@
 
 **[`A10`] 小米 4S (`aqua`):**
 
-`2015911`: 小米 4S 全网通版
+`2015911`: 小米 4S
 
 **[`A1`] 小米 5 (`gemini`):**
 
@@ -88,15 +88,15 @@
 
 **[`A7`] 小米 5s (`capricorn`):**
 
-`2015711`: 小米 5s 全网通版
+`2015711`: 小米 5s
 
 **[`B7`] 小米 5s Plus (`natrium`):**
 
-`2016070`: 小米 5s Plus 全网通版
+`2016070`: 小米 5s Plus
 
 **[`C10`] 小米 5c (`meri`):**
 
-`2016089`: 小米 5c 移动版
+`2016089`: 小米 5c
 
 **[`D2`] 小米 5X (`tiffany`):**
 
@@ -136,7 +136,7 @@
 
 **[`E2`] 小米 8 SE (`sirius`):**
 
-`M1805E2A`: 小米 8 SE 全网通版
+`M1805E2A`: 小米 8 SE
 
 **[`D2T`] 小米 8 青春版 (`platina`):**
 
@@ -160,11 +160,11 @@
 
 **[`F1X`] 小米 9 Pro (`crux`):**
 
-`M1908F1XE`: 小米 9 Pro 5G 全网通版
+`M1908F1XE`: 小米 9 Pro 5G
 
 **[`F2`] 小米 9 SE (`grus`):**
 
-`M1903F2A`: 小米 9 SE 全网通版
+`M1903F2A`: 小米 9 SE 国行版
 
 `M1903F2G`: 小米 9 SE 国际版
 
@@ -182,7 +182,7 @@
 
 **[`J2`] 小米 10 (`umi`):**
 
-`M2001J2E` `M2001J2C`: 小米 10 全网通版
+`M2001J2E` `M2001J2C`: 小米 10 国行版
 
 `M2001J2G`: 小米 10 国际版
 
@@ -190,13 +190,13 @@
 
 **[`J1`] 小米 10 Pro (`cmi`):**
 
-`M2001J1E` `M2001J1C`: 小米 10 Pro 全网通版
+`M2001J1E` `M2001J1C`: 小米 10 Pro 国行版
 
 `M2001J1G`: 小米 10 Pro 国际版
 
 **[`J9A`] 小米 10 青春版 (`vangogh`):**
 
-`M2002J9E`: 小米 10 青春版 全网通版
+`M2002J9E`: 小米 10 青春版 国行版
 
 **[`J9`] 小米 10 Lite (`monet`):**
 
@@ -208,7 +208,7 @@
 
 **[`J1S`] 小米 10 至尊纪念版 (`cas`):**
 
-`M2007J1SC`: 小米 10 至尊纪念版 全网通版
+`M2007J1SC`: 小米 10 至尊纪念版
 
 **[`J3S`] 小米 10T (`apollo`):**
 
@@ -232,27 +232,27 @@
 
 **[`J2S`] 小米 10S (`thyme`):**
 
-`M2102J2SC`: 小米 10S 全网通版
+`M2102J2SC`: 小米 10S
 
 **[`K2`] 小米 11 (`venus`):**
 
-`M2011K2C`: 小米 11 全网通版
+`M2011K2C`: 小米 11 国行版
 
 `M2011K2G`: 小米 11 国际版
 
 **[`K1A`] 小米 11 Pro (`mars`):**
 
-`M2102K1AC`: 小米 11 Pro 全网通版
+`M2102K1AC`: 小米 11 Pro
 
 **[`K1`] 小米 11 Ultra (`star`):**
 
-`M2102K1C`: 小米 11 Ultra 全网通版
+`M2102K1C`: 小米 11 Ultra 国行版
 
 `M2102K1G`: 小米 11 Ultra 国际版
 
 **[`K9`] 小米 11 青春版 (`renoir`):**
 
-`M2101K9C`: 小米 11 青春版 全网通版
+`M2101K9C`: 小米 11 青春版 国行版
 
 `M2101K9G`: 小米 11 Lite 5G 国际版
 
@@ -266,7 +266,7 @@
 
 **[`K9D`] Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE (`lisa`):**
 
-`2107119DC`: Xiaomi 11 青春活力版 全网通版
+`2107119DC`: Xiaomi 11 青春活力版 国行版
 
 `2109119DG`: Xiaomi 11 Lite 5G NE 国际版
 
@@ -306,25 +306,25 @@
 
 **[`L3`] Xiaomi 12 (`cupid`):**
 
-`2201123C`: Xiaomi 12 全网通版
+`2201123C`: Xiaomi 12 国行版
 
 `2201123G`: Xiaomi 12 国际版
 
 **[`L3A`] Xiaomi 12X (`psyche`):**
 
-`2112123AC`: Xiaomi 12X 全网通版
+`2112123AC`: Xiaomi 12X 国行版
 
 `2112123AG`: Xiaomi 12X 国际版
 
 **[`L2`] Xiaomi 12 Pro (`zeus`):**
 
-`2201122C`: Xiaomi 12 Pro 全网通版
+`2201122C`: Xiaomi 12 Pro 国行版
 
 `2201122G`: Xiaomi 12 Pro 国际版
 
 **[`L2M`] Xiaomi 12 Pro 天玑版 (`daumier`):**
 
-`2207122MC`: Xiaomi 12 Pro 天玑版 全网通版
+`2207122MC`: Xiaomi 12 Pro 天玑版
 
 **[`L9`] Xiaomi 12 Lite (`taoyao`):**
 
@@ -334,15 +334,15 @@
 
 **[`L3S`] Xiaomi 12S (`mayfly`):**
 
-`2206123SC`: Xiaomi 12S 全网通版
+`2206123SC`: Xiaomi 12S
 
 **[`L2S`] Xiaomi 12S Pro (`unicorn`):**
 
-`2206122SC`: Xiaomi 12S Pro 全网通版
+`2206122SC`: Xiaomi 12S Pro
 
 **[`L1`] Xiaomi 12S Ultra (`thor`):**
 
-`2203121C`: Xiaomi 12S Ultra 全网通版
+`2203121C`: Xiaomi 12S Ultra
 
 **[`L12A`] Xiaomi 12T (`plato`):**
 
@@ -358,19 +358,19 @@
 
 **[`M3`] Xiaomi 13 (`fuxi`):**
 
-`2211133C`: Xiaomi 13 全网通版
+`2211133C`: Xiaomi 13 国行版
 
 `2211133G`: Xiaomi 13 国际版
 
 **[`M2`] Xiaomi 13 Pro (`nuwa`):**
 
-`2210132C`: Xiaomi 13 Pro 全网通版
+`2210132C`: Xiaomi 13 Pro 国行版
 
 `2210132G`: Xiaomi 13 Pro 国际版
 
 **[`M1`] Xiaomi 13 Ultra (`ishtar`):**
 
-`2304FPN6DC`: Xiaomi 13 Ultra 全网通版
+`2304FPN6DC`: Xiaomi 13 Ultra 国行版
 
 `2304FPN6DG`: Xiaomi 13 Ultra 国际版
 
@@ -396,19 +396,19 @@
 
 **[`N3`] Xiaomi 14 (`houji`):**
 
-`23127PN0CC`: Xiaomi 14 全网通版
+`23127PN0CC`: Xiaomi 14 国行版
 
 `23127PN0CG`: Xiaomi 14 国际版
 
 **[`N2`] Xiaomi 14 Pro (`shennong`):**
 
-`23116PN5BC`: Xiaomi 14 Pro 全网通版
+`23116PN5BC`: Xiaomi 14 Pro / Xiaomi 14 Pro 钛金属版
 
-`2311BPN23C`: Xiaomi 14 Pro 钛金属卫星通讯版
+`2311BPN23C`: Xiaomi 14 Pro 钛金属版 (卫星通讯)
 
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
 
-`24031PN0DC`: Xiaomi 14 Ultra 全网通版
+`24031PN0DC`: Xiaomi 14 Ultra 国行版
 
 `24030PN60G`: Xiaomi 14 Ultra 国际版
 
@@ -440,7 +440,7 @@
 
 `2015212`: 小米 Note 2 移动 4G+ 版
 
-`2015213`: 小米 Note 2 全网通版 (全球频段)
+`2015213`: 小米 Note 2 (全球频段)
 
 **[`C8`] 小米 Note 3 (`jason`):**
 
@@ -462,7 +462,7 @@
 
 **[`A8`] 小米 MIX (`lithium`):**
 
-`2016080`: 小米 MIX 全网通版
+`2016080`: 小米 MIX
 
 **[`D5`] 小米 MIX 2 (`chiron`):**
 
@@ -484,9 +484,9 @@
 
 **[`E5`] 小米 MIX 3 (`perseus`):**
 
-`M1810E5E`: 小米 MIX 3 全网通版
+`M1810E5E`: 小米 MIX 3 国行版
 
-`M1810E5A`: 小米 MIX 3 全网通版 (全球频段)
+`M1810E5A`: 小米 MIX 3 (全球频段)
 
 **[`E5G`] 小米 MIX 3 5G (`andromeda`):**
 
@@ -540,7 +540,7 @@
 
 **[`F3B`] 小米 CC9 (`pyxis`):**
 
-`M1904F3BC`: 小米 CC9 全网通版
+`M1904F3BC`: 小米 CC9
 
 **[`F3M`] 小米 CC9 美图定制版 (`vela`):**
 
@@ -548,29 +548,33 @@
 
 **[`F9S`] 小米 CC9e (`laurus`):**
 
-`M1906F9SC`: 小米 CC9e 全网通版
+`M1906F9SC`: 小米 CC9e
 
 **[`F4`] 小米 CC9 Pro (`tucana`):**
 
-`M1910F4E`: 小米 CC9 Pro 全网通版
+`M1910F4E`: 小米 CC9 Pro
 
 ## 小米 Civi 系列
 
 **[`K9B`] Xiaomi Civi (`mona`):**
 
-`2109119BC`: Xiaomi Civi 全网通版
+`2109119BC`: Xiaomi Civi
 
 **[`K9E`] Xiaomi Civi 1S (`zijin`):**
 
-`2109119BC`: Xiaomi Civi 1S 全网通版
+`2109119BC`: Xiaomi Civi 1S
 
 **[`L9S`] Xiaomi Civi 2 (`ziyi`):**
 
-`2209129SC`: Xiaomi Civi 2 全网通版
+`2209129SC`: Xiaomi Civi 2
 
 **[`M9`] Xiaomi Civi 3 (`yuechu`):**
 
-`23046PNC9C`: Xiaomi Civi 3 全网通版
+`23046PNC9C`: Xiaomi Civi 3
+
+**[`N9`] Xiaomi Civi 4 Pro (`chenfeng`):**
+
+`24053PY09C`: Xiaomi Civi 4 Pro
 
 ## 小米 Play 系列
 
@@ -738,7 +742,7 @@
 
 **[`A12`] 红米 3S (`land`):**
 
-`2016030`: 红米 3S 全网通版
+`2016030`: 红米 3S 国行版
 
 `2016031`: 红米 3S 国际版
 
@@ -878,7 +882,7 @@
 
 **[`C3K`] Redmi 8A (`olivelite`):**
 
-`M1908C3KE`: Redmi 8A 全网通版
+`M1908C3KE`: Redmi 8A 国行版
 
 `M1908C3KG` `M1908C3KH`: Redmi 8A 国际版
 
@@ -890,7 +894,7 @@
 
 **[`J19`] Redmi 9 / Redmi 9 Prime (`lancelot`):**
 
-`M2004J19C`: Redmi 9 全网通版
+`M2004J19C`: Redmi 9 国行版
 
 `M2004J19G`: Redmi 9 国际版
 
@@ -902,7 +906,7 @@
 
 **[`C3L`] Redmi 9A / Redmi 9AT / Redmi 9i (`dandelion`):**
 
-`M2006C3LC`: Redmi 9A 全网通版
+`M2006C3LC`: Redmi 9A 国行版
 
 `M2006C3LG`: Redmi 9A 国际版
 
@@ -1000,7 +1004,7 @@
 
 **[`C3L2`] Redmi 10A (`dandelion`):**
 
-`220233L2C`: Redmi 10A 全网通版
+`220233L2C`: Redmi 10A 国行版
 
 `220233L2G`: Redmi 10A 国际版
 
@@ -1024,7 +1028,7 @@
 
 **[`M19`] Redmi 12 5G (`river`):**
 
-`23077RABDC`: Redmi 12 5G 全网通版
+`23077RABDC`: Redmi 12 5G 国行版
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
@@ -1040,11 +1044,11 @@
 
 **[`M19`] Redmi 12R (`sky`):**
 
-`23076RA4BC`: Redmi 12R 全网通版
+`23076RA4BC`: Redmi 12R
 
 **[`C3T`] Redmi 12C (`earth`):**
 
-`22120RN86C`: Redmi 12C 全网通版
+`22120RN86C`: Redmi 12C 国行版
 
 `22120RN86G`: Redmi 12C 国际版
 
@@ -1070,7 +1074,7 @@
 
 **[`C3V`] Redmi 13C 5G / Redmi 13R 5G (`air`):**
 
-`23124RN87C`: Redmi 13C 5G 全网通版 / Redmi 13R 5G 全网通版
+`23124RN87C`: Redmi 13C 5G 国行版 / Redmi 13R 5G
 
 `23124RN87G`: Redmi 13C 5G 国际版
 
@@ -1132,7 +1136,7 @@
 
 **[`H3A`] 红米 Note 3 (`kenzo`):**
 
-`2015112` `2015115`: 红米 Note 3 全网通版
+`2015112` `2015115`: 红米 Note 3 国行版
 
 `2015116`: 红米 Note 3 国际版
 
@@ -1216,7 +1220,7 @@
 
 **[`F7B`] Redmi Note 7 Pro (`violet`):**
 
-`M1901F7BE`: Redmi Note 7 Pro 全网通版
+`M1901F7BE`: Redmi Note 7 Pro 国行版
 
 `M1901F7S`: Redmi Note 7 Pro 印度版
 
@@ -1252,11 +1256,11 @@
 
 **[`J19S`] Redmi Note 9 4G (`lime`):**
 
-`M2010J19SC`: Redmi Note 9 4G 全网通版
+`M2010J19SC`: Redmi Note 9 4G 国行版
 
 **[`J22`] Redmi Note 9 5G (`cannon`):**
 
-`M2007J22C`: Redmi Note 9 5G 全网通版
+`M2007J22C`: Redmi Note 9 5G 国行版
 
 **[`J15S`] Redmi Note 9 (`merlin`):**
 
@@ -1276,7 +1280,7 @@
 
 **[`J17`] Redmi Note 9 Pro (`gauguinpro`):**
 
-`M2007J17C`: Redmi Note 9 Pro 5G 全网通版
+`M2007J17C`: Redmi Note 9 Pro 5G 国行版
 
 **[`J6A1`] Redmi Note 9 Pro / Redmi Note 9S (`curtana`):**
 
@@ -1316,7 +1320,7 @@
 
 **[`K19`] Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE (`camellia`):**
 
-`M2103K19C`: Redmi Note 10 5G 全网通版 / Redmi Note 11SE 全网通版
+`M2103K19C`: Redmi Note 10 5G 国行版 / Redmi Note 11SE 国行版
 
 `M2103K19I`: Redmi Note 10T 5G 印度版
 
@@ -1352,7 +1356,7 @@
 
 **[`K10A`] Redmi Note 10 Pro (`chopin`):**
 
-`M2104K10AC`: Redmi Note 10 Pro 5G 全网通版
+`M2104K10AC`: Redmi Note 10 Pro 5G 国行版
 
 **[`J6A1`] Redmi Note 10 Lite (`curtana`):**
 
@@ -1360,7 +1364,7 @@
 
 **[`K19S`] Redmi Note 11 4G (`selenes`):**
 
-`21121119SC`: Redmi Note 11 4G 全网通版
+`21121119SC`: Redmi Note 11 4G 国行版
 
 **[`K7T`] Redmi Note 11 (`spes`):**
 
@@ -1376,13 +1380,13 @@
 
 **[`K16A`] Redmi Note 11 5G / Redmi Note 11T (`evergo`):**
 
-`21091116AC`: Redmi Note 11 5G 全网通版
+`21091116AC`: Redmi Note 11 5G 国行版
 
 `21091116AI`: Redmi Note 11T 5G 印度版
 
 **[`L19`] Redmi Note 11E 5G (`light`):**
 
-`22041219C`: Redmi Note 11E 5G 全网通版
+`22041219C`: Redmi Note 11E 5G
 
 **[`K7S`] Redmi Note 11S (`miel`):**
 
@@ -1406,7 +1410,7 @@
 
 **[`K16`] Redmi Note 11 Pro (`pissarro`):**
 
-`21091116C`: Redmi Note 11 Pro 全网通版
+`21091116C`: Redmi Note 11 Pro 国行版
 
 **[`K6T`] Redmi Note 11 Pro (`viva`):**
 
@@ -1418,7 +1422,7 @@
 
 **[`K6S`] Redmi Note 11E Pro / Redmi Note 11 Pro 5G (`veux`):**
 
-`2201116SC`: Redmi Note 11E Pro 全网通版
+`2201116SC`: Redmi Note 11E Pro 国行版
 
 `2201116SG`: Redmi Note 11 Pro 5G 国际版
 
@@ -1430,21 +1434,21 @@
 
 **[`K16U`] Redmi Note 11 Pro+ (`pissarropro`):**
 
-`21091116UC`: Redmi Note 11 Pro+ 全网通版
+`21091116UC`: Redmi Note 11 Pro+ 国行版
 
 `21091116UG`: Redmi Note 11 Pro+ 5G 国际版
 
 **[`L16`] Redmi Note 11T Pro (`xaga`):**
 
-`22041216C`: Redmi Note 11T Pro 全网通版
+`22041216C`: Redmi Note 11T Pro
 
 **[`L16U`] Redmi Note 11T Pro+ (`xagapro`):**
 
-`22041216UC`: Redmi Note 11T Pro+ 全网通版
+`22041216UC`: Redmi Note 11T Pro+
 
 **[`L19`] Redmi Note 11R (`light`):**
 
-`22095RA98C`: Redmi Note 11R 5G 全网通版
+`22095RA98C`: Redmi Note 11R 5G
 
 **[`M7`] Redmi Note 12 (`tapas`):**
 
@@ -1460,7 +1464,7 @@
 
 **[`M17`] Redmi Note 12 5G / Redmi Note 12R Pro (`sunstone`):**
 
-`22101317C`: Redmi Note 12 5G 全网通版 / Redmi Note 12R Pro 全网通版
+`22101317C`: Redmi Note 12 5G 国行版 / Redmi Note 12R Pro
 
 `22111317G`: Redmi Note 12 5G 国际版
 
@@ -1468,7 +1472,7 @@
 
 **[`M19`] Redmi Note 12R (`sky`):**
 
-`23076RA4BC`: Redmi Note 12R 全网通版
+`23076RA4BC`: Redmi Note 12R
 
 **[`K7SR`] Redmi Note 12S (`ocean`):**
 
@@ -1486,7 +1490,7 @@
 
 **[`M16`] Redmi Note 12 Pro (`ruby`):**
 
-`22101316C`: Redmi Note 12 Pro 全网通版
+`22101316C`: Redmi Note 12 Pro 国行版
 
 `22101316G`: Redmi Note 12 Pro 5G 国际版
 
@@ -1494,7 +1498,7 @@
 
 **[`M16U`] Redmi Note 12 Pro+ (`rubypro`):**
 
-`22101316UCP`: Redmi Note 12 Pro+ 全网通版
+`22101316UCP`: Redmi Note 12 Pro+ 国行版
 
 `22101316UG`: Redmi Note 12 Pro+ 5G 国际版
 
@@ -1502,19 +1506,19 @@
 
 **[`M16U`] Redmi Note 12 探索版 (`rubyplus`):**
 
-`22101316UC`: Redmi Note 12 探索版 全网通版
+`22101316UC`: Redmi Note 12 探索版
 
 **[`M20`] Redmi Note 12 Pro 极速版 (`redwood`):**
 
-`22101320C`: Redmi Note 12 Pro 极速版 全网通版
+`22101320C`: Redmi Note 12 Pro 极速版
 
 **[`L16S`] Redmi Note 12T Pro (`pearl`):**
 
-`23054RA19C`: Redmi Note 12T Pro 全网通版
+`23054RA19C`: Redmi Note 12T Pro
 
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
-`23049RAD8C`: Redmi Note 12 Turbo 全网通版
+`23049RAD8C`: Redmi Note 12 Turbo
 
 **[`N7`] Redmi Note 13 (`sapphire`):**
 
@@ -1528,7 +1532,7 @@
 
 **[`N17`] Redmi Note 13 5G (`gold`):**
 
-`2312DRAABC`: Redmi Note 13 5G 全网通版
+`2312DRAABC`: Redmi Note 13 5G 国行版
 
 `2312DRAABI`: Redmi Note 13 5G 印度版
 
@@ -1542,7 +1546,7 @@
 
 **[`N16`] Redmi Note 13 Pro (`garnet`):**
 
-`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 全网通版
+`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 国行版
 
 `2312DRA50G`: Redmi Note 13 Pro 5G 国际版
 
@@ -1550,7 +1554,7 @@
 
 **[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
 
-`23090RA98C`: Redmi Note 13 Pro+ 全网通版
+`23090RA98C`: Redmi Note 13 Pro+ 国行版
 
 `23090RA98G`: Redmi Note 13 Pro+ 5G 国际版
 
@@ -1558,21 +1562,21 @@
 
 **[`N17`] Redmi Note 13R Pro (`gold`):**
 
-`2311FRAFDC`: Redmi Note 13R Pro 全网通版
+`2311FRAFDC`: Redmi Note 13R Pro
 
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
-`M2004J7AC`: Redmi 10X 5G 全网通版
+`M2004J7AC`: Redmi 10X 5G
 
 **[`J7B`] Redmi 10X Pro 5G (`bomb`):**
 
-`M2004J7BC`: Redmi 10X Pro 5G 全网通版
+`M2004J7BC`: Redmi 10X Pro 5G
 
 **[`J15S`] Redmi 10X 4G (`merlin`):**
 
-`M2003J15SC`: Redmi 10X 4G 全网通版
+`M2003J15SC`: Redmi 10X 4G
 
 ## Redmi K 系列
 
@@ -1598,17 +1602,17 @@
 
 **[`F11`] Redmi K20 Pro 尊享版 (`raphaels`):**
 
-`M1903F11A`: Redmi K20 Pro 尊享版 全网通版
+`M1903F11A`: Redmi K20 Pro 尊享版
 
 **[`G7A`] Redmi K30 5G (`picasso`):**
 
-`M2001G7AE`: Redmi K30 5G 全网通版 / Redmi K30 5G 极速版
+`M2001G7AE`: Redmi K30 5G / Redmi K30 5G 极速版
 
-`M2001G7AC`: Redmi K30 5G 全网通版
+`M2001G7AC`: Redmi K30 5G
 
 **[`G7A`] Redmi K30i 5G (`picasso48m`):**
 
-`M2001G7AC`: Redmi K30i 5G 全网通版
+`M2001G7AC`: Redmi K30i 5G
 
 **[`G7B`] Redmi K30 4G (`phoenix`):**
 
@@ -1618,51 +1622,51 @@
 
 **[`J11`] Redmi K30 Pro (`lmi`):**
 
-`M2001J11C`: Redmi K30 Pro 全网通版
+`M2001J11C`: Redmi K30 Pro
 
 **[`J11`] Redmi K30 Pro (`lmipro`):**
 
-`M2001J11C` `M2001J11E`: Redmi K30 Pro 变焦版 全网通版
+`M2001J11C` `M2001J11E`: Redmi K30 Pro 变焦版
 
 **[`J10`] Redmi K30 至尊纪念版 (`cezanne`):**
 
-`M2006J10C`: Redmi K30 至尊纪念版 全网通版
+`M2006J10C`: Redmi K30 至尊纪念版
 
 **[`J3S`] Redmi K30S 至尊纪念版 (`apollo`):**
 
-`M2007J3SC`: Redmi K30S 至尊纪念版 全网通版
+`M2007J3SC`: Redmi K30S 至尊纪念版
 
 **[`K11A`] Redmi K40 (`alioth`):**
 
-`M2012K11AC`: Redmi K40 全网通版
+`M2012K11AC`: Redmi K40
 
 **[`K11`] Redmi K40 Pro / Redmi K40 Pro+ (`haydn`):**
 
-`M2012K11C`: Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版
+`M2012K11C`: Redmi K40 Pro / Redmi K40 Pro+
 
 **[`K10`] Redmi K40 游戏增强版 (`ares`):**
 
-`M2012K10C`: Redmi K40 游戏增强版 全网通版
+`M2012K10C`: Redmi K40 游戏增强版
 
 **[`L11R`] Redmi K40S (`munch`):**
 
-`22021211RC`: Redmi K40S 全网通版
+`22021211RC`: Redmi K40S
 
 **[`L11A`] Redmi K50 (`rubens`):**
 
-`22041211AC`: Redmi K50 全网通版
+`22041211AC`: Redmi K50
 
 **[`L11`] Redmi K50 Pro (`matisse`):**
 
-`22011211C`: Redmi K50 Pro 全网通版
+`22011211C`: Redmi K50 Pro
 
 **[`L10`] Redmi K50 电竞版 (`ingres`):**
 
-`21121210C`: Redmi K50 电竞版 全网通版
+`21121210C`: Redmi K50 电竞版
 
 **[`L12`] Redmi K50 至尊版 (`diting`):**
 
-`22081212C`: Redmi K50 至尊版 全网通版
+`22081212C`: Redmi K50 至尊版
 
 **[`L16`] Redmi K50i (`xagain`):**
 
@@ -1670,31 +1674,31 @@
 
 **[`M11A`] Redmi K60 (`mondrian`):**
 
-`23013RK75C`: Redmi K60 全网通版
+`23013RK75C`: Redmi K60
 
 **[`M11`] Redmi K60 Pro (`socrates`):**
 
-`22127RK46C`: Redmi K60 Pro 全网通版
+`22127RK46C`: Redmi K60 Pro
 
 **[`M11R`] Redmi K60E (`rembrandt`):**
 
-`22122RK93C`: Redmi K60E 全网通版
+`22122RK93C`: Redmi K60E
 
 **[`M12`] Redmi K60 至尊版 (`corot`):**
 
-`23078RKD5C`: Redmi K60 至尊版 全网通版
+`23078RKD5C`: Redmi K60 至尊版
 
 **[`N11`] Redmi K70 (`vermeer`):**
 
-`23113RKC6C`: Redmi K70 全网通版
+`23113RKC6C`: Redmi K70
 
 **[`N11R`] Redmi K70 Pro (`manet`):**
 
-`23117RK66C`: Redmi K70 Pro 全网通版
+`23117RK66C`: Redmi K70 Pro
 
 **[`N11A`] Redmi K70E (`duchamp`):**
 
-`2311DRK48C`: Redmi K70E 全网通版
+`2311DRK48C`: Redmi K70E
 
 ## 其他红米 Redmi 手机
 
@@ -2019,6 +2023,18 @@
 **小米手表 (`baiji`):**
 
 `XMWT01`: 小米手表
+
+**Xiaomi Watch 2 (`axolotlaxie`):**
+
+`M2320W1`: Xiaomi Watch 2
+
+**Xiaomi Watch 2 Pro (`axolotl`):**
+
+`M2234W1`: Xiaomi Watch 2 Pro 蓝牙
+
+**Xiaomi Watch 2 Pro (`axolotlte`):**
+
+`M2233W1`: Xiaomi Watch 2 Pro LTE
 
 **小米米家翻译机 (`FYJ01QP`):**
 
