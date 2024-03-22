@@ -69,7 +69,7 @@
 
 `SM-G988N`: Galaxy S20 Ultra 5G South Korea
 
-`SM-G988Q`: Galaxy S20 Ultra 5G Japan
+`SM-G988Q`: Galaxy S20 Ultra 5G Japan (SIM Free)
 
 `SCG03`: Galaxy S20 Ultra 5G Japan (au)
 
@@ -279,7 +279,7 @@
 
 `SM-S918N`: Galaxy S23 Ultra South Korea
 
-`SM-S918Q`: Galaxy S23 Ultra Japan
+`SM-S918Q`: Galaxy S23 Ultra Japan (SIM Free)
 
 `SCG20`: Galaxy S23 Ultra Japan (au)
 
@@ -358,6 +358,188 @@
 **Galaxy Note10 (`d1q`):**
 
 `SM-N970U`: Galaxy Note10 US
+
+## Galaxy Z
+
+**Galaxy Fold (`winner`):**
+
+`SM-F900F`: Galaxy Fold Global
+
+`SM-F900U`: Galaxy Fold US Carrier
+
+`SM-F900U1`: Galaxy Fold US Unlocked
+
+`SM-F900W`: Galaxy Fold Canada
+
+`SM-F9000`: Galaxy Fold China
+
+`SCV44`: Galaxy Fold Japan (au)
+
+`SM-F907B`: Galaxy Fold 5G Global
+
+`SM-F907N`: Galaxy Fold 5G South Korea
+
+**Galaxy Z Fold2 (`f2q`):**
+
+`SM-F916B`: Galaxy Z Fold2 5G Global
+
+`SM-F916U`: Galaxy Z Fold2 5G US Carrier
+
+`SM-F916U1`: Galaxy Z Fold2 5G US Unlocked
+
+`SM-F916W`: Galaxy Z Fold2 5G Canada
+
+`SM-F9160`: Galaxy Z Fold2 5G China
+
+`SM-F916N`: Galaxy Z Fold2 5G South Korea
+
+`SM-F916Q`: Galaxy Z Fold2 5G Japan (SIM Free)
+
+**Galaxy Z Fold3 (`q2q`):**
+
+`SM-F926B`: Galaxy Z Fold3 5G Global
+
+`SM-F926U`: Galaxy Z Fold3 5G US Carrier
+
+`SM-F926U1`: Galaxy Z Fold3 5G US Unlocked
+
+`SM-F926W`: Galaxy Z Fold3 5G Canada
+
+`SM-F9260`: Galaxy Z Fold3 5G China
+
+`SM-F926N`: Galaxy Z Fold3 5G South Korea
+
+`SCG11`: Galaxy Z Fold3 5G Japan (au)
+
+`SC-55B`: Galaxy Z Fold3 5G Japan (NTT Docomo)
+
+**Galaxy Z Fold4 (`q4q`):**
+
+`SM-F936B`: Galaxy Z Fold4 Global
+
+`SM-F936U`: Galaxy Z Fold4 US Carrier
+
+`SM-F936U1`: Galaxy Z Fold4 US Unlocked
+
+`SM-F936W`: Galaxy Z Fold4 Canada
+
+`SM-F9360`: Galaxy Z Fold4 China
+
+`SM-F936N`: Galaxy Z Fold4 South Korea
+
+`SCG16`: Galaxy Z Fold4 Japan (au)
+
+`SC-55C`: Galaxy Z Fold4 Japan (NTT Docomo)
+
+**Galaxy Z Fold5 (`q5q`):**
+
+`SM-F946B`: Galaxy Z Fold5 Global
+
+`SM-F946U`: Galaxy Z Fold5 US Carrier
+
+`SM-F946U1`: Galaxy Z Fold5 US Unlocked
+
+`SM-F946W`: Galaxy Z Fold5 Canada
+
+`SM-F9460`: Galaxy Z Fold5 China
+
+`SM-F946N`: Galaxy Z Fold5 South Korea
+
+`SM-F946Q`: Galaxy Z Fold5 Japan (SIM Free)
+
+`SCG22`: Galaxy Z Fold5 Japan (au)
+
+`SC-55D`: Galaxy Z Fold5 Japan (NTT Docomo)
+
+**Galaxy Z Flip (`bloomq`):**
+
+`SM-F700F`: Galaxy Z Flip Global
+
+`SM-F700U`: Galaxy Z Flip US Carrier
+
+`SM-F700U1`: Galaxy Z Flip US Unlocked
+
+`SM-F700W`: Galaxy Z Flip Canada
+
+`SM-F7000`: Galaxy Z Flip China
+
+`SM-F700N`: Galaxy Z Flip South Korea
+
+`SCV47`: Galaxy Z Flip Japan (au)
+
+**Galaxy Z Flip 5G (`bloomxq`):**
+
+`SM-F707B`: Galaxy Z Flip 5G Global
+
+`SM-F707U`: Galaxy Z Flip 5G US Carrier
+
+`SM-F707U1`: Galaxy Z Flip 5G US Unlocked
+
+`SM-F707W`: Galaxy Z Flip 5G Canada
+
+`SM-F7070`: Galaxy Z Flip 5G China
+
+`SM-F707N`: Galaxy Z Flip 5G South Korea
+
+`SCG04`: Galaxy Z Flip 5G Japan (au)
+
+**Galaxy Z Flip3 (`b2q`):**
+
+`SM-F711B`: Galaxy Z Flip3 5G Global
+
+`SM-F711U`: Galaxy Z Flip3 5G US Carrier
+
+`SM-F711U1`: Galaxy Z Flip3 5G US Unlocked
+
+`SM-F711W`: Galaxy Z Flip3 5G Canada
+
+`SM-F7110`: Galaxy Z Flip3 5G China
+
+`SM-F711N`: Galaxy Z Flip3 5G South Korea
+
+`SCG12`: Galaxy Z Flip3 5G Japan (au)
+
+`SC-54B`: Galaxy Z Flip3 5G Japan (NTT Docomo)
+
+**Galaxy Z Flip4 (`b4q`):**
+
+`SM-F721B`: Galaxy Z Flip4 Global
+
+`SM-F721U`: Galaxy Z Flip4 US Carrier
+
+`SM-F721U1`: Galaxy Z Flip4 US Unlocked
+
+`SM-F721W`: Galaxy Z Flip4 Canada
+
+`SM-F7210`: Galaxy Z Flip4 China
+
+`SM-F721N`: Galaxy Z Flip4 South Korea
+
+`SM-F721C`: Galaxy Z Flip4 Japan (Rakuten Mobile)
+
+`SCG17`: Galaxy Z Flip4 Japan (au)
+
+`SC-54C`: Galaxy Z Flip4 Japan (NTT Docomo)
+
+**Galaxy Z Flip5 (`b5q`):**
+
+`SM-F731B`: Galaxy Z Flip5 Global
+
+`SM-F731U`: Galaxy Z Flip5 US Carrier
+
+`SM-F731U1`: Galaxy Z Flip5 US Unlocked
+
+`SM-F731W`: Galaxy Z Flip5 Canada
+
+`SM-F7310`: Galaxy Z Flip5 China
+
+`SM-F731N`: Galaxy Z Flip5 South Korea
+
+`SM-F731Q`: Galaxy Z Flip5 Japan (SIM Free)
+
+`SCG23`: Galaxy Z Flip5 Japan (au)
+
+`SC-54D`: Galaxy Z Flip5 Japan (NTT Docomo)
 
 ## Galaxy A
 
