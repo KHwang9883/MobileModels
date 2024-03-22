@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2024-03-22
-- `samsung_global_en` Add Galaxy Z series.
+- `samsung_global_en` Add Galaxy Z series, Galaxy Note 9 and onwards, Galaxy S10 series.
 ## 2024-03-21
 - `samsung_global_en` Add Galaxy S20 and onwards.
 - `xiaomi_en` Add Xiaomi Civi 4 Pro, Xiaomi Watch 2.
