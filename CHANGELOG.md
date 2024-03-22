@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-03-22
+- `honor_cn` 新增 荣耀手表 GS 4。
 ## 2024-03-21
 - `coolpad` 新增 酷派大观 3 Plus。
 - `xiaomi` 新增 Xiaomi Civi 4 Pro。
