@@ -334,6 +334,8 @@
 
 `SM-N9600`: Galaxy Note9 全网通版
 
+**Galaxy Note9 (`crownqltecmcc`):**
+
 `SM-N9608`: Galaxy Note9 4G+
 
 **Galaxy Note10 (`d1q`):**
