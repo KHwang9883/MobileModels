@@ -290,7 +290,7 @@
 
 `CPH2611`: OnePlus 12R 北美版
 
-**OnePlus Ace 3V:**
+**OnePlus Ace 3V / OnePlus Nord 4 (`audi`):**
 
 `PJF110`: OnePlus Ace 3V 全网通版
 
