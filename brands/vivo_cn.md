@@ -2,7 +2,7 @@
 
 - 汇总范围: 2018 年起新型号命名方式的机型
 - codename: ✅
-- 是否包含海外机型: ❌
+- 是否包含海外机型: [单独汇总 (英文)](brands/vivo_global_en.md)
 
 ## NEX 系列
 
@@ -997,6 +997,10 @@
 **vivo Pad Air (`DPD2305`):**
 
 `PA2353`: vivo Pad Air
+
+**vivo Pad3 Pro:**
+
+`PA2473`: vivo Pad3 Pro
 
 **iQOO Pad (`DPD2307`):**
 
