@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-03-27
+- `huawei_global_en` Add HUAWEI nova 12 series.
 ## 2024-03-22
 - `samsung_global_en` Add Galaxy Z series, Galaxy Note 9 and onwards, Galaxy S10 series.
 ## 2024-03-21

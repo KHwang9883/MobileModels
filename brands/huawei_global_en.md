@@ -405,13 +405,21 @@
 
 `FOA-LX9`: HUAWEI nova 11
 
-**HUAWEI nova 11 Pro (`Giona`):**
+**HUAWEI nova 11 Pro (`Gloria`):**
 
 `GOA-LX9`: HUAWEI nova 11 Pro
 
-**HUAWEI nova 11i:**
+**HUAWEI nova 11i (`Mario`):**
 
 `MAO-LX9` `MAO-LX9N`: HUAWEI nova 11i
+
+**HUAWEI nova 12s (`Fiona`):**
+
+`FOA-LX9`: HUAWEI nova 12s
+
+**HUAWEI nova 12 SE (`Bonnie`):**
+
+`BNE-LX1`: HUAWEI nova 12 SE
 
 **HUAWEI nova Y60 (`Wukong`):**
 
@@ -425,11 +433,15 @@
 
 `MGA-LX9` `MGA-LX9N` `MGA-LX3`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 
-**HUAWEI nova Y90:**
+**HUAWEI nova Y72 (`Mega`):**
+
+`MGA-LX3`: HUAWEI nova Y72
+
+**HUAWEI nova Y90 (`Cartier`):**
 
 `CTR-LX1` `CTR-LX2` `CTR-LX3`: HUAWEI nova Y90
 
-**HUAWEI nova Y91:**
+**HUAWEI nova Y91 (`Santiago`):**
 
 `STG-LX1` `STG-LX2`: HUAWEI nova Y91
 
