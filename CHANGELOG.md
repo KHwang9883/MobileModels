@@ -1,4 +1,7 @@
 # 更新日志
+## 2024-03-28
+- `mitv_cn` 新增 小米电视 S85 Mini LED。
+- `oneplus` 新增 OnePlus Nord 4。
 ## 2024-03-26
 - `honor_cn` 新增 荣耀畅玩 50。
 - `vivo_cn` 新增 vivo Pad3 Pro。
