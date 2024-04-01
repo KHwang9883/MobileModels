@@ -1479,6 +1479,10 @@
 
 `M2003J15SC`: Redmi 10X 4G China
 
+**[`N16T`] Redmi Turbo 3 (`peridot`):**
+
+`24069RA21C`: Redmi Turbo 3 China
+
 **[`F10`] Redmi K20 (`davinci`):**
 
 `M1903F10A`: Redmi K20 China

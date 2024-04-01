@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-01
+- `xiaomi_en` Add Redmi Turbo 3.
 ## 2024-03-27
 - `huawei_global_en` Add HUAWEI nova 12 series.
 ## 2024-03-22
