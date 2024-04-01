@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-04-01
+- `xiaomi` 新增 Redmi Turbo 3。
 ## 2024-03-28
 - `mitv_cn` 新增 小米电视 S85 Mini LED。
 - `oneplus` 新增 OnePlus Nord 4。

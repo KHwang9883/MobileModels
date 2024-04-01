@@ -1578,6 +1578,12 @@
 
 `M2003J15SC`: Redmi 10X 4G
 
+## Redmi Turbo 系列
+
+**[`N16T`] Redmi Turbo 3 (`peridot`):**
+
+`24069RA21C`: Redmi Turbo 3
+
 ## Redmi K 系列
 
 **[`F10`] Redmi K20 (`davinci`):**
