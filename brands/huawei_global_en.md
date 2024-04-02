@@ -417,9 +417,13 @@
 
 `FOA-LX9`: HUAWEI nova 12s
 
+**HUAWEI nova 12i (`Cartier`):**
+
+`CTR-L81`: HUAWEI nova 12i
+
 **HUAWEI nova 12 SE (`Bonnie`):**
 
-`BNE-LX1`: HUAWEI nova 12 SE
+`BNE-LX1` `BNE-LX3`: HUAWEI nova 12 SE
 
 **HUAWEI nova Y60 (`Wukong`):**
 
