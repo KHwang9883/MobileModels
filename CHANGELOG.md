@@ -2,6 +2,7 @@
 ## 2024-04-02
 - `coolpad` 新增 酷派大观 C60。
 - `nubia` 新增 努比亚小牛。
+- `realme_cn` 新增 真我 GT Neo6 系列。
 ## 2024-04-01
 - `xiaomi` 新增 Redmi Turbo 3。
 ## 2024-03-28

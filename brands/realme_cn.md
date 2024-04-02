@@ -130,6 +130,14 @@
 
 `RMX3700`: 真我 GT Neo5 SE
 
+**真我 GT Neo6:**
+
+`RMX3852`: 真我 GT Neo6
+
+**真我 GT Neo6 SE:**
+
+`RMX3850`: 真我 GT Neo6 SE
+
 ## Q 系列
 
 **真我 Q:**
