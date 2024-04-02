@@ -166,6 +166,10 @@
 
 `NX724J`: nubia Flip
 
+**nubia 小牛:**
+
+`NX302J`: nubia 小牛
+
 **nubia My 布拉格:**
 
 `NX513J`: nubia My 布拉格 全网通版
