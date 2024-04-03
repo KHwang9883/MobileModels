@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-03
+- `oneplus_en` Add OnePlus Nord CE4.
 ## 2024-04-01
 - `xiaomi_en` Add Redmi Turbo 3.
 ## 2024-03-27

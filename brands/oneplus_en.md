@@ -337,6 +337,10 @@
 
 `CPH2467`: OnePlus Nord CE 3 Lite India
 
+**OnePlus Nord CE4:**
+
+`CPH2613`: OnePlus Nord CE4 India
+
 **OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro
