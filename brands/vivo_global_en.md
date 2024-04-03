@@ -175,6 +175,10 @@
 
 `V2319`: vivo Y30 Pro
 
+**vivo V30e:**
+
+`V2339`: vivo V30e
+
 **vivo V30 Lite:**
 
 `V2342`: vivo V30 Lite
@@ -183,7 +187,7 @@
 
 **vivo V30 SE:**
 
-`V2349`: vivo V30 SE
+`V2327` `V2349`: vivo V30 SE
 
 **vivo V40 SE:**
 
@@ -523,7 +527,7 @@
 
 **vivo Y200 Pro:**
 
-`V2303`: vivo Y200 Pro 5G
+`V2303` `V2401`: vivo Y200 Pro 5G
 
 **vivo Y200e:**
 
