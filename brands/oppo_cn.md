@@ -488,6 +488,10 @@
 
 `PJG110`: OPPO A2 Pro
 
+**OPPO A3 Pro:**
+
+`PJY110`: OPPO A3 Pro
+
 ## K 系列
 
 **OPPO K1:**
