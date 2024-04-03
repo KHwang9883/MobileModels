@@ -998,7 +998,7 @@
 
 `PA2353`: vivo Pad Air
 
-**vivo Pad3 Pro:**
+**vivo Pad3 Pro (`DPD2329`):**
 
 `PA2473`: vivo Pad3 Pro
 
