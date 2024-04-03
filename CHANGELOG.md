@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-04-03
+- `oneplus` 新增 OnePlus Nord CE4。
 ## 2024-04-02
 - `coolpad` 新增 酷派大观 C60。
 - `nubia` 新增 努比亚小牛。
