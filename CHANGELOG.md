@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-04-04
+- `lenovo` 新增 联想小新 Pad Plus 舒视版。
 ## 2024-04-03
 - `oneplus` 新增 OnePlus Nord CE4。
 - `oppo_cn` 新增 OPPO A3 Pro。

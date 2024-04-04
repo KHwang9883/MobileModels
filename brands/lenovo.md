@@ -152,6 +152,8 @@
 
 `TB350FU`: 联想小新 Pad Plus 2023
 
+`TB372FC`: 联想小新 Pad Plus 12.7 舒视版
+
 **联想小新 Pad Pro:**
 
 `Lenovo TB-J706F`: 联想小新 Pad Pro 2020
