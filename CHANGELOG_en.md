@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-05
+- `vivo_global_en` Add vivo T3x, iQOO Z9x.
 ## 2024-04-03
 - `oneplus_en` Add OnePlus Nord CE4.
 - `vivo_global_en` Add several new models.

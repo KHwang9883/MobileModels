@@ -237,6 +237,10 @@
 
 `V2334`: vivo T3 5G
 
+**vivo T3x:**
+
+`V2338`: vivo T3x 5G
+
 **vivo Y1s:**
 
 `vivo 1929` `vivo 2015` `vivo 2015_21`: vivo Y1s
@@ -632,3 +636,7 @@
 **iQOO Z9:**
 
 `I2302`: iQOO Z9 5G
+
+**iQOO Z9x:**
+
+`I2219`: iQOO Z9x 5G
