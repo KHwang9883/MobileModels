@@ -1,7 +1,7 @@
 # realme Global Mobile Phone Models
 
 - Range: All international models (excluding Chinese models)
-- Codename: ❌
+- Codename: ⏹
 
 ## Number series
 
@@ -45,7 +45,7 @@
 
 `RMX1971` `RMX1973`: realme 5 Pro
 
-**realme 6:**
+**realme 6 (`nemo`):**
 
 `RMX2001` `RMX2003`: realme 6
 
@@ -53,19 +53,21 @@
 
 `RMX2061` `RMX2063`: realme 6 Pro
 
-**realme 6s:**
+**realme 6s (`nemo`):**
 
 `RMX2002`: realme 6s Global
 
-**realme 6i:**
+**realme 6i (`nemo`):**
 
 `RMX2002`: realme 6i India
+
+**realme 6i:**
 
 `RMX2040`: realme 6i EU
 
 `RMX2041` `RMX2042`: realme 6i Global
 
-**realme 7:**
+**realme 7 (`salaa`):**
 
 `RMX2151`: realme 7 India
 
@@ -97,7 +99,7 @@
 
 `RMX3241`: realme 8 5G
 
-**realme 8i:**
+**realme 8i (`spaced`):**
 
 `RMX3151`: realme 8i
 
@@ -187,11 +189,11 @@
 
 `RMX3867`: realme 12+ 5G
 
-**realme 12 Pro 5G:**
+**realme 12 Pro 5G (`coffee-a`):**
 
 `RMX3842`: realme 12 Pro 5G
 
-**realme 12 Pro+ 5G:**
+**realme 12 Pro+ 5G (`coffee`):**
 
 `RMX3840`: realme 12 Pro+ 5G
 
@@ -213,7 +215,7 @@
 
 `RMX1993`: realme X2 Global
 
-**realme X2 Pro:**
+**realme X2 Pro (`samurai`):**
 
 `RMX1931`: realme X2 Pro
 
@@ -233,7 +235,7 @@
 
 `RMX2144`: realme X50 Global
 
-**realme X50 Pro:**
+**realme X50 Pro (`bladerunner`):**
 
 `RMX2075`: realme X50 Pro Global
 
@@ -251,6 +253,42 @@
 
 `RMX3031`: realme X7 Max
 
+## GT series
+
+**realme GT:**
+
+`RMX2202`: realme GT 5G
+
+**realme GT Master Edition (`lunaa`):**
+
+`RMX3360` `RMX3363`: realme GT Master Edition
+
+**realme GT NEO 2 (`bitra`):**
+
+`RMX3370`: realme GT NEO 2 5G
+
+**realme GT 2 (`porsche`):**
+
+`RMX3311` `RMX3312`: realme GT 2 5G
+
+**realme GT 2 Pro:**
+
+`RMX3301`: realme GT 2 Pro 5G
+
+**realme GT NEO 3:**
+
+`RMX3561`: realme GT NEO 3
+
+`RMX3563`: realme GT NEO 3 150W
+
+**realme GT NEO 3T:**
+
+`RMX3371`: realme GT NEO 3T
+
+**realme GT 3:**
+
+`RMX3709`: realme GT 3 240W
+
 ## C series
 
 **realme C1:**
@@ -261,13 +299,13 @@
 
 `RMX1941` `RMX1942` `RMX1943` `RMX1945` `RMX1946`: realme C2
 
-**realme C3:**
+**realme C3 (`monet`):**
 
 `RMX2020` `RMX2021` `RMX2022`: realme C3 Global
 
 `RMX2027`: realme C3 India
 
-**realme C3i:**
+**realme C3i (`monet`):**
 
 `RMX2027`: realme C3i Vietnam
 
@@ -377,7 +415,7 @@
 
 ## Narzo series
 
-**realme Narzo:**
+**realme Narzo (`nemo`):**
 
 `RMX2002`: realme Narzo Indonesia
 
@@ -395,7 +433,7 @@
 
 `RMX2193`: realme Narzo 20 India
 
-**realme Narzo 20 Pro:**
+**realme Narzo 20 Pro (`salaa`):**
 
 `RMX2161`: realme Narzo 20 Pro India
 
@@ -405,9 +443,11 @@
 
 `RMX2050`: realme Narzo 20A
 
-**realme Narzo 30:**
+**realme Narzo 30 (`salaa`):**
 
 `RMX2156`: realme Narzo 30
+
+**realme Narzo 30 5G:**
 
 `RMX3242`: realme Narzo 30 5G
 
@@ -419,9 +459,11 @@
 
 `RMX3171`: realme Narzo 30A
 
-**realme Narzo 50:**
+**realme Narzo 50 (`spaced`):**
 
 `RMX3286`: realme Narzo 50
+
+**realme Narzo 50 5G:**
 
 `RMX3571`: realme Narzo 50 5G India
 
@@ -474,42 +516,6 @@
 **realme NARZO 70 Pro:**
 
 `RMX3868`: realme NARZO 70 Pro 5G
-
-## GT series
-
-**realme GT:**
-
-`RMX2202`: realme GT 5G
-
-**realme GT Master Edition:**
-
-`RMX3360` `RMX3363`: realme GT Master Edition
-
-**realme GT NEO 2:**
-
-`RMX3370`: realme GT NEO 2 5G
-
-**realme GT 2:**
-
-`RMX3311` `RMX3312`: realme GT 2 5G
-
-**realme GT 2 Pro:**
-
-`RMX3301`: realme GT 2 Pro 5G
-
-**realme GT NEO 3:**
-
-`RMX3561`: realme GT NEO 3
-
-`RMX3563`: realme GT NEO 3 150W
-
-**realme GT NEO 3T:**
-
-`RMX3371`: realme GT NEO 3T
-
-**realme GT 3:**
-
-`RMX3709`: realme GT 3 240W
 
 ## Tablets
 
