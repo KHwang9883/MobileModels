@@ -1,7 +1,7 @@
 # realme 手机型号汇总
 
 - 汇总范围: 全部机型
-- codename: ❌
+- codename: ⏹
 - 是否包含海外机型: [单独汇总 (英文)](brands/realme_global_en.md)
 
 ## X 系列
@@ -18,7 +18,7 @@
 
 `RMX1991`: 真我 X2
 
-**真我 X2 Pro:**
+**真我 X2 Pro (`samurai`):**
 
 `RMX1931`: 真我 X2 Pro
 
@@ -28,11 +28,11 @@
 
 `RMX2025`: 真我 X50 5G 移动版
 
-**真我 X50 Pro:**
+**真我 X50 Pro (`bladerunner`):**
 
 `RMX2071`: 真我 X50 Pro 5G
 
-**真我 X50 Pro 玩家版:**
+**真我 X50 Pro 玩家版 (`bladerunner_48m`):**
 
 `RMX2072`: 真我 X50 Pro 玩家版
 
@@ -66,7 +66,7 @@
 
 `RMX2202`: 真我 GT 5G
 
-**真我 GT 大师版:**
+**真我 GT 大师版 (`lunaa`):**
 
 `RMX3361`: 真我 GT 大师版
 
@@ -74,7 +74,7 @@
 
 `RMX3366`: 真我 GT 大师探索版
 
-**真我 GT2:**
+**真我 GT2 (`porsche`):**
 
 `RMX3310`: 真我 GT2
 
@@ -106,7 +106,7 @@
 
 `RMX3350`: 真我 GT Neo 闪速版
 
-**真我 GT Neo2:**
+**真我 GT Neo2 (`bitra`):**
 
 `RMX3370`: 真我 GT Neo2
 
