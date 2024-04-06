@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-06
+- `vivo_global_en` Add vivo Y38.
 ## 2024-04-05
 - `realme_global_en` Add several codenames.
 - `vivo_global_en` Add vivo T3x, iQOO Z9x.
