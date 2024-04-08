@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-04-08
 - `huawei_cn` 新增 HUAWEI MatePad Pro 13.2 全网通版。
+- `oppo_cn` 新增 OPPO K12。
 ## 2024-04-07
 - `huawei_cn` 新增 华为手环 9。
 ## 2024-04-05

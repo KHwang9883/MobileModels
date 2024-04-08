@@ -554,6 +554,10 @@
 
 `PHF110`: OPPO K11x
 
+**OPPO K12:**
+
+`PJR110`: OPPO K12
+
 ## 平板电脑
 
 **OPPO Pad:**
