@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-10
+- `xiaomi_en` Add Redmi Pad Pro.
 ## 2024-04-06
 - `vivo_global_en` Add vivo Y38.
 ## 2024-04-05

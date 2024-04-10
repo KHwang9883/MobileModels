@@ -1981,6 +1981,12 @@
 
 `23073RPBFL`: Redmi Pad SE Latin America
 
+**Redmi Pad Pro (`dizi`):**
+
+`2405CRPFDG`: Redmi Pad Pro Global
+
+`2405CRPFDC`: Redmi Pad Pro China
+
 ## Others
 
 **Xiaomi Mijia Translator (`FYJ01QP`):**
