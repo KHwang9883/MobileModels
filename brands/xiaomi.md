@@ -1788,6 +1788,12 @@
 
 `23073RPBFL`: Redmi Pad SE 拉美版
 
+**Redmi Pad Pro (`dizi`):**
+
+`2405CRPFDC`: Redmi Pad Pro 国行版
+
+`2405CRPFDG`: Redmi Pad Pro 国际版
+
 ## POCO 手机
 
 **[`E10`] POCO F1 (`beryllium`):**

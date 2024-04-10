@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-04-10
 - `mitv_cn` 新增 Redmi 智能电视 MAX 100 2025 款。
+- `xiaomi` 新增 Redmi Pad Pro。
 ## 2024-04-09
 - `huawei_cn` 新增 华为智慧屏 S5。
 ## 2024-04-08
