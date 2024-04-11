@@ -1560,6 +1560,8 @@
 
 `23090RA98I`: Redmi Note 13 Pro+ 5G 印度版
 
+`24040RA98R`: Redmi Note 13 Pro+ 5G 日本版
+
 **[`N17`] Redmi Note 13R Pro (`gold`):**
 
 `2311FRAFDC`: Redmi Note 13R Pro
