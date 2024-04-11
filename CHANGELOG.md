@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-04-11
 - `huawei_cn` 新增 HUAWEI MateBook X Pro 2024。
+- `vivo_cn` 新增 iQOO Z9 系列, vivo Y200i。
 ## 2024-04-10
 - `mitv_cn` 新增 Redmi 智能电视 MAX 100 2025 款。
 - `xiaomi` 新增 Redmi Pad Pro。

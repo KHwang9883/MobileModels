@@ -638,6 +638,10 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
+**vivo Y200i (`PD2354`):**
+
+`V2354A`: vivo Y200i 5G
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
@@ -949,6 +953,18 @@
 **iQOO Z8x (`PD2312`):**
 
 `V2312A`: iQOO Z8x
+
+**iQOO Z9 (`PD2361`):**
+
+`V2361A`: iQOO Z9
+
+**iQOO Z9 Turbo (`PD2352`):**
+
+`V2352A`: iQOO Z9 Turbo
+
+**iQOO Z9x (`PD2353`):**
+
+`V2353A`: iQOO Z9x
 
 ## iQOO U 系列
 
