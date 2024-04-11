@@ -1463,6 +1463,8 @@
 
 `23090RA98C`: Redmi Note 13 Pro+ 5G China
 
+`24040RA98R`: Redmi Note 13 Pro+ 5G Japan
+
 **[`N17`] Redmi Note 13R Pro (`gold`):**
 
 `2311FRAFDC`: Redmi Note 13R Pro China
