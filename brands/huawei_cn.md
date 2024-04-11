@@ -1339,6 +1339,12 @@
 
 `MRGFG-32`: HUAWEI MateBook X Pro 2023 (32GB 内存)
 
+**HUAWEI MateBook X Pro 2024:**
+
+`VGHH-16`: HUAWEI MateBook X Pro 2024 (16GB 内存)
+
+`VGHH-32`: HUAWEI MateBook X Pro 2024 (32GB 内存)
+
 **HUAWEI MateBook 13 (`Wright`):**
 
 `WRT-W19`: HUAWEI MateBook 13 i5
