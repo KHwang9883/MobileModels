@@ -405,6 +405,12 @@
 
 `SM-S9210`: Galaxy S24 China
 
+`SM-S921Q`: Galaxy S24 Japan (SIM Free)
+
+`SCG25`: Galaxy S24 Japan (au)
+
+`SC-51E`: Galaxy S24 Japan (NTT Docomo)
+
 **Galaxy S24+ (`e2s`):**
 
 `SM-S926B`: Galaxy S24+ Global
@@ -434,6 +440,12 @@
 `SM-S9280`: Galaxy S24 Ultra China
 
 `SM-S928N`: Galaxy S24 Ultra South Korea
+
+`SM-S928Q`: Galaxy S24 Ultra Japan (SIM Free)
+
+`SCG26`: Galaxy S24 Ultra Japan (au)
+
+`SC-52E`: Galaxy S24 Ultra Japan (NTT Docomo)
 
 ## Galaxy Note
 
