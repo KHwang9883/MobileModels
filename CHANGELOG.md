@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-04-12
+- `oppo_cn` 新增 OPPO A1s/A1i。
 ## 2024-04-11
 - `huawei_cn` 新增 HUAWEI MateBook X Pro 2024。
 - `vivo_cn` 新增 iQOO Z9 系列, vivo Y200i。
