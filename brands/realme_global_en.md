@@ -413,6 +413,16 @@
 
 `RMX1831` `RMX1833`: realme U1
 
+## P series
+
+**realme P1:**
+
+`RMX3870`: realme P1 5G
+
+**realme P1 Pro (`coffee-a`):**
+
+`RMX3844`: realme P1 Pro 5G
+
 ## Narzo series
 
 **realme Narzo (`nemo`):**

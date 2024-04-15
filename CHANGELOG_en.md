@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-15
+- `realme_global_en` Add realme P1 series.
 ## 2024-04-10
 - `xiaomi_en` Add Redmi Pad Pro.
 ## 2024-04-06
