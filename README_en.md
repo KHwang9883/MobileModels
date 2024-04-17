@@ -28,7 +28,7 @@ Unlisted brands usually not include international models.
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
 | [realme_global_en](brands/realme_global_en.md) | realme | All international models |
 | [vivo_global_en](brands/vivo_global_en.md) | vivo | International models since 2019 |
-| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi phones & tablets, Redmi phones & tablets, POCO phones |
+| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi/Redmi/POCO phones & tablets |
 
 ## Changelog
 
