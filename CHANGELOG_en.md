@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-17
+- `oppo_global_en` Add OPPO A60.
 ## 2024-04-15
 - `realme_global_en` Add realme P1 series.
 ## 2024-04-10
