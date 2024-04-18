@@ -1,6 +1,6 @@
 # 华为手机型号汇总
 
-- 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备
+- 汇总范围: 华为 Mate/Pura/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/huawei_global_en.md)
 - 华为智选手机汇总: [单独汇总](brands/zhixuan.md)
@@ -231,7 +231,7 @@
 
 `ALT-AL10`: HUAWEI Mate X5
 
-## HUAWEI P 系列
+## HUAWEI P / Pura 系列
 
 **华为 Ascend P1:**
 
@@ -402,6 +402,22 @@
 **HUAWEI P60 Art (`Mona`):**
 
 `MNA-AL00`: HUAWEI P60 Art
+
+**HUAWEI Pura 70 (`Audrey`):**
+
+`ADY-AL00`: HUAWEI Pura 70
+
+**HUAWEI Pura 70 Pro (`Hapburn`):**
+
+`HBN-AL00`: HUAWEI Pura 70 Pro
+
+**HUAWEI Pura 70 Pro+ (`Hapburn`):**
+
+`HBN-AL10` `HBN-AL80`: HUAWEI Pura 70 Pro+
+
+**HUAWEI Pura 70 Ultra (`HapburnP`):**
+
+`HBP-AL00`: HUAWEI Pura 70 Ultra
 
 ## HUAWEI Pocket 系列
 
