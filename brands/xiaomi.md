@@ -1076,7 +1076,7 @@
 
 `22120RN86H` `22120RN86I`: Redmi 12C 印度版
 
-**[`C3TL`] Redmi 12 (`fire`):**
+**[`C3TL`] Redmi 12C (`earth`):**
 
 `2212ARNC4L`: Redmi 12C 拉美版
 

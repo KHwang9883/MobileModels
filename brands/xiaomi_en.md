@@ -987,7 +987,7 @@
 
 `22120RN86C`: Redmi 12C China
 
-**[`C3TL`] Redmi 12 (`fire`):**
+**[`C3TL`] Redmi 12C (`earth`):**
 
 `2212ARNC4L`: Redmi 12C Latin America
 
