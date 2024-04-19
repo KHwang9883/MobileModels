@@ -1995,6 +1995,22 @@
 
 `HD75KUNA`: 华为 Vision 智慧屏 SE3 75
 
+**华为 Vision 智慧屏 4:**
+
+`HD6XQINA`: 华为 Vision 智慧屏 4 65
+
+`HD7XQINA`: 华为 Vision 智慧屏 4 75
+
+`HD8XQINA`: 华为 Vision 智慧屏 4 86
+
+**华为 Vision 智慧屏 4 SE:**
+
+`HD55KUNL`: 华为 Vision 智慧屏 4 SE 55
+
+`HD65KUNL`: 华为 Vision 智慧屏 4 SE 65
+
+`HD75KUNL`: 华为 Vision 智慧屏 4 SE 75
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
