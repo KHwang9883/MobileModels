@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-21
+- `xiaomi_en` Add Redmi 13 5G.
 ## 2024-04-17
 - `oppo_global_en` Add OPPO A60.
 - `xiaomi_en` Add several new models.

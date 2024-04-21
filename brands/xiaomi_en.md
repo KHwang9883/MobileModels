@@ -1009,6 +1009,12 @@
 
 `24040RN64Y`: Redmi 13 Global (NFC)
 
+**[`N19`] Redmi 13 5G (`breeze`):**
+
+`2406ERN9CC`: Redmi 13 5G China
+
+`2406ERN9CI`: Redmi 13 5G India
+
 **[`C3U`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C Global
@@ -1929,7 +1935,7 @@
 
 `2312FPCA6G`: POCO M6 Pro Global
 
-**[`M19`] POCO M6 Pro 5G (`sky`):**
+**[`M19P`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G India
 
