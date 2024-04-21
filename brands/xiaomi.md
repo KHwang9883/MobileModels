@@ -1080,6 +1080,10 @@
 
 `2212ARNC4L`: Redmi 12C 拉美版
 
+**[`C3TN`] Redmi 12C (`aether`):**
+
+`22126RN91Y`: Redmi 12C 国际版 (NFC)
+
 **[`N19A`] Redmi 13 (`tides`):**
 
 `2404ARN45A`: Redmi 13 国际版
@@ -1094,9 +1098,11 @@
 
 `24040RN64Y`: Redmi 13 国际版 (NFC)
 
-**[`C3TN`] Redmi 12C (`aether`):**
+**[`N19`] Redmi 13 5G (`breeze`):**
 
-`22126RN91Y`: Redmi 12C 国际版 (NFC)
+`2406ERN9CC`: Redmi 13 5G 国行版
+
+`2406ERN9CI`: Redmi 13 5G 印度版
 
 **[`C3U`] Redmi 13C (`gale`):**
 
@@ -1864,10 +1870,6 @@
 
 `24074RPD2G`: Redmi Pad Pro 5G 国际版
 
-**POCO Pad (`dizi`):**
-
-`2405CPCFBG`: POCO Pad 国际版
-
 ## POCO 手机
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -2066,7 +2068,7 @@
 
 `2312FPCA6G`: POCO M6 Pro 国际版
 
-**[`M19`] POCO M6 Pro 5G (`sky`):**
+**[`M19P`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G 印度版
 
@@ -2111,6 +2113,12 @@
 **[`C3UP`] POCO C65 (`gale`):**
 
 `2310FPCA4I`: POCO C65 印度版
+
+## POCO 平板
+
+**POCO Pad (`dizi`):**
+
+`2405CPCFBG`: POCO Pad 国际版
 
 ## 其他系列
 
