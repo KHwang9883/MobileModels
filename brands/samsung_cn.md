@@ -584,6 +584,10 @@
 
 `SM-C9008`: Galaxy C9 Pro 4G+
 
+**Galaxy C55 (`m55xq`):**
+
+`SM-C5560`: Galaxy C55 5G
+
 ## Galaxy J 系列
 
 **Galaxy J3 (`j3ltectc`):**
