@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-04-22
 - `samsung_cn` 新增 Galaxy C55。
+- `zhixuan` 新增 Hi nova 12 SE。
 ## 2024-04-21
 - `xiaomi` 新增 Redmi 13 5G。
 ## 2024-04-19
