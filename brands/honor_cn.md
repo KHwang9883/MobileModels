@@ -956,6 +956,10 @@
 
 `ROD-W09`: 荣耀平板 9 Pro 12.1 英寸 Wi-Fi 版
 
+**荣耀平板 Z7 (`Hendry2`):**
+
+`HEY2-AN00`: 荣耀平板 Z7 12.1 英寸 5G 版
+
 **荣耀 Waterplay (`Haydn`):**
 
 `HDN-W09`: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
