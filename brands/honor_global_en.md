@@ -213,6 +213,10 @@
 
 `CLK-NX1` `CLK-NX3`: HONOR 90 Smart
 
+**HONOR 200 Lite (`Lily`):**
+
+`LLY-NX1`: HONOR 200 Lite
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -337,7 +341,7 @@
 
 **HONOR X9b 5G (`Ali`):**
 
-`ALI-NX1`: HONOR X9b 5G
+`ALI-NX1` `ALI-NX3P`: HONOR X9b 5G
 
 **HONOR Pad 8 (`Hendry`):**
 

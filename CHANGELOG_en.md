@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-26
+- `honor_global_en` Add HONOR 200 Lite.
 ## 2024-04-21
 - `xiaomi_en` Add Redmi 13 5G.
 ## 2024-04-17
