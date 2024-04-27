@@ -15,6 +15,4 @@
 
 **Nothing Phone (2a) (`Pacman`):**
 
-`A142`: Nothing Phone (2a) Global
-
-`AIN142`: Nothing Phone (2a) India
+`A142`: Nothing Phone (2a)
