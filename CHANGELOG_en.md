@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-04-29
+- `realme_global_en` Add several new models.
 ## 2024-04-26
 - `honor_global_en` Add HONOR 200 Lite.
 ## 2024-04-21

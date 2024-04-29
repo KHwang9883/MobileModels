@@ -185,6 +185,10 @@
 
 `RMX3999`: realme 12 5G
 
+**realme 12x 5G:**
+
+`RMX3998`: realme 12x 5G
+
 **realme 12+ 5G:**
 
 `RMX3867`: realme 12+ 5G
@@ -285,7 +289,7 @@
 
 `RMX3371`: realme GT NEO 3T
 
-**realme GT 3:**
+**realme GT 3 (`senna-C`):**
 
 `RMX3709`: realme GT 3 240W
 
@@ -385,6 +389,10 @@
 
 `RMX3830`: realme C51
 
+**realme C51s:**
+
+`RMX3765`: realme C51s
+
 **realme C53:**
 
 `RMX3760`: realme C53 Global
@@ -394,6 +402,12 @@
 **realme C55:**
 
 `RMX3710`: realme C55
+
+**realme C65:**
+
+`RMX3910`: realme C65
+
+`RMX3997`: realme C65 5G
 
 **realme C67:**
 
@@ -523,9 +537,17 @@
 
 `RMX3782`: realme Narzo 60x 5G
 
+**realme NARZO 70:**
+
+`RMX3869`: realme NARZO 70 5G
+
 **realme NARZO 70 Pro:**
 
 `RMX3868`: realme NARZO 70 Pro 5G
+
+**realme NARZO 70x:**
+
+`RMX3998`: realme NARZO 70x 5G
 
 ## Tablets
 
