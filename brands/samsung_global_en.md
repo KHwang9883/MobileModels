@@ -1139,7 +1139,7 @@
 
 `SM-A236B`: Galaxy A23 5G EU
 
-`SN-A236U`: Galaxy A23 5G US Carrier
+`SM-A236U`: Galaxy A23 5G US Carrier
 
 `SM-A236U1`: Galaxy A23 5G US Unlocked
 
@@ -1543,6 +1543,264 @@
 
 ## Galaxy M
 
-**Galaxy M11 (`m11`):**
+**Galaxy M01 (`m01q`):**
 
-`SM-M115F`: Galaxy M11 Global
+`SM-M015F` `SM-M015G`: Galaxy M01
+
+**Galaxy M01 Core (`a01core`):**
+
+`SM-M013F`: Galaxy M01 Core
+
+**Galaxy M01s (`a10s`):**
+
+`SM-M013F`: Galaxy M01s
+
+**Galaxy M02 (`a02`):**
+
+`SM-M022F`: Galaxy M02 India
+
+`SM-M022G`: Galaxy M02 India (2GB RAM)
+
+`SM-M022M`: Galaxy M02 Latin America
+
+**Galaxy M02s (`a02q`):**
+
+`SM-M025F`: Galaxy M02s
+
+**Galaxy M04 (`m04`):**
+
+`SM-M045F`: Galaxy M04
+
+**Galaxy M10 (`m10lte`):**
+
+`SM-M105G`: Galaxy M10 Global
+
+`SM-M105F`: Galaxy M10 India
+
+`SM-M105M`: Galaxy M10 Latin America
+
+`SM-M105Y`: Galaxy M10 Philippines
+
+**Galaxy M10s (`m10s`):**
+
+`SM-M107F`: Galaxy M10s
+
+**Galaxy M11 (`m11q`):**
+
+`SM-M115F`: Galaxy M11 India
+
+`SM-M115M`: Galaxy M11 Latin America
+
+**Galaxy M12 (`m12`):**
+
+`SM-M127G`: Galaxy M12 India
+
+`SM-M127F`: Galaxy M12 Latin America
+
+`SM-M127N`: Galaxy M12 South Korea
+
+**Galaxy M13 (`m13`):**
+
+`SM-M135F`: Galaxy M13 EU
+
+`SM-M135FU`: Galaxy M13 India
+
+`SM-M135M`: Galaxy M13 Latin America
+
+**Galaxy M13 5G (`a13x`):**
+
+`SM-M136B`: Galaxy M13 5G
+
+**Galaxy M14 (`a05s`):**
+
+`SM-M145F`: Galaxy M14
+
+**Galaxy M14 5G (`m14x`):**
+
+`SM-M146B`: Galaxy M14 5G
+
+**Galaxy M15 5G (`m15x`):**
+
+`SM-M156B`: Galaxy M15 5G Global
+
+`SM-E156B`: Galaxy M15 5G India
+
+**Galaxy M20 (`m20`):**
+
+`SM-M205N`: Galaxy M20 South Korea
+
+**Galaxy M20 (`m20lte`):**
+
+`SM-M205F`: Galaxy M20 Global
+
+`SM-M205FN`: Galaxy M20 EU
+
+`SM-M205G`: Galaxy M20 Southeast Asia
+
+`SM-M205M`: Galaxy M20 Latin America
+
+**Galaxy M21 (`m21`):**
+
+`SM-M215F`: Galaxy M21
+
+`SM-M215G`: Galaxy M21 2021 Edition
+
+**Galaxy M22 (`m22`):**
+
+`SM-M225FV`: Galaxy M22
+
+**Galaxy M23 5G (`m23xq`):**
+
+`SM-M236B`: Galaxy M23 5G Global
+
+`SM-M236Q`: Galaxy M23 5G Japan
+
+**Galaxy M30 (`m30lte`):**
+
+`SM-M305F`: Galaxy M30 Global
+
+`SM-M305M`: Galaxy M30 Latin America
+
+**Galaxy M30s (`m30s`):**
+
+`SM-M307F`: Galaxy M30s Southeast Asia
+
+`SM-M307FN`: Galaxy M30s Global
+
+`SM-M3070`: Galaxy M30s China
+
+**Galaxy M31 (`m31`):**
+
+`SM-M315F`: Galaxy M31
+
+**Galaxy M31s (`m31s`):**
+
+`SM-M317F`: Galaxy M31s
+
+**Galaxy M32 (`m32`):**
+
+`SM-M325F`: Galaxy M32 India
+
+`SM-M325FV`: Galaxy M32 Southeast Asia
+
+**Galaxy M32 5G (`a32x`):**
+
+`SM-M326B`: Galaxy M32 5G
+
+**Galaxy M33 5G (`m33x`):**
+
+`SM-M336B`: Galaxy M33 5G Global
+
+`SM-M336BU`: Galaxy M33 5G India
+
+**Galaxy M34 5G (`m34x`):**
+
+`SM-M346B`: Galaxy M34 5G India
+
+`SM-M346B1`: Galaxy M34 5G Southeast Asia
+
+`SM-M346B2`: Galaxy M34 Global
+
+**Galaxy M40 (`m40`):**
+
+`SM-M405F`: Galaxy M40
+
+**Galaxy M42 5G (`a42xq`):**
+
+`SM-M426B`: Galaxy M42 5G
+
+**Galaxy M51 (`m51`):**
+
+`SM-M515F`: Galaxy M51
+
+**Galaxy M52 5G (`m52xq`):**
+
+`SM-M526B` `SM-M526BR`: Galaxy M52 5G
+
+**Galaxy M53 5G (`m53x`):**
+
+`SM-M536B`: Galaxy M53 5G
+
+**Galaxy M54 5G (`m54x`):**
+
+`SM-M546B`: Galaxy M54 5G
+
+**Galaxy M55 5G (`m55xq`):**
+
+`SM-M556B`: Galaxy M55 5G India
+
+`SM-M556E`: Galaxy M55 5G Global
+
+**Galaxy C55 5G (`m55xq`):**
+
+`SM-C5560`: Galaxy C55 5G
+
+**Galaxy M62 (`m62`):**
+
+`SM-M625F`: Galaxy M62
+
+## Galaxy F
+
+**Galaxy F02s (`a02q`):**
+
+`SM-E025F`: Galaxy F02s
+
+**Galaxy F04 (`m04`):**
+
+`SM-E045F`: Galaxy F04
+
+**Galaxy F12 (`f12`):**
+
+`SM-F127G`: Galaxy F12
+
+**Galaxy F13 (`m13`):**
+
+`SM-E135F`: Galaxy F13
+
+**Galaxy F14 (`a05s`):**
+
+`SM-E145F`: Galaxy F14
+
+**Galaxy F14 5G (`m14x`):**
+
+`SM-E146B`: Galaxy F14 5G
+
+**Galaxy F15 5G (`m15x`):**
+
+`SM-E156B`: Galaxy F15 5G
+
+**Galaxy F22 (`f22`):**
+
+`SM-E225F`: Galaxy F22
+
+**Galaxy F23 5G (`m23xq`):**
+
+`SM-E236B`: Galaxy F23 5G
+
+**Galaxy F34 5G (`m34x`):**
+
+`SM-E346B`: Galaxy F34 5G
+
+**Galaxy F41 (`f41`):**
+
+`SM-F415F`: Galaxy F41
+
+**Galaxy F42 5G (`f42x`):**
+
+`SM-E426B`: Galaxy F42 5G
+
+**Galaxy F52 5G (`f52x`):**
+
+`SM-E5260`: Galaxy F52 5G
+
+**Galaxy F54 5G (`m54x`):**
+
+`SM-E546B`: Galaxy F54 5G
+
+**Galaxy F55 5G (`m55xq`):**
+
+`SM-E556B`: Galaxy F55 5G
+
+**Galaxy F62 (`f62`):**
+
+`SM-E625F`: Galaxy F62

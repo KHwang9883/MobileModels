@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2024-05-01
-- `samsung_global_en` Add Galaxy A series.
+- `samsung_global_en` Add Galaxy A series, F series and M series.
 ## 2024-04-29
 - `realme_global_en` Add several new models.
 ## 2024-04-26
