@@ -448,6 +448,10 @@
 
 **Redmi 智能电视 A 2025 款:**
 
+`L32RA-RA`: Redmi 智能电视 A32 2025 款
+
+`L43RA-RA`: Redmi 智能电视 A43 2025 款
+
 `L50RB-RA`: Redmi 智能电视 A50 2025 款
 
 `L55RB-RA`: Redmi 智能电视 A55 2025 款
