@@ -525,7 +525,7 @@
 
 **Galaxy Note10+ (`d2x`):**
 
-`SM-N976B`: Galaxy Note10+ 5G Global
+`SM-N976B`: Galaxy Note10+ 5G Global (Exynos)
 
 `SM-N976N`: Galaxy Note10+ 5G South Korea
 
@@ -769,13 +769,777 @@
 
 ## Galaxy A
 
+**Galaxy A01 (`a01q`):**
+
+`SM-A015F`: Galaxy A01 Global
+
+`SM-A015U`: Galaxy A01 US Carrier
+
+`SM-A015U1`: Galaxy A01 US Unlocked
+
+`SM-A015A`: Galaxy A01 AT&T
+
+`SM-A015AZ`: Galaxy A01 Cricket
+
+`SM-A015T1`: Galaxy A01 T-Mobile
+
+`SM-A015V`: Galaxy A01 Verizon
+
+`SM-S111DL`: Galaxy A01 TracFone
+
+`SM-A015G`: Galaxy A01 India
+
+`SM-A015M`: Galaxy A01 Latin America
+
+**Galaxy A01 Core (`a01core`):**
+
+`SM-A013F` `SM-A013G`: Galaxy A01 Core Global
+
+`SM-A013M`: Galaxy A01 Core Latin America
+
+**Galaxy A02 (`a02`):**
+
+`SM-A022F` `SM-A022G`: Galaxy A02 Global
+
+`SM-A022M`: Galaxy A02 Latin America
+
+**Galaxy A02s (`a02q`):**
+
+`SM-A025F`: Galaxy A02s Global
+
+`SM-A025G`: Galaxy A02s EU
+
+`SM-A025U`: Galaxy A02s US Carrier
+
+`SM-A025U1`: Galaxy A02s US Unlocked
+
+`SM-A025A`: Galaxy A02s AT&T
+
+`SM-A025AZ`: Galaxy A02s Cricket
+
+`SM-A025V`: Galaxy A02s Verizon
+
+`SM-S124DL`: Galaxy A02s TracFone
+
+`SM-A025M`: Galaxy A02s Latin America
+
+**Galaxy A03 (`a03`):**
+
+`SM-A035F`: Galaxy A03 Global
+
+`SM-A035G`: Galaxy A03 EU
+
+`SM-A035M`: Galaxy A03 Latin America
+
+**Galaxy A03 Core (`a3core`):**
+
+`SM-A032F`: Galaxy A03 Core Global
+
+`SM-A032M`: Galaxy A03 Core Latin America
+
+**Galaxy A03s (`a03s`):**
+
+`SM-A037F`: Galaxy A03s Global
+
+`SM-A037G`: Galaxy A03s EU
+
+`SM-A037M`: Galaxy A03s Latin America
+
+**Galaxy A03s (`a03su`):**
+
+`SM-A037U`: Galaxy A03s US Carrier
+
+`SM-A037U1`: Galaxy A03s US Unlocked
+
+`SM-S134DL`: Galaxy A03s TracFone
+
+`SM-A037W`: Galaxy A03s Canada
+
+**Galaxy A04 (`a04`):**
+
+`SM-A045F`: Galaxy A04 Global
+
+`SM-A045M`: Galaxy A04 Latin America
+
+**Galaxy A04e (`a04e`):**
+
+`SM-A042F`: Galaxy A04e Global
+
+`SM-A042M`: Galaxy A04e Latin America
+
+**Galaxy A04s (`a04s`):**
+
+`SM-A047F`: Galaxy A04s Global
+
+`SM-A047M`: Galaxy A04s Latin America
+
+**Galaxy A05 (`a05m`):**
+
+`SM-A055F`: Galaxy A05 Global
+
+`SM-A055M`: Galaxy A05 Latin America
+
+**Galaxy A05s (`a05s`):**
+
+`SM-A057F`: Galaxy A05s Global
+
+`SM-A057G`: Galaxy A05s EU
+
+`SM-A057M`: Galaxy A05s Latin America
+
+**Galaxy A10 (`a10`):**
+
+`SM-A105F` `SM-A015FN` `SM-A015G`: Galaxy A10 Global
+
+`SM-A105M`: Galaxy A10 Latin America
+
+`SM-A105N`: Galaxy A10 South Korea
+
+**Galaxy A10e (`a10e`):**
+
+`SM-A102U`: Galaxy A10e US Carrier
+
+`SM-A102U1`: Galaxy A10e US Unlocked
+
+`SM-S102DL`: Galaxy A10e TracFone
+
+`SM-A102W`: Galaxy A10e Canada
+
+**Galaxy A10e (`a10ekx`):**
+
+`SM-A102N`: Galaxy A10e South Korea
+
+**Galaxy A10s (`a10s`):**
+
+`SM-A107F`: Galaxy A10s Global
+
+`SM-A107M`: Galaxy A10s Latin America
+
+**Galaxy A11 (`a11q`):**
+
+`SM-A115F`: Galaxy A11 Global
+
+`SM-A115U`: Galaxy A11 US Carrier
+
+`SM-A115U1`: Galaxy A11 US Unlocked
+
+`SM-A115A` `SM-A115AP`: Galaxy A11 AT&T
+
+`SM-A115AZ`: Galaxy A11 Cricket
+
+`SM-S115DL`: Galaxy A11 TracFone
+
+`SM-A115W`: Galaxy A11 Canada
+
+`SM-A115M`: Galaxy A11 Latin America
+
 **Galaxy A12 (`a12`):**
 
 `SM-A125F`: Galaxy A12 Global
 
-**Galaxy A71 (`a71x`):**
+`SM-A125M`: Galaxy A12 Latin America
 
-`SM-A715F`: Galaxy A71 Global
+`SM-A125N`: Galaxy A12 South Korea
+
+**Galaxy A12 (`a12u`):**
+
+`SM-A125U`: Galaxy A12 US Carrier
+
+`SM-A125U1`: Galaxy A12 US Unlocked
+
+`SM-S127DL`: Galaxy A12 TracFone
+
+`SM-A125W`: Galaxy A12 Canada
+
+**Galaxy A12 Nacho (`a12s`):**
+
+`SM-A127F`: Galaxy A12 Nacho Global
+
+`SM-A127M`: Galaxy A12 Nacho Latin America
+
+**Galaxy A13 (`a13`):**
+
+`SM-A135F`: Galaxy A13 Global (Exynos)
+
+`SM-A135U`: Galaxy A13 US Carrier
+
+`SM-A135U1`: Galaxy A13 US Unlocked
+
+`SM-A135M`: Galaxy A13 Latin America
+
+`SM-A135N`: Galaxy A13 South Korea
+
+**Galaxy A13 (`a13ve`):**
+
+`SM-A137F`: Galaxy A13 Global (Mediatek)
+
+**Galaxy A13 5G (`a13x`):**
+
+`SM-A136B`: Galaxy A13 5G Global
+
+`SM-A136U`: Galaxy A13 5G US Carrier
+
+`SM-A136U1`: Galaxy A13 5G US Unlocked
+
+`SM-S136DL`: Galaxy A13 5G TracFone
+
+`SM-A136W`: Galaxy A13 5G Canada
+
+`SM-A136M`: Galaxy A13 5G Latin America
+
+**Galaxy A14 (`a14`):**
+
+`SM-A145F` `SM-A145FB`: Galaxy A14 Global (Exynos)
+
+`SM-A145M` `SM-A145MB`: Galaxy A14 Latin America
+
+**Galaxy A14 (`a14m`):**
+
+`SM-A145P`: Galaxy A14 MEA (Mediatek)
+
+`SM-A145R`: Galaxy A14 EU (Mediatek)
+
+**Galaxy A14 5G (`a14x`):**
+
+`SM-A146B`: Galaxy A14 5G Global (Exynos)
+
+`SM-A146M`: Galaxy A14 5G Latin America
+
+**Galaxy A14 5G (`a14xm`):**
+
+`SM-A146P`: Galaxy A14 5G Global (Mediatek)
+
+`SM-A146U`: Galaxy A14 5G US Carrier
+
+`SM-A146U1`: Galaxy A14 5G US Unlocked
+
+`SM-S146VL`: Galaxy A14 5G TracFone
+
+`SM-A146W`: Galaxy A14 5G Canada
+
+**Galaxy A15 (`a15`):**
+
+`SM-A155F`: Galaxy A15 Global
+
+`SM-A155M`: Galaxy A15 Latin America
+
+`SM-A155N`: Galaxy A15 South Korea
+
+**Galaxy A15 5G (`a15x`):**
+
+`SM-A156E`: Galaxy A15 5G Global
+
+`SM-A156B`: Galaxy A15 5G EU
+
+`SM-A156U`: Galaxy A15 5G US Carrier
+
+`SM-A156U1`: Galaxy A15 5G US Unlocked
+
+`SM-S156V`: Galaxy A15 5G TracFone
+
+`SM-A156W`: Galaxy A15 5G Canada
+
+`SM-A156M`: Galaxy A15 5G Latin America
+
+`SM-A1560`: Galaxy A15 5G TW
+
+**Galaxy A2 Core (`a2corelte`):**
+
+`SM-A260F`: Galaxy A2 Core Global
+
+`SM-A260G`: Galaxy A2 Core India
+
+**Galaxy A20 (`a20`):**
+
+`SM-A205F`: Galaxy A20 Global
+
+`SM-A205FN`: Galaxy A20 EU
+
+`SM-A205G`: Galaxy A20 Latin America
+
+`SM-A205GN`: Galaxy A20 Southeast Asia
+
+`SM-A205W`: Galaxy A20 Canada
+
+`SM-A205YN`: Galaxy A20 Australia & New Zealand
+
+`SCV46`: Galaxy A20 Japan (au)
+
+`SC-02M`: Galaxy A20 Japan (NTT Docomo)
+
+**Galaxy A20 (`a20p`):**
+
+`SM-A205U`: Galaxy A20 US Carrier
+
+`SM-A205U1`: Galaxy A20 US Unlocked
+
+`SM-S205DL`: Galaxy A20 TracFone
+
+**Galaxy A20e (`a20e`):**
+
+`SM-A202F`: Galaxy A20e Global
+
+**Galaxy A20s (`a20s`):**
+
+`SM-A207F`: Galaxy A20s Global
+
+`SM-A207W`: Galaxy A20s Latin America
+
+`SM-A2070`: Galaxy A20s China
+
+**Galaxy A21 (`a21`):**
+
+`SM-A215U`: Galaxy A21 US Carrier
+
+`SM-A215U1`: Galaxy A21 US Unlocked
+
+`SM-S215DL`: Galaxy A21 TracFone
+
+`SM-A215W`: Galaxy A21 Canada
+
+`SCV49`: Galaxy A21 Japan (au)
+
+`SC-42A`: Galaxy A21 Japan (NTT Docomo)
+
+**Galaxy A21s (`a21s`):**
+
+`SM-A217F`: Galaxy A21s Global
+
+`SM-A217M`: Galaxy A21s Latin America
+
+`SM-A217N`: Galaxy A21s South Korea
+
+**Galaxy A22 (`a22`):**
+
+`SM-A225F`: Galaxy A22 Global
+
+`SM-A225M`: Galaxy A22 Latin America
+
+**Galaxy A22 5G (`a22x`):**
+
+`SM-A226B` `SM-A226BR`: Galaxy A22 5G Global
+
+`SC-56B`: Galaxy A22 5G Japan (NTT DOcomo)
+
+**Galaxy A22s 5G (`a22x`):**
+
+`SM-A226B`: Galaxy A22s 5G Global
+
+**Galaxy A23 (`a23`):**
+
+`SM-A235F`: Galaxy A23 Global
+
+`SM-A235M`: Galaxy A23 Latin America
+
+`SM-A235N`: Galaxy A23 South Korea
+
+**Galaxy A23 5G (`a23xq`):**
+
+`SM-A235E`: Galaxy A23 5G Global
+
+`SM-A236B`: Galaxy A23 5G EU
+
+`SN-A236U`: Galaxy A23 5G US Carrier
+
+`SM-A236U1`: Galaxy A23 5G US Unlocked
+
+`SM-A236V`: Galaxy A23 5G UW Verizon
+
+`SM-S236DL` `SM-S237VL`: Galaxy A23 5G TracFone
+
+`SM-A236M`: Galaxy A23 5G Latin America
+
+`SM-A2360`: Galaxy A23 5G HK
+
+`SCG18`: Galaxy A23 5G Japan (au)
+
+`SC-56C`: Galaxy A23 5G Japan (NTT Docomo)
+
+**Galaxy A23 5G (`a23ex`):**
+
+`SM-A233C`: Galaxy A23 5G Japan (Rakuten Mobile)
+
+**Galaxy A24 (`a24`):**
+
+`SM-A245F`: Galaxy A24 Global
+
+`SM-A245M`: Galaxy A24 Latin America
+
+`SM-A245N`: Galaxy A24 South Korea
+
+**Galaxy A25 5G (`a25x`):**
+
+`SM-A256E`: Galaxy A25 5G Global
+
+`SM-A256B`: Galaxy A25 5G EU
+
+`SM-A256U`: Galaxy A25 5G US Carrier
+
+`SM-A256U1`: Galaxy A25 5G US Unlocked
+
+`SM-S256VL`: Galaxy A25 5G TracFone
+
+`SM-A2560`: Galaxy A25 5G HK
+
+`SM-A256N`: Galaxy A25 5G South Korea
+
+**Galaxy A30 (`a30`):**
+
+`SM-A305F`: Galaxy A30 Global
+
+`SM-A305FN`: Galaxy A30 EU
+
+`SM-A305G`: Galaxy A30 Latin America
+
+`SM-A305GN`: Galaxy A30 Southeast Asia
+
+`SM-A305GT`: Galaxy A30 Brazil
+
+`SM-A305N`: Galaxy A30 South Korea
+
+`SM-A305YN`: Galaxy A30 Australia & New Zealand
+
+`SCV43`: Galaxy A30 Japan (au)
+
+**Galaxy A30s (`a30s`):**
+
+`SM-A307FN`: Galaxy A30s Global
+
+`SM-A307G`: Galaxy A30s Latin America
+
+`SM-A307GN`: Galaxy A30s Southeast Asia
+
+`SM-A307GT`: Galaxy A30s Brazil
+
+**Galaxy A31 (`a31`):**
+
+`SM-A315F` `SM-A315G`: Galaxy A31 Global
+
+`SM-A315N`: Galaxy A31 South Korea
+
+**Galaxy A32 (`a32`):**
+
+`SM-A325F`: Galaxy A32 Global
+
+`SM-A325M`: Galaxy A32 Latin America
+
+`SM-A325N`: Galaxy A32 South Korea
+
+**Galaxy A32 5G (`a32x`):**
+
+`SM-A326B` `SM-A326BR`: Galaxy A32 5G Global
+
+`SM-A326U`: Galaxy A32 5G US Carrier
+
+`SM-A326U1`: Galaxy A32 5G US Unlocked
+
+`SM-S326DL`: Galaxy A32 5G TracFone
+
+`SM-A326W`: Galaxy A32 5G Canada
+
+`SCG08`: Galaxy A32 5G Japan (au)
+
+**Galaxy A33 5G (`a33x`):**
+
+`SM-A336E`: Galaxy A33 5G Global
+
+`SM-A336B`: Galaxy A33 5G EU
+
+`SM-A336M`: Galaxy A33 5G Latin America
+
+`SM-A3360`: Galaxy A33 5G HK
+
+`SM-A336N`: Galaxy A33 5G South Korea
+
+**Galaxy A34 5G (`a34x`):**
+
+`SM-A346E`: Galaxy A34 5G Global
+
+`SM-A346B`: Galaxy A34 5G EU
+
+`SM-A346M`: Galaxy A34 5G Latin America
+
+`SM-A3460`: Galaxy A34 5G HK & TW
+
+`SM-A346N`: Galaxy A34 5G South Korea
+
+**Galaxy A35 5G (`a35x`):**
+
+`SM-A356E`: Galaxy A35 5G Global
+
+`SM-A356B`: Galaxy A35 5G EU
+
+`SM-A356U`: Galaxy A35 5G US Carrier
+
+`SM-A356U1`: Galaxy A35 5G US Unlocked
+
+`SM-S356V`: Galaxy A35 5G TracFone
+
+`SM-A356W`: Galaxy A35 5G Canada
+
+`SM-A3560`: Galaxy A35 5G HK & TW
+
+`SM-A356N`: Galaxy A35 5G South Korea
+
+**Galaxy A40 (`a40`):**
+
+`SM-A405FN`: Galaxy A40 Global
+
+`SM-A405FM`: Galaxy A40 Russia
+
+`SM-A405S`: Galaxy A40 South Korea (SK Telecom)
+
+**Galaxy A40s (`a30c`):**
+
+`SM-A3050`: Galaxy A40s China mainland
+
+`SM-A3058`: Galaxy A40s China Mobile
+
+`SM-A3051`: Galaxy A40s TW
+
+**Galaxy A41 (`a41`):**
+
+`SM-A415F`: Galaxy A41 Global
+
+`SCV48`: Galaxy A41 Japan (au)
+
+`SC-41A`: Galaxy A41 Japan (NTT Docomo)
+
+**Galaxy A42 5G (`a42xq`):**
+
+`SM-A426B`: Galaxy A42 5G Global
+
+`SM-A4260`: Galaxy A42 5G HK
+
+`SM-A426N`: Galaxy A42 5G South Korea
+
+**Galaxy A42 5G (`a42xuq`):**
+
+`SM-A426U`: Galaxy A42 5G US Carrier
+
+`SM-A426U1`: Galaxy A42 5G US Unlocked
+
+`SM-S426DL`: Galaxy A42 5G TracFone
+
+**Galaxy A50 (`a50`):**
+
+`SM-A505F`: Galaxy A50 Global
+
+`SM-A505FN`: Galaxy A50 EU
+
+`SM-A505FM`: Galaxy A50 Russia
+
+`SM-A505G`: Galaxy A50 Latin America
+
+`SM-A505GN`: Galaxy A50 Southeast Asia
+
+`SM-A505GT`: Galaxy A50 Brazil
+
+`SM-A505U`: Galaxy A50 US Carrier
+
+`SM-A505U1`: Galaxy A50 US Unlocked
+
+`SM-S506DL`: Galaxy A50 TracFone
+
+`SM-A505W`: Galaxy A50 Canada
+
+`SM-A505N`: Galaxy A50 South Korea
+
+`SM-A505YN`: Galaxy A50 Australia & New Zealand
+
+**Galaxy A50s (`a50s`):**
+
+`SM-A507FN`: Galaxy A50s Global
+
+`SM-A5070`: Galaxy A50s China
+
+**Galaxy A51 (`a51`):**
+
+`SM-A515F` `SM-A515X`: Galaxy A51 Global
+
+`SM-A515U`: Galaxy A51 US Carrier
+
+`SM-A515U1`: Galaxy A51 US Unlocked
+
+`SM-S515DL`: Galaxy A51 TracFone
+
+`SM-A515W`: Galaxy A51 Canada
+
+**Galaxy A51 5G (`a51x`):**
+
+`SM-A516B`: Galaxy A51 5G Global
+
+`SM-A516U`: Galaxy A51 5G US Carrier
+
+`SM-A516U1`: Galaxy A51 5G US Unlocked
+
+`SM-A5160`: Galaxy A51 5G China
+
+`SM-A516N`: Galaxy A51 5G South Korea
+
+**Galaxy A51 5G (`a51xq`):**
+
+`SM-A516V`: Galaxy A51 5G UW Verizon
+
+**Galaxy A52 (`a52q`):**
+
+`SM-A525F`: Galaxy A52 Global
+
+`SM-A525M`: Galaxy A52 Latin America
+
+**Galaxy A52 5G (`a52xq`):**
+
+`SM-A526B`: Galaxy A52 5G Global
+
+`SM-A526U`: Galaxy A52 5G US Carrier
+
+`SM-A526U1`: Galaxy A52 5G US Unlocked
+
+`SM-A526W`: Galaxy A52 5G Canada
+
+`SM-A5260`: Galaxy A52 5G China
+
+`SM-A526N`: Galaxy A52 5G South Korea
+
+`SC-53B`: Galaxy A52 5G Japan (NTT Docomo)
+
+**Galaxy A52s 5G (`a52sxq`):**
+
+`SM-A528B`: Galaxy A52s 5G Global
+
+`SM-A528N`: Galaxy A52s 5G South Korea
+
+**Galaxy A53 5G (`a53x`):**
+
+`SM-A536E`: Galaxy A53 5G Global
+
+`SM-A536B`: Galaxy A53 5G EU
+
+`SM-A536U`: Galaxy A53 5G US Carrier
+
+`SM-A536U1`: Galaxy A53 5G US Unlocked
+
+`SM-A536V`: Galaxy A53 5G UW Verizon
+
+`SM-S536DL`: Galaxy A53 5G TracFone
+
+`SM-A536W`: Galaxy A53 5G Canada
+
+`SM-A5360`: Galaxy A53 5G China
+
+`SM-A536N`: Galaxy A53 5G South Korea
+
+`SCG15`: Galaxy A53 5G Japan (au)
+
+`SC-53C`: Galaxy A53 5G Japan (NTT Docomo)
+
+**Galaxy A54 5G (`a54x`):**
+
+`SM-A546E`: Galaxy A54 5G Global
+
+`SM-A546B`: Galaxy A54 5G EU
+
+`SM-A546U`: Galaxy A54 5G US Carrier
+
+`SM-A546U1`: Galaxy A54 5G US Unlocked
+
+`SM-A546V`: Galaxy A54 5G Verizon
+
+`SM-S546VL`: Galaxy A54 5G TracFone
+
+`SM-A546W`: Galaxy A54 5G Canada
+
+`SM-A5460`: Galaxy A54 5G China
+
+`SCG21`: Galaxy A54 5G Japan (au)
+
+`SC-53D`: Galaxy A54 5G Japan (NTT Docomo)
+
+**Galaxy A55 5G (`a55x`):**
+
+`SM-A556E`: Galaxy A55 5G Global
+
+`SM-A556B`: Galaxy A55 5G EU
+
+`SM-A5560`: Galaxy A55 5G China
+
+**Galaxy A60 (`a60q`):**
+
+`SM-A606F`: Galaxy A60 Global
+
+`SM-A6060`: Galaxy A60 China mainland
+
+`SM-A606Y`: Galaxy A60 TW
+
+**Galaxy A70 (`a70q`):**
+
+`SM-A705F` `SM-A705FN`: Galaxy A70 Global
+
+`SM-A705GM`: Galaxy A70 India
+
+`SM-A705MN`: Galaxy A70 Latin America
+
+`SM-A705U`: Galaxy A70 US Carrier
+
+`SM-A705U1`: Galaxy A70 US Unlocked
+
+`SM-A705W`: Galaxy A70 Canada
+
+`SM-A7050`: Galaxy A70 China
+
+`SM-A705YN`: Galaxy A70 Australia & New Zealand 
+
+**Galaxy A70s (`a70s`):**
+
+`SM-A707F`: Galaxy A70s Global
+
+`SM-A7070`: Galaxy A70s China
+
+**Galaxy A71 (`a71`):**
+
+`SM-A715F` `SM-A715X`: Galaxy A71 Global
+
+`SM-A715W`: Galaxy A71 Canada
+
+**Galaxy A71 5G (`a71x`):**
+
+`SM-A716B`: Galaxy A71 5G Global
+
+`SM-A7160`: Galaxy A71 5G China
+
+**Galaxy A71 5G (`a71xq`):**
+
+`SM-A716U`: Galaxy A71 5G US Carrier
+
+`SM-A716U1`: Galaxy A71 5G US Unlocked
+
+`SM-A716V`: Galaxy A71 5G UW Verizon
+
+**Galaxy A72 (`a72q`):**
+
+`SM-A725F`: Galaxy A72 Global
+
+`SM-A725M`: Galaxy A72 Latin America
+
+**Galaxy A73 5G (`a73xq`):**
+
+`SM-A736B`: Galaxy A73 5G Global
+
+**Galaxy A80 (`r1q`):**
+
+`SM-A805F`: Galaxy A80 Global
+
+`SM-A8050`: Galaxy A80 China
+
+`SM-A805N`: Galaxy A80 South Korea
+
+**Galaxy A90 5G (`r3q`):**
+
+`SM-A908B`: Galaxy A90 5G Global
+
+`SM-A9080`: Galaxy A90 5G China
+
+`SM-A908N`: Galaxy A90 5G South Korea
 
 ## Galaxy M
 
