@@ -453,7 +453,7 @@
 
 `MGA-LX3`: HUAWEI nova Y72
 
-**HUAWEI nova Y73:**
+**HUAWEI nova Y73 (`Goofy`):**
 
 `GFY-LX1`: HUAWEI nova Y73
 
