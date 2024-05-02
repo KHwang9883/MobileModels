@@ -19,7 +19,7 @@ Unlisted brands usually not include international models.
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
-| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, P, nova & Y series, MediaPad & MatePad series |
+| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, Pura, nova & Y series, MediaPad & MatePad series |
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international/Indian Xiaomi & Redmi TV models (excluding Chinese models) |
 | [nothing](brands/nothing.md) | Nothing | All models |

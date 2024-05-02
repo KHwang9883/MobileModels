@@ -1,6 +1,6 @@
 # HUAWEI Global Mobile Phone Models
 
-- Range: HUAWEI Mate, P, nova & Y series, MediaPad & MatePad series (excluding Chinese models)
+- Range: HUAWEI Mate, Pura, nova & Y series, MediaPad & MatePad series (excluding Chinese models)
 - Codename: ✅
 
 ## HUAWEI Mate Series
@@ -143,7 +143,7 @@
 
 `ALT-L29`: HUAWEI Mate X3
 
-## HUAWEI P Series
+## HUAWEI P/Pura Series
 
 **HUAWEI Ascend P6:**
 
@@ -270,6 +270,18 @@
 **HUAWEI P60 Pro (`Mona`):**
 
 `MNA-LX9`: HUAWEI P60 Pro
+
+**HUAWEI Pura 70 (`Audrey`):**
+
+`ADY-LX9`: HUAWEI Pura 70
+
+**HUAWEI Pura 70 Pro (`Hapburn`):**
+
+`HBN-LX9`: HUAWEI Pura 70 Pro
+
+**HUAWEI Pura 70 Ultra (`HapburnP`):**
+
+`HBP-LX9`: HUAWEI Pura 70 Ultra
 
 **HUAWEI P smart (`Figo`):**
 
@@ -440,6 +452,10 @@
 **HUAWEI nova Y72 (`Mega`):**
 
 `MGA-LX3`: HUAWEI nova Y72
+
+**HUAWEI nova Y73:**
+
+`GFY-LX1`: HUAWEI nova Y73
 
 **HUAWEI nova Y90 (`Cartier`):**
 

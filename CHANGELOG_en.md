@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-02
+- `huawei_global_en` Add HUAWEI Pura 70 series.
 ## 2024-05-01
 - `samsung_global_en` Add Galaxy A series, F series and M series.
 ## 2024-04-29
