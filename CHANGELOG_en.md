@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-03
+- `vivo_global_en` Add several new models.
 ## 2024-05-02
 - `huawei_global_en` Add HUAWEI Pura 70 series.
 ## 2024-05-01
