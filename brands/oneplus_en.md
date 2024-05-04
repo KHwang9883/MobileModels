@@ -289,9 +289,9 @@
 
 `PJF110`: OnePlus Ace 3V China
 
-`CPH2587`: OnePlus Nord 4 India
+`CPH2619`: OnePlus Nord 4 India
 
-`CPH2589`: OnePlus Nord 4 EU / Global
+`CPH2621`: OnePlus Nord 4 EU / Global
 
 **OnePlus Nord (`avicii`):**
 
