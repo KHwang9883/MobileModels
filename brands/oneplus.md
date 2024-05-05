@@ -294,9 +294,9 @@
 
 `PJF110`: OnePlus Ace 3V 全网通版
 
-`CPH2587`: OnePlus Nord 4 印度版
+`CPH2619`: OnePlus Nord 4 印度版
 
-`CPH2589`: OnePlus Nord 4 欧洲版/国际版
+`CPH2621`: OnePlus Nord 4 欧洲版/国际版
 
 **OnePlus Nord (`avicii`):**
 
