@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-06
+- `xiaomi_en` Add Xiaomi 14 Civi.
 ## 2024-05-03
 - `vivo_global_en` Add several new models.
 ## 2024-05-02

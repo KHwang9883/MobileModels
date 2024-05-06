@@ -409,6 +409,10 @@
 
 `24031PN0DC`: Xiaomi 14 Ultra China
 
+**[`N9`] Xiaomi 14 Civi (`chenfeng`):**
+
+`24053PY09I`: Xiaomi 14 Civi India
+
 **[`N12A`] Xiaomi 14T (`degas`):**
 
 `2406APNFAG`: Xiaomi 14T Global
@@ -1657,7 +1661,7 @@
 
 `23113RKC6C`: Redmi K70 China
 
-**[`N11R`] Redmi K70 Pro (`manet`):**
+**[`N11U`] Redmi K70 Pro (`manet`):**
 
 `23117RK66C`: Redmi K70 Pro China
 
