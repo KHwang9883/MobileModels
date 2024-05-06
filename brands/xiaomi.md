@@ -412,6 +412,10 @@
 
 `24030PN60G`: Xiaomi 14 Ultra 国际版
 
+**[`N9`] Xiaomi 14 Civi (`chenfeng`):**
+
+`24053PY09I`: Xiaomi 14 Civi 印度版
+
 **[`N12A`] Xiaomi 14T (`degas`):**
 
 `2406APNFAG`: Xiaomi 14T 国际版
@@ -1756,7 +1760,7 @@
 
 `23113RKC6C`: Redmi K70
 
-**[`N11R`] Redmi K70 Pro (`manet`):**
+**[`N11U`] Redmi K70 Pro (`manet`):**
 
 `23117RK66C`: Redmi K70 Pro
 
