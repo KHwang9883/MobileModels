@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-08
+- `google` Add Pixel 8a.
 ## 2024-05-06
 - `xiaomi_en` Add Xiaomi 14 Civi.
 ## 2024-05-03

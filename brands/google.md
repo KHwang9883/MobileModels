@@ -175,6 +175,16 @@
 
 `GE9DP`: Pixel 8 Pro (Japan)
 
+**Pixel 8a (`akita`):**
+
+`G8HNN`: Pixel 8a (mmWave)
+
+`GKV4X`: Pixel 8a (North America, Sub 6GHz)
+
+`G6GPR`: Pixel 8a (Global)
+
+`G576D`: Pixel 8a (Japan)
+
 **Pixel Fold (`felix`):**
 
 `G9FPL`: Pixel Fold (US, EU)
