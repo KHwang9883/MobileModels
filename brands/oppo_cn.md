@@ -248,6 +248,14 @@
 
 `PJJ110`: OPPO Reno11 Pro
 
+**OPPO Reno12:**
+
+`PJV110`: OPPO Reno12
+
+**OPPO Reno12 Pro:**
+
+`PJW110`: OPPO Reno12 Pro
+
 ## Ace 系列
 
 **OPPO Reno Ace:**

@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-05-10
 - `meizu` 新增 魅族 21 Note。
+- `oppo_cn` 新增 OPPO Reno12 系列。
 ## 2024-05-06
 - `xiaomi` 新增 Xiaomi 14 Civi 印度版。
 ## 2024-04-26
