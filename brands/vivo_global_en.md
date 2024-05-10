@@ -287,7 +287,7 @@
 
 **vivo Y03:**
 
-`V2332`: vivo Y03
+`V2332` `V2406`: vivo Y03
 
 **vivo Y11s:**
 
@@ -344,6 +344,10 @@
 **vivo Y18:**
 
 `V2333` `V2345`: vivo Y18
+
+**vivo Y18s:**
+
+`V2410`: vivo Y18s
 
 **vivo Y18e:**
 
@@ -434,6 +438,8 @@
 `V2322` `V2335`: vivo Y27s
 
 **vivo Y28:**
+
+`V2352` `V2353`: vivo Y28
 
 `V2315`: vivo Y28 5G
 
