@@ -243,6 +243,12 @@
 
 `M481Q`: MEIZU 21 PRO
 
+**MEIZU 21 Note (`m2468`):**
+
+`M468Q`: MEIZU 21 Note China
+
+`M468H`: MEIZU 21 Note Global
+
 **MEIZU m1 note (`m71`):**
 
 `M463H`: MEIZU m1 note Global

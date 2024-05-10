@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2024-05-10
+- `meizu_en` Add MEIZU 21 Note.
 - `vivo_global_en` Add several new models.
 ## 2024-05-08
 - `google` Add Pixel 8a.
