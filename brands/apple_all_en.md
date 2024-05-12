@@ -587,6 +587,26 @@
 
 `A2591`: iPad Air (5th generation) Wi-Fi + Cellular (China mainland)
 
+**[`J507AP`] iPad Air (11-inch, M2) (`iPad14,8`):**
+
+`A2902`: iPad Air (11-inch, M2) Wi-Fi
+
+**[`J508AP`] iPad Air (11-inch, M2) (`iPad14,9`):**
+
+`A2903`: iPad Air (11-inch, M2) Wi-Fi + Cellular
+
+`A2904`: iPad Air (11-inch, M2) Wi-Fi + Cellular (China mainland)
+
+**[`J537AP`] iPad Air (13-inch, M2) (`iPad14,10`):**
+
+`A2898`: iPad Air (13-inch, M2) Wi-Fi
+
+**[`J538AP`] iPad Air (13-inch, M2) (`iPad14,11`):**
+
+`A2899`: iPad Air (13-inch, M2) Wi-Fi + Cellular
+
+`A2900`: iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)
+
 ## iPad Pro
 
 **[`J98aAP`] iPad Pro (12.9-inch) (`iPad6,7`):**
@@ -758,6 +778,26 @@
 `A2764`: iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (mmWave)
 
 `A2766`: iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (China mainland)
+
+**[`J717AP`] iPad Pro (11-inch, M4) (`iPad16,3`):**
+
+`A2836`: iPad Pro (11-inch, M4) Wi-Fi
+
+**[`J718AP`] iPad Pro (11-inch, M4) (`iPad16,4`):**
+
+`A2837`: iPad Pro (11-inch, M4) Wi-Fi + Cellular
+
+`A3006`: iPad Pro (11-inch, M4) Wi-Fi + Cellular (China mainland)
+
+**[`J720AP`] iPad Pro (13-inch, M4) (`iPad16,5`):**
+
+`A2925`: iPad Pro (13-inch, M4) Wi-Fi
+
+**[`J721AP`] iPad Pro (13-inch, M4) (`iPad16,6`):**
+
+`A2926`: iPad Pro (13-inch, M4) Wi-Fi + Cellular
+
+`A3007`: iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)
 
 ## iPad mini
 

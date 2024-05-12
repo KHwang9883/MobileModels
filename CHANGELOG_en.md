@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-13
+- `apple_en` Add iPad Pro (M4), iPad Air (M2).
 ## 2024-05-10
 - `meizu_en` Add MEIZU 21 Note.
 - `vivo_global_en` Add several new models.
