@@ -198,6 +198,20 @@
 
 `V2337A`: vivo X Fold3 Pro
 
+**vivo X100s (`PD2359`):**
+
+`V2359A`: vivo X100s
+
+**vivo X100s Pro (`PD2324`):**
+
+`V2324HA`: vivo X100s Pro
+
+**vivo X100 Ultra (`PD2366`):**
+
+`V2366GA`: vivo X100 Ultra
+
+`V2366HA`: vivo X100 Ultra 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -317,6 +331,14 @@
 **vivo S18e (`PD2334`):**
 
 `V2334A`: vivo S18e
+
+**vivo S19 (`PD2364`):**
+
+`V2364A`: vivo S19
+
+**vivo S19 Pro (`PD2362`):**
+
+`V2362A`: vivo S19 Pro
 
 ## vivo Y 系列
 
@@ -638,6 +660,18 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
+**vivo Y200 (`PD2343`):**
+
+`V2343A`: vivo Y200 5G
+
+**vivo Y200 GT (`PD2361`):**
+
+`V2361GA`: vivo Y200 GT 5G
+
+**vivo Y200t (`PD2353`):**
+
+`V2353DA`: vivo Y200t 5G
+
 **vivo Y200i (`PD2354`):**
 
 `V2354A`: vivo Y200i 5G
@@ -904,6 +938,10 @@
 
 `V2339A`: iQOO Neo9 Pro
 
+**iQOO Neo9S Pro (`PD2339`):**
+
+`V2339FA`: iQOO Neo9S Pro
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1025,3 +1063,7 @@
 **iQOO Pad Air (`DPD2305`):**
 
 `iPA2451`: iQOO Pad Air
+
+**iQOO Pad2 Pro (`DPD2329`):**
+
+`iPA2475`: iQOO Pad2 Pro
