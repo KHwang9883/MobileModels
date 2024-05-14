@@ -293,6 +293,10 @@
 
 `RMX3709`: realme GT 3 240W
 
+**realme GT 6T:**
+
+`RMX3853`: realme GT 6T
+
 ## C series
 
 **realme C1:**

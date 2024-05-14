@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-14
+- `realme_global_en` Add realme GT 6T.
 ## 2024-05-13
 - `apple_en` Add iPad Pro (M4), iPad Air (M2).
 ## 2024-05-10
