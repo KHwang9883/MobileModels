@@ -1,7 +1,9 @@
 # 更新日志
+## 2024-05-14
+- `oppo_cn` 新增 OPPO K12x。
 ## 2024-05-13
 - `apple` 新增 iPad Pro (M4), iPad Air (M2)。
-- `vivo` 新增 X100s, X100 Ultra, S19, Y200 系列, iQOO Neo9S Pro & Pad2 Pro。
+- `vivo_cn` 新增 X100s, X100 Ultra, S19, Y200 系列, iQOO Neo9S Pro & Pad2 Pro。
 ## 2024-05-10
 - `meizu` 新增 魅族 21 Note。
 - `oppo_cn` 新增 OPPO Reno12 系列。

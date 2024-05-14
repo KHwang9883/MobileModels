@@ -566,6 +566,10 @@
 
 `PJR110`: OPPO K12
 
+**OPPO K12x:**
+
+`PJT110`: OPPO K12x
+
 ## 平板电脑
 
 **OPPO Pad:**
