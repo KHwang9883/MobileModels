@@ -673,6 +673,10 @@
 
 `DBR-W19`: HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
 
+**HUAWEI MatePad 11.5" S (`Tagore`):**
+
+`TGR-W09`: HUAWEI MatePad 11.5" S Wi-Fi
+
 **HUAWEI MatePad Air (`Debussy2`):**
 
 `DBY2-W09`: HUAWEI MatePad Air Wi-Fi
