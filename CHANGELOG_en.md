@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-15
+- `samsung_global_en` Add Galaxy M35 5G.
 ## 2024-05-14
 - `realme_global_en` Add realme GT 6T.
 ## 2024-05-13

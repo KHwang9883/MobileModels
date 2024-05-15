@@ -1699,7 +1699,11 @@
 
 `SM-M346B1`: Galaxy M34 5G Southeast Asia
 
-`SM-M346B2`: Galaxy M34 Global
+`SM-M346B2`: Galaxy M34 5G Global
+
+**Galaxy M35 5G (`m35x`):**
+
+`SM-M356B`: Galaxy M35 5G
 
 **Galaxy M40 (`m40`):**
 
