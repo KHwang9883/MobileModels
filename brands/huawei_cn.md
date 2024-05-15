@@ -653,6 +653,8 @@
 
 `ADA-AL00U`: HUAWEI nova 12 Ultra
 
+`ADA-AL10U`: HUAWEI nova 12 Ultra 星耀版
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
