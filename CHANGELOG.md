@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-05-15
 - `honor_cn` 新增 荣耀笔记本 X 2024 锐龙版。
+- `huawei_cn` 新增 MatePad 11.5 S, MateBook 14 2024。
 ## 2024-05-14
 - `oppo_cn` 新增 OPPO K12x。
 ## 2024-05-13

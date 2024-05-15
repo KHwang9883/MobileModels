@@ -1141,6 +1141,14 @@
 
 `DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
 
+**HUAWEI MatePad 11.5" S:**
+
+`DMG-W00`: HUAWEI MatePad 11.5" S 灵动款 Wi-Fi 版
+
+**HUAWEI MatePad 11.5" S (`Tagore`):**
+
+`TGR-W10`: HUAWEI MatePad 11.5" S 柔光版 Wi-Fi 版
+
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
@@ -1465,6 +1473,12 @@
 
 `KLVG-32`: HUAWEI MateBook 14 2023 (32GB 内存)
 
+**HUAWEI MateBook 14 2024 (`FlemingH`):**
+
+`FLMH-16`: HUAWEI MateBook 14 2024 (16GB 内存)
+
+`FLMH-32`: HUAWEI MateBook 14 2024 (32GB 内存)
+
 **HUAWEI MateBook 14s (`HookeD`):**
 
 `HKD-W58`: HUAWEI MateBook 14s i5 (8GB+512GB)
@@ -1787,9 +1801,11 @@
 
 **华为擎云 S520 Gen2 (`YutuGZ`):**
 
-`YTSGZ-5651TP`: 华为擎云 S520 Gen2 i5 (16GB+512GB)
+`YTGZ-5651SP` `YTSGZ-5651TP`: 华为擎云 S520 Gen2 i5 (16GB+512GB)
 
-`YTSGZ-7611TP`: 华为擎云 S520 Gen2 i7 (16GB+1TB)
+`YTGZ-5611SP`: 华为擎云 S520 Gen2 i5 (16GB+1TB)
+
+`YTGZ-7611S` `YTSGZ-7611TP`: 华为擎云 S520 Gen2 i7 (16GB+1TB)
 
 **华为擎云 S540 (`YutuFZ`):**
 
@@ -2304,6 +2320,12 @@
 **华为儿童手表 5:**
 
 `KTY-L10`: 华为儿童手表 5
+
+`KTY-L10D`: 华为儿童手表 5 新耀版
+
+**华为儿童手表 5 Pro:**
+
+`TGR-L10`: 华为儿童手表 5 Pro
 
 **华为儿童手表 5X:**
 
