@@ -169,3 +169,7 @@
 **moto g34 (`fogos`):**
 
 `XT2363-4`: moto g34
+
+**moto X50 Ultra (`ctwo`):**
+
+`XT2401-2`: moto X50 Ultra
