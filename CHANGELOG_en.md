@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-17
+- `xiaomi_en` Add Redmi Note 13R.
 ## 2024-05-15
 - `huawei_global_en` Add HUAWEI MatePad 11.5" S.
 - `samsung_global_en` Add Galaxy M35 5G.
