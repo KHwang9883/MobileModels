@@ -66,19 +66,19 @@
 
 `PGT-AN20`: 荣耀 Magic5 至臻版
 
-**荣耀 Magic V2:**
+**荣耀 Magic V2 (`Veyron`):**
 
 `VER-AN10`: 荣耀 Magic V2
 
-**荣耀 Magic V2 至臻版:**
+**荣耀 Magic V2 至臻版 (`Veyron`):**
 
 `VER-AN10`: 荣耀 Magic V2 至臻版
 
-**荣耀 Magic V2 RSR 保时捷设计:**
+**荣耀 Magic V2 RSR 保时捷设计 (`Veyron`):**
 
 `VER-AN10`: 荣耀 Magic V2 RSR 保时捷设计
 
-**荣耀 Magic Vs2:**
+**荣耀 Magic Vs2 (`Veyron`):**
 
 `VER-AN00`: 荣耀 Magic Vs2
 
