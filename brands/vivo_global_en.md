@@ -193,6 +193,18 @@
 
 `V2327` `V2349`: vivo V30 SE
 
+**vivo V40:**
+
+`V2348`: vivo V40
+
+**vivo V40 Pro:**
+
+`V2347`: vivo V40 Pro
+
+**vivo V40e:**
+
+`V2403`: vivo V40e
+
 **vivo V40 Lite:**
 
 `V2341`: vivo V40 Lite
@@ -442,6 +454,10 @@
 `V2352` `V2353`: vivo Y28
 
 `V2315`: vivo Y28 5G
+
+**vivo Y28s:**
+
+`V2346`: vivo Y28s 5G
 
 **vivo Y30:**
 
