@@ -1622,6 +1622,10 @@
 
 `24040RA98R`: Redmi Note 13 Pro+ 5G 日本版
 
+**[`N19`] Redmi Note 13R (`breeze`):**
+
+`2406ERN9CC`: Redmi Note 13R
+
 **[`N17`] Redmi Note 13R Pro (`gold`):**
 
 `2311FRAFDC`: Redmi Note 13R Pro

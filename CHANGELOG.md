@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-05-17
 - `realme_cn` 新增 真我 12。
+- `xiaomi` 新增 Redmi Note 13R。
 ## 2024-05-16
 - `lenovo` 新增 小新 Pad Studio。
 - `motorola` 新增 moto X50 Ultra。
