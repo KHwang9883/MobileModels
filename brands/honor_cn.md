@@ -640,6 +640,10 @@
 
 `CLK-AN00`: 荣耀 Play8T 5G
 
+**荣耀 Play8T Pro (`Lily`):**
+
+`LLY-AN00`: 荣耀 Play8T Pro 5G
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**

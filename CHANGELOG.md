@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-05-18
+- `honor_cn` 新增 荣耀 Play8T Pro。
 ## 2024-05-17
 - `realme_cn` 新增 真我 12。
 - `xiaomi` 新增 Redmi Note 13R。
