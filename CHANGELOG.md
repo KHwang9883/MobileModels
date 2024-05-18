@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-05-19
 - `coolpad` 新增 酷派 COOL 60。
+- `mitv_cn` 新增 Redmi MAX 85。
 ## 2024-05-18
 - `honor_cn` 新增 荣耀 Play8T Pro。
 ## 2024-05-17

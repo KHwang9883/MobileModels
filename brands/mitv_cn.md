@@ -510,6 +510,8 @@
 
 **Redmi 智能电视 MAX:**
 
+`L85RA-RX`: Redmi 智能电视 MAX 85 英寸
+
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
 
 `L90R9-MAX`: Redmi 智能电视 MAX 90 英寸
