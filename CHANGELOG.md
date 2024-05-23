@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-05-23
+- `vivo_cn` 新增 iQOO Pad2, vivo Pad3, Y36t。
 ## 2024-05-19
 - `coolpad` 新增 酷派 COOL 60。
 - `mitv_cn` 新增 Redmi MAX 85。

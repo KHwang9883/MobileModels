@@ -470,6 +470,10 @@
 
 `V2318A`: vivo Y36 5G / vivo Y36m 5G / vivo Y36i 5G
 
+**vivo Y36t (`PD2327`):**
+
+`V2327A`: vivo Y36t
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50
@@ -1052,6 +1056,10 @@
 
 `PA2353`: vivo Pad Air
 
+**vivo Pad3:**
+
+`PA2455`: vivo Pad3
+
 **vivo Pad3 Pro (`DPD2329`):**
 
 `PA2473`: vivo Pad3 Pro
@@ -1063,6 +1071,10 @@
 **iQOO Pad Air (`DPD2305`):**
 
 `iPA2451`: iQOO Pad Air
+
+**iQOO Pad2:**
+
+`iPA2453`: iQOO Pad2
 
 **iQOO Pad2 Pro (`DPD2329`):**
 
