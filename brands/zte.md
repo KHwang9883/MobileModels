@@ -84,6 +84,10 @@
 
 `ZTE A2024H`: 中兴 Axon 50 Ultra
 
+**中兴 Axon 60 Ultra:**
+
+`ZTE A2025HL`: 中兴 Axon 60 Ultra
+
 **中兴天机 A41:**
 
 `ZTE A2023BH`: 中兴天机 A41
