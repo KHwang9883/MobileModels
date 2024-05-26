@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-05-26
+- `zte` 新增 中兴 Axon 60 Ultra。
 ## 2024-05-23
 - `vivo_cn` 新增 iQOO Pad2, vivo Pad3, Y36t。
 ## 2024-05-19
