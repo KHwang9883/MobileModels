@@ -29,7 +29,7 @@
 | 一加 (OnePlus) | ✅ | 无<br/>(秒解) | [✅](https://github.com/OnePlusOSS) | ✅ | ✅ | • 无需申请解锁码，无任何解锁限制 |
 | OPPO | [⏹](https://www.oppo.cn/thread-397164526-1) | 720<br/>(1 月) | [✅](https://github.com/oppo-source) | ✅ |✅ | • 仅部分机型支持解锁 |
 | 真我 (realme) | [⏹](https://www.realmebbs.com/post-details/1275426081138028544) | 5-15<br/>(秒解) | [✅](https://github.com/realme-kernel-opensource) | ✅ | ✅ | • 仅部分机型支持解锁<br/>• 每个机型月限 5W 名额<br/>• 需登录欢太账号<br/>• 深度测试资格有 7 天时间限制，超过 7 天未实际执行解锁需要重新申请<br/>• 同一个欢太账号 30 天内只能申请一台机器，多次申请会提示重复申请<br/> |
-| 三星 (Samsung) | ⏹ | 无<br/>(秒解) | [✅](https://opensource.samsung.com/main) | ❌ | ✅ | • 解锁将导致 KNOX 熔断，钱包等功能失效，保修丢失；部分机型解锁还将导致相机无法工作（如 Galaxy Fold 系列）<br/>• 美版设备不支持解锁 |
+| 三星 (Samsung) | ⏹ | 无<br/>(秒解) | [✅](https://opensource.samsung.com/main) | ❌ | ✅ | • 解锁将导致 KNOX 熔断，钱包等功能失效，保修丢失；部分机型解锁还将导致相机无法工作（如 Galaxy Fold 系列）<br/>• 美版设备不支持解锁<br/>• 仅部分地区的设备系统支持无损互刷 |
 | 索尼 (SONY) | [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) | 无<br/>(秒解) | [✅](https://github.com/sonyxperiadev/kernel) | ❌ | ✅ | • 需申请解锁码<br/>• 部分机型解锁将导致相机无法工作 |
 | 坚果 (Smartisan) | ✅ | -- | [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) | -- | ❌ | • 缺少部分机型内核源码 |
 | vivo | ❌ | -- | [⏹](https://opensource.vivo.com/Project) | ❌ | -- | • 官方未提供解锁<br/>• 缺少部分机型内核源码 |
