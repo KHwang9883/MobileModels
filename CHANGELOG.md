@@ -1,6 +1,6 @@
 # 更新日志
 ## 2024-05-28
-- `xiaomi` 新增 Redmi A3x。
+- `xiaomi` 新增 Redmi A3x, POCO M6 Plus 5G。
 ## 2024-05-27
 - `honor_cn` 新增 荣耀 200 系列。
 ## 2024-05-26

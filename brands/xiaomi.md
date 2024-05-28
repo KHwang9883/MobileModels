@@ -2082,6 +2082,10 @@
 
 `23128PC33I`: POCO M6 5G 印度版
 
+**[`N19P`] POCO M6 Plus 5G (`breeze`):**
+
+`24066PC95I`: POCO M6 Plus 5G 印度版
+
 **[`N6P`] POCO M6 Pro (`emerald`):**
 
 `2312FPCA6G`: POCO M6 Pro 国际版
