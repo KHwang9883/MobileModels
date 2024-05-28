@@ -1947,6 +1947,10 @@
 
 `23128PC33I`: POCO M6 5G India
 
+**[`N19P`] POCO M6 Plus 5G (`breeze`):**
+
+`24066PC95I`: POCO M6 Plus 5G India
+
 **[`N6P`] POCO M6 Pro (`emerald`):**
 
 `2312FPCA6G`: POCO M6 Pro Global

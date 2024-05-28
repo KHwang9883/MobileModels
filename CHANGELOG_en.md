@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2024-05-28
-- `xiaomi_en` Add Redmi A3x.
+- `xiaomi_en` Add Redmi A3x, POCO M6 Plus 5G.
 ## 2024-05-17
 - `vivo_global_en` Add several new models.
 - `xiaomi_en` Add Redmi Note 13R.
