@@ -1126,9 +1126,11 @@
 
 `23124RN87C`: Redmi 13C 5G 国行版 / Redmi 13R 5G
 
-`23124RN87G`: Redmi 13C 5G 国际版
-
 `23124RN87I`: Redmi 13C 5G 印度版
+
+**[`C3V`] Redmi 13C 5G (`atmos`):**
+
+`23124RN87G`: Redmi 13C 5G 国际版
 
 ## 红米 / Redmi Note 系列
 
@@ -1850,6 +1852,12 @@
 
 `2312CRNCCL`: Redmi A3 拉美版
 
+**Redmi A3x (`klein`):**
+
+`24048RN6CG`: Redmi A3x 国际版
+
+`24048RN6CI`: Redmi A3x 印度版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -1871,6 +1879,8 @@
 `2405CRPFDC`: Redmi Pad Pro 国行版
 
 `2405CRPFDG`: Redmi Pad Pro 国际版
+
+`2405CRPFDL`: Redmi Pad Pro 拉美版
 
 **Redmi Pad Pro 5G (`ruan`):**
 
