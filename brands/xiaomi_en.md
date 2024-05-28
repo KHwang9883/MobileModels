@@ -1033,9 +1033,11 @@
 
 `23108RN04Y`: Redmi 13C Global (NFC)
 
-**[`C3V`] Redmi 13C 5G / Redmi 13R 5G (`air`):**
+**[`C3V`] Redmi 13C 5G (`atmos`):**
 
 `23124RN87G`: Redmi 13C 5G Global
+
+**[`C3V`] Redmi 13C 5G / Redmi 13R 5G (`air`):**
 
 `23124RN87I`: Redmi 13C 5G India
 
@@ -1745,6 +1747,12 @@
 
 `2312CRNCCL`: Redmi A3 Latin America
 
+**Redmi A3x (`klein`):**
+
+`24048RN6CG`: Redmi A3x Global
+
+`24048RN6CI`: Redmi A3x India
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -2072,6 +2080,8 @@
 `2405CRPFDG`: Redmi Pad Pro Global
 
 `2405CRPFDC`: Redmi Pad Pro China
+
+`2405CRPFDL`: Redmi Pad Pro Latin America
 
 **Redmi Pad Pro 5G (`ruan`):**
 
