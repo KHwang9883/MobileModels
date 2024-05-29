@@ -566,7 +566,7 @@
 
 `PJR110`: OPPO K12
 
-**OPPO K12x:**
+**OPPO K12x (`avatar-m`):**
 
 `PJT110`: OPPO K12x
 
