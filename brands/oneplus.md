@@ -32,39 +32,39 @@
 
 **OnePlus 3 (`oneplus3`):**
 
-`ONEPLUS A3000`: OnePlus 3 全网通版
+`ONEPLUS A3000`: OnePlus 3 国行版
 
 `ONEPLUS A3003`: OnePlus 3 国际版
 
 **OnePlus 3T (`oneplus3t`):**
 
-`ONEPLUS A3010`: OnePlus 3T 全网通版
+`ONEPLUS A3010`: OnePlus 3T 国行版
 
 `ONEPLUS A3013`: OnePlus 3T 国际版
 
 **OnePlus 5 (`cheeseburger`):**
 
-`ONEPLUS A5000`: OnePlus 5 全网通版
+`ONEPLUS A5000`: OnePlus 5
 
 **OnePlus 5T (`dumpling`):**
 
-`ONEPLUS A5010`: OnePlus 5T 全网通版
+`ONEPLUS A5010`: OnePlus 5T
 
 **OnePlus 6 (`enchilada`):**
 
-`ONEPLUS A6000`: OnePlus 6 全网通版
+`ONEPLUS A6000`: OnePlus 6 国行版
 
 `ONEPLUS A6003`: OnePlus 6 国际版
 
 **OnePlus 6T (`fajita`):**
 
-`ONEPLUS A6010`: OnePlus 6T 全网通版
+`ONEPLUS A6010`: OnePlus 6T 国行版
 
 `ONEPLUS A6013`: OnePlus 6T 国际版
 
 **OnePlus 7 (`guacamoleb`):**
 
-`GM1900`: OnePlus 7 全网通版
+`GM1900`: OnePlus 7 国行版
 
 `GM1901`: OnePlus 7 印度版
 
@@ -74,7 +74,7 @@
 
 **OnePlus 7 Pro (`guacamole`):**
 
-`GM1910`: OnePlus 7 Pro 全网通版
+`GM1910`: OnePlus 7 Pro 国行版
 
 `GM1911`: OnePlus 7 Pro 印度版
 
@@ -96,7 +96,7 @@
 
 **OnePlus 7T (`hotdogb`):**
 
-`HD1900`: OnePlus 7T 全网通版
+`HD1900`: OnePlus 7T 国行版
 
 `HD1901`: OnePlus 7T 印度版
 
@@ -110,7 +110,7 @@
 
 **OnePlus 7T Pro (`hotdog`):**
 
-`HD1910`: OnePlus 7T Pro 全网通版
+`HD1910`: OnePlus 7T Pro 国行版
 
 `HD1911`: OnePlus 7T Pro 印度版
 
@@ -122,7 +122,7 @@
 
 **OnePlus 8 (`instantnoodle`):**
 
-`IN2010`: OnePlus 8 全网通版
+`IN2010`: OnePlus 8 国行版
 
 `IN2011`: OnePlus 8 印度版
 
@@ -140,7 +140,7 @@
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
-`IN2020`: OnePlus 8 Pro 全网通版
+`IN2020`: OnePlus 8 Pro 国行版
 
 `IN2021`: OnePlus 8 Pro 印度版
 
@@ -150,7 +150,7 @@
 
 **OnePlus 8T (`kebab`):**
 
-`KB2000`: OnePlus 8T 全网通版
+`KB2000`: OnePlus 8T 国行版
 
 `KB2001`: OnePlus 8T 印度版
 
@@ -164,13 +164,13 @@
 
 **OnePlus 9R (`lemonades`):**
 
-`LE2100`: OnePlus 9R 全网通版
+`LE2100`: OnePlus 9R 国行版
 
 `LE2101`: OnePlus 9R 印度版
 
 **OnePlus 9 (`lemonade`):**
 
-`LE2110`: OnePlus 9 全网通版
+`LE2110`: OnePlus 9 国行版
 
 `LE2111`: OnePlus 9 印度版
 
@@ -188,7 +188,7 @@
 
 **OnePlus 9 Pro (`lemonadep`):**
 
-`LE2120`: OnePlus 9 Pro 全网通版
+`LE2120`: OnePlus 9 Pro 国行版
 
 `LE2121`: OnePlus 9 Pro 印度版
 
@@ -202,13 +202,13 @@
 
 **OnePlus 9RT (`martini`):**
 
-`MT2110`: OnePlus 9RT 全网通版
+`MT2110`: OnePlus 9RT 国行版
 
 `MT2111`: OnePlus 9RT 印度版
 
 **OnePlus 10 Pro (`negroni`):**
 
-`NE2210`: OnePlus 10 Pro 全网通版
+`NE2210`: OnePlus 10 Pro 国行版
 
 `NE2211`: OnePlus 10 Pro 印度版
 
@@ -220,7 +220,7 @@
 
 **OnePlus 10R / OnePlus Ace (`pickle`):**
 
-`PGKM10`: OnePlus Ace 全网通版
+`PGKM10`: OnePlus Ace 国行版
 
 `CPH2423`: OnePlus 10R 印度版
 
@@ -228,11 +228,11 @@
 
 **OnePlus Ace 竞速版 (`qqcandy`):**
 
-`PGZ110`: OnePlus Ace 竞速版 全网通版
+`PGZ110`: OnePlus Ace 竞速版 国行版
 
 **OnePlus Ace Pro / OnePlus 10T (`ovaltine`):**
 
-`PGP110`: OnePlus Ace Pro 全网通版
+`PGP110`: OnePlus Ace Pro 国行版
 
 `CPH2413`: OnePlus 10T 印度版
 
@@ -244,7 +244,7 @@
 
 **OnePlus 11 (`salami`):**
 
-`PHB110`: OnePlus 11 全网通版
+`PHB110`: OnePlus 11 国行版
 
 `CPH2447`: OnePlus 11 印度版
 
@@ -254,13 +254,13 @@
 
 **OnePlus Ace 2 / OnePlus 11R (`udon`):**
 
-`PHK110`: OnePlus Ace 2 全网通版
+`PHK110`: OnePlus Ace 2 国行版
 
 `CPH2487`: OnePlus 11R 印度版
 
 **OnePlus Ace 2V / OnePlus Nord 3 (`vitamin`):**
 
-`PHP110`: OnePlus Ace 2V 全网通版
+`PHP110`: OnePlus Ace 2V 国行版
 
 `CPH2491`: OnePlus Nord 3 印度版
 
@@ -268,11 +268,11 @@
 
 **OnePlus Ace 2 Pro (`xigua`):**
 
-`PJA110`: OnePlus Ace 2 Pro 全网通版
+`PJA110`: OnePlus Ace 2 Pro 国行版
 
 **OnePlus 12 (`waffle`):**
 
-`PJD110`: OnePlus 12 全网通版
+`PJD110`: OnePlus 12 国行版
 
 `CPH2573`: OnePlus 12 印度版
 
@@ -282,7 +282,7 @@
 
 **OnePlus Ace 3 / OnePlus 12R (`aston`):**
 
-`PJE110`: OnePlus Ace 3 全网通版
+`PJE110`: OnePlus Ace 3 国行版
 
 `CPH2585`: OnePlus 12R 印度版
 
@@ -292,11 +292,15 @@
 
 **OnePlus Ace 3V / OnePlus Nord 4 (`audi`):**
 
-`PJF110`: OnePlus Ace 3V 全网通版
+`PJF110`: OnePlus Ace 3V 国行版
 
 `CPH2619`: OnePlus Nord 4 印度版
 
 `CPH2621`: OnePlus Nord 4 欧洲版/国际版
+
+**OnePlus Ace 3 Pro:**
+
+`PJX110`: OnePlus Ace 3 Pro 国行版
 
 **OnePlus Nord (`avicii`):**
 

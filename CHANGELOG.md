@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-05-30
+- `oneplus` 新增 一加 Ace 3 Pro。
 - `oppo_cn` 新增 OPPO A3 系列。
 ## 2024-05-28
 - `xiaomi` 新增 Redmi A3x, POCO M6 Plus 5G。
