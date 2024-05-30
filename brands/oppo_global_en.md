@@ -265,6 +265,14 @@
 
 `CPH2603`: OPPO Reno11 F 5G / OPPO Reno11 A
 
+**OPPO Reno12:**
+
+`CPH2625`: OPPO Reno12 5G
+
+**OPPO Reno12 Pro:**
+
+`CPH2629`: OPPO Reno12 Pro 5G
+
 ## F series
 
 **OPPO F7:**
@@ -369,9 +377,17 @@
 
 `CPH1837`: OPPO A3
 
+`CPH2639`: OPPO A3 5G
+
+`A402OP`: OPPO A3 5G (SoftBank)
+
 **OPPO A3s:**
 
 `CPH1803` `CPH1853` `CPH1805`: OPPO A3s
+
+**OPPO A3 Pro:**
+
+`CPH2667`: OPPO A3 Pro
 
 **OPPO A5:**
 
@@ -483,7 +499,9 @@
 
 **OPPO A53s:**
 
-`CPH2135` `CPH2321`: OPPO A53s 5G
+`CPH2135`: OPPO A53s
+
+`CPH2321`: OPPO A53s 5G
 
 **OPPO A54:**
 
@@ -567,7 +585,13 @@
 
 **OPPO A79:**
 
-`CPH2557`: OPPO A79 5G
+`CPH2553` `CPH2557`: OPPO A79 5G
+
+`A303OP`: OPPO A79 5G (SoftBank)
+
+**OPPO A80:**
+
+`CPH2639`: OPPO A80 5G
 
 **OPPO A91:**
 

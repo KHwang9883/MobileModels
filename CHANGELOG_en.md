@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-05-30
+- `oppo_global_en` Add several new models.
 ## 2024-05-28
 - `xiaomi_en` Add Redmi A3x, POCO M6 Plus 5G.
 ## 2024-05-17
