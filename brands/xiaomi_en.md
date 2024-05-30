@@ -1753,6 +1753,8 @@
 
 `24048RN6CI`: Redmi A3x India
 
+`24044RN32L`: Redmi A3x Latin America
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -1781,8 +1783,6 @@
 
 `21121210G`: POCO F4 GT Global
 
-`21121210I`: POCO F4 GT India
-
 **[`M16T`] POCO F5 (`marble`):**
 
 `23049PCD8G`: POCO F5 Global
@@ -1802,8 +1802,6 @@
 **[`N11`] POCO F6 Pro (`vermeer`):**
 
 `23113RKC6G`: POCO F6 Pro Global
-
-`23113RKC6I`: POCO F6 Pro India
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1856,6 +1854,8 @@
 **[`M20`] POCO X5 Pro 5G (`redwood`):**
 
 `22101320G`: POCO X5 Pro 5G Global
+
+**[`M20`] POCO X5 Pro 5G (`redwoodin`):**
 
 `22101320I`: POCO X5 Pro 5G India
 
