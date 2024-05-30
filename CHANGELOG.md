@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-05-30
+- `oppo_cn` 新增 OPPO A3 系列。
 ## 2024-05-28
 - `xiaomi` 新增 Redmi A3x, POCO M6 Plus 5G。
 ## 2024-05-27

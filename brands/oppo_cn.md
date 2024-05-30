@@ -496,6 +496,18 @@
 
 `PJG110`: OPPO A2 Pro
 
+**OPPO A3 活力版:**
+
+`PKD110`: OPPO A3 活力版
+
+**OPPO A3m:**
+
+`PKD120`: OPPO A3m
+
+**OPPO A3x:**
+
+`PKD130`: OPPO A3x
+
 **OPPO A3 Pro:**
 
 `PJY110`: OPPO A3 Pro
