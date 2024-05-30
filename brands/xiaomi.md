@@ -1858,6 +1858,8 @@
 
 `24048RN6CI`: Redmi A3x 印度版
 
+`24044RN32L`: Redmi A3x 拉美版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -1916,8 +1918,6 @@
 
 `21121210G`: POCO F4 GT 国际版
 
-`21121210I`: POCO F4 GT 印度版
-
 **[`M16T`] POCO F5 (`marble`):**
 
 `23049PCD8G`: POCO F5 国际版
@@ -1937,8 +1937,6 @@
 **[`N11`] POCO F6 Pro (`vermeer`):**
 
 `23113RKC6G`: POCO F6 Pro 国际版
-
-`23113RKC6I`: POCO F6 Pro 印度版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1991,6 +1989,8 @@
 **[`M20`] POCO X5 Pro 5G (`redwood`):**
 
 `22101320G`: POCO X5 Pro 5G 国际版
+
+**[`M20`] POCO X5 Pro 5G (`redwoodin`):**
 
 `22101320I`: POCO X5 Pro 5G 印度版
 
