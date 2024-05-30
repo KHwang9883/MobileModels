@@ -293,6 +293,10 @@
 
 `CPH2621`: OnePlus Nord 4 EU / Global
 
+**OnePlus Ace 3 Pro:**
+
+`PJX110`: OnePlus Ace 3 Pro China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
