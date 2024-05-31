@@ -466,9 +466,9 @@
 
 `V2279A`: vivo Y35+ 5G / vivo Y35m+ 5G
 
-**vivo Y36 / vivo Y36m / vivo Y36i (`PD2318`):**
+**vivo Y36 / vivo Y36m / vivo Y36i / vivo Y36s (`PD2318`):**
 
-`V2318A`: vivo Y36 5G / vivo Y36m 5G / vivo Y36i 5G
+`V2318A`: vivo Y36 5G / vivo Y36m 5G / vivo Y36i 5G / vivo Y36s 5G
 
 **vivo Y36t (`PD2327`):**
 
