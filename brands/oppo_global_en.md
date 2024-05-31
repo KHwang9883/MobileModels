@@ -273,6 +273,10 @@
 
 `CPH2629`: OPPO Reno12 Pro 5G
 
+**OPPO Reno12 F:**
+
+`CPH2637`: OPPO Reno12 F 5G
+
 ## F series
 
 **OPPO F7:**
