@@ -407,6 +407,10 @@
 
 `RMX3710`: realme C55
 
+**realme C63:**
+
+`RMX3939`: realme C63
+
 **realme C65:**
 
 `RMX3910`: realme C65
