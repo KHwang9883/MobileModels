@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-06-07
+- `huawei_global_en` Add HUAWEI MatePad SE 11.
 ## 2024-06-02
 - `realme_global_en` Add realme C63.
 ## 2024-05-31

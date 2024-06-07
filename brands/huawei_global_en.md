@@ -769,6 +769,12 @@
 
 `AGS5-L09`: HUAWEI MatePad SE 10.4 LTE
 
+**HUAWEI MatePad SE 11 (`Agassi6`):**
+
+`AGS6-W09`: HUAWEI MatePad SE 11 Wi-Fi
+
+`AGS6-L09`: HUAWEI MatePad SE 11 LTE
+
 **HUAWEI MatePad C3 (`Kobe2K`):**
 
 `KOB2K-W09`: HUAWEI MatePad C3 8 Wi-Fi
