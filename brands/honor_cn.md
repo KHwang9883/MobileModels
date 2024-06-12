@@ -98,6 +98,10 @@
 
 `BVL-AN20`: 荣耀 Magic6 RSR 保时捷设计
 
+**荣耀 Magic V Flip:**
+
+`LRA-AN00`: 荣耀 Magic V Flip
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
