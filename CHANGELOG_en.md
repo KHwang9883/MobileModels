@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-06-12
+- `mitv_global_en` Add several new models.
 ## 2024-06-07
 - `huawei_global_en` Add HUAWEI MatePad SE 11.
 ## 2024-06-02

@@ -71,6 +71,8 @@
 
 `L32M8-5AIN`: Xiaomi Smart TV A 32
 
+`L32MA-AIN`: Xiaomi Smart TV A 32 2024 Edition
+
 `L40M8-5AIN`: Xiaomi Smart TV A 40
 
 `L43M8-5AIN`: Xiaomi Smart TV A 43
@@ -126,6 +128,8 @@
 **Redmi Smart Fire TV:**
 
 `L32R8-FVIN`: Redmi Smart Fire TV 32
+
+`L32MA-FVIN`: Redmi Smart Fire TV 32 2024 Edition
 
 `L43R8-FVIN`: Redmi Smart Fire TV 43
 
@@ -301,9 +305,17 @@
 
 `L43M8-P2EU`: Xiaomi TV A FHD 43
 
+`L43MA-AUEU`: Xiaomi TV A 43 2025
+
 `L50M8-P2EU`: Xiaomi TV A 50
 
+`L50MA-AEU`: Xiaomi TV A 50 2025
+
 `L55M8-P2EU`: Xiaomi TV A 55
+
+`L55MA-AEU`: Xiaomi TV A 55 2025
+
+`L65MA-AEU`: Xiaomi TV A 65 2025
 
 **Xiaomi TV A (Southeast Asia):**
 
@@ -327,11 +339,19 @@
 
 `L43M8-A2EU`: Xiaomi TV A Pro 43
 
+`L43MA-SEU`: Xiaomi TV A Pro 43 2025
+
 `L50M8-A2EU`: Xiaomi TV A Pro 50
 
 `L55M8-A2EU`: Xiaomi TV A Pro 55
 
+`L55MA-SEU`: Xiaomi TV A Pro 55 2025
+
 `L65M8-A2EU`: Xiaomi TV A Pro 65
+
+`L65MA-SEU`: Xiaomi TV A Pro 65 2025
+
+`L75MA-SEU`: Xiaomi TV A Pro 75 2025
 
 **Xiaomi TV A Pro (Southeast Asia):**
 
