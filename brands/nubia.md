@@ -212,9 +212,17 @@
 
 `Z2352N`: nubia Neo 2 5G
 
+**nubia Music:**
+
+`Z2353`: nubia Music
+
 **nubia Blade A72:**
 
 `Z6255CA`: nubia Blade A72
+
+**nubia V50 Vita:**
+
+`nubia 8550`: nubia V50 Vita
 
 **nubia Pad 3D:**
 
