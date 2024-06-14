@@ -88,7 +88,7 @@
 
 `ZTE A2025HL`: 中兴 Axon 60 Ultra
 
-`ZTE A2025H`: 中兴 Axon 60 Ultra 卫星通信版
+`ZTE A2025H`: 中兴 Axon 60 Ultra 天通版
 
 **中兴天机 A41:**
 
