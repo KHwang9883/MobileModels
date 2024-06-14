@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-06-14
+- `oneplus_en` Add OnePlus Nord CE4 Lite.
 ## 2024-06-12
 - `mitv_global_en` Add several new models.
 ## 2024-06-07
