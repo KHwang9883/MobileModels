@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-06-14
 - `nubia` 新增 部分海外型号。
+- `oneplus` 新增 OnePlus Nord CE4 Lite。
 ## 2024-06-12
 - `honor_cn` 新增 荣耀 Magic V Flip。
 ## 2024-05-31
