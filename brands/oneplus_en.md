@@ -285,13 +285,9 @@
 
 `CPH2611`: OnePlus 12R North America
 
-**OnePlus Ace 3V / OnePlus Nord 4 (`audi`):**
+**OnePlus Ace 3V (`audi`):**
 
 `PJF110`: OnePlus Ace 3V China
-
-`CPH2619`: OnePlus Nord 4 India
-
-`CPH2621`: OnePlus Nord 4 EU / Global
 
 **OnePlus Ace 3 Pro:**
 
