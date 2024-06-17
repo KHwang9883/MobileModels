@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-06-18
+- `realme_cn` 新增 真我 V60/V60s。
 ## 2024-06-14
 - `nubia` 新增 部分海外型号。
 - `oneplus` 新增 OnePlus Nord CE4 Lite。
