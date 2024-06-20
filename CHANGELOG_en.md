@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-06-20
+- `realme_global_en` Add realme GT 6.
 ## 2024-06-14
 - `oneplus_en` Add OnePlus Nord CE4 Lite.
 ## 2024-06-12
