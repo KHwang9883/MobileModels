@@ -420,6 +420,10 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
+**OnePlus Pad Pro:**
+
+`OPD2404`: OnePlus Pad Pro
+
 ## 一加手表/手环
 
 **OnePlus Band:**
@@ -434,9 +438,13 @@
 
 `W301CN`: OnePlus Watch 国行版 / Cyberpunk 2077 限定版
 
-`W501CN`: OnePlus Watch 钴合金限定版(国行)
+`W501CN`: OnePlus Watch 钴合金限定版 (国行)
 
-`W301GB`: OnePlus Watch 国际版 / 钴合金限定版(国际)
+`W301GB`: OnePlus Watch 国际版 / 钴合金限定版 (国际)
+
+**OnePlus Watch 2:**
+
+`OPWW234`: OnePlus Watch 2 国行版
 
 **OnePlus Watch 2 (`almond`):**
 
