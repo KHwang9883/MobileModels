@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-06-25
+- `motorola` 新增 moto razr 50, S50 Neo。
 ## 2024-06-24
 - `oneplus` 新增 一加平板 Pro, 一加手表 2。
 - `oppo_cn` 新增 OPPO A3 5G。
