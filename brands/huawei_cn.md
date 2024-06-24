@@ -1147,7 +1147,7 @@
 
 `DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
 
-**HUAWEI MatePad 11.5" S:**
+**HUAWEI MatePad 11.5" S (`Domingo`):**
 
 `DMG-W00`: HUAWEI MatePad 11.5" S 灵动款 Wi-Fi 版
 
