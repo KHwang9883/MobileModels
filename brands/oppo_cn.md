@@ -470,7 +470,7 @@
 
 **OPPO A1:**
 
-`PHS110`: OPPO A1 (2023)
+`PHS110`: OPPO A1 5G (2023)
 
 **OPPO A1 Pro (`hepburn`):**
 
@@ -495,6 +495,10 @@
 **OPPO A2 Pro (`givenchy`):**
 
 `PJG110`: OPPO A2 Pro
+
+**OPPO A3:**
+
+`PKA110`: OPPO A3 5G (2024)
 
 **OPPO A3 活力版:**
 
