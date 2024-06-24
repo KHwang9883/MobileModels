@@ -415,6 +415,10 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
+**OnePlus Pad Pro:**
+
+`OPD2404`: OnePlus Pad Pro
+
 ## OnePlus Watches/Bands
 
 **OnePlus Band:**
@@ -432,6 +436,10 @@
 `W501CN`: OnePlus Watch Cobalt Limited Edition (China)
 
 `W301GB`: OnePlus Watch Global / Cobalt Limited Edition (Global)
+
+**OnePlus Watch 2:**
+
+`OPWW234`: OnePlus Watch 2 China
 
 **OnePlus Watch 2 (`almond`):**
 
