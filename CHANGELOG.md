@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-06-26
+- `huawei_cn` 新增 HUAWEI Pura 70 北斗卫星消息版。
 ## 2024-06-25
 - `motorola` 新增 moto razr 50, S50 Neo。
 - `zte` 新增 中兴远航 60, 远航 3D。

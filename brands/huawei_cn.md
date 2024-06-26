@@ -407,6 +407,8 @@
 
 `ADY-AL00`: HUAWEI Pura 70
 
+`ADY-AL10`: HUAWEI Pura 70 北斗卫星消息版
+
 **HUAWEI Pura 70 Pro (`Hapburn`):**
 
 `HBN-AL00`: HUAWEI Pura 70 Pro
