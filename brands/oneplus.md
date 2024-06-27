@@ -294,7 +294,7 @@
 
 `PJF110`: OnePlus Ace 3V 国行版
 
-**OnePlus Ace 3 Pro:**
+**OnePlus Ace 3 Pro (`corvette`):**
 
 `PJX110`: OnePlus Ace 3 Pro 国行版
 
@@ -420,9 +420,9 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad Pro:**
+**OnePlus Pad Pro (`caihong`):**
 
-`OPD2404`: OnePlus Pad Pro
+`OPD2404`: OnePlus Pad Pro 国行版
 
 ## 一加手表/手环
 
@@ -442,7 +442,7 @@
 
 `W301GB`: OnePlus Watch 国际版 / 钴合金限定版 (国际)
 
-**OnePlus Watch 2:**
+**OnePlus Watch 2 (`bagel`):**
 
 `OPWW234`: OnePlus Watch 2 国行版
 
