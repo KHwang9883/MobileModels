@@ -289,7 +289,7 @@
 
 `PJF110`: OnePlus Ace 3V China
 
-**OnePlus Ace 3 Pro:**
+**OnePlus Ace 3 Pro (`corvette`):**
 
 `PJX110`: OnePlus Ace 3 Pro China
 
@@ -415,7 +415,7 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad Pro:**
+**OnePlus Pad Pro (`caihong`):**
 
 `OPD2404`: OnePlus Pad Pro
 
@@ -437,7 +437,7 @@
 
 `W301GB`: OnePlus Watch Global / Cobalt Limited Edition (Global)
 
-**OnePlus Watch 2:**
+**OnePlus Watch 2 China / OnePlus Watch 2R (`bagel`):**
 
 `OPWW234`: OnePlus Watch 2 China
 
