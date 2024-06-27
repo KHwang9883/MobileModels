@@ -480,7 +480,7 @@
 
 `PHJ110`: OPPO A1x / OPPO A1 活力版
 
-**OPPO A1s / OPPO A2:**
+**OPPO A1s / OPPO A2 (`fanli`):**
 
 `PJB110`: OPPO A1s / OPPO A2
 
