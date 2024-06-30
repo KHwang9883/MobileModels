@@ -2,8 +2,8 @@
 
 - 汇总范围: 华为 Mate/Pura/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备
 - codename: ✅
-- 是否包含海外机型: [单独汇总 (英文)](brands/huawei_global_en.md)
-- 华为智选手机汇总: [单独汇总](brands/zhixuan.md)
+- 是否包含海外机型: [单独汇总 (英文)](/brands/huawei_global_en.md)
+- 华为智选手机汇总: [单独汇总](/brands/zhixuan.md)
 
 ## HUAWEI Mate 系列
 
