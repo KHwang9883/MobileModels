@@ -13,7 +13,7 @@
 - ⏹ 仅部分包含
 - ❌ 不包含
 
-| 名称 | 品牌 | 汇总范围 | codename | 海外机型 | 备注 |
+\| 名称 | 品牌 | 汇总范围 | codename | 海外机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | -- |
 | [apple_all](brands/apple_all.md) | 苹果 (Apple) | 全部 iPhone/iPad/iPod touch/Apple Watch | ✅ | ✅ | [国行机型单独汇总](brands/apple_cn.md) |
