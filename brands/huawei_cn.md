@@ -199,9 +199,9 @@
 
 `ALN-AL10`: HUAWEI Mate 60 Pro+
 
-**HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师 (`Allen`):**
+**HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师 (`Allen`):**
 
-`ALN-AL10`: HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师
+`ALN-AL10`: HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师
 
 **HUAWEI Mate X (`Tahiti`):**
 
@@ -671,7 +671,7 @@
 
 `HUAWEI G7-TL00`: 华为 Ascend G7 移动版
 
-`HUAWEI G7-UL00`: 华为 Ascend G7 联通版
+`HUAWEI G7-UL20`: 华为 Ascend G7 联通版
 
 **华为 G7 Plus (`Rio`):**
 
@@ -2067,7 +2067,7 @@
 
 `Leo-L19E`: HUAWEI WATCH 2 Pro
 
-`LEO-DLXXU`: PORSCHE DESIGN | HUAWEI Smartwatch
+`LEO-DLXXU`: PORSCHE DESIGN HUAWEI Smartwatch
 
 **HUAWEI WATCH 3 (`Galileo`):**
 
@@ -2095,9 +2095,9 @@
 
 `CLB-B19`: HUAWEI WATCH Ultimate
 
-**HUAWEI WATCH | ULTIMATE DESIGN 非凡大师:**
+**HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 
-`CLB-B39`: HUAWEI WATCH | ULTIMATE DESIGN 非凡大师
+`CLB-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师
 
 **HUAWEI WATCH GT:**
 
