@@ -199,9 +199,9 @@
 
 `ALN-AL10`: HUAWEI Mate 60 Pro+
 
-**HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师 (`Allen`):**
+**HUAWEI Mate 60 RS \| ULTIMATE DESIGN 非凡大师 (`Allen`):**
 
-`ALN-AL10`: HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师
+`ALN-AL10`: HUAWEI Mate 60 RS \| ULTIMATE DESIGN 非凡大师
 
 **HUAWEI Mate X (`Tahiti`):**
 
