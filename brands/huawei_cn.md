@@ -671,7 +671,7 @@
 
 `HUAWEI G7-TL00`: 华为 Ascend G7 移动版
 
-`HUAWEI G7-UL00`: 华为 Ascend G7 联通版
+`HUAWEI G7-UL20`: 华为 Ascend G7 联通版
 
 **华为 G7 Plus (`Rio`):**
 
