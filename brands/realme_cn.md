@@ -2,7 +2,7 @@
 
 - 汇总范围: 全部机型
 - codename: ⏹
-- 是否包含海外机型: [单独汇总 (英文)](brands/realme_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](/brands/realme_global_en.md)
 
 ## X 系列
 

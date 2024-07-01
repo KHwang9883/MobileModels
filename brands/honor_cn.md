@@ -2,7 +2,7 @@
 
 - 汇总范围: 荣耀手机/平板/笔记本电脑/智慧屏/穿戴设备
 - codename: ✅
-- 是否包含海外机型: [单独汇总 (英文)](brands/honor_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](/brands/honor_global_en.md)
 
 ## 荣耀 Magic 系列
 
