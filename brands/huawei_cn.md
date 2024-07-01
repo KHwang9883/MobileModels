@@ -1195,6 +1195,10 @@
 
 `AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
 
+**HUAWEI MatePad SE 11 (`Agassi6`):**
+
+`AGS6-W00`: HUAWEI MatePad SE 11 英寸 Wi-Fi 版
+
 ## HUAWEI MatePad Paper 系列
 
 **HUAWEI MatePad Paper (`Hemingway`):**

@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-07-01
+- `huawei_cn` 新增 HUAWEI MatePad SE 11。
 ## 2024-06-26
 - `huawei_cn` 新增 HUAWEI Pura 70 北斗卫星消息版。
 ## 2024-06-25
