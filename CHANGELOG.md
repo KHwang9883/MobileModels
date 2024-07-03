@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-07-03
 - `nothing` 新增 CMF Phone 1。
+- `nubia` 新增 红魔 9S Pro, nubia Pad 3D II。
 ## 2024-07-01
 - `huawei_cn` 新增 HUAWEI MatePad SE 11。
 ## 2024-06-26

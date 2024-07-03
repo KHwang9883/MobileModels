@@ -228,6 +228,10 @@
 
 `LPD-20W`: nubia Pad 3D
 
+**nubia Pad 3D II:**
+
+`NP02J`: nubia Pad 3D II
+
 ## 红魔
 
 **红魔电竞游戏手机:**
@@ -297,6 +301,10 @@
 **红魔 9 Pro / 红魔 9 Pro+:**
 
 `NX769J`: 红魔 9 Pro / 红魔 9 Pro+
+
+**红魔 9S Pro / 红魔 9S Pro+:**
+
+`NX769J`: 红魔 9S Pro / 红魔 9S Pro+
 
 **红魔电竞平板:**
 
