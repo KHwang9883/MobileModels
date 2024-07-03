@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-07-03
+- `nothing` Add CMF Phone 1.
 ## 2024-06-24
 - `oneplus_en` Add OnePlus Pad Pro, OnePlus Watch 2 (China).
 ## 2024-06-20
