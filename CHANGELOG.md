@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-07-04
+- `realme_cn` 新增 真我 GT6。
 - `vivo_cn` 新增 iQOO Neo9S Pro+。
 ## 2024-07-03
 - `nothing` 新增 CMF Phone 1。
