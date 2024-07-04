@@ -946,6 +946,10 @@
 
 `V2339FA`: iQOO Neo9S Pro
 
+**iQOO Neo9S Pro+ (`PD2403`):**
+
+`V2403A`: iQOO Neo9S Pro+
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**

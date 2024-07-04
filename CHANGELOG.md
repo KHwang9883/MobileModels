@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-07-04
+- `vivo_cn` 新增 iQOO Neo9S Pro+。
 ## 2024-07-03
 - `nothing` 新增 CMF Phone 1。
 - `nubia` 新增 红魔 9S Pro, nubia Pad 3D II。
