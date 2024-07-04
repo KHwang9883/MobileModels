@@ -58,6 +58,7 @@
 | Redmi Book 14 | `M59` | 2023 |
 | Redmi Book Pro 15 2023 锐龙版 | `A49S` | 2023 |
 | Redmi Book 14 2024 | `M59S` | 2023 |
+| Redmi Book 14 2024 (13 代酷睿 2.2K) | `M59A` | 2024 |
 | Redmi Book 16 2024 (13 代酷睿) | `M58` | 2023 |
 | Redmi Book 16 2024 (12 代酷睿) | `M58A` | 2023 |
 | Redmi Book 16 2024 (13 代酷睿 FHD) | `M58AS` | 2023 |
