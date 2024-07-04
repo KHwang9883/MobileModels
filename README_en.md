@@ -5,7 +5,6 @@
 [![stars](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![chinese](https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-red.svg)](README.md)
 
 Collecting device names, models and internal codenames.
 

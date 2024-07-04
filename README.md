@@ -5,9 +5,10 @@
 [![stars](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![english](https://img.shields.io/badge/-English-blue.svg)](README_en.md)
 
 汇总各厂商上市的手机型号与对应的宣传名。
+
+[English](README_en.md)
 
 - ✅ 包含
 - ⏹ 仅部分包含
