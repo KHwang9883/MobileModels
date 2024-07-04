@@ -404,6 +404,8 @@
 
 `23116PN5BC`: Xiaomi 14 Pro / Xiaomi 14 Pro 钛金属版
 
+**[`N2T`] Xiaomi 14 Pro (`shennong_t`):**
+
 `2311BPN23C`: Xiaomi 14 Pro 钛金属版 (卫星通讯)
 
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
@@ -510,13 +512,13 @@
 
 `M1810E5GG`: 小米 MIX 3 5G
 
-**[`J18`] MIX FOLD 小米折叠屏手机 (`cetus`):**
-
-`M2011J18C`: MIX FOLD 小米折叠屏手机
-
 **[`K8`] Xiaomi MIX 4 (`odin`):**
 
 `2106118C`: Xiaomi MIX 4
+
+**[`J18`] MIX FOLD 小米折叠屏手机 (`cetus`):**
+
+`M2011J18C`: MIX FOLD 小米折叠屏手机
 
 **[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
 
@@ -529,6 +531,12 @@
 **[`N18`] Xiaomi MIX Fold 4 (`goku`):**
 
 `24072PX77C`: Xiaomi MIX Fold 4
+
+**[`N8`] Xiaomi MIX Flip (`ruyi`):**
+
+`2405CPX3DC`: Xiaomi MIX Flip 国行版
+
+`2405CPX3DG`: Xiaomi MIX Flip 国际版
 
 ## 小米 Max 系列
 
@@ -962,11 +970,11 @@
 
 `M2010J19ST`: Redmi 9T 泰国版
 
-**[`J19S`] Redmi 9T (`lemon`):**
+**[`J19N`] Redmi 9T (`lemon`):**
 
 `M2010J19SY`: Redmi 9T 国际版 (NFC)
 
-**[`J19S`] Redmi 9T (`pomelo`):**
+**[`J19L`] Redmi 9T (`pomelo`):**
 
 `M2010J19SL`: Redmi 9T 拉美版
 
@@ -1502,7 +1510,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+
 
-**[`L19`] Redmi Note 11R (`light`):**
+**[`L19X`] Redmi Note 11R (`lightcm`):**
 
 `22095RA98C`: Redmi Note 11R 5G
 
@@ -1613,6 +1621,8 @@
 `2312DRA50G`: Redmi Note 13 Pro 5G 国际版
 
 `2312DRA50I`: Redmi Note 13 Pro 5G 印度版
+
+`XIG05`: Redmi Note 13 Pro 5G 日本版 (KDDI)
 
 **[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
 
@@ -1876,15 +1886,17 @@
 
 `23073RPBFL`: Redmi Pad SE 拉美版
 
-**Redmi Pad Pro (`dizi`):**
+**[`N83`] Redmi Pad Pro (`dizi`):**
 
 `2405CRPFDC`: Redmi Pad Pro 国行版
 
 `2405CRPFDG`: Redmi Pad Pro 国际版
 
+`2405CRPFDI`: Redmi Pad Pro 印度版
+
 `2405CRPFDL`: Redmi Pad Pro 拉美版
 
-**Redmi Pad Pro 5G (`ruan`):**
+**[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
 `24074RPD2C`: Redmi Pad Pro 5G 国行版
 
@@ -2126,6 +2138,8 @@
 
 **[`C3YP`] POCO C61 (`blue`):**
 
+`2312BPC51X`: POCO C61 国际版
+
 `2312BPC51H`: POCO C61 印度版
 
 **[`C3UP`] POCO C65 (`gust`):**
@@ -2138,7 +2152,7 @@
 
 ## POCO 平板
 
-**POCO Pad (`dizi`):**
+**[`N83P`] POCO Pad (`dizi`):**
 
 `2405CPCFBG`: POCO Pad 国际版
 
