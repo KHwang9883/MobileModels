@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-07-05
+- `xiaomi_en` Add Xiaomi MIX Flip, update codenames.
 ## 2024-07-03
 - `nothing` Add CMF Phone 1.
 ## 2024-06-24

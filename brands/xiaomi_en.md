@@ -401,6 +401,8 @@
 
 `23116PN5BC`: Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China
 
+**[`N2T`] Xiaomi 14 Pro Ti Satellite (`shennong_t`):**
+
 `2311BPN23C`: Xiaomi 14 Pro Ti Satellite China
 
 **[`N1`] Xiaomi 14 Ultra (`aurora`):**
@@ -499,13 +501,13 @@
 
 `M1810E5GG`: Mi MIX 3 5G
 
-**[`J18`] Mi MIX Fold (`cetus`):**
-
-`M2011J18C`: Mi MIX FOLD China
-
 **[`K8`] Xiaomi MIX 4 (`odin`):**
 
 `2106118C`: Xiaomi MIX 4 China
+
+**[`J18`] Mi MIX FOLD (`cetus`):**
+
+`M2011J18C`: Mi MIX FOLD China
 
 **[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
 
@@ -517,7 +519,13 @@
 
 **[`N18`] Xiaomi MIX Fold 4 (`goku`):**
 
-`24072PX77C`: Xiaomi MIX Fold 4
+`24072PX77C`: Xiaomi MIX Fold 4 China
+
+**[`N8`] Xiaomi MIX Flip (`ruyi`):**
+
+`2405CPX3DG`: Xiaomi MIX Flip Global
+
+`2405CPX3DC`: Xiaomi MIX Flip China
 
 **[`B3`] Mi Max (`hydrogen`):**
 
@@ -873,11 +881,11 @@
 
 `M2010J19ST`: Redmi 9T Thailand
 
-**[`J19S`] Redmi 9T (`lemon`):**
+**[`J19N`] Redmi 9T (`lemon`):**
 
 `M2010J19SY`: Redmi 9T Global (NFC)
 
-**[`J19S`] Redmi 9T (`pomelo`):**
+**[`J19L`] Redmi 9T (`pomelo`):**
 
 `M2010J19SL`: Redmi 9T Latin America
 
@@ -1405,7 +1413,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 5G China
 
-**[`L19`] Redmi Note 11R (`light`):**
+**[`L19X`] Redmi Note 11R (`lightcm`):**
 
 `22095RA98C`: Redmi Note 11R 5G China
 
@@ -1516,6 +1524,8 @@
 `2312DRA50I`: Redmi Note 13 Pro 5G India
 
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
+
+`XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
 
 **[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
 
@@ -1991,6 +2001,8 @@
 
 **[`C3YP`] POCO C61 (`blue`):**
 
+`2312BPC51X`: POCO C61 Global
+
 `2312BPC51H`: POCO C61 India
 
 **[`C3UP`] POCO C65 (`gust`):**
@@ -2079,21 +2091,23 @@
 
 `23073RPBFL`: Redmi Pad SE Latin America
 
-**Redmi Pad Pro (`dizi`):**
+**[`N83`] Redmi Pad Pro (`dizi`):**
 
 `2405CRPFDG`: Redmi Pad Pro Global
 
 `2405CRPFDC`: Redmi Pad Pro China
 
+`2405CRPFDI`: Redmi Pad Pro India
+
 `2405CRPFDL`: Redmi Pad Pro Latin America
 
-**Redmi Pad Pro 5G (`ruan`):**
+**[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
 `24074RPD2G`: Redmi Pad Pro 5G Global
 
 `24074RPD2C`: Redmi Pad Pro 5G China
 
-**POCO Pad (`dizi`):**
+**[`N83P`] POCO Pad (`dizi`):**
 
 `2405CPCFBG`: POCO Pad Global
 
