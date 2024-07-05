@@ -76,7 +76,7 @@
 
 `M2333B1`: 小米手环 8 Pro 国际版
 
-## 小米手表
+## 小米智能手表
 
 **小米手表 (`baiji`):**
 
@@ -93,6 +93,8 @@
 **Xiaomi Watch 2 Pro (`axolotlte`):**
 
 `M2233W1`: Xiaomi Watch 2 Pro LTE
+
+## 小米手表（类手环）
 
 **小米手表 Color:**
 
@@ -144,7 +146,7 @@
 
 `M2225B1`: Redmi 手环 2
 
-## Redmi 手表
+## Redmi 手表（类手环）
 
 **Redmi Watch:**
 
@@ -174,7 +176,7 @@
 
 `M2314W1`: Redmi Watch 4
 
-## POCO 手表
+## POCO 手表（类手环）
 
 **POCO Watch:**
 
