@@ -404,7 +404,7 @@
 
 `23116PN5BC`: Xiaomi 14 Pro / Xiaomi 14 Pro 钛金属版
 
-**[`N2T`] Xiaomi 14 Pro (`shennong_t`):**
+**[`N2T`] Xiaomi 14 Pro (`shennong`):**
 
 `2311BPN23C`: Xiaomi 14 Pro 钛金属版 (卫星通讯)
 
@@ -1510,7 +1510,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+
 
-**[`L19X`] Redmi Note 11R (`lightcm`):**
+**[`L19X`] Redmi Note 11R (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G
 

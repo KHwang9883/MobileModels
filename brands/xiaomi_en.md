@@ -401,7 +401,7 @@
 
 `23116PN5BC`: Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China
 
-**[`N2T`] Xiaomi 14 Pro Ti Satellite (`shennong_t`):**
+**[`N2T`] Xiaomi 14 Pro Ti Satellite (`shennong`):**
 
 `2311BPN23C`: Xiaomi 14 Pro Ti Satellite China
 
@@ -1413,7 +1413,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 5G China
 
-**[`L19X`] Redmi Note 11R (`lightcm`):**
+**[`L19X`] Redmi Note 11R (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G China
 
