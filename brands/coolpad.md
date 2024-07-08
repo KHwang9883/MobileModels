@@ -176,6 +176,10 @@
 
 `CP15`: 酷派 COOL 30 Pro 5G
 
+**酷派 COOL 50:**
+
+`CPDM1Y`: 酷派 COOL 50
+
 **酷派 COOL 60:**
 
 `CP3NV2`: 酷派 COOL 60 5G
