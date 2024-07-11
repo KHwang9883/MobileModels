@@ -1199,6 +1199,8 @@
 
 `AGS6-W00`: HUAWEI MatePad SE 11 英寸 Wi-Fi 版
 
+`AGS6-W10`: HUAWEI MatePad SE 活力版 11 英寸 Wi-Fi 版
+
 ## HUAWEI MatePad Paper 系列
 
 **HUAWEI MatePad Paper (`Hemingway`):**
@@ -1234,6 +1236,10 @@
 **华为平板 C3 2022:**
 
 `BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 Wi-Fi 版
+
+**华为擎云 C3:**
+
+`BXE3-W00` `BVE3-W00` `BXN3-W00`: 华为擎云 C3 10.4 英寸 Wi-Fi 版
 
 **华为平板 C5:**
 
@@ -1273,11 +1279,11 @@
 
 `KOB2KZ-AL00`: 华为擎云 C5 8 英寸 全网通版
 
-**华为擎云 C5 (`BartokZ`):**
+**华为擎云 C5 (第 2 代) (`BartokZ`):**
 
-`BTKZ-W00`: 华为擎云 C5 11.5 英寸 Wi-Fi 版
+`BTKZ-W00`: 华为擎云 C5 (第 2 代) 11.5 英寸 Wi-Fi 版
 
-`BTKZ-AL00`: 华为擎云 C5 11.5 英寸 全网通版
+`BTKZ-AL00`: 华为擎云 C5 (第 2 代) 11.5 英寸 全网通版
 
 **华为平板 C5e:**
 
@@ -1290,6 +1296,10 @@
 `AGS5Z-W09` `AGS5Z-W19`: 华为擎云 C5e 10.4 英寸 Wi-Fi 版
 
 `AGS5Z-AL00`: 华为擎云 C5e 10.4 英寸 全网通版
+
+**华为擎云 C5e (第 2 代):**
+
+`BZF5-W00` `BLF5-W00` `BZH5-W00`: 华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版
 
 **华为擎云 C5z:**
 
