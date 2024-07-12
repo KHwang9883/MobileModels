@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-07-12
+- `honor_cn` 新增 荣耀 Magic V3, Vs3, MagicPad 2, MagicBook Art 14。
 ## 2024-07-11
 - `huawei_cn` 新增 华为擎云新款平板。
 - `zhixuan` 新增 麦芒 30。

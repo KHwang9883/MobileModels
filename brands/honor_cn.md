@@ -102,6 +102,14 @@
 
 `LRA-AN00`: 荣耀 Magic V Flip
 
+**荣耀 Magic V3:**
+
+`FCP-AN10`: 荣耀 Magic V3
+
+**荣耀 Magic Vs3:**
+
+`FLC-AN00`: 荣耀 Magic Vs3
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -980,6 +988,10 @@
 
 `HEY2-AN00`: 荣耀平板 Z7 12.1 英寸 5G 版
 
+**荣耀平板 MagicPad 2 (`Rolland2`):**
+
+`ROD2-W09`: 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
+
 **荣耀 Waterplay (`Haydn`):**
 
 `HDN-W09`: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
@@ -1277,6 +1289,14 @@
 `HGF-W56`: 荣耀 MagicBook V 14 2022 i5
 
 `HGF-W76`: 荣耀 MagicBook V 14 2022 i7
+
+**荣耀 MagicBook Art 14:**
+
+`MRA-561`: 荣耀 MagicBook Art 14 Ultra 5 (16GB+1TB)
+
+`MRA-521`: 荣耀 MagicBook Art 14 Ultra 5 (32GB+1TB)
+
+`MRA-721`: 荣耀 MagicBook Art 14 Ultra 7 (32GB+1TB)
 
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
