@@ -5,6 +5,8 @@
 > 如有错漏欢迎 PR
 > 
 > TEE 失效会导致部分 app 指纹/人脸支付失效，部分银行/政府 app 无法使用，网飞、迪士尼等海外流媒体应用无法开启高画质。
+>
+> 如果不支持自签名 AVB，回锁 Bootloader 需要恢复原厂 ROM。
 
 - ✅ 支持/是 | **可点击**
 - ⚠️ 名义上支持但实际上近乎不支持 | **可点击**
@@ -39,10 +41,12 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: ✅
 - **Linux 内核开源**: [✅](https://source.android.com/docs/setup/build/building-pixel-kernels)
 - **备注**:
     - 启用 OEM 解锁功能需已连接到互联网并已签入 Google（即便设备不久前曾连接到互联网，也仍然可能没有签入 Google）。如需强制签入，请在拨号器中输入 *#*#CHECKIN#*#* (*#*#2432546#*#*)（不需要插入 SIM 卡）。输入此号码（不需要按“通话”）后，相应文字即会消失，并且系统会显示成功通知。
     - 有些设备需要运营商干预才能解锁。如需了解详情，请与您的运营商联系。
+    - [DivestOS](https://divestos.org) 和 [GrapheneOS](https://grapheneos.org) 官方提供 Custom AVB Key，刷入之后即可回锁（无需恢复到原厂 ROM）
 
 ## 荣耀 (HONOR)
 - **Bootloader 解锁**: ❌
@@ -61,6 +65,7 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [❌](https://divestos.org/pages/devices)
 - **Linux 内核开源**: [✅](https://www.htcdev.com/devcenter/downloads)
 - **备注**:
     - 解锁需注册 HTCdev 账户
@@ -71,6 +76,7 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ⏹
 - **是否支持回锁**: ⏹
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: 不详
 - **Linux 内核开源**: ❌
 - **备注**:
     - 申请解锁文件需登录联想账号
@@ -85,12 +91,14 @@
 - **解锁等待时长**: 不详
 - **解锁后保修状态**: 不详
 - **是否支持回锁**: 不详
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: 不详
 - **Linux 内核开源**: ❌
 
 ## LG
 - **Bootloader 解锁**: [❌](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev)
 - **Linux 内核开源**: [✅](https://opensource.lge.com/index)
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [❌](https://divestos.org/pages/devices)
 - **备注**: 官方解锁渠道已随手机业务同步下线
 
 ## 魅族 (MEIZU)
@@ -105,6 +113,7 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ⏹
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [❌](https://divestos.org/pages/devices)
 - **Linux 内核开源**: [✅](https://github.com/MotorolaMobilityLLC)
 - **备注**:
     - 解锁后无法恢复出厂 `oem_locked` 状态
@@ -123,6 +132,7 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [✅](https://github.com/chenxiaolong/avbroot/issues/299)
 - **Linux 内核开源**: [✅](https://github.com/NothingOSS)
 - **备注**:
     - 无需申请解锁码，无任何解锁限制
@@ -132,6 +142,7 @@
 - **Bootloader 解锁**: ⏹
 - **解锁后保修状态**: 不详
 - **是否支持回锁**: ⏹
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: 不详
 - **Linux 内核开源**: [⏹](https://github.com/ztemt)
 - **备注**: 新产品不再提供解锁；旧产品更新系统后也不再提供解锁
 
@@ -140,16 +151,19 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [⏹](https://github.com/chenxiaolong/avbroot/issues/299)
 - **Linux 内核开源**: [✅](https://github.com/OnePlusOSS)
 - **备注**:
     - 无需申请解锁码，无任何解锁限制
     - 解锁后会暂时屏蔽 TEE，回锁后恢复
+    - [仅一加 6/6T 及之前的老机型自签名 AVB，从一加 7 开始不再支持（即只支持刷回原厂 ROM 的情况下回锁）](https://divestos.org/pages/devices)
 
 ## OPPO
 - **Bootloader 解锁**: [⏹](https://www.oppo.cn/thread-397164526-1)
 - **解锁等待时长**: 720 小时 (1 月)
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: 不详
 - **Linux 内核开源**: [✅](https://github.com/oppo-source)
 - **备注**:
     - 仅部分机型支持解锁
@@ -160,6 +174,7 @@
 - **解锁等待时长**: 5-15 小时
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: 不详
 - **Linux 内核开源**: [✅](https://github.com/realme-kernel-opensource)
 - **备注**:
     - 仅部分机型支持解锁
@@ -174,17 +189,20 @@
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [⏹](https://divestos.org/pages/devices)
 - **Linux 内核开源**: [✅](https://opensource.samsung.com/main)
 - **备注**:
     - 解锁将导致 KNOX 熔断，钱包等功能失效，保修丢失；部分机型解锁还将导致相机永久无法工作（如 Galaxy Fold 系列）
     - 美版设备不支持解锁
     - 仅部分地区的设备系统支持无损互刷
+    - 仅部分机型支持在保留非原厂 ROM 的情况下回锁
 
 ## 索尼 (SONY)
 - **Bootloader 解锁**: [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader)
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [⏹](https://github.com/chenxiaolong/avbroot/issues/80#issuecomment-1475963837)
 - **Linux 内核开源**: [✅](https://github.com/sonyxperiadev/kernel)
 - **备注**:
     - 需申请解锁码
@@ -216,6 +234,7 @@
     - **MIUI 机型:** 168/360-2880 小时 (7/15 天 - 4 月)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: [❌](https://github.com/chenxiaolong/avbroot/issues/299)
 - **Linux 内核开源**: [⏹](https://github.com/MiCode)
 - **备注**:
     - 对于国行 HyperOS 机型：
@@ -249,5 +268,6 @@
 ## 中兴 (ZTE)
 - **Bootloader 解锁**: ❌
 - **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: ❌
 - **Linux 内核开源**: [✅](https://opensource.ztedevices.com/)
 - **备注**: 部分新产品不再提供解锁
