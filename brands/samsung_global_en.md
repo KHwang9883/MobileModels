@@ -677,6 +677,20 @@
 
 `SC-55D`: Galaxy Z Fold5 Japan (NTT Docomo)
 
+**Galaxy Z Fold6 (`q6q`):**
+
+`SM-F956B`: Galaxy Z Fold6 Global
+
+`SM-F956U`: Galaxy Z Fold6 US Carrier
+
+`SM-F956U1`: Galaxy Z Fold6 US Unlocked
+
+`SM-F956W`: Galaxy Z Fold6 Canada
+
+`SM-F9560`: Galaxy Z Fold6 China
+
+`SM-F956N`: Galaxy Z Fold6 South Korea
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
@@ -766,6 +780,20 @@
 `SCG23`: Galaxy Z Flip5 Japan (au)
 
 `SC-54D`: Galaxy Z Flip5 Japan (NTT Docomo)
+
+**Galaxy Z Flip6 (`b6q`):**
+
+`SM-F741B`: Galaxy Z Flip6 Global
+
+`SM-F741U`: Galaxy Z Flip6 US Carrier
+
+`SM-F741U1`: Galaxy Z Flip6 US Unlocked
+
+`SM-F741W`: Galaxy Z Flip6 Canada
+
+`SM-F7410`: Galaxy Z Flip6 China
+
+`SM-F741N`: Galaxy Z Flip6 South Korea
 
 ## Galaxy A
 
@@ -1462,6 +1490,10 @@
 `SM-A556B`: Galaxy A55 5G EU
 
 `SM-A5560`: Galaxy A55 5G China
+
+`SCG27`: Galaxy A55 5G Japan (au)
+
+`SC-53E`: Galaxy A55 5G Japan (NTT Docomo)
 
 **Galaxy A60 (`a60q`):**
 

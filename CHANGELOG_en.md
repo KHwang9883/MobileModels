@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-07-14
+- `samsung_global_en` Add Galaxy Z Fold6, Flip6.
 ## 2024-07-05
 - `xiaomi_en` Add Xiaomi MIX Flip, update codenames.
 ## 2024-07-03
