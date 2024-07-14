@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-07-14
+- `samsung_cn` 新增 Galaxy Z Fold6, Flip6, Watch7, Watch Ultra。
 ## 2024-07-12
 - `honor_cn` 新增 荣耀 Magic V3, Vs3, MagicPad 2, MagicBook Art 14。
 ## 2024-07-11
