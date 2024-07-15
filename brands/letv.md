@@ -109,3 +109,7 @@
 **Letv S1 Pro:**
 
 `Letv L8`: Letv S1 Pro 5G
+
+**Letv S3 Pro:**
+
+`Letv L9`: Letv S3 Pro

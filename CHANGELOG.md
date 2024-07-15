@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-07-15
+- `letv` 新增 Letv S3 Pro。
 - `vivo_cn` 新增 vivo Y37。
 ## 2024-07-14
 - `samsung_cn` 新增 Galaxy Z Fold6, Flip6, Watch7, Watch Ultra。
