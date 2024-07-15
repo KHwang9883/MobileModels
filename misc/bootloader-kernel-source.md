@@ -108,6 +108,18 @@
     - [官方仅支持 root](https://mroot.flyme.cn/)，root 后 OTA 功能失效
     - 仅少部分早期机型内核开源
 
+## 微软 (Microsoft)
+- **Bootloader 解锁**: ✅
+- **解锁等待时长**: 无 (秒解)
+- **解锁后保修状态**: ✅
+- **是否支持回锁**: ✅
+    - **在保留非原厂 ROM 的情况下回锁（自签名 AVB）**: ✅
+- **Linux 内核开源**: [✅](https://github.com/microsoft/surface-duo-oss)
+- **备注**:
+    - 解锁 Bootloader 不需要解锁网络锁
+    - 仅限 Android 系统型号
+
+
 ## 摩托罗拉 (Motorola)
 - **Bootloader 解锁**: [✅](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a)
 - **解锁等待时长**: 无 (秒解)
