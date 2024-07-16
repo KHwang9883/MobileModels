@@ -7,7 +7,9 @@
 
 **OnePlus One (`bacon`):**
 
-`ONE A0001` `ONE A1001`: OnePlus One
+`ONE A0001`: OnePlus One China / China Mobile / Global
+
+`ONE A1001`: OnePlus One China Unicom
 
 **OnePlus 2 (`oneplus2`):**
 
@@ -19,7 +21,9 @@
 
 **OnePlus X (`onyx`):**
 
-`ONE E1000` `ONE E1001`: OnePlus X China
+`ONE E1000`: OnePlus X China
+
+`ONE E1001`: OnePlus X China Mobile / China Unicom
 
 `ONE E1003`: OnePlus X Global
 
@@ -63,7 +67,7 @@
 
 `GM1901`: OnePlus 7 India
 
-`GM1903`: OnePlus 7 EU
+`GM1903`: OnePlus 7 Europe
 
 `GM1905`: OnePlus 7 North America / Global
 
@@ -73,7 +77,7 @@
 
 `GM1911`: OnePlus 7 Pro India
 
-`GM1913`: OnePlus 7 Pro EU
+`GM1913`: OnePlus 7 Pro Europe
  
 `GM1915`: OnePlus 7 Pro North America / Global
 
@@ -83,7 +87,7 @@
 
 **OnePlus 7 Pro 5G (`guacamoleg`):**
 
-`GM1920`: OnePlus 7 Pro 5G EU
+`GM1920`: OnePlus 7 Pro 5G Europe
 
 **OnePlus 7 Pro 5G (`guacamoles`):**
 
@@ -95,7 +99,7 @@
 
 `HD1901`: OnePlus 7T India
 
-`HD1903`: OnePlus 7T EU
+`HD1903`: OnePlus 7T Europe
 
 `HD1905`: OnePlus 7T North America / Global
 
@@ -109,7 +113,7 @@
 
 `HD1911`: OnePlus 7T Pro India
 
-`HD1913`: OnePlus 7T Pro EU / Global
+`HD1913`: OnePlus 7T Pro Europe / Global
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
@@ -121,7 +125,7 @@
 
 `IN2011`: OnePlus 8 India
 
-`IN2013`: OnePlus 8 EU
+`IN2013`: OnePlus 8 Europe
 
 `IN2015`: OnePlus 8 North America / Global
 
@@ -139,7 +143,7 @@
 
 `IN2021`: OnePlus 8 Pro India
 
-`IN2023`: OnePlus 8 Pro EU
+`IN2023`: OnePlus 8 Pro Europe
 
 `IN2025`: OnePlus 8 Pro North America / Global
 
@@ -149,9 +153,9 @@
 
 `KB2001`: OnePlus 8T India
 
-`KB2003`: OnePlus 8T EU
+`KB2003`: OnePlus 8T Europe
 
-`KB2005`: OnePlus 8T North America / Global
+`KB2005`: OnePlus 8T North America / Global / OnePlus 8T Concept
 
 **OnePlus 8T+ (`kebabt`):**
 
@@ -169,7 +173,7 @@
 
 `LE2111`: OnePlus 9 India
 
-`LE2113`: OnePlus 9 EU
+`LE2113`: OnePlus 9 Europe
 
 `LE2115`: OnePlus 9 North America / Global
 
@@ -187,7 +191,7 @@
 
 `LE2121`: OnePlus 9 Pro India
 
-`LE2123`: OnePlus 9 Pro EU
+`LE2123`: OnePlus 9 Pro Europe
 
 `LE2125`: OnePlus 9 Pro North America / Global
 
@@ -207,7 +211,7 @@
 
 `NE2211`: OnePlus 10 Pro India
 
-`NE2213`: OnePlus 10 Pro EU / Global
+`NE2213`: OnePlus 10 Pro Europe / Global
 
 `NE2215`: OnePlus 10 Pro North America
 
@@ -217,9 +221,9 @@
 
 `PGKM10`: OnePlus Ace China
 
-`CPH2411`: OnePlus 10R Endurance India
-
 `CPH2423`: OnePlus 10R India
+
+`CPH2411`: OnePlus 10R Endurance India
 
 **OnePlus Ace Race (`qqcandy`):**
 
@@ -227,11 +231,11 @@
 
 **OnePlus 10T / OnePlus Ace Pro (`ovaltine`):**
 
-`PGP110`: OnePlus Ace Pro China
+`PGP110`: OnePlus Ace Pro China / Genshin Impact Edition
 
 `CPH2413`: OnePlus 10T India
 
-`CPH2415`: OnePlus 10T EU / Global
+`CPH2415`: OnePlus 10T Europe / Global
 
 `CPH2417`: OnePlus 10T North America
 
@@ -243,13 +247,13 @@
 
 `CPH2447`: OnePlus 11 India
 
-`CPH2449`: OnePlus 11 EU / Global
+`CPH2449`: OnePlus 11 Europe / Global / OnePlus 11 Concept
 
 `CPH2451`: OnePlus 11 North America
 
 **OnePlus 11R / OnePlus Ace 2 (`udon`):**
 
-`PHK110`: OnePlus Ace 2 China
+`PHK110`: OnePlus Ace 2 China / Genshin Impact Edition
 
 `CPH2487`: OnePlus 11R India
 
@@ -259,11 +263,11 @@
 
 `CPH2491`: OnePlus Nord 3 India
 
-`CPH2493`: OnePlus Nord 3 EU
+`CPH2493`: OnePlus Nord 3 Europe
 
-**OnePlus Ace 2 Pro (`xigua`):**
+**OnePlus Ace 2 Pro (`xigua`) / OnePlus Ace 2 Pro Genshin Impact (`xiyou`):**
 
-`PJA110`: OnePlus Ace 2 Pro China
+`PJA110`: OnePlus Ace 2 Pro China / Genshin Impact Edition
 
 **OnePlus 12 (`waffle`):**
 
@@ -271,19 +275,19 @@
 
 `CPH2573`: OnePlus 12 India
 
-`CPH2581`: OnePlus 12 EU / Global
+`CPH2581`: OnePlus 12 Europe / Global
 
 `CPH2583`: OnePlus 12 North America
 
-**OnePlus Ace 3 / OnePlus 12R (`aston`):**
+**OnePlus Ace 3 / OnePlus 12R (`aston`) / OnePlus Ace 3 Genshin Impact Edition / OnePlus 12R Genshin Impact Edition (`martin`):**
 
-`PJE110`: OnePlus Ace 3 China
+`PJE110`: OnePlus Ace 3 China / Genshin Impact Edition
 
-`CPH2585`: OnePlus 12R India
+`CPH2585`: OnePlus 12R India / Genshin Impact Edition
 
-`CPH2609`: OnePlus 12R EU / Global
+`CPH2609`: OnePlus 12R Europe / Global / Genshin Impact Edition
 
-`CPH2611`: OnePlus 12R North America
+`CPH2611`: OnePlus 12R North America / Genshin Impact Edition
 
 **OnePlus Ace 3V (`audi`):**
 
@@ -297,13 +301,13 @@
 
 `AC2001`: OnePlus Nord India
 
-`AC2003`: OnePlus Nord EU / Global
+`AC2003`: OnePlus Nord Europe / Global
 
 **OnePlus Nord 2 (`denniz`):**
 
 `DN2101`: OnePlus Nord 2 India
 
-`DN2103`: OnePlus Nord 2 EU
+`DN2103`: OnePlus Nord 2 Europe
 
 **OnePlus Nord 2T (`karen`):**
 
@@ -311,11 +315,17 @@
 
 `CPH2401`: OnePlus Nord 2T India
 
+**OnePlus Nord 4 (`avalon`):**
+
+`CPH2661`: OnePlus Nord 4 India
+
+`CPH2663`: OnePlus Nord 4 Europe / Global
+
 **OnePlus Nord CE (`ebba`):**
 
 `EB2101`: OnePlus Nord CE India
 
-`EB2103`: OnePlus Nord CE EU / Global
+`EB2103`: OnePlus Nord CE Europe / Global
 
 **OnePlus Nord CE 2 (`ivan`):**
 
@@ -325,27 +335,31 @@
 
 `CPH2381`: OnePlus Nord CE 2 Lite India
 
-`CPH2409`: OnePlus Nord CE 2 Lite EU / Global
+`CPH2409`: OnePlus Nord CE 2 Lite Europe / Global
 
-**OnePlus Nord CE 3:**
+**OnePlus Nord CE 3 (`ziti`):**
 
 `CPH2569`: OnePlus Nord CE 3 India
 
-**OnePlus Nord CE 3 Lite:**
+**OnePlus Nord CE 3 Lite / OnePlus Nord N30 (`larry`):**
 
 `CPH2465`: OnePlus Nord CE 3 Lite Global
 
 `CPH2467`: OnePlus Nord CE 3 Lite India
 
-**OnePlus Nord CE4:**
+`CPH2513`: OnePlus Nord N30 North America
 
-`CPH2613`: OnePlus Nord CE4 India
+`CPH2515`: OnePlus Nord N30 T-Mobile
 
-**OnePlus Nord CE4 Lite:**
+**OnePlus Nord CE 4 (`benz`):**
 
-`CPH2619`: OnePlus Nord CE4 Lite India
+`CPH2613`: OnePlus Nord CE 4 India
 
-`CPH2621`: OnePlus Nord CE4 Lite EU / Global
+**OnePlus Nord CE 4 Lite (`camry`):**
+
+`CPH2619`: OnePlus Nord CE 4 Lite India
+
+`CPH2621`: OnePlus Nord CE 4 Lite Europe / Global
 
 **OnePlus Nord N10 (`billie8`):**
 
@@ -353,7 +367,7 @@
 
 `BE2026`: OnePlus Nord N10 North America
 
-`BE2029`: OnePlus Nord N10 EU / Global
+`BE2029`: OnePlus Nord N10 Europe / Global
 
 **OnePlus Nord N10 (`billie8t`):**
 
@@ -377,15 +391,9 @@
 
 `CPH2469`: OnePlus Nord 20 SE
 
-**OnePlus Nord N30:**
-
-`CPH2513`: OnePlus Nord N30 North America
-
-`CPH2515`: OnePlus Nord N30 T-Mobile
-
 **OnePlus Nord N30 SE (`fanli`):**
 
-`CPH2605`: OnePlus Nord N30 SE EU
+`CPH2605`: OnePlus Nord N30 SE Europe
 
 **OnePlus Nord N200 (`dre9`):**
 
@@ -401,7 +409,7 @@
 
 ## OnePlus Pads/Foldable Phones
 
-**OnePlus Open (`hedwig`):**
+**OnePlus Open (`hedwig`, `xueying`):**
 
 `CPH2551`: OnePlus Open
 
@@ -415,19 +423,21 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad Pro (`caihong`):**
+**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`, `caihong`):**
 
 `OPD2404`: OnePlus Pad Pro
 
+`OPD2403`: OnePlus Pad 2
+
 ## OnePlus Watches/Bands
 
-**OnePlus Band:**
+**OnePlus Band (`audio`):**
 
 `W101IN`: OnePlus Band India
 
-**OnePlus Nord Watch:**
+**OnePlus Nord Watch (`newton`):**
 
-`OPBBE221`: OnePlus Nord Watch Global
+`OPBBE221`: OnePlus Nord Watch
 
 **OnePlus Watch:**
 
@@ -437,10 +447,12 @@
 
 `W301GB`: OnePlus Watch Global / Cobalt Limited Edition (Global)
 
-**OnePlus Watch 2 China / OnePlus Watch 2R (`bagel`):**
+**OnePlus Watch 2R / OnePlus Watch 2 China (`bagel`):**
 
-`OPWW234`: OnePlus Watch 2 China
+`OPWW234`: OnePlus Watch 2 (CN)
+
+`OPWWE234`: OnePlus Watch 2R
 
 **OnePlus Watch 2 (`almond`):**
 
-`OPWWE231`: OnePlus Watch 2 Global
+`OPWWE231`: OnePlus Watch 2
