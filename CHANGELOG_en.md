@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-07-16
+- `meizu_en` Add mblu 20.
 ## 2024-07-14
 - `samsung_global_en` Add Galaxy Z Fold6, Flip6.
 ## 2024-07-05
