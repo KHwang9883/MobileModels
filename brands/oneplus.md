@@ -8,7 +8,7 @@
 
 **OnePlus One (`bacon`):**
 
-`ONE A0001`: OnePlus One 移动版
+`ONE A0001`: OnePlus One 全网通版 / 移动版 / 国际版
 
 `ONE A1001`: OnePlus One 联通版
 
@@ -22,9 +22,9 @@
 
 **OnePlus X (`onyx`):**
 
-`ONE E1001`: OnePlus X 移动/联通版
-
 `ONE E1000`: OnePlus X 全网通版
+
+`ONE E1001`: OnePlus X 移动版 / 联通版
 
 `ONE E1003`: OnePlus X 国际版
 
@@ -70,7 +70,7 @@
 
 `GM1903`: OnePlus 7 欧洲版
 
-`GM1905`: OnePlus 7 北美版/国际版
+`GM1905`: OnePlus 7 北美版 / 国际版
 
 **OnePlus 7 Pro (`guacamole`):**
 
@@ -80,7 +80,7 @@
 
 `GM1913`: OnePlus 7 Pro 欧洲版
 
-`GM1915`: OnePlus 7 Pro 北美版/国际版
+`GM1915`: OnePlus 7 Pro 北美版 / 国际版
 
 **OnePlus 7 Pro (`guacamolet`):**
 
@@ -102,7 +102,7 @@
 
 `HD1903`: OnePlus 7T 欧洲版
 
-`HD1905`: OnePlus 7T 北美版/国际版
+`HD1905`: OnePlus 7T 北美版 / 国际版
 
 **OnePlus 7T (`hotdogt`):**
 
@@ -114,7 +114,7 @@
 
 `HD1911`: OnePlus 7T Pro 印度版
 
-`HD1913`: OnePlus 7T Pro 欧洲版/国际版
+`HD1913`: OnePlus 7T Pro 欧洲版 / 国际版
 
 **OnePlus 7T Pro 5G (`hotdogg`):**
 
@@ -128,7 +128,7 @@
 
 `IN2013`: OnePlus 8 欧洲版
 
-`IN2015`: OnePlus 8 北美版/国际版
+`IN2015`: OnePlus 8 北美版 / 国际版
 
 **OnePlus 8 (`instantnoodlet`):**
 
@@ -136,7 +136,7 @@
 
 **OnePlus 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 Visible 版/Verizon 版
+`IN2019`: OnePlus 8 Visible 版 / Verizon 版
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -146,7 +146,7 @@
 
 `IN2023`: OnePlus 8 Pro 欧洲版
 
-`IN2025`: OnePlus 8 Pro 北美版/国际版
+`IN2025`: OnePlus 8 Pro 北美版 / 国际版
 
 **OnePlus 8T (`kebab`):**
 
@@ -156,7 +156,7 @@
 
 `KB2003`: OnePlus 8T 欧洲版
 
-`KB2005`: OnePlus 8T 北美版/国际版
+`KB2005`: OnePlus 8T 北美版 / 国际版 / OnePlus 8T Concept
 
 **OnePlus 8T+ (`kebabt`):**
 
@@ -176,7 +176,7 @@
 
 `LE2113`: OnePlus 9 欧洲版
 
-`LE2115`: OnePlus 9 北美版/国际版
+`LE2115`: OnePlus 9 北美版 / 国际版
 
 **OnePlus 9 (`lemonadet`):**
 
@@ -194,7 +194,7 @@
 
 `LE2123`: OnePlus 9 Pro 欧洲版
 
-`LE2125`: OnePlus 9 Pro 北美版/国际版
+`LE2125`: OnePlus 9 Pro 北美版 / 国际版
 
 **OnePlus 9 Pro (`lemonadept`):**
 
@@ -212,7 +212,7 @@
 
 `NE2211`: OnePlus 10 Pro 印度版
 
-`NE2213`: OnePlus 10 Pro 欧洲版/国际版
+`NE2213`: OnePlus 10 Pro 欧洲版 / 国际版
 
 `NE2215`: OnePlus 10 Pro 北美版
 
@@ -224,19 +224,19 @@
 
 `CPH2423`: OnePlus 10R 印度版
 
-`CPH2411`: OnePlus 10R Endurance 印度版
+`CPH2411`: OnePlus 10R 长寿版 印度版
 
-**OnePlus Ace 竞速版 (`qqcandy`):**
+**OnePlus Ace Race (`qqcandy`):**
 
 `PGZ110`: OnePlus Ace 竞速版 国行版
 
 **OnePlus Ace Pro / OnePlus 10T (`ovaltine`):**
 
-`PGP110`: OnePlus Ace Pro 国行版
+`PGP110`: OnePlus Ace Pro 国行版 / 原神限定版
 
 `CPH2413`: OnePlus 10T 印度版
 
-`CPH2415`: OnePlus 10T 欧洲版/国际版
+`CPH2415`: OnePlus 10T 欧洲版 / 国际版
 
 `CPH2417`: OnePlus 10T 北美版
 
@@ -248,13 +248,13 @@
 
 `CPH2447`: OnePlus 11 印度版
 
-`CPH2449`: OnePlus 11 欧洲版/国际版
+`CPH2449`: OnePlus 11 欧洲版 / 国际版 / OnePlus 11 Concept
 
 `CPH2451`: OnePlus 11 北美版
 
 **OnePlus Ace 2 / OnePlus 11R (`udon`):**
 
-`PHK110`: OnePlus Ace 2 国行版
+`PHK110`: OnePlus Ace 2 国行版 / 原神定制礼盒
 
 `CPH2487`: OnePlus 11R 印度版
 
@@ -266,9 +266,9 @@
 
 `CPH2493`: OnePlus Nord 3 欧洲版
 
-**OnePlus Ace 2 Pro (`xigua`):**
+**OnePlus Ace 2 Pro (`xigua`) / OnePlus Ace 2 Pro Genshin Impact (`xiyou`):**
 
-`PJA110`: OnePlus Ace 2 Pro 国行版
+`PJA110`: OnePlus Ace 2 Pro 国行版 / 原神派蒙主题礼盒
 
 **OnePlus 12 (`waffle`):**
 
@@ -276,19 +276,19 @@
 
 `CPH2573`: OnePlus 12 印度版
 
-`CPH2581`: OnePlus 12 欧洲版/国际版
+`CPH2581`: OnePlus 12 欧洲版 / 国际版
 
 `CPH2583`: OnePlus 12 北美版
 
-**OnePlus Ace 3 / OnePlus 12R (`aston`):**
+**OnePlus Ace 3 / OnePlus 12R (`aston`) / OnePlus Ace 3 Genshin Impact Edition / OnePlus 12R Genshin Impact Edition (`martin`):**
 
-`PJE110`: OnePlus Ace 3 国行版
+`PJE110`: OnePlus Ace 3 国行版 / 原神刻晴定制机
 
-`CPH2585`: OnePlus 12R 印度版
+`CPH2585`: OnePlus 12R 印度版 / 原神刻晴定制机
 
-`CPH2609`: OnePlus 12R 欧洲版/国际版
+`CPH2609`: OnePlus 12R 欧洲版 / 国际版 / 原神刻晴定制机
 
-`CPH2611`: OnePlus 12R 北美版
+`CPH2611`: OnePlus 12R 北美版 / 原神刻晴定制机
 
 **OnePlus Ace 3V (`audi`):**
 
@@ -302,7 +302,7 @@
 
 `AC2001`: OnePlus Nord 印度版
 
-`AC2003`: OnePlus Nord 欧洲版/国际版
+`AC2003`: OnePlus Nord 欧洲版 / 国际版
 
 **OnePlus Nord 2 (`denniz`):**
 
@@ -316,11 +316,17 @@
 
 `CPH2401`: OnePlus Nord 2T 印度版
 
+**OnePlus Nord 4 (`avalon`):**
+
+`CPH2661`: OnePlus Nord 4 印度版
+
+`CPH2663`: OnePlus Nord 4 欧洲版 / 国际版
+
 **OnePlus Nord CE (`ebba`):**
 
 `EB2101`: OnePlus Nord CE 印度版
 
-`EB2103`: OnePlus Nord CE 欧洲版/国际版
+`EB2103`: OnePlus Nord CE 欧洲版 / 国际版
 
 **OnePlus Nord CE 2 (`ivan`):**
 
@@ -330,27 +336,31 @@
 
 `CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
-`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
+`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版 / 国际版
 
-**OnePlus Nord CE 3:**
+**OnePlus Nord CE 3 (`ziti`):**
 
 `CPH2569`: OnePlus Nord CE 3 印度版
 
-**OnePlus Nord CE 3 Lite:**
+**OnePlus Nord CE 3 Lite / OnePlus Nord N30 (`larry`):**
 
 `CPH2465`: OnePlus Nord CE 3 Lite 国际版
 
 `CPH2467`: OnePlus Nord CE 3 Lite 印度版
 
-**OnePlus Nord CE4:**
+`CPH2513`: OnePlus Nord N30 北美版
 
-`CPH2613`: OnePlus Nord CE4 印度版
+`CPH2515`: OnePlus Nord N30 T-Mobile 版
 
-**OnePlus Nord CE4 Lite:**
+**OnePlus Nord CE 4 (`benz`):**
 
-`CPH2619`: OnePlus Nord CE4 Lite 印度版
+`CPH2613`: OnePlus Nord CE 4 印度版
 
-`CPH2621`: OnePlus Nord CE4 Lite 欧洲版/国际版
+**OnePlus Nord CE 4 Lite (`camry`):**
+
+`CPH2619`: OnePlus Nord CE 4 Lite 印度版
+
+`CPH2621`: OnePlus Nord CE 4 Lite 欧洲版 / 国际版
 
 **OnePlus Nord N10 (`billie8`):**
 
@@ -358,7 +368,7 @@
 
 `BE2026`: OnePlus Nord N10 北美版
 
-`BE2029`: OnePlus Nord N10 欧洲版/国际版
+`BE2029`: OnePlus Nord N10 欧洲版 / 国际版
 
 **OnePlus Nord N10 (`billie8t`):**
 
@@ -376,17 +386,13 @@
 
 **OnePlus Nord N20:**
 
-`GN2200` `CPH2459`: OnePlus Nord N20
+`GN2200`: OnePlus Nord N20
+
+`CPH2459`: OnePlus Nord N20
 
 **OnePlus Nord N20 SE:**
 
-`CPH2469`: OnePlus Nord 20 SE
-
-**OnePlus Nord N30:**
-
-`CPH2513`: OnePlus Nord N30 北美版
-
-`CPH2515`: OnePlus Nord N30 T-Mobile 版
+`CPH2469`: OnePlus Nord N20 SE
 
 **OnePlus Nord N30 SE (`fanli`):**
 
@@ -406,7 +412,7 @@
 
 ## 一加平板/折叠屏
 
-**OnePlus Open (`hedwig`):**
+**OnePlus Open (`hedwig`, `xueying`):**
 
 `CPH2551`: OnePlus Open
 
@@ -420,19 +426,21 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad Pro (`caihong`):**
+**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`, `caihong`):**
 
-`OPD2404`: OnePlus Pad Pro 国行版
+`OPD2404`: OnePlus Pad Pro
+
+`OPD2403`: OnePlus Pad 2
 
 ## 一加手表/手环
 
-**OnePlus Band:**
+**OnePlus Band (`audio`):**
 
 `W101IN`: OnePlus Band 印度版
 
-**OnePlus Nord Watch:**
+**OnePlus Nord Watch (`newton`):**
 
-`OPBBE221`: OnePlus Nord Watch 国际版
+`OPBBE221`: OnePlus Nord Watch 
 
 **OnePlus Watch:**
 
@@ -442,10 +450,14 @@
 
 `W301GB`: OnePlus Watch 国际版 / 钴合金限定版 (国际)
 
-**OnePlus Watch 2 (`bagel`):**
+**OnePlus Watch 2R / OnePlus Watch 2 (CN) (`bagel`):**
 
-`OPWW234`: OnePlus Watch 2 国行版
+`OPWW234`: OnePlus Watch 2 (国行)
+
+`OPWWE234`: OnePlus Watch 2R
 
 **OnePlus Watch 2 (`almond`):**
+
+`OPWWE231`: OnePlus Watch 2
 
 `OPWWE231`: OnePlus Watch 2 国际版
