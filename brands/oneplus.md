@@ -8,7 +8,7 @@
 
 **OnePlus One (`bacon`):**
 
-`ONE A0001`: OnePlus One 移动版
+`ONE A0001`: OnePlus One 全网通版 / 移动版 / 国际版
 
 `ONE A1001`: OnePlus One 联通版
 
@@ -22,9 +22,9 @@
 
 **OnePlus X (`onyx`):**
 
-`ONE E1001`: OnePlus X 移动版 / 联通版
-
 `ONE E1000`: OnePlus X 全网通版
+
+`ONE E1001`: OnePlus X 移动版 / 联通版
 
 `ONE E1003`: OnePlus X 国际版
 
@@ -232,7 +232,7 @@
 
 **OnePlus Ace Pro / OnePlus 10T (`ovaltine`):**
 
-`PGP110`: OnePlus Ace Pro 国行版 / 原神限定版 国行版
+`PGP110`: OnePlus Ace Pro 国行版 / 原神限定版
 
 `CPH2413`: OnePlus 10T 印度版
 
@@ -254,7 +254,7 @@
 
 **OnePlus Ace 2 / OnePlus 11R (`udon`):**
 
-`PHK110`: OnePlus Ace 2 国行版 / 原神定制礼盒 国行版
+`PHK110`: OnePlus Ace 2 国行版 / 原神定制礼盒
 
 `CPH2487`: OnePlus 11R 印度版
 
@@ -268,7 +268,7 @@
 
 **OnePlus Ace 2 Pro (`xigua`) / OnePlus Ace 2 Pro Genshin Impact (`xiyou`):**
 
-`PJA110`: OnePlus Ace 2 Pro 国行版 / 原神派蒙主题礼盒 国行版
+`PJA110`: OnePlus Ace 2 Pro 国行版 / 原神派蒙主题礼盒
 
 **OnePlus 12 (`waffle`):**
 
@@ -282,13 +282,13 @@
 
 **OnePlus Ace 3 / OnePlus 12R (`aston`) / OnePlus Ace 3 Genshin Impact Edition / OnePlus 12R Genshin Impact Edition (`martin`):**
 
-`PJE110`: OnePlus Ace 3 国行版 / 原神刻晴定制机 国行版
+`PJE110`: OnePlus Ace 3 国行版 / 原神刻晴定制机
 
-`CPH2585`: OnePlus 12R 印度版 / 原神刻晴定制机 印度版
+`CPH2585`: OnePlus 12R 印度版 / 原神刻晴定制机
 
-`CPH2609`: OnePlus 12R 欧洲版 / 国际版 / 原神刻晴定制机 欧洲版 / 国际版
+`CPH2609`: OnePlus 12R 欧洲版 / 国际版 / 原神刻晴定制机
 
-`CPH2611`: OnePlus 12R 北美版 / 原神刻晴定制机 北美版
+`CPH2611`: OnePlus 12R 北美版 / 原神刻晴定制机
 
 **OnePlus Ace 3V (`audi`):**
 
@@ -412,7 +412,7 @@
 
 ## 一加平板/折叠屏
 
-**OnePlus Open (`hedwig`):**
+**OnePlus Open (`hedwig`, `xueying`):**
 
 `CPH2551`: OnePlus Open
 
@@ -426,11 +426,11 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`):**
+**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`, `caihong`):**
 
-`OPD2404`: OnePlus Pad Pro 国行版
+`OPD2404`: OnePlus Pad Pro
 
-`OPD2403`: OnePlus Pad 2 国际版
+`OPD2403`: OnePlus Pad 2
 
 ## 一加手表/手环
 
@@ -440,7 +440,7 @@
 
 **OnePlus Nord Watch (`newton`):**
 
-`OPBBE221`: OnePlus Nord Watch 国际版
+`OPBBE221`: OnePlus Nord Watch 
 
 **OnePlus Watch:**
 
@@ -452,12 +452,12 @@
 
 **OnePlus Watch 2R / OnePlus Watch 2 (CN) (`bagel`):**
 
-`OPWW234`: OnePlus Watch 2 国行版
+`OPWW234`: OnePlus Watch 2 (国行)
 
-`OPWWE234`: OnePlus Watch 2R 国际版
+`OPWWE234`: OnePlus Watch 2R
 
 **OnePlus Watch 2 (`almond`):**
 
-`OPWWE231`: OnePlus Watch 2 国际版
+`OPWWE231`: OnePlus Watch 2
 
 `OPWWE231`: OnePlus Watch 2 国际版
