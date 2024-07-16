@@ -568,6 +568,10 @@
 
 `LLY-AN00`: 荣耀 X50i+ 5G
 
+**荣耀 X60i:**
+
+`LYN-AN00`: 荣耀 X60i
+
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**
