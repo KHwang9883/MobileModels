@@ -140,9 +140,13 @@
 
 `NX715J`: nubia Z50 SE
 
-**nubia Z60 Ultra:**
+**nubia Z60 Ultra / nubia Z60 Ultra 领先版:**
 
-`NX721J`: nubia Z60 Ultra
+`NX721J`: nubia Z60 Ultra / nubia Z60 Ultra 领先版
+
+**nubia Z60S Pro:**
+
+`NX725J`: nubia Z60S Pro
 
 ## 努比亚其他系列
 
