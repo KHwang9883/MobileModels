@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-07-19
+- `xiaomi-wear` 新增 小米手环 9, Xiaomi Watch S4 Sport。
 ## 2024-07-18
 - `nubia` 新增 努比亚 Z60S Pro。
 ## 2024-07-16

@@ -76,6 +76,12 @@
 
 `M2333B1`: 小米手环 8 Pro 国际版
 
+**小米手环 9:**
+
+`M2345B1`: 小米手环 9
+
+`M2346B1`: 小米手环 9 NFC 版 / 陶瓷特别版
+
 ## 小米智能手表
 
 **小米手表 (`baiji`):**
@@ -127,6 +133,10 @@
 `M2313W1`: Xiaomi Watch S3 蓝牙版
 
 `M2311W1`: Xiaomi Watch S3 eSIM 版
+
+**Xiaomi Watch S4 Sport:**
+
+`M2312W1`: Xiaomi Watch S4 Sport eSIM 版
 
 **小米腕部心电血压记录仪:**
 
