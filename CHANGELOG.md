@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-07-21
+- `huawei_cn` 新增 HUAWEI MatePad 11.5S 标准版。
 ## 2024-07-19
 - `xiaomi-wear` 新增 小米手环 9, Xiaomi Watch S4 Sport。
 ## 2024-07-18
