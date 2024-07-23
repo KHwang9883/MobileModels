@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-07-23
+- `vivo_global_en` Add vivo T3 Pro, iQOO Z9 Pro.
 ## 2024-07-16
 - `meizu_en` Add mblu 20.
 ## 2024-07-14
