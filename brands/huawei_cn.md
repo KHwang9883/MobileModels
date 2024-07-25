@@ -1977,6 +1977,14 @@
 
 `HDB5276H`: 华为智慧屏 S5 75
 
+**华为智慧屏 S5 Pro:**
+
+`HD65AJMN`: 华为智慧屏 S5 Pro 65
+
+`HD75AJMN`: 华为智慧屏 S5 Pro 75
+
+`HD86AJMN`: 华为智慧屏 S5 Pro 86
+
 **华为智慧屏 SE 系列:**
 
 `HD55DESA`: 华为智慧屏 SE 55 (2GB+16GB)
