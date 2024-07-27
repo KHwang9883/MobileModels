@@ -170,6 +170,8 @@
 
 `TB370FU`: 联想小新 Pad Pro 12.7 天玑版
 
+`TB375FC`: 联想小新 Pad Pro 12.7 2025
+
 **联想小新 Pad Studio:**
 
 `TB351FU`: 联想小新 Pad Studio
