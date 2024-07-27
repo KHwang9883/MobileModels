@@ -467,9 +467,9 @@
 
 `M2111`: mblu 10s
 
-**mblu 20 (`m2421`):**
+**MEIZU M20 (`m2421`):**
 
-`M421Q`: mblu 20
+`M421Q`: MEIZU M20
 
 **MEIZU M3 Max (`s25`):**
 
