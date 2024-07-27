@@ -459,9 +459,9 @@
 
 `M918H`: MEIZU M10 Global
 
-**mblu 10 (`m2110`):**
+**mblu 10 (`m2112`):**
 
-`M2110`: mblu 10
+`M2112`: mblu 10
 
 **mblu 10s (`m2111`):**
 
