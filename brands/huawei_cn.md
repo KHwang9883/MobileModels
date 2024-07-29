@@ -427,7 +427,7 @@
 
 `BAL-AL60`: HUAWEI Pocket S
 
-**HUAWEI Pocket 2:**
+**HUAWEI Pocket 2 (`Lem`):**
 
 `LEM-AL00`: HUAWEI Pocket 2
 
@@ -639,11 +639,11 @@
 
 `BON-AL00`: HUAWEI nova 11 SE
 
-**HUAWEI nova 12:**
+**HUAWEI nova 12 (`Blake`):**
 
 `BLK-AL00`: HUAWEI nova 12
 
-**HUAWEI nova 12 活力版 (`Fiona+`):**
+**HUAWEI nova 12 活力版 (`Fiona`):**
 
 `FIN-AL60`: HUAWEI nova 12 活力版
 
@@ -656,6 +656,10 @@
 `ADA-AL00U`: HUAWEI nova 12 Ultra
 
 `ADA-AL10U`: HUAWEI nova 12 Ultra 星耀版
+
+**HUAWEI nova Flip (`Poseidon`):**
+
+`PSD-AL00`: HUAWEI nova Flip
 
 ## HUAWEI G 系列
 
@@ -1391,11 +1395,11 @@
 
 `MRGFG-32`: HUAWEI MateBook X Pro 2023 (32GB 内存)
 
-**HUAWEI MateBook X Pro 2024:**
+**HUAWEI MateBook X Pro 酷睿 Ultra (`VanGoghH`):**
 
-`VGHH-16`: HUAWEI MateBook X Pro 2024 (16GB 内存)
+`VGHH-16`: HUAWEI MateBook X Pro 酷睿 Ultra (16GB 内存)
 
-`VGHH-32`: HUAWEI MateBook X Pro 2024 (32GB 内存)
+`VGHH-32`: HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)
 
 **HUAWEI MateBook 13 (`Wright`):**
 
@@ -1501,11 +1505,11 @@
 
 `KLVG-32`: HUAWEI MateBook 14 2023 (32GB 内存)
 
-**HUAWEI MateBook 14 2024 (`FlemingH`):**
+**HUAWEI MateBook 14 酷睿 Ultra (`FlemingH`):**
 
-`FLMH-16`: HUAWEI MateBook 14 2024 (16GB 内存)
+`FLMH-16`: HUAWEI MateBook 14 酷睿 Ultra (16GB 内存)
 
-`FLMH-32`: HUAWEI MateBook 14 2024 (32GB 内存)
+`FLMH-32`: HUAWEI MateBook 14 酷睿 Ultra (32GB 内存)
 
 **HUAWEI MateBook 14s (`HookeD`):**
 
