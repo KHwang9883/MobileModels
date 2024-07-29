@@ -479,6 +479,10 @@
 
 `M421Q`: MEIZU M20
 
+**MEIZU MBLU (`m2410`):**
+
+`M410H`: MEIZU MBLU Global
+
 **MEIZU M3 Max (`s25`):**
 
 `S685H`: MEIZU M3 Max Global

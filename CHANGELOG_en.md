@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2024-07-29
-- `meizu_en` Add MEIZU Note 21.
+- `meizu_en` Add MEIZU Note 21, MEIZU MBLU.
 ## 2024-07-23
 - `vivo_global_en` Add vivo T3 Pro, iQOO Z9 Pro.
 ## 2024-07-16
