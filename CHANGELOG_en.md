@@ -1,8 +1,10 @@
 # CHANGELOG
+## 2024-07-29
+- `meizu_en` Add MEIZU Note 21.
 ## 2024-07-23
 - `vivo_global_en` Add vivo T3 Pro, iQOO Z9 Pro.
 ## 2024-07-16
-- `meizu_en` Add mblu 20.
+- `meizu_en` Add MEIZU M20.
 ## 2024-07-14
 - `samsung_global_en` Add Galaxy Z Fold6, Flip6.
 ## 2024-07-05

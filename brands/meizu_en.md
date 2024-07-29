@@ -313,6 +313,14 @@
 
 `M923Q`: MEIZU Note 9 China
 
+**MEIZU Note 21 (`m2411`):**
+
+`M411H` `M411L`: MEIZU Note 21 Global
+
+**MEIZU Note 21 Pro (`m2412`):**
+
+`M412H`: MEIZU Note 21 Pro Global
+
 **MEIZU M3E (`a02`):**
 
 `A680H`: MEIZU M3E Global
