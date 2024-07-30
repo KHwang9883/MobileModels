@@ -309,6 +309,10 @@
 
 `V2332` `V2406`: vivo Y03
 
+**vivo Y03t:**
+
+`V2344` `V2409`: vivo Y03t
+
 **vivo Y11s:**
 
 `V2028`: vivo Y11s
@@ -369,9 +373,17 @@
 
 `V2410`: vivo Y18s
 
+**vivo Y18t:**
+
+`V2408`: vivo Y18t
+
 **vivo Y18e:**
 
 `V2350`: vivo Y18e
+
+**vivo Y18i:**
+
+`V2414`: vivo Y18i
 
 **vivo Y19:**
 
