@@ -201,6 +201,14 @@
 
 `RMX3840`: realme 12 Pro+ 5G
 
+**realme 13 Pro 5G:**
+
+`RMX3990`: realme 13 Pro 5G
+
+**realme 13 Pro+ 5G:**
+
+`RMX3921`: realme 13 Pro+ 5G
+
 ## X series
 
 **realme X:**
@@ -413,7 +421,9 @@
 
 **realme C61:**
 
-`RMX3939`: realme C61
+`RMX3939`: realme C61 Global
+
+`RMX3933`: realme C61 India
 
 **realme C63:**
 
@@ -552,6 +562,18 @@
 **realme Narzo 60x:**
 
 `RMX3782`: realme Narzo 60x 5G
+
+**realme NARZO N61:**
+
+`RMX3933`: realme NARZO N61
+
+**realme NARZO N63:**
+
+`RMX3939`: realme NARZO N63
+
+**realme NARZO N65:**
+
+`RMX3997`: realme NARZO N65 5G
 
 **realme NARZO 70:**
 

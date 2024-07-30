@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-07-30
+- `realme_global_en` Add realme 13 Pro, realme Narzo N6* series.
 ## 2024-07-29
 - `meizu_en` Add MEIZU Note 21, MEIZU MBLU.
 ## 2024-07-23
