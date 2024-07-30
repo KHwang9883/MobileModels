@@ -6,7 +6,7 @@
 
 ## 荣耀 Magic 系列
 
-**荣耀 Magic:**
+**荣耀 Magic (`Natasha`):**
 
 `NTS-AL00`: 荣耀 Magic 全网通版
 
