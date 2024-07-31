@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2024-07-31
+- `nothing` Add Nothing Phone (2a) Plus.
 - `vivo_global_en` Add several new models.
 ## 2024-07-30
 - `realme_global_en` Add realme 13 Pro, realme Narzo N6* series.
