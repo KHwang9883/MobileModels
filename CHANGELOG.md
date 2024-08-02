@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-08-02
+- `huawei_cn` 新增 HUAWEI MateBook GT 14。
 ## 2024-07-29
 - `huawei_cn` 新增 nova Flip；增补部分代号。
 - `meizu` 新增 魅族 Note 21 (海外), MBLU。

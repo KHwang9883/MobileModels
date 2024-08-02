@@ -1545,6 +1545,12 @@
 
 `CREFG-32`: HUAWEI MateBook 16s 2023 (32GB 内存)
 
+**HUAWEI MateBook GT 14 (`EnzoH`):**
+
+`ENZH-16`: HUAWEI MateBook GT 14 (16GB 内存)
+
+`ENZH-32`: HUAWEI MateBook GT 14 (32GB 内存)
+
 **HUAWEI MateBook D (`Pascal`):**
 
 `PL-W09`: HUAWEI MateBook D i5 集显
