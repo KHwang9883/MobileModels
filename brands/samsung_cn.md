@@ -400,7 +400,7 @@
 
 `SM-F7310`: Galaxy Z Flip5
 
-**Galaxy Z Flip5 (`b6q`):**
+**Galaxy Z Flip6 (`b6q`):**
 
 `SM-F7410`: Galaxy Z Flip6
 
