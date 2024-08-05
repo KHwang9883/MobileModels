@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-08-05
+- `zhixuan` 新增 Hi 畅享 70m。
 ## 2024-08-02
 - `huawei_cn` 新增 HUAWEI MateBook GT 14。
 ## 2024-07-29
