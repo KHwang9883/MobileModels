@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-06
+- `xiaomi_en` Add Redmi Pad SE 8.7.
 ## 2024-07-31
 - `nothing` Add Nothing Phone (2a) Plus.
 - `vivo_global_en` Add several new models.
