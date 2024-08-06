@@ -1117,6 +1117,8 @@
 
 `MRO-W10`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (16GB+1TB)
 
+`MRO-AL10`: HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)
+
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
