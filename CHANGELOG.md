@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-08-06
+- `huawei_cn` 新增 HUAWEI MatePad Pro 12.2, MatePad Air 12。
 ## 2024-08-05
 - `zhixuan` 新增 Hi 畅享 70m。
 ## 2024-08-02

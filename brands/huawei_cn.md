@@ -1073,11 +1073,11 @@
 
 `MRX-AN19`: HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
 
-**HUAWEI MatePad Pro 10.8 (`MarxR`):**
+**HUAWEI MatePad Pro 10.8 英寸 (`MarxR`):**
 
 `MRR-W29` `MRR-W39`: HUAWEI MatePad Pro 10.8 英寸 2021 Wi-Fi 版
 
-**HUAWEI MatePad Pro 11 (`Goethe`):**
+**HUAWEI MatePad Pro 11 英寸 (`Goethe`):**
 
 `GOT-W29`: HUAWEI MatePad Pro 11 英寸 Wi-Fi 版
 
@@ -1087,21 +1087,21 @@
 
 `GOT-AL19`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
 
-**HUAWEI MatePad Pro 11 (`Xiaoyao`):**
+**HUAWEI MatePad Pro 11 英寸 (`Xiaoyao`):**
 
 `XYAO-W00`: HUAWEI MatePad Pro 11 英寸 2024 Wi-Fi 版
 
-**HUAWEI MatePad Pro 12.6 (`Wagner`):**
+**HUAWEI MatePad Pro 12.6 英寸 (`Wagner`):**
 
 `WGR-W09` `WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版
 
 `WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2021 5G 全网通版
 
-**HUAWEI MatePad Pro 12.6 (`WagnerR`):**
+**HUAWEI MatePad Pro 12.6 英寸 (`WagnerR`):**
 
 `WGRR-W09` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版
 
-**HUAWEI MatePad Pro 13.2 (`Poincare`):**
+**HUAWEI MatePad Pro 13.2 英寸 (`Poincare`):**
 
 `PCE-W30`: HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版
 
@@ -1110,6 +1110,28 @@
 `PCE-AL30`: HUAWEI MatePad Pro 13.2 英寸 全网通版
 
 `PCE-AL40`: HUAWEI MatePad Pro 13.2 英寸 典藏版 全网通版
+
+**HUAWEI MatePad Pro 12.2 英寸:**
+
+`MRO-W00`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版
+
+`MRO-W10`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (16GB+1TB)
+
+## HUAWEI MatePad Air 系列
+
+**HUAWEI MatePad Air (`Debussy2`):**
+
+`DBY2-W00`: HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
+
+`DBY2-AL00`: HUAWEI MatePad Air 11.5 英寸 全网通版
+
+**HUAWEI MatePad Air:**
+
+`BKY-W00`: HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
+
+`BKY-W10`: HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
+
+`BKY-W20`: HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版
 
 ## HUAWEI MatePad 系列
 
@@ -1137,17 +1159,17 @@
 
 `BTK-AL00`: HUAWEI MatePad 11.5 英寸 2023 全网通版
 
-**HUAWEI MatePad 10.8 (`SchumannR`):**
+**HUAWEI MatePad 10.8 英寸 (`SchumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
 
 `SCMR-AL09`: HUAWEI MatePad 10.8 英寸 全网通版
 
-**HUAWEI MatePad 11 (`Debussy`):**
+**HUAWEI MatePad 11 英寸 (`Debussy`):**
 
 `DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
-**HUAWEI MatePad 11 2023 (`DebussyR`):**
+**HUAWEI MatePad 11 英寸 2023 (`DebussyR`):**
 
 `DBR-W00`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 
@@ -1162,14 +1184,6 @@
 **HUAWEI MatePad 11.5" S (`Domingo`):**
 
 `DMG-W00`: HUAWEI MatePad 11.5" S 灵动款 Wi-Fi 版
-
-## HUAWEI MatePad Air 系列
-
-**HUAWEI MatePad Air (`Debussy2`):**
-
-`DBY2-W00`: HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
-
-`DBY2-AL00`: HUAWEI MatePad Air 11.5 英寸 全网通版
 
 ## HUAWEI MatePad SE 和畅享平板系列
 
@@ -1195,13 +1209,13 @@
 
 `AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
 
-**HUAWEI MatePad SE 10.4 (`Agassi5`):**
+**HUAWEI MatePad SE 10.4 英寸 (`Agassi5`):**
 
 `AGS5-W00`: HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
 
 `AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
 
-**HUAWEI MatePad SE 11 (`Agassi6`):**
+**HUAWEI MatePad SE 11 英寸 (`Agassi6`):**
 
 `AGS6-W00`: HUAWEI MatePad SE 11 英寸 Wi-Fi 版
 
@@ -1925,6 +1939,8 @@
 
 `HD85ARKB`: 华为智慧屏 V5 85
 
+`HD98ARKB`: 华为智慧屏 V5 98
+
 **华为智慧屏 V5 Pro:**
 
 `HD75ARKA`: 华为智慧屏 V5 Pro 75
@@ -1986,6 +2002,8 @@
 `HDB5266H`: 华为智慧屏 S5 65
 
 `HDB5276H`: 华为智慧屏 S5 75
+
+`HDB5286H`: 华为智慧屏 S5 85
 
 **华为智慧屏 S5 Pro:**
 
@@ -2072,6 +2090,8 @@
 `HD65KUNL`: 华为 Vision 智慧屏 4 SE 65
 
 `HD75KUNL`: 华为 Vision 智慧屏 4 SE 75
+
+`HD85KUNL`: 华为 Vision 智慧屏 4 SE 85
 
 **华为智慧屏 B 系列:**
 
