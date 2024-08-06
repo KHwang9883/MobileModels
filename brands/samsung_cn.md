@@ -920,11 +920,11 @@
 
 **Galaxy Tab S9 FE+ (`gts9fepwifi`):**
 
-`SM-X610`: Galaxy Tab S9 FE WLAN
+`SM-X610`: Galaxy Tab S9 FE+ WLAN
 
 **Galaxy Tab S9 FE+ (`gts9fep`):**
 
-`SM-X616C`: Galaxy Tab S9 FE 5G
+`SM-X616C`: Galaxy Tab S9 FE+ 5G
 
 ## Galaxy Tab A 系列
 
