@@ -1862,7 +1862,7 @@
 
 `2312CRNCCL`: Redmi A3 拉美版
 
-**Redmi A3x (`klein`):**
+**[`C3Y2`] Redmi A3x (`klein`):**
 
 `24048RN6CG`: Redmi A3x 国际版
 
@@ -1901,6 +1901,16 @@
 `24074RPD2C`: Redmi Pad Pro 5G 国行版
 
 `24074RPD2G`: Redmi Pad Pro 5G 国际版
+
+**[`N85`] Redmi Pad SE 8.7:**
+
+`24075RP89G`: Redmi Pad SE 8.7 国际版
+
+**[`N85`] Redmi Pad SE 8.7 4G:**
+
+`24076RP19G`: Redmi Pad SE 8.7 4G 国际版
+
+`24076RP19I`: Redmi Pad SE 4G 印度版
 
 ## POCO 手机
 
