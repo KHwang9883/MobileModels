@@ -163,7 +163,7 @@
 ### 型号命名规则（2022-）
 `四位数字` + `五位识别码` + `一位字母`
 - `四位数字`: 前二位代表年份，后二位代表月份，表示该产品开售（不是发布）时间不早于该日期
-- `五位识别码`: 由字母和数字构成。第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RN` - Redmi 数字系列，`RK` - Redmi K 系列，`PC` - POCO，`RP` - 平板
+- `五位识别码`: 由字母和数字构成。第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo, `RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - 平板
 - `一位字母`: 区分渠道版本，`C` - 国行全网通版，`A` `G` `O` `X` `Y` - 全球版，`I` `P` - 印度版，`H` - 可能是全球版也可能是印度版，`L` - 拉丁美洲版，`R` - 日本版，`T` - 泰国版
 - **示例:** `22127RK46C`（Redmi K60 Pro 全网通版），其中 `2212` 表示该产品开售时间不早于 2022 年 12 月；`RK` 代表 Redmi K 系列；`C` 代表国行全网通版
 
