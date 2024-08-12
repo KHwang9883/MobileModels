@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-12
+- `realme_global_en` Add realme C63 5G, realme P2 Pro 5G.
 ## 2024-08-06
 - `xiaomi_en` Add Redmi Pad SE 8.7.
 ## 2024-07-31

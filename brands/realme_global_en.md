@@ -421,13 +421,15 @@
 
 **realme C61:**
 
-`RMX3939`: realme C61 Global
+`RMX3939` `RMX3930`: realme C61 Global
 
 `RMX3933`: realme C61 India
 
 **realme C63:**
 
 `RMX3939`: realme C63
+
+`RMX3950`: realme C63 5G
 
 **realme C65:**
 
@@ -462,6 +464,10 @@
 **realme P1 Pro (`coffee-a`):**
 
 `RMX3844`: realme P1 Pro 5G
+
+**realme P2 Pro:**
+
+`RMX3987`: realme P2 Pro 5G
 
 ## Narzo series
 
