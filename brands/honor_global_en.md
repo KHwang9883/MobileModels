@@ -213,9 +213,17 @@
 
 `CLK-NX1` `CLK-NX3`: HONOR 90 Smart
 
+**HONOR 200:**
+
+`ELI-NX9`: HONOR 200
+
+**HONOR 200 Pro:**
+
+`ELP-NX9`: HONOR 200 Pro
+
 **HONOR 200 Lite (`Lily`):**
 
-`LLY-NX1`: HONOR 200 Lite
+`LLY-NX1` `LLY-NX3`: HONOR 200 Lite
 
 **HONOR Magic4 Pro (`Lange`):**
 
@@ -288,6 +296,12 @@
 `WDY-LX1` `WDY-LX2` `WDY-LX3`: HONOR X6a
 
 `WDY-LX3`: HONOR X6a Plus
+
+**HONOR X6b:**
+
+`JDY-LX1` `JDY-LX2` `JDY-LX3`: HONOR X6b
+
+`JDY-LX3P`: HONOR X6b Plus
 
 **HONOR X7 (`Carmella`):**
 
