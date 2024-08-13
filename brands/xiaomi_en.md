@@ -2111,7 +2111,7 @@
 
 `24075RP89G`: Redmi Pad SE 8.7 Global
 
-**[`N85`] Redmi Pad SE 8.7 4G:**
+**[`N85`] Redmi Pad SE 8.7 4G (`spark`):**
 
 `24076RP19G`: Redmi Pad SE 8.7 4G Global
 
