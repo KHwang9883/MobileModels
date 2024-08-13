@@ -191,6 +191,36 @@
 
 `G0B96`: Pixel Fold (Japan)
 
+**Pixel 9 (`tokay`):**
+
+`G2YBB`: Pixel 9 (US, mmWave)
+
+`GUR25`: Pixel 9 (Global)
+
+`G1B60`: Pixel 9 (Japan)
+
+**Pixel 9 Pro (`caiman`):**
+
+`GR83Y`: Pixel 9 Pro (US, mmWave)
+
+`GEC77`: Pixel 9 Pro (Global)
+
+`GWVK6`: Pixel 9 Pro (Japan)
+
+**Pixel 9 Pro XL (`komodo`):**
+
+`GGX8B`: Pixel 9 Pro XL (US, mmWave)
+
+`GZC4K`: Pixel 9 Pro XL (Global)
+
+`GQ57S`: Pixel 9 Pro XL (Japan)
+
+**Pixel 9 Pro Fold (`comet`):**
+
+`GGH2X`: Pixel 9 Pro Fold (Global)
+
+`GC15S`: Pixel 9 Pro Fold (Japan)
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C

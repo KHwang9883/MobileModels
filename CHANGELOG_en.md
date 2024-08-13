@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-14
+- `google` Add Pixel 9 series.
 ## 2024-08-12
 - `honor_global_en` Add several new models.
 - `realme_global_en` Add realme C63 5G, realme P2 Pro 5G.
