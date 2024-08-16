@@ -2093,13 +2093,13 @@
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 
-`2405CRPFDG`: Redmi Pad Pro Global
+`2405CRPFDG`: Redmi Pad Pro Wi-Fi Global
 
-`2405CRPFDC`: Redmi Pad Pro China
+`2405CRPFDC`: Redmi Pad Pro Wi-Fi China
 
-`2405CRPFDI`: Redmi Pad Pro India
+`2405CRPFDI`: Redmi Pad Pro Wi-Fi India
 
-`2405CRPFDL`: Redmi Pad Pro Latin America
+`2405CRPFDL`: Redmi Pad Pro Wi-Fi Latin America
 
 **[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
@@ -2107,9 +2107,11 @@
 
 `24074RPD2C`: Redmi Pad Pro 5G China
 
-**[`N85`] Redmi Pad SE 8.7:**
+`24074RPD2I`: Redmi Pad Pro 5G India
 
-`24075RP89G`: Redmi Pad SE 8.7 Global
+**[`N85`] Redmi Pad SE 8.7 (`flare`):**
+
+`24075RP89G`: Redmi Pad SE 8.7 Wi-Fi Global
 
 **[`N85`] Redmi Pad SE 8.7 4G (`spark`):**
 
@@ -2119,7 +2121,11 @@
 
 **[`N83P`] POCO Pad (`dizi`):**
 
-`2405CPCFBG`: POCO Pad Global
+`2405CPCFBG`: POCO Pad Wi-Fi Global
+
+**[`N83U`] POCO Pad 5G (`ruan`):**
+
+`24074PCD2I`: POCO Pad 5G India
 
 ## Others
 
