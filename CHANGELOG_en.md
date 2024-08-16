@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-16
+- `oppo_global_en` Add several new models.
 ## 2024-08-14
 - `google` Add Pixel 9 series.
 ## 2024-08-12
