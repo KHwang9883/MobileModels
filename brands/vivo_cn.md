@@ -482,6 +482,10 @@
 
 `V2357EA`: vivo Y37m 5G
 
+**vivo Y37 Pro (`PD2354`):**
+
+`V2354A`: vivo Y37 Pro 5G
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50
@@ -672,6 +676,10 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
+**vivo Y100+ / vivo Y200i (`PD2354`):**
+
+`V2354A`: vivo Y100+ 5G / vivo Y200i 5G
+
 **vivo Y200 (`PD2343`):**
 
 `V2343A`: vivo Y200 5G
@@ -684,9 +692,9 @@
 
 `V2353DA`: vivo Y200t 5G
 
-**vivo Y200i (`PD2354`):**
+**vivo Y300 Pro (`PD2410`):**
 
-`V2354A`: vivo Y200i 5G
+`V2410A`: vivo Y300 Pro 5G
 
 ## vivo T 系列
 
