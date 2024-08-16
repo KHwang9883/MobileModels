@@ -2,6 +2,7 @@
 ## 2024-08-16
 - `honor_cn` 增补部分平板型号。
 - `vivo_cn` 新增 Y300 Pro, Y100+。
+- `xiaomi` 新增 POCO Pad 5G。
 ## 2024-08-14
 - `google` 新增 Pixel 9 系列。
 ## 2024-08-09

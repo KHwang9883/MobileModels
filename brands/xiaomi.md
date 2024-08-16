@@ -1888,13 +1888,13 @@
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 
-`2405CRPFDC`: Redmi Pad Pro 国行版
+`2405CRPFDC`: Redmi Pad Pro Wi-Fi 国行版
 
-`2405CRPFDG`: Redmi Pad Pro 国际版
+`2405CRPFDG`: Redmi Pad Pro Wi-Fi 国际版
 
-`2405CRPFDI`: Redmi Pad Pro 印度版
+`2405CRPFDI`: Redmi Pad Pro Wi-Fi 印度版
 
-`2405CRPFDL`: Redmi Pad Pro 拉美版
+`2405CRPFDL`: Redmi Pad Pro Wi-Fi 拉美版
 
 **[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
@@ -1902,9 +1902,11 @@
 
 `24074RPD2G`: Redmi Pad Pro 5G 国际版
 
-**[`N85`] Redmi Pad SE 8.7:**
+`24074RPD2I`: Redmi Pad Pro 5G 印度版
 
-`24075RP89G`: Redmi Pad SE 8.7 国际版
+**[`N85`] Redmi Pad SE 8.7 (`flare`):**
+
+`24075RP89G`: Redmi Pad SE 8.7 Wi-Fi 国际版
 
 **[`N85`] Redmi Pad SE 8.7 4G (`spark`):**
 
@@ -2164,7 +2166,11 @@
 
 **[`N83P`] POCO Pad (`dizi`):**
 
-`2405CPCFBG`: POCO Pad 国际版
+`2405CPCFBG`: POCO Pad Wi-Fi 国际版
+
+**[`N83U`] POCO Pad 5G (`ruan`):**
+
+`24074PCD2I`: POCO Pad 5G 印度版
 
 ## 其他系列
 
