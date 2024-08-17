@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-17
+- `samsung_global_en` Add Galaxy A06.
 ## 2024-08-16
 - `oppo_global_en` Add several new models.
 - `xiaomi_en` Add POCO Pad 5G.

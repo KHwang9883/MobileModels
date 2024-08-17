@@ -915,6 +915,12 @@
 
 `SM-A057M`: Galaxy A05s Latin America
 
+**Galaxy A06 (`a06`):**
+
+`SM-A065F`: Galaxy A06 Global
+
+`SM-A065M`: Galaxy A06 Latin America
+
 **Galaxy A10 (`a10`):**
 
 `SM-A105F` `SM-A015FN` `SM-A015G`: Galaxy A10 Global
