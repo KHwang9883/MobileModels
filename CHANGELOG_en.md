@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-20
+- `oppo_global_en` Add OPPO Reno12 FS.
 ## 2024-08-17
 - `samsung_global_en` Add Galaxy A06.
 ## 2024-08-16
