@@ -2095,11 +2095,21 @@
 
 `HD85KUNL`: 华为 Vision 智慧屏 4 SE 85
 
+**华为 Vision 智慧屏 4 Pro:**
+
+`HD75ARQD`: 华为 Vision 智慧屏 4 Pro 75
+
+`HD85ARQD`: 华为 Vision 智慧屏 4 Pro 85
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
 
 `HD65DESB`: 华为智慧屏 B3-600
+
+`HDB325A7`: 华为智慧屏 B3 55
+
+`HDB326A7`: 华为智慧屏 B3 65
 
 `HD55KANY`: 华为智慧屏 B5-510
 
