@@ -261,7 +261,7 @@
 
 `V2338`: vivo T3x 5G
 
-**vivo T3:**
+**vivo T3 Pro:**
 
 `V2404`: vivo T3 Pro 5G
 
@@ -705,10 +705,14 @@
 
 `I2219`: iQOO Z9x 5G
 
-**iQOO Z9 Pro:**
-
-`I2305`: iQOO Z9 Pro 5G
-
 **iQOO Z9 Lite:**
 
 `I2306`: iQOO Z9 Lite 5G
+
+**iQOO Z9s:**
+
+`I2403`: iQOO Z9s 5G
+
+**iQOO Z9s Pro:**
+
+`I2305`: iQOO Z9s Pro 5G

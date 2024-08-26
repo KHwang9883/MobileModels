@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-26
+- `vivo_global_en` Add iQOO Z9s series.
 ## 2024-08-20
 - `oppo_global_en` Add OPPO Reno12 FS.
 ## 2024-08-17
