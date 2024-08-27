@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-08-27
+- `coolpad` 新增 酷派锋尚 50 Lite。
 ## 2024-08-22
 - `huawei_cn` 新增 华为 Vision 智慧屏 4 Pro。
 - `realme_cn` 新增 真我 13 Pro 系列。

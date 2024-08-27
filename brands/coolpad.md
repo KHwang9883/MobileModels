@@ -212,6 +212,10 @@
 
 `CP3NV1`: 酷派大观 3 5G
 
+**酷派锋尚 50 Lite:**
+
+`CPDAY3`: 酷派锋尚 60 Lite
+
 **酷派 Y70 Lite:**
 
 `CP2FM1`: 酷派 Y70 Lite 5G
