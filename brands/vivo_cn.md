@@ -474,9 +474,9 @@
 
 `V2327A`: vivo Y36t
 
-**vivo Y37 (`PD2357`):**
+**vivo Y36c / vivo Y37 (`PD2357`):**
 
-`V2357A`: vivo Y37 5G
+`V2357A`: vivo Y36c 5G / vivo Y37 5G
 
 **vivo Y37m (`PD2357`):**
 
