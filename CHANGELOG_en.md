@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-08-29
+- `realme_global_en` Add realme 13 & 13+.
 ## 2024-08-26
 - `vivo_global_en` Add iQOO Z9s series.
 ## 2024-08-20
