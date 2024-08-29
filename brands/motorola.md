@@ -174,6 +174,10 @@
 
 `XT2401-2`: moto X50 Ultra
 
+**moto S50 (`vienna`):**
+
+`XT2409-5`: moto S50
+
 **moto S50 Neo (`malmo`):**
 
 `XT2427-4`: moto S50 Neo
