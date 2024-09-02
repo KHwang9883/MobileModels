@@ -668,6 +668,10 @@
 
 `LLY-AN00`: 荣耀 Play8T Pro 5G
 
+**荣耀 Play9T:**
+
+`ALT-AN00`: 荣耀 Play9T 5G
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**
