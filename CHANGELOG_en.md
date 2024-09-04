@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-05
+- `xiaomi_en` Add Redmi A3 Pro, Redmi 14C.
 ## 2024-08-29
 - `realme_global_en` Add realme 13 & 13+.
 ## 2024-08-26

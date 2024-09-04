@@ -1023,8 +1023,6 @@
 
 **[`N19`] Redmi 13 5G (`breeze`):**
 
-`2406ERN9CC`: Redmi 13 5G China
-
 `2406ERN9CI`: Redmi 13 5G India
 
 **[`C3U`] Redmi 13C (`gale`):**
@@ -1050,6 +1048,14 @@
 `23124RN87I`: Redmi 13C 5G India
 
 `23124RN87C`: Redmi 13C 5G China / Redmi 13R 5G China
+
+**[`C3N`] Redmi 14C (`lake`):**
+
+`2409BRN2CA`: Redmi 14C Global
+
+`2409BRN2CI`: Redmi 14C India
+
+`2409BRN2CL`: Redmi 14C Latin America
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1765,6 +1771,10 @@
 
 `24044RN32L`: Redmi A3x Latin America
 
+**[`C3N`] Redmi A3 Pro (`pond`):**
+
+`2409BRN2CG`: Redmi A3 Pro Global
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -2113,7 +2123,7 @@
 
 `24075RP89G`: Redmi Pad SE 8.7 Wi-Fi Global
 
-**[`N85`] Redmi Pad SE 8.7 4G (`spark`):**
+**[`N85X`] Redmi Pad SE 8.7 4G (`spark`):**
 
 `24076RP19G`: Redmi Pad SE 8.7 4G Global
 
