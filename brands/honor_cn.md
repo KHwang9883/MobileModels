@@ -106,6 +106,8 @@
 
 `FCP-AN10`: 荣耀 Magic V3
 
+`FCP-AN20`: 荣耀 Magic V3 双卫星版
+
 **荣耀 Magic Vs3:**
 
 `FLC-AN00`: 荣耀 Magic Vs3
