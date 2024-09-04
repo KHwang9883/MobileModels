@@ -1112,8 +1112,6 @@
 
 **[`N19`] Redmi 13 5G (`breeze`):**
 
-`2406ERN9CC`: Redmi 13 5G 国行版
-
 `2406ERN9CI`: Redmi 13 5G 印度版
 
 **[`C3U`] Redmi 13C (`gale`):**
@@ -1139,6 +1137,14 @@
 **[`C3V`] Redmi 13C 5G (`atmos`):**
 
 `23124RN87G`: Redmi 13C 5G 国际版
+
+**[`C3N`] Redmi 14C (`lake`):**
+
+`2409BRN2CA`: Redmi 14C 国际版
+
+`2409BRN2CI`: Redmi 14C 印度版
+
+`2409BRN2CL`: Redmi 14C 拉美版
 
 ## 红米 / Redmi Note 系列
 
@@ -1870,6 +1876,10 @@
 
 `24044RN32L`: Redmi A3x 拉美版
 
+**[`C3N`] Redmi A3 Pro (`pond`):**
+
+`2409BRN2CG`: Redmi A3 Pro 国际版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -1908,7 +1918,7 @@
 
 `24075RP89G`: Redmi Pad SE 8.7 Wi-Fi 国际版
 
-**[`N85`] Redmi Pad SE 8.7 4G (`spark`):**
+**[`N85X`] Redmi Pad SE 8.7 4G (`spark`):**
 
 `24076RP19G`: Redmi Pad SE 8.7 4G 国际版
 

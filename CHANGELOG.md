@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-09-05
+- `xiaomi` 新增 Redmi 14C, Redmi A3 Pro.
 ## 2024-09-02
 - `honor_cn` 新增 荣耀 Play9T。
 ## 2024-09-01
