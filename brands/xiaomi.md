@@ -1138,13 +1138,17 @@
 
 `23124RN87G`: Redmi 13C 5G 国际版
 
-**[`C3N`] Redmi 14C (`lake`):**
+**[`C3N`] Redmi 14C (`pond`):**
 
 `2409BRN2CA`: Redmi 14C 国际版
 
 `2409BRN2CI`: Redmi 14C 印度版
 
 `2409BRN2CL`: Redmi 14C 拉美版
+
+**[`C3N`] Redmi 14C (`lake`):**
+
+`2409BRN2CY`: Redmi 14C 国际版 (NFC)
 
 ## 红米 / Redmi Note 系列
 
