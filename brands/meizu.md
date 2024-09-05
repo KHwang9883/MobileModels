@@ -536,6 +536,16 @@
 
 `M710H`: 魅族 M5c 国际版
 
+## 领克手机
+
+**LYNK & CO Phone Note (`m2468`):**
+
+`M468Q`: LYNK & CO Phone Note
+
+**LYNK & CO Phone Pro (`m2481`):**
+
+`M481S`: LYNK & CO Phone Pro
+
 ## 极星手机
 
 **Polestar Phone (`m2481`):**

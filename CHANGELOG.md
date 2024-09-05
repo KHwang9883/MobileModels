@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-09-05
 - `honor_cn` 新增 荣耀 Magic V3 双卫星版。
+- `meizu` 新增 LYNK & CO Phone。
 - `nubia` 新增 红魔电竞平板 Pro, 红魔平板 3D 探索版。
 - `xiaomi` 新增 Redmi 14C, Redmi A3 Pro。
 ## 2024-09-02
