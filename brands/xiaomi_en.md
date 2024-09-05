@@ -1049,13 +1049,17 @@
 
 `23124RN87C`: Redmi 13C 5G China / Redmi 13R 5G China
 
-**[`C3N`] Redmi 14C (`lake`):**
+**[`C3N`] Redmi 14C (`pond`):**
 
 `2409BRN2CA`: Redmi 14C Global
 
 `2409BRN2CI`: Redmi 14C India
 
 `2409BRN2CL`: Redmi 14C Latin America
+
+**[`C3N`] Redmi 14C (`lake`):**
+
+`2409BRN2CY`: Redmi 14C Global (NFC)
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
