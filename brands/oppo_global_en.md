@@ -691,12 +691,14 @@
 
 `OW19W6`: OPPO Watch 41mm Wi-Fi
 
+**OPPO Watch (`belugaxl`):**
+
 `OW19W8`: OPPO Watch 46mm Wi-Fi
 
-**OPPO Watch (`belugaxl`):**
+**OPPO Watch (`orca`):**
 
 `OW19W12`: OPPO Watch 46mm LTE
 
-**OPPO Watch X:**
+**OPPO Watch X (`star`):**
 
 `OWWE231`: OPPO Watch X
