@@ -271,6 +271,10 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
+**HONOR Magic V3:**
+
+`FCP-N49`: HONOR Magic V3
+
 **HONOR X5:**
 
 `VNA-LX2` `VNA-LX3`: HONOR X5
@@ -382,3 +386,7 @@
 `ELN-W09`: HONOR Pad X9 Wi-Fi
 
 `ELN-L03` `ELN-L09`: HONOR Pad X9 LTE
+
+**HONOR MagicPad2 (`Rolland2`):**
+
+`ROD2-W09`: HONOR MagicPad2

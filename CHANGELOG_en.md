@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-07
+- `honor_global_en` Add HONOR Magic V3, HONOR MagicPad2.
 ## 2024-09-05
 - `meizu_en` Add LYNK & CO Phone.
 - `xiaomi_en` Add Redmi A3 Pro, Redmi 14C.
