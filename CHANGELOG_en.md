@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2024-09-07
+- `google` Add Pixel Watch 3.
 - `honor_global_en` Add HONOR Magic V3, HONOR MagicPad2.
 - `vivo_global_en` Add several new models.
 ## 2024-09-05
