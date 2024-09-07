@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-09-07
+- `mitv_cn` 新增 Redmi 智能电视 A Pro, Redmi MAX 85 2025。
 ## 2024-09-05
 - `honor_cn` 新增 荣耀 Magic V3 双卫星版。
 - `meizu` 新增 LYNK & CO Phone。

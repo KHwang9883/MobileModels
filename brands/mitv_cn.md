@@ -458,6 +458,22 @@
 
 `L65RB-RA`: Redmi 智能电视 A65 2025 款
 
+`L70RB-RA`: Redmi 智能电视 A70 2025 款
+
+**Redmi 智能电视 A Pro:**
+
+`L43RB-AP`: Redmi 智能电视 A Pro 43
+
+`L50RB-AP`: Redmi 智能电视 A Pro 50 节能版
+
+`L55RB-AP`: Redmi 智能电视 A Pro 55 节能版
+
+`L65RB-AP`: Redmi 智能电视 A Pro 65 节能版
+
+`L70RB-AP`: Redmi 智能电视 A Pro 70 节能版
+
+`L75RB-AP`: Redmi 智能电视 A Pro 75 节能版
+
 **Redmi 智能电视 X:**
 
 `L50M5-RK`: Redmi 智能电视 X50 (2020)
@@ -511,6 +527,8 @@
 **Redmi 智能电视 MAX:**
 
 `L85RA-RX`: Redmi 智能电视 MAX 85 英寸
+
+`L85RB-MAX`: Redmi 智能电视 MAX 85 2025 款
 
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
 
