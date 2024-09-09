@@ -1,6 +1,6 @@
 # Apple 国行设备型号汇总
 
-- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch
+- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision
 - codename: ✅
 - 是否包含海外机型: [见完整汇总](/brands/apple_all.md)
 
@@ -767,6 +767,12 @@
 **[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
 
 `A2987`: Apple Watch Ultra 2
+
+## Apple Vision
+
+**[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
+
+`A2117`: Apple Vision Pro
 
 ## iPod touch
 

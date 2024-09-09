@@ -1,6 +1,6 @@
 # Apple 设备型号汇总
 
-- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch
+- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision
 - codename: ✅
 - 是否包含海外机型: ✅
 
@@ -1119,6 +1119,48 @@
 `A2986`: Apple Watch Ultra 2 (全球)
 
 `A2987`: Apple Watch Ultra 2 (中国大陆 & 港澳)
+
+## Apple TV
+
+**Apple TV (第 1 代) (`AppleTV1,1`):**
+
+`A1218`: Apple TV (第 1 代)
+
+**[`K66AP`] Apple TV (第 2 代) (`AppleTV2,1`):**
+
+`A1378`: Apple TV (第 2 代)
+
+**[`J33AP`] Apple TV (第 3 代) (`AppleTV3,1`):**
+
+`A1427`: Apple TV (第 3 代)
+
+**[`J33IAP`] Apple TV (第 3 代) (`AppleTV3,2`):**
+
+`A1469`: Apple TV (第 3 代) (Rev A)
+
+**[`J42dAP`] Apple TV HD (`AppleTV5,3`):**
+
+`A1625`: Apple TV HD
+
+**[`J105aAP`] Apple TV 4K (`AppleTV6,2`):**
+
+`A1842`: Apple TV 4K
+
+**[`J305AP`] Apple TV 4K (第 2 代) (`AppleTV11,1`):**
+
+`A2169`: Apple TV 4K (第 2 代)
+
+**[`J255AP`] Apple TV 4K (第 3 代) (`AppleTV14,1`):**
+
+`A2737`: Apple TV 4K (第 3 代) (无线局域网)
+
+`A2843`: Apple TV 4K (第 3 代) (无线局域网 + 以太网)
+
+## Apple Vision
+
+**[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
+
+`A2117`: Apple Vision Pro
 
 ## iPod touch
 
