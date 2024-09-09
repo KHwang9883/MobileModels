@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-10
+- `apple_en` Add Apple Vision Pro, Apple TV.
 ## 2024-09-07
 - `google` Add Pixel Watch 3.
 - `honor_global_en` Add HONOR Magic V3, HONOR MagicPad2.

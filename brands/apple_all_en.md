@@ -1,6 +1,6 @@
 # Apple "iDevices" Models
 
-- Range: iPhone, iPad, iPod touch and Apple Watch
+- Range: iPhone, iPad, iPod touch, Apple Watch, Apple TV and Apple Vision
 - Codename: ✅
 
 ## iPhone
@@ -1100,6 +1100,48 @@
 `A2986`: Apple Watch Ultra 2 (Global)
 
 `A2987`: Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)
+
+## Apple TV
+
+**Apple TV (1st generation) (`AppleTV1,1`):**
+
+`A1218`: Apple TV (1st generation)
+
+**[`K66AP`] Apple TV (2nd generation) (`AppleTV2,1`):**
+
+`A1378`: Apple TV (2nd generation)
+
+**[`J33AP`] Apple TV (3rd generation) (`AppleTV3,1`):**
+
+`A1427`: Apple TV (3rd generation)
+
+**[`J33IAP`] Apple TV (3rd generation) (`AppleTV3,2`):**
+
+`A1469`: Apple TV (3rd generation) (Rev A)
+
+**[`J42dAP`] Apple TV HD (`AppleTV5,3`):**
+
+`A1625`: Apple TV HD
+
+**[`J105aAP`] Apple TV 4K (`AppleTV6,2`):**
+
+`A1842`: Apple TV 4K
+
+**[`J305AP`] Apple TV 4K (2nd generation) (`AppleTV11,1`):**
+
+`A2169`: Apple TV 4K (2nd generation)
+
+**[`J255AP`] Apple TV 4K (3rd generation) (`AppleTV14,1`):**
+
+`A2737`: Apple TV 4K (3rd generation) Wi-Fi
+
+`A2843`: Apple TV 4K (3rd generation) Wi-Fi + Ethernet
+
+## Apple Vision
+
+**[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
+
+`A2117`: Apple Vision Pro
 
 ## iPod touch
 
