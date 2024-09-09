@@ -1,6 +1,6 @@
 # realme 手机型号汇总
 
-- 汇总范围: 全部机型
+- 汇总范围: 全部国行机型
 - codename: ⏹
 - 是否包含海外机型: [单独汇总 (英文)](/brands/realme_global_en.md)
 
