@@ -231,6 +231,10 @@
 
 `ALT-AL10`: HUAWEI Mate X5
 
+**HUAWEI Mate XT ULTIMATE DESIGN 非凡大师 (`Greenland`):**
+
+`GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
+
 ## HUAWEI P / Pura 系列
 
 **华为 Ascend P1:**

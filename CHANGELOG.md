@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-09-10
 - `apple` 新增 Apple Vision Pro, Apple TV。
+- `huawei_cn` 新增 HUAWEI Mate XT 非凡大师。
 ## 2024-09-07
 - `mitv_cn` 新增 Redmi 智能电视 A Pro, Redmi MAX 85 2025。
 ## 2024-09-05
