@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-09-11
+- `realme_cn` 新增 真我 13。
 ## 2024-09-10
 - `apple` 新增 Apple Vision Pro, Apple TV。
 - `huawei_cn` 新增 HUAWEI Mate XT 非凡大师。
