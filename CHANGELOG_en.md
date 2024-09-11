@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-11
+- `realme_global_en` Add realme NARZO 70 Turbo 5G.
 ## 2024-09-10
 - `apple_en` Add Apple Vision Pro, Apple TV.
 ## 2024-09-07

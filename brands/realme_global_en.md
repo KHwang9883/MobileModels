@@ -601,6 +601,10 @@
 
 `RMX3998`: realme NARZO 70x 5G
 
+**realme NARZO 70 Turbo:**
+
+`RMX5003`: realme NARZO 70 Turbo 5G
+
 ## Tablets
 
 **realme Pad:**
