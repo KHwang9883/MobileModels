@@ -1061,6 +1061,10 @@
 
 `2409BRN2CY`: Redmi 14C Global (NFC)
 
+**Redmi 14R 5G (`flame`):**
+
+`2411DRN47C`: Redmi 14R 5G China
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
