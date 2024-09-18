@@ -1,5 +1,6 @@
 # CHANGELOG
 ## 2024-09-18
+- `mitv_global_en` Add several Indian models.
 - `xiaomi_en` Add Redmi 14R 5G.
 ## 2024-09-11
 - `realme_global_en` Add realme NARZO 70 Turbo 5G.
