@@ -1150,6 +1150,10 @@
 
 `2409BRN2CY`: Redmi 14C 国际版 (NFC)
 
+**Redmi 14R 5G (`flame`):**
+
+`2411DRN47C`: Redmi 14R 5G
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
