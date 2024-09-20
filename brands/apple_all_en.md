@@ -429,6 +429,46 @@
 
 `A3106`: iPhone 15 Pro Max (Rest of the world)
 
+**[`D47AP`] iPhone 16 (`iPhone17,3`):**
+
+`A3081`: iPhone 16 (United States)
+
+`A3286`: iPhone 16 (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3288`: iPhone 16 (China mainland, Hong Kong, Macao)
+
+`A3287`: iPhone 16 (Rest of the world)
+
+**[`D48AP`] iPhone 16 Plus (`iPhone17,4`):**
+
+`A3082`: iPhone 16 Plus (United States)
+
+`A3289`: iPhone 16 Plus (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3291`: iPhone 16 Plus (China mainland, Hong Kong, Macao)
+
+`A3290`: iPhone 16 Plus (Rest of the world)
+
+**[`D93AP`] iPhone 16 Pro (`iPhone17,1`):**
+
+`A3083`: iPhone 16 Pro (United States)
+
+`A3292`: iPhone 16 Pro (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3294`: iPhone 16 Pro (China mainland, Hong Kong, Macao)
+
+`A3293`: iPhone 16 Pro (Rest of the world)
+
+**[`D94AP`] iPhone 16 Pro Max (`iPhone17,2`):**
+
+`A3084`: iPhone 16 Pro Max (United States)
+
+`A3295`: iPhone 16 Pro Max (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3297`: iPhone 16 Pro Max (China mainland, Hong Kong, Macao)
+
+`A3296`: iPhone 16 Pro Max (Rest of the world)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -1100,6 +1140,30 @@
 `A2986`: Apple Watch Ultra 2 (Global)
 
 `A2987`: Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)
+
+**[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
+
+`A2997`: Apple Watch Series 10 (GPS) (42mm case) (Global)
+
+`A2998`: Apple Watch Series 10 (GPS) (42mm case) (China mainland, Indonesia)
+
+**[`N217bAP`] Apple Watch Series 10 (`Watch7,9`):**
+
+`A2999`: Apple Watch Series 10 (GPS) (46mm case) (Global)
+
+`A3000`: Apple Watch Series 10 (GPS) (46mm case) (China mainland, Indonesia)
+
+**[`N218sAP`] Apple Watch Series 10 (`Watch7,10`):**
+
+`A3001`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
+
+`A3002`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Hong Kong, Macao, Indonesia)
+
+**[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
+
+`A3003`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
+
+`A3206`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Hong Kong, Macao, Indonesia)
 
 ## Apple TV
 

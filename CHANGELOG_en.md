@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-20
+- `apple_en` Add iPhone 16, Apple Watch Series 10.
 ## 2024-09-18
 - `mitv_global_en` Add several Indian models.
 - `xiaomi_en` Add Redmi 14R 5G.
