@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-09-20
 - `apple` 新增 iPhone 16, Apple Watch Series 10。
+- `huawei_cn` 新增 HUAWEI WATCH GT 5, WATCH D2。
 ## 2024-09-18
 - `xiaomi` 新增 Redmi 14R 5G。
 ## 2024-09-11

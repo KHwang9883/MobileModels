@@ -413,15 +413,15 @@
 
 `ADY-AL10`: HUAWEI Pura 70 北斗卫星消息版
 
-**HUAWEI Pura 70 Pro (`Hapburn`):**
+**HUAWEI Pura 70 Pro (`Hepburn`):**
 
 `HBN-AL00`: HUAWEI Pura 70 Pro
 
-**HUAWEI Pura 70 Pro+ (`Hapburn`):**
+**HUAWEI Pura 70 Pro+ (`Hepburn`):**
 
 `HBN-AL10` `HBN-AL80`: HUAWEI Pura 70 Pro+
 
-**HUAWEI Pura 70 Ultra (`HapburnP`):**
+**HUAWEI Pura 70 Ultra (`HepburnP`):**
 
 `HBP-AL00`: HUAWEI Pura 70 Ultra
 
@@ -2223,6 +2223,18 @@
 
 `PNX-B19`: HUAWEI WATCH GT 4 46mm
 
+**HUAWEI WATCH GT 5 (`Jana`):**
+
+`JNA-B19`: HUAWEI WATCH GT 5 41mm
+
+**HUAWEI WATCH GT 5 (`Vili`):**
+
+`VLI-B19`: HUAWEI WATCH GT 5 46mm
+
+**HUAWEI WATCH GT 5 Pro (`Vili`):**
+
+`VLI-B29`: HUAWEI WATCH GT 5 Pro 46mm
+
 **HUAWEI WATCH GT Runner (`Runner`):**
 
 `RUN-B19` `RUN-B29`: HUAWEI WATCH GT Runner
@@ -2254,6 +2266,10 @@
 **HUAWEI WATCH D:**
 
 `MLY-B10` `MLY-B11`: HUAWEI WATCH D
+
+**HUAWEI WATCH D2 (`Luca`):**
+
+`LCA-B11`: HUAWEI WATCH D2
 
 **HUAWEI WATCH Buds (`Saga`):**
 
