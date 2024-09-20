@@ -275,11 +275,11 @@
 
 `ADY-LX9`: HUAWEI Pura 70
 
-**HUAWEI Pura 70 Pro (`Hapburn`):**
+**HUAWEI Pura 70 Pro (`Hepburn`):**
 
 `HBN-LX9`: HUAWEI Pura 70 Pro
 
-**HUAWEI Pura 70 Ultra (`HapburnP`):**
+**HUAWEI Pura 70 Ultra (`HepburnP`):**
 
 `HBP-LX9`: HUAWEI Pura 70 Ultra
 
@@ -683,6 +683,10 @@
 
 `DBY2-L09`: HUAWEI MatePad Air LTE
 
+**HUAWEI MatePad 12 X:**
+
+`BKY-W09`: HUAWEI MatePad 12 X Wi-Fi
+
 **HUAWEI MatePad Pro (`Marx`):**
 
 `MRX-W09` `MRX-W29`: HUAWEI MatePad Pro 10.8 Wi-Fi
@@ -708,6 +712,10 @@
 **HUAWEI MatePad Pro 13.2 (`Poincare`):**
 
 `PCE-W29`: HUAWEI MatePad Pro 13.2 Wi-Fi
+
+**HUAWEI MatePad Pro 12.2:**
+
+`MRO-W09`: HUAWEI MatePad Pro 12.2
 
 **HUAWEI MatePad Paper (`Hemingway`):**
 
