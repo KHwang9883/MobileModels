@@ -230,6 +230,22 @@
 
 `A3108`: iPhone 15 Pro Max
 
+**[`D47AP`] iPhone 16 (`iPhone17,3`):**
+
+`A3288`: iPhone 16
+
+**[`D48AP`] iPhone 16 Plus (`iPhone17,4`):**
+
+`A3291`: iPhone 16 Plus
+
+**[`D93AP`] iPhone 16 Pro (`iPhone17,1`):**
+
+`A3294`: iPhone 16 Pro
+
+**[`D94AP`] iPhone 16 Pro Max (`iPhone17,2`):**
+
+`A3297`: iPhone 16 Pro Max
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -767,6 +783,22 @@
 **[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
 
 `A2987`: Apple Watch Ultra 2
+
+**[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
+
+`A2998`: Apple Watch Series 10 (GPS) (42 毫米表壳)
+
+**[`N217bAP`] Apple Watch Series 10 (`Watch7,9`):**
+
+`A3000`: Apple Watch Series 10 (GPS) (46 毫米表壳)
+
+**[`N218sAP`] Apple Watch Series 10 (`Watch7,10`):**
+
+`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳)
+
+**[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
+
+`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳)
 
 ## Apple Vision
 
