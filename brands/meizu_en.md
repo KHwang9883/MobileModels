@@ -249,6 +249,10 @@
 
 `M468H`: MEIZU 21 Note Global
 
+**MEIZU Lucky 08 (`m2431`):**
+
+`M431Q`: MEIZU Lucky 08
+
 **MEIZU m1 note (`m71`):**
 
 `M463H`: MEIZU m1 note Global
@@ -475,17 +479,13 @@
 
 `M2111`: mblu 10s
 
-**MEIZU Mblu 20 / M20 (`m2421`):**
+**MEIZU M20 / MEIZU mblu 20 (`m2421`):**
 
-`M421Q`: MEIZU M20
+`M421Q`: MEIZU M20 / MEIZU mblu 20
 
-**MEIZU Lucky 08 (`m2431`):**
+**MEIZU MBLU 21 (`m2416`):**
 
-`M431Q`: MEIZU Lucky 08
-
-**MEIZU Mblu 21 (`m2416`):**
-
-`M416L`: MEIZU Mblu 21 Global
+`M416L`: MEIZU MBLU 21 Global
 
 **MEIZU M3 Max (`s25`):**
 
