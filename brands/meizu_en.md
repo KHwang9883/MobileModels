@@ -475,13 +475,17 @@
 
 `M2111`: mblu 10s
 
-**MEIZU M20 (`m2421`):**
+**MEIZU Mblu 20 / M20 (`m2421`):**
 
 `M421Q`: MEIZU M20
 
-**MEIZU MBLU (`m2410`):**
+**MEIZU Lucky 08 (`m2431`):**
 
-`M410H`: MEIZU MBLU Global
+`M431Q`: MEIZU Lucky 08
+
+**MEIZU Mblu 21 (`m2416`):**
+
+`M416L`: MEIZU Mblu 21 Global
 
 **MEIZU M3 Max (`s25`):**
 
@@ -546,3 +550,9 @@
 **Polestar Phone (`m2481`):**
 
 `M481S`: Polestar Phone
+
+## HongQi Phones
+
+**HongQi Phone (`m2481`):**
+
+`M481R`: HongQi Phone
