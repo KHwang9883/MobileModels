@@ -250,6 +250,10 @@
 
 `M468H`: 魅族 21 Note 国际版
 
+**魅族 Lucky 08 (`m2431`):**
+
+`M431Q`: 魅族 Lucky 08 公开版
+
 **魅族 X8 (`m1852`):**
 
 `M852Q`: 魅族 X8 公开版
@@ -551,3 +555,9 @@
 **Polestar Phone (`m2481`):**
 
 `M481S`: Polestar Phone
+
+## 红旗手机
+
+**HongQi Phone (`m2481`):**
+
+`M481R`: Polestar Phone
