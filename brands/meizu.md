@@ -490,7 +490,7 @@
 
 `M421Q`: 魅蓝 20 / 魅族 M20
 
-**魅族 Mblu 21 (`m2416`):**
+**魅族 MBLU 21 (`m2416`):**
 
 `M416L`: 魅族 MBLU 21
 
@@ -560,4 +560,4 @@
 
 **HongQi Phone (`m2481`):**
 
-`M481R`: Polestar Phone
+`M481R`: HongQi Phone
