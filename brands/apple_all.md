@@ -1176,13 +1176,13 @@
 
 `A3001`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
 
-`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)
+`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)
 
 **[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
 
 `A3003`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
 
-`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)
+`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)
 
 ## Apple TV
 

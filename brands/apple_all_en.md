@@ -1157,13 +1157,13 @@
 
 `A3001`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
 
-`A3002`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Hong Kong, Macao, Indonesia)
+`A3002`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)
 
 **[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
 
 `A3003`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
 
-`A3206`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Hong Kong, Macao, Indonesia)
+`A3206`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)
 
 ## Apple TV
 
