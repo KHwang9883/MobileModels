@@ -2,6 +2,7 @@
 ## 2024-09-23
 - `honor_cn` 新增 荣耀 Play9C。
 - `meizu` 新增 红旗手机, 魅族 Lucky 08。
+- `vivo_cn` 新增 iQOO Z9 Turbo+。
 ## 2024-09-20
 - `apple` 新增 iPhone 16, Apple Watch Series 10。
 - `huawei_cn` 新增 HUAWEI WATCH GT 5, WATCH D2。
