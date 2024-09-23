@@ -674,6 +674,10 @@
 
 `ALT-AN00`: 荣耀 Play9T 5G
 
+**荣耀 Play9C:**
+
+`JDY-AN00`: 荣耀 Play9C 5G
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**
