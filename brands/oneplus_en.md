@@ -297,6 +297,10 @@
 
 `PJX110`: OnePlus Ace 3 Pro China
 
+**OnePlus 13:**
+
+`PJZ110`: OnePlus 13 China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
