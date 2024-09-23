@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-23
+- `samsung_global_en` Add Galaxy F05, M05, M55s.
 ## 2024-09-20
 - `apple_en` Add iPhone 16, Apple Watch Series 10.
 - `huawei_global_en` Add HUAWEI MatePad Pro 12.2, MatePad 12 X.

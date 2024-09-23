@@ -1609,6 +1609,10 @@
 
 `SM-M045F`: Galaxy M04
 
+**Galaxy M05 (`a05m`):**
+
+`SM-M055F`: Galaxy M05
+
 **Galaxy M10 (`m10lte`):**
 
 `SM-M105G`: Galaxy M10 Global
@@ -1773,6 +1777,10 @@
 
 `SM-M556E`: Galaxy M55 5G Global
 
+**Galaxy M55s 5G (`m55xq`):**
+
+`SM-M558B`: Galaxy M55s 5G
+
 **Galaxy C55 5G (`m55xq`):**
 
 `SM-C5560`: Galaxy C55 5G
@@ -1790,6 +1798,10 @@
 **Galaxy F04 (`m04`):**
 
 `SM-E045F`: Galaxy F04
+
+**Galaxy F05 (`a05m`):**
+
+`SM-E055F`: Galaxy F05
 
 **Galaxy F12 (`f12`):**
 
