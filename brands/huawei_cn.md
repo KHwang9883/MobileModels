@@ -1955,6 +1955,10 @@
 
 `HD98ARKA`: 华为智慧屏 V5 Pro 98
 
+**华为智慧屏 V5 Max:**
+
+`HDC0ARIA`: 华为智慧屏 V5 Max 110
+
 **华为智慧屏 X 系列 (`Plato`):**
 
 `PLAT-760`: 华为智慧屏 X65
@@ -2230,6 +2234,10 @@
 **HUAWEI WATCH GT 5 (`Vili`):**
 
 `VLI-B19`: HUAWEI WATCH GT 5 46mm
+
+**HUAWEI WATCH GT 5 Pro (`Jana`):**
+
+`JNA-B29`: HUAWEI WATCH GT 5 Pro 42mm
 
 **HUAWEI WATCH GT 5 Pro (`Vili`):**
 
