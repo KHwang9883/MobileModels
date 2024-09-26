@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-09-26
 - `honor_cn` 增补部分产品代号。
+- `xiaomi` 新增 Redmi Note 14 系列。
 ## 2024-09-24
 - `honor_cn` 新增 荣耀笔记本 X16 2025。
 - `huawei_cn` 新增 华为智慧屏 V5 Max。

@@ -1656,6 +1656,30 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro
 
+**[`O17`] Redmi Note 14 5G (`beryl`):**
+
+`24094RAD4C`: Redmi Note 14 5G 国行版
+
+`24094RAD4G`: Redmi Note 14 5G 国际版
+
+`24094RAD4I`: Redmi Note 14 5G 印度版
+
+**[`O16`] Redmi Note 14 Pro (`malachite`):**
+
+`24090RA29C`: Redmi Note 14 Pro 国行版
+
+`24090RA29G`: Redmi Note 14 Pro 5G 国际版
+
+`24090RA29I`: Redmi Note 14 Pro 5G 印度版
+
+**[`O16U`] Redmi Note 14 Pro+ (`amethyst`):**
+
+`24115RA8EC`: Redmi Note 14 Pro+ 国行版
+
+`24115RA8EG`: Redmi Note 14 Pro+ 5G 国际版
+
+`24115RA8EI`: Redmi Note 14 Pro+ 5G 印度版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
