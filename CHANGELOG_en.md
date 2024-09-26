@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-09-26
+- `honor_global_en` Add several codenames.
 ## 2024-09-23
 - `oneplus_en` Add OnePlus 13.
 - `samsung_global_en` Add Galaxy F05, M05, M55s.

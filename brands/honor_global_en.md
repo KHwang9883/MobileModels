@@ -193,15 +193,15 @@
 
 `NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite
 
-**HONOR 70:**
+**HONOR 70 (`Fennie`):**
 
 `FNE-NX9`: HONOR 70
 
-**HONOR 70 Lite:**
+**HONOR 70 Lite (`Robin`):**
 
 `RBN-NX1`: HONOR 70 Lite
 
-**HONOR 90:**
+**HONOR 90 (`Rhea`):**
 
 `REA-NX9`: HONOR 90
 
@@ -251,11 +251,11 @@
 
 `RMO-NX1` `RMO-NX3`: HONOR Magic5 Lite 5G
 
-**HONOR Magic V2:**
+**HONOR Magic V2 (`Veyron`):**
 
 `VER-N49`: HONOR Magic V2
 
-**PORSCHE DESIGN HONOR Magic V2 RSR:**
+**PORSCHE DESIGN HONOR Magic V2 RSR (`Veyron`):**
 
 `VER-N49DP`: PORSCHE DESIGN HONOR Magic V2 RSR
 
@@ -275,11 +275,11 @@
 
 `FCP-N49`: HONOR Magic V3
 
-**HONOR X5:**
+**HONOR X5 (`Vanessa`):**
 
 `VNA-LX2` `VNA-LX3`: HONOR X5
 
-**HONOR X5 Plus:**
+**HONOR X5 Plus (`Woody`):**
 
 `WOD-LX1` `WOD-LX2` `WOD-LX3`: HONOR X5 Plus
 
@@ -291,7 +291,7 @@
 
 `VNE-LX3`: HONOR X6s
 
-**HONOR X6 5G:**
+**HONOR X6 5G (`Robin`):**
 
 `RBN-NX1`: HONOR X6 5G
 
@@ -301,7 +301,7 @@
 
 `WDY-LX3`: HONOR X6a Plus
 
-**HONOR X6b:**
+**HONOR X6b (`Judy`):**
 
 `JDY-LX1` `JDY-LX2` `JDY-LX3`: HONOR X6b
 
@@ -337,11 +337,11 @@
 
 `CRT-LX1` `CRT-LX2` `CRT-LX3`: HONOR X8a
 
-**HONOR X8a 5G:**
+**HONOR X8a 5G (`Robin`):**
 
 `RBN-NX3`: HONOR X8a 5G
 
-**HONOR X8b:**
+**HONOR X8b (`Lily`):**
 
 `LLY-LX1` `LLY-LX2` `LLY-LX3`: HONOR X8b
 
