@@ -447,6 +447,22 @@
 
 `SC-52E`: Galaxy S24 Ultra Japan (NTT Docomo)
 
+**Galaxy S24 FE (`r12s`):**
+
+`SM-S721B`: Galaxy S24 FE Global
+
+`SM-S721U`: Galaxy S24 FE US Carrier
+
+`SM-S721U1`: Galaxy S24 FE US Unlocked
+
+`SM-S721W`: Galaxy S24 FE Canada
+
+`SM-S7210`: Galaxy S24 FE HK & TW
+
+`SCG30`: Galaxy S24 FE Japan (au)
+
+`SM-S721N`: Galaxy S24 FE South Korea
+
 ## Galaxy Note
 
 **Galaxy Note9 (`crownlte`):**
