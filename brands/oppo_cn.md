@@ -68,6 +68,16 @@
 
 `PHY120`: OPPO Find X7 Ultra 卫星通信版
 
+**OPPO Find X8:**
+
+`PKB110`: OPPO Find X8
+
+**OPPO Find X8 Pro:**
+
+`PKC110`: OPPO Find X8 Pro
+
+`PKC130`: OPPO Find X8 Pro 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -582,6 +592,10 @@
 
 `PJR110`: OPPO K12
 
+**OPPO K12 Plus:**
+
+`PKS110`: OPPO K12 Plus
+
 **OPPO K12x (`avatar-m`):**
 
 `PJT110`: OPPO K12x
@@ -603,6 +617,10 @@
 **OPPO Pad Air2 (`bluey`):**
 
 `OPD2301`: OPPO Pad Air2
+
+**OPPO Pad 3 Pro:**
+
+`OPD2401`: OPPO Pad 3 Pro
 
 ## Watch/Band 系列
 

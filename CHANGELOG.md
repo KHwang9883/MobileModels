@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-09-27
+- `oppo_cn` 新增 Find X8 系列, OPPO Pad 3 Pro, K12 Plus。
 ## 2024-09-26
 - `honor_cn` 增补部分产品代号。
 - `xiaomi` 新增 Redmi Note 14 系列。
