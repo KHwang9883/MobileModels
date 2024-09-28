@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-09-28
+- `honor_cn` 新增 荣耀 MagicBook Art 14 骁龙版。
 ## 2024-09-27
 - `oppo_cn` 新增 Find X8 系列, OPPO Pad 3 Pro, K12 Plus。
 ## 2024-09-26

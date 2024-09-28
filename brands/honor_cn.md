@@ -1320,6 +1320,8 @@
 
 `MRA-721`: 荣耀 MagicBook Art 14 Ultra 7 (32GB+1TB)
 
+`MRO-521`: 荣耀 MagicBook Art 14 骁龙 X Elite (32GB+1TB)
+
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
 `NBR-WAI9`: 荣耀 MagicBook X 14 i3
