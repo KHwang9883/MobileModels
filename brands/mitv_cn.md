@@ -460,6 +460,8 @@
 
 `L70RB-RA`: Redmi 智能电视 A70 2025 款
 
+`L75MA-RA`: Redmi 智能电视 A75 2025 款
+
 **Redmi 智能电视 A Pro:**
 
 `L43RB-AP`: Redmi 智能电视 A Pro 43
