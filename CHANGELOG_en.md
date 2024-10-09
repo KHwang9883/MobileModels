@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-09
+- `honor_global_en` Add several new models.
 ## 2024-09-27
 - `samsung_global_en` Add Galaxy S24 FE.
 ## 2024-09-26

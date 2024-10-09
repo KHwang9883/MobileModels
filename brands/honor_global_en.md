@@ -225,6 +225,10 @@
 
 `LLY-NX1` `LLY-NX3`: HONOR 200 Lite
 
+**HONOR 200 Smart:**
+
+`ALT-NX1` `ALT-NX3`: HONOR 200 Smart
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -307,6 +311,10 @@
 
 `JDY-LX3P`: HONOR X6b Plus
 
+**HONOR X6b 5G:**
+
+`ALT-NX3`: HONOR X6b 5G
+
 **HONOR X7 (`Carmella`):**
 
 `CMA-LX1` `CMA-LX2` `CMA-LX3`: HONOR X7
@@ -324,6 +332,10 @@
 **HONOR X7b 5G (`Clark`):**
 
 `CLK-NX1` `CLK-NX2`: HONOR X7b 5G
+
+**HONOR X7c 5G:**
+
+`ALT-NX1`: HONOR X7c 5G
 
 **HONOR X8 (`Tiffany`):**
 
@@ -374,6 +386,10 @@
 **HONOR Pad X8 Lite (`AgassiRM`):**
 
 `AGM-W09HN`: HONOR Pad X8 Lite
+
+**HONOR Pad X8a:**
+
+`NDL-W09`: HONOR Pad X8a
 
 **HONOR Pad 9 (`Hendry2`):**
 
