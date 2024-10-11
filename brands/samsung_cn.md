@@ -926,6 +926,18 @@
 
 `SM-X616C`: Galaxy Tab S9 FE+ 5G
 
+**Galaxy Tab S10+ (`gts10pwifi`):**
+
+`SM-X820`: Galaxy Tab S10+ WLAN
+
+**Galaxy Tab S10 Ultra (`gts10uwifi`):**
+
+`SM-X920`: Galaxy Tab S10 Ultra WLAN
+
+**Galaxy Tab S10 Ultra (`gts10u`):**
+
+`SM-X926C`: Galaxy Tab S10 Ultra 5G
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
