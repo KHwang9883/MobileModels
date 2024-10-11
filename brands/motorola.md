@@ -54,7 +54,7 @@
 
 `XT1799-1` `XT1799-2`: moto 青柚
 
-**moto Z 2018 (`payton`):**
+**moto Z 2018 (`nash`):**
 
 `XT1789-05`: moto Z 2018
 
