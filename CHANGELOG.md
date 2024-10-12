@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-10-12
+- `oppo_cn` 新增 OPPO A3i。
 - `zte` 新增 中兴远航 61。
 ## 2024-10-11
 - `samsung_cn` 新增 三星 Galaxy Tab S10+/Ultra。

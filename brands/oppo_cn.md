@@ -522,6 +522,10 @@
 
 `PKD130`: OPPO A3x
 
+**OPPO A3i:**
+
+`PKL110`: OPPO A3i
+
 **OPPO A3 Pro:**
 
 `PJY110`: OPPO A3 Pro
