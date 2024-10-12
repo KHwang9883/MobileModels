@@ -1091,7 +1091,23 @@
 
 `SM-A156M`: Galaxy A15 5G Latin America
 
-`SM-A1560`: Galaxy A15 5G TW
+`SM-A1560`: Galaxy A15 5G HK & TW
+
+**Galaxy A16 5G (`a16x`):**
+
+`SM-A166E`: Galaxy A16 5G Global
+
+`SM-A166B`: Galaxy A16 5G EU
+
+`SM-A166U`: Galaxy A16 5G US Carrier
+
+`SM-A166U1`: Galaxy A16 5G US Unlocked
+
+`SM-S166V`: Galaxy A16 5G TracFone
+
+`SM-A166M`: Galaxy A16 5G Latin America
+
+`SM-A1660`: Galaxy A16 5G HK & TW
 
 **Galaxy A2 Core (`a2corelte`):**
 
