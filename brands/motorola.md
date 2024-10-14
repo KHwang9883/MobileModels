@@ -189,3 +189,7 @@
 **moto razr 50 Ultra (`arcfox`):**
 
 `XT2451-4`: moto razr 50 Ultra
+
+**moto g55 (`taipei`):**
+
+`XT2435-3`: moto g55
