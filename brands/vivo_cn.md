@@ -212,6 +212,20 @@
 
 `V2366HA`: vivo X100 Ultra 卫星通信版
 
+**vivo X200 (`PD2415`):**
+
+`V2415A`: vivo X200
+
+**vivo X200 Pro (`PD2405`):**
+
+`V2405A`: vivo X200 Pro
+
+`V2405DA`: vivo X200 Pro 卫星通信版
+
+**vivo X200 Pro mini:**
+
+`V2419A`: vivo X200 Pro mini
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -881,6 +895,10 @@
 **iQOO 12 Pro (`PD2329`):**
 
 `V2329A`: iQOO 12 Pro
+
+**iQOO 13 (`PD2408`):**
+
+`V2408A`: iQOO 13
 
 ## iQOO Neo 系列
 
