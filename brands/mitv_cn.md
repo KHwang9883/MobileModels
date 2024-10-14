@@ -342,17 +342,17 @@
 
 `L55M9-S`: 小米电视 S55
 
-`L55MA-SPL`: 小米电视 S55 Mini LED
-
 `L65M9-S`: 小米电视 S65
-
-`L65MA-SPL`: 小米电视 S65 Mini LED
 
 `L75M9-S`: 小米电视 S75
 
-`L75MA-SPL`: 小米电视 S75 Mini LED
-
 `L85MA-S`: 小米电视 S85
+
+`L55MA-SPL`: 小米电视 S55 Mini LED
+
+`L65MA-SPL`: 小米电视 S65 Mini LED
+
+`L75MA-SPL`: 小米电视 S75 Mini LED
 
 `L85MA-SPL`: 小米电视 S85 Mini LED
 
@@ -365,6 +365,14 @@
 `L85MA-SM`: 小米电视 S Pro 85 Mini LED
 
 `L100MA-SP`: 小米电视 S Pro 100
+
+`L65MB-SP`: 小米电视 S Pro 65 Mini LED 2025 款
+
+`L75MB-SP`: 小米电视 S Pro 75 Mini LED 2025 款
+
+`L85MB-SP`: 小米电视 S Pro 85 Mini LED 2025 款
+
+`L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025 款
 
 **小米壁画电视:**
 

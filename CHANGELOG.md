@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-10-14
+- `mitv_cn` 新增 小米电视 S Pro Mini LED 2025。
 - `motorola` 新增 moto g55。
 ## 2024-10-12
 - `oppo_cn` 新增 OPPO A3i。
