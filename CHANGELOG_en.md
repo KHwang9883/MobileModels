@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-15
+- `honor_global_en` Add HONOR X5b.
 ## 2024-10-13
 - `samsung_global_en` Add Galaxy A16 5G.
 ## 2024-10-09

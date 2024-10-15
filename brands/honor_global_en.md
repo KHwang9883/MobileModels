@@ -287,6 +287,12 @@
 
 `WOD-LX1` `WOD-LX2` `WOD-LX3`: HONOR X5 Plus
 
+**HONOR X5b:**
+
+`GFY-LX2` `GFY-LX3`: HONOR X5b
+
+`GFY-LX2P`: HONOR X5b Plus
+
 **HONOR X6 (`Vinnie`):**
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
