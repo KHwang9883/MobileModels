@@ -544,31 +544,41 @@
 
 **荣耀 X40 (`Rambo`):**
 
-`RMO-AN00`: 荣耀 X40 5G
+`RMO-AN00`: 荣耀 X40
 
 **荣耀 X40i (`Dior`):**
 
-`DIO-AN00`: 荣耀 X40i 5G
+`DIO-AN00`: 荣耀 X40i
 
 **荣耀 X40 GT / 荣耀 X40 GT 竞速版 (`AndyGT`):**
 
-`ADT-AN00`: 荣耀 X40 GT 5G / 荣耀 X40 GT 竞速版 5G
+`ADT-AN00`: 荣耀 X40 GT / 荣耀 X40 GT 竞速版
 
 **荣耀 X50 (`Ali`):**
 
-`ALI-AN00`: 荣耀 X50 5G
+`ALI-AN00`: 荣耀 X50
 
 **荣耀 X50 Pro / 荣耀 X50 GT (`AliP`):**
 
-`ALP-AN00`: 荣耀 X50 Pro 5G / 荣耀 X50 GT 5G
+`ALP-AN00`: 荣耀 X50 Pro / 荣耀 X50 GT
 
 **荣耀 X50i (`Cartier`):**
 
-`CRT-AN00`: 荣耀 X50i 5G
+`CRT-AN00`: 荣耀 X50i
 
 **荣耀 X50i+ (`Lily`):**
 
-`LLY-AN00`: 荣耀 X50i+ 5G
+`LLY-AN00`: 荣耀 X50i+
+
+**荣耀 X60 (`Bruce`):**
+
+`BRC-AN00`: 荣耀 X60
+
+**荣耀 X60 Pro (`BruceP`):**
+
+`BRP-AN00`: 荣耀 X60 Pro
+
+`BRP-AN80`: 荣耀 X60 Pro 卫星版
 
 **荣耀 X60i:**
 
@@ -1013,6 +1023,16 @@
 **荣耀平板 MagicPad 2 (`Rolland2`):**
 
 `ROD2-W09`: 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
+
+**荣耀平板 GT Pro (`Rolland2`):**
+
+`ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
+
+**荣耀平板 X9:**
+
+`NDL-W09`: 荣耀平板 X9 11 英寸 Wi-Fi 版
+
+`NDL-AL00`: 荣耀平板 X9 11 英寸 全网通版
 
 **荣耀 Waterplay (`Haydn`):**
 
