@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-16
+- `realme_global_en` Add realme P1 Speed 5G.
 ## 2024-10-15
 - `honor_global_en` Add HONOR X5b.
 ## 2024-10-13

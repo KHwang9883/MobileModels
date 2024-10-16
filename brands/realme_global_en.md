@@ -457,6 +457,10 @@
 
 `RMX3834`: realme Note 50
 
+**realme Note 60:**
+
+`RMX3933`: realme Note 60
+
 ## U series
 
 **realme U1:**
@@ -472,6 +476,10 @@
 **realme P1 Pro (`coffee-a`):**
 
 `RMX3844`: realme P1 Pro 5G
+
+**realme P1 Speed:**
+
+`RMX5004`: realme P1 Speed 5G
 
 **realme P2 Pro:**
 
