@@ -1131,7 +1131,7 @@
 
 `DBY2-AL00`: HUAWEI MatePad Air 11.5 英寸 全网通版
 
-**HUAWEI MatePad Air:**
+**HUAWEI MatePad Air (`Banksy`):**
 
 `BKY-W00`: HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
 
