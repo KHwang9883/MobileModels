@@ -924,6 +924,16 @@
 
 `A2569`: iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (中国大陆)
 
+**[`J410AP`] iPad mini (A17 Pro) (`iPad16,1`):**
+
+`A2993`: iPad mini (A17 Pro) (无线局域网)
+
+**[`J411AP`] iPad mini (A17 Pro) (`iPad16,2`):**
+
+`A2995`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
+
+`A2996`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
+
 ## Apple Watch
 
 **[`N27aAP`] Apple Watch (第 1 代) (`Watch1,1`):**
