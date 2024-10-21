@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-21
+- `apple_en` Add iPad mini (A17 Pro).
 ## 2024-10-16
 - `realme_global_en` Add realme P1 Speed 5G.
 ## 2024-10-15

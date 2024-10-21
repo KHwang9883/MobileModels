@@ -905,6 +905,16 @@
 
 `A2569`: iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
 
+**[`J410AP`] iPad mini (A17 Pro) (`iPad16,1`):**
+
+`A2993`: iPad mini (A17 Pro) Wi-Fi
+
+**[`J411AP`] iPad mini (A17 Pro) (`iPad16,2`):**
+
+`A2995`: iPad mini (A17 Pro) Wi-Fi + Cellular
+
+`A2996`: iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)
+
 ## Apple Watch
 
 **[`N27aAP`] Apple Watch (1st generation) (`Watch1,1`):**
