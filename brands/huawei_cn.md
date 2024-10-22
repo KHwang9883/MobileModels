@@ -665,6 +665,14 @@
 
 `PSD-AL00`: HUAWEI nova Flip
 
+**HUAWEI nova 13 (`Blake`):**
+
+`BLK-AL80`: HUAWEI nova 13
+
+**HUAWEI nova 13 Pro:**
+
+`MIS-AL00`: HUAWEI nova 13 Pro
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -1761,15 +1769,17 @@
 
 `NBZ-WBH9`: HUAWEI MateBook B3-410 i5 (8GB+256GB)
 
-`NBZ-WBM9`: HUAWEI MateBook B3-410 i5 (8GB+512GB)
+`NBZ-WBH9B`: HUAWEI MateBook B3-410 i5 (8GB+512GB)
 
 `NBZ-WBE9`: HUAWEI MateBook B3-410 i7
 
 **HUAWEI MateBook B3-420 (`NobelDZ`):**
 
-`NDZ-WDH9A`: HUAWEI MateBook B3-420 i5 (8GB+512GB)
+`NDZ-WDI9A`: HUAWEI MateBook B3-420 i3
 
-`NDZ-WFH9A`: HUAWEI MateBook B3-420 i5 (16GB+512GB)
+`NDZ-WDH9A` `NDZ-WFH9A`: HUAWEI MateBook B3-420 i5 集显
+
+`NDZ-WFH9B`: HUAWEI MateBook B3-420 i5 独显
 
 `NDZ-WFE9A`: HUAWEI MateBook B3-420 i7
 
@@ -1845,9 +1855,9 @@
 
 **HUAWEI MateBook B7-420 (`MorganFZ`):**
 
-`MRGFZ-5651`: HUAWEI MateBook B7-420 i5 (16GB+512GB)
+`MRGFZ-W5651`: HUAWEI MateBook B7-420 i5 (16GB+512GB)
 
-`MRGFZ-7651`: HUAWEI MateBook B7-420 i7 (16GB+512GB)
+`MRGFZ-W7651`: HUAWEI MateBook B7-420 i7 (16GB+512GB)
 
 `MRGFZ-W7611`: HUAWEI MateBook B7-420 i7 (16GB+1TB)
 
@@ -1878,6 +1888,14 @@
 `YTFZ-7651S`: 华为擎云 S540 i7 (U15) (16GB+512GB)
 
 `YTFZ-7651SP`: 华为擎云 S540 i7 (P28) (16GB+512GB)
+
+**华为擎云 G540 (`YutuFZ`):**
+
+`YTSFZ-5651TP`: 华为擎云 G540 i5
+
+**华为擎云 G540 Gen2 (`YutuGZ`):**
+
+`YTSGZ-5651TP`: 华为擎云 G540 Gen2 i5
 
 **华为擎云 G740 (`KelvinG`):**
 
@@ -2171,7 +2189,11 @@
 
 **HUAWEI WATCH Ultimate:**
 
-`CLB-B19`: HUAWEI WATCH Ultimate
+`CLB-B19`: HUAWEI WATCH Ultimate 非凡大师
+
+**HUAWEI WATCH Ultimate (`Woods`):**
+
+`WDS-B19`: HUAWEI WATCH Ultimate 非凡探索
 
 **HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 

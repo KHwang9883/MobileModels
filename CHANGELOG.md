@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-10-22
+- `huawei_cn` 新增 nova 13, HUAWEI WATCH Ultimate 非凡探索。
 ## 2024-10-21
 - `apple` 新增 iPad mini (A17 Pro)。
 ## 2024-10-18
