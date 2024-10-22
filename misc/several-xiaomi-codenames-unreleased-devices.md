@@ -1,4 +1,4 @@
-# 小米部分 codename 及未上市产品
+# 小米部分未上市产品型号及部分产品代号
 
 ## 小米手机
 
@@ -38,7 +38,7 @@
 
 **[`U2`] 小米 MIX Alpha (`draco`):**
 
-`M1911U2E`: 小米 MIX Alpha 5G (未上市)
+`M1911U2E`: 小米 MIX Alpha (未上市)
 
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
@@ -47,6 +47,8 @@
 **[`E20`] 未知设备 (`comet`):**
 
 `M1808E20A` `M1808E20C` `M1808E20T`: 该设备为小米系列，搭载骁龙 710 处理器，支持防水功能。
+
+## Redmi 手机
 
 **[`H1`] 红米手机:**
 
@@ -82,17 +84,19 @@
 
 `M2001J11I`: Redmi K30 Pro 印度版 (未上市)
 
-**[`J11`] Redmi K30 Pro (`lmiinpro`):**
-
-`M2001J11I`: Redmi K30 Pro 变焦版 印度版 (未上市)
-
 **[`K6`] Redmi Note 系列 (`sweet`):**
 
-`M2101K6C`: Redmi Note 10 Pro 4G 全网通版 (未上市)
+`M2101K6C`: Redmi Note 10 Pro 4G 国行版 (未上市)
 
 **[`K7A`] Redmi Note 系列 (`rainbow`):**
 
-`M2101K7AC`: Redmi Note 10 4G 全网通版 (未上市)
+`M2101K7AC`: Redmi Note 10 4G 国行版 (未上市)
+
+**[`N17`] Redmi Note 13 5G (`iron`):**
+
+`2312DRAF3G`: Redmi Note 13 5G 国际版 (一个 SKU, 未上市)
+
+`2312DRAF3I`: Redmi Note 13 5G 印度版 (一个 SKU, 未上市)
 
 **[`J18S`] Xiaomi MIX FOLD 系列 (`argo`):**
 
@@ -105,6 +109,8 @@
 **[`L10A`] 未知设备 (`poussin`):**
 
 `21121210AC`: 该设备为 Redmi 系列，搭载骁龙 870 处理器。
+
+## POCO 手机
 
 **[`L10`] POGO F4 GT (`ingres`):**
 
@@ -123,6 +129,10 @@
 **[`N11`] POCO F6 Pro (`vermeer`):**
 
 `23113RKC6I`: POCO F6 Pro 印度版 (未上市)
+
+**[`L16U`] POCO X4 GT Pro (`xagapro`):**
+
+`22041216UG`: POCO X4 GT Pro 国际版 (未上市)
 
 **[`C3QP`] POCO C40 (`frost`):**
 
