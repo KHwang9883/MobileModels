@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-10-23
+- `mitv_cn` 新增 Redmi 智能电视 X 2025。
 ## 2024-10-22
 - `huawei_cn` 新增 nova 13, HUAWEI WATCH Ultimate 非凡探索。
 ## 2024-10-21
