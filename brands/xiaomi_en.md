@@ -429,6 +429,18 @@
 
 `A402XM`: Xiaomi 14T Pro Japan (SoftBank)
 
+**[`O3`] Xiaomi 15 (`dada`):**
+
+`24129PN74G`: Xiaomi 15 Global
+
+`24129PN74I`: Xiaomi 15 India
+
+`24129PN74C`: Xiaomi 15 China
+
+**[`O2`] Xiaomi 15 Pro (`haotian`):**
+
+`2410DPN6CC`: Xiaomi 15 Pro China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1057,11 +1069,13 @@
 
 `2409BRN2CL`: Redmi 14C Latin America
 
+`2409BRN2CC`: Redmi 14C China
+
 **[`C3N`] Redmi 14C (`lake`):**
 
 `2409BRN2CY`: Redmi 14C Global (NFC)
 
-**Redmi 14R 5G (`flame`):**
+**[`C3F`] Redmi 14R 5G (`flame`):**
 
 `2411DRN47C`: Redmi 14R 5G China
 
@@ -1567,6 +1581,10 @@
 
 `24094RAD4C`: Redmi Note 14 5G China
 
+**[`O6`] Redmi Note 14 Pro (`obsidian`):**
+
+`24116RACCG`: Redmi Note 14 Pro Global
+
 **[`O16`] Redmi Note 14 Pro (`malachite`):**
 
 `24090RA29G`: Redmi Note 14 Pro 5G Global
@@ -1893,10 +1911,6 @@
 
 `22041216G`: POCO X4 GT Global
 
-**[`L16U`] POCO X4 GT Pro (`xagapro`):**
-
-`22041216UG`: POCO X4 GT Pro Global
-
 **[`M17P`] POCO X5 5G (`moonstone`):**
 
 `22111317PG`: POCO X5 5G Global
@@ -2011,6 +2025,10 @@
 
 `23076PC4BI`: POCO M6 Pro 5G India
 
+**[`C3FP`] POCO M7 5G (`flame`):**
+
+`24108PCE2I`: POCO M7 5G India
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 India
@@ -2119,6 +2137,18 @@
 
 `24018RPACC`: Xiaomi Pad 6S Pro 12.4 China
 
+**[`O82`] Xiaomi Pad 7 (`uke`):**
+
+`2410CRP4CG`: Xiaomi Pad 7 Global
+
+`2410CRP4CC`: Xiaomi Pad 7 China
+
+**[`O81`] Xiaomi Pad 7 Pro (`muyu`):**
+
+`24091RPADG`: Xiaomi Pad 7 Pro Global
+
+`24091RPADC`: Xiaomi Pad 7 Pro China
+
 **[`L83`] Redmi Pad (`yunluo`):**
 
 `22081283G`: Redmi Pad Global
@@ -2132,6 +2162,10 @@
 `23073RPBFC`: Redmi Pad SE China
 
 `23073RPBFL`: Redmi Pad SE Latin America
+
+**[`M84`] Redmi Pad M7 (`xun`):**
+
+`23073RPBFC`: Redmi Pad M7 China
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 

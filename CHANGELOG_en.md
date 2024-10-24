@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-24
+- `xiaomi_en` Add Xiaomi 15, Xiaomi Pad 7, POCO M7 5G.
 ## 2024-10-21
 - `apple_en` Add iPad mini (A17 Pro).
 ## 2024-10-16
