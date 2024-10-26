@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-26
+- `xiaomi_en` Add POCO C75.
 ## 2024-10-24
 - `xiaomi_en` Add Xiaomi 15, Xiaomi Pad 7, POCO M7 5G.
 ## 2024-10-21

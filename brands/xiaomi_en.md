@@ -1741,6 +1741,10 @@
 
 `2311DRK48C`: Redmi K70E China
 
+**Redmi K80 (`zorn`):**
+
+`24117RK2CC`: Redmi K80 China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -2072,6 +2076,14 @@
 **[`C3UP`] POCO C65 (`gale`):**
 
 `2310FPCA4I`: POCO C65 India
+
+**[`C3NP`] POCO C75 (`lake`):**
+
+`2410FPCC5G`: POCO C75 Global
+
+**[`C3NP`] POCO C75 (`pond`):**
+
+`2410FPCC5I`: POCO C75 India
 
 ## Tablets
 
