@@ -1856,6 +1856,10 @@
 
 `2407FRK8EC`: Redmi K70 至尊版
 
+**Redmi K80 (`zorn`):**
+
+`24117RK2CC`: Redmi K80
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -2237,6 +2241,14 @@
 **[`C3UP`] POCO C65 (`gale`):**
 
 `2310FPCA4I`: POCO C65 印度版
+
+**[`C3NP`] POCO C75 (`lake`):**
+
+`2410FPCC5G`: POCO C75 国际版
+
+**[`C3NP`] POCO C75 (`pond`):**
+
+`2410FPCC5I`: POCO C75 印度版
 
 ## POCO 平板
 
