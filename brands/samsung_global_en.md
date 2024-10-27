@@ -707,6 +707,16 @@
 
 `SM-F956N`: Galaxy Z Fold6 South Korea
 
+`SM-F956Q`: Galaxy Z Fold6 Japan (SIM Free)
+
+`SCG28`: Galaxy Z Fold6 Japan (au)
+
+`SC-55E`: Galaxy Z Fold6 Japan (NTT Docomo)
+
+**Galaxy Z Fold Special Edition (`q6a`):**
+
+`SM-F958N`: Galaxy Z Fold Special Edition South Korea
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
@@ -810,6 +820,12 @@
 `SM-F7410`: Galaxy Z Flip6 China
 
 `SM-F741N`: Galaxy Z Flip6 South Korea
+
+`SM-F741Q`: Galaxy Z Flip6 Japan (SIM Free)
+
+`SCG29`: Galaxy Z Flip6 Japan (au)
+
+`SC-54E`: Galaxy Z Flip6 Japan (NTT Docomo)
 
 ## Galaxy A
 

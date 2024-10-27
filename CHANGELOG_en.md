@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-10-27
+- `samsung_global_en` Add Galaxy Z Fold Special Edition.
 ## 2024-10-26
 - `xiaomi_en` Add POCO C75.
 ## 2024-10-24
