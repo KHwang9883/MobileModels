@@ -1,6 +1,6 @@
 # 小米部分未上市产品型号及部分产品代号
 
-## 小米手机
+## 小米系列
 
 **[`X9`] 小米 4i (`ferrari`):**
 
@@ -22,6 +22,10 @@
 
 `M1805E2C`: 小米 8 SE 联通电信定制版 (未上市)
 
+**[`K11T`] Xiaomi 11T (`agate`):**
+
+`21081111TI`: Xiaomi 11T 印度版 (未上市)
+
 **[`N2`] Xiaomi 14 Pro (`shennong`):**
 
 `23116PN5BG`: Xiaomi 14 Pro 国际版 (未上市)
@@ -40,6 +44,10 @@
 
 `M1911U2E`: 小米 MIX Alpha (未上市)
 
+**[`J18S`] Xiaomi MIX FOLD 系列 (`argo`):**
+
+`21081018SC`: 该设备为 Xiaomi MIX FOLD 系列工程机，配备屏下摄像头。
+
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
 `M1806D9PW`: 小米平板 4 Plus Wi-Fi 版 (未上市)
@@ -48,7 +56,7 @@
 
 `M1808E20A` `M1808E20C` `M1808E20T`: 该设备为小米系列，搭载骁龙 710 处理器，支持防水功能。
 
-## Redmi 手机
+## Redmi 系列
 
 **[`H1`] 红米手机:**
 
@@ -98,19 +106,11 @@
 
 `2312DRAF3I`: Redmi Note 13 5G 印度版 (一个 SKU, 未上市)
 
-**[`J18S`] Xiaomi MIX FOLD 系列 (`argo`):**
-
-`21081018SC`: 该设备为 Xiaomi MIX FOLD 系列工程机，配备屏下摄像头。
-
-**[`K11T`] Xiaomi 11T (`agate`):**
-
-`21081111TI`: Xiaomi 11T 印度版 (未上市)
-
 **[`L10A`] 未知设备 (`poussin`):**
 
 `21121210AC`: 该设备为 Redmi 系列，搭载骁龙 870 处理器。
 
-## POCO 手机
+## POCO 系列
 
 **[`L10`] POGO F4 GT (`ingres`):**
 
