@@ -117,6 +117,7 @@
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [XSMS IMEI 数据库](http://xsms.com.ua/phone/imei/all/1)
+- [Android Dumps](https://dumps.tadiphone.dev/dumps)
 
 以及各品牌官网、论坛、微博等，恕不一一列出
 
