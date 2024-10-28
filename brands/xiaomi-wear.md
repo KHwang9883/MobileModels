@@ -82,6 +82,10 @@
 
 `M2346B1`: 小米手环 9 NFC 版 / 陶瓷特别版
 
+**小米手环 9 Pro:**
+
+`M2401B1`: 小米手环 9 Pro
+
 ## 小米智能手表
 
 **小米手表 (`baiji`):**
@@ -134,6 +138,12 @@
 
 `M2311W1`: Xiaomi Watch S3 eSIM 版
 
+**Xiaomi Watch S4:**
+
+`M2425W1`: Xiaomi Watch S4 蓝牙版
+
+`M2424W1`: Xiaomi Watch S4 eSIM 版
+
 **Xiaomi Watch S4 Sport:**
 
 `M2312W1`: Xiaomi Watch S4 Sport eSIM 版
@@ -141,6 +151,10 @@
 **小米腕部心电血压记录仪:**
 
 `M2230W1`: 小米腕部心电血压记录仪 (Xiaomi Watch H1)
+
+**小米腕部血压记录仪:**
+
+`M2412W1`: 小米腕部血压记录仪 (Xiaomi Watch H1 E)
 
 ## Redmi 手环
 
@@ -155,6 +169,10 @@
 **Redmi 手环 2:**
 
 `M2225B1`: Redmi 手环 2
+
+**Redmi 手环 3:**
+
+`M2434B1`: Redmi 手环 3
 
 ## Redmi 手表（类手环）
 

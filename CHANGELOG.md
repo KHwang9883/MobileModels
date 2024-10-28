@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-10-28
 - `motorola` 新增 moto g75。
+- `xiaomi_wear` 新增 Xiaomi Watch S4, 手环 9 Pro, Redmi 手环 3。
 ## 2024-10-27
 - `realme_cn` 新增 真我 GT7 Pro。
 ## 2024-10-26
