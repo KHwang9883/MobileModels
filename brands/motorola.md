@@ -193,3 +193,7 @@
 **moto g55 (`taipei`):**
 
 `XT2435-3`: moto g55
+
+**moto g75 (`paros`):**
+
+`XT2437-4`: moto g75
