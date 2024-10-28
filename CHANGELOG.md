@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-10-29
+- `samsung_cn` 新增 三星 W25。
 ## 2024-10-28
 - `motorola` 新增 moto g75。
 - `xiaomi_wear` 新增 Xiaomi Watch S4, 手环 9 Pro, Redmi 手环 3。

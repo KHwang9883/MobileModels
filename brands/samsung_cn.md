@@ -742,6 +742,14 @@
 
 `SM-W7024`: 三星 W24 Flip
 
+**三星 W25:**
+
+`SM-W9025`: 三星 W25
+
+**三星 W25 Flip (`b6q`):**
+
+`SM-W7025`: 三星 W24 Flip
+
 ## 三星其他手机系列
 
 **Galaxy Folder (`eliteltechn`):**
