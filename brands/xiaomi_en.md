@@ -419,13 +419,15 @@
 
 `2406APNFAG`: Xiaomi 14T Global
 
-`XIG06`: Xiaomi 14T Japan (KDDI)
+`XIG07`: Xiaomi 14T Japan (KDDI)
 
 **[`N12`] Xiaomi 14T Pro (`rothko`):**
 
 `2407FPN8EG`: Xiaomi 14T Pro Global
 
 `2407FPN8ER`: Xiaomi 14T Pro Japan (SIM Free)
+
+`XIG06`: Xiaomi 14T Pro Japan (KDDI)
 
 `A402XM`: Xiaomi 14T Pro Japan (SoftBank)
 
@@ -1743,7 +1745,7 @@
 
 `2311DRK48C`: Redmi K70E China
 
-**Redmi K80 (`zorn`):**
+**[`O11`] Redmi K80 (`zorn`):**
 
 `24117RK2CC`: Redmi K80 China
 
@@ -1862,6 +1864,8 @@
 **[`M16T`] POCO F5 (`marble`):**
 
 `23049PCD8G`: POCO F5 Global
+
+**[`M16T`] POCO F5 (`marblein`):**
 
 `23049PCD8I`: POCO F5 India
 

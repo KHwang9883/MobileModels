@@ -422,13 +422,15 @@
 
 `2406APNFAG`: Xiaomi 14T 国际版
 
-`XIG06`: Xiaomi 14T 日本版 (KDDI)
+`XIG07`: Xiaomi 14T 日本版 (KDDI)
 
 **[`N12`] Xiaomi 14T Pro (`rothko`):**
 
 `2407FPN8EG`: Xiaomi 14T Pro 国际版
 
 `2407FPN8ER`: Xiaomi 14T Pro 日本版 (无锁)
+
+`XIG06`: Xiaomi 14T Pro 日本版 (KDDI)
 
 `A402XM`: Xiaomi 14T Pro 日本版 (SoftBank)
 
@@ -1858,7 +1860,7 @@
 
 `2407FRK8EC`: Redmi K70 至尊版
 
-**Redmi K80 (`zorn`):**
+**[`O11`] Redmi K80 (`zorn`):**
 
 `24117RK2CC`: Redmi K80
 
@@ -2027,6 +2029,8 @@
 **[`M16T`] POCO F5 (`marble`):**
 
 `23049PCD8G`: POCO F5 国际版
+
+**[`M16T`] POCO F5 (`marblein`):**
 
 `23049PCD8I`: POCO F5 印度版
 
