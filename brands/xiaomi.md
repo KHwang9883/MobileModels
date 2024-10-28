@@ -1588,7 +1588,7 @@
 
 `2303ERA42L`: Redmi Note 12S 拉美版
 
-**[`K7SR`] Redmi Note 12S (`sea`):**
+**[`K7SRN`] Redmi Note 12S (`sea`):**
 
 `23030RAC7Y`: Redmi Note 12S 国际版 (NFC)
 
@@ -1686,9 +1686,11 @@
 
 `24094RAD4C`: Redmi Note 14 5G 国行版
 
-`24094RAD4G`: Redmi Note 14 5G 国际版
-
 `24094RAD4I`: Redmi Note 14 5G 印度版
+
+**[`O17`] Redmi Note 14 5G (`citrine`):**
+
+`24094RAD4G`: Redmi Note 14 5G 国际版
 
 **[`O6`] Redmi Note 14 Pro (`obsidian`):**
 
@@ -2198,6 +2200,10 @@
 
 `24108PCE2I`: POCO M7 5G 印度版
 
+**[`O17P`] POCO M7 Pro 5G (`citrine`):**
+
+`2409FPCC4G`: POCO M7 Pro 5G 国际版
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 印度版
@@ -2262,7 +2268,7 @@
 
 ## 其他系列
 
-**小米米家翻译机 (`FYJ01QP`):**
+**小米米家翻译机 (`Babel`):**
 
 `FYJ01QP`: 小米米家翻译机
 
