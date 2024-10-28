@@ -1479,7 +1479,7 @@
 
 `2303ERA42L`: Redmi Note 12S Latin America
 
-**[`K7SR`] Redmi Note 12S (`sea`):**
+**[`K7SRN`] Redmi Note 12S (`sea`):**
 
 `23030RAC7Y`: Redmi Note 12S Global (NFC)
 
@@ -1573,9 +1573,11 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro China
 
-**[`O17`] Redmi Note 14 5G (`beryl`):**
+**[`O17`] Redmi Note 14 5G (`citrine`):**
 
 `24094RAD4G`: Redmi Note 14 5G Global
+
+**[`O17`] Redmi Note 14 5G (`beryl`):**
 
 `24094RAD4I`: Redmi Note 14 5G India
 
@@ -2033,6 +2035,10 @@
 
 `24108PCE2I`: POCO M7 5G India
 
+**[`O17P`] POCO M7 Pro 5G (`citrine`):**
+
+`2409FPCC4G`: POCO M7 Pro 5G Global
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 India
@@ -2217,7 +2223,7 @@
 
 ## Others
 
-**Xiaomi Mijia Translator (`FYJ01QP`):**
+**Xiaomi Mijia Translator (`Babel`):**
 
 `FYJ01QP`: Xiaomi Mijia Translator
 
