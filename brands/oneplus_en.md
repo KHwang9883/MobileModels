@@ -413,7 +413,7 @@
 
 ## OnePlus Pads/Foldable Phones
 
-**OnePlus Open (`hedwig`, `xueying`):**
+**OnePlus Open (`xueying`) (`hedwig`):**
 
 `CPH2551`: OnePlus Open
 
@@ -427,7 +427,7 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`, `caihong`):**
+**OnePlus Pad 2 / OnePlus Pad Pro (`caihong`) (`rainbow`):**
 
 `OPD2404`: OnePlus Pad Pro
 
