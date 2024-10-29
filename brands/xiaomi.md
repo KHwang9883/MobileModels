@@ -1094,6 +1094,8 @@
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
+**[`M19J`] Redmi 12 5G (`sky`) (`river`):**
+
 `23076RA4BR`: Redmi 12 5G 日本版 (无锁)
 
 `XIG03`: Redmi 12 5G 日本版 (KDDI)
@@ -1118,7 +1120,7 @@
 
 **[`C3TL`] Redmi 12C (`earth`):**
 
-`2212ARNC4L`: Redmi 12C 拉美版
+`2212ARNC4L`: Redmi 12C 拉美版 / 日本版
 
 **[`C3TN`] Redmi 12C (`earth`) (`aether`):**
 
@@ -1174,7 +1176,7 @@
 
 `2409BRN2CI`: Redmi 14C 印度版
 
-`2409BRN2CL`: Redmi 14C 拉美版
+`2409BRN2CL`: Redmi 14C 拉美版 / 日本版
 
 **[`C3N`] Redmi 14C (`lake`):**
 
