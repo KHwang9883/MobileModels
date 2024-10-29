@@ -1159,6 +1159,12 @@
 
 `BAH3-AN10`: HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
 
+**HUAWEI MatePad 10.8 英寸 (`SchumannR`):**
+
+`SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
+
+`SCMR-AL09`: HUAWEI MatePad 10.8 英寸 全网通版
+
 **HUAWEI MatePad (`Bach4`):**
 
 `BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
@@ -1166,18 +1172,6 @@
 `BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 
 `BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
-
-**HUAWEI MatePad (`Bartok`):**
-
-`BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
-
-`BTK-AL00`: HUAWEI MatePad 11.5 英寸 2023 全网通版
-
-**HUAWEI MatePad 10.8 英寸 (`SchumannR`):**
-
-`SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
-
-`SCMR-AL09`: HUAWEI MatePad 10.8 英寸 全网通版
 
 **HUAWEI MatePad 11 英寸 (`Debussy`):**
 
@@ -1188,6 +1182,16 @@
 `DBR-W00`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 
 `DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
+
+**HUAWEI MatePad (`Bartok`):**
+
+`BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
+
+`BTK-AL00`: HUAWEI MatePad 11.5 英寸 2023 全网通版
+
+**HUAWEI MatePad 11.5 (`BartokR`):**
+
+`BTKR-W00`: HUAWEI MatePad 11.5 英寸 2024 Wi-Fi 版
 
 **HUAWEI MatePad 11.5" S (`Tagore`):**
 
