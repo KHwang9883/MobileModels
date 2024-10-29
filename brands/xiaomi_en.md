@@ -997,6 +997,8 @@
 
 `23077RABDC`: Redmi 12 5G China
 
+**[`M19J`] Redmi 12 5G (`sky`) (`river`):**
+
 `23076RA4BR`: Redmi 12 5G Japan (SIM Free)
 
 `XIG03`: Redmi 12 5G Japan (KDDI)
@@ -1021,7 +1023,7 @@
 
 **[`C3TL`] Redmi 12C (`earth`):**
 
-`2212ARNC4L`: Redmi 12C Latin America
+`2212ARNC4L`: Redmi 12C Latin America / Japan
 
 **[`C3TN`] Redmi 12C (`earth`) (`aether`):**
 
@@ -1075,7 +1077,7 @@
 
 `2409BRN2CI`: Redmi 14C India
 
-`2409BRN2CL`: Redmi 14C Latin America
+`2409BRN2CL`: Redmi 14C Latin America / Japan
 
 `2409BRN2CC`: Redmi 14C China
 
