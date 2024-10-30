@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-10-30
+- `honor_cn` 新增 荣耀 Magic7 系列, 荣耀手表 5。
 - `huawei_cn` 新增 HUAWEI MatePad 11.5 2024。
 ## 2024-10-29
 - `samsung_cn` 新增 三星 W25。

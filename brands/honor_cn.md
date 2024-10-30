@@ -112,6 +112,22 @@
 
 `FLC-AN00`: 荣耀 Magic Vs3
 
+**荣耀 Magic7:**
+
+`PTP-AN00`: 荣耀 Magic7
+
+`PTP-AN60`: 荣耀 Magic7 (16GB+1TB)
+
+**荣耀 Magic7 Pro:**
+
+`PTP-AN10`: 荣耀 Magic7 Pro
+
+`PTP-AN70`: 荣耀 Magic7 Pro (16GB+1TB)
+
+**荣耀 Magic7 RSR 保时捷设计:**
+
+`PTP-AN20`: 荣耀 Magic7 RSR 保时捷设计
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -1563,6 +1579,10 @@
 **荣耀手表 GS 4:**
 
 `MUS-B19`: 荣耀手表 GS 4
+
+**荣耀手表 5:**
+
+`STL-L19`: 荣耀手表 5
 
 **荣耀手环 3:**
 
