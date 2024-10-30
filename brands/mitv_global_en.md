@@ -305,17 +305,21 @@
 
 `L55M7-EAUKR`: Xiaomi TV A2 55
 
-**Xiaomi TV Max (Russia):**
+**Xiaomi TV Max 86 (Russia):**
 
 `L86M7-ESRU`: Xiaomi TV Max 86
 
-**Xiaomi TV Max (Middle East):**
+**Xiaomi TV Max 86 (Middle East):**
 
 `L86M7-ESME`: Xiaomi TV Max 86
 
-**Xiaomi 智慧顯示器 Max (Taiwan):**
+**Xiaomi TV Max 86 (Japan, Korea, TW):**
 
-`L86M7-ESTWN`: Xiaomi 智慧顯示器 Max 86 型
+`L86M7-ESTWN`: Xiaomi TV Max 86
+
+**[`N36`] Xiaomi TV Max 100 (Japan, Korea, TW, Vietnam, Indonesia):**
+
+`L100MA-MAXEA`: Xiaomi TV Max 100
 
 **Xiaomi TV A (EEA):**
 
@@ -350,6 +354,12 @@
 `L43M8-P2ID`: Xiaomi TV A FHD 43
 
 `L55M8-P2ID`: Xiaomi TV A 55
+
+**Xiaomi TV A (Japan, Korea, TW):**
+
+`L55MA-ATWN`: Xiaomi TV A 55 2025
+
+`L65MA-ATWN`: Xiaomi TV A 65 2025
 
 **Xiaomi TV A Pro (EEA):**
 
@@ -405,15 +415,15 @@
 
 `L65M8-A2KR`: Xiaomi TV A Pro 65
 
-**Xiaomi 智慧顯示器 A Pro (Taiwan):**
+**Xiaomi TV A Pro (Japan, Korea, TW):**
 
-`L32M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 32 型
+`L32M8-A2TWN`: Xiaomi TV A Pro 32
 
-`L43M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 43 型
+`L43M8-A2TWN`: Xiaomi TV A Pro 43
 
-`L55M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 55 型
+`L55M8-A2TWN`: Xiaomi TV A Pro 55
 
-`L65M8-A2TWN`: Xiaomi 智慧顯示器 A Pro 65 型
+`L65M8-A2TWN`: Xiaomi TV A Pro 65
 
 **Xiaomi TV A Pro (Latin America):**
 
@@ -438,6 +448,24 @@
 `L55M8-A2ME`: Xiaomi TV A Pro 55
 
 `L65M8-A2ME`: Xiaomi TV A Pro 65
+
+**Xiaomi TV A Pro (Japan, Korea, TW):**
+
+`L43MA-STWN`: Xiaomi TV A Pro 43 2025
+
+`L55MA-STWN`: Xiaomi TV A Pro 55 2025
+
+`L65MA-STWN`: Xiaomi TV A Pro 65 2025
+
+`L75MA-STWN`: Xiaomi TV A Pro 75 2025
+
+**[`N32`] Xiaomi TV S Mini LED (Japan, Korea, TW, Vietnam):**
+
+`L55MA-SPLEA`: Xiaomi TV S Mini LED 55
+
+`L65MA-SPLEA`: Xiaomi TV S Mini LED 65
+
+`L75MA-SPLEA`: Xiaomi TV S Mini LED 75
 
 **Xiaomi Fire TV F2:**
 
