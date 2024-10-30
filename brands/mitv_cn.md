@@ -348,6 +348,8 @@
 
 `L85MA-S`: 小米电视 S85
 
+**[`N32`] 小米电视 S Mini LED:**
+
 `L55MA-SPL`: 小米电视 S55 Mini LED
 
 `L65MA-SPL`: 小米电视 S65 Mini LED
@@ -561,6 +563,8 @@
 `L98M6-RK`: Redmi 智能电视 MAX 98 英寸
 
 `L100R8-MAX`: Redmi 智能电视 MAX 100 英寸
+
+**[`N36`] Redmi 智能电视 MAX 100:**
 
 `L100RA-MAX`: Redmi 智能电视 MAX 100 2025 款
 
