@@ -1009,10 +1009,6 @@
 
 `23076RN4BI`: Redmi 12 5G India
 
-**[`M19`] Redmi 12R (`sky`):**
-
-`23076RA4BC`: Redmi 12R China
-
 **[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86G`: Redmi 12C Global
@@ -1477,9 +1473,9 @@
 
 `22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
 
-**[`M19`] Redmi Note 12R (`sky`):**
+**[`M19`] Redmi Note 12R / Redmi 12R (`sky`):**
 
-`23076RA4BC`: Redmi Note 12R China
+`23076RA4BC`: Redmi Note 12R China / Redmi 12R China
 
 **[`K7SR`] Redmi Note 12S (`sea`) (`ocean`):**
 
@@ -1641,17 +1637,13 @@
 
 **[`F11`] Redmi K20 Pro (`raphael`):**
 
-`M1903F11A`: Redmi K20 Pro China
+`M1903F11A`: Redmi K20 Pro China / Redmi K20 Pro Premium Edition China
 
 `M1903F11C`: Redmi K20 Pro Chinese Carrier Version
 
 **[`F11`] Redmi K20 Pro (`raphaelin`):**
 
 `M1903F11I`: Redmi K20 Pro India
-
-**[`F11`] Redmi K20 Pro Premium Edition (`raphael`) (`raphaels`):**
-
-`M1903F11A`: Redmi K20 Pro Premium Edition China
 
 **[`G7A`] Redmi K30 5G (`picasso`):**
 
@@ -2185,17 +2177,13 @@
 
 `22081283C`: Redmi Pad China
 
-**[`M84`] Redmi Pad SE (`xun`):**
+**[`M84`] Redmi Pad SE / Redmi Pad M7 (`xun`):**
 
 `23073RPBFG`: Redmi Pad SE Global
 
-`23073RPBFC`: Redmi Pad SE China
+`23073RPBFC`: Redmi Pad SE China / Redmi Pad M7 China
 
 `23073RPBFL`: Redmi Pad SE Latin America
-
-**[`M84`] Redmi Pad M7 (`xun`):**
-
-`23073RPBFC`: Redmi Pad M7 China
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 
