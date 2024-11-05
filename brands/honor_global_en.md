@@ -379,6 +379,10 @@
 
 `ALI-NX1` `ALI-NX3P`: HONOR X9b 5G
 
+**HONOR X9c 5G (`BruceP`):**
+
+`BRP-NX1`: HONOR X9c 5G
+
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8
@@ -395,7 +399,9 @@
 
 **HONOR Pad X8a:**
 
-`NDL-W09`: HONOR Pad X8a
+`NDL-W09`: HONOR Pad X8a Wi-Fi
+
+`NDL-L03` `NDL-L09`: HONOR Pad X8a LTE
 
 **HONOR Pad 9 (`Hendry2`):**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-11-05
+- `honor_global_en` Add HONOR X9c 5G.
 ## 2024-10-30
 - `mitv_global_en` Add a few new models.
 ## 2024-10-27
