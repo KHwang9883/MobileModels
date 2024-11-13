@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-11-13
+- `nubia` 新增 红魔 10 Pro 系列。
 ## 2024-10-30
 - `honor_cn` 新增 荣耀 Magic7 系列, 荣耀手表 5。
 - `huawei_cn` 新增 HUAWEI MatePad 11.5 2024。
