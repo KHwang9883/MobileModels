@@ -373,7 +373,7 @@
 
 **HUAWEI P40 Pro+ (`ElsaP`):**
 
-`ELS-AN10` `ELS-N39`: HUAWEI P40 Pro+ 5G 全网通版
+`ELS-AN10`: HUAWEI P40 Pro+ 5G 全网通版
 
 `ELS-TN10`: HUAWEI P40 Pro+ 5G 移动版
 
