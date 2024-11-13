@@ -649,7 +649,7 @@
 
 **HUAWEI nova 12 活力版 (`Fiona`):**
 
-`FIN-AL60`: HUAWEI nova 12 活力版
+`FIN-AL60` `FIN-AL60a`: HUAWEI nova 12 活力版
 
 **HUAWEI nova 12 Pro (`Adela`):**
 
