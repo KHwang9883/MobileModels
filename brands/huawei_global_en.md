@@ -241,6 +241,10 @@
 
 `ELS-NX9`: HUAWEI P40 Pro Dual SIM
 
+**HUAWEI P40 Pro (`ElsaP`):**
+
+`ELS-N39`: HUAWEI P40 Pro+
+
 **HUAWEI P40 lite (`Jenny`):**
 
 `JNY-LX1`: HUAWEI P40 lite Dual SIM
