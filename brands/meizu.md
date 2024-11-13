@@ -546,18 +546,18 @@
 
 `M468Q`: LYNK & CO Phone Note
 
-**LYNK & CO Phone Pro (`m2481`):**
+**LYNK & CO Phone Pro (`m2481l`):**
 
-`M481S`: LYNK & CO Phone Pro
+`M481l`: LYNK & CO Phone Pro
 
 ## 极星手机
 
-**Polestar Phone (`m2481`):**
+**Polestar Phone (`m2481s`):**
 
 `M481S`: Polestar Phone
 
 ## 红旗手机
 
-**HongQi Phone (`m2481`):**
+**HongQi Wonder (`m2481r`):**
 
-`M481R`: HongQi Phone
+`M481R`: HongQi Wonder
