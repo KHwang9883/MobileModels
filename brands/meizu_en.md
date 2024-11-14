@@ -535,15 +535,15 @@
 
 `M819H`: MEIZU C9 Pro Global
 
-## LYNK & CO Phones
+## Lync & Co Phones
 
-**LYNK & CO Phone Note (`m2468l`):**
+**Lync & Co Phone Note (`m2468l`):**
 
-`M468Q`: LYNK & CO Phone Note
+`M468Q`: Lync & Co Phone Note
 
-**LYNK & CO Phone Pro (`m2481l`):**
+**Lync & Co Phone Pro (`m2481l`):**
 
-`M481S`: LYNK & CO Phone Pro
+`M481S`: Lync & Co Phone Pro
 
 ## Polestar Phones
 
