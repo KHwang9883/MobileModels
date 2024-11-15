@@ -52,37 +52,41 @@
 
 `XMSH16HM`: 小米手环 6 NFC 版
 
-**小米手环 7:**
+**[`L66`] 小米手环 7:**
 
 `M2129B1`: 小米手环 7
 
 `M2130B1`: 小米手环 7 NFC 版
 
-**小米手环 7 Pro:**
+**[`L67`] 小米手环 7 Pro:**
 
 `M2140B1`: 小米手环 7 Pro 国行版
 
 `M2141B1`: 小米手环 7 Pro 国际版
 
-**小米手环 8:**
+**[`M66`] 小米手环 8:**
 
 `M2239B1`: 小米手环 8
 
 `M2240B1`: 小米手环 8 NFC 版
 
-**小米手环 8 Pro:**
+**[`M69B`] 小米手环 8 Active:**
+
+`M2302B1`: 小米手环 8 Active 国际版
+
+**[`M67`] 小米手环 8 Pro:**
 
 `M2303B1`: 小米手环 8 Pro 国行版
 
 `M2333B1`: 小米手环 8 Pro 国际版
 
-**小米手环 9:**
+**[`N66`] 小米手环 9:**
 
 `M2345B1`: 小米手环 9
 
 `M2346B1`: 小米手环 9 NFC 版 / 陶瓷特别版
 
-**小米手环 9 Pro:**
+**[`N67`] 小米手环 9 Pro:**
 
 `M2401B1`: 小米手环 9 Pro
 
@@ -132,7 +136,7 @@
 
 `M2207W1`: Xiaomi Watch S2 46mm
 
-**Xiaomi Watch S3:**
+**[`N62`] Xiaomi Watch S3:**
 
 `M2313W1`: Xiaomi Watch S3 蓝牙版
 
@@ -166,11 +170,11 @@
 
 `M2101B1`: Redmi Smart Band Pro 国际版
 
-**Redmi 手环 2:**
+**[`M69B`] Redmi 手环 2:**
 
 `M2225B1`: Redmi 手环 2
 
-**Redmi 手环 3:**
+**[`N69`] Redmi 手环 3:**
 
 `M2434B1`: Redmi 手环 3
 
@@ -196,7 +200,7 @@
 
 `M2309W1`: Redmi Watch 3 青春版
 
-**Redmi Watch 3 Active:**
+**[`M65A`] Redmi Watch 3 Active:**
 
 `M2235W1`: Redmi Watch 3 Active 国际版
 
