@@ -353,7 +353,17 @@
 
 `L43M8-P2ID`: Xiaomi TV A FHD 43
 
+`L43MA-AFID`: Xiaomi TV A FHD 43 2025
+
 `L55M8-P2ID`: Xiaomi TV A 55
+
+`L55MA-AID`: Xiaomi TV A 55 2025
+
+**Xiaomi TV A Pro (Indonesia):**
+
+`L43MA-SID`: Xiaomi TV A Pro 43
+
+`L55MA-SID`: Xiaomi TV A Pro 55
 
 **Xiaomi TV A (Japan, Korea, TW):**
 
