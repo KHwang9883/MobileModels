@@ -204,7 +204,7 @@
 
 `M2235W1`: Redmi Watch 3 Active 国际版
 
-**Redmi Watch 4:**
+**[`N65`] Redmi Watch 4:**
 
 `M2314W1`: Redmi Watch 4
 
