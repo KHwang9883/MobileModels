@@ -297,7 +297,7 @@
 
 `PJX110`: OnePlus Ace 3 Pro China
 
-**OnePlus 13:**
+**OnePlus 13 (`dodge`):**
 
 `PJZ110`: OnePlus 13 China
 

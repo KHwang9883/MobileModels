@@ -68,11 +68,11 @@
 
 `PHY120`: OPPO Find X7 Ultra 卫星通信版
 
-**OPPO Find X8:**
+**OPPO Find X8 (`yala`):**
 
 `PKB110`: OPPO Find X8
 
-**OPPO Find X8 Pro:**
+**OPPO Find X8 Pro (`konka`):**
 
 `PKC110`: OPPO Find X8 Pro
 
@@ -622,7 +622,7 @@
 
 `OPD2301`: OPPO Pad Air2
 
-**OPPO Pad 3 Pro:**
+**OPPO Pad 3 Pro (`caihong`):**
 
 `OPD2401`: OPPO Pad 3 Pro
 
