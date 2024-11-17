@@ -298,7 +298,7 @@
 
 `PJX110`: OnePlus Ace 3 Pro 国行版
 
-**OnePlus 13:**
+**OnePlus 13 (`dodge`):**
 
 `PJZ110`: OnePlus 13 国行版
 
