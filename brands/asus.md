@@ -50,6 +50,10 @@
 
 `ASUS_AI2401_A`: ROG 游戏手机 8 / ROG 游戏手机 8 Pro
 
+**ROG Phone 9 (`AI2401`):**
+
+`ASUSAI2501A`: ROG 游戏手机 9 / ROG 游戏手机 9 Pro
+
 **Smartphone for Snapdragon Insiders:**
 
 `ASUS_I007D`: Smartphone for Snapdragon Insiders
