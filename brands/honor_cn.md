@@ -696,7 +696,7 @@
 
 `LLY-AN00`: 荣耀 Play8T Pro 5G
 
-**荣耀 Play9T:**
+**荣耀 Play9T (`Alita`):**
 
 `ALT-AN00`: 荣耀 Play9T 5G
 
@@ -902,7 +902,7 @@
 
 `CLK-AN00`: 荣耀畅玩 50 Plus 5G
 
-**荣耀畅玩 60 Plus:**
+**荣耀畅玩 60 Plus (`Alita`):**
 
 `ALT-AN00`: 荣耀畅玩 60 Plus 5G
 
