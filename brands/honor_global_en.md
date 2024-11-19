@@ -343,6 +343,10 @@
 
 `CLK-NX1` `CLK-NX2`: HONOR X7b 5G
 
+**HONOR X7c (`Alita`):**
+
+`ALT-LX1` `ALT-LX2` `ALT-LX3`: HONOR X7c
+
 **HONOR X7c 5G (`Alita`):**
 
 `ALT-NX1`: HONOR X7c 5G
@@ -383,9 +387,9 @@
 
 `ALI-NX1` `ALI-NX3P`: HONOR X9b 5G
 
-**HONOR X9c 5G (`BruceP`):**
+**HONOR X9c (`BruceP`):**
 
-`BRP-NX1`: HONOR X9c 5G
+`BRP-NX1`: HONOR X9c
 
 **HONOR Pad 8 (`Hendry`):**
 

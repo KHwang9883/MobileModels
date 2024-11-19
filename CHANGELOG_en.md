@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-11-19
+- `honor_global_en` Add HONOR X7c (4G).
 ## 2024-11-05
 - `honor_global_en` Add HONOR X9c 5G.
 ## 2024-10-30
