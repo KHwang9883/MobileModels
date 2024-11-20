@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-11-21
 - `huawei_cn` 新增 HUAWEI Mate 70 系列, Mate X6 系列。
+- `lenovo` 增补平板代号。
 ## 2024-11-20
 - `vivo_cn` 新增 vivo S20 系列, vivo Y300, iQOO Neo10。
 ## 2024-11-19
