@@ -354,6 +354,14 @@
 
 `V2362A`: vivo S19 Pro
 
+**vivo S20 (`PD2429`):**
+
+`V2429A`: vivo S20
+
+**vivo S20 Pro (`PD2430`):**
+
+`V2430A`: vivo S20 Pro
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
@@ -706,6 +714,10 @@
 
 `V2353DA`: vivo Y200t 5G
 
+**vivo Y300 (`PD2435`):**
+
+`V2435A`: vivo Y300
+
 **vivo Y300 Pro (`PD2410`):**
 
 `V2410A`: vivo Y300 Pro 5G
@@ -983,6 +995,10 @@
 **iQOO Neo9S Pro+ (`PD2403`):**
 
 `V2403A`: iQOO Neo9S Pro+
+
+**iQOO Neo10 (`PD2425`):**
+
+`V2425A`: iQOO Neo10
 
 ## iQOO Z 系列
 
