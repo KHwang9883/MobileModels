@@ -235,6 +235,24 @@
 
 `GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
 
+**HUAWEI Mate 70 (`Celestial`):**
+
+`CLS-AL00`: HUAWEI Mate 70
+
+**HUAWEI Mate 70 Pro (`Pillar`):**
+
+`PLR-AL00`: HUAWEI Mate 70 Pro
+
+**HUAWEI Mate 70 Pro+ (`Pillar+`):**
+
+`PLA-AL10`: HUAWEI Mate 70 Pro+
+
+**HUAWEI Mate X6:**
+
+`ICL-AL10`: HUAWEI Mate X6
+
+`ICL-AL20`: HUAWEI Mate X6 典藏版
+
 ## HUAWEI P / Pura 系列
 
 **华为 Ascend P1:**
@@ -2299,11 +2317,15 @@
 
 **HUAWEI WATCH D:**
 
-`MLY-B10` `MLY-B11`: HUAWEI WATCH D
+`MLY-B10`: HUAWEI WATCH D 黑色氟橡胶表带
+
+`MLY-B11`: HUAWEI WATCH D 米白色氟橡胶表带
 
 **HUAWEI WATCH D2 (`Luca`):**
 
-`LCA-B11`: HUAWEI WATCH D2
+`LCA-B10`: HUAWEI WATCH D2 幻夜黑
+
+`LCA-B11`: HUAWEI WATCH D2 晨曦金
 
 **HUAWEI WATCH Buds (`Saga`):**
 
