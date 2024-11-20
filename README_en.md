@@ -51,6 +51,7 @@ Unlisted brands usually not include international models.
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
+- [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 
 ## License
 
