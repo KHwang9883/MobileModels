@@ -130,121 +130,127 @@
 
 ## 平板电脑
 
-**联想小新平板 (2017):**
+**小新平板 (2017):**
 
-`Lenovo TB-8804F`: 联想小新平板 8 英寸
+`Lenovo TB-8804F`: 小新平板 8 英寸
 
-`Lenovo TB-X804F`: 联想小新平板 10 英寸
+`Lenovo TB-X804F`: 小新平板 10 英寸
 
-**联想小新 Pad (`m11`) (`arno`):**
+**小新 Pad (`m11`) (`arno`):**
 
-`Lenovo TB-J606F`: 联想小新 Pad
+`Lenovo TB-J606F`: 小新 Pad
 
-**联想小新 Pad 2022 (`oak`):**
+**小新 Pad 2022 (`oak`):**
 
-`TB128FU`: 联想小新 Pad 2022
+`TB128FU`: 小新 Pad 2022
 
-**联想小新 Pad 2024 (`Balsa`):**
+**小新 Pad 2024 (`Balsa`):**
 
-`TB331FC`: 联想小新 Pad 2024
+`TB331FC`: 小新 Pad 2024
 
-**联想小新 Pad Plus (`arnoz`):**
+**小新 Pad Plus (`arnoz`):**
 
-`Lenovo TB-J607F`: 联想小新 Pad Plus
+`Lenovo TB-J607F`: 小新 Pad Plus
 
-`Lenovo TB-J607Z`: 联想小新 Pad Plus 5G
+`Lenovo TB-J607Z`: 小新 Pad Plus 5G
 
-**联想小新 Pad Plus 2023 (`tulip`):**
+**小新 Pad Plus 2023 (`tulip`):**
 
-`TB350FU` `TB350XC`: 联想小新 Pad Plus 2023
+`TB350FU` `TB350XC`: 小新 Pad Plus 2023
 
-**联想小新 Pad Plus 12.7 舒视版 (`spruce`):**
+**小新 Pad Plus 12.7 舒视版 (`spruce`):**
 
-`TB372FC`: 联想小新 Pad Plus 12.7 舒视版
+`TB372FC`: 小新 Pad Plus 12.7 舒视版
 
-**联想小新 Pad Pro (`pearl`):**
+**小新 Pad Pro (`pearl`):**
 
-`Lenovo TB-J706F`: 联想小新 Pad Pro (2020)
+`Lenovo TB-J706F`: 小新 Pad Pro (2020)
 
-**联想小新 Pad Pro 2021 (`p11_pro_plus`):**
+**小新 Pad Pro 2021 (`p11_pro_plus`):**
 
-`Lenovo TB-J716F`: 联想小新 Pad Pro 2021
+`Lenovo TB-J716F`: 小新 Pad Pro 2021
 
-**联想小新 Pad Pro 12.6 (`paladin`):**
+**小新 Pad Pro 12.6 (`paladin`):**
 
-`Lenovo TB-Q706F`: 联想小新 Pad Pro 12.6
+`Lenovo TB-Q706F`: 小新 Pad Pro 12.6
 
-**联想小新 Pad Pro 2022 骁龙版 (`olivine`):**
+**小新 Pad Pro 2022 骁龙版 (`olivine`):**
 
-`TB138FC`: 联想小新 Pad Pro 2022 骁龙版
+`TB138FC`: 小新 Pad Pro 2022 骁龙版
 
-**联想小新 Pad Pro 2022 迅鲲版 (`onyx`):**
+**小新 Pad Pro 2022 迅鲲版 (`onyx`):**
 
-`TB132FU`: 联想小新 Pad Pro 2022 迅鲲版
+`TB132FU`: 小新 Pad Pro 2022 迅鲲版
 
-`TB371FC`: 联想小新 Pad Pro 12.7 骁龙版
+**小新 Pad Pro 12.7 骁龙版 (`spinel`):**
 
-**联想小新 Pad Pro 12.7 天玑版 (`spruce`):**
+`TB371FC`: 小新 Pad Pro 12.7 骁龙版
 
-`TB370FU`: 联想小新 Pad Pro 12.7 天玑版
+**小新 Pad Pro 12.7 天玑版 (`spruce`):**
 
-**联想小新 Pad Pro 12.7 2025:**
+`TB370FU`: 小新 Pad Pro 12.7 天玑版
 
-`TB375FC`: 联想小新 Pad Pro 12.7 2025
+**小新 Pad Pro 12.7 2025:**
 
-**联想小新 Pad Studio (`calla`):**
+`TB375FC`: 小新 Pad Pro 12.7 2025
 
-`TB351FU`: 联想小新 Pad Studio
+**小新 Pad Studio (`calla`):**
 
-**联想小新学习平板 (`spruce`):**
+`TB351FU`: 小新 Pad Studio
 
-`TB372FC`: 联想小新学习平板 12.7
+**小新学习平板 (`spruce`):**
 
-**联想 YOGA Tab 3:**
+`TB372FC`: 小新学习平板 12.7
 
-`Lenovo YT3-850F`: 联想 YOGA Tab 3 8” Wi-Fi 版
+**YOGA Tab 3:**
 
-`Lenovo YT3-850L`: 联想 YOGA Tab 3 8” LTE 版
+`Lenovo YT3-850F`: YOGA Tab 3 8” Wi-Fi 版
 
-`Lenovo YT3-X50F`: 联想 YOGA Tab 3 10” Wi-Fi 版
+`Lenovo YT3-850L`: YOGA Tab 3 8” LTE 版
 
-`Lenovo YT3-X50L`: 联想 YOGA Tab 3 10” LTE 版
+`Lenovo YT3-X50F`: YOGA Tab 3 10” Wi-Fi 版
 
-**联想 YOGA Tab 3 Plus:**
+`Lenovo YT3-X50L`: YOGA Tab 3 10” LTE 版
 
-`Lenovo YT-X703F`: 联想 YOGA Tab 3 Plus Wi-Fi 版
+**YOGA Tab 3 Plus:**
 
-`Lenovo YT-X703L`: 联想 YOGA Tab 3 Plus LTE 版
+`Lenovo YT-X703F`: YOGA Tab 3 Plus Wi-Fi 版
 
-**联想 YOGA Tab 3 PRO:**
+`Lenovo YT-X703L`: YOGA Tab 3 Plus LTE 版
 
-`Lenovo YT3-X90F`: 联想 YOGA Tab 3 PRO 10” Wi-Fi 版
+**YOGA Tab 3 PRO:**
 
-`Lenovo YT3-X90L`: 联想 YOGA Tab 3 PRO 10” LTE 版
+`Lenovo YT3-X90F`: YOGA Tab 3 PRO 10” Wi-Fi 版
 
-**联想 YOGA Pad Pro (`bladex`):**
+`Lenovo YT3-X90L`: YOGA Tab 3 PRO 10” LTE 版
 
-`Lenovo YT-K606F`: 联想 YOGA Pad Pro
+**YOGA Pad Pro (`bladex`):**
 
-**联想 YOGA Paper 墨水平板:**
+`Lenovo YT-K606F`: YOGA Pad Pro
 
-`SP101FU`: 联想 YOGA Paper 墨水平板
+**YOGA Pad Pro AI 元启版 (`lapis`):**
 
-**联想拯救者 Y700 (`p8`) (`pike`):**
+`TB520FU`: YOGA Pad Pro AI 元启版
 
-`Lenovo TB-9707F`: 联想拯救者 Y700 (2022)
+**YOGA Paper 墨水平板:**
 
-**联想拯救者 Y700 2023 (`asphalt`):**
+`SP101FU`: YOGA Paper 墨水平板
 
-`TB320FC`: 联想拯救者 Y700 2023
+**拯救者平板 Y700 (`p8`) (`pike`):**
 
-**联想拯救者 Y700 2025:**
+`Lenovo TB-9707F`: 拯救者平板 Y700 (2022)
 
-`TB321FU`: 联想拯救者 Y700 2025
+**拯救者平板 Y700 2023 (`asphalt`):**
 
-**联想拯救者 Y900 (`inception`):**
+`TB320FC`: 拯救者平板 Y700 2023
 
-`TB570FU` `TB570ZU`: 联想拯救者 Y900
+**拯救者平板 Y700 2025:**
+
+`TB321FU`: 拯救者平板 Y700 2025
+
+**拯救者平板 Y900 (`inception`):**
+
+`TB570FU` `TB570ZU`: 拯救者平板 Y900
 
 **联想天骄平板电脑 (`p11_plus`) (`arnoii`):**
 
@@ -409,3 +415,7 @@
 `Lenovo TB-J606F`: Lenovo Tab K11 11 英寸 Wi-Fi 版
 
 `Lenovo TB-J606N`: Lenovo Tab K11 11 英寸 LTE 版
+
+**ThinkBook Plus Hybrid 2024 (`gem`):**
+
+`TB610FU`: ThinkBook Plus Hybrid 2024 (平板)
