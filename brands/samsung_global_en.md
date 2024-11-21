@@ -713,7 +713,7 @@
 
 `SC-55E`: Galaxy Z Fold6 Japan (NTT Docomo)
 
-**Galaxy Z Fold Special Edition (`q6a`):**
+**Galaxy Z Fold Special Edition (`q6aq`):**
 
 `SM-F958N`: Galaxy Z Fold Special Edition South Korea
 
@@ -1111,7 +1111,7 @@
 
 **Galaxy A16 5G (`a16x`):**
 
-`SM-A166E`: Galaxy A16 5G Global
+`SM-A166E`: Galaxy A16 5G Global (Exynos)
 
 `SM-A166B`: Galaxy A16 5G EU
 
@@ -1124,6 +1124,10 @@
 `SM-A166M`: Galaxy A16 5G Latin America
 
 `SM-A1660`: Galaxy A16 5G HK & TW
+
+**Galaxy A16 5G (`a16xm`):**
+
+`SM-A166P`: Galaxy A16 5G Global (Mediatek)
 
 **Galaxy A2 Core (`a2corelte`):**
 
