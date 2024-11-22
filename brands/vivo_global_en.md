@@ -77,6 +77,14 @@
 
 `V2330`: vivo X Fold3 Pro
 
+**vivo X200:**
+
+`V2415`: vivo X200
+
+**vivo X200 Pro:**
+
+`V2413`: vivo X200 Pro
+
 ## vivo V series
 
 **vivo V15:**

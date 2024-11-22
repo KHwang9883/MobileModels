@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2024-11-22
 - `oppo_global_en` Add OPPO Find X8, Pad 3 Pro.
+- `vivo_global_en` Add vivo X200.
 ## 2024-11-19
 - `honor_global_en` Add HONOR X7c (4G).
 ## 2024-11-05
