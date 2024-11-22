@@ -48,6 +48,10 @@
 
 `21081018SC`: 该设备为 Xiaomi MIX FOLD 系列工程机，配备屏下摄像头。
 
+**[`N18S`] Xiaomi MIX Fold 4 (`goku`):**
+
+`24076PX3BC`: Xiaomi MIX Fold 4 卫星通讯版 (未上市)
+
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
 `M1806D9PW`: 小米平板 4 Plus Wi-Fi 版 (未上市)
