@@ -27,7 +27,7 @@
 
 `CPH2009`: OPPO Find X2 Neo
 
-**OPPO Find X3 Pro:**
+**OPPO Find X3 Pro (`fussi`):**
 
 `CPH2173`: OPPO Find X3 Pro
 
@@ -41,17 +41,25 @@
 
 `CPH2207`: OPPO Find X3 Neo
 
-**OPPO Find X5:**
+**OPPO Find X5 (`luwu`):**
 
 `CPH2307`: OPPO Find X5
 
-**OPPO Find X5 Pro:**
+**OPPO Find X5 Pro (`baize`):**
 
 `CPH2305`: OPPO Find X5 Pro
 
 **OPPO Find X5 Lite:**
 
 `CPH2371`: OPPO Find X5 Lite
+
+**OPPO Find X8 (`yala`):**
+
+`CPH2651`: OPPO Find X8
+
+**OPPO Find X8 Pro (`konka`):**
+
+`CPH2659`: OPPO Find X8 Pro
 
 ## Find N series
 
@@ -389,7 +397,9 @@
 
 `CPH1837`: OPPO A3
 
-`CPH2639`: OPPO A3 5G
+`CPH2669`: OPPO A3 (2024)
+
+`CPH2639` `CPH2683`: OPPO A3 5G
 
 `A402OP`: OPPO A3 5G (SoftBank)
 
@@ -399,7 +409,9 @@
 
 **OPPO A3x:**
 
-`CPH2641` `CPH2681`: OPPO A3x 5G
+`CPH2641`: OPPO A3x
+
+`CPH2681`: OPPO A3x 5G
 
 **OPPO A3 Pro:**
 
@@ -672,6 +684,10 @@
 `OPD2302`: OPPO Pad Neo Wi-Fi
 
 `OPD2303`: OPPO Pad Neo LTE
+
+**OPPO Pad 3 Pro (`caihong`):**
+
+`OPD2402`: OPPO Pad 3 Pro
 
 ## Watch/Band series
 
