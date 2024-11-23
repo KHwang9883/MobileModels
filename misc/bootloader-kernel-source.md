@@ -59,15 +59,16 @@
     - 部分机型未开源
 
 ## HTC
-- **Bootloader 解锁**: [✅](https://www.htcdev.com/bootloader/)
+- **Bootloader 解锁**: [⏹](https://www.htcdev.com/bootloader/)
 - **解锁等待时长**: 无 (秒解)
-- **解锁后保修状态**: ✅
+- **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
     - **是否支持自定义信任根**: ❌
 - **Linux 内核开源**: [✅](https://www.htcdev.com/devcenter/downloads)
 - **备注**:
     - 解锁需注册 HTCdev 账户
     - 提交后会在几分钟内将解锁文件发至邮箱
+    - 2018 年 6 月之后推出的机型均不支持解锁
 
 ## 联想 (Lenovo)
 - **Bootloader 解锁**: [✅](https://www.zui.com/iunlock)
