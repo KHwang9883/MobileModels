@@ -266,6 +266,14 @@
 
 `PJW110`: OPPO Reno12 Pro
 
+**OPPO Reno13:**
+
+`PKM110`: OPPO Reno13
+
+**OPPO Reno13 Pro:**
+
+`PKK110`: OPPO Reno13 Pro
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -621,6 +629,10 @@
 **OPPO Pad Air2 (`bluey`):**
 
 `OPD2301`: OPPO Pad Air2
+
+**OPPO Pad 3:**
+
+`OPD2405`: OPPO Pad 3
 
 **OPPO Pad 3 Pro (`caihong`):**
 
