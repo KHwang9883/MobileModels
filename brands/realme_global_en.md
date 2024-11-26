@@ -317,6 +317,10 @@
 
 `RMX3853`: realme GT 6T
 
+**realme GT 7 Pro:**
+
+`RMX5011`: realme GT 7 Pro
+
 ## C series
 
 **realme C1:**
