@@ -203,6 +203,22 @@
 
 `ALN-AL10`: HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师
 
+**HUAWEI Mate 70 (`Celestial`):**
+
+`CLS-AL00`: HUAWEI Mate 70
+
+**HUAWEI Mate 70 Pro (`Pillar`):**
+
+`PLR-AL00`: HUAWEI Mate 70 Pro
+
+**HUAWEI Mate 70 Pro+ (`Pillar+`):**
+
+`PLA-AL10`: HUAWEI Mate 70 Pro+
+
+**HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师 (`ULTIMATE DESIGN`):**
+
+`PLU-AL10`: HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -234,18 +250,6 @@
 **HUAWEI Mate XT ULTIMATE DESIGN 非凡大师 (`Greenland`):**
 
 `GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
-
-**HUAWEI Mate 70 (`Celestial`):**
-
-`CLS-AL00`: HUAWEI Mate 70
-
-**HUAWEI Mate 70 Pro (`Pillar`):**
-
-`PLR-AL00`: HUAWEI Mate 70 Pro
-
-**HUAWEI Mate 70 Pro+ (`Pillar+`):**
-
-`PLA-AL10`: HUAWEI Mate 70 Pro+
 
 **HUAWEI Mate X6:**
 
