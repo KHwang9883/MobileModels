@@ -455,6 +455,10 @@
 
 `RMX3782`: realme C67 5G
 
+**realme C75:**
+
+`RMX3941`: realme C75
+
 ## Note series
 
 **realme Note 50:**
