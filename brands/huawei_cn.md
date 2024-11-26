@@ -1149,6 +1149,12 @@
 
 `MRO-AL10`: HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)
 
+**HUAWEI MatePad Pro 13.2 英寸:**
+
+`WEB-W00`: HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版
+
+`WEB-W10`: HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版 (16GB+1TB)
+
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
@@ -2219,7 +2225,9 @@
 
 **HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 
-`CLB-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师
+`CLB-B19`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
+
+`EDD-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
 
 **HUAWEI WATCH GT:**
 

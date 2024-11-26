@@ -1,4 +1,6 @@
 # 更新日志
+## 2024-11-26
+- `huawei_cn` 新增 HUAWEI MatePad Pro 13.2 2025, HUAWEI WATCH 非凡大师 蓝宝石黄金款。
 ## 2024-11-25
 - `oppo_cn` 新增 OPPO Reno13 系列, OPPO Pad 3。
 ## 2024-11-21
