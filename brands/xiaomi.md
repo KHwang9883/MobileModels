@@ -1088,9 +1088,11 @@
 
 `23053RN02Y`: Redmi 12 国际版 (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`) (`river`):**
+**[`M19P`] Redmi 12 5G (`sky`) (`river`):**
 
 `23077RABDC`: Redmi 12 5G 国行版
+
+**[`M19N`] Redmi 12 5G (`sky`) (`river`):**
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
@@ -1176,7 +1178,7 @@
 
 `2409BRN2CI`: Redmi 14C 印度版
 
-`2409BRN2CL`: Redmi 14C 拉美版 / 日本版
+`2409BRN2CL`: Redmi 14C 拉美版 / 日韩版
 
 **[`C3N`] Redmi 14C (`lake`):**
 
@@ -1392,7 +1394,7 @@
 
 `M2003J6A1G`: Redmi Note 9S 国际版
 
-`M2003J6A1R`: Redmi Note 9S 日本版 / Redmi Note 9S 韩国版
+`M2003J6A1R`: Redmi Note 9S 日韩版
 
 `M2003J6A1I`: Redmi Note 9 Pro 印度版
 
@@ -1510,7 +1512,7 @@
 
 `2201117SY`: Redmi Note 11S 国际版 (NFC)
 
-**[`K7B`] Redmi Note 11 SE (`rosemary`) (`secret`):**
+**[`K7BR`] Redmi Note 11 SE (`rosemary`) (`secret`):**
 
 `22087RA4DI`: Redmi Note 11 SE 印度版
 
@@ -1563,6 +1565,8 @@
 **[`M7`] Redmi Note 12 (`tapas`):**
 
 `23021RAAEG`: Redmi Note 12 国际版
+
+**[`M7U`] Redmi Note 12 (`tapas`):**
 
 `23027RAD4I`: Redmi Note 12 印度版
 
@@ -1684,7 +1688,7 @@
 
 `2406ERN9CC`: Redmi Note 13R
 
-**[`N17`] Redmi Note 13R Pro (`gold`):**
+**[`N17A`] Redmi Note 13R Pro (`gold`):**
 
 `2311FRAFDC`: Redmi Note 13R Pro
 
@@ -1864,9 +1868,13 @@
 
 `2407FRK8EC`: Redmi K70 至尊版
 
-**[`O11`] Redmi K80 (`zorn`):**
+**[`O11`] REDMI K80 (`zorn`):**
 
-`24117RK2CC`: Redmi K80
+`24117RK2CC`: REDMI K80
+
+**[`O11U`] REDMI K80 Pro (`miro`):**
+
+`24122RKC7C`: REDMI K80 Pro
 
 ## 其他红米 Redmi 手机
 
@@ -1982,7 +1990,7 @@
 
 `2405CRPFDI`: Redmi Pad Pro Wi-Fi 印度版
 
-`2405CRPFDL`: Redmi Pad Pro Wi-Fi 拉美版
+`2405CRPFDL`: Redmi Pad Pro Wi-Fi 拉美版 / 韩国版
 
 **[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
@@ -2116,9 +2124,21 @@
 
 `2311DRK48I`: POCO X6 Pro 5G 印度版
 
-**[`N17`] POCO X6 Neo (`gold`):**
+**[`N17A`] POCO X6 Neo (`gold`):**
 
 `2312FRAFDI`: POCO X6 Neo 印度版
+
+**[`O16P`] POCO X7 (`malachite`):**
+
+`24095PCADG`: POCO X7 国际版
+
+`24095PCADI`: POCO X7 印度版
+
+**[`O10`] POCO X7 Pro (`rodin`):**
+
+`2412DPC0AG`: POCO X7 Pro 国际版
+
+`2412DPC0AI`: POCO X7 Pro 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
 
@@ -2180,11 +2200,11 @@
 
 `2207117BPG`: POCO M5s 国际版
 
-**[`N19C`] POCO M6 (`moon`):**
+**[`N19AP`] POCO M6 (`moon`):**
 
 `2404APC5FG`: POCO M6 国际版
 
-**[`N19C`] POCO M6 (`moon`) (`tides`):**
+**[`N19AP`] POCO M6 (`moon`) (`tides`):**
 
 `2404APC5FI`: POCO M6 印度版
 
