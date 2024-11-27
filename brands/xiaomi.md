@@ -1876,6 +1876,8 @@
 
 `24122RKC7C`: REDMI K80 Pro
 
+`24127RK2CC`: REDMI K80 Pro 冠军版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
