@@ -174,7 +174,7 @@
 
 **nubia Flip:**
 
-`NX724J`: nubia Flip
+`NX724J`: nubia Flip 5G / nubia Flip 5G S
 
 **nubia 小牛:**
 
@@ -224,17 +224,61 @@
 
 `Z2352N`: nubia Neo 2 5G
 
+**nubia Neo 3:**
+
+`Z2461`: nubia Neo 3
+
+**nubia Neo 3 GT:**
+
+`Z2465N`: nubia Neo 3 GT 5G
+
 **nubia Music:**
 
 `Z2353`: nubia Music
 
-**nubia Blade A72:**
+**nubia Music 2:**
 
-`Z6255CA`: nubia Blade A72
+`Z2460`: nubia Music 2
+
+**nubia Focus:**
+
+`Z2455`: nubia Focus
+
+**nubia Focus 2:**
+
+`Z2462N`: nubia Focus 2 5G
+
+**nubia Focus 2 Ultra:**
+
+`Z2463N`: nubia Focus 2 Ultra 5G
+
+**nubia A75:**
+
+`Z6255CA`: nubia A75
 
 **nubia V50 Vita:**
 
 `nubia 8550`: nubia V50 Vita
+
+**nubia V60:**
+
+`Z2356`: nubia V60
+
+**nubia V60 Design:**
+
+`Z2350`: nubia V60 Design
+
+**nubia V70:**
+
+`Z2459`: nubia V70
+
+**nubia V70 Design:**
+
+`Z2458`: nubia V70 Design
+
+**nubia V70 Max:**
+
+`Z2467`: nubia V70 Max
 
 ## 努比亚平板
 

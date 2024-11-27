@@ -1,5 +1,6 @@
 # 更新日志
 ## 2024-11-27
+- `nubia` 新增部分海外型号。
 - `realme_cn` 新增 真我 Neo7, V60 Pro。
 - `xiaomi` 新增 REDMI K80 系列, Redmi A4 5G 等。
 - `xiaomi-wear` 新增 REDMI Watch 5。
