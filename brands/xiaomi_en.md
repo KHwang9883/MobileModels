@@ -991,9 +991,11 @@
 
 `23053RN02Y`: Redmi 12 Global (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`) (`river`):**
+**[`M19N`] Redmi 12 5G (`sky`) (`river`):**
 
 `23076RN8DY`: Redmi 12 5G Global (NFC)
+
+**[`M19P`] Redmi 12 5G (`sky`) (`river`):**
 
 `23077RABDC`: Redmi 12 5G China
 
@@ -1073,7 +1075,7 @@
 
 `2409BRN2CI`: Redmi 14C India
 
-`2409BRN2CL`: Redmi 14C Latin America / Japan
+`2409BRN2CL`: Redmi 14C Latin America / Japan / Korea
 
 `2409BRN2CC`: Redmi 14C China
 
@@ -1401,7 +1403,7 @@
 
 `2201117SY`: Redmi Note 11S Global (NFC)
 
-**[`K7B`] Redmi Note 11 SE (`rosemary`) (`secret`):**
+**[`K7BR`] Redmi Note 11 SE (`rosemary`) (`secret`):**
 
 `22087RA4DI`: Redmi Note 11 SE India
 
@@ -1454,6 +1456,8 @@
 **[`M7`] Redmi Note 12 (`tapas`):**
 
 `23021RAAEG`: Redmi Note 12 Global
+
+**[`M7U`] Redmi Note 12 (`tapas`):**
 
 `23027RAD4I`: Redmi Note 12 India
 
@@ -1575,7 +1579,7 @@
 
 `2406ERN9CC`: Redmi Note 13R China
 
-**[`N17`] Redmi Note 13R Pro (`gold`):**
+**[`N17A`] Redmi Note 13R Pro (`gold`):**
 
 `2311FRAFDC`: Redmi Note 13R Pro China
 
@@ -1745,9 +1749,13 @@
 
 `2407FRK8EC`: Redmi K70 Ultra China
 
-**[`O11`] Redmi K80 (`zorn`):**
+**[`O11`] REDMI K80 (`zorn`):**
 
-`24117RK2CC`: Redmi K80 China
+`24117RK2CC`: REDMI K80 China
+
+**[`O11U`] REDMI K80 Pro (`miro`):**
+
+`24122RKC7C`: REDMI K80 Pro China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -1947,9 +1955,21 @@
 
 `2311DRK48I`: POCO X6 Pro 5G India
 
-**[`N17`] POCO X6 Neo (`gold`):**
+**[`N17A`] POCO X6 Neo (`gold`):**
 
 `2312FRAFDI`: POCO X6 Neo India
+
+**[`O16P`] POCO X7 (`malachite`):**
+
+`24095PCADG`: POCO X7 Global
+
+`24095PCADI`: POCO X7 India
+
+**[`O10`] POCO X7 Pro (`rodin`):**
+
+`2412DPC0AG`: POCO X7 Pro Global
+
+`2412DPC0AI`: POCO X7 Pro India
 
 **[`J19P`] POCO M2 (`shiva`):**
 
@@ -2011,11 +2031,11 @@
 
 `2207117BPG`: POCO M5s Global
 
-**[`N19C`] POCO M6 (`moon`):**
+**[`N19AP`] POCO M6 (`moon`):**
 
 `2404APC5FG`: POCO M6 Global
 
-**[`N19C`] POCO M6 (`moon`) (`tides`):**
+**[`N19AP`] POCO M6 (`moon`) (`tides`):**
 
 `2404APC5FI`: POCO M6 India
 
@@ -2193,7 +2213,7 @@
 
 `2405CRPFDI`: Redmi Pad Pro Wi-Fi India
 
-`2405CRPFDL`: Redmi Pad Pro Wi-Fi Latin America
+`2405CRPFDL`: Redmi Pad Pro Wi-Fi Latin America / Korea
 
 **[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
