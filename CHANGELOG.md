@@ -2,6 +2,7 @@
 ## 2024-11-27
 - `realme_cn` 新增 真我 Neo7, V60 Pro。
 - `xiaomi` 新增 REDMI K80 系列等。
+- `xiaomi-wear` 新增 REDMI Watch 5。
 ## 2024-11-26
 - `honor_cn` 新增 荣耀 300 系列。
 - `huawei_cn` 新增 HUAWEI Mate 70 RS 非凡大师, HUAWEI MatePad Pro 13.2 2025, HUAWEI WATCH 非凡大师 蓝宝石黄金款。

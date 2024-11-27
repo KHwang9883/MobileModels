@@ -208,6 +208,12 @@
 
 `M2314W1`: Redmi Watch 4
 
+**REDMI Watch 5:**
+
+`M2427W1`: REDMI Watch 5 蓝牙版
+
+`M2428W1`: REDMI Watch 5 eSIM 版
+
 ## POCO 手表（类手环）
 
 **POCO Watch:**
