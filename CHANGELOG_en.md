@@ -1,6 +1,6 @@
 # CHANGELOG
 ## 2024-11-27
-- `xiaomi_en` Add REDMI K80, POCO X7.
+- `xiaomi_en` Add REDMI K80, POCO X7, Redmi A4 5G, POCO C75 5G.
 ## 2024-11-26
 - `realme_global_en` Add realme GT 7 Pro, realme C75.
 ## 2024-11-22

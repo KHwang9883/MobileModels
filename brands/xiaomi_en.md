@@ -1841,6 +1841,10 @@
 
 `2409BRN2CG`: Redmi A3 Pro Global
 
+**[`C3F2`] Redmi A4 5G (`warm`):**
+
+`24116RNC1I`: Redmi A4 5G India
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -2114,6 +2118,10 @@
 **[`C3NP`] POCO C75 (`lake`) (`pond`):**
 
 `2410FPCC5I`: POCO C75 India
+
+**[`C3F2`] POCO C75 5G (`warm`):**
+
+`24116PCC1I`: POCO C75 5G India
 
 ## Tablets
 
