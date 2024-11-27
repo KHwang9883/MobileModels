@@ -1757,6 +1757,8 @@
 
 `24122RKC7C`: REDMI K80 Pro China
 
+`24127RK2CC`: REDMI K80 Pro Automobili Lamborghini Squadra Corse China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
