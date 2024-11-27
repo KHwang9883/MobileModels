@@ -1,7 +1,7 @@
 # 更新日志
 ## 2024-11-27
 - `realme_cn` 新增 真我 Neo7, V60 Pro。
-- `xiaomi` 新增 REDMI K80 系列等。
+- `xiaomi` 新增 REDMI K80 系列, Redmi A4 5G 等。
 - `xiaomi-wear` 新增 REDMI Watch 5。
 ## 2024-11-26
 - `honor_cn` 新增 荣耀 300 系列。

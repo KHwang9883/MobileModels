@@ -1962,6 +1962,10 @@
 
 `2409BRN2CG`: Redmi A3 Pro 国际版
 
+**[`C3F2`] Redmi A4 5G (`warm`):**
+
+`24116RNC1I`: Redmi A4 5G 印度版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -2283,6 +2287,10 @@
 **[`C3NP`] POCO C75 (`lake`) (`pond`):**
 
 `2410FPCC5I`: POCO C75 印度版
+
+**[`C3F2`] POCO C75 5G (`warm`):**
+
+`24116PCC1I`: POCO C75 5G 印度版
 
 ## POCO 平板
 
