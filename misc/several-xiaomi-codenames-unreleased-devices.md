@@ -50,7 +50,7 @@
 
 **[`N18S`] Xiaomi MIX Fold 4 (`goku`):**
 
-`24076PX3BC`: Xiaomi MIX Fold 4 卫星通讯版 (未上市)
+`24076PX3BC`: Xiaomi MIX Fold 4 (无卫星通讯, 未上市)
 
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
