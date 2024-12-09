@@ -45,7 +45,7 @@
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | 2018 年起上市的海外机型 | ⏹ | ⏹ | 英文版 |
 | [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部国行机型 | ⏹ | ❌ | -- |
 | [realme_global_en](brands/realme_global_en.md) | 真我 (realme) | 全部海外机型 | ⏹ | ✅ | 英文版 |
-| [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型 | ✅ | ❌ | [其他早期型号参阅此处](misc/early-samsung-models.md) |
+| [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型，仅包含国行型号 | ✅ | ❌ | [其他早期型号参阅此处](misc/early-samsung-models.md) |
 | [samsung_global_en](brands/samsung_global_en.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/F 系列，2019 年起上市的机型 | ✅ | ⏹ | 英文版 |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
