@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-10
+- `honor_global_en` Add HONOR X9c Smart.
 ## 2024-11-27
 - `xiaomi_en` Add REDMI K80, POCO X7, Redmi A4 5G, POCO C75 5G.
 ## 2024-11-26

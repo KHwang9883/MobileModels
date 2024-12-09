@@ -391,6 +391,10 @@
 
 `BRP-NX1`: HONOR X9c
 
+**HONOR X9c Smart (`Bruce`):**
+
+`BRC-NX1`: HONOR X9c Smart
+
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8
