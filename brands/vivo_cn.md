@@ -1062,6 +1062,10 @@
 
 `V2352A`: iQOO Z9 Turbo
 
+**iQOO Z9 Turbo 长续航版 (`PD2352G`):**
+
+`V2352GA`: iQOO Z9 Turbo 长续航版
+
 **iQOO Z9 Turbo+ (`PD2417`):**
 
 `V2417A`: iQOO Z9 Turbo+
