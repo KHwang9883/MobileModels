@@ -143,6 +143,10 @@
 
 `ALT-L29`: HUAWEI Mate X3
 
+**HUAWEI Mate X6:**
+
+`ICL-LX9`: HUAWEI Mate X6
+
 ## HUAWEI P/Pura Series
 
 **HUAWEI Ascend P6:**
@@ -441,6 +445,14 @@
 
 `BNE-LX1` `BNE-LX3`: HUAWEI nova 12 SE
 
+**HUAWEI nova 13 (`Blake`):**
+
+`BLK-LX9`: HUAWEI nova 13
+
+**HUAWEI nova 13 Pro:**
+
+`MIS-LX9`: HUAWEI nova 13 Pro
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
@@ -457,9 +469,9 @@
 
 `MGA-LX3`: HUAWEI nova Y72
 
-**HUAWEI nova Y73 (`Goofy`):**
+**HUAWEI nova Y72S (`Goofy`):**
 
-`GFY-LX1`: HUAWEI nova Y73
+`GFY-LX1`: HUAWEI nova Y72S
 
 **HUAWEI nova Y90 (`Cartier`):**
 

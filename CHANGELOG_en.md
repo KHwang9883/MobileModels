@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-13
+- `huawei_global_en` Add HUAWEI Mate X6, nova 13.
 ## 2024-12-10
 - `honor_global_en` Add HONOR X9c Smart.
 ## 2024-11-27
