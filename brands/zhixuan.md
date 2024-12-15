@@ -162,3 +162,7 @@
 **Hi 畅享 70 Plus (`Jerry`):**
 
 `JEY-AN00`: Hi 畅享 70 Plus
+
+**Hi MatePad:**
+
+`BRO-W00`: Hi MatePad
