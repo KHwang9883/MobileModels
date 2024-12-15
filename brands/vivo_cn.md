@@ -222,7 +222,7 @@
 
 `V2405DA`: vivo X200 Pro 卫星通信版
 
-**vivo X200 Pro mini:**
+**vivo X200 Pro mini (`PD2419`):**
 
 `V2419A`: vivo X200 Pro mini
 
@@ -716,7 +716,7 @@
 
 **vivo Y300 (`PD2435`):**
 
-`V2435A`: vivo Y300
+`V2435A`: vivo Y300 5G
 
 **vivo Y300 Pro (`PD2410`):**
 
