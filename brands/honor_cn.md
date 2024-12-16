@@ -1068,6 +1068,12 @@
 
 `NDL-AL00`: 荣耀平板 X9 11 英寸 全网通版
 
+**荣耀平板 V9:**
+
+`ROL-W00`: 荣耀平板 V9 11.5 英寸 Wi-Fi 版
+
+`ROL-W10`: 荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版
+
 **荣耀 Waterplay (`Haydn`):**
 
 `HDN-W09`: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
