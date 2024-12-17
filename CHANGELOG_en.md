@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-17
+- `oneplus_en` Add OnePlus Ace 5 series.
 ## 2024-12-13
 - `huawei_global_en` Add HUAWEI Mate X6, nova 13.
 ## 2024-12-10
