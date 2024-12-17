@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-12-17
 - `honor_cn` 增补 荣耀平板 Z6。
+- `oneplus` 新增 一加 Ace 5 系列。
 - `oppo_cn` 新增 OPPO A5 Pro。
 ## 2024-12-16
 - `honor_cn` 新增 荣耀平板 V9。

@@ -302,6 +302,14 @@
 
 `PJZ110`: OnePlus 13 国行版
 
+**OnePlus Ace 5:**
+
+`PKG110`: OnePlus Ace 5 国行版
+
+**OnePlus Ace 5 Pro:**
+
+`PKR110`: OnePlus Ace 5 Pro 国行版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
