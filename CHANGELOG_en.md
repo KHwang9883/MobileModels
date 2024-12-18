@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-18
+- `realme_global_en` Add realme 14x 5G.
 ## 2024-12-17
 - `oneplus_en` Add OnePlus Ace 5 series.
 ## 2024-12-13

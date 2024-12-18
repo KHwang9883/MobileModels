@@ -217,6 +217,10 @@
 
 `RMX3921`: realme 13 Pro+ 5G
 
+**realme 14x 5G:**
+
+`RMX3940`: realme 14x 5G
+
 ## X series
 
 **realme X:**
