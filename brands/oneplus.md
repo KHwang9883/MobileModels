@@ -302,7 +302,7 @@
 
 `PJZ110`: OnePlus 13 国行版
 
-**OnePlus Ace 5:**
+**OnePlus Ace 5 (`giulia`):**
 
 `PKG110`: OnePlus Ace 5 国行版
 
