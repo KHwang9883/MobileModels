@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-19
+- `oneplus_en` Add OnePlus Pad (CN).
 ## 2024-12-18
 - `realme_global_en` Add realme 14x 5G.
 ## 2024-12-17

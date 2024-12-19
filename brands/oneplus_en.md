@@ -301,7 +301,7 @@
 
 `PJZ110`: OnePlus 13 China
 
-**OnePlus Ace 5:**
+**OnePlus Ace 5 (`giulia`):**
 
 `PKG110`: OnePlus Ace 5 China
 
@@ -427,13 +427,17 @@
 
 **OnePlus Pad (`aries`):**
 
-`OPD2203`: OnePlus Pad
+`OPD2203`: OnePlus Pad (Global)
 
 **OnePlus Pad Go (`bluey`):**
 
 `OPD2304`: OnePlus Pad Go LTE
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
+
+**OnePlus Pad:**
+
+`OPD2407`: OnePlus Pad (China)
 
 **OnePlus Pad 2 / OnePlus Pad Pro (`caihong`) (`rainbow`):**
 
