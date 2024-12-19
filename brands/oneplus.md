@@ -430,13 +430,17 @@
 
 **OnePlus Pad (`aries`):**
 
-`OPD2203`: OnePlus Pad
+`OPD2203`: OnePlus Pad (国际)
 
 **OnePlus Pad Go (`bluey`):**
 
 `OPD2304`: OnePlus Pad Go LTE
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
+
+**OnePlus Pad:**
+
+`OPD2407`: OnePlus Pad (国行)
 
 **OnePlus Pad 2 / OnePlus Pad Pro (`caihong`) (`rainbow`):**
 
