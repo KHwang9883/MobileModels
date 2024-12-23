@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-23
+- `xiaomi_en` Add REDMI Turbo 4.
 ## 2024-12-19
 - `oneplus_en` Add OnePlus Pad (CN).
 ## 2024-12-18

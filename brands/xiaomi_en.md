@@ -1629,6 +1629,10 @@
 
 `24069RA21C`: Redmi Turbo 3 China
 
+**[`O10S`] REDMI Turbo 4 (`rodin`):**
+
+`24129RT7CC`: REDMI Turbo 4 China
+
 **[`F10`] Redmi K20 (`davinci`):**
 
 `M1903F10A`: Redmi K20 China
