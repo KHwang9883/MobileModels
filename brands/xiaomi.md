@@ -1742,6 +1742,10 @@
 
 `24069RA21C`: Redmi Turbo 3
 
+**[`O10S`] REDMI Turbo 4 (`rodin`):**
+
+`24129RT7CC`: REDMI Turbo 4
+
 ## Redmi K 系列
 
 **[`F10`] Redmi K20 (`davinci`):**
