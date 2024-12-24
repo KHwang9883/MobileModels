@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-24
+- `vivo_global_en` Add several new models.
 ## 2024-12-23
 - `xiaomi_en` Add REDMI Turbo 4.
 ## 2024-12-19

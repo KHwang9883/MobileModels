@@ -213,15 +213,33 @@
 
 **vivo V40e:**
 
-`V2403` `V2418`: vivo V40e
+`V2403`: vivo V40e
 
 **vivo V40 Lite:**
 
-`V2341`: vivo V40 Lite
+`V2341` `V2424`: vivo V40 Lite
+
+`V2417` `V2418`: vivo V40 Lite 5G
 
 **vivo V40 SE:**
 
-`V2337` `V2342`: vivo V40 SE 5G
+`V2342`: vivo V40 SE
+
+`V2337`: vivo V40 SE 5G
+
+`V2418`: vivo V40 SE 80W
+
+**vivo V50:**
+
+`V2427`: vivo V50
+
+**vivo V50e:**
+
+`V2428`: vivo V50e
+
+**vivo V50 Lite:**
+
+`V2440`: vivo V50 Lite
 
 ## vivo S series
 
@@ -507,6 +525,10 @@
 
 `V2407`: vivo Y28e 5G
 
+**vivo Y29:**
+
+`V2420`: vivo Y29 5G
+
 **vivo Y30:**
 
 `V2160`: vivo Y30 5G
@@ -545,6 +567,10 @@
 
 `V2343`: vivo Y38 5G
 
+**vivo Y39:**
+
+`V2444`: vivo Y39 5G
+
 **vivo Y51:**
 
 `V2024` `V2030` `V2035`: vivo Y51
@@ -574,6 +600,10 @@
 **vivo Y58:**
 
 `V2355`: vivo Y58 5G
+
+**vivo Y59:**
+
+`V2443`: vivo Y59 5G
 
 **vivo Y72:**
 
