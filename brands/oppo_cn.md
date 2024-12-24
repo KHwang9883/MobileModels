@@ -258,19 +258,19 @@
 
 `PJJ110`: OPPO Reno11 Pro
 
-**OPPO Reno12 (`omega`, `omega-c1`):**
+**OPPO Reno12 (`omega`) (`omega-c1`):**
 
 `PJV110`: OPPO Reno12
 
-**OPPO Reno12 Pro (`omega`, `omega-c1`):**
+**OPPO Reno12 Pro (`omega`) (`omega-c1`):**
 
 `PJW110`: OPPO Reno12 Pro
 
-**OPPO Reno13 (`milkyway`, `milkyway-c2`):**
+**OPPO Reno13 (`milkyway`) (`milkyway-c2`):**
 
 `PKM110`: OPPO Reno13
 
-**OPPO Reno13 Pro (`milkyway`, `milkyway-c1`):**
+**OPPO Reno13 Pro (`milkyway`) (`milkyway-c1`):**
 
 `PKK110`: OPPO Reno13 Pro
 
@@ -538,7 +538,7 @@
 
 `PJY110`: OPPO A3 Pro
 
-**OPPO A5 Pro (`alpha`, `alpha-h`):**
+**OPPO A5 Pro (`alpha`) (`alpha-h`):**
 
 `PKP110`: OPPO A5 Pro
 
