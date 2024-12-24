@@ -718,6 +718,10 @@
 
 `ALT-AN00`: 荣耀 Play9T 5G
 
+**荣耀 Play9T Pro:**
+
+`LYN-AN00`: 荣耀 Play9T Pro 5G
+
 **荣耀 Play9C (`Judy`):**
 
 `JDY-AN00`: 荣耀 Play9C 5G
