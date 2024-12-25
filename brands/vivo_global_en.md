@@ -703,6 +703,10 @@
 
 `I2220`: iQOO 12
 
+**iQOO 13:**
+
+`I2401`: iQOO 13
+
 **iQOO Neo6:**
 
 `I2202`: iQOO Neo6
