@@ -698,9 +698,9 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
-**vivo Y100+ / vivo Y200i (`PD2354`):**
+**vivo Y100+ / vivo Y200i / vivo Y200+ (`PD2354`):**
 
-`V2354A`: vivo Y100+ 5G / vivo Y200i 5G
+`V2354A`: vivo Y100+ 5G / vivo Y200i 5G / vivo Y200+ 5G
 
 **vivo Y200 (`PD2343`):**
 
