@@ -1083,9 +1083,17 @@
 
 `2409BRN2CY`: Redmi 14C Global (NFC)
 
-**[`C3F`] Redmi 14R 5G (`flame`):**
+**[`C3F`] Redmi 14C 5G (`blaze`):**
+
+`2411DRN47G`: Redmi 14C 5G Global
+
+`2411DRN47R`: Redmi 14C 5G Japan
+
+**[`C3F`] Redmi 14C 5G / Redmi 14R 5G (`flame`):**
 
 `2411DRN47C`: Redmi 14R 5G China
+
+`2411DRN47I`: Redmi 14C 5G India
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 

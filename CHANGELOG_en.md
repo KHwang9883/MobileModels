@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2024-12-27
+- `xiaomi_en` Add Redmi 14C 5G.
 ## 2024-12-24
 - `vivo_global_en` Add several new models.
 ## 2024-12-23
