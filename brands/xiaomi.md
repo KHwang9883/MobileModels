@@ -1184,7 +1184,7 @@
 
 `2409BRN2CY`: Redmi 14C 国际版 (NFC)
 
-**[`C3F`] Redmi 14C 5G (`blaze`):**
+**[`C3F`] Redmi 14C 5G (`flame`) (`blaze`):**
 
 `2411DRN47G`: Redmi 14C 5G 国际版
 
