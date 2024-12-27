@@ -1,6 +1,7 @@
 # 更新日志
 ## 2024-12-27
 - `vivo_cn` 新增 vivo Y200+。
+- `xiaomi` 新增 Redmi 14C 5G 海外版。
 ## 2024-12-24
 - `honor_cn` 新增 荣耀 Play9T Pro。
 ## 2024-12-23

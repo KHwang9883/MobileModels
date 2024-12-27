@@ -1184,9 +1184,17 @@
 
 `2409BRN2CY`: Redmi 14C 国际版 (NFC)
 
-**[`C3F`] Redmi 14R 5G (`flame`):**
+**[`C3F`] Redmi 14C 5G (`blaze`):**
 
-`2411DRN47C`: Redmi 14R 5G
+`2411DRN47G`: Redmi 14C 5G 国际版
+
+`2411DRN47R`: Redmi 14C 5G 日本版
+
+**[`C3F`] Redmi 14C 5G / Redmi 14R 5G (`flame`):**
+
+`2411DRN47C`: Redmi 14R 5G 国行版
+
+`2411DRN47I`: Redmi 14C 5G 印度版
 
 ## 红米 / Redmi Note 系列
 
