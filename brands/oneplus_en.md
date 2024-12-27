@@ -305,7 +305,7 @@
 
 `PKG110`: OnePlus Ace 5 China
 
-**OnePlus Ace 5 Pro:**
+**OnePlus Ace 5 Pro (`hummer`):**
 
 `PKR110`: OnePlus Ace 5 Pro China
 
