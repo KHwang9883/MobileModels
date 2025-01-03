@@ -285,6 +285,18 @@
 
 `CPH2637`: OPPO Reno12 F 5G / OPPO Reno12 FS 5G
 
+**OPPO Reno13:**
+
+`CPH2689`: OPPO Reno13 5G
+
+**OPPO Reno13 Pro:**
+
+`CPH2697`: OPPO Reno13 Pro 5G
+
+**OPPO Reno13 F:**
+
+`CPH2701`: OPPO Reno13 F 5G
+
 ## F series
 
 **OPPO F7:**

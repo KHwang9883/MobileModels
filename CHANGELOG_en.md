@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2025-01-03
+- `oppo_global_en` Add OPPO Reno13 series.
 ## 2024-12-27
 - `xiaomi_en` Add Redmi 14C 5G.
 ## 2024-12-24
