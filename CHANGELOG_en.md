@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2025-01-07
+- `samsung_global_en` Add Galaxy A16.
 ## 2025-01-03
 - `oppo_global_en` Add OPPO Reno13 series.
 ## 2024-12-27

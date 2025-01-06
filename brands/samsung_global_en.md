@@ -1109,6 +1109,12 @@
 
 `SM-A1560`: Galaxy A15 5G HK & TW
 
+**Galaxy A16 (`a16`):**
+
+`SM-A165F`: Galaxy A16 Global
+
+`SM-A165N`: Galaxy A16 South Korea
+
 **Galaxy A16 5G (`a16x`):**
 
 `SM-A166E`: Galaxy A16 5G Global (Exynos)
@@ -1120,6 +1126,8 @@
 `SM-A166U1`: Galaxy A16 5G US Unlocked
 
 `SM-S166V`: Galaxy A16 5G TracFone
+
+`SM-A166W`: Galaxy A16 5G Canada
 
 `SM-A166M`: Galaxy A16 5G Latin America
 
@@ -1716,8 +1724,6 @@
 **Galaxy M15 5G (`m15x`):**
 
 `SM-M156B`: Galaxy M15 5G Global
-
-`SM-E156B`: Galaxy M15 5G India
 
 **Galaxy M20 (`m20`):**
 
