@@ -1591,6 +1591,14 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro China
 
+**[`O7`] Redmi Note 14 (`tanzanite`):**
+
+`24117RN76G` `24117RN76E`: Redmi Note 14 Global
+
+`24117RN76L`: Redmi Note 14 Latin America
+
+`24117RN76O`: Redmi Note 14 Global (NFC)
+
 **[`O17`] Redmi Note 14 5G (`beryl`) (`citrine`):**
 
 `24094RAD4G`: Redmi Note 14 5G Global

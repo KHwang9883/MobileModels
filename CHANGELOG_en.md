@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2025-01-11
+- `xiaomi_en` Add Redmi Note 14 Global.
 ## 2025-01-07
 - `samsung_global_en` Add Galaxy A16.
 ## 2025-01-03
