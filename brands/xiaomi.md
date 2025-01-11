@@ -1700,6 +1700,14 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro
 
+**[`O7`] Redmi Note 14 (`tanzanite`):**
+
+`24117RN76G` `24117RN76E`: Redmi Note 14 国际版
+
+`24117RN76L`: Redmi Note 14 拉美版
+
+`24117RN76O`: Redmi Note 14 国际版 (NFC)
+
 **[`O17`] Redmi Note 14 5G (`beryl`):**
 
 `24094RAD4C`: Redmi Note 14 5G 国行版
