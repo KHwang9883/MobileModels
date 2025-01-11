@@ -269,7 +269,7 @@
 
 `2107119DC`: Mi 11 LE China
 
-**[`K11`] Mi 11i (`haydn`):**
+**[`K11`] Mi 11i (`haydn`) (`haydnpro`):**
 
 `M2012K11G`: Mi 11i Global
 
@@ -1613,7 +1613,7 @@
 
 `24116RACCG`: Redmi Note 14 Pro Global
 
-**[`O16`] Redmi Note 14 Pro (`malachite`):**
+**[`O16`] Redmi Note 14 Pro 5G (`malachite`):**
 
 `24090RA29G`: Redmi Note 14 Pro 5G Global
 
@@ -1705,9 +1705,13 @@
 
 `M2012K11AC`: Redmi K40 China
 
-**[`K11`] Redmi K40 Pro / Redmi K40 Pro+ (`haydn`):**
+**[`K11`] Redmi K40 Pro (`haydn`):**
 
-`M2012K11C`: Redmi K40 Pro China / Redmi K40 Pro+ China
+`M2012K11C`: Redmi K40 Pro China
+
+**[`K11`] Redmi K40 Pro+ (`haydn`) (`haydnpro`):**
+
+`M2012K11Q`: Redmi K40 Pro+ China
 
 **[`K10`] Redmi K40 Gaming (`ares`):**
 
