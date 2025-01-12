@@ -272,7 +272,7 @@
 
 `2109119DI`: Xiaomi 11 Lite NE 5G 印度版
 
-**[`K11`] 小米 11i (`haydn`):**
+**[`K11`] 小米 11i (`haydn`) (`haydnpro`):**
 
 `M2012K11G`: 小米 11i 国际版
 
@@ -1824,9 +1824,13 @@
 
 `M2012K11AC`: Redmi K40
 
-**[`K11`] Redmi K40 Pro / Redmi K40 Pro+ (`haydn`):**
+**[`K11`] Redmi K40 Pro (`haydn`):**
 
-`M2012K11C`: Redmi K40 Pro / Redmi K40 Pro+
+`M2012K11C`: Redmi K40 Pro
+
+**[`K11`] Redmi K40 Pro+ (`haydn`) (`haydnpro`):**
+
+`M2012K11C`: Redmi K40 Pro+
 
 **[`K10`] Redmi K40 游戏增强版 (`ares`):**
 
