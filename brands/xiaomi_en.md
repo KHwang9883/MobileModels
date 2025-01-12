@@ -1621,7 +1621,7 @@
 
 `24090RA29C`: Redmi Note 14 Pro 5G China
 
-**[`O16U`] Redmi Note 14 Pro+ (`amethyst`):**
+**[`O16U`] Redmi Note 14 Pro+ 5G (`amethyst`):**
 
 `24115RA8EG`: Redmi Note 14 Pro+ 5G Global
 
@@ -1711,7 +1711,7 @@
 
 **[`K11`] Redmi K40 Pro+ (`haydn`) (`haydnpro`):**
 
-`M2012K11Q`: Redmi K40 Pro+ China
+`M2012K11C`: Redmi K40 Pro+ China
 
 **[`K10`] Redmi K40 Gaming (`ares`):**
 
