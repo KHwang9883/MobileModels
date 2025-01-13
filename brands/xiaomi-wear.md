@@ -110,6 +110,10 @@
 
 ## 小米手表（类手环）
 
+**Mi Watch Lite:**
+
+`REDMIWT02`: Mi Watch Lite 国际版
+
 **小米手表 Color:**
 
 `XMWT06`: 小米手表 Color
@@ -124,11 +128,19 @@
 
 **Xiaomi Watch S1:**
 
-`M2108W1`: Xiaomi Watch S1
+`M2108W1`: Xiaomi Watch S1 国行版
+
+`M2112W1`: Xiaomi Watch S1 国际版
 
 **Xiaomi Watch S1 Pro:**
 
-`M2134W1`: Xiaomi Watch S1 Pro
+`M2134W1`: Xiaomi Watch S1 Pro 国行版
+
+`M2135W1`: Xiaomi Watch S1 Pro 国际版
+
+**Xiaomi Watch S1 Active:**
+
+`M2116W1`: Xiaomi Watch S1 Active 国际版
 
 **Xiaomi Watch S2:**
 
@@ -138,9 +150,11 @@
 
 **[`N62`] Xiaomi Watch S3:**
 
-`M2313W1`: Xiaomi Watch S3 蓝牙版
+`M2313W1`: Xiaomi Watch S3 蓝牙版 国行版
 
-`M2311W1`: Xiaomi Watch S3 eSIM 版
+`M2311W1`: Xiaomi Watch S3 eSIM 版 国行版
+
+`M2323W1`: Xiaomi Watch S3 蓝牙版 国际版
 
 **Xiaomi Watch S4:**
 
@@ -166,7 +180,7 @@
 
 `HMSH01GE`: Redmi 手环
 
-**Redmi Smart Band Pro:**
+**[`K67`] Redmi Smart Band Pro:**
 
 `M2101B1`: Redmi Smart Band Pro 国际版
 
@@ -194,11 +208,17 @@
 
 **Redmi Watch 3:**
 
-`M2215W1`: Redmi Watch 3
+`M2215W1`: Redmi Watch 3 国行版
+
+`M2216W1`: Redmi Watch 3 国际版
 
 **Redmi Watch 3 青春版:**
 
 `M2309W1`: Redmi Watch 3 青春版
+
+**Redmi Watch 3 Lite:**
+
+`M2247W1`: Redmi Watch 3 Lite 国际版
 
 **[`M65A`] Redmi Watch 3 Active:**
 
@@ -206,7 +226,9 @@
 
 **[`N65`] Redmi Watch 4:**
 
-`M2314W1`: Redmi Watch 4
+`M2314W1`: Redmi Watch 4 国行版
+
+`M2315W1`: Redmi Watch 4 国际版
 
 **REDMI Watch 5:**
 
