@@ -1,6 +1,7 @@
 # 小米穿戴设备型号汇总
 
-- 汇总范围: 小米/Redmi 手表、手环等穿戴设备
+- 汇总范围: 小米/Redmi 手表、手环、TWS 等穿戴设备
+- 注: TWS 不包含外包型号
 - codename: ⏹
 - 是否包含海外机型: ✅
 
@@ -132,7 +133,7 @@
 
 `M2112W1`: Xiaomi Watch S1 国际版
 
-**Xiaomi Watch S1 Pro:**
+**[`L61`] Xiaomi Watch S1 Pro:**
 
 `M2134W1`: Xiaomi Watch S1 Pro 国行版
 
@@ -156,7 +157,7 @@
 
 `M2323W1`: Xiaomi Watch S3 蓝牙版 国际版
 
-**Xiaomi Watch S4:**
+**[`O62`] Xiaomi Watch S4:**
 
 `M2425W1`: Xiaomi Watch S4 蓝牙版
 
@@ -230,14 +231,130 @@
 
 `M2315W1`: Redmi Watch 4 国际版
 
-**REDMI Watch 5:**
+**[`O65`] REDMI Watch 5:**
 
 `M2427W1`: REDMI Watch 5 蓝牙版
 
 `M2428W1`: REDMI Watch 5 eSIM 版
+
+**Redmi Watch 5 Active:**
+
+`M2351W1`: Redmi Watch 5 Active 印度版
 
 ## POCO 手表（类手环）
 
 **POCO Watch:**
 
 `M2131W1`: POCO Watch
+
+## Xiaomi TWS
+
+**Xiaomi 真无线降噪耳机 3:**
+
+`M2111E1`: Xiaomi 真无线降噪耳机 3
+
+**Xiaomi 真无线降噪耳机 3 Pro:**
+
+`M2103E1`: Xiaomi 真无线降噪耳机 3 Pro
+
+**Xiaomi Buds 3T Pro:**
+
+`M2115E1`: Xiaomi Buds 3T Pro 国际版
+
+**Xiaomi Air3 SE:**
+
+`M2301E1`: Xiaomi Air3 SE
+
+**Xiaomi Buds 4:**
+
+`M2224E1`: Xiaomi Buds 4
+
+**[`L71`] Xiaomi Buds 4 Pro:**
+
+`M2126E1`: Xiaomi Buds 4 Pro
+
+**Xiaomi 开放式耳机:**
+
+`M2319E1`: Xiaomi 开放式耳机
+
+**小米 Air4 SE:**
+
+`M2419E1`: 小米 Air4 SE
+
+**Xiaomi Buds 5:**
+
+`M2341E1`: Xiaomi Buds 5
+
+## Redmi TWS
+
+**Redmi Buds 3:**
+
+`M2104E1`: Redmi Buds 3
+
+**Redmi Buds 3 青春版:**
+
+`M2110E1`: Redmi Buds 3 青春版
+
+**Redmi Buds 3 Lite:**
+
+`M2133E1`: Redmi Buds 3 Lite 国际版
+
+**[`L77`] Redmi Buds 4:**
+
+`M2137E1`: Redmi Buds 4
+
+**[`L76`] Redmi Buds 4 Pro:**
+
+`M2132E1`: Redmi Buds 4 Pro
+
+**Redmi Buds 4 青春版:**
+
+`M2231E1`: Redmi Buds 4 青春版
+
+**Redmi Buds 4 活力版:**
+
+`M2310E1`: Redmi Buds 4 活力版
+
+**Redmi Buds 4 Active:**
+
+`M2232E1`: Redmi Buds 4 Active 国际版
+
+**Redmi Buds Essential:**
+
+`M2222E1`: Redmi Buds Essential 国际版
+
+**[`N77`] Redmi Buds 5:**
+
+`M2316E1`: Redmi Buds 5
+
+**[`N76`] Redmi Buds 5 Pro:**
+
+`M2317E1`: Redmi Buds 5 Pro
+
+`M2318E1`: Redmi Buds 5 Pro 电竞版
+
+**[`O77`] Redmi Buds 6:**
+
+`M2429E1`: Redmi Buds 6
+
+**Redmi Buds 6S:**
+
+`M2403E1`: Redmi Buds 6S
+
+**[`O76`] REDMI Buds 6 Pro:**
+
+`M2430E1`: REDMI Buds 6 Pro
+
+`M2431E1`: REDMI Buds 6 Pro 电竞版
+
+**[`N79`] Redmi Buds 6 活力版:**
+
+`M2344E1`: Redmi Buds 6 活力版
+
+**[`N79A`] Redmi Buds 6 青春版:**
+
+`M2349E1`: Redmi Buds 6 青春版
+
+**REDMI Buds SE:**
+
+`M2411E1`: REDMI Buds SE

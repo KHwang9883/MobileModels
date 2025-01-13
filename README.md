@@ -53,7 +53,7 @@
 | [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ❌  | ⏹ | 英文版 |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | -- |
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
-| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环等穿戴设备 | ⏹ | ✅ | -- |
+| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号 |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
