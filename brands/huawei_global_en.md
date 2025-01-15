@@ -449,7 +449,7 @@
 
 `BLK-LX9`: HUAWEI nova 13
 
-**HUAWEI nova 13 Pro:**
+**HUAWEI nova 13 Pro (`MillaS`):**
 
 `MIS-LX9`: HUAWEI nova 13 Pro
 
@@ -707,7 +707,7 @@
 
 `DBY2-L09`: HUAWEI MatePad Air LTE
 
-**HUAWEI MatePad 12 X:**
+**HUAWEI MatePad 12 X (`Banksy`):**
 
 `BKY-W09`: HUAWEI MatePad 12 X Wi-Fi
 
