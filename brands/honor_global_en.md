@@ -213,11 +213,11 @@
 
 `CLK-NX1` `CLK-NX3`: HONOR 90 Smart
 
-**HONOR 200:**
+**HONOR 200 (`Ellie`):**
 
 `ELI-NX9`: HONOR 200
 
-**HONOR 200 Pro:**
+**HONOR 200 Pro (`EllieP`):**
 
 `ELP-NX9`: HONOR 200 Pro
 
