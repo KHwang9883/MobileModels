@@ -691,7 +691,7 @@
 
 `BLK-AL80`: HUAWEI nova 13
 
-**HUAWEI nova 13 Pro:**
+**HUAWEI nova 13 Pro (`MillaS`):**
 
 `MIS-AL00`: HUAWEI nova 13 Pro
 
@@ -1157,7 +1157,7 @@
 
 `MRO-AL10`: HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)
 
-**HUAWEI MatePad Pro 13.2 英寸:**
+**HUAWEI MatePad Pro 13.2 英寸 (`Weber`):**
 
 `WEB-W00`: HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版
 
