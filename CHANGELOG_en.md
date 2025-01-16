@@ -1,6 +1,7 @@
 # CHANGELOG
 ## 2025-01-16
 - `oneplus_en` Add OnePlus 13 series.
+- `oppo_global_en` Add several new models.
 - `realme_global_en` Add realme 14 Pro series.
 ## 2025-01-11
 - `xiaomi_en` Add Redmi Note 14 Global.

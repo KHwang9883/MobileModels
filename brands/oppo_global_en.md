@@ -295,7 +295,9 @@
 
 **OPPO Reno13 F:**
 
-`CPH2701`: OPPO Reno13 F 5G
+`CPH2701`: OPPO Reno13 F
+
+`CPH2699`: OPPO Reno13 F 5G
 
 ## F series
 
@@ -427,7 +429,7 @@
 
 **OPPO A3 Pro:**
 
-`CPH2639` `CPH2665` `CPH2667`: OPPO A3 Pro 5G
+`CPH2639` `CPH2665`: OPPO A3 Pro 5G
 
 **OPPO A5:**
 
@@ -448,6 +450,12 @@
 **OPPO A5 2020:**
 
 `CPH1931` `CPH1933` `CPH1943`: OPPO A5 2020
+
+**OPPO A5 Pro:**
+
+`CPH2711`: OPPO A5 Pro
+
+`CPH2695`: OPPO A5 Pro 5G
 
 **OPPO A7:**
 
