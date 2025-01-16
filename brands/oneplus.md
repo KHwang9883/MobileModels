@@ -302,9 +302,21 @@
 
 `PJZ110`: OnePlus 13 国行版
 
-**OnePlus Ace 5 (`giulia`):**
+`CPH2649`: OnePlus 13 印度版
+
+`CPH2653`: OnePlus 13 欧洲版 / 国际版
+
+`CPH2655`: OnePlus 13 北美版
+
+**OnePlus Ace 5 / OnePlus 13R (`giulia`):**
 
 `PKG110`: OnePlus Ace 5 国行版
+
+`CPH2645`: OnePlus 13R 欧洲版 / 国际版
+
+`CPH2647`: OnePlus 13R 北美版
+
+`CPH2691`: OnePlus 13R 印度版
 
 **OnePlus Ace 5 Pro (`hummer`):**
 
