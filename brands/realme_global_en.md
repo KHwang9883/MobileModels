@@ -666,3 +666,7 @@
 `RMP2204`: realme Pad 2 LTE
 
 `RMP2205`: realme Pad 2 Wi-Fi
+
+**realme Pad 2 Lite:**
+
+`RMP2402`: realme Pad 2 Lite
