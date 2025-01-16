@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2025-01-16
+- `realme_global_en` Add realme 14 Pro series.
 ## 2025-01-11
 - `xiaomi_en` Add Redmi Note 14 Global.
 ## 2025-01-07

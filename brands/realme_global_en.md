@@ -221,6 +221,14 @@
 
 `RMX3940`: realme 14x 5G
 
+**realme 14 Pro 5G:**
+
+`RMX5056`: realme 14 Pro 5G
+
+**realme 14 Pro+ 5G:**
+
+`RMX5051`: realme 14 Pro+ 5G
+
 ## X series
 
 **realme X:**
@@ -453,6 +461,10 @@
 
 `RMX3997`: realme C65 5G
 
+**realme C65s:**
+
+`RMX3939`: realme C65s
+
 **realme C67:**
 
 `RMX3890`: realme C67
@@ -472,6 +484,10 @@
 **realme Note 60:**
 
 `RMX3933`: realme Note 60
+
+**realme Note 60x:**
+
+`RMX3938`: realme Note 60x
 
 ## U series
 
