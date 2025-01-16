@@ -301,9 +301,21 @@
 
 `PJZ110`: OnePlus 13 China
 
-**OnePlus Ace 5 (`giulia`):**
+`CPH2649`: OnePlus 13 India
+
+`CPH2653`: OnePlus 13 Europe / Global
+
+`CPH2655`: OnePlus 13 North America
+
+**OnePlus Ace 5 / OnePlus 13R (`giulia`):**
 
 `PKG110`: OnePlus Ace 5 China
+
+`CPH2645`: OnePlus 13R Europe / Global
+
+`CPH2647`: OnePlus 13R North America
+
+`CPH2691`: OnePlus 13R India
 
 **OnePlus Ace 5 Pro (`hummer`):**
 
