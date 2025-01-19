@@ -2069,6 +2069,16 @@
 
 `HDB5286H`: 华为智慧屏 S5 85
 
+**华为智慧屏 S5 New:**
+
+`HDB525G6`: 华为智慧屏 S5 New 55
+
+`HDB526G6`: 华为智慧屏 S5 New 65
+
+`HDB527G6`: 华为智慧屏 S5 New 75
+
+`HD85KUNM`: 华为智慧屏 S5 New 85
+
 **华为智慧屏 S5 Pro:**
 
 `HD65AJMN`: 华为智慧屏 S5 Pro 65
@@ -2076,6 +2086,14 @@
 `HD75AJMN`: 华为智慧屏 S5 Pro 75
 
 `HD86AJMN`: 华为智慧屏 S5 Pro 86
+
+**华为智慧屏 S5 Pro New:**
+
+`HD65WATN`: 华为智慧屏 S5 Pro New 65
+
+`HD75WATN`: 华为智慧屏 S5 Pro New 75
+
+`HD86WATN`: 华为智慧屏 S5 Pro New 86
 
 **华为智慧屏 SE 系列:**
 
@@ -2146,6 +2164,14 @@
 `HD7XQINA`: 华为 Vision 智慧屏 4 75
 
 `HD8XQINA`: 华为 Vision 智慧屏 4 86
+
+**华为 Vision 智慧屏 4 New:**
+
+`HD65ARIN`: 华为 Vision 智慧屏 4 65
+
+`HD75ARIN`: 华为 Vision 智慧屏 4 75
+
+`HD86ARIN`: 华为 Vision 智慧屏 4 86
 
 **华为 Vision 智慧屏 4 SE:**
 
