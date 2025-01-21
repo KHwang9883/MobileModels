@@ -544,6 +544,10 @@
 
 `SM-A5560`: Galaxy A55 5G
 
+**Galaxy A56 5G (`a56x`):**
+
+`SM-A5660`: Galaxy A56 5G
+
 ## Galaxy F 系列
 
 **Galaxy F52 5G (`f52x`):**
