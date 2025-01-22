@@ -76,7 +76,7 @@
 - **解锁后保修状态**: ⏹
 - **是否支持回锁**: ⏹
     - **是否支持自定义信任根**: ⏹
-- **Linux 内核开源**: ❌
+- **Linux 内核开源**: [⏹](https://support.lenovo.com/us/en/solutions/ht511330-lenovo-open-source-portal)
 - **备注**:
     - 申请解锁文件需登录联想账号
     - 部分设备无需申请解锁文件
@@ -90,7 +90,7 @@
 - **解锁等待时长**: 不详
 - **解锁后保修状态**: 不详
 - **是否支持回锁**: 不详
-- **Linux 内核开源**: ❌
+- **Linux 内核开源**: ⏹
 
 ## LG
 - **Bootloader 解锁**: [❌](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev)
