@@ -722,6 +722,14 @@
 
 `V2410A`: vivo Y300 Pro 5G
 
+**vivo Y300i (`PD2444`):**
+
+`V2444A`: vivo Y300i
+
+**vivo Y300t (`PD2445D`):**
+
+`V2445EA`: vivo Y300t
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
@@ -1073,6 +1081,10 @@
 **iQOO Z9x (`PD2353`):**
 
 `V2353A`: iQOO Z9x
+
+**iQOO Z10x (`PD2445`):**
+
+`V2445A`: iQOO Z10x
 
 ## iQOO U 系列
 
