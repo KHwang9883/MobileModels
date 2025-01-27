@@ -244,6 +244,22 @@
 
 `SM-S9280`: Galaxy S24 Ultra
 
+**Galaxy S25 (`pa1q`):**
+
+`SM-S9310`: Galaxy S25
+
+**Galaxy S25+ (`pa2q`):**
+
+`SM-S9360`: Galaxy S25+
+
+**Galaxy S25 Edge:**
+
+`SM-S9370`: Galaxy S25 Edge
+
+**Galaxy S25 Ultra (`pa3q`):**
+
+`SM-S9380`: Galaxy S25 Ultra
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
