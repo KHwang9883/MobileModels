@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-01-27
+- `samsung_global_en` Add Galaxy S25 series.
 ### 2025-01-16
 - `oneplus_en` Add OnePlus 13 series.
 - `oppo_global_en` Add several new models.

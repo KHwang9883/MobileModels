@@ -463,6 +463,64 @@
 
 `SM-S721N`: Galaxy S24 FE South Korea
 
+**Galaxy S25 (`pa1q`):**
+
+`SM-S931B`: Galaxy S25 Global
+
+`SM-S931U`: Galaxy S25 US Carrier
+
+`SM-S931U1`: Galaxy S25 US Unlocked
+
+`SM-S931W`: Galaxy S25 Canada
+
+`SM-S9310`: Galaxy S25 China
+
+`SM-S931N`: Galaxy S25 South Korea
+
+`SM-S931Q`: Galaxy S25 Japan (SIM Free)
+
+`SM-S931Z`: Galaxy S25 Japan (SoftBank)
+
+`SCG31`: Galaxy S25 Japan (au)
+
+`SC-51F`: Galaxy S25 Japan (NTT Docomo)
+
+**Galaxy S25+ (`pa2q`):**
+
+`SM-S936B`: Galaxy S25+ Global
+
+`SM-S936U`: Galaxy S25+ US Carrier
+
+`SM-S936U1`: Galaxy S25+ US Unlocked
+
+`SM-S936W`: Galaxy S25+ Canada
+
+`SM-S9360`: Galaxy S25+ China
+
+`SM-S936N`: Galaxy S25+ South Korea
+
+**Galaxy S25 Ultra (`pa3q`):**
+
+`SM-S938B`: Galaxy S25 Ultra Global
+
+`SM-S938U`: Galaxy S25 Ultra US Carrier
+
+`SM-S938U1`: Galaxy S25 Ultra US Unlocked
+
+`SM-S938W`: Galaxy S25 Ultra Canada
+
+`SM-S9380`: Galaxy S25 Ultra China
+
+`SM-S938N`: Galaxy S25 Ultra South Korea
+
+`SM-S938Q`: Galaxy S25 Ultra Japan (SIM Free)
+
+`SM-S938Z`: Galaxy S25 Ultra Japan (SoftBank)
+
+`SCG32`: Galaxy S25 Ultra Japan (au)
+
+`SC-52F`: Galaxy S25 Ultra Japan (NTT Docomo)
+
 ## Galaxy Note
 
 **Galaxy Note9 (`crownlte`):**
@@ -1723,7 +1781,7 @@
 
 **Galaxy M15 5G (`m15x`):**
 
-`SM-M156B`: Galaxy M15 5G Global
+`SM-M156B`: Galaxy M15 5G
 
 **Galaxy M20 (`m20`):**
 
