@@ -65,5 +65,7 @@
 | Redmi Book Pro 14 2024 | `N57` | 2024 |
 | Redmi Book Pro 16 2024 | `N56` | 2024 |
 | Redmi G Pro 2024 | `B21` | 2024 |
-| REDMI Book 16 2025 | `M59SR` | 2025 |
-| REDMI Book 14 2025 | `M58S` | 2025 |
+| REDMI Book 16 2025 (2.5K) | `M58S` | 2025 |
+| REDMI Book 14 2025 (2.8K) | `M59SR` | 2025 |
+| REDMI Book 16 2025 (FHD) | `M58AR` | 2025 |
+| REDMI Book 14 2025 (2.2K) | `M59AS` | 2025 |
