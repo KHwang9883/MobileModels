@@ -209,7 +209,7 @@
     - 仅部分地区的设备系统支持免解锁互刷（但支持 ID Attestation 的设备在互刷后会破坏该功能，导致 RKP 模式下 TEE 无法正常获取密钥，从而失效）
 
 ## 索尼 (SONY)
-- **Bootloader 解锁**: [✅](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader)
+- **Bootloader 解锁**: [⏹](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader)
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
@@ -217,6 +217,7 @@
 - **Linux 内核开源**: [✅](https://github.com/sonyxperiadev/kernel)
 - **备注**:
     - 需申请解锁码
+    - 在拨号器输入 `##7378423##`，然后点击 Service info > Configuration > Rooting Status，如显示 `Bootloader unlock allowed: Yes` 则表明可解锁，若为 No 或无此项则不可解锁
     - 部分机型解锁将导致相机永久无法工作
 
 ## 坚果 (Smartisan)
