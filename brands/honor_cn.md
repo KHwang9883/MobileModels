@@ -98,17 +98,17 @@
 
 `BVL-AN20`: 荣耀 Magic6 RSR 保时捷设计
 
-**荣耀 Magic V Flip:**
+**荣耀 Magic V Flip (`Lyra`):**
 
 `LRA-AN00`: 荣耀 Magic V Flip
 
-**荣耀 Magic V3:**
+**荣耀 Magic V3 (`FalconP`):**
 
 `FCP-AN10`: 荣耀 Magic V3
 
 `FCP-AN20`: 荣耀 Magic V3 双卫星版
 
-**荣耀 Magic Vs3:**
+**荣耀 Magic Vs3 (`Falcon`):**
 
 `FLC-AN00`: 荣耀 Magic Vs3
 
