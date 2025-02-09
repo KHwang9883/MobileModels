@@ -275,11 +275,19 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
+**HONOR Magic7 Pro:**
+
+`PTP-N49`: HONOR Magic7 Pro
+
+**PORSCHE DESIGN HONOR Magic7 RSR:**
+
+`PTP-N59`: PORSCHE DESIGN HONOR Magic7 RSR
+
 **HONOR Magic7 Lite (`BruceP`):**
 
 `BRP-NX1M` `BRP-NX3`: HONOR Magic7 Lite
 
-**HONOR Magic V3:**
+**HONOR Magic V3 (`FalconP`):**
 
 `FCP-N49`: HONOR Magic V3
 
@@ -291,7 +299,7 @@
 
 `WOD-LX1` `WOD-LX2` `WOD-LX3`: HONOR X5 Plus
 
-**HONOR X5b:**
+**HONOR X5b (`Goofy`):**
 
 `GFY-LX2` `GFY-LX3`: HONOR X5b
 
@@ -371,6 +379,10 @@
 
 `LLY-LX1` `LLY-LX2` `LLY-LX3`: HONOR X8b
 
+**HONOR X8c:**
+
+`ABR-LX1` `ABR-LX2` `ABR-LX3`: HONOR X8c
+
 **HONOR X9 (`Andy`):**
 
 `ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR X9
@@ -394,6 +406,10 @@
 **HONOR X9c Smart (`Bruce`):**
 
 `BRC-NX1`: HONOR X9c Smart
+
+**HONOR Play9A (`Goofy`):**
+
+`GFY-LX3`: HONOR Play9A
 
 **HONOR Pad 8 (`Hendry`):**
 

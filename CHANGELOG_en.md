@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-02-09
+- `honor_global_en` Add several new models.
 ### 2025-01-27
 - `samsung_global_en` Add Galaxy S25 series.
 ### 2025-01-16
