@@ -228,25 +228,25 @@
 
 **小米电视 EA:**
 
-`L32M7-EA`: 小米电视 EA32 2022 款
+`L32M7-EA`: 小米电视 EA32 2022
 
-`L40M7-EA`: 小米电视 EA40 2022 款
+`L40M7-EA`: 小米电视 EA40 2022
 
-`L43M7-EA`: 小米电视 EA43 2022 款
+`L43M7-EA`: 小米电视 EA43 2022
 
-`L50M7-EA`: 小米电视 EA50 2022 款
+`L50M7-EA`: 小米电视 EA50 2022
 
-`L55M7-EA`: 小米电视 EA55 2022 款
+`L55M7-EA`: 小米电视 EA55 2022
 
-`L58M7-EA`: 小米电视 EA58 2022 款
+`L58M7-EA`: 小米电视 EA58 2022
 
-`L60M7-EA`: 小米电视 EA60 2022 款
+`L60M7-EA`: 小米电视 EA60 2022
 
-`L65M7-EA`: 小米电视 EA65 2022 款
+`L65M7-EA`: 小米电视 EA65 2022
 
-`L70M7-EA`: 小米电视 EA70 2022 款
+`L70M7-EA`: 小米电视 EA70 2022
 
-`L75M7-EA`: 小米电视 EA75 2022 款
+`L75M7-EA`: 小米电视 EA75 2022
 
 `L32MA-E`: 小米电视 EA32 (2023)
 
@@ -280,17 +280,17 @@
 
 **小米电视 ES:**
 
-`L43M7-ES`: 小米电视 ES43 2022 款
+`L43M7-ES`: 小米电视 ES43 2022
 
-`L50M7-ES`: 小米电视 ES50 2022 款
+`L50M7-ES`: 小米电视 ES50 2022
 
-`L55M7-ES`: 小米电视 ES55 2022 款
+`L55M7-ES`: 小米电视 ES55 2022
 
-`L65M7-ES`: 小米电视 ES65 2022 款
+`L65M7-ES`: 小米电视 ES65 2022
 
-`L70M7-ES`: 小米电视 ES70 2022 款
+`L70M7-ES`: 小米电视 ES70 2022
 
-`L75M7-ES`: 小米电视 ES75 2022 款
+`L75M7-ES`: 小米电视 ES75 2022
 
 **小米电视 ES Pro:**
 
@@ -368,15 +368,15 @@
 
 `L100MA-SP`: 小米电视 S Pro 100
 
-**小米电视 S Pro 2025 款:**
+**小米电视 S Pro Mini LED 2025:**
 
-`L65MB-SP`: 小米电视 S Pro 65 Mini LED 2025 款
+`L65MB-SP`: 小米电视 S Pro 65 Mini LED 2025
 
-`L75MB-SP`: 小米电视 S Pro 75 Mini LED 2025 款
+`L75MB-SP`: 小米电视 S Pro 75 Mini LED 2025
 
-`L85MB-SP`: 小米电视 S Pro 85 Mini LED 2025 款
+`L85MB-SP`: 小米电视 S Pro 85 Mini LED 2025
 
-`L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025 款
+`L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025
 
 **小米壁画电视:**
 
@@ -424,55 +424,55 @@
 
 `L65R6-A`: Redmi 智能电视 A65 (2020)
 
-**Redmi 智能电视 A 2022 款:**
+**Redmi 智能电视 A 2022:**
 
-`L32R8-A`: Redmi 智能电视 A32 2022 款
+`L32R8-A`: Redmi 智能电视 A32 2022
 
-`L43R8-A`: Redmi 智能电视 A43 2022 款
+`L43R8-A`: Redmi 智能电视 A43 2022
 
-`L50R8-A`: Redmi 智能电视 A50 2022 款
+`L50R8-A`: Redmi 智能电视 A50 2022
 
-`L55R8-A`: Redmi 智能电视 A55 2022 款
+`L55R8-A`: Redmi 智能电视 A55 2022
 
-`L58R8-A`: Redmi 智能电视 A58 2022 款
+`L58R8-A`: Redmi 智能电视 A58 2022
 
-`L65R8-A`: Redmi 智能电视 A65 2022 款
+`L65R8-A`: Redmi 智能电视 A65 2022
 
-`L70R8-A`: Redmi 智能电视 A70 2022 款
+`L70R8-A`: Redmi 智能电视 A70 2022
 
-`L75R8-A`: Redmi 智能电视 A75 2022 款
+`L75R8-A`: Redmi 智能电视 A75 2022
 
-**Redmi 智能电视 A 2024 款:**
+**Redmi 智能电视 A 2024:**
 
-`L32RA-RA`: Redmi 智能电视 A32 2024 款
+`L32RA-RA`: Redmi 智能电视 A32 2024
 
-`L43RA-RA`: Redmi 智能电视 A43 2024 款
+`L43RA-RA`: Redmi 智能电视 A43 2024
 
-`L50RA-RA`: Redmi 智能电视 A50 2024 款
+`L50RA-RA`: Redmi 智能电视 A50 2024
 
-`L55RA-RA`: Redmi 智能电视 A55 2024 款
+`L55RA-RA`: Redmi 智能电视 A55 2024
 
-`L65RA-RA`: Redmi 智能电视 A65 2024 款
+`L65RA-RA`: Redmi 智能电视 A65 2024
 
-`L70RA-RA`: Redmi 智能电视 A70 2024 款
+`L70RA-RA`: Redmi 智能电视 A70 2024
 
-`L75MA-RA`: Redmi 智能电视 A75 2024 款
+`L75MA-RA`: Redmi 智能电视 A75 2024
 
-**Redmi 智能电视 A 2025 款:**
+**Redmi 智能电视 A 2025:**
 
-`L32RA-RA`: Redmi 智能电视 A32 2025 款
+`L32RA-RA`: Redmi 智能电视 A32 2025
 
-`L43RA-RA`: Redmi 智能电视 A43 2025 款
+`L43RA-RA`: Redmi 智能电视 A43 2025
 
-`L50RB-RA`: Redmi 智能电视 A50 2025 款
+`L50RB-RA`: Redmi 智能电视 A50 2025
 
-`L55RB-RA`: Redmi 智能电视 A55 2025 款
+`L55RB-RA`: Redmi 智能电视 A55 2025
 
-`L65RB-RA`: Redmi 智能电视 A65 2025 款
+`L65RB-RA`: Redmi 智能电视 A65 2025
 
-`L70RB-RA`: Redmi 智能电视 A70 2025 款
+`L70RB-RA`: Redmi 智能电视 A70 2025
 
-`L75MA-RA`: Redmi 智能电视 A75 2025 款
+`L75MA-RA`: Redmi 智能电视 A75 2025
 
 **Redmi 智能电视 A Pro:**
 
@@ -488,6 +488,18 @@
 
 `L75RB-AP`: Redmi 智能电视 A Pro 75 节能版
 
+**REDMI 智能电视 A Pro 2025:**
+
+`L43RB-APE`: REDMI 智能电视 A Pro 43 2025 节能版
+
+`L50RB-APE`: REDMI 智能电视 A Pro 50 2025 节能版
+
+`L55RB-APE`: REDMI 智能电视 A Pro 55 2025 节能版
+
+`L65RB-APE`: REDMI 智能电视 A Pro 65 2025 节能版
+
+`L75RB-APE`: REDMI 智能电视 A Pro 75 2025 节能版
+
 **Redmi 智能电视 X:**
 
 `L50M5-RK`: Redmi 智能电视 X50 (2020)
@@ -496,15 +508,15 @@
 
 `L65M5-RK`: Redmi 智能电视 X65 (2020)
 
-**Redmi 智能电视 X 2022 款:**
+**Redmi 智能电视 X 2022:**
 
-`L50R8-X`: Redmi 智能电视 X50 2022 款
+`L50R8-X`: Redmi 智能电视 X50 2022
 
-`L55R8-X`: Redmi 智能电视 X55 2022 款
+`L55R8-X`: Redmi 智能电视 X55 2022
 
-`L65R8-X`: Redmi 智能电视 X65 2022 款
+`L65R8-X`: Redmi 智能电视 X65 2022
 
-`L75R8-X`: Redmi 智能电视 X75 2022 款
+`L75R8-X`: Redmi 智能电视 X75 2022
 
 `L85RA-RX`: Redmi 智能电视 X85
 
@@ -526,23 +538,23 @@
 
 `L75R9-XT`: Redmi AI 智能电视 X75
 
-**Redmi AI 智能电视 X 2024 款:**
+**Redmi AI 智能电视 X 2024:**
 
-`L55MA-XT`: Redmi AI 智能电视 X55 2024 款
+`L55MA-XT`: Redmi AI 智能电视 X55 2024
 
-`L65MA-XT`: Redmi AI 智能电视 X65 2024 款
+`L65MA-XT`: Redmi AI 智能电视 X65 2024
 
-`L75MA-XT`: Redmi AI 智能电视 X75 2024 款
+`L75MA-XT`: Redmi AI 智能电视 X75 2024
 
-**Redmi 智能电视 X 2025 款:**
+**Redmi 智能电视 X 2025:**
 
-`L55RB-RX`: Redmi 智能电视 X55 2025 款
+`L55RB-RX`: Redmi 智能电视 X55 2025
 
-`L65RB-RX`: Redmi 智能电视 X65 2025 款
+`L65RB-RX`: Redmi 智能电视 X65 2025
 
-`L75RB-RX`: Redmi 智能电视 X75 2025 款
+`L75RB-RX`: Redmi 智能电视 X75 2025
 
-`L85RB-RX`: Redmi 智能电视 X85 2025 款
+`L85RB-RX`: Redmi 智能电视 X85 2025
 
 **Redmi 智能电视 X Pro:**
 
@@ -554,7 +566,7 @@
 
 `L85RA-RX`: Redmi 智能电视 MAX 85 英寸
 
-`L85RB-MAX`: Redmi 智能电视 MAX 85 2025 款
+`L85RB-MAX`: Redmi 智能电视 MAX 85 2025
 
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
 
@@ -566,7 +578,7 @@
 
 **[`N36`] Redmi 智能电视 MAX 100:**
 
-`L100RA-MAX`: Redmi 智能电视 MAX 100 2025 款
+`L100RA-MAX`: Redmi 智能电视 MAX 100 2025
 
 ## 电视主机与盒子
 
