@@ -325,9 +325,9 @@
 
 **HONOR X6b (`Judy`):**
 
-`JDY-LX1` `JDY-LX2` `JDY-LX3`: HONOR X6b
+`JDY-LX1` `JDY-LX2` `JDY-LX3P`: HONOR X6b
 
-`JDY-LX3P`: HONOR X6b Plus
+`JDY-LX3`: HONOR X6b Plus
 
 **HONOR X6b 5G (`Alita`):**
 
