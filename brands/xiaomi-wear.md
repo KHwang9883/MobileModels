@@ -101,15 +101,15 @@
 
 `M2320W1`: Xiaomi Watch 2
 
-**Xiaomi Watch 2 Pro (`axolotl`):**
+**[`M61`] Xiaomi Watch 2 Pro (`axolotl`):**
 
 `M2234W1`: Xiaomi Watch 2 Pro 蓝牙版
 
-**Xiaomi Watch 2 Pro (`axolotlte`):**
+**[`M61`] Xiaomi Watch 2 Pro (`axolotlte`):**
 
 `M2233W1`: Xiaomi Watch 2 Pro LTE
 
-## 小米手表（类手环）
+## 小米手表（RTOS）
 
 **Mi Watch Lite:**
 
@@ -163,7 +163,7 @@
 
 `M2424W1`: Xiaomi Watch S4 eSIM 版
 
-**Xiaomi Watch S4 Sport:**
+**[`N62S`] Xiaomi Watch S4 Sport:**
 
 `M2312W1`: Xiaomi Watch S4 Sport eSIM 版
 
@@ -193,7 +193,7 @@
 
 `M2434B1`: Redmi 手环 3
 
-## Redmi 手表（类手环）
+## Redmi 手表（RTOS）
 
 **Redmi Watch:**
 
@@ -207,13 +207,13 @@
 
 `M2109W1`: Redmi Watch 2 Lite 国际版
 
-**Redmi Watch 3:**
+**[`M65`] Redmi Watch 3:**
 
 `M2215W1`: Redmi Watch 3 国行版
 
 `M2216W1`: Redmi Watch 3 国际版
 
-**Redmi Watch 3 青春版:**
+**[`M65A`] Redmi Watch 3 青春版:**
 
 `M2309W1`: Redmi Watch 3 青春版
 
@@ -241,7 +241,7 @@
 
 `M2351W1`: Redmi Watch 5 Active 印度版
 
-## POCO 手表（类手环）
+## POCO 手表（RTOS）
 
 **POCO Watch:**
 
@@ -249,15 +249,15 @@
 
 ## Xiaomi TWS
 
-**Xiaomi 真无线降噪耳机 3:**
+**[`K75`] Xiaomi 真无线降噪耳机 3:**
 
 `M2111E1`: Xiaomi 真无线降噪耳机 3
 
-**Xiaomi 真无线降噪耳机 3 Pro:**
+**[`K73`] Xiaomi 真无线降噪耳机 3 Pro:**
 
 `M2103E1`: Xiaomi 真无线降噪耳机 3 Pro
 
-**Xiaomi Buds 3T Pro:**
+**[`K73A`] Xiaomi Buds 3T Pro:**
 
 `M2115E1`: Xiaomi Buds 3T Pro 国际版
 
@@ -265,7 +265,7 @@
 
 `M2301E1`: Xiaomi Air3 SE
 
-**Xiaomi Buds 4:**
+**[`M75A`] Xiaomi Buds 4:**
 
 `M2224E1`: Xiaomi Buds 4
 
@@ -273,29 +273,33 @@
 
 `M2126E1`: Xiaomi Buds 4 Pro
 
-**Xiaomi 开放式耳机:**
+**[`N74A`] Xiaomi 开放式耳机:**
 
 `M2319E1`: Xiaomi 开放式耳机
 
-**小米 Air4 SE:**
+**[`N79`] 小米 Air4 SE:**
 
 `M2419E1`: 小米 Air4 SE
 
-**Xiaomi Buds 5:**
+**[`N75`] Xiaomi Buds 5:**
 
 `M2341E1`: Xiaomi Buds 5
 
 ## Redmi TWS
 
+**[`K76`] Redmi AirDots 3 Pro:**
+
+`TWSEJ01ZM`: Redmi AirDots 3 Pro
+
 **Redmi Buds 3:**
 
 `M2104E1`: Redmi Buds 3
 
-**Redmi Buds 3 青春版:**
+**[`K79`] Redmi Buds 3 青春版:**
 
 `M2110E1`: Redmi Buds 3 青春版
 
-**Redmi Buds 3 Lite:**
+**[`K79`] Redmi Buds 3 Lite:**
 
 `M2133E1`: Redmi Buds 3 Lite 国际版
 
@@ -307,17 +311,21 @@
 
 `M2132E1`: Redmi Buds 4 Pro
 
-**Redmi Buds 4 青春版:**
-
-`M2231E1`: Redmi Buds 4 青春版
-
-**Redmi Buds 4 活力版:**
+**[`M79A`] Redmi Buds 4 活力版:**
 
 `M2310E1`: Redmi Buds 4 活力版
 
-**Redmi Buds 4 Active:**
+**[`M79A`] Redmi Buds 4 Active:**
 
 `M2232E1`: Redmi Buds 4 Active 国际版
+
+**[`M79B`] Redmi Buds 4 青春版:**
+
+`M2231E1`: Redmi Buds 4 青春版
+
+**[`M79B`] Redmi Buds 4 Lite:**
+
+`M2236E1`: Redmi Buds 4 Lite 国际版
 
 **Redmi Buds Essential:**
 
@@ -331,19 +339,23 @@
 
 `M2317E1`: Redmi Buds 5 Pro
 
+**[`N76G`] Redmi Buds 5 Pro 电竞版:**
+
 `M2318E1`: Redmi Buds 5 Pro 电竞版
 
 **[`O77`] Redmi Buds 6:**
 
 `M2429E1`: Redmi Buds 6
 
-**Redmi Buds 6S:**
+**[`N79S`] Redmi Buds 6S:**
 
 `M2403E1`: Redmi Buds 6S
 
 **[`O76`] REDMI Buds 6 Pro:**
 
 `M2430E1`: REDMI Buds 6 Pro
+
+**[`O76G`] REDMI Buds 6 Pro 电竞版:**
 
 `M2431E1`: REDMI Buds 6 Pro 电竞版
 
@@ -355,6 +367,24 @@
 
 `M2349E1`: Redmi Buds 6 青春版
 
-**REDMI Buds SE:**
+**[`N79B`] Redmi Buds 6 Play:**
+
+`M2420E1`: Redmi Buds 6 Play 国际版
+
+**[`N79B`] REDMI Buds SE:**
 
 `M2411E1`: REDMI Buds SE
+
+## POCO TWS
+
+**[`K76`] POCO Buds Pro Genshin Impact Edition:**
+
+`TWSEJ01ZM`: POCO Buds Pro Genshin Impact Edition 国际版
+
+**POCO Pods:**
+
+`M2237E1`: POCO Pods 印度版
+
+**POCO Buds X1:**
+
+`M2350E1`: POCO Buds X1 印度版
