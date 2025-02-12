@@ -514,9 +514,9 @@
 
 `PJG110`: OPPO A2 Pro
 
-**OPPO A3:**
+**OPPO A3 / OPPO A3i Plus:**
 
-`PKA110`: OPPO A3 5G (2024)
+`PKA110`: OPPO A3 5G (2024) / OPPO A3i Plus
 
 **OPPO A3 活力版:**
 
@@ -537,6 +537,10 @@
 **OPPO A3 Pro:**
 
 `PJY110`: OPPO A3 Pro
+
+**OPPO A5:**
+
+`PKQ110`: OPPO A5 5G (2025)
 
 **OPPO A5 Pro (`alpha`) (`alpha-h`):**
 

@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-02-12
+- `oppo_cn` 新增 OPPO A5、A3i Plus。
 - `xiaomi-wear` 补全部分产品代号。
 ### 2025-02-11
 - `mitv_cn` 新增 REDMI 智能电视 A Pro 2025。
