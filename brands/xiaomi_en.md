@@ -1593,7 +1593,9 @@
 
 **[`O7`] Redmi Note 14 (`tanzanite`):**
 
-`24117RN76G` `24117RN76E`: Redmi Note 14 Global
+`24117RN76G`: Redmi Note 14 Global
+
+`24117RN76E`: Redmi Note 14 Europe
 
 `24117RN76L`: Redmi Note 14 Latin America
 

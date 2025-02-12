@@ -1702,7 +1702,9 @@
 
 **[`O7`] Redmi Note 14 (`tanzanite`):**
 
-`24117RN76G` `24117RN76E`: Redmi Note 14 国际版
+`24117RN76G`: Redmi Note 14 国际版
+
+`24117RN76E`: Redmi Note 14 欧洲版
 
 `24117RN76L`: Redmi Note 14 拉美版
 
