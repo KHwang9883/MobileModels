@@ -91,6 +91,10 @@
 
 `M2401B1`: 小米手环 9 Pro
 
+**[`N69`] 小米手环 9 Active:**
+
+`M2435B1`: 小米手环 9 Active 国际版
+
 ## 小米智能手表
 
 **小米手表 (`baiji`):**
@@ -240,6 +244,10 @@
 **Redmi Watch 5 Active:**
 
 `M2351W1`: Redmi Watch 5 Active 印度版
+
+**Redmi Watch 5 Lite:**
+
+`M2352W1`: Redmi Watch 5 Lite 印度版
 
 ## POCO 手表（RTOS）
 
