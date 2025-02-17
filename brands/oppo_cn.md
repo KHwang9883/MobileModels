@@ -100,6 +100,12 @@
 
 `PHT110`: OPPO Find N3 Flip
 
+**OPPO Find N5:**
+
+`PKH110`: OPPO Find N5
+
+`PKH120`: OPPO Find N5 卫星通信版
+
 ## Reno 系列
 
 **OPPO Reno:**
@@ -710,10 +716,10 @@
 
 `OWW231`: OPPO Watch X
 
+**OPPO Watch X2 (`xinghe`):**
+
+`OWW251`: OPPO Watch X2
+
 **OPPO Watch (`xingchen`):**
 
 `OWW242`: OPPO Watch
-
-**OPPO Watch (`xinghe`):**
-
-`OWW251`: OPPO Watch
