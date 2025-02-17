@@ -1011,6 +1011,12 @@
 
 `SM-A065M`: Galaxy A06 Latin America
 
+**Galaxy A06 5G (`a06x`):**
+
+`SM-A066E` `SM-A066B`: Galaxy A06 5G Global
+
+`SM-A066M`: Galaxy A06 5G Latin America
+
 **Galaxy A10 (`a10`):**
 
 `SM-A105F` `SM-A015FN` `SM-A015G`: Galaxy A10 Global
@@ -1170,6 +1176,8 @@
 **Galaxy A16 (`a16`):**
 
 `SM-A165F`: Galaxy A16 Global
+
+`SM-A165M`: Galaxy A16 Latin America
 
 `SM-A165N`: Galaxy A16 South Korea
 
@@ -1433,6 +1441,24 @@
 
 `SM-A356N`: Galaxy A35 5G South Korea
 
+**Galaxy A36 5G (`a36xq`):**
+
+`SM-A366E`: Galaxy A36 5G Global
+
+`SM-A366B`: Galaxy A36 5G EU
+
+`SM-A366U`: Galaxy A36 5G US Carrier
+
+`SM-A366U1`: Galaxy A36 5G US Unlocked
+
+`SM-S366V`: Galaxy A36 5G TracFone
+
+`SM-A366W`: Galaxy A36 5G Canada
+
+`SM-A3660`: Galaxy A36 5G HK & TW
+
+`SM-A366N`: Galaxy A36 5G South Korea
+
 **Galaxy A40 (`a40`):**
 
 `SM-A405FN`: Galaxy A40 Global
@@ -1619,6 +1645,14 @@
 
 `SC-53E`: Galaxy A55 5G Japan (NTT Docomo)
 
+**Galaxy A56 5G (`a56x`):**
+
+`SM-A566E`: Galaxy A56 5G Global
+
+`SM-A566B`: Galaxy A56 5G EU
+
+`SM-A5660`: Galaxy A56 5G China
+
 **Galaxy A60 (`a60q`):**
 
 `SM-A606F`: Galaxy A60 Global
@@ -1730,6 +1764,10 @@
 **Galaxy M05 (`a05m`):**
 
 `SM-M055F`: Galaxy M05
+
+**Galaxy M06 5G (`a06x`):**
+
+`SM-M066B`: Galaxy M06 5G
 
 **Galaxy M10 (`m10lte`):**
 
@@ -1919,6 +1957,10 @@
 
 `SM-E055F`: Galaxy F05
 
+**Galaxy F06 5G (`a06x`):**
+
+`SM-E066B`: Galaxy F06 5G
+
 **Galaxy F12 (`f12`):**
 
 `SM-F127G`: Galaxy F12
@@ -1938,6 +1980,10 @@
 **Galaxy F15 5G (`m15x`):**
 
 `SM-E156B`: Galaxy F15 5G
+
+**Galaxy F16 5G (`m16xm`):**
+
+`SM-E166P`: Galaxy F16 5G
 
 **Galaxy F22 (`f22`):**
 
