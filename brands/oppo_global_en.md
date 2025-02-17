@@ -79,6 +79,10 @@
 
 `CPH2519`: OPPO Find N3 Flip
 
+**OPPO Find N5:**
+
+`CPH2671`: OPPO Find N5
+
 ## Reno series
 
 **OPPO Reno:**

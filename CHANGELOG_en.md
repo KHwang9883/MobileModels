@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-02-17
+- `oppo_global_en` Add OPPO Find N5.
 ### 2025-02-09
 - `honor_global_en` Add several new models.
 ### 2025-01-27
