@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-02-18
+- `huawei_global_en` Add HUAWEI Mate XT, MatePad Pro 13.2 2025.
 - `realme_global_en` Add realme P3x, P3 Pro 5G.
 ### 2025-02-17
 - `oppo_global_en` Add OPPO Find N5.

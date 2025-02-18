@@ -147,6 +147,10 @@
 
 `ICL-LX9`: HUAWEI Mate X6
 
+**HUAWEI Mate XT ULTIMATE DESIGN (`Greenland`):**
+
+`GRL-LX9`: HUAWEI Mate XT ULTIMATE DESIGN
+
 ## HUAWEI P/Pura Series
 
 **HUAWEI Ascend P6:**
@@ -736,6 +740,10 @@
 **HUAWEI MatePad Pro 13.2 (`Poincare`):**
 
 `PCE-W29`: HUAWEI MatePad Pro 13.2 Wi-Fi
+
+**HUAWEI MatePad Pro 13.2 2025 (`Weber`):**
+
+`WEB-W09`: HUAWEI MatePad Pro 13.2 2025 Wi-Fi
 
 **HUAWEI MatePad Pro 12.2:**
 
