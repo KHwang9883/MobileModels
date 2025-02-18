@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-02-18
+- `realme_global_en` Add realme P3x, P3 Pro 5G.
 ### 2025-02-17
 - `oppo_global_en` Add OPPO Find N5.
 - `samsung_global_en` Add Galaxy A06 5G, A36 5G, A56 5G.

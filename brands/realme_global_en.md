@@ -513,6 +513,14 @@
 
 `RMX3987`: realme P2 Pro 5G
 
+**realme P3x:**
+
+`RMX3944`: realme P3x 5G
+
+**realme P3 Pro:**
+
+`RMX5032`: realme P3 Pro 5G
+
 ## Narzo series
 
 **realme Narzo (`nemo`):**
