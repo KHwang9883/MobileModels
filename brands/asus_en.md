@@ -315,14 +315,14 @@
 
 **Asus Zenfone 12 Ultra (`AI2501_H`):**
 
-`ASUS_AI2501_H`: ZenFone 12 Ultra
+`ASUSAI2501H`: ZenFone 12 Ultra
 
 **ROG Phone 9 (`AI2501`):**
 
-`ASUS_AI2501_A`: ROG Phone 9 / ROG Phone 9 Pro (CN)
+`ASUSAI2501A`: ROG Phone 9 / ROG Phone 9 Pro (CN)
 
-`ASUS_AI2501_B`: ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / EU)
+`ASUSAI2501B`: ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / EU)
 
-`ASUS_AI2501_C`: ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / ID)
+`ASUSAI2501C`: ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / ID)
 
-`ASUS_AI2501_D`: ROG Phone 9 / ROG Phone 9 Pro (US)
+`ASUSAI2501D`: ROG Phone 9 / ROG Phone 9 Pro (US)

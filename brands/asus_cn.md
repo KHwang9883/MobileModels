@@ -52,7 +52,7 @@
 
 **ROG Phone 9 (`AI2501`):**
 
-`ASUS_AI2501_A`: ROG 游戏手机 9 / ROG 游戏手机 9 Pro
+`ASUSAI2501A`: ROG 游戏手机 9 / ROG 游戏手机 9 Pro
 
 **Smartphone for Snapdragon Insiders:**
 
