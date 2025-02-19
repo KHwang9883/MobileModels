@@ -326,3 +326,7 @@
 `ASUSAI2501C`: ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / ID)
 
 `ASUSAI2501D`: ROG Phone 9 / ROG Phone 9 Pro (US)
+
+**ROG Phone 9 FE (`AI2401`):**
+
+`ASUS_AI2401_N`: ROG Phone 9 FE

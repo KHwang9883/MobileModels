@@ -20,7 +20,8 @@
 | [apple_all](brands/apple_all.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision | ✅ | ✅ | -- |
 | [apple_all_en](brands/apple_all_en.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision | ✅ | ✅ | 英文版 |
 | [apple_cn](brands/apple_cn.md) | Apple | 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision | ✅ | ❌ | -- |
-| [asus](brands/asus.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
+| [asus_cn](brands/asus_cn.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
+| [asus_en](brands/asus_en.md) | 华硕 (ASUS) | ROG Phone/Zenfone | ✅ | ✅ | 英文版 |
 | [blackshark](brands/blackshark.md) | 黑鲨 (Black Shark) | 全部机型 | ✅ | ✅ | -- |
 | [blackshark_en](brands/blackshark_en.md) | 黑鲨 (Black Shark) | 全部机型 | ✅ | ✅ | 英文版 |
 | [coolpad](brands/coolpad.md) | 酷派 (Coolpad) | 酷派近年智能手机机型 | ❌ | ❌ | -- |
