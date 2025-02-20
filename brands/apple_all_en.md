@@ -469,6 +469,16 @@
 
 `A3296`: iPhone 16 Pro Max (Rest of the world)
 
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3212`: iPhone 16e (United States)
+
+`A3408`: iPhone 16e (Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3410`: iPhone 16e (China mainland)
+
+`A3409`: iPhone 16e (Rest of the world)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**

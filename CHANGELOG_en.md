@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-02-20
+- `apple_en` Add iPhone 16e.
 ### 2025-02-19
 - `asus_en` Add ASUS global models.
 ### 2025-02-18
