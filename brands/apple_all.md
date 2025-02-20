@@ -488,6 +488,16 @@
 
 `A3296`: iPhone 16 Pro Max (其他国家和地区)
 
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3212`: iPhone 16e (美国)
+
+`A3408`: iPhone 16e (加拿大, 墨西哥, 部分中东国家)
+
+`A3410`: iPhone 16e (中国大陆)
+
+`A3409`: iPhone 16e (其他国家和地区)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**

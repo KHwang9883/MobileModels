@@ -246,6 +246,10 @@
 
 `A3297`: iPhone 16 Pro Max
 
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3410`: iPhone 16e
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**

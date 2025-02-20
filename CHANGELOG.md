@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-02-20
+- `apple` 新增 iPhone 16e。
 ### 2025-02-17
 - `oppo_cn` 新增 OPPO Find N5。
 - `realme_cn` 新增 真我 Neo7X。
