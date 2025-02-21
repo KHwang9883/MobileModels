@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-02-21
+- `vivo_global_en` Add several new models.
 ### 2025-02-20
 - `apple_en` Add iPhone 16e.
 ### 2025-02-19
