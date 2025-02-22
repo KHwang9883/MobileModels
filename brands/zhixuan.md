@@ -113,6 +113,10 @@
 
 `SUP-BD00`: Hi nova 12 SE 5G
 
+**Hi nova 12z:**
+
+`SPR-BD00`: Hi nova 12z 5G
+
 ## 雷鸟 FFALCON
 
 **雷鸟 FF1:**
