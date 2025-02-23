@@ -143,7 +143,7 @@
 
 `ALT-L29`: HUAWEI Mate X3
 
-**HUAWEI Mate X6:**
+**HUAWEI Mate X6 (`Iceland`):**
 
 `ICL-LX9`: HUAWEI Mate X6
 

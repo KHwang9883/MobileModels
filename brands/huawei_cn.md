@@ -251,7 +251,7 @@
 
 `GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
 
-**HUAWEI Mate X6:**
+**HUAWEI Mate X6 (`Iceland`):**
 
 `ICL-AL10`: HUAWEI Mate X6
 
