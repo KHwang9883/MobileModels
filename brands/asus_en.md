@@ -3,6 +3,8 @@
 - Range: ROG Phone, ZenFone
 - codename: ✅
 
+## Zenfone Series
+
 **Asus Zenfone 4 (`A400CG`):**
 
 `ASUS_T00I`: ZenFone 4 (A400CG)
@@ -215,17 +217,9 @@
 
 `ASUS_X01BDA`: ZenFone Max Pro (M2) (ZB631KL)
 
-**ROG Phone (`ZS600KL`):**
-
-`ASUS_Z01QD`: ROG Phone
-
 **Asus Zenfone 6 (`ZS630KL`):**
 
 `ASUS_I01WD`: ZenFone 6
-
-**ROG Phone II (`ZS660KL`):**
-
-`ASUS_I001DA` `ASUS_I001DB`: ROG Phone 2
 
 **Asus Zenfone 7 (`ZS670KS`):**
 
@@ -235,10 +229,6 @@
 
 `ASUS_I002D`: ZenFone 7 Pro
 
-**ROG Phone 3 (`ZS661KS`):**
-
-`ASUS_I003DD`: ROG Phone 3
-
 **Asus Zenfone 8 (`ZS590KS`):**
 
 `ASUS_I006D`: ZenFone 8
@@ -246,6 +236,42 @@
 **Asus Zenfone 8 Flip (`ZS672KS`):**
 
 `ASUS_I004D`: ZenFone 8 Flip
+
+**Asus Zenfone 9 (`AI2202`):**
+
+`ASUS_AI2202`: ZenFone 9
+
+**Asus Zenfone 10 (`AI2302`):**
+
+`ASUS_AI2302`: ZenFone 10
+
+`JP_AI2302`: ZenFone 10 (Japan)
+
+`EU_AI2302`: ZenFone 10 (Europe)
+
+`WW_AI2302`: ZenFone 10 (Worldwide)
+
+**Asus Zenfone 11 Ultra (`AI2401`):**
+
+`ASUS_AI2401_H`: ZenFone 11 Ultra
+
+**Asus Zenfone 12 Ultra (`AI2501_H`):**
+
+`ASUSAI2501H`: ZenFone 12 Ultra
+
+## ROG Phones
+
+**ROG Phone (`ZS600KL`):**
+
+`ASUS_Z01QD`: ROG Phone
+
+**ROG Phone II (`ZS660KL`):**
+
+`ASUS_I001DA` `ASUS_I001DB`: ROG Phone 2
+
+**ROG Phone 3 (`ZS661KS`):**
+
+`ASUS_I003DD`: ROG Phone 3
 
 **ROG Phone 5 (`ZS673KS`):**
 
@@ -258,14 +284,6 @@
 `ASUS_I005DA`: ROG Phone 5s
 
 `ASUS_I005DB`: ROG Phone 5s Pro
-
-**Smartphone for Snapdragon Insiders:**
-
-`ASUS_I007D`: Smartphone for Snapdragon Insiders
-
-**Asus Zenfone 9 (`AI2202`):**
-
-`ASUS_AI2202`: ZenFone 9
 
 **ROG Phone 6 (`AI2201`):**
 
@@ -283,25 +301,11 @@
 
 `ASUS_AI2203_D`: ROG Phone 6D Ultimate
 
-**Asus Zenfone 10 (`AI2302`):**
-
-`ASUS_AI2302`: ZenFone 10
-
-`JP_AI2302`: ZenFone 10 (Japan)
-
-`EU_AI2302`: ZenFone 10 (Europe)
-
-`WW_AI2302`: ZenFone 10 (Worldwide)
-
 **ROG Phone 7 (`AI2205`):**
 
 `ASUS_AI2205_C`: ROG Phone 7
 
 `ASUS_AI2205_D`: ROG Phone 7 Ultimate
-
-**Asus Zenfone 11 Ultra (`AI2401`):**
-
-`ASUS_AI2401_H`: ZenFone 11 Ultra
 
 **ROG Phone 8 (`AI2401`):**
 
@@ -312,10 +316,6 @@
 `ASUS_AI2401_D`: ROG Phone 8 / ROG Phone 8 Pro (ID / VN / BR / IN / JP / TW / HK / WW)
 
 `ASUS_AI2401_E`: ROG Phone 8 / ROG Phone 8 Pro (US)
-
-**Asus Zenfone 12 Ultra (`AI2501_H`):**
-
-`ASUSAI2501H`: ZenFone 12 Ultra
 
 **ROG Phone 9 (`AI2501`):**
 
@@ -330,3 +330,9 @@
 **ROG Phone 9 FE (`AI2401`):**
 
 `ASUS_AI2401_N`: ROG Phone 9 FE
+
+## Other Devices
+
+**Smartphone for Snapdragon Insiders:**
+
+`ASUS_I007D`: Smartphone for Snapdragon Insiders
