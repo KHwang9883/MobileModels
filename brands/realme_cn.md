@@ -158,9 +158,9 @@
 
 `RMX5080`: 真我 Neo7 SE
 
-**真我 Neo7X:**
+**真我 Neo7x:**
 
-`RMX5071`: 真我 Neo7X
+`RMX5071`: 真我 Neo7x
 
 ## Q 系列
 
