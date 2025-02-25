@@ -30,7 +30,7 @@
 
 **Xperia XZ1c:**
 
-`G8441`: Xperia XZ1
+`G8441`: Xperia XZ1c
 
 **Xperia XA2 Ultra:**
 
