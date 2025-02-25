@@ -28,6 +28,10 @@
 
 `G8342`: Xperia XZ1
 
+**Xperia XZ1c:**
+
+`G8441`: Xperia XZ1c
+
 **Xperia XA2 Ultra:**
 
 `H4233`: Xperia XA2 Ultra
@@ -93,3 +97,15 @@
 **Xperia 5 V:**
 
 `XQ-DE72`: Xperia 5 V
+
+**Xperia 10 V:**
+
+`XQ-DC72`: Xperia 10 V
+
+**Xperia 1 VI:**
+
+`XQ-EC72`: Xperia 1 VI
+
+**Xperia 10 VI:**
+
+`XQ-ES72`: Xperia 10 VI
