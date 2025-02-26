@@ -1372,6 +1372,10 @@
 
 `DRA-72`: 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
 
+**荣耀 MagicBook Pro 14:**
+
+`FMB-P`: 荣耀 MagicBook Pro 14
+
 **荣耀 MagicBook V 14:**
 
 `HGE-W56`: 荣耀 MagicBook V 14 i5
