@@ -30,6 +30,10 @@
 
 `23116PN5BG`: Xiaomi 14 Pro 国际版 (未上市)
 
+**[`O2T`] Xiaomi 15 Pro (`haotian`):**
+
+`24101PNB7C`: Xiaomi 15 Pro 卫星通讯版 (未上市)
+
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
