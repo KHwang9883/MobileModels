@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-02-27
 - `xiaomi` 新增 Xiaomi 15 Ultra。
+- `xiaomi-wear` 新增 Xiaomi Buds 5 Pro。
 ### 2025-02-26
 - `honor_cn` 新增 荣耀 MagicBook Pro 14。
 ### 2025-02-22

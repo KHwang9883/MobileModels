@@ -293,6 +293,12 @@
 
 `M2341E1`: Xiaomi Buds 5
 
+**[`O71`] Xiaomi Buds 5 Pro:**
+
+`M2437E1`: Xiaomi Buds 5 Pro 蓝牙版
+
+`M2438E1`: Xiaomi Buds 5 Pro Wi-Fi 版
+
 ## Redmi TWS
 
 **[`K76`] Redmi AirDots 3 Pro:**
