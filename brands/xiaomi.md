@@ -276,11 +276,11 @@
 
 `M2012K11G`: 小米 11i 国际版
 
-**[`K11A`] 小米 11X (`aliothin`):**
+**[`K11A`] 小米 11X (`alioth`) (`aliothin`):**
 
 `M2012K11AI`: 小米 11X 印度版
 
-**[`K11`] 小米 11X Pro (`haydnin`):**
+**[`K11`] 小米 11X Pro (`haydn`) (`haydnin`):**
 
 `M2012K11I`: 小米 11X Pro 印度版
 
@@ -447,6 +447,16 @@
 **[`O2`] Xiaomi 15 Pro (`haotian`):**
 
 `2410DPN6CC`: Xiaomi 15 Pro
+
+**[`O1`] Xiaomi 15 Ultra (`xuanyuan`):**
+
+`25019PNF3C`: Xiaomi 15 Ultra 国行版
+
+`25010PN30C`: Xiaomi 15 Ultra 双卫星版 国行版
+
+`25010PN30G`: Xiaomi 15 Ultra 国际版
+
+`25010PN30I`: Xiaomi 15 Ultra 印度版
 
 ## 小米 Note 系列
 
