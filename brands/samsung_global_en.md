@@ -1821,6 +1821,10 @@
 
 `SM-M156B`: Galaxy M15 5G
 
+**Galaxy M16 5G (`m16xm`):**
+
+`SM-M166P`: Galaxy M16 5G
+
 **Galaxy M20 (`m20`):**
 
 `SM-M205N`: Galaxy M20 South Korea

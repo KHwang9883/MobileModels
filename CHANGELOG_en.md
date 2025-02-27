@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-02-27
+- `samsung_global_en` Add Galaxy M16 5G.
 ### 2025-02-21
 - `vivo_global_en` Add several new models.
 ### 2025-02-20
