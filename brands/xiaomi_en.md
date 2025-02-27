@@ -273,11 +273,11 @@
 
 `M2012K11G`: Mi 11i Global
 
-**[`K11A`] Mi 11X (`aliothin`):**
+**[`K11A`] Mi 11X (`alioth`) (`aliothin`):**
 
 `M2012K11AI`: Mi 11X India
 
-**[`K11`] Mi 11X Pro (`haydnin`):**
+**[`K11`] Mi 11X Pro (`haydn`) (`haydnin`):**
 
 `M2012K11I`: Mi 11X Pro India
 
@@ -444,6 +444,16 @@
 **[`O2`] Xiaomi 15 Pro (`haotian`):**
 
 `2410DPN6CC`: Xiaomi 15 Pro China
+
+**[`O1`] Xiaomi 15 Ultra (`xuanyuan`):**
+
+`25010PN30G`: Xiaomi 15 Ultra Global
+
+`25010PN30I`: Xiaomi 15 Ultra India
+
+`25019PNF3C`: Xiaomi 15 Ultra China (Tiantong satellite)
+
+`25010PN30C`: Xiaomi 15 Ultra China (Tiantong & Beidou satellites)
 
 **[`X5`] Mi Note (`virgo`):**
 
