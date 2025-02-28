@@ -176,6 +176,12 @@
 
 `NX724J`: nubia Flip 5G / nubia Flip 5G S
 
+**nubia Flip 2:**
+
+`NX732J`: nubia Flip 2 国行版
+
+`A404ZT`: nubia Flip 2 SoftBank
+
 **nubia 小牛:**
 
 `NX302J`: nubia 小牛
@@ -280,6 +286,10 @@
 
 `Z2467`: nubia V70 Max
 
+**nubia S:**
+
+`A403ZT`: nubia S 5G SoftBank
+
 ## 努比亚平板
 
 **nubia Pad 3D:**
@@ -289,6 +299,10 @@
 **nubia Pad 3D II:**
 
 `NP02J`: nubia Pad 3D II
+
+**nubia Pad SE:**
+
+`K99J`: nubia Pad SE
 
 ## 红魔手机
 
