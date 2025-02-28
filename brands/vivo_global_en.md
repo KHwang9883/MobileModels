@@ -231,15 +231,15 @@
 
 **vivo V50:**
 
-`V2427`: vivo V50
+`V2427` `V2448` `V2451`: vivo V50
 
 **vivo V50e:**
 
 `V2428`: vivo V50e
 
-**vivo V50 Lite:**
+**Jovi V50 Lite:**
 
-`V2440`: vivo V50 Lite
+`V2440`: Jovi V50 Lite
 
 ## vivo S series
 
@@ -355,6 +355,10 @@
 
 `V2344` `V2409`: vivo Y03t
 
+**vivo Y04:**
+
+`V2430` `V2438`: vivo Y04
+
 **vivo Y11s:**
 
 `V2028`: vivo Y11s
@@ -433,7 +437,11 @@
 
 **vivo Y19s:**
 
-`V2419`: vivo Y19s
+`V2419` `V2423`: vivo Y19s
+
+**vivo Y19e:**
+
+`V2431`: vivo Y19e
 
 **vivo Y20:**
 
@@ -531,6 +539,8 @@
 
 **vivo Y29:**
 
+`V2434` `V2435`: vivo Y29
+
 `V2420`: vivo Y29 5G
 
 **vivo Y29s:**
@@ -577,7 +587,11 @@
 
 **vivo Y39:**
 
-`V2436` `V2444`: vivo Y39 5G
+`V2436` `V2443` `V2447`: vivo Y39 5G
+
+**Jovi Y39:**
+
+`V2444`: Jovi Y39 5G
 
 **vivo Y51:**
 
