@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-02-28
+- `huawei_cn` 新增 HUAWEI Mate 70 Pro 优享版。
 ### 2025-02-27
 - `xiaomi` 新增 Xiaomi 15 Ultra。
 - `xiaomi-wear` 新增 Xiaomi Buds 5 Pro。
