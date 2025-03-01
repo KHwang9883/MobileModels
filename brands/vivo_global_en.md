@@ -237,6 +237,10 @@
 
 `V2428`: vivo V50e
 
+**vivo V50 Lite:**
+
+`V2441` `V2453`: vivo V50 Lite
+
 **Jovi V50 Lite:**
 
 `V2440`: Jovi V50 Lite
