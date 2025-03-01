@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-01
+- `huawei_cn` 新增 MatePad Pro 13.2 2025 典藏版。
 ### 2025-02-28
 - `huawei_cn` 新增 HUAWEI Mate 70 Pro 优享版。
 - `mitv_cn` 新增部分型号。
