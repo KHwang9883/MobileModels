@@ -944,19 +944,19 @@
 
 `JDN-W09`: 荣耀平板 2 Wi-Fi 版
 
-`JDN-AL00`: 荣耀平板 2 全网通版
+`JDN-AL00`: 荣耀平板 2 LTE 版
 
 **荣耀平板 5 (`Agassi2`):**
 
 `AGS2-W09HN`: 荣耀平板 5 10.1 英寸 Wi-Fi 版
 
-`AGS2-AL00HN`: 荣耀平板 5 10.1 英寸 全网通版
+`AGS2-AL00HN`: 荣耀平板 5 10.1 英寸 LTE 版
 
 **荣耀平板 5 (`Jordan2`):**
 
 `JDN2-W09HN`: 荣耀平板 5 8 英寸 Wi-Fi 版
 
-`JDN2-AL00HN` `JDN-AL50HN`: 荣耀平板 5 8 英寸 全网通版
+`JDN2-AL00HN` `JDN-AL50HN`: 荣耀平板 5 8 英寸 LTE 版
 
 **荣耀平板 V6 (`Karajan`):**
 
@@ -972,13 +972,13 @@
 
 `AGS3-W09HN`: 荣耀平板 6 10.1 英寸 Wi-Fi 版
 
-`AGS3-AL09HN`: 荣耀平板 6 10.1 英寸 全网通版
+`AGS3-AL09HN`: 荣耀平板 6 10.1 英寸 LTE 版
 
 **荣耀平板 X6 (`AgassiR`):**
 
 `AGR-W09HN`: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
 
-`AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 全网通版
+`AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 LTE 版
 
 **荣耀平板 V7 (`Karajan2`):**
 
@@ -996,25 +996,25 @@
 
 `AGM3-W09HN`: 荣耀平板 7 10.1 英寸 Wi-Fi 版
 
-`AGM3-AL09HN`: 荣耀平板 7 10.1 英寸 全网通版
+`AGM3-AL09HN`: 荣耀平板 7 10.1 英寸 LTE 版
 
 **荣耀平板 X7 (`Kobe2`):**
 
 `KOB2-W09HN`: 荣耀平板 X7 8 英寸 Wi-Fi 版
 
-`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 全网通版
+`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 LTE 版
 
 **荣耀平板 Z3 (`AgassiRM`):**
 
 `AGM-W09HN`: 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 
-`AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 全网通版
+`AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 LTE 版
 
 **荣耀平板 Z5 (`Agassi3M`):**
 
 `AGM3-W09HN`: 荣耀平板 Z5 10.1 英寸 Wi-Fi 版
 
-`AGM3-AL09HN`: 荣耀平板 Z5 10.1 英寸 全网通版
+`AGM3-AL09HN`: 荣耀平板 Z5 10.1 英寸 LTE 版
 
 **荣耀平板 X8 (`Agassi3M`):**
 
@@ -1074,7 +1074,7 @@
 
 `NDL-W09`: 荣耀平板 X9 11 英寸 Wi-Fi 版
 
-`NDL-AL00`: 荣耀平板 X9 11 英寸 全网通版
+`NDL-AL00`: 荣耀平板 X9 11 英寸 LTE 版
 
 **荣耀平板 V9:**
 
@@ -1096,7 +1096,7 @@
 
 `HDL-W09`: 荣耀 Waterplay 8 英寸 Wi-Fi 版
 
-`HDL-AL09`: 荣耀 Waterplay 8 英寸 全网通版
+`HDL-AL09`: 荣耀 Waterplay 8 英寸 LTE 版
 
 **荣耀 X1:**
 
