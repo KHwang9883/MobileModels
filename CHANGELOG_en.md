@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-03-03
+- `honor_global_en` Add HONOR 400 Lite, HONOR Pad V9.
 - `mitv_global_en` Add new models.
 ### 2025-03-01
 - `vivo_global_en` Add vivo V50 Lite.

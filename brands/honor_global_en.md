@@ -229,6 +229,10 @@
 
 `ALT-NX1` `ALT-NX3`: HONOR 200 Smart
 
+**HONOR 400 Lite:**
+
+`ABR-NX1` `ABR-NX3`: HONOR 400 Lite
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -436,6 +440,10 @@
 `HEY2-W09`: HONOR Pad 9 Wi-Fi
 
 `HEY2-N09`: HONOR Pad 9 5G
+
+**HONOR Pad V9:**
+
+`ROL-W009`: HONOR Pad V9
 
 **HONOR Pad X9 (`Eileen`):**
 
