@@ -572,8 +572,6 @@
 
 `L85RA-RX`: Redmi 智能电视 MAX 85 英寸
 
-`L85RB-MAX`: Redmi 智能电视 MAX 85 2025
-
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
 
 `L90R9-MAX`: Redmi 智能电视 MAX 90 英寸
@@ -582,15 +580,15 @@
 
 `L100R8-MAX`: Redmi 智能电视 MAX 100 英寸
 
-**Redmi 电视 MAX:**
+**[`N36`] Redmi 智能电视 MAX:**
+
+`L85RB-MAX`: Redmi 智能电视 MAX 85 2025
 
 `L85RB-MAXE`: REDMI 电视 MAX 85 2025 节能版 (一级能效)
 
-`L100RA-MAXE`: REDMI 电视 MAX 100 2025 节能版 (一级能效)
-
-**[`N36`] Redmi 智能电视 MAX 100:**
-
 `L100RA-MAX`: Redmi 智能电视 MAX 100 2025
+
+`L100RA-MAXE`: REDMI 电视 MAX 100 2025 节能版 (一级能效)
 
 ## 电视主机与盒子
 
