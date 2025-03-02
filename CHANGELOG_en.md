@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-03-03
+- `mitv_global_en` Add new models.
 ### 2025-03-01
 - `vivo_global_en` Add vivo V50 Lite.
 ### 2025-02-28
