@@ -209,9 +209,9 @@
 
 `RMX5000`: realme 13+ 5G
 
-**realme 13 Pro 5G:**
+**realme 13 Pro 5G / realme 14 Pro Lite 5G:**
 
-`RMX3990`: realme 13 Pro 5G
+`RMX3990`: realme 13 Pro 5G / realme 14 Pro Lite 5G
 
 **realme 13 Pro+ 5G:**
 
