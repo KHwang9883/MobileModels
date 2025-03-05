@@ -585,6 +585,16 @@
 
 `A3162`: iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)
 
+**[`J481AP`] iPad (A16) (`iPad15,7`):**
+
+`A3354`: iPad (A16) Wi-Fi
+
+**[`J482AP`] iPad (A16) (`iPad15,8`):**
+
+`A3355`: iPad (A16) Wi-Fi + Cellular
+
+`A3356`: iPad (A16) Wi-Fi + Cellular (China mainland)
+
 ## iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**
@@ -656,6 +666,26 @@
 `A2899`: iPad Air (13-inch, M2) Wi-Fi + Cellular
 
 `A2900`: iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)
+
+**[`J607AP`] iPad Air (11-inch, M3) (`iPad15,3`):**
+
+`A3266`: iPad Air (11-inch, M3) Wi-Fi
+
+**[`J608AP`] iPad Air (11-inch, M3) (`iPad15,4`):**
+
+`A3267`: iPad Air (11-inch, M3) Wi-Fi + Cellular
+
+`A3270`: iPad Air (11-inch, M3) Wi-Fi + Cellular (China mainland)
+
+**[`J637AP`] iPad Air (13-inch, M3) (`iPad15,5`):**
+
+`A3268`: iPad Air (13-inch, M3) Wi-Fi
+
+**[`J638AP`] iPad Air (13-inch, M3) (`iPad15,6`):**
+
+`A3269`: iPad Air (13-inch, M3) Wi-Fi + Cellular
+
+`A3271`: iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)
 
 ## iPad Pro
 

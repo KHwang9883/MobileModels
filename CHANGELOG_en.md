@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-03-05
+- `apple_en` Add iPad (A16), iPad Air (M3).
 - `nothing` Add Nothing Phone (3a).
 ### 2025-03-03
 - `honor_global_en` Add HONOR 400 Lite, HONOR Pad V9.
