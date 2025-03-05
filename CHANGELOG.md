@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-03-05
+- `apple` 新增 iPad (A16)、iPad Air (M3)。
 - `nothing` 新增 Nothing Phone (3a)。
 ### 2025-03-02
 - `xiaomi-wear` 新增 小米手环 9 Pro 国际版。
