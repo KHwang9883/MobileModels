@@ -126,9 +126,11 @@
 
 `A2099`: iPhone XS (中国移动)
 
-**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
+**[`D331pAP`] iPhone XS Max (`iPhone11,6`):**
 
 `A2104`: iPhone XS Max
+
+**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
 
 `A2103`: iPhone XS Max (中国移动)
 

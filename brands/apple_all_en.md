@@ -175,12 +175,6 @@
 
 `A2099`: iPhone XS (China Mobile)
 
-**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
-
-`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
-
-`A2103`: iPhone XS Max (China Mobile)
-
 **[`D331pAP`] iPhone XS Max (`iPhone11,6`):**
 
 `A1921`: iPhone XS Max (North America)
@@ -188,6 +182,12 @@
 `A2101`: iPhone XS Max (GSM)
 
 `A2102`: iPhone XS Max (Japan)
+
+`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
+
+**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
+
+`A2103`: iPhone XS Max (China Mobile)
 
 **[`N841AP`] iPhone XR (`iPhone11,8`):**
 
