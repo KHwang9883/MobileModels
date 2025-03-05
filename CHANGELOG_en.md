@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-03-05
+- `nothing` Add Nothing Phone (3a).
 ### 2025-03-03
 - `honor_global_en` Add HONOR 400 Lite, HONOR Pad V9.
 - `mitv_global_en` Add new models.
