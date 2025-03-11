@@ -1138,9 +1138,9 @@
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
 
-**[`N19A`] Redmi 13 (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / Redmi 13X (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 国际版
+`2404ARN45A`: Redmi 13 国际版 / Redmi 13X 国际版
 
 `2404ARN45I`: Redmi 13 印度版
 
@@ -1156,9 +1156,11 @@
 
 `2406ERN9CI`: Redmi 13 5G 印度版
 
-**[`C3U`] Redmi 13C (`gale`):**
+**[`C3UA`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C 国际版
+
+**[`C3U`] Redmi 13C (`gale`):**
 
 `2311DRN14I`: Redmi 13C 印度版
 

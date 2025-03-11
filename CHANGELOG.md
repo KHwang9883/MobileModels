@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-12
+- `xiaomi` 新增 Redmi Note 14S 国际版。
 ### 2025-03-05
 - `apple` 新增 iPad (A16)、iPad Air (M3)。
 - `nothing` 新增 Nothing Phone (3a)。
