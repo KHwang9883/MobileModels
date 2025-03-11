@@ -217,6 +217,10 @@
 
 `RMX3921`: realme 13 Pro+ 5G
 
+**realme 14 5G:**
+
+`RMX5070`: realme 14 5G
+
 **realme 14x 5G:**
 
 `RMX3940`: realme 14x 5G
@@ -513,6 +517,10 @@
 
 `RMX3987`: realme P2 Pro 5G
 
+**realme P3:**
+
+`RMX5070`: realme P3 5G
+
 **realme P3x:**
 
 `RMX3944`: realme P3x 5G
@@ -520,6 +528,10 @@
 **realme P3 Pro:**
 
 `RMX5032`: realme P3 Pro 5G
+
+**realme P3 Ultra:**
+
+`RMX5030`: realme P3 Ultra 5G
 
 ## Narzo series
 
@@ -648,6 +660,10 @@
 **realme NARZO 70 Turbo:**
 
 `RMX5003`: realme NARZO 70 Turbo 5G
+
+**realme NARZO 80x:**
+
+`RMX3944`: realme NARZO 80x 5G
 
 ## Tablets
 
