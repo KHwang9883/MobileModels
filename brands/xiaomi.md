@@ -1732,6 +1732,10 @@
 
 `24094RAD4G`: Redmi Note 14 5G 国际版
 
+**[`N6R`] Redmi Note 14S (`emerald`):**
+
+`2502FRA65G`: Redmi Note 14S 国际版
+
 **[`O6`] Redmi Note 14 Pro (`obsidian`):**
 
 `24116RACCG`: Redmi Note 14 Pro 国际版
