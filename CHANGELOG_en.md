@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-03-12
+- `xiaomi_en` Add Redmi Note 14S.
 ### 2025-03-11
 - `realme_global_en` Add several new models.
 - `samsung_global_en` Add Galaxy A26 5G.

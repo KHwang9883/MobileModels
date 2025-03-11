@@ -1037,9 +1037,9 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**[`N19A`] Redmi 13 (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / Redmi 13X (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 Global
+`2404ARN45A`: Redmi 13 Global / Redmi 13X Global
 
 `2404ARN45I`: Redmi 13 India
 
@@ -1055,9 +1055,11 @@
 
 `2406ERN9CI`: Redmi 13 5G India
 
-**[`C3U`] Redmi 13C (`gale`):**
+**[`C3UA`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C Global
+
+**[`C3U`] Redmi 13C (`gale`):**
 
 `2311DRN14I`: Redmi 13C India
 
@@ -1620,6 +1622,10 @@
 `24094RAD4I`: Redmi Note 14 5G India
 
 `24094RAD4C`: Redmi Note 14 5G China
+
+**[`N6R`] Redmi Note 14S (`emerald`):**
+
+`2502FRA65G`: Redmi Note 14S Global
 
 **[`O6`] Redmi Note 14 Pro (`obsidian`):**
 
