@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-03-11
+- `samsung_global_en` Add Galaxy A26 5G.
 ### 2025-03-05
 - `apple_en` Add iPad (A16), iPad Air (M3).
 - `nothing` Add Nothing Phone (3a).

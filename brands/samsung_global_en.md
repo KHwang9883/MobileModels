@@ -1101,7 +1101,7 @@
 
 **Galaxy A13 (`a13ve`):**
 
-`SM-A137F`: Galaxy A13 Global (Mediatek)
+`SM-A137F`: Galaxy A13 Global (MediaTek)
 
 **Galaxy A13 5G (`a13x`):**
 
@@ -1125,9 +1125,9 @@
 
 **Galaxy A14 (`a14m`):**
 
-`SM-A145P`: Galaxy A14 MEA (Mediatek)
+`SM-A145P`: Galaxy A14 MEA (MediaTek)
 
-`SM-A145R`: Galaxy A14 EU (Mediatek)
+`SM-A145R`: Galaxy A14 EU (MediaTek)
 
 **Galaxy A14 5G (`a14x`):**
 
@@ -1137,7 +1137,7 @@
 
 **Galaxy A14 5G (`a14xm`):**
 
-`SM-A146P`: Galaxy A14 5G Global (Mediatek)
+`SM-A146P`: Galaxy A14 5G Global (MediaTek)
 
 `SM-A146U`: Galaxy A14 5G US Carrier
 
@@ -1201,7 +1201,7 @@
 
 **Galaxy A16 5G (`a16xm`):**
 
-`SM-A166P`: Galaxy A16 5G Global (Mediatek)
+`SM-A166P`: Galaxy A16 5G Global (MediaTek)
 
 **Galaxy A2 Core (`a2corelte`):**
 
@@ -1342,6 +1342,22 @@
 `SM-A2560`: Galaxy A25 5G HK
 
 `SM-A256N`: Galaxy A25 5G South Korea
+
+**Galaxy A25 5G (`a25ex`):**
+
+`SM-A253Q`: Galaxy A25 5G Japan (SIM Free)
+
+`SM-A253Z`: Galaxy A25 5G Japan (SoftBank)
+
+**Galaxy A26 5G (`a26x`):**
+
+`SM-A266B`: Galaxy A26 5G Global
+
+`SM-A266U`: Galaxy A26 5G US Carrier
+
+`SM-A266U1`: Galaxy A26 5G US Unlocked
+
+`SM-S266V`: Galaxy A26 5G TracFone
 
 **Galaxy A30 (`a30`):**
 
