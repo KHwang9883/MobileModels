@@ -205,7 +205,7 @@
 
 **HUAWEI Mate 70 (`Celestial`):**
 
-`CLS-AL00`: HUAWEI Mate 70
+`CLS-AL00` `CLS-AL30`: HUAWEI Mate 70
 
 **HUAWEI Mate 70 Pro (`Pillar`):**
 
@@ -1001,7 +1001,7 @@
 
 `GFY-AL00`: 华为畅享 70S
 
-**华为畅享 70X:**
+**华为畅享 70X (`Bruce+`):**
 
 `BRE-AL80`: 华为畅享 70X
 
