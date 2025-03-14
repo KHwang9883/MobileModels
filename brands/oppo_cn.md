@@ -548,6 +548,10 @@
 
 `PKQ110`: OPPO A5 5G (2025)
 
+**OPPO A5 活力版:**
+
+`PKV110`: OPPO A5 活力版
+
 **OPPO A5 Pro (`alpha`) (`alpha-h`):**
 
 `PKP110`: OPPO A5 Pro
@@ -720,6 +724,6 @@
 
 `OWW251`: OPPO Watch X2
 
-**OPPO Watch (`xingchen`):**
+**OPPO Watch X2 Mini (`xingchen`):**
 
-`OWW242`: OPPO Watch
+`OWW242`: OPPO Watch X2 Mini
