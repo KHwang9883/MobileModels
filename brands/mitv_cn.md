@@ -480,6 +480,10 @@
 
 `L43RA-RAE`: REDMI 电视 A43 2025 节能版 (一级能效)
 
+`L65RB-RAE`: REDMI 电视 A65 2025 节能版 (一级能效)
+
+`L75MA-RAE`: REDMI 电视 A75 2025 节能版 (一级能效)
+
 **Redmi 智能电视 A Pro:**
 
 `L43RB-AP`: Redmi 智能电视 A Pro 43
