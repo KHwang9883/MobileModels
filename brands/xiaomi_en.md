@@ -1939,6 +1939,20 @@
 
 `23113RKC6G`: POCO F6 Pro Global
 
+**[`O10U`] POCO F7 (`onyx`):**
+
+`25053PC47G`: POCO F7 Global
+
+`25053PC47I`: POCO F7 India
+
+**[`O11`] POCO F7 Pro (`zorn`):**
+
+`24117RK2CG`: POCO F7 Pro Global
+
+**[`O11U`] POCO F7 Ultra (`miro`):**
+
+`24122RKC7G`: POCO F7 Ultra Global
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 India
