@@ -2108,6 +2108,20 @@
 
 `23113RKC6G`: POCO F6 Pro 国际版
 
+**[`O10U`] POCO F7 (`onyx`):**
+
+`25053PC47G`: POCO F7 国际版
+
+`25053PC47I`: POCO F7 印度版
+
+**[`O11`] POCO F7 Pro (`zorn`):**
+
+`24117RK2CG`: POCO F7 Pro 国际版
+
+**[`O11U`] POCO F7 Ultra (`miro`):**
+
+`24122RKC7G`: POCO F7 Ultra 国际版
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 印度版
