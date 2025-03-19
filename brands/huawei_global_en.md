@@ -131,6 +131,10 @@
 
 `ALN-LX9`: HUAWEI Mate 60 Pro
 
+**HUAWEI Mate 70 Pro (`Pillar`):**
+
+`PLR-L29`: HUAWEI Mate 70 Pro
+
 **HUAWEI Mate Xs (`Tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM

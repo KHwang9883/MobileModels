@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-03-19
+- `huawei_global_en` Add HUAWEI Mate 70 Pro.
 ### 2025-03-12
 - `xiaomi_en` Add Redmi Note 14S.
 ### 2025-03-11
