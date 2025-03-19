@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-03-19
+- `google` Add Pixel 9a.
 - `huawei_global_en` Add HUAWEI Mate 70 Pro.
 - `xiaomi_en` Add POCO F7 series.
 ### 2025-03-12

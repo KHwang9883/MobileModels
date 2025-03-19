@@ -221,6 +221,14 @@
 
 `GC15S`: Pixel 9 Pro Fold (Japan)
 
+**Pixel 9a (`tegu`):**
+
+`GXQ96`: Pixel 9a (US)
+
+`GTF7P`: Pixel 9a (Global)
+
+`G3Y12`: Pixel 9a (Japan)
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C
