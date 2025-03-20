@@ -449,6 +449,12 @@
 
 `HBP-AL00`: HUAWEI Pura 70 Ultra
 
+**HUAWEI Pura X (`Verde`):**
+
+`VDE-AL00`: HUAWEI Pura X
+
+`VDE-AL10`: HUAWEI Pura X 典藏版
+
 ## HUAWEI Pocket 系列
 
 **HUAWEI Pocket S (`Bali`):**
@@ -2103,6 +2109,16 @@
 
 `HD86WATN`: 华为智慧屏 S5 Pro New 86
 
+**华为智慧屏 S6 Pro:**
+
+`HD6XAJMS`: 华为智慧屏 S6 Pro 65
+
+`HD7XAJMS`: 华为智慧屏 S6 Pro 75
+
+`HD8XAJMS`: 华为智慧屏 S6 Pro 85
+
+`HD9XAJMS`: 华为智慧屏 S6 Pro 98
+
 **华为智慧屏 SE 系列:**
 
 `HD55DESA`: 华为智慧屏 SE 55 (2GB+16GB)
@@ -2492,6 +2508,14 @@
 `KIM-B19`: 华为手环 9 标准版
 
 `KIM-B29`: 华为手环 9 NFC 版
+
+**华为手环 10:**
+
+`NOR-B19`: 华为手环 10 标准版 (增强型聚合纤维表壳)
+
+`NOR-B29`: 华为手环 10 标准版 (铝合金表壳)
+
+`NOR-B39`: 华为手环 10 NFC 版
 
 **华为手环 B3 (`Gemini`):**
 

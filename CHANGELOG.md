@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-20
+- `huawei_cn` 新增 HUAWEI Pura X、华为智慧屏 S6 Pro、华为手环 10。
 ### 2025-03-19
 - `google` 新增 Pixel 9a。
 - `xiaomi` 新增 POCO F7 系列。
