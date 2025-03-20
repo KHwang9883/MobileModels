@@ -7,7 +7,7 @@
 > 关于「自定义信任根」功能，请参考 [Android 开发者文档](https://source.android.com/docs/security/features/verifiedboot/device-state?hl=zh-cn#user-settable-root-of-trust)
 
 - ✅ 支持/是 | **可点击**
-- ⚠️ 名义上支持但实际上近乎不支持 | **可点击**
+- ⚠️ 名义上支持，但严格限制名额/审核 | **可点击**
 - ⏹ 部分支持/部分开源/部分保修 | **可点击**
 - ❌ 不支持/否
 
