@@ -383,6 +383,14 @@
 
 `CPH2643`: OPPO F27 Pro+ 5G
 
+**OPPO F29:**
+
+`CPH2721`: OPPO F29 5G
+
+**OPPO F29 Pro:**
+
+`CPH2705`: OPPO F29 Pro 5G
+
 ## R series
 
 **OPPO R15:**
@@ -454,6 +462,10 @@
 **OPPO A5 2020:**
 
 `CPH1931` `CPH1933` `CPH1943`: OPPO A5 2020
+
+**OPPO A5i:**
+
+`CPH2773`: OPPO A5i
 
 **OPPO A5 Pro:**
 
@@ -716,6 +728,10 @@
 `OPD2302`: OPPO Pad Neo Wi-Fi
 
 `OPD2303`: OPPO Pad Neo LTE
+
+**OPPO Pad 3:**
+
+`OPD2406`: OPPO Pad 3
 
 **OPPO Pad 3 Pro (`caihong`):**
 
