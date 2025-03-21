@@ -1,6 +1,6 @@
 # CHANGELOG
 ### 2025-03-21
-- `vivo_global_en` Add codenames for iQOO.
+- `vivo_global_en` Add codenames.
 ### 2025-03-20
 - `oppo_global_en` Add OPPO F29 series.
 ### 2025-03-19
