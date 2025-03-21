@@ -51,7 +51,7 @@
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
-| [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ❌  | ⏹ | 英文版 |
+| [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ⏹  | ⏹ | 英文版 |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | -- |
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
 | [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
