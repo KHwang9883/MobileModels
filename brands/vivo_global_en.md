@@ -261,9 +261,11 @@
 
 ## vivo T series
 
-**vivo T1:**
+**vivo T1 (`PD2201F`):**
 
 `V2153` `V2168`: vivo T1
+
+**vivo T1 (`PD2165F`):**
 
 `V2141` `V2150` `V2157`: vivo T1 5G
 
@@ -271,17 +273,17 @@
 
 `V2143`: vivo T1x
 
-**vivo T1 Pro:**
+**vivo T1 Pro (`PD2193F`):**
 
 `V2151`: vivo T1 Pro 5G
 
-**vivo T2:**
+**vivo T2 (`PD2251F`):**
 
 `V2320`: vivo T2
 
 `V2240`: vivo T2 5G
 
-**vivo T2 Pro:**
+**vivo T2 Pro (`PD2285F`):**
 
 `V2321`: vivo T2 Pro 5G
 
@@ -289,11 +291,11 @@
 
 `V2253` `V2312`: vivo T2x 5G
 
-**vivo T3:**
+**vivo T3 (`PD2346F`):**
 
 `V2334`: vivo T3 5G
 
-**vivo T3x:**
+**vivo T3x (`PD2353F`):**
 
 `V2338`: vivo T3x 5G
 
@@ -695,128 +697,134 @@
 
 ## iQOO Smartphones
 
-**iQOO 3:**
+**iQOO 3 (`PD1964F`):**
 
 `I1927`: iQOO 3 4G
 
+**iQOO 3 (`PD1955F`):**
+
 `I1928`: iQOO 3 5G
 
-**iQOO 7:**
+**iQOO 7 (`PD2049F`):**
 
-`I2009` `I2012`: iQOO 7
+`I2009`: iQOO 7 Global
 
-**iQOO 9:**
+**iQOO 7 (`PD2055F`):**
+
+`I2012`: iQOO 7 India
+
+**iQOO 9 (`PD2136F`):**
 
 `I2017`: iQOO 9
 
-**iQOO 9T:**
-
-`I2201`: iQOO 9T
-
-**iQOO 9 Pro:**
+**iQOO 9 Pro (`PD2172F`):**
 
 `I2022`: iQOO 9 Pro
 
-**iQOO 9 SE:**
+**iQOO 9 SE (`PD2154F`):**
 
 `I2019`: iQOO 9 SE
 
-**iQOO 11:**
+**iQOO 9T (`PD2217F`):**
+
+`I2201`: iQOO 9T
+
+**iQOO 11 (`PD2243F`):**
 
 `I2212`: iQOO 11
 
-**iQOO 12:**
+**iQOO 12 (`PD2307F`):**
 
 `I2220`: iQOO 12
 
-**iQOO 13:**
+**iQOO 13 (`PD2408F`):**
 
 `I2401`: iQOO 13
 
-**iQOO Neo6:**
+**iQOO Neo6 (`PD2199F`):**
 
 `I2202`: iQOO Neo6
 
-**iQOO Neo7:**
+**iQOO Neo7 (`PD2238F`):**
 
 `I2214`: iQOO Neo7
 
-**iQOO Neo7 Pro:**
+**iQOO Neo7 Pro (`PD2232F`):**
 
 `I2217`: iQOO Neo7 Pro
 
-**iQOO Neo9:**
-
-`I2303`: iQOO Neo9
-
-**iQOO Neo9 Pro:**
+**iQOO Neo9 Pro (`PD2338F`):**
 
 `I2304`: iQOO Neo9 Pro
 
-**iQOO Neo10R:**
+**iQOO Neo10R (`PD2352F`):**
 
 `I2221`: iQOO Neo10R
 
-**iQOO Z3:**
+**iQOO Z3 (`PD2073F`):**
 
 `I2011`: iQOO Z3 5G
 
-**iQOO Z5:**
+**iQOO Z5 (`PD2148F`):**
 
 `I2018`: iQOO Z5
 
-**iQOO Z6:**
+**iQOO Z6 (`PD2165F`):**
 
-`I2127` `I2203` `I2206`: iQOO Z6
+`I2127`: iQOO Z6 5G
 
-**iQOO Z6 Pro:**
+**iQOO Z6 (`PD2201F`):**
+
+`I2203` `I2206`: iQOO Z6 44W
+
+**iQOO Z6 Pro (`PD2193F`):**
 
 `I2126`: iQOO Z6 Pro
 
-**iQOO Z6 Lite:**
+**iQOO Z6 Lite (`PD2235F`):**
 
 `I2208`: iQOO Z6 Lite 5G
 
-**iQOO Z6 Pro SE:**
+**iQOO Z7 (`PD2270F`):**
 
-`I2205`: iQOO Z6 Pro SE
+`I2213`: iQOO Z7 5G Global
 
-**iQOO Z7:**
+**iQOO Z7 (`PD2257F`):**
 
-`I2207` `I2213`: iQOO Z7 5G
+`I2207`: iQOO Z7 5G India
 
-**iQOO Z7s:**
+**iQOO Z7s (`PD2251F`):**
 
 `I2223`: iQOO Z7s 5G
 
-**iQOO Z7x:**
+**iQOO Z7x (`PD2272F`):**
 
 `I2216`: iQOO Z7x 5G
 
-**iQOO Z7 Pro:**
+**iQOO Z7 Pro (`PD2285F`):**
 
 `I2301`: iQOO Z7 Pro 5G
 
-**iQOO Z9:**
+**iQOO Z9 (`PD2346F`):**
 
 `I2218` `I2302`: iQOO Z9 5G
 
-**iQOO Z9x:**
+**iQOO Z9x (`PD2353F`):**
 
 `I2219`: iQOO Z9x 5G
 
-**iQOO Z9 Lite:**
+**iQOO Z9 Lite (`PD2357F`):**
 
 `I2306`: iQOO Z9 Lite 5G
 
-**iQOO Z9s:**
+**iQOO Z9s (`PD2406F`):**
 
 `I2403`: iQOO Z9s 5G
 
-**iQOO Z9s Pro:**
+**iQOO Z9s Pro (`PD2404F`):**
 
 `I2305`: iQOO Z9s Pro 5G
 
-**iQOO Z10x:**
+**iQOO Z10x (`PD2445F`):**
 
 `I2404`: iQOO Z10x 5G
