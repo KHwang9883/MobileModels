@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-21
+- `vivo_cn` 新增 X200 Ultra、Y300 Pro+、iQOO Z10 Turbo 系列。
 ### 2025-03-20
 - `huawei_cn` 新增 HUAWEI Pura X、华为智慧屏 S6 Pro、华为手环 10。
 ### 2025-03-19

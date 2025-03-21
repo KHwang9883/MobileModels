@@ -226,6 +226,12 @@
 
 `V2419A`: vivo X200 Pro mini
 
+**vivo X200 Ultra (`PD2454`):**
+
+`V2454A`: vivo X200 Ultra
+
+`V2454DA`: vivo X200 Ultra 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -722,13 +728,21 @@
 
 `V2410A`: vivo Y300 Pro 5G
 
+**vivo Y300 Pro+:**
+
+`V2456A`: vivo Y300 Pro+ 5G
+
 **vivo Y300i (`PD2444`):**
 
-`V2444A`: vivo Y300i
+`V2444A`: vivo Y300i 5G
 
 **vivo Y300t (`PD2445D`):**
 
-`V2445EA`: vivo Y300t
+`V2445EA`: vivo Y300t 5G
+
+**vivo Y300 GT (`PD2452`):**
+
+`V2452GA`: vivo Y300 GT 5G
 
 ## vivo T 系列
 
@@ -1081,6 +1095,14 @@
 **iQOO Z9x (`PD2353`):**
 
 `V2353A`: iQOO Z9x
+
+**iQOO Z10 Turbo (`PD2452`):**
+
+`V2452A`: iQOO Z10 Turbo
+
+**iQOO Z10 Turbo Pro (`PD2453`):**
+
+`V2453A`: iQOO Z10 Turbo Pro
 
 **iQOO Z10x (`PD2445`):**
 
