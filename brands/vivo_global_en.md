@@ -41,7 +41,7 @@
 
 `V2047`: vivo X60 Pro+
 
-**vivo X70 (`PD2133F`)**
+**vivo X70 (`PD2133F`):**
 
 `V2104`: vivo X70
 
