@@ -712,9 +712,9 @@
 
 `V2343A`: vivo Y200 5G
 
-**vivo Y200 GT (`PD2361`):**
+**vivo Y200 GT / vivo Y200 Pro 企业定制版 (`PD2361`):**
 
-`V2361GA`: vivo Y200 GT 5G
+`V2361GA`: vivo Y200 GT 5G / vivo Y200 Pro 企业定制版
 
 **vivo Y200t (`PD2353`):**
 
@@ -728,7 +728,7 @@
 
 `V2410A`: vivo Y300 Pro 5G
 
-**vivo Y300 Pro+:**
+**vivo Y300 Pro+ (`PD2456`):**
 
 `V2456A`: vivo Y300 Pro+ 5G
 
