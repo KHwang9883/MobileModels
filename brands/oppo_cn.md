@@ -78,6 +78,16 @@
 
 `PKC130`: OPPO Find X8 Pro 卫星通信版
 
+**OPPO Find X8 Ultra:**
+
+`PKJ110`: OPPO Find X8 Ultra
+
+**OPPO Find X8s:**
+
+`PKT110`: OPPO Find X8s
+
+`PLB110`: OPPO Find X8s+
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**

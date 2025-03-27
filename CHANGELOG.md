@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-27
+- `OPPO` 新增 OPPO Find X8 Ultra、OPPO Find X8s 系列。
 ### 2025-03-22
 - `lenovo` 增补部分代号。
 - `realme_cn` 新增 真我 V70、真我 14。
