@@ -78,6 +78,20 @@
 
 `PKC130`: OPPO Find X8 Pro 卫星通信版
 
+**OPPO Find X8s:**
+
+`PKT110`: OPPO Find X8s
+
+**OPPO Find X8s+:**
+
+`PLB110`: OPPO Find X8s+
+
+**OPPO Find X8 Ultra:**
+
+`PKJ110`: OPPO Find X8 Ultra
+
+`PKU110`: OPPO Find X8 Ultra 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -655,6 +669,10 @@
 **OPPO Pad 3 Pro (`caihong`):**
 
 `OPD2401`: OPPO Pad 3 Pro
+
+**OPPO Pad 4 Pro:**
+
+`OPD2409`: OPPO Pad 4 Pro
 
 ## Watch/Band 系列
 

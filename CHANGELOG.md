@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-27
+- `oppo_cn` 新增 OPPO Find X8 系列、OPPO Pad 4 Pro。
 ### 2025-03-22
 - `lenovo` 增补部分代号。
 - `realme_cn` 新增 真我 V70、真我 14。
