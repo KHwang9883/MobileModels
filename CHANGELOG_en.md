@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-03-28
+- `honor_global_en` Add HONOR Pad X9a.
 ### 2025-03-21
 - `vivo_global_en` Add codenames.
 ### 2025-03-20

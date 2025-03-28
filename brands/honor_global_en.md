@@ -451,6 +451,10 @@
 
 `ELN-L03` `ELN-L09`: HONOR Pad X9 LTE
 
+**HONOR Pad X9a (`Eileen2`):**
+
+`ELN2-W29`: HONOR Pad X9a Wi-Fi
+
 **HONOR MagicPad2 (`Rolland2`):**
 
 `ROD2-W09`: HONOR MagicPad2
