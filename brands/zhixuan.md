@@ -165,7 +165,11 @@
 
 **Hi 畅享 70 Plus (`Jerry`):**
 
-`JEY-AN00`: Hi 畅享 70 Plus
+`JEY-AN00`: Hi 畅享 70 Plus 5G
+
+**Hi 畅享 80S:**
+
+`JLG-AN00`: Hi 畅享 80S 5G
 
 **Hi MatePad:**
 

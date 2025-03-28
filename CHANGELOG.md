@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-03-28
+- `zhixuan` 新增 Hi 畅享 80S。
 ### 2025-03-27
 - `oppo_cn` 新增 OPPO Find X8 系列、OPPO Pad 4 Pro。
 ### 2025-03-22
