@@ -1096,6 +1096,10 @@
 
 `V2353A`: iQOO Z9x
 
+**iQOO Z10 (`PD2436`):**
+
+`V2436A`: iQOO Z10
+
 **iQOO Z10 Turbo (`PD2452`):**
 
 `V2452A`: iQOO Z10 Turbo
