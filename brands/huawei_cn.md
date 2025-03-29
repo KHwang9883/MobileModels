@@ -209,7 +209,7 @@
 
 **HUAWEI Mate 70 Pro (`Pillar`):**
 
-`PLR-AL00`: HUAWEI Mate 70 Pro
+`PLR-AL00` `PLR-AL30`: HUAWEI Mate 70 Pro
 
 `PLR-AL50`: HUAWEI Mate 70 Pro 优享版
 
