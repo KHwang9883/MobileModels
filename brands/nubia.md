@@ -154,6 +154,10 @@
 
 `NX736J`: nubia Z70 Ultra 星空典藏版 (卫星通信)
 
+**nubia Z70S Ultra:**
+
+`NX737J`: nubia Z70S Ultra 摄影师版
+
 ## 努比亚其他系列
 
 **nubia X6:**
