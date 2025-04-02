@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-04-02
+- `xiaomi` 新增 Xiaomi 15S Pro、REDMI A5、POCO C71。
 ### 2025-03-31
 - `nubia` 新增 nubia Z70S Ultra 摄影师版。
 ### 2025-03-29

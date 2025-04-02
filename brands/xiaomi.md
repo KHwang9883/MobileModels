@@ -458,6 +458,10 @@
 
 `25010PN30I`: Xiaomi 15 Ultra 印度版
 
+**[`O2S`] Xiaomi 15S Pro (`dijun`):**
+
+`25042PN24C`: Xiaomi 15S Pro
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -1138,9 +1142,9 @@
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
 
-**[`N19A`] Redmi 13 / Redmi 13X (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 国际版 / Redmi 13X 国际版
+`2404ARN45A`: Redmi 13 国际版 / REDMI 13x 国际版
 
 `2404ARN45I`: Redmi 13 印度版
 
@@ -2010,6 +2014,14 @@
 
 `24116RNC1I`: Redmi A4 5G 印度版
 
+**[`C3Z`] REDMI A5 (`serenity`):**
+
+`25028RN03G` `25028RN03A` `25028RN03Y`: REDMI A5 国际版
+
+`25028RN03I`: REDMI A5 印度版
+
+`25028RN03L`: REDMI A5 拉美版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -2337,6 +2349,14 @@
 **[`C3UP`] POCO C65 (`gale`):**
 
 `2310FPCA4I`: POCO C65 印度版
+
+**[`C3Z`] POCO C71 (`serenity`):**
+
+`25028PC03G` `25028PC03Y`: POCO C71 国际版
+
+`25028PC03I`: POCO C71 印度版
+
+`25028PC03L`: POCO C71 拉美版
 
 **[`C3NP`] POCO C75 (`lake`):**
 
