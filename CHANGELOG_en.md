@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-02
+- `xiaomi_en` Add REDMI A5, POCO C71.
 ### 2025-03-28
 - `honor_global_en` Add HONOR Pad X9a.
 ### 2025-03-21

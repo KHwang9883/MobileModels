@@ -455,6 +455,10 @@
 
 `25010PN30C`: Xiaomi 15 Ultra China (Tiantong & Beidou satellites)
 
+**[`O2S`] Xiaomi 15S Pro (`dijun`):**
+
+`25042PN24C`: Xiaomi 15S Pro China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1037,9 +1041,9 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**[`N19A`] Redmi 13 / Redmi 13X (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / REDMI 13X (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 Global / Redmi 13X Global
+`2404ARN45A`: Redmi 13 Global / REDMI 13x Global
 
 `2404ARN45I`: Redmi 13 India
 
@@ -1889,6 +1893,14 @@
 
 `24116RNC1I`: Redmi A4 5G India
 
+**[`C3Z`] REDMI A5 (`serenity`):**
+
+`25028RN03G` `25028RN03A` `25028RN03Y`: REDMI A5 Global
+
+`25028RN03I`: REDMI A5 India
+
+`25028RN03L`: REDMI A5 Latin America
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -2168,6 +2180,14 @@
 **[`C3UP`] POCO C65 (`gale`):**
 
 `2310FPCA4I`: POCO C65 India
+
+**[`C3Z`] POCO C71 (`serenity`):**
+
+`25028PC03G` `25028PC03Y`: POCO C71 Global
+
+`25028PC03I`: POCO C71 India
+
+`25028PC03L`: POCO C71 Latin America
 
 **[`C3NP`] POCO C75 (`lake`):**
 
