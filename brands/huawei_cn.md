@@ -249,7 +249,7 @@
 
 `ALT-AL10`: HUAWEI Mate X5
 
-**HUAWEI Mate XT ULTIMATE DESIGN 非凡大师 (`Greenland`):**
+**HUAWEI Mate XT ULTIMATE DESIGN 非凡大师 (`Greenlan`):**
 
 `GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
 
@@ -1157,7 +1157,7 @@
 
 `PCE-AL40`: HUAWEI MatePad Pro 13.2 英寸 典藏版 SIM 卡版
 
-**HUAWEI MatePad Pro 12.2 英寸:**
+**HUAWEI MatePad Pro 12.2 英寸 (`Miro`):**
 
 `MRO-W00`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版
 
