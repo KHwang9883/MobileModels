@@ -151,7 +151,7 @@
 
 `ICL-LX9`: HUAWEI Mate X6
 
-**HUAWEI Mate XT ULTIMATE DESIGN (`Greenland`):**
+**HUAWEI Mate XT ULTIMATE DESIGN (`Greenlan`):**
 
 `GRL-LX9`: HUAWEI Mate XT ULTIMATE DESIGN
 
@@ -749,7 +749,7 @@
 
 `WEB-W09`: HUAWEI MatePad Pro 13.2 2025 Wi-Fi
 
-**HUAWEI MatePad Pro 12.2:**
+**HUAWEI MatePad Pro 12.2 (`Miro`):**
 
 `MRO-W09`: HUAWEI MatePad Pro 12.2
 
