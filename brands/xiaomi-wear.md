@@ -391,6 +391,10 @@
 
 `M2411E1`: REDMI Buds SE
 
+**REDMI Buds 7S:**
+
+`M2455E1`: REDMI Buds 7S
+
 ## POCO TWS
 
 **[`K76`] POCO Buds Pro Genshin Impact Edition:**

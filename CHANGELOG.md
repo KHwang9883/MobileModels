@@ -2,6 +2,7 @@
 ### 2025-04-08
 - `huawei_cn` 新增 华为畅享 70X 活力版。
 - `mitv_cn` 新增部分型号。
+- `xiaomi-wear` 新增 REDMI Buds 7S。
 ### 2025-04-04
 - `realme_cn` 新增 真我 GT7。
 ### 2025-04-03
