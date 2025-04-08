@@ -1,6 +1,6 @@
 # 更新日志
 ### 2025-04-08
-- `huawei_cn` 新增 华为畅享 70X 活力版。
+- `huawei_cn` 新增 华为畅享 70X 活力版、华为 Vision 智慧屏 5。
 - `mitv_cn` 新增部分型号。
 - `oneplus` 新增 一加 13T。
 - `vivo_cn` 新增 vivo Pad5 Pro、Pad SE。

@@ -2219,6 +2219,16 @@
 
 `HD85ARQD`: 华为 Vision 智慧屏 4 Pro 85
 
+**华为 Vision 智慧屏 5:**
+
+`HD6XAJMN`: 华为 Vision 智慧屏 5 65
+
+`HD7XAJMN`: 华为 Vision 智慧屏 5 75
+
+`HD8XAJMN`: 华为 Vision 智慧屏 5 85
+
+`HD9XAJMN`: 华为 Vision 智慧屏 5 98
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
