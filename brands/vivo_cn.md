@@ -1168,6 +1168,14 @@
 
 `PA2473`: vivo Pad3 Pro
 
+**vivo Pad5 Pro:**
+
+`PA2573`: vivo Pad5 Pro
+
+**vivo Pad SE:**
+
+`PA2511`: vivo Pad SE
+
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
