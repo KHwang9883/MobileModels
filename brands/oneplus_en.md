@@ -321,6 +321,10 @@
 
 `PKR110`: OnePlus Ace 5 Pro China
 
+**OnePlus 13T:**
+
+`PKX110`: OnePlus 13T China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India

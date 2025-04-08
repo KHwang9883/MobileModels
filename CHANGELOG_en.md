@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-08
+- `oneplus_en` Add OnePlus 13T.
 ### 2025-04-02
 - `xiaomi_en` Add REDMI A5, POCO C71.
 ### 2025-03-28
