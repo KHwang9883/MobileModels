@@ -661,6 +661,10 @@
 
 `RMX5003`: realme NARZO 70 Turbo 5G
 
+**realme NARZO 80 Pro:**
+
+`RMX5033`: realme NARZO 80 Pro 5G
+
 **realme NARZO 80x:**
 
 `RMX3944`: realme NARZO 80x 5G

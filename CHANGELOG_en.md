@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-11
+- `realme_global_en` Add realme NARZO 80 Pro.
 ### 2025-04-08
 - `oneplus_en` Add OnePlus 13T.
 ### 2025-04-02
