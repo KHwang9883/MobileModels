@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-13
+- `samsung_global_en` Add Galaxy M56 & F56.
 ### 2025-04-11
 - `realme_global_en` Add realme NARZO 80 Pro.
 ### 2025-04-08

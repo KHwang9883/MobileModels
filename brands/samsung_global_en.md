@@ -1349,6 +1349,10 @@
 
 `SM-A253Z`: Galaxy A25 5G Japan (SoftBank)
 
+`SCG33`: Galaxy A25 5G Japan (au)
+
+`SC-53F`: Galaxy A25 5G Japan (NTT Docomo)
+
 **Galaxy A26 5G (`a26x`):**
 
 `SM-A266B`: Galaxy A26 5G Global
@@ -1358,6 +1362,10 @@
 `SM-A266U1`: Galaxy A26 5G US Unlocked
 
 `SM-S266V`: Galaxy A26 5G TracFone
+
+**Galaxy A26 5G (`a26xs`):**
+
+`SM-A266M`: Galaxy A26 5G Latin America
 
 **Galaxy A30 (`a30`):**
 
@@ -1959,6 +1967,10 @@
 
 `SM-C5560`: Galaxy C55 5G
 
+**Galaxy M56 5G (`m56x`):**
+
+`SM-M566B`: Galaxy M56 5G
+
 **Galaxy M62 (`m62`):**
 
 `SM-M625F`: Galaxy M62
@@ -2036,6 +2048,10 @@
 **Galaxy F55 5G (`m55xq`):**
 
 `SM-E556B`: Galaxy F55 5G
+
+**Galaxy F56 5G (`m56x`):**
+
+`SM-E566B`: Galaxy F56 5G
 
 **Galaxy F62 (`f62`):**
 
