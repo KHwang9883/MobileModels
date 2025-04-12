@@ -226,6 +226,10 @@
 
 `V2419A`: vivo X200 Pro mini
 
+**vivo X200s (`PD2458`):**
+
+`V2458A`: vivo X200s
+
 **vivo X200 Ultra (`PD2454`):**
 
 `V2454A`: vivo X200 Ultra
