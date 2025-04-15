@@ -726,6 +726,14 @@
 
 `JDY-AN00`: 荣耀 Play9C 5G
 
+## 荣耀 Power 系列
+
+**荣耀 Power (`David`):**
+
+`DVD-AN00`: 荣耀 Power
+
+`DVD-AN80`: 荣耀 Power 卫星版
+
 ## 荣耀 Note 系列
 
 **荣耀 Note8 (`Edison`):**
@@ -1443,6 +1451,8 @@
 **荣耀笔记本 X14 2025:**
 
 `FRG-X`: 荣耀笔记本 X14 2025
+
+`GDG-X`: 荣耀笔记本 X14 2025 战斗版
 
 **荣耀笔记本 X14 Plus 2024:**
 
