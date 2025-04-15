@@ -1,6 +1,6 @@
 # 更新日志
 ### 2025-04-15
-- `honor_cn` 新增 荣耀 Power。
+- `honor_cn` 新增 荣耀 Power、荣耀 GT Pro。
 - `samsung_cn` 新增 Galaxy Tab S10 FE。
 ### 2025-04-13
 - `coolpad` 新增 酷派锋尚 60 Pro/炫影 30 Pro。
