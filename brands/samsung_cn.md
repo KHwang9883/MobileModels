@@ -966,6 +966,22 @@
 
 `SM-X926C`: Galaxy Tab S10 Ultra 5G
 
+**Galaxy Tab S10 FE (`gts10fewifi`):**
+
+`SM-X520`: Galaxy Tab S10 FE WLAN
+
+**Galaxy Tab S10 FE (`gts10fe`):**
+
+`SM-X526C`: Galaxy Tab S10 FE 5G
+
+**Galaxy Tab S10 FE+ (`gts10fepwifi`):**
+
+`SM-X620`: Galaxy Tab S10 FE+ WLAN
+
+**Galaxy Tab S10 FE+ (`gts10fep`):**
+
+`SM-X626C`: Galaxy Tab S10 FE+ 5G
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
