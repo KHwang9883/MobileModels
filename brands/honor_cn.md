@@ -622,6 +622,10 @@
 
 `LYN-AN00`: 荣耀 X60i
 
+**荣耀 X60 GT:**
+
+`AGI-AN00`: 荣耀 X60 GT
+
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**

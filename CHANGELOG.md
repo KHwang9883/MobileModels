@@ -1,6 +1,6 @@
 # 更新日志
 ### 2025-04-16
-- `honor_cn` 新增 荣耀平板 GT。
+- `honor_cn` 新增 荣耀平板 GT、荣耀 X60 GT。
 ### 2025-04-15
 - `honor_cn` 新增 荣耀 Power、荣耀 GT Pro。
 - `samsung_cn` 新增 Galaxy Tab S10 FE。
