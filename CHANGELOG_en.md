@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-16
+- `vivo_global_en` Add several new models.
 ### 2025-04-13
 - `samsung_global_en` Add Galaxy M56 & F56.
 ### 2025-04-11

@@ -349,6 +349,10 @@
 
 `V2426`: vivo T3 Ultra 5G
 
+**vivo T4 5G (`PD2456F`):**
+
+`V2502`: vivo T4 5G
+
 **vivo T4x 5G (`PD2445F`):**
 
 `V2437`: vivo T4x 5G
@@ -487,6 +491,14 @@
 
 `V2419` `V2423`: vivo Y19s
 
+**Jovi Y19s:**
+
+`V2425` `V2454`: Jovi Y19s
+
+**vivo Y19s Pro:**
+
+`V2458` `V2507` `V2508` `V2519`: vivo Y19s Pro
+
 **vivo Y19e (`PD2442F`):**
 
 `V2431`: vivo Y19e
@@ -594,6 +606,10 @@
 **vivo Y29:**
 
 `V2434` `V2435`: vivo Y29
+
+**Jovi Y29:**
+
+`V2445`: Jovi Y29
 
 **vivo Y29 5G:**
 
@@ -747,7 +763,7 @@
 
 `V2336`: vivo Y200e 5G
 
-**vivo Y300 5G:**
+**vivo Y300 5G (`PD2418F`):**
 
 `V2416`: vivo Y300 5G
 
