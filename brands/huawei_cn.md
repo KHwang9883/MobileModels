@@ -2233,6 +2233,16 @@
 
 `HD9XAJMN`: 华为 Vision 智慧屏 5 98
 
+**华为 Vision 智慧屏 5 SE:**
+
+`HD55KULU`: 华为 Vision 智慧屏 5 SE 55
+
+`HD65KULU`: 华为 Vision 智慧屏 5 SE 65
+
+`HD75KULU`: 华为 Vision 智慧屏 5 SE 75
+
+`HD85KULU`: 华为 Vision 智慧屏 5 SE 85
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
