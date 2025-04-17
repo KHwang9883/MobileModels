@@ -58,7 +58,7 @@
 
 `PGEM10`: OPPO Find X6 Pro
 
-**OPPO Find X7 (`nvwa`):**
+**OPPO Find X7 (`nvwa-v`):**
 
 `PHZ110`: OPPO Find X7
 
@@ -78,15 +78,15 @@
 
 `PKC130`: OPPO Find X8 Pro 卫星通信版
 
-**OPPO Find X8s:**
+**OPPO Find X8s (`koktokay`):**
 
 `PKT110`: OPPO Find X8s
 
-**OPPO Find X8s+:**
+**OPPO Find X8s+ (`slmh`):**
 
 `PLB110`: OPPO Find X8s+
 
-**OPPO Find X8 Ultra:**
+**OPPO Find X8 Ultra (`zhufeng`):**
 
 `PKJ110`: OPPO Find X8 Ultra
 
@@ -114,7 +114,7 @@
 
 `PHT110`: OPPO Find N3 Flip
 
-**OPPO Find N5:**
+**OPPO Find N5 (`petrel`):**
 
 `PKH110`: OPPO Find N5
 
@@ -666,7 +666,7 @@
 
 `OPD2301`: OPPO Pad Air2
 
-**OPPO Pad 3:**
+**OPPO Pad 3 (`dunhuang`):**
 
 `OPD2405`: OPPO Pad 3
 
@@ -674,7 +674,7 @@
 
 `OPD2401`: OPPO Pad 3 Pro
 
-**OPPO Pad 4 Pro:**
+**OPPO Pad 4 Pro (`erhai`):**
 
 `OPD2409`: OPPO Pad 4 Pro
 
@@ -726,13 +726,13 @@
 
 `OW20W3`: OPPO Watch 2 46mm ECG
 
+`OWW213`: OPPO Watch SE
+
 **OPPO Watch 3:**
 
 `OWW212`: OPPO Watch 3
 
 `OWW211`: OPPO Watch 3 Pro
-
-`OWW213`: OPPO Watch SE
 
 **OPPO Watch 4 Pro (`comet`):**
 
