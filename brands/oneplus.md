@@ -322,9 +322,11 @@
 
 `PKR110`: OnePlus Ace 5 Pro 国行版
 
-**OnePlus 13T:**
+**OnePlus 13T (`pagani`):**
 
 `PKX110`: OnePlus 13T 国行版
+
+`CPH2723`: OnePlus 13T 国际版
 
 **OnePlus Nord (`avicii`):**
 
@@ -412,13 +414,13 @@
 
 `BE2015`: OnePlus Nord N100 Metro 版
 
-**OnePlus Nord N20:**
+**OnePlus Nord N20 (`gunnar`):**
 
 `GN2200`: OnePlus Nord N20
 
 `CPH2459`: OnePlus Nord N20
 
-**OnePlus Nord N20 SE:**
+**OnePlus Nord N20 SE (`zhaoyun`):**
 
 `CPH2469`: OnePlus Nord N20 SE
 
@@ -434,19 +436,19 @@
 
 `DE2118`: OnePlus Nord N200 T-Mobile 版
 
-**OnePlus Nord N300:**
+**OnePlus Nord N300 (`hilda`):**
 
 `CPH2389`: OnePlus Nord N300
 
 ## 一加平板/折叠屏
 
-**OnePlus Open (`xueying`) (`hedwig`):**
+**OnePlus Open (`hedwig`) (~`xueying-9`~):**
 
 `CPH2551`: OnePlus Open
 
-**OnePlus Pad (`aries`):**
+**OnePlus Pad (`aries-o`):**
 
-`OPD2203`: OnePlus Pad (国际)
+`OPD2203`: OnePlus Pad (2023)
 
 **OnePlus Pad Go (`bluey`):**
 
@@ -454,11 +456,11 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad:**
+**OnePlus Pad (`dunhuang`):**
 
-`OPD2407`: OnePlus Pad (国行)
+`OPD2407`: OnePlus Pad (2024)
 
-**OnePlus Pad 2 / OnePlus Pad Pro (`caihong`) (`rainbow`):**
+**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
 
 `OPD2404`: OnePlus Pad Pro
 
@@ -480,7 +482,7 @@
 
 `W501CN`: OnePlus Watch 钴合金限定版 (国行)
 
-`W301GB`: OnePlus Watch 国际版 / 钴合金限定版 (国际)
+`W301GB`: OnePlus Watch 国际版 / 钴合金限定版 (国际) / 哈利波特限定版
 
 **OnePlus Watch 2R / OnePlus Watch 2 (CN) (`bagel`):**
 
@@ -490,6 +492,10 @@
 
 **OnePlus Watch 2 (`almond`):**
 
-`OPWWE231`: OnePlus Watch 2
+`OPWWE231`: OnePlus Watch 2 (国际)
 
-`OPWWE231`: OnePlus Watch 2 国际版
+**OnePlus Watch 3:**
+
+~`OPWW251`: OnePlus Watch 3 (国行)~
+
+`OPWWE251`: OnePlus Watch 3 (国际)
