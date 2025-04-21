@@ -1047,9 +1047,9 @@
 
 `2404ARN45I`: Redmi 13 India
 
-**[`N19L`] Redmi 13 (`moon`) (`tides`):**
+**[`N19L`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
 
-`24049RN28L`: Redmi 13 Latin America
+`24049RN28L`: Redmi 13 Latin America / REDMI 13x Latin America
 
 **[`N19E`] Redmi 13 (`moon`):**
 
@@ -1670,6 +1670,10 @@
 **[`O10S`] REDMI Turbo 4 (`rodin`):**
 
 `24129RT7CC`: REDMI Turbo 4 China
+
+**[`O10U`] REDMI Turbo 4 Pro (`onyx`):**
+
+`25053RT47C`: REDMI Turbo 4 Pro China
 
 **[`F10`] Redmi K20 (`davinci`):**
 

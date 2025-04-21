@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-21
+- `xiaomi_en` Add REDMI Turbo 4 Pro.
 ### 2025-04-16
 - `vivo_global_en` Add several new models.
 ### 2025-04-13
