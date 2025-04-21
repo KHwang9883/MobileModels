@@ -251,6 +251,10 @@
 
 `M2352W1`: Redmi Watch 5 Lite 印度版
 
+**Redmi Watch Move:**
+
+`M2460W1`: Redmi Watch Move 印度版
+
 ## POCO 手表（RTOS）
 
 **POCO Watch:**

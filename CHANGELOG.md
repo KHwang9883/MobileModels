@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-04-21
 - `xiaomi` 新增 REDMI Turbo 4 Pro。
+- `xiaomi-wear` 新增 Redmi Watch Move 印度版。
 ### 2025-04-17
 - `huawei_cn` 新增 华为 Vision 智慧屏 5 SE。
 - `oppo_cn` 新增 OPPO K12s。
