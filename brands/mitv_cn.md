@@ -480,6 +480,8 @@
 
 `L43RA-RAE`: REDMI 电视 A43 2025 节能版 (一级能效)
 
+`L50RB-RAE`: REDMI 电视 A50 2025 节能版 (二级能效)
+
 `L55RB-RAE`: REDMI 电视 A55 2025 节能版 (一级能效)
 
 `L65RB-RAE`: REDMI 电视 A65 2025 节能版 (一级能效)
@@ -500,7 +502,7 @@
 
 `L70RB-AP`: Redmi 智能电视 A Pro 70 节能版 (二级能效)
 
-`L75RB-AP`: Redmi 智能电视 A Pro 75 节能版 (二级能效)
+`L75RB-AP`: Redmi 智能电视 A Pro 75 节能版 (一级能效)
 
 **REDMI 智能电视 A Pro 2025:**
 
@@ -569,6 +571,16 @@
 `L75RB-RX`: Redmi 智能电视 X75 2025
 
 `L85RB-RX`: Redmi 智能电视 X85 2025
+
+**Redmi 电视 X 2025:**
+
+`L55RB-RXE`: REDMI 电视 X55 2025 节能版 (二级能效)
+
+`L65RB-RXE`: REDMI 电视 X65 2025 节能版 (二级能效)
+
+`L75RB-RXE`: REDMI 电视 X75 2025 节能版 (一级能效)
+
+`L85RB-RXE`: REDMI 电视 X85 2025 节能版 (一级能效)
 
 **Redmi 智能电视 X Pro:**
 
