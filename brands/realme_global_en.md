@@ -225,6 +225,10 @@
 
 `RMX3940`: realme 14x 5G
 
+**realme 14T 5G:**
+
+`RMX5079`: realme 14T 5G
+
 **realme 14 Pro 5G:**
 
 `RMX5056`: realme 14 Pro 5G
