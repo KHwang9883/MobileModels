@@ -751,18 +751,22 @@
 
 `OWWE201`: OPPO Watch Free
 
-**OPPO Watch (`beluga`):**
+**OPPO Watch (Wi-Fi) (`beluga`):**
 
-`OW19W6`: OPPO Watch 41mm Wi-Fi
+`OW19W6`: OPPO Watch 41mm
 
-**OPPO Watch (`belugaxl`):**
+**OPPO Watch (Wi-Fi) (`belugaxl`):**
 
-`OW19W8`: OPPO Watch 46mm Wi-Fi
+`OW19W8`: OPPO Watch 46mm
 
-**OPPO Watch (`orca`):**
+**OPPO Watch (LTE) (`orca`):**
 
 `OW19W12`: OPPO Watch 46mm LTE
 
 **OPPO Watch X (`star`):**
 
 `OWWE231`: OPPO Watch X
+
+**OPPO Watch X2 (`xinghe`):**
+
+`OWWE251`: OPPO Watch X2
