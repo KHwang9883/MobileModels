@@ -308,6 +308,10 @@
 
 `K99J`: nubia Pad SE
 
+**nubia Pad Pro:**
+
+`NT01`: nubia Pad Pro
+
 ## 红魔手机
 
 **红魔电竞游戏手机:**

@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-04-26
+- `nubia` 新增 努比亚平板 Pro。
 ### 2025-04-21
 - `xiaomi` 新增 REDMI Turbo 4 Pro。
 - `xiaomi-wear` 新增 Redmi Watch Move 印度版。
