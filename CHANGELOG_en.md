@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-26
+- `oppo_global_en` Add OPPO K13.
 ### 2025-04-21
 - `xiaomi_en` Add REDMI Turbo 4 Pro.
 ### 2025-04-16
