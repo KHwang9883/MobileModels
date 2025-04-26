@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-04-26
+- `honor_cn` 新增 荣耀 X70i。
 - `nubia` 新增 努比亚平板 Pro。
 ### 2025-04-21
 - `xiaomi` 新增 REDMI Turbo 4 Pro。
