@@ -518,6 +518,10 @@
 
 `V2354A`: vivo Y37 Pro 5G
 
+**vivo Y37c (`PD2442`):**
+
+`V2442A`: vivo Y37c
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50
