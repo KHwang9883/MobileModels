@@ -233,6 +233,10 @@
 
 `TB520FU`: YOGA Pad Pro AI 元启版
 
+**YOGA Pad Pro 14.5 AI 元启版:**
+
+`TB571FU`: YOGA Pad Pro 14.5 AI 元启版
+
 **YOGA Paper 墨水平板:**
 
 `SP101FU`: YOGA Paper 墨水平板
