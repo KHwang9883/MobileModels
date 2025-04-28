@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-04-29
+- `motorola` 新增 moto edge 60、razr 60 系列。
 ### 2025-04-28
 - `lenovo` 新增 YOGA Pad Pro 14.5。
 ### 2025-04-27

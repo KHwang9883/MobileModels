@@ -197,3 +197,23 @@
 **moto g75 (`paros`):**
 
 `XT2437-4`: moto g75
+
+**moto edge 60 (`scout`):**
+
+`XT2505-4`: moto edge 60
+
+**moto edge 60s (`scout`):**
+
+`XT2503-3`: moto edge 60s
+
+**moto edge 60 Pro (`cybert`):**
+
+`XT2507-5`: moto edge 60 Pro
+
+**moto razr 60 (`aito`):**
+
+`XT2553-2`: moto razr 60
+
+**moto razr 60 Ultra (`leap`):**
+
+`XT2551-3`: moto razr 60 Ultra
