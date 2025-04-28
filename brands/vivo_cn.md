@@ -1176,7 +1176,7 @@
 
 `PA2473`: vivo Pad3 Pro
 
-**vivo Pad5 Pro:**
+**vivo Pad5 Pro (`DPD2429`):**
 
 `PA2573`: vivo Pad5 Pro
 
