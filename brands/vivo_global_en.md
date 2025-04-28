@@ -615,7 +615,7 @@
 
 `V2420`: vivo Y29 5G
 
-**vivo Y29s 5G:**
+**vivo Y29s 5G (`PD2443F`):**
 
 `V2446`: vivo Y29s 5G
 
