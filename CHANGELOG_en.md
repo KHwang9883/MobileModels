@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-04-30
+- `nothing` Add CMF Phone 2 Pro.
 ### 2025-04-29
 - `realme_global_en` Add realme GT 7.
 ### 2025-04-26

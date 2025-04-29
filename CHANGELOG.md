@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-04-30
+- `nothing` 新增 CMF Phone 2 Pro。
 ### 2025-04-29
 - `motorola` 新增 moto edge 60、razr 60 系列。
 ### 2025-04-28

@@ -32,3 +32,7 @@
 **CMF Phone 1 (`Tetris`):**
 
 `A015`: CMF Phone 1
+
+**CMF Phone 2 Pro (`Galaga`):**
+
+`A001`: CMF Phone 2 Pro
