@@ -227,7 +227,7 @@
 
 **realme 14T 5G:**
 
-`RMX5079`: realme 14T 5G
+`RMX5078` `RMX5079`: realme 14T 5G
 
 **realme 14 Pro 5G:**
 
@@ -336,6 +336,14 @@
 **realme GT 6T:**
 
 `RMX3853`: realme GT 6T
+
+**realme GT 7:**
+
+`RMX5061`: realme GT 7
+
+**realme GT 7T:**
+
+`RMX5085`: realme GT 7T
 
 **realme GT 7 Pro:**
 
