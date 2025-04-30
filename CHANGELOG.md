@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-01
+- `lenovo` 新增 小新平板 11、拯救者平板 Y700 四代。
 ### 2025-04-30
 - `honor_cn` 新增 荣耀 MagicBook Pro 16 2025。
 - `nothing` 新增 CMF Phone 2 Pro。
