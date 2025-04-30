@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-04-30
+- `honor_cn` 新增 荣耀 MagicBook Pro 16 2025。
 - `nothing` 新增 CMF Phone 2 Pro。
 ### 2025-04-29
 - `motorola` 新增 moto edge 60、razr 60 系列。

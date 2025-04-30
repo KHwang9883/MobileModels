@@ -1400,6 +1400,10 @@
 
 `DRA-72`: 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
 
+**荣耀 MagicBook Pro 16 2025:**
+
+`DRB-P`: 荣耀 MagicBook Pro 16 2025
+
 **荣耀 MagicBook Pro 14:**
 
 `FMB-P`: 荣耀 MagicBook Pro 14
