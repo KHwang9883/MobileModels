@@ -223,11 +223,11 @@
 
 **realme 14x 5G:**
 
-`RMX3940`: realme 14x 5G
+`RMX3940` `RMX3943`: realme 14x 5G
 
 **realme 14T 5G:**
 
-`RMX5078` `RMX5079`: realme 14T 5G
+`RMX5074` `RMX5078` `RMX5079`: realme 14T 5G
 
 **realme 14 Pro 5G:**
 
@@ -490,6 +490,12 @@
 **realme C75:**
 
 `RMX3941`: realme C75
+
+`RMX3943`: realme C75 5G
+
+**realme C75x:**
+
+`RMX5020`: realme C75x
 
 ## Note series
 
