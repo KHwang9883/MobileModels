@@ -441,9 +441,9 @@
 
 `HEY2-N09`: HONOR Pad 9 5G
 
-**HONOR Pad V9:**
+**HONOR Pad V9 (`Rowling`):**
 
-`ROL-W009`: HONOR Pad V9
+`ROL-W09`: HONOR Pad V9
 
 **HONOR Pad X9 (`Eileen`):**
 
