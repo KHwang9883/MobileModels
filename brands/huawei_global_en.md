@@ -461,6 +461,10 @@
 
 `MIS-LX9`: HUAWEI nova 13 Pro
 
+**HUAWEI nova 13i (`Cartier`):**
+
+`CTR-L91`: HUAWEI nova 13i
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60

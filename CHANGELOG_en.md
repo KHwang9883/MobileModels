@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-05
+- `huawei_global_en` Add HUAWEI nova 13i.
 ### 2025-05-02
 - `realme_global_en` Add realme C75 5G & C75x.
 ### 2025-04-30
