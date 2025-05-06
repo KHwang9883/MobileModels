@@ -112,19 +112,19 @@
 
 `FLC-AN00`: 荣耀 Magic Vs3
 
-**荣耀 Magic7:**
+**荣耀 Magic7 (`Philippe`):**
 
 `PTP-AN00`: 荣耀 Magic7
 
 `PTP-AN60`: 荣耀 Magic7 (16GB+1TB)
 
-**荣耀 Magic7 Pro:**
+**荣耀 Magic7 Pro (`Patek`):**
 
 `PTP-AN10`: 荣耀 Magic7 Pro
 
 `PTP-AN70`: 荣耀 Magic7 Pro (16GB+1TB)
 
-**荣耀 Magic7 RSR 保时捷设计:**
+**荣耀 Magic7 RSR 保时捷设计 (`Patek`):**
 
 `PTP-AN20`: 荣耀 Magic7 RSR 保时捷设计
 
@@ -460,7 +460,7 @@
 
 `AMG-AN00`: 荣耀 GT
 
-**荣耀 GT Pro:**
+**荣耀 GT Pro (`PhilippeGT`):**
 
 `PPG-AN00`: 荣耀 GT Pro
 
@@ -626,7 +626,7 @@
 
 `AGI-AN00`: 荣耀 X60 GT
 
-**荣耀 X70i:**
+**荣耀 X70i (`Amber`):**
 
 `ABR-AN00`: 荣耀 X70i
 
@@ -1094,7 +1094,7 @@
 
 `ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 
-**荣耀平板 X9:**
+**荣耀平板 X9 (`Nadal`):**
 
 `NDL-W09`: 荣耀平板 X9 11 英寸 Wi-Fi 版
 
@@ -1268,19 +1268,19 @@
 
 `NMH-WFP9HN`: 荣耀 MagicBook 14 2021 R7
 
-**荣耀 MagicBook 14 2022:**
+**荣耀 MagicBook 14 2022 (`GalileoF`):**
 
 `GLO-F56`: 荣耀 MagicBook 14 2022 i5
 
 `GLO-F76`: 荣耀 MagicBook 14 2022 i7
 
-**荣耀 MagicBook 14 2022 锐龙版:**
+**荣耀 MagicBook 14 2022 锐龙版 (`GalileoN`):**
 
 `GLO-N56`: 荣耀 MagicBook 14 2022 R5
 
 `GLO-N76`: 荣耀 MagicBook 14 2022 R7
 
-**荣耀 MagicBook 14 2023:**
+**荣耀 MagicBook 14 2023 (`GalileoG`):**
 
 `GLO-G56`: 荣耀 MagicBook 14 2023 i5 (16GB+512GB)
 
@@ -1288,7 +1288,7 @@
 
 `GLO-G52`: 荣耀 MagicBook 14 2023 i5 (32GB+1TB)
 
-**荣耀 MagicBook 14 Pro 2023:**
+**荣耀 MagicBook 14 Pro 2023 (`GalileoG`):**
 
 `GLO-G561`: 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
 
@@ -1392,7 +1392,7 @@
 
 `HYM-W76`: 荣耀 MagicBook 16 Pro 2021 R7
 
-**荣耀 MagicBook Pro 16:**
+**荣耀 MagicBook Pro 16 (`DarwinA`):**
 
 `DRA-56`: 荣耀 MagicBook Pro 16 Ultra 5 (16GB 内存)
 
@@ -1400,7 +1400,7 @@
 
 `DRA-72`: 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
 
-**荣耀 MagicBook Pro 16 2025:**
+**荣耀 MagicBook Pro 16 2025 (`DarwinB`):**
 
 `DRB-P`: 荣耀 MagicBook Pro 16 2025
 
@@ -1408,25 +1408,27 @@
 
 `FMB-P`: 荣耀 MagicBook Pro 14
 
-**荣耀 MagicBook V 14:**
+**荣耀 MagicBook V 14 (`HiggsE`):**
 
 `HGE-W56`: 荣耀 MagicBook V 14 i5
 
 `HGE-W76`: 荣耀 MagicBook V 14 i7
 
-**荣耀 MagicBook V 14 2022:**
+**荣耀 MagicBook V 14 2022 (`HiggsF`):**
 
 `HGF-W56`: 荣耀 MagicBook V 14 2022 i5
 
 `HGF-W76`: 荣耀 MagicBook V 14 2022 i7
 
-**荣耀 MagicBook Art 14:**
+**荣耀 MagicBook Art 14 (`MooreA`):**
 
 `MRA-561`: 荣耀 MagicBook Art 14 Ultra 5 (16GB+1TB)
 
 `MRA-521`: 荣耀 MagicBook Art 14 Ultra 5 (32GB+1TB)
 
 `MRA-721`: 荣耀 MagicBook Art 14 Ultra 7 (32GB+1TB)
+
+**荣耀 MagicBook Art 14 (`MooreO`):**
 
 `MRO-521`: 荣耀 MagicBook Art 14 骁龙 X Elite (32GB+1TB)
 
@@ -1440,11 +1442,11 @@
 
 `NDR-WFH`: 荣耀 MagicBook X 14 2022 i5 (11 代酷睿)
 
-**荣耀 MagicBook X 14 2022:**
+**荣耀 MagicBook X 14 2022 (`FermiF`):**
 
 `FRI-F56`: 荣耀 MagicBook X 14 2022 i5 (12 代酷睿)
 
-**荣耀 MagicBook X 14 2023:**
+**荣耀 MagicBook X 14 2023 (`FermiF`):**
 
 `FRI-F38`: 荣耀 MagicBook X 14 2023 i3 (8GB+256GB)
 
@@ -1452,35 +1454,41 @@
 
 `FRI-F561`: 荣耀 MagicBook X 14 2023 i5 (16GB+1TB)
 
-**荣耀 MagicBook X 14 Pro 2023:**
+**荣耀 MagicBook X 14 Pro 2023 (`FermiG`):**
 
 `FRI-G56`: 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+512GB)
 
 `FRI-G561`: 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+1TB)
 
+**荣耀 MagicBook X 14 Pro 2023 (`FermiH`):**
+
 `FRI-H76`: 荣耀 MagicBook X 14 Pro 2023 R7 (16GB+512GB)
 
-**荣耀笔记本 X14 2024:**
+**荣耀笔记本 X14 2024 (`FermiG`):**
 
 `FRI-G56`: 荣耀笔记本 X14 2024 i5 (16GB+512GB)
 
 `FRI-G561`: 荣耀笔记本 X14 2024 i5 (16GB+1TB)
 
+**荣耀笔记本 X14 2024 (`FermiH`):**
+
 `FRI-H56`: 荣耀笔记本 X14 2024 R5 (16GB+512GB)
 
-**荣耀笔记本 X14 2025:**
+**荣耀笔记本 X14 2025 (`FermiG`):**
 
 `FRG-X`: 荣耀笔记本 X14 2025
 
+**荣耀笔记本 X14 2025 战斗版 (`GodelG`):**
+
 `GDG-X`: 荣耀笔记本 X14 2025 战斗版
 
-**荣耀笔记本 X14 Plus 2024:**
+**荣耀笔记本 X14 Plus 2024 (`FermiI`):**
 
 `FMI-76`: 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 
 `FMI-721`: 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
 
-**荣耀笔记本 X14 Plus 2025:**
+**荣耀笔记本 X14 Plus 2025 (`FermiB`):**
 
 `FRB-X`: 荣耀笔记本 X14 Plus 2025
 
@@ -1496,33 +1504,37 @@
 
 `BDR-WFH`: 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
 
-**荣耀 MagicBook X 16 2022:**
+**荣耀 MagicBook X 16 2022 (`BornF`):**
 
 `BRN-F56`: 荣耀 MagicBook X 16 2022 i5
 
-**荣耀 MagicBook X 16 2023:**
+**荣耀 MagicBook X 16 2023 (`BornF`):**
 
 `BRN-F56`: 荣耀 MagicBook X 16 2023 i5 (16GB+512GB)
 
 `BRN-F561`: 荣耀 MagicBook X 16 2023 i5 (16GB+1TB)
 
-**荣耀 MagicBook X 16 Pro 2023:**
+**荣耀 MagicBook X 16 Pro 2023 (`BornG`):**
 
 `BRN-G56`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+512GB)
 
 `BRN-G561`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
 
+**荣耀 MagicBook X 16 Pro 2023 (`BornH`):**
+
 `BRN-H76`: 荣耀 MagicBook X 16 Pro 2023 R7 (16GB+512GB)
 
-**荣耀笔记本 X16 2024:**
+**荣耀笔记本 X16 2024 (`BornG`):**
 
 `BRN-G56`: 荣耀笔记本 X16 2024 i5 (16GB+512GB)
 
 `BRN-G561`: 荣耀笔记本 X16 2024 i5 (16GB+1TB)
 
+**荣耀笔记本 X16 2024 (`BornH`):**
+
 `BRN-H56`: 荣耀笔记本 X16 2024 R5 (16GB+512GB)
 
-**荣耀笔记本 X16 2025:**
+**荣耀笔记本 X16 2025 (`BornG`):**
 
 `BRG-585`: 荣耀笔记本 X16 2025 i5 (8GB+512GB)
 
@@ -1534,17 +1546,17 @@
 
 `BRG-761`: 荣耀笔记本 X16 2025 i7 (16GB+1TB)
 
-**荣耀笔记本 X16 Plus 2024:**
+**荣耀笔记本 X16 Plus 2024 (`BornI`):**
 
 `BRI-76`: 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 
 `BRI-721`: 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
 
-**荣耀笔记本 X16 Plus 2025:**
+**荣耀笔记本 X16 Plus 2025 (`BornB`):**
 
 `BRB-X`: 荣耀笔记本 X16 Plus 2025
 
-**荣耀 MagicBook Z3 14 2023:**
+**荣耀 MagicBook Z3 14 2023 (`FermiF`):**
 
 `FRI-F56Z`: 荣耀 MagicBook Z3 14 2023 i5
 
@@ -1637,6 +1649,8 @@
 `HBE-B19`: HONOR MagicWatch 2 42mm (华为终端)
 
 `HBE-B39`: HONOR MagicWatch 2 42mm (荣耀终端)
+
+**HONOR MagicWatch 2 (`Minos`):**
 
 `MNS-B19`: HONOR MagicWatch 2 46mm (华为终端)
 
