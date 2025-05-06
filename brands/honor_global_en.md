@@ -229,7 +229,7 @@
 
 `ALT-NX1` `ALT-NX3`: HONOR 200 Smart
 
-**HONOR 400 Lite:**
+**HONOR 400 Lite (`Amber`):**
 
 `ABR-NX1` `ABR-NX3`: HONOR 400 Lite
 
@@ -279,11 +279,11 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
-**HONOR Magic7 Pro:**
+**HONOR Magic7 Pro (`Patek`):**
 
 `PTP-N49`: HONOR Magic7 Pro
 
-**PORSCHE DESIGN HONOR Magic7 RSR:**
+**PORSCHE DESIGN HONOR Magic7 RSR (`Patek`):**
 
 `PTP-N59`: PORSCHE DESIGN HONOR Magic7 RSR
 
@@ -383,7 +383,7 @@
 
 `LLY-LX1` `LLY-LX2` `LLY-LX3`: HONOR X8b
 
-**HONOR X8c:**
+**HONOR X8c (`Amber`):**
 
 `ABR-LX1` `ABR-LX2` `ABR-LX3`: HONOR X8c
 
@@ -429,7 +429,7 @@
 
 `AGM-W09HN`: HONOR Pad X8 Lite
 
-**HONOR Pad X8a:**
+**HONOR Pad X8a (`Nadal`):**
 
 `NDL-W09`: HONOR Pad X8a Wi-Fi
 
