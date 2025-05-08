@@ -2,6 +2,7 @@
 ### 2025-05-08
 - `meizu` 新增 魅族 Note 16 系列。
 - `motorola` 新增 moto razr 60 Pro。
+- `oppo_cn` 新增 OPPO Reno14、OPPO Pad SE。
 - `realme_cn` 新增 真我 Neo7 Turbo。
 - `vivo_cn` 新增 iQOO Neo10 Pro+。
 ### 2025-05-01

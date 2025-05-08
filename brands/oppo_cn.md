@@ -294,6 +294,14 @@
 
 `PKK110`: OPPO Reno13 Pro
 
+**OPPO Reno14:**
+
+`PLA110`: OPPO Reno14
+
+**OPPO Reno14 Pro:**
+
+`PKZ110`: OPPO Reno14 Pro
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -677,6 +685,10 @@
 **OPPO Pad 4 Pro (`erhai`):**
 
 `OPD2409`: OPPO Pad 4 Pro
+
+**OPPO Pad SE:**
+
+`OPD2417`: OPPO Pad SE
 
 ## Watch/Band 系列
 
