@@ -317,6 +317,14 @@
 
 `M923Q`: MEIZU Note 9 China
 
+**MEIZU Note 16 (`m2521`):**
+
+`M521Q`: MEIZU Note 16
+
+**MEIZU Note 16 Pro (`m2531`):**
+
+`M531Q`: MEIZU Note 16 Pro
+
 **MEIZU Note 21 (`m2411`):**
 
 `M411H` `M411L`: MEIZU Note 21 Global

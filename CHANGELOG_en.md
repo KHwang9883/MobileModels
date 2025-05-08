@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-08
+- `meizu_en` Add MEIZU Note 16 series.
 ### 2025-05-05
 - `huawei_global_en` Add HUAWEI nova 13i.
 ### 2025-05-02
