@@ -214,6 +214,10 @@
 
 `XT2553-2`: moto razr 60
 
+**moto razr 60 Pro (`arcfox`):**
+
+`XT2557-1`: moto razr 60 Pro
+
 **moto razr 60 Ultra (`leap`):**
 
 `XT2551-3`: moto razr 60 Ultra
