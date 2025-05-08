@@ -158,6 +158,10 @@
 
 `RMX5060`: 真我 Neo7
 
+**真我 Neo7 Turbo:**
+
+`RMX5062`: 真我 Neo7 Turbo
+
 **真我 Neo7 SE:**
 
 `RMX5080`: 真我 Neo7 SE

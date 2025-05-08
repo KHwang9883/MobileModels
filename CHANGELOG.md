@@ -2,6 +2,7 @@
 ### 2025-05-08
 - `meizu` 新增 魅族 Note 16 系列。
 - `motorola` 新增 moto razr 60 Pro。
+- `realme_cn` 新增 真我 Neo7 Turbo。
 ### 2025-05-01
 - `lenovo` 新增 小新平板 11、拯救者平板 Y700 四代。
 ### 2025-04-30
