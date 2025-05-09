@@ -647,3 +647,7 @@
 `MDZ-26-AA`: 小米盒子 4S Pro
 
 `MDZ-30-AA`: 小米盒子 4S MAX
+
+`MOB2MB-5P`: 小米盒子 5
+
+`MOB1MB-5M`: 小米盒子 5 MAX

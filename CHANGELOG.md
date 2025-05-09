@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-09
+- `mitv_cn` 新增 小米盒子 5。
 ### 2025-05-08
 - `meizu` 新增 魅族 Note 16 系列。
 - `motorola` 新增 moto razr 60 Pro。
