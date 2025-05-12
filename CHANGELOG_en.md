@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-12
+- `mitv_global_en` Add new models.
 ### 2025-05-08
 - `meizu_en` Add MEIZU Note 16 series.
 ### 2025-05-05
