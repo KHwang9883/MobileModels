@@ -1203,3 +1203,11 @@
 **iQOO Pad2 Pro (`DPD2329`):**
 
 `iPA2475`: iQOO Pad2 Pro
+
+**iQOO Pad5:**
+
+`iPA2556`: iQOO Pad5
+
+**iQOO Pad5 Pro (`DPD2429`):**
+
+`iPA2575`: iQOO Pad5 Pro
