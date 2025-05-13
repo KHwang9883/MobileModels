@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2025-05-13
 - `meizu_en` Add MEIZU 21 PRO (UWB).
+- `oneplus_en` Add OnePlus Pad 2 Pro.
 ### 2025-05-12
 - `mitv_global_en` Add new models.
 ### 2025-05-08

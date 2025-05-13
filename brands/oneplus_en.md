@@ -465,6 +465,10 @@
 
 `OPD2403`: OnePlus Pad 2
 
+**OnePlus Pad 2 Pro (`erhai`):**
+
+`OPD2413`: OnePlus Pad 2 Pro
+
 ## OnePlus Watches/Bands
 
 **OnePlus Band (`audio`):**
