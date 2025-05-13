@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-13
+- `meizu_en` Add MEIZU 21 PRO (UWB).
 ### 2025-05-12
 - `mitv_global_en` Add new models.
 ### 2025-05-08

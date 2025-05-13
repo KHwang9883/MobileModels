@@ -243,6 +243,8 @@
 
 `M481Q`: MEIZU 21 PRO
 
+`M481S`: MEIZU 21 PRO (UWB)
+
 **MEIZU 21 Note (`m2468`):**
 
 `M468Q`: MEIZU 21 Note China
