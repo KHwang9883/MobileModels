@@ -6,500 +6,510 @@
 
 ## 一加手机
 
-**OnePlus One (`bacon`):**
+**一加手机 (`bacon`):**
 
-`ONE A0001`: OnePlus One 全网通版 / 移动版 / 国际版
+`ONE A0001`: 一加手机 全网通版 / 移动版 / 国际版
 
-`ONE A1001`: OnePlus One 联通版
+`ONE A1001`: 一加手机 联通版
 
-**OnePlus 2 (`oneplus2`):**
+**一加手机 2 (`oneplus2`):**
 
-`ONE A2001`: OnePlus 2
+`ONE A2001`: 一加手机 2
 
-`ONE A2003`: OnePlus 2 国际版
+`ONE A2003`: 一加手机 2 国际版
 
-`ONE A2005`: OnePlus 2 北美版
+`ONE A2005`: 一加手机 2 北美版
 
-**OnePlus X (`onyx`):**
+**一加手机 X (`onyx`):**
 
-`ONE E1000`: OnePlus X 全网通版
+`ONE E1000`: 一加手机 X 全网通版
 
-`ONE E1001`: OnePlus X 移动版 / 联通版
+`ONE E1001`: 一加手机 X 移动版 / 联通版
 
-`ONE E1003`: OnePlus X 国际版
+`ONE E1003`: 一加手机 X 国际版
 
-`ONE E1005`: OnePlus X 北美版
+`ONE E1005`: 一加手机 X 北美版
 
-**OnePlus 3 (`oneplus3`):**
+**一加手机 3 (`oneplus3`):**
 
-`ONEPLUS A3000`: OnePlus 3 国行版
+`ONEPLUS A3000`: 一加手机 3 国行版
 
-`ONEPLUS A3003`: OnePlus 3 国际版
+`ONEPLUS A3003`: 一加手机 3 国际版
 
-**OnePlus 3T (`oneplus3t`):**
+**一加手机 3T (`oneplus3t`):**
 
-`ONEPLUS A3010`: OnePlus 3T 国行版
+`ONEPLUS A3010`: 一加手机 3T 国行版
 
-`ONEPLUS A3013`: OnePlus 3T 国际版
+`ONEPLUS A3013`: 一加手机 3T 国际版
 
-**OnePlus 5 (`cheeseburger`):**
+**一加 5 (`cheeseburger`):**
 
-`ONEPLUS A5000`: OnePlus 5
+`ONEPLUS A5000`: 一加 5
 
-**OnePlus 5T (`dumpling`):**
+**一加 5T (`dumpling`):**
 
-`ONEPLUS A5010`: OnePlus 5T
+`ONEPLUS A5010`: 一加 5T
 
-**OnePlus 6 (`enchilada`):**
+**一加 6 (`enchilada`):**
 
-`ONEPLUS A6000`: OnePlus 6 国行版
+`ONEPLUS A6000`: 一加 6 国行版
 
-`ONEPLUS A6003`: OnePlus 6 国际版
+`ONEPLUS A6003`: 一加 6 国际版
 
-**OnePlus 6T (`fajita`):**
+**一加 6T (`fajita`):**
 
-`ONEPLUS A6010`: OnePlus 6T 国行版
+`ONEPLUS A6010`: 一加 6T 国行版
 
-`ONEPLUS A6013`: OnePlus 6T 国际版
+`ONEPLUS A6013`: 一加 6T 国际版
 
-**OnePlus 7 (`guacamoleb`):**
+**一加 7 (`guacamoleb`):**
 
-`GM1900`: OnePlus 7 国行版
+`GM1900`: 一加 7 国行版
 
-`GM1901`: OnePlus 7 印度版
+`GM1901`: 一加 7 印度版
 
-`GM1903`: OnePlus 7 欧洲版
+`GM1903`: 一加 7 欧洲版
 
-`GM1905`: OnePlus 7 北美版 / 国际版
+`GM1905`: 一加 7 北美版 / 国际版
 
-**OnePlus 7 Pro (`guacamole`):**
+**一加 7 Pro (`guacamole`):**
 
-`GM1910`: OnePlus 7 Pro 国行版
+`GM1910`: 一加 7 Pro 国行版
 
-`GM1911`: OnePlus 7 Pro 印度版
+`GM1911`: 一加 7 Pro 印度版
 
-`GM1913`: OnePlus 7 Pro 欧洲版
+`GM1913`: 一加 7 Pro 欧洲版
 
-`GM1915`: OnePlus 7 Pro 北美版 / 国际版
+`GM1915`: 一加 7 Pro 北美版 / 国际版
 
-**OnePlus 7 Pro (`guacamolet`):**
+**一加 7 Pro (`guacamolet`):**
 
-`GM1917`: OnePlus 7 Pro T-Mobile 版
+`GM1917`: 一加 7 Pro T-Mobile 版
 
-**OnePlus 7 Pro 5G (`guacamoleg`):**
+**一加 7 Pro 5G (`guacamoleg`):**
 
-`GM1920`: OnePlus 7 Pro 5G 欧洲版
+`GM1920`: 一加 7 Pro 5G 欧洲版
 
-**OnePlus 7 Pro 5G (`guacamoles`):**
+**一加 7 Pro 5G (`guacamoles`):**
 
-`GM1925`: OnePlus 7 Pro 5G Sprint 版
+`GM1925`: 一加 7 Pro 5G Sprint 版
 
-**OnePlus 7T (`hotdogb`):**
+**一加 7T (`hotdogb`):**
 
-`HD1900`: OnePlus 7T 国行版
+`HD1900`: 一加 7T 国行版
 
-`HD1901`: OnePlus 7T 印度版
+`HD1901`: 一加 7T 印度版
 
-`HD1903`: OnePlus 7T 欧洲版
+`HD1903`: 一加 7T 欧洲版
 
-`HD1905`: OnePlus 7T 北美版 / 国际版
+`HD1905`: 一加 7T 北美版 / 国际版
 
-**OnePlus 7T (`hotdogt`):**
+**一加 7T (`hotdogt`):**
 
-`HD1907`: OnePlus 7T T-Mobile 版
+`HD1907`: 一加 7T T-Mobile 版
 
-**OnePlus 7T Pro (`hotdog`):**
+**一加 7T Pro (`hotdog`):**
 
-`HD1910`: OnePlus 7T Pro 国行版
+`HD1910`: 一加 7T Pro 国行版
 
-`HD1911`: OnePlus 7T Pro 印度版
+`HD1911`: 一加 7T Pro 印度版
 
-`HD1913`: OnePlus 7T Pro 欧洲版 / 国际版
+`HD1913`: 一加 7T Pro 欧洲版 / 国际版
 
-**OnePlus 7T Pro 5G (`hotdogg`):**
+**一加 7T Pro 5G (`hotdogg`):**
 
-`HD1925`: OnePlus 7T Pro 5G T-Mobile 版 / OnePlus Concept One
+`HD1925`: 一加 7T Pro 5G T-Mobile 版 / 一加 Concept One
 
-**OnePlus 8 (`instantnoodle`):**
+**一加 8 (`instantnoodle`):**
 
-`IN2010`: OnePlus 8 国行版
+`IN2010`: 一加 8 国行版
 
-`IN2011`: OnePlus 8 印度版
+`IN2011`: 一加 8 印度版
 
-`IN2013`: OnePlus 8 欧洲版
+`IN2013`: 一加 8 欧洲版
 
-`IN2015`: OnePlus 8 北美版 / 国际版
+`IN2015`: 一加 8 北美版 / 国际版
 
-**OnePlus 8 (`instantnoodlet`):**
+**一加 8 (`instantnoodlet`):**
 
-`IN2017`: OnePlus 8 T-Mobile 版
+`IN2017`: 一加 8 T-Mobile 版
 
-**OnePlus 8 (`instantnoodlevis`):**
+**一加 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 Visible 版 / Verizon 版
+`IN2019`: 一加 8 Visible 版 / Verizon 版
 
-**OnePlus 8 Pro (`instantnoodlep`):**
+**一加 8 Pro (`instantnoodlep`):**
 
-`IN2020`: OnePlus 8 Pro 国行版
+`IN2020`: 一加 8 Pro 国行版
 
-`IN2021`: OnePlus 8 Pro 印度版
+`IN2021`: 一加 8 Pro 印度版
 
-`IN2023`: OnePlus 8 Pro 欧洲版
+`IN2023`: 一加 8 Pro 欧洲版
 
-`IN2025`: OnePlus 8 Pro 北美版 / 国际版
+`IN2025`: 一加 8 Pro 北美版 / 国际版
 
-**OnePlus 8T (`kebab`):**
+**一加 8T (`kebab`):**
 
-`KB2000`: OnePlus 8T 国行版
+`KB2000`: 一加 8T 国行版
 
-`KB2001`: OnePlus 8T 印度版
+`KB2001`: 一加 8T 印度版
 
-`KB2003`: OnePlus 8T 欧洲版
+`KB2003`: 一加 8T 欧洲版
 
-`KB2005`: OnePlus 8T 北美版 / 国际版 / OnePlus 8T Concept
+`KB2005`: 一加 8T 北美版 / 国际版 / 一加 8T Concept
 
-**OnePlus 8T+ (`kebabt`):**
+**一加 8T+ (`kebabt`):**
 
-`KB2007`: OnePlus 8T+ T-Mobile 版
+`KB2007`: 一加 8T+ T-Mobile 版
 
-**OnePlus 9R (`lemonades`):**
+**一加 9R (`lemonades`):**
 
-`LE2100`: OnePlus 9R 国行版
+`LE2100`: 一加 9R 国行版
 
-`LE2101`: OnePlus 9R 印度版
+`LE2101`: 一加 9R 印度版
 
-**OnePlus 9 (`lemonade`):**
+**一加 9 (`lemonade`):**
 
-`LE2110`: OnePlus 9 国行版
+`LE2110`: 一加 9 国行版
 
-`LE2111`: OnePlus 9 印度版
+`LE2111`: 一加 9 印度版
 
-`LE2113`: OnePlus 9 欧洲版
+`LE2113`: 一加 9 欧洲版
 
-`LE2115`: OnePlus 9 北美版 / 国际版
+`LE2115`: 一加 9 北美版 / 国际版
 
-**OnePlus 9 (`lemonadet`):**
+**一加 9 (`lemonadet`):**
 
-`LE2117`: OnePlus 9 T-Mobile 版
+`LE2117`: 一加 9 T-Mobile 版
 
-**OnePlus 9 (`lemonadev`):**
+**一加 9 (`lemonadev`):**
 
-`LE2119`: OnePlus 9 Verzion 版
+`LE2119`: 一加 9 Verzion 版
 
-**OnePlus 9 Pro (`lemonadep`):**
+**一加 9 Pro (`lemonadep`):**
 
-`LE2120`: OnePlus 9 Pro 国行版
+`LE2120`: 一加 9 Pro 国行版
 
-`LE2121`: OnePlus 9 Pro 印度版
+`LE2121`: 一加 9 Pro 印度版
 
-`LE2123`: OnePlus 9 Pro 欧洲版
+`LE2123`: 一加 9 Pro 欧洲版
 
-`LE2125`: OnePlus 9 Pro 北美版 / 国际版
+`LE2125`: 一加 9 Pro 北美版 / 国际版
 
-**OnePlus 9 Pro (`lemonadept`):**
+**一加 9 Pro (`lemonadept`):**
 
-`LE2127`: OnePlus 9 Pro T-Mobile 版
+`LE2127`: 一加 9 Pro T-Mobile 版
 
-**OnePlus 9RT (`martini`):**
+**一加 9RT (`martini`):**
 
-`MT2110`: OnePlus 9RT 国行版
+`MT2110`: 一加 9RT 国行版
 
-`MT2111`: OnePlus 9RT 印度版
+`MT2111`: 一加 9RT 印度版
 
-**OnePlus 10 Pro (`negroni`):**
+**一加 10 Pro (`negroni`):**
 
-`NE2210`: OnePlus 10 Pro 国行版
+`NE2210`: 一加 10 Pro 国行版
 
-`NE2211`: OnePlus 10 Pro 印度版
+`NE2211`: 一加 10 Pro 印度版
 
-`NE2213`: OnePlus 10 Pro 欧洲版 / 国际版
+`NE2213`: 一加 10 Pro 欧洲版 / 国际版
 
-`NE2215`: OnePlus 10 Pro 北美版
+`NE2215`: 一加 10 Pro 北美版
 
-`NE2217`: OnePlus 10 Pro T-Mobile 版
+`NE2217`: 一加 10 Pro T-Mobile 版
 
-**OnePlus 10R / OnePlus Ace (`pickle`):**
+**一加 10R / 一加 Ace (`pickle`):**
 
-`PGKM10`: OnePlus Ace 国行版
+`PGKM10`: 一加 Ace 国行版
 
-`CPH2423`: OnePlus 10R 印度版
+`CPH2423`: 一加 10R 印度版
 
-`CPH2411`: OnePlus 10R 长寿版 印度版
+`CPH2411`: 一加 10R 长寿版 印度版
 
-**OnePlus Ace Race (`qqcandy`):**
+**一加 Ace 竞速版 (`qqcandy`):**
 
-`PGZ110`: OnePlus Ace 竞速版 国行版
+`PGZ110`: 一加 Ace 竞速版 国行版
 
-**OnePlus Ace Pro / OnePlus 10T (`ovaltine`):**
+**一加 Ace Pro / 一加 10T (`ovaltine`):**
 
-`PGP110`: OnePlus Ace Pro 国行版 / 原神限定版
+`PGP110`: 一加 Ace Pro 国行版 / 原神限定版
 
-`CPH2413`: OnePlus 10T 印度版
+`CPH2413`: 一加 10T 印度版
 
-`CPH2415`: OnePlus 10T 欧洲版 / 国际版
+`CPH2415`: 一加 10T 欧洲版 / 国际版
 
-`CPH2417`: OnePlus 10T 北美版
+`CPH2417`: 一加 10T 北美版
 
-`CPH2419`: OnePlus 10T T-Mobile 版
+`CPH2419`: 一加 10T T-Mobile 版
 
-**OnePlus 11 (`salami`):**
+**一加 11 (`salami`):**
 
-`PHB110`: OnePlus 11 国行版
+`PHB110`: 一加 11 国行版
 
-`CPH2447`: OnePlus 11 印度版
+`CPH2447`: 一加 11 印度版
 
-`CPH2449`: OnePlus 11 欧洲版 / 国际版 / OnePlus 11 Concept
+`CPH2449`: 一加 11 欧洲版 / 国际版 / 一加 11 Concept
 
-`CPH2451`: OnePlus 11 北美版
+`CPH2451`: 一加 11 北美版
 
-**OnePlus Ace 2 / OnePlus 11R (`udon`):**
+**一加 Ace 2 / 一加 11R (`udon`):**
 
-`PHK110`: OnePlus Ace 2 国行版 / 原神定制礼盒
+`PHK110`: 一加 Ace 2 国行版 / 原神定制礼盒
 
-`CPH2487`: OnePlus 11R 印度版
+`CPH2487`: 一加 11R 印度版
 
-**OnePlus Ace 2V / OnePlus Nord 3 (`vitamin`):**
+**一加 Ace 2V / 一加 Nord 3 (`vitamin`):**
 
-`PHP110`: OnePlus Ace 2V 国行版
+`PHP110`: 一加 Ace 2V 国行版
 
-`CPH2491`: OnePlus Nord 3 印度版
+`CPH2491`: 一加 Nord 3 印度版
 
-`CPH2493`: OnePlus Nord 3 欧洲版
+`CPH2493`: 一加 Nord 3 欧洲版
 
-**OnePlus Ace 2 Pro (`xigua`) / OnePlus Ace 2 Pro Genshin Impact (`xiyou`):**
+**一加 Ace 2 Pro (`xigua`) / 一加 Ace 2 Pro 原神派蒙主题礼盒 (`xiyou`):**
 
-`PJA110`: OnePlus Ace 2 Pro 国行版 / 原神派蒙主题礼盒
+`PJA110`: 一加 Ace 2 Pro 国行版 / 原神派蒙主题礼盒
 
-**OnePlus 12 (`waffle`):**
+**一加 12 (`waffle`):**
 
-`PJD110`: OnePlus 12 国行版
+`PJD110`: 一加 12 国行版
 
-`CPH2573`: OnePlus 12 印度版
+`CPH2573`: 一加 12 印度版
 
-`CPH2581`: OnePlus 12 欧洲版 / 国际版
+`CPH2581`: 一加 12 欧洲版 / 国际版
 
-`CPH2583`: OnePlus 12 北美版
+`CPH2583`: 一加 12 北美版
 
-**OnePlus Ace 3 / OnePlus 12R (`aston`) / OnePlus Ace 3 Genshin Impact Edition / OnePlus 12R Genshin Impact Edition (`martin`):**
+**一加 Ace 3 / 一加 12R (`aston`) / 一加 Ace 3 原神刻晴定制机 / 一加 12R Genshin Impact Edition (`martin`):**
 
-`PJE110`: OnePlus Ace 3 国行版 / 原神刻晴定制机
+`PJE110`: 一加 Ace 3 国行版 / 原神刻晴定制机
 
-`CPH2585`: OnePlus 12R 印度版 / 原神刻晴定制机
+`CPH2585`: 一加 12R 印度版 / 原神刻晴定制机
 
-`CPH2609`: OnePlus 12R 欧洲版 / 国际版 / 原神刻晴定制机
+`CPH2609`: 一加 12R 欧洲版 / 国际版 / 原神刻晴定制机
 
-`CPH2611`: OnePlus 12R 北美版 / 原神刻晴定制机
+`CPH2611`: 一加 12R 北美版 / 原神刻晴定制机
 
-**OnePlus Ace 3V (`audi`):**
+**一加 Ace 3V (`audi`):**
 
-`PJF110`: OnePlus Ace 3V 国行版
+`PJF110`: 一加 Ace 3V 国行版
 
-**OnePlus Ace 3 Pro (`corvette`):**
+**一加 Ace 3 Pro (`corvette`):**
 
-`PJX110`: OnePlus Ace 3 Pro 国行版
+`PJX110`: 一加 Ace 3 Pro 国行版
 
-**OnePlus 13 (`dodge`):**
+**一加 13 (`dodge`):**
 
-`PJZ110`: OnePlus 13 国行版
+`PJZ110`: 一加 13 国行版
 
-`CPH2649`: OnePlus 13 印度版
+`CPH2649`: 一加 13 印度版
 
-`CPH2653`: OnePlus 13 欧洲版 / 国际版
+`CPH2653`: 一加 13 欧洲版 / 国际版
 
-`CPH2655`: OnePlus 13 北美版
+`CPH2655`: 一加 13 北美版
 
-**OnePlus Ace 5 / OnePlus 13R (`giulia`):**
+**一加 Ace 5 / 一加 13R (`giulia`):**
 
-`PKG110`: OnePlus Ace 5 国行版
+`PKG110`: 一加 Ace 5 国行版
 
-`CPH2645`: OnePlus 13R 欧洲版 / 国际版
+`CPH2645`: 一加 13R 欧洲版 / 国际版
 
-`CPH2647`: OnePlus 13R 北美版
+`CPH2647`: 一加 13R 北美版
 
-`CPH2691`: OnePlus 13R 印度版
+`CPH2691`: 一加 13R 印度版
 
-**OnePlus Ace 5 Pro (`hummer`):**
+**一加 Ace 5 Pro (`hummer`):**
 
-`PKR110`: OnePlus Ace 5 Pro 国行版
+`PKR110`: 一加 Ace 5 Pro 国行版
 
-**OnePlus 13T (`pagani`):**
+**一加 13T (`pagani`):**
 
-`PKX110`: OnePlus 13T 国行版
+`PKX110`: 一加 13T 国行版
 
-`CPH2723`: OnePlus 13T 国际版
+`CPH2723`: 一加 13T 国际版
 
-**OnePlus Nord (`avicii`):**
+**一加 Ace 5 至尊版:**
 
-`AC2001`: OnePlus Nord 印度版
+`PLC110`: 一加 Ace 5 至尊版 国行版
 
-`AC2003`: OnePlus Nord 欧洲版 / 国际版
+**一加 Ace 5 竞速版:**
 
-**OnePlus Nord 2 (`denniz`):**
+`PLF110`: 一加 Ace 5 竞速版 国行版
 
-`DN2101`: OnePlus Nord 2 印度版
+**一加 Nord (`avicii`):**
 
-`DN2103`: OnePlus Nord 2 欧洲版
+`AC2001`: 一加 Nord 印度版
 
-**OnePlus Nord 2T (`karen`):**
+`AC2003`: 一加 Nord 欧洲版 / 国际版
 
-`CPH2399`: OnePlus Nord 2T 国际版
+**一加 Nord 2 (`denniz`):**
 
-`CPH2401`: OnePlus Nord 2T 印度版
+`DN2101`: 一加 Nord 2 印度版
 
-**OnePlus Nord 4 (`avalon`):**
+`DN2103`: 一加 Nord 2 欧洲版
 
-`CPH2661`: OnePlus Nord 4 印度版
+**一加 Nord 2T (`karen`):**
 
-`CPH2663`: OnePlus Nord 4 欧洲版 / 国际版
+`CPH2399`: 一加 Nord 2T 国际版
 
-**OnePlus Nord CE (`ebba`):**
+`CPH2401`: 一加 Nord 2T 印度版
 
-`EB2101`: OnePlus Nord CE 印度版
+**一加 Nord 4 (`avalon`):**
 
-`EB2103`: OnePlus Nord CE 欧洲版 / 国际版
+`CPH2661`: 一加 Nord 4 印度版
 
-**OnePlus Nord CE 2 (`ivan`):**
+`CPH2663`: 一加 Nord 4 欧洲版 / 国际版
 
-`IV2201`: OnePlus Nord CE 2 印度版
+**一加 Nord 5:**
 
-**OnePlus Nord CE 2 Lite (`oscar`):**
+`CPH2709`: 一加 Nord 5 国际版
 
-`CPH2381`: OnePlus Nord CE 2 Lite 印度版
+**一加 Nord CE (`ebba`):**
 
-`CPH2409`: OnePlus Nord CE 2 Lite 欧洲版 / 国际版
+`EB2101`: 一加 Nord CE 印度版
 
-**OnePlus Nord CE 3 (`ziti`):**
+`EB2103`: 一加 Nord CE 欧洲版 / 国际版
 
-`CPH2569`: OnePlus Nord CE 3 印度版
+**一加 Nord CE 2 (`ivan`):**
 
-**OnePlus Nord CE 3 Lite / OnePlus Nord N30 (`larry`):**
+`IV2201`: 一加 Nord CE 2 印度版
 
-`CPH2465`: OnePlus Nord CE 3 Lite 国际版
+**一加 Nord CE 2 Lite (`oscar`):**
 
-`CPH2467`: OnePlus Nord CE 3 Lite 印度版
+`CPH2381`: 一加 Nord CE 2 Lite 印度版
 
-`CPH2513`: OnePlus Nord N30 北美版
+`CPH2409`: 一加 Nord CE 2 Lite 欧洲版 / 国际版
 
-`CPH2515`: OnePlus Nord N30 T-Mobile 版
+**一加 Nord CE 3 (`ziti`):**
 
-**OnePlus Nord CE 4 (`benz`):**
+`CPH2569`: 一加 Nord CE 3 印度版
 
-`CPH2613`: OnePlus Nord CE 4 印度版
+**一加 Nord CE 3 Lite / 一加 Nord N30 (`larry`):**
 
-**OnePlus Nord CE 4 Lite (`camry`):**
+`CPH2465`: 一加 Nord CE 3 Lite 国际版
 
-`CPH2619`: OnePlus Nord CE 4 Lite 印度版
+`CPH2467`: 一加 Nord CE 3 Lite 印度版
 
-`CPH2621`: OnePlus Nord CE 4 Lite 欧洲版 / 国际版
+`CPH2513`: 一加 Nord N30 北美版
 
-**OnePlus Nord N10 (`billie8`):**
+`CPH2515`: 一加 Nord N30 T-Mobile 版
 
-`BE2025`: OnePlus Nord N10 Metro 版
+**一加 Nord CE 4 (`benz`):**
 
-`BE2026`: OnePlus Nord N10 北美版
+`CPH2613`: 一加 Nord CE 4 印度版
 
-`BE2029`: OnePlus Nord N10 欧洲版 / 国际版
+**一加 Nord CE 4 Lite (`camry`):**
 
-**OnePlus Nord N10 (`billie8t`):**
+`CPH2619`: 一加 Nord CE 4 Lite 印度版
 
-`BE2028`: OnePlus Nord N10 T-Mobile 版
+`CPH2621`: 一加 Nord CE 4 Lite 欧洲版 / 国际版
 
-**OnePlus Nord N100 (`bengal`):**
+**一加 Nord N10 (`billie8`):**
 
-`BE2011`: OnePlus Nord N100 北美版
+`BE2025`: 一加 Nord N10 Metro 版
 
-`BE2012`: OnePlus Nord N100 T-Mobile 版
+`BE2026`: 一加 Nord N10 北美版
 
-`BE2013`: OnePlus Nord N100 国际版
+`BE2029`: 一加 Nord N10 欧洲版 / 国际版
 
-`BE2015`: OnePlus Nord N100 Metro 版
+**一加 Nord N10 (`billie8t`):**
 
-**OnePlus Nord N20 (`gunnar`):**
+`BE2028`: 一加 Nord N10 T-Mobile 版
 
-`GN2200`: OnePlus Nord N20
+**一加 Nord N100 (`bengal`):**
 
-`CPH2459`: OnePlus Nord N20
+`BE2011`: 一加 Nord N100 北美版
 
-**OnePlus Nord N20 SE (`zhaoyun`):**
+`BE2012`: 一加 Nord N100 T-Mobile 版
 
-`CPH2469`: OnePlus Nord N20 SE
+`BE2013`: 一加 Nord N100 国际版
 
-**OnePlus Nord N30 SE (`fanli`):**
+`BE2015`: 一加 Nord N100 Metro 版
 
-`CPH2605`: OnePlus Nord N30 SE 欧洲版
+**一加 Nord N20 (`gunnar`):**
 
-**OnePlus Nord N200 (`dre9`):**
+`GN2200`: 一加 Nord N20
 
-`DE2117`: OnePlus Nord N200 北美版
+`CPH2459`: 一加 Nord N20
 
-**OnePlus Nord N200 (`dre8t`):**
+**一加 Nord N20 SE (`zhaoyun`):**
 
-`DE2118`: OnePlus Nord N200 T-Mobile 版
+`CPH2469`: 一加 Nord N20 SE
 
-**OnePlus Nord N300 (`hilda`):**
+**一加 Nord N30 SE (`fanli`):**
 
-`CPH2389`: OnePlus Nord N300
+`CPH2605`: 一加 Nord N30 SE 欧洲版
 
-## 一加平板/折叠屏
+**一加 Nord N200 (`dre9`):**
 
-**OnePlus Open (`hedwig`) (~`xueying-9`~):**
+`DE2117`: 一加 Nord N200 北美版
 
-`CPH2551`: OnePlus Open
+**一加 Nord N200 (`dre8t`):**
 
-**OnePlus Pad (`aries-o`):**
+`DE2118`: 一加 Nord N200 T-Mobile 版
 
-`OPD2203`: OnePlus Pad (2023)
+**一加 Nord N300 (`hilda`):**
 
-**OnePlus Pad Go (`bluey`):**
+`CPH2389`: 一加 Nord N300
 
-`OPD2304`: OnePlus Pad Go LTE
+## 一加平板/折叠屏手机
 
-`OPD2305`: OnePlus Pad Go Wi-Fi
+**一加 Open (`hedwig`) (~`xueying-9`~):**
 
-**OnePlus Pad (`dunhuang`):**
+`CPH2551`: 一加 Open
 
-`OPD2407`: OnePlus Pad (2024)
+**一加平板 (`aries-o`):**
 
-**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
+`OPD2203`: 一加平板 (2023)
 
-`OPD2404`: OnePlus Pad Pro
+**一加平板 Go (`bluey`):**
 
-`OPD2403`: OnePlus Pad 2
+`OPD2304`: 一加平板 Go LTE
 
-**OnePlus Pad 2 Pro (`erhai`):**
+`OPD2305`: 一加平板 Go Wi-Fi
 
-`OPD2413`: OnePlus Pad 2 Pro
+**一加平板 (`dunhuang`):**
+
+`OPD2407`: 一加平板 (2024)
+
+**一加平板 2 / 一加平板 Pro (`rainbow`) (~`caihong-o`~):**
+
+`OPD2404`: 一加平板 Pro 国行版
+
+`OPD2403`: 一加平板 2 国际版
+
+**一加平板 2 Pro (`erhai`):**
+
+`OPD2413`: 一加平板 2 Pro 国行版
 
 ## 一加手表/手环
 
-**OnePlus Band (`audio`):**
+**一加 Band (`audio`):**
 
-`W101IN`: OnePlus Band 印度版
+`W101IN`: 一加 Band 印度版
 
-**OnePlus Nord Watch (`newton`):**
+**一加 Nord Watch (`newton`):**
 
-`OPBBE221`: OnePlus Nord Watch 
+`OPBBE221`: 一加 Nord Watch
 
-**OnePlus Watch:**
+**一加手表:**
 
-`W301CN`: OnePlus Watch 国行版 / Cyberpunk 2077 限定版
+`W301CN`: 一加手表 国行版 / Cyberpunk 2077 限定版
 
-`W501CN`: OnePlus Watch 钴合金限定版 (国行)
+`W501CN`: 一加手表 钴合金限定版 (国行)
 
-`W301GB`: OnePlus Watch 国际版 / 钴合金限定版 (国际) / 哈利波特限定版
+`W301GB`: 一加手表 国际版 / 钴合金限定版 (国际) / 哈利波特限定版
 
-**OnePlus Watch 2R / OnePlus Watch 2 (CN) (`bagel`):**
+**一加手表 2R / 一加手表 2 (`bagel`):**
 
-`OPWW234`: OnePlus Watch 2 (国行)
+`OPWW234`: 一加手表 2 国行版
 
-`OPWWE234`: OnePlus Watch 2R
+`OPWWE234`: 一加手表 2R 国际版
 
-**OnePlus Watch 2 (`almond`):**
+**一加手表 2 (`almond`):**
 
-`OPWWE231`: OnePlus Watch 2 (国际)
+`OPWWE231`: 一加手表 2 国际版
 
-**OnePlus Watch 3:**
+**一加手表 3:**
 
-~`OPWW251`: OnePlus Watch 3 (国行)~
-
-`OPWWE251`: OnePlus Watch 3 (国际)
+`OPWWE251`: 一加手表 3 国际版
