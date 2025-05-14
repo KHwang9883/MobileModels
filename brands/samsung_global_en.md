@@ -523,7 +523,7 @@
 
 `SC-52F`: Galaxy S25 Ultra Japan (NTT Docomo)
 
-**Galaxy S25 Edge:**
+**Galaxy S25 Edge (`psq`):**
 
 `SM-S937B`: Galaxy S25 Edge Global
 

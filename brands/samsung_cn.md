@@ -252,7 +252,7 @@
 
 `SM-S9360`: Galaxy S25+
 
-**Galaxy S25 Edge:**
+**Galaxy S25 Edge (`psq`):**
 
 `SM-S9370`: Galaxy S25 Edge
 
