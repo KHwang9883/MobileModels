@@ -351,6 +351,10 @@
 
 `CPH2663`: OnePlus Nord 4 Europe / Global
 
+**OnePlus Nord 5:**
+
+`CPH2709`: OnePlus Nord 5 Global
+
 **OnePlus Nord CE (`ebba`):**
 
 `EB2101`: OnePlus Nord CE India
@@ -439,7 +443,7 @@
 
 `CPH2389`: OnePlus Nord N300
 
-## OnePlus Pads/Foldable Phones
+## OnePlus Tablets/Foldable Phones
 
 **OnePlus Open (`hedwig`) (~`xueying-9`~):**
 
@@ -469,7 +473,7 @@
 
 `OPD2413`: OnePlus Pad 2 Pro
 
-## OnePlus Watches/Bands
+## OnePlus Wearables
 
 **OnePlus Band (`audio`):**
 
@@ -498,7 +502,5 @@
 `OPWWE231`: OnePlus Watch 2 (Global)
 
 **OnePlus Watch 3:**
-
-~`OPWW251`: OnePlus Watch 3 (China)~
 
 `OPWWE251`: OnePlus Watch 3 (Global)

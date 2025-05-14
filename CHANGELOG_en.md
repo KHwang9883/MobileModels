@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-14
+- `oneplus_en` Add OnePlus Nord 5.
 ### 2025-05-13
 - `meizu_en` Add MEIZU 21 PRO (UWB).
 - `oneplus_en` Add OnePlus Pad 2 Pro.
