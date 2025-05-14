@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-05-14
 - `oneplus` 新增 一加 Ace 5 至尊系列。
+- `vivo_cn` 新增 vivo Pad5、vivo Y300+。
 ### 2025-05-13
 - `meizu` 新增 魅族 21 PRO Flyme 钛好用版。
 - `oneplus` 新增 一加平板 2 Pro。

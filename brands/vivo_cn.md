@@ -744,9 +744,9 @@
 
 `V2444A`: vivo Y300i 5G
 
-**vivo Y300t (`PD2445D`):**
+**vivo Y300t / vivo Y300+ (`PD2445D`):**
 
-`V2445EA`: vivo Y300t 5G
+`V2445EA`: vivo Y300t 5G / vivo Y300+ 5G
 
 **vivo Y300 GT (`PD2452`):**
 
@@ -1179,6 +1179,10 @@
 **vivo Pad3 Pro (`DPD2329`):**
 
 `PA2473`: vivo Pad3 Pro
+
+**vivo Pad5:**
+
+`PA2553`: vivo Pad5
 
 **vivo Pad5 Pro (`DPD2429`):**
 
