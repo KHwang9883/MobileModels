@@ -275,7 +275,7 @@
 
 **vivo V50 Lite 5G:**
 
-`V2453`: vivo V50 Lite 5G
+`V2450` `V2453`: vivo V50 Lite 5G
 
 **Jovi V50 Lite:**
 
@@ -356,6 +356,14 @@
 **vivo T4x 5G (`PD2445F`):**
 
 `V2437`: vivo T4x 5G
+
+**vivo T4 Lite 5G (`PD2443F`):**
+
+`V2509`: vivo T4 Lite 5G
+
+**vivo T4 Ultra:**
+
+`V2504`: vivo T4 Ultra
 
 ## vivo Y series
 
@@ -912,3 +920,7 @@
 **iQOO Z10x (`PD2445F`):**
 
 `I2404`: iQOO Z10x 5G
+
+**iQOO Z10 Lite (`PD2443F`):**
+
+`I2409`: iQOO Z10 Lite 5G
