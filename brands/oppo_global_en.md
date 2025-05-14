@@ -741,6 +741,12 @@
 
 `OPD2402`: OPPO Pad 3 Pro
 
+**OPPO Pad SE:**
+
+`OPD2419`: OPPO Pad SE Wi-Fi
+
+`OPD2420`: OPPO Pad SE LTE
+
 ## Watch/Band series
 
 **OPPO Band:**
