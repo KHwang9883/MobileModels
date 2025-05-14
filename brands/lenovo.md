@@ -237,7 +237,7 @@
 
 `TB520FU`: YOGA Pad Pro AI 元启版
 
-**YOGA Pad Pro 14.5 AI 元启版:**
+**YOGA Pad Pro 14.5 AI 元启版 (`titans`):**
 
 `TB571FU`: YOGA Pad Pro 14.5 AI 元启版
 
