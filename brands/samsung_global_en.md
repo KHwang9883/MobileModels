@@ -459,6 +459,8 @@
 
 `SM-S7210`: Galaxy S24 FE HK & TW
 
+`SM-S721Q`: Galaxy S24 FE Japan (SIM Free)
+
 `SCG30`: Galaxy S24 FE Japan (au)
 
 `SM-S721N`: Galaxy S24 FE South Korea
@@ -520,6 +522,20 @@
 `SCG32`: Galaxy S25 Ultra Japan (au)
 
 `SC-52F`: Galaxy S25 Ultra Japan (NTT Docomo)
+
+**Galaxy S25 Edge:**
+
+`SM-S937B`: Galaxy S25 Edge Global
+
+`SM-S937U`: Galaxy S25 Edge US Carrier
+
+`SM-S937U1`: Galaxy S25 Edge US Unlocked
+
+`SM-S937W`: Galaxy S25 Edge Canada
+
+`SM-S9370`: Galaxy S25 Edge China
+
+`SM-S937N`: Galaxy S25 Edge South Korea
 
 ## Galaxy Note
 

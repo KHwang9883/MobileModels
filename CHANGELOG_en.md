@@ -2,6 +2,7 @@
 ### 2025-05-14
 - `oneplus_en` Add OnePlus Nord 5.
 - `oppo_global_en` Add OPPO Pad SE.
+- `samsung_global_en` Add Galaxy S25 Edge.
 - `vivo_global_en` Add new models.
 ### 2025-05-13
 - `meizu_en` Add MEIZU 21 PRO (UWB).
