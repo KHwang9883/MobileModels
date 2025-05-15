@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-15
+- `oppo_cn` 新增 OPPO A5x。
 ### 2025-05-14
 - `oneplus` 新增 一加 Ace 5 至尊系列。
 - `vivo_cn` 新增 vivo Pad5、vivo Y300+。
