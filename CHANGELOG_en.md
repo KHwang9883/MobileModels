@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-05-17
+- `oppo_global_en` Add OPPO K13x.
 - `vivo_global_en` Add new models.
 ### 2025-05-14
 - `oneplus_en` Add OnePlus Nord 5.

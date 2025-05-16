@@ -717,6 +717,10 @@
 
 `CPH2729`: OPPO K13 5G
 
+**OPPO K13x:**
+
+`CPH2753`: OPPO K13x 5G
+
 ## Pad series
 
 **OPPO Pad Air:**
