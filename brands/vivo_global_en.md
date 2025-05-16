@@ -505,7 +505,11 @@
 
 **vivo Y19s Pro:**
 
-`V2458` `V2507` `V2508` `V2519`: vivo Y19s Pro
+`V2419` `V2458` `V2507` `V2508` `V2519`: vivo Y19s Pro
+
+**vivo Y19s GT 5G (`PD2443F`):**
+
+`V2526`: vivo Y19s GT 5G
 
 **vivo Y19e (`PD2442F`):**
 
@@ -626,6 +630,10 @@
 **vivo Y29s 5G (`PD2443F`):**
 
 `V2446`: vivo Y29s 5G
+
+**vivo Y29t 5G (`PD2443F`):**
+
+`V2527`: vivo Y29t 5G
 
 **vivo Y30 5G (`PD2197F`):**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-17
+- `vivo_global_en` Add new models.
 ### 2025-05-14
 - `oneplus_en` Add OnePlus Nord 5.
 - `oppo_global_en` Add OPPO Pad SE.
