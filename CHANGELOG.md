@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-17
+- `vivo_cn` 新增 vivo/iQOO Pad5e。
 ### 2025-05-15
 - `honor_cn` 新增 荣耀 400 系列、荣耀平板 10。
 - `oppo_cn` 新增 OPPO A5x。
