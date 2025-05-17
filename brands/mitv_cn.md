@@ -358,6 +358,16 @@
 
 `L85MA-SPL`: 小米电视 S85 Mini LED
 
+**[`O32`] 小米电视 S Mini LED 2025:**
+
+`L55MB-S`: 小米电视 S55 Mini LED 2025
+
+`L65MB-S`: 小米电视 S65 Mini LED 2025
+
+`L75MB-S`: 小米电视 S75 Mini LED 2025
+
+`L85MB-S`: 小米电视 S85 Mini LED 2025
+
 **小米电视 S Pro:**
 
 `L65MA-SM`: 小米电视 S Pro 65 Mini LED
