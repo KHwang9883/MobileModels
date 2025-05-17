@@ -80,9 +80,9 @@
 
 `ZTE A2023P`: 中兴 Axon 40 Ultra
 
-**中兴 Axon 50 Ultra:**
+**中兴 Axon 50 / 中兴 Axon 50 Ultra:**
 
-`ZTE A2024H`: 中兴 Axon 50 Ultra
+`ZTE A2024H`: 中兴 Axon 50 / 中兴 Axon 50 Ultra
 
 **中兴 Axon 60 Ultra:**
 
