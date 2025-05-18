@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-18
+- `vivo_cn` 新增 vivo S30 Pro mini。
 ### 2025-05-17
 - `mitv_cn` 新增 小米电视 S Mini LED 2025。
 - `vivo_cn` 新增 vivo/iQOO Pad5e。
