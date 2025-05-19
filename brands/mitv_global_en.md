@@ -79,6 +79,8 @@
 
 `L43MA-AFIN`: Xiaomi Smart TV A 43 2024 Edition
 
+`L43MB-AFIN`: Xiaomi Smart TV A 43 2025
+
 **Xiaomi Smart TV A Pro:**
 
 `L32MB-APIN`: Xiaomi QLED TV A Pro 32
