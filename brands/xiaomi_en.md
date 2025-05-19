@@ -623,6 +623,10 @@
 
 `24053PY09C`: Xiaomi Civi 4 Pro China
 
+**[`O9`] Xiaomi Civi 5 Pro (`luming`):**
+
+`25067PYE3C`: Xiaomi Civi 5 Pro China
+
 **[`F9`] Mi Play (`lotus`):**
 
 `M1901F9E`: Mi Play China / Global
@@ -1041,15 +1045,15 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**[`N19A`] Redmi 13 / REDMI 13X (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / Redmi 13X (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 Global / REDMI 13x Global
+`2404ARN45A`: Redmi 13 Global / Redmi 13x Global
 
 `2404ARN45I`: Redmi 13 India
 
-**[`N19L`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
+**[`N19L`] Redmi 13 / Redmi 13x (`moon`) (`tides`):**
 
-`24049RN28L`: Redmi 13 Latin America / REDMI 13x Latin America
+`24049RN28L`: Redmi 13 Latin America / Redmi 13x Latin America
 
 **[`N19E`] Redmi 13 (`moon`):**
 
@@ -1897,13 +1901,13 @@
 
 `24116RNC1I`: Redmi A4 5G India
 
-**[`C3Z`] REDMI A5 (`serenity`):**
+**[`C3Z`] Redmi A5 (`serenity`):**
 
-`25028RN03G` `25028RN03A` `25028RN03Y`: REDMI A5 Global
+`25028RN03G` `25028RN03A` `25028RN03Y`: Redmi A5 Global
 
-`25028RN03I`: REDMI A5 India
+`25028RN03I`: Redmi A5 India
 
-`25028RN03L`: REDMI A5 Latin America
+`25028RN03L`: Redmi A5 Latin America
 
 ## POCO Phones
 
@@ -2280,6 +2284,10 @@
 `24091RPADG`: Xiaomi Pad 7 Pro Global
 
 `24091RPADC`: Xiaomi Pad 7 Pro China
+
+**[`O80`] Xiaomi Pad 7 Ultra (`jinghu`):**
+
+`25032RP42C`: Xiaomi Pad 7 Ultra
 
 **[`L83`] Redmi Pad (`yunluo`):**
 

@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2025-05-19
 - `mitv_global_en` Add Xiaomi TV A 43 2025 (India).
+- `xiaomi_en` Add Xiaomi Pad 7 Ultra, Xiaomi Civi 5 Pro.
 ### 2025-05-17
 - `oppo_global_en` Add OPPO K13x.
 - `vivo_global_en` Add new models.
