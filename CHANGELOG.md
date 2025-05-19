@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-05-19
+- `honor_cn` 新增 荣耀手表 Fit。
 - `huawei_cn` 新增 nova 14 系列、WATCH FIT 4 系列、鸿蒙电脑。
 - `vivo_cn` 新增 vivo WATCH 系列。
 - `xiaomi` 新增 Xiaomi Pad 7 Ultra、Xiaomi Civi 5 Pro。
