@@ -1,4 +1,4 @@
-# 华为智选手机型号汇总
+# 华为智选型号汇总
 
 - 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO
 - codename: ⏹
@@ -174,3 +174,17 @@
 **Hi MatePad:**
 
 `BRO-W00`: Hi MatePad
+
+**Hi MateBook 14:**
+
+`MASH-16`: Hi MateBook 14 (16GB 内存)
+
+`MASH-32`: Hi MateBook 14 (32GB 内存)
+
+**Hi MateBook D 14:**
+
+`LYOI-16`: Hi MateBook D 14
+
+**Hi MateBook D 16:**
+
+`NICEI-16`: Hi MateBook D 16

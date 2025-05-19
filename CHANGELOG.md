@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-05-19
 - `vivo_cn` 新增 vivo WATCH 系列。
+- `zhixuan` 新增 智选笔记本。
 ### 2025-05-18
 - `vivo_cn` 新增 vivo S30 Pro mini。
 ### 2025-05-17
