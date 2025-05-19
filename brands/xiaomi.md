@@ -636,6 +636,10 @@
 
 `24053PY09C`: Xiaomi Civi 4 Pro
 
+**[`O9`] Xiaomi Civi 5 Pro (`luming`):**
+
+`25067PYE3C`: Xiaomi Civi 5 Pro
+
 ## 小米 Play 系列
 
 **[`F9`] 小米 Play (`lotus`):**
@@ -743,6 +747,10 @@
 `24091RPADC`: Xiaomi Pad 7 Pro 国行版
 
 `24091RPADG`: Xiaomi Pad 7 Pro 国际版
+
+**[`O80`] Xiaomi Pad 7 Ultra (`jinghu`):**
+
+`25032RP42C`: Xiaomi Pad 7 Ultra
 
 ## 红米 / Redmi 数字系列
 
