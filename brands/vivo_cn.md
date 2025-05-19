@@ -1231,3 +1231,51 @@
 **iQOO Pad5e:**
 
 `iPA2535`: iQOO Pad5e
+
+## 穿戴设备
+
+**vivo WATCH:**
+
+`WA2052`: vivo WATCH 42mm
+
+`WA2056`: vivo WATCH 46mm
+
+**vivo WATCH 2:**
+
+`WA2156A`: vivo WATCH 2 eSIM 版
+
+**vivo WATCH 3:**
+
+`WA2356A`: vivo WATCH 3 eSIM 版 / ECG 版
+
+`WA2356C`: vivo WATCH 3 蓝牙版
+
+**vivo WATCH GT:**
+
+`WA2456A`: vivo WATCH GT eSIM 版
+
+`WA2456C`: vivo WATCH GT 蓝牙版
+
+**vivo WATCH 5:**
+
+`WA2556A`: vivo WATCH 5 蓝牙版
+
+`WA2556B`: vivo WATCH 5 eSIM 版
+
+**iQOO WATCH:**
+
+`iWA2356A`: iQOO WATCH eSIM 版
+
+`iWA2356C`: iQOO WATCH 蓝牙版
+
+**iQOO WATCH GT:**
+
+`iWA2456A`: iQOO WATCH GT eSIM 版
+
+`iWA2456C`: iQOO WATCH GT 蓝牙版
+
+**iQOO WATCH 5:**
+
+`iWA2556A`: iQOO WATCH 5 蓝牙版
+
+`iWA2556B`: iQOO WATCH 5 eSIM 版
