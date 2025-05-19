@@ -703,6 +703,18 @@
 
 `MIS-AL00`: HUAWEI nova 13 Pro
 
+**HUAWEI nova 14:**
+
+`TLR-AL00`: HUAWEI nova 14
+
+**HUAWEI nova 14 Pro:**
+
+`MIA-AL00`: HUAWEI nova 14 Pro
+
+**HUAWEI nova 14 Ultra:**
+
+`MRT-AL10`: HUAWEI nova 14 Ultra
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -1489,6 +1501,16 @@
 
 `VGHH-32`: HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)
 
+**HUAWEI MateBook Pro (`Harden`):**
+
+`HAD-W24`: HUAWEI MateBook Pro (24GB 内存)
+
+`HAD-W32`: HUAWEI MateBook Pro (32GB 内存)
+
+**HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (`Hooper`):**
+
+`HPR-W72`: HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (32GB 内存)
+
 **HUAWEI MateBook 13 (`Wright`):**
 
 `WRT-W19`: HUAWEI MateBook 13 i5
@@ -1973,7 +1995,13 @@
 
 **华为擎云 L420 (`KelvinV`):**
 
-`KLVV-W5821`: 华为擎云 L420
+`KLVV-W5821`: 华为擎云 L420 (8GB+256GB)
+
+`KLVV-W5821B`: 华为擎云 L420 (8GB+512GB)
+
+`KLVV-W5821C`: 华为擎云 L420 (16GB+256GB)
+
+`KLVV-W5821D`: 华为擎云 L420 (16GB+512GB)
 
 ## 智慧屏
 
@@ -2311,6 +2339,10 @@
 
 `MDS-AL00` `MDS-AL10`: HUAWEI WATCH 4 Pro
 
+**HUAWEI WATCH 5 (`Socrates`):**
+
+`SOC-AL00`: HUAWEI WATCH 5
+
 **HUAWEI WATCH Ultimate:**
 
 `CLB-B19`: HUAWEI WATCH Ultimate 非凡大师
@@ -2405,19 +2437,31 @@
 
 **HUAWEI WATCH FIT:**
 
-`TIA-B19` `TIA-B29`: HUAWEI WATCH FIT
+`TIA-B19`: HUAWEI WATCH FIT / HUAWEI WATCH FIT new
 
-**HUAWEI WATCH FIT new:**
+`TIA-B29`: HUAWEI WATCH FIT 雅致款
 
-`TIA-B19`: HUAWEI WATCH FIT new
+**HUAWEI WATCH FIT mini:**
+
+`TIA-B39`: HUAWEI WATCH FIT mini
 
 **HUAWEI WATCH FIT 2 (`Yoda`):**
 
-`YDA-B09S` `YDA-B19S` `YDA-B19V`: HUAWEI WATCH FIT 2
+`YDA-B09S` `YDA-B19S`: HUAWEI WATCH FIT 2 活力款
+
+`YDA-B19V`: HUAWEI WATCH FIT 2 雅致款 / 时尚款
 
 **HUAWEI WATCH FIT 3 (`Solo`):**
 
 `SLO-B19`: HUAWEI WATCH FIT 3
+
+**HUAWEI WATCH FIT 4 (`Seiya`):**
+
+`SYA-B19`: HUAWEI WATCH FIT 4
+
+**HUAWEI WATCH FIT 4 Pro (`Seiya`):**
+
+`SYA-B29`: HUAWEI WATCH FIT 4 Pro
 
 **HUAWEI WATCH D:**
 
