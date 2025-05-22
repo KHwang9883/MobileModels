@@ -1,4 +1,4 @@
-# 华为智选型号汇总
+# 华为智选设备型号汇总
 
 - 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO
 - codename: ⏹
