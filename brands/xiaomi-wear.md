@@ -169,6 +169,8 @@
 
 `M2424W1`: Xiaomi Watch S4 eSIM 版
 
+`M2426W1`: Xiaomi Watch S4 eSIM 15 周年纪念版
+
 **[`N62S`] Xiaomi Watch S4 Sport:**
 
 `M2312W1`: Xiaomi Watch S4 Sport eSIM 版

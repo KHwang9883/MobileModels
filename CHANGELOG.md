@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-22
+- `xiaomi-wear` 新增 Xiaomi Watch S4 eSIM 15 周年纪念版。
 ### 2025-05-19
 - `honor_cn` 新增 荣耀手表 Fit。
 - `huawei_cn` 新增 nova 14 系列、WATCH FIT 4 系列、鸿蒙电脑。
