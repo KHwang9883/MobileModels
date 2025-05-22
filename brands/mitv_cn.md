@@ -368,6 +368,8 @@
 
 `L85MB-S`: 小米电视 S85 Mini LED 2025
 
+`L98MB-S`: 小米电视 S98 Mini LED 2025
+
 **小米电视 S Pro:**
 
 `L65MA-SM`: 小米电视 S Pro 65 Mini LED
