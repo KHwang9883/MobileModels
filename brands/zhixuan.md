@@ -59,19 +59,19 @@
 
 ## NZONE
 
-**NZONE S7:**
+**NZONE S7 (`Giant`):**
 
 `SP100`: NZONE S7 5G
 
-**NZONE S7 Pro:**
+**NZONE S7 Pro (`Coco`):**
 
 `SP200`: NZONE S7 Pro 5G
 
-**NZONE S7 Pro+:**
+**NZONE S7 Pro+ (`Monica`):**
 
 `SP300`: NZONE S7 Pro+ 5G
 
-**NZONE 50 Pro:**
+**NZONE 50 Pro (`Ballon`):**
 
 `SP210` `SP210T`: NZONE 50 Pro 5G
 
