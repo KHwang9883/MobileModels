@@ -1195,6 +1195,8 @@
 
 `WEB-AL00`: HUAWEI MatePad Pro 13.2 英寸 2025 典藏版 SIM 卡版
 
+`WEB-AL10`: HUAWEI MatePad Pro 13.2 英寸 2025 SIM 卡版
+
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
