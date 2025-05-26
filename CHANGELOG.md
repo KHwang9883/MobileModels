@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-05-26
+- `huawei_cn` 新增 HUAWEI WATCH 5 46mm。
 - `nubia` 新增 红魔 10S Pro 系列。
 ### 2025-05-22
 - `xiaomi-wear` 新增 Xiaomi Watch S4 eSIM 15 周年纪念版。
