@@ -193,11 +193,11 @@
 
 ## Global Products
 
-**Mi TV 4 / 4A (Indonesia):**
+**Mi TV 4 (Indonesia):**
 
-`L32M5-AN`: Mi TV 4 / 4A 32
+`L32M5-AN`: Mi TV 4 32
 
-`L43M5-AN`: Mi TV 4 / 4A 43
+`L43M5-AN`: Mi TV 4 43
 
 `L55M5-5XIN`: Mi TV 4 55
 
@@ -207,9 +207,17 @@
 
 `L55M6-EQG`: Mi TV 4 55 Bezel-less 4K
 
-**Mi TV 4A / 4S (Russia):**
+**Mi TV 4A (Indonesia):**
+
+`L32M5-AN`: Mi TV 4A 32
+
+`L43M5-AN`: Mi TV 4A 43
+
+**Mi TV 4A (Russia):**
 
 `L32M5-5ARU`: Mi TV 4A 32
+
+**Mi TV 4S (Russia):**
 
 `L43M5-5ARU`: Mi TV 4S 43
 
@@ -217,9 +225,11 @@
 
 `L55M5-5ARU`: Mi TV 4S 55
 
-**Mi TV 4A / 4S (Other regions):**
+**Mi TV 4A (Other regions):**
 
 `L32M5-5ASP`: Mi TV 4A 32
+
+**Mi TV 4S (Other regions):**
 
 `L43M5-5ASP`: Mi TV 4S 43
 
