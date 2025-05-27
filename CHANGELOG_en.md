@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-27
+- `vivo_global_en` Add iQOO Neo 10.
 ### 2025-05-26
 - `honor_global_en` Add HONOR Pad 10, HONOR 400.
 ### 2025-05-22

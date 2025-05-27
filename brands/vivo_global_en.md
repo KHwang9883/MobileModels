@@ -853,9 +853,13 @@
 
 `I2304`: iQOO Neo9 Pro
 
-**iQOO Neo10R (`PD2352F`):**
+**iQOO Neo 10 (`PD2453F`):**
 
-`I2221`: iQOO Neo10R
+`I2405`: iQOO Neo 10
+
+**iQOO Neo 10R (`PD2352F`):**
+
+`I2221`: iQOO Neo 10R
 
 **iQOO Z3 (`PD2073F`):**
 
