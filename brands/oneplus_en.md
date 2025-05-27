@@ -359,7 +359,7 @@
 
 `CPH2663`: OnePlus Nord 4 Europe / Global
 
-**OnePlus Nord 5:**
+**OnePlus Nord 5 (`lexus`):**
 
 `CPH2709`: OnePlus Nord 5 Global
 
