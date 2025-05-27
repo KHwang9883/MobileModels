@@ -201,7 +201,7 @@
 
 **vivo V30 Pro (`PD2332F`):**
 
-`V2319`: vivo Y30 Pro
+`V2319`: vivo V30 Pro
 
 **vivo V30e (`PD2343F`):**
 
