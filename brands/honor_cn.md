@@ -1778,20 +1778,26 @@
 
 `CGN-A00`: 荣耀观影眼镜
 
-## 荣耀独立前产品 
+## 荣耀品牌成立前手机产品
 
-**华为荣耀手机:**
+**荣耀 Honor:**
 
-`HUAWEI U8860`: Honor 联通版
+`HUAWEI U8860`: 荣耀 Honor 联通版
 
-`HUAWEI C8860E`: Honor 电信版
+`HUAWEI C8860E`: 荣耀 Honor 电信版
 
-`HUAWEI T8950`: Honor+ 移动版
+**荣耀 Honor+:**
 
-`HUAWEI U8950D`: Honor+ 联通版
+`HUAWEI T8950`: 荣耀 Honor+ 移动版
 
-`HUAWEI C8950D`: Honor+ 电信版
+`HUAWEI U8950D`: 荣耀 Honor+ 联通版
+
+`HUAWEI C8950D`: 荣耀 Honor+ 电信版
+
+**荣耀四核爱享版:**
 
 `HUAWEI U9508`: 荣耀四核爱享版
+
+**荣耀 3 outdoor:**
 
 `HUAWEI HN3-U01`: 荣耀 3 outdoor
