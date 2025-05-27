@@ -600,7 +600,7 @@
 
 **vivo Y71t (`PD2102`):**
 
-`V2102A`: vivo Y70t 5G
+`V2102A`: vivo Y71t 5G
 
 **vivo Y72t (`PD2164`):**
 
