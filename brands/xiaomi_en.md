@@ -1045,7 +1045,7 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**[`N19A`] Redmi 13 / Redmi 13X (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / Redmi 13x (`moon`) (`tides`):**
 
 `2404ARN45A`: Redmi 13 Global / Redmi 13x Global
 
