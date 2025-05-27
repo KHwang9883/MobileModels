@@ -264,7 +264,7 @@
 
 `M2101K9AI`: 小米 11 Lite 4G 印度版
 
-**[`K9D`] Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE (`lisa`):**
+**[`K9D`] Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE / Xiaomi 11 Lite NE 5G (`lisa`):**
 
 `2107119DC`: Xiaomi 11 青春活力版 国行版
 
