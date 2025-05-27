@@ -327,6 +327,14 @@
 
 `CPH2723`: OnePlus 13s India
 
+**OnePlus Ace 5 Ultra (`emira`):**
+
+`PLC110`: OnePlus Ace 5 Ultra China
+
+**OnePlus Ace 5 Race (`subaru`):**
+
+`PLF110`: OnePlus Ace 5 Race China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
