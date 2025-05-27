@@ -1933,7 +1933,7 @@
 
 `22021211RI`: POCO F4 India
 
-**[`L10`] POGO F4 GT (`ingres`):**
+**[`L10`] POCO F4 GT (`ingres`):**
 
 `21121210G`: POCO F4 GT Global
 
