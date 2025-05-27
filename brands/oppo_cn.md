@@ -294,11 +294,11 @@
 
 `PKK110`: OPPO Reno13 Pro
 
-**OPPO Reno14:**
+**OPPO Reno14 (`zhuque`) (`zhuque-c2`):**
 
 `PLA110`: OPPO Reno14
 
-**OPPO Reno14 Pro:**
+**OPPO Reno14 Pro (`zhuque`) (`zhuque-c1`):**
 
 `PKZ110`: OPPO Reno14 Pro
 
@@ -660,6 +660,10 @@
 
 `PLD110`: OPPO K12s
 
+**OPPO K13 (`knight`):**
+
+`PLM110`: OPPO K13
+
 ## 平板电脑
 
 **OPPO Pad:**
@@ -698,15 +702,17 @@
 
 **OPPO Band:**
 
-`OB19B1`: OPPO Band 标准版 / 名侦探柯南限定版
+`OB19B1` `OB19O1`: OPPO Band 运动版
 
-`OB19B3`: OPPO Band NFC 版
+`OB19B1` `OB19O3`: OPPO Band 运动版(国际版)
 
-`OB19O0`: OPPO Band 时尚版
+`OB19B1` `OB19O7`: OPPO Band 活力板
 
-`OB19O1`: OPPO Band 运动版
+`OB19B3` `OB19O0`: OPPO Band 时尚版(NFC 版)
 
-`OB19O2`: OPPO Band EVA 限定版
+`OB19B3` `OB19O2`: OPPO Band EVA 限定版
+
+`OB19B3` `OB19O8`: OPPO Band 名侦探柯南限定版
 
 **OPPO Band 2 (`haisenberg`):**
 
@@ -732,7 +738,7 @@
 
 `OW19W3`: OPPO Watch ECG / 精钢版
 
-**OPPO Watch 2 (`maxwell`):**
+**OPPO Watch 2 / OPPO Watch SE (`maxwell`):**
 
 `OWW202`: OPPO Watch 2 42mm 蓝牙版
 
@@ -758,10 +764,14 @@
 
 `OWW231`: OPPO Watch X
 
-**OPPO Watch X2 (`xinghe`):**
+**OPPO Watch Sport (`sport`):**
 
-`OWW251`: OPPO Watch X2
+`OWW235`: OPPO Watch Sport
 
 **OPPO Watch X2 Mini (`xingchen`):**
 
 `OWW242`: OPPO Watch X2 Mini
+
+**OPPO Watch X2 (`xinghe`):**
+
+`OWW251`: OPPO Watch X2

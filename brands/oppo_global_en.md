@@ -79,7 +79,7 @@
 
 `CPH2519`: OPPO Find N3 Flip
 
-**OPPO Find N5:**
+**OPPO Find N5 (`petrel`):**
 
 `CPH2671`: OPPO Find N5
 
@@ -277,31 +277,43 @@
 
 `CPH2603`: OPPO Reno11 F 5G / OPPO Reno11 A
 
-**OPPO Reno12:**
+**OPPO Reno12 (`omega`) (`omega-s3`):**
 
 `CPH2625`: OPPO Reno12 5G
 
-**OPPO Reno12 Pro:**
+**OPPO Reno12 Pro (`omega`) (`omega-s2`):**
 
 `CPH2629`: OPPO Reno12 Pro 5G
 
-**OPPO Reno12 F / OPPO Reno12 FS:**
+**OPPO Reno12 F / OPPO Reno12 FS (`omega`) (`omega-s1`):**
 
 `CPH2637`: OPPO Reno12 F 5G / OPPO Reno12 FS 5G
 
-**OPPO Reno13:**
+**OPPO Reno13 (`milkyway`) (`milkyway-s2`):**
 
 `CPH2689`: OPPO Reno13 5G
 
-**OPPO Reno13 Pro:**
+**OPPO Reno13 Pro (`milkyway`) (`milkyway-s1`):**
 
 `CPH2697`: OPPO Reno13 Pro 5G
 
-**OPPO Reno13 F:**
+**OPPO Reno13 F (`milkyway`) (`milkyway-s3`):**
 
 `CPH2701`: OPPO Reno13 F
 
 `CPH2699`: OPPO Reno13 F 5G
+
+**OPPO Reno14 (`zhuque`) (`zhuque-s2`):**
+
+`CPH2737`: OPPO Reno14
+
+**OPPO Reno14 Pro (`zhuque`) (`zhuque-s1`):**
+
+`CPH2739`: OPPO Reno14 Pro
+
+**OPPO Reno14 F (`zhuque`) (`zhuque-s3`):**
+
+`CPH2743`: OPPO Reno14 F 5G
 
 ## F series
 
@@ -747,7 +759,7 @@
 
 `OPD2303`: OPPO Pad Neo LTE
 
-**OPPO Pad 3:**
+**OPPO Pad 3 (`dunhuang`):**
 
 `OPD2406`: OPPO Pad 3
 
@@ -765,7 +777,7 @@
 
 **OPPO Band:**
 
-`OB19B1`: OPPO Band / Style
+`OB19B1` `OB19O3`: OPPO Band / Style
 
 **OPPO Band 2:**
 
