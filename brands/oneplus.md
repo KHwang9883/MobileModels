@@ -404,6 +404,10 @@
 
 `CPH2621`: 一加 Nord CE 4 Lite 欧洲版 / 国际版
 
+**一加 Nord CE 5 (`honda`):**
+
+`CPH2717`: 一加 Nord CE 5
+
 **一加 Nord N10 (`billie8`):**
 
 `BE2025`: 一加 Nord N10 Metro 版
