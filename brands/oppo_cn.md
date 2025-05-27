@@ -294,11 +294,11 @@
 
 `PKK110`: OPPO Reno13 Pro
 
-**OPPO Reno14:**
+**OPPO Reno14 (`zhuque`) (`zhuque-c2`):**
 
 `PLA110`: OPPO Reno14
 
-**OPPO Reno14 Pro:**
+**OPPO Reno14 Pro (`zhuque`) (`zhuque-c1`):**
 
 `PKZ110`: OPPO Reno14 Pro
 
@@ -659,6 +659,10 @@
 **OPPO K12s:**
 
 `PLD110`: OPPO K12s
+
+**OPPO K13 (`knight`):**
+
+`PLM110`: OPPO K13
 
 ## 平板电脑
 
