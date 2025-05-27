@@ -435,11 +435,11 @@
 
 `CPH2459`: OnePlus Nord N20
 
-**OnePlus Nord N20 SE (`zhaoyun`):**
+**OnePlus Nord N20 SE (`zhaoyun-o`):**
 
 `CPH2469`: OnePlus Nord 20 SE
 
-**OnePlus Nord N30 SE (`fanli`):**
+**OnePlus Nord N30 SE (`fanli-o`):**
 
 `CPH2605`: OnePlus Nord N30 SE Europe
 
@@ -465,13 +465,13 @@
 
 `OPD2203`: OnePlus Pad (2023)
 
-**OnePlus Pad Go (`bluey`):**
+**OnePlus Pad Go (`bluey-o`):**
 
 `OPD2304`: OnePlus Pad Go LTE
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad (`dunhuang`):**
+**OnePlus Pad (`dunhuang-o`):**
 
 `OPD2407`: OnePlus Pad (2024)
 
@@ -481,9 +481,11 @@
 
 `OPD2403`: OnePlus Pad 2
 
-**OnePlus Pad 2 Pro (`erhai`):**
+**OnePlus Pad 3 / OnePlus Pad 2 Pro (`erhai-o`):**
 
 `OPD2413`: OnePlus Pad 2 Pro
+
+`OPD2415`: OnePlus Pad 3
 
 ## OnePlus Wearables
 
@@ -514,5 +516,7 @@
 `OPWWE231`: OnePlus Watch 2 (Global)
 
 **OnePlus Watch 3:**
+
+~`OPWW251`: OnePlus Watch 3 (China)~
 
 `OPWWE251`: OnePlus Watch 3 (Global)
