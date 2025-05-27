@@ -79,7 +79,7 @@
 
 `CPH2519`: OPPO Find N3 Flip
 
-**OPPO Find N5:**
+**OPPO Find N5 (`petrel`):**
 
 `CPH2671`: OPPO Find N5
 
@@ -277,15 +277,15 @@
 
 `CPH2603`: OPPO Reno11 F 5G / OPPO Reno11 A
 
-**OPPO Reno12:**
+**OPPO Reno12 (`omega`) (`omega-s3`):**
 
 `CPH2625`: OPPO Reno12 5G
 
-**OPPO Reno12 Pro:**
+**OPPO Reno12 Pro (`omega`) (`omega-s2`):**
 
 `CPH2629`: OPPO Reno12 Pro 5G
 
-**OPPO Reno12 F / OPPO Reno12 FS:**
+**OPPO Reno12 F / OPPO Reno12 FS (`omega`) (`omega-s1`):**
 
 `CPH2637`: OPPO Reno12 F 5G / OPPO Reno12 FS 5G
 
