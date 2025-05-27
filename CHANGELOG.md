@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-05-27
+- `honor_cn` 新增 荣耀 MagicBook Pro 14 极客版。
 ### 2025-05-26
 - `huawei_cn` 新增 HUAWEI WATCH 5 46mm。
 - `nubia` 新增 红魔 10S Pro 系列。

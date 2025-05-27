@@ -1422,6 +1422,8 @@
 
 `FMB-P`: 荣耀 MagicBook Pro 14
 
+`FMB-PM`: 荣耀 MagicBook Pro 14 极客版
+
 **荣耀 MagicBook V 14 (`HiggsE`):**
 
 `HGE-W56`: 荣耀 MagicBook V 14 i5
