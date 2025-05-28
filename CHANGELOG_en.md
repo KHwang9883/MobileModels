@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-05-28
+- `realme_global_en` Add new models.
 ### 2025-05-27
 - `oneplus_en` Add OnePlus Ace 5 Race/Ace 5 Ultra.
 - `vivo_global_en` Add iQOO Neo 10.

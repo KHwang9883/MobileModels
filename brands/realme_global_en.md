@@ -231,11 +231,11 @@
 
 **realme 14 Pro 5G:**
 
-`RMX5056`: realme 14 Pro 5G
+`RMX5056` `RMX5057`: realme 14 Pro 5G
 
 **realme 14 Pro+ 5G:**
 
-`RMX5051`: realme 14 Pro+ 5G
+`RMX5051` `RMX5054`: realme 14 Pro+ 5G
 
 ## X series
 
@@ -487,6 +487,14 @@
 
 `RMX3782`: realme C67 5G
 
+**realme C71:**
+
+`RMX5303`: realme C71
+
+**realme C73:**
+
+`RMX3945`: realme C73 5G
+
 **realme C75:**
 
 `RMX3941`: realme C75
@@ -549,7 +557,7 @@
 
 **realme P3 Ultra:**
 
-`RMX5030`: realme P3 Ultra 5G
+`RMX5030` `RMX5031`: realme P3 Ultra 5G
 
 ## Narzo series
 
