@@ -133,7 +133,7 @@
 
 `M2106W1`: Xiaomi Watch Color 2
 
-**Xiaomi Watch S1:**
+**[`K62`] Xiaomi Watch S1:**
 
 `M2108W1`: Xiaomi Watch S1 国行版
 
@@ -175,11 +175,11 @@
 
 `M2312W1`: Xiaomi Watch S4 Sport eSIM 版
 
-**小米腕部心电血压记录仪:**
+**[`N60`] 小米腕部心电血压记录仪:**
 
 `M2230W1`: 小米腕部心电血压记录仪 (Xiaomi Watch H1)
 
-**小米腕部血压记录仪:**
+**[`N60E`] 小米腕部血压记录仪:**
 
 `M2412W1`: 小米腕部血压记录仪 (Xiaomi Watch H1 E)
 
