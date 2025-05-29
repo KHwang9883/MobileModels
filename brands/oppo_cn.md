@@ -704,11 +704,11 @@
 
 `OB19B1` `OB19O1`: OPPO Band 运动版
 
-`OB19B1` `OB19O3`: OPPO Band 运动版(国际版)
+`OB19B1` `OB19O3`: OPPO Band 运动版 (国际版)
 
-`OB19B1` `OB19O7`: OPPO Band 活力板
+`OB19B1` `OB19O7`: OPPO Band 活力版
 
-`OB19B3` `OB19O0`: OPPO Band 时尚版(NFC 版)
+`OB19B3` `OB19O0`: OPPO Band 时尚版 (NFC 版)
 
 `OB19B3` `OB19O2`: OPPO Band EVA 限定版
 
