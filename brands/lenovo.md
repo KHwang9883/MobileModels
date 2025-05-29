@@ -149,7 +149,7 @@
 
 `TB331FC`: 小新 Pad 2024
 
-**小新平板 11:**
+**小新平板 11 (`sycamore`):**
 
 `TB335FC`: 小新平板 11
 
@@ -257,7 +257,7 @@
 
 `TB321FU`: 拯救者平板 Y700 2025
 
-**拯救者平板 Y700 四代:**
+**拯救者平板 Y700 四代 (`elden`):**
 
 `TB322FC`: 拯救者平板 Y700 四代
 
@@ -439,11 +439,25 @@
 
 `TB-X802F`: 联想昭阳 G11 10.95 英寸 Wi-Fi 版
 
-**Lenovo Tab K11 (`m11`):**
+**联想昭阳 G12 (`citrus`):**
 
-`Lenovo TB-J606F`: Lenovo Tab K11 11 英寸 Wi-Fi 版
+`TB-X903F`: 联想昭阳 G12 11.5 英寸 Wi-Fi 版
 
-`Lenovo TB-J606N`: Lenovo Tab K11 11 英寸 LTE 版
+**联想昭阳 P07 (`citrus`):**
+
+`TB352FC1`: 联想昭阳 P07 11.5 英寸 Wi-Fi 版
+
+`TB352XC1`: 联想昭阳 P07 11.5 英寸 LTE 版
+
+**联想平板电脑 K11 (`m11`):**
+
+`Lenovo TB-J606F`: 联想平板电脑 K11 11 英寸 Wi-Fi 版
+
+`Lenovo TB-J606N`: 联想平板电脑 K11 11 英寸 LTE 版
+
+**联想平板电脑 S11 Pro (`citrus`):**
+
+`QBH11`: 联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版
 
 **ThinkBook Plus Hybrid 2024 (`gem`):**
 
