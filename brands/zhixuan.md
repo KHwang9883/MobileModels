@@ -171,6 +171,10 @@
 
 `JLG-AN00`: Hi 畅享 80 5G / Hi 畅享 80S 5G
 
+**Hi 畅享 80 GT (`Jiaolong`):**
+
+`JLG-AN80`: Hi 畅享 80 GT 5G
+
 **Hi MatePad:**
 
 `BRO-W00`: Hi MatePad
