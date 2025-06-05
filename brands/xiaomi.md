@@ -752,6 +752,10 @@
 
 `25032RP42C`: Xiaomi Pad 7 Ultra
 
+**[`O81A`] Xiaomi Pad 7S Pro 12.5 (`violin`):**
+
+`25053RP5CC`: Xiaomi Pad 7S Pro 12.5
+
 ## 红米 / Redmi 数字系列
 
 **[`H2TD`] 红米手机 (`wt93007`) (`HM2013022`):**
@@ -2081,6 +2085,26 @@
 `24076RP19G`: Redmi Pad SE 8.7 4G 国际版
 
 `24076RP19I`: Redmi Pad SE 4G 印度版
+
+**[`O84`] REDMI Pad 2 (`taiko`):**
+
+`25040RP0AC`: REDMI Pad 2 国行版
+
+`25040RP0AG`: Redmi Pad 2 国际版
+
+`25040RP0AI`: Redmi Pad 2 印度版
+
+`25040RP0AE`: Redmi Pad 2 欧洲版
+
+`25040RP0AL`: Redmi Pad 2 拉美版
+
+**[`O84X`] REDMI Pad 2 4G (`koto`):**
+
+`2505DRP06C`: REDMI Pad 2 4G 国行版
+
+`2505DRP06G`: Redmi Pad 2 4G 国际版
+
+`2505DRP06I`: Redmi Pad 2 4G 印度版
 
 ## POCO 手机
 

@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-06-06
+- `xiaomi` 新增 Xiaomi Pad 7S Pro、REDMI Pad 2。
 ### 2025-06-05
 - `vivo_cn` 新增 vivo Y300c。
 ### 2025-05-30
