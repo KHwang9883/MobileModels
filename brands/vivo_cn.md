@@ -736,9 +736,9 @@
 
 `V2353DA`: vivo Y200t 5G
 
-**vivo Y300 (`PD2435`):**
+**vivo Y300 / vivo Y300c (`PD2435`):**
 
-`V2435A`: vivo Y300 5G
+`V2435A`: vivo Y300 5G / vivo Y300c 5G
 
 **vivo Y300 Pro (`PD2410`):**
 
