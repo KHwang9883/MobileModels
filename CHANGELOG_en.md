@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-06-06
+- `xiaomi_en` Add Xiaomi Pad 7S Pro, Redmi Pad 2.
 ### 2025-05-28
 - `realme_global_en` Add new models.
 ### 2025-05-27

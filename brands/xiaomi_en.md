@@ -2289,6 +2289,10 @@
 
 `25032RP42C`: Xiaomi Pad 7 Ultra
 
+**[`O81A`] Xiaomi Pad 7S Pro 12.5 (`violin`):**
+
+`25053RP5CC`: Xiaomi Pad 7S Pro 12.5 China
+
 **[`L83`] Redmi Pad (`yunluo`):**
 
 `22081283G`: Redmi Pad Global
@@ -2330,6 +2334,26 @@
 `24076RP19G`: Redmi Pad SE 8.7 4G Global
 
 `24076RP19I`: Redmi Pad SE 4G India
+
+**[`O84`] Redmi Pad 2 (`taiko`):**
+
+`25040RP0AG`: Redmi Pad 2 Global
+
+`25040RP0AI`: Redmi Pad 2 India
+
+`25040RP0AE`: Redmi Pad 2 Europe
+
+`25040RP0AL`: Redmi Pad 2 Latin America
+
+`25040RP0AC`: REDMI Pad 2 China
+
+**[`O84X`] Redmi Pad 2 4G (`koto`):**
+
+`2505DRP06G`: Redmi Pad 2 4G Global
+
+`2505DRP06I`: Redmi Pad 2 4G India
+
+`2505DRP06C`: REDMI Pad 2 4G China
 
 **[`N83P`] POCO Pad (`dizi`):**
 
