@@ -345,6 +345,10 @@
 
 `ALT-NX3`: HONOR X6b 5G
 
+**HONOR X6c:**
+
+`NIC-LX1` `NIC-LX2` `NIC-LX3`: HONOR X6c
+
 **HONOR X7 (`Carmella`):**
 
 `CMA-LX1` `CMA-LX2` `CMA-LX3`: HONOR X7
