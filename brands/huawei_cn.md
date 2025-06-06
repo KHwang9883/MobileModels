@@ -2157,6 +2157,16 @@
 
 `HD86WATN`: 华为智慧屏 S5 Pro New 86
 
+**华为智慧屏 S6:**
+
+`HD55KULX`: 华为智慧屏 S6 55
+
+`HD65KULX`: 华为智慧屏 S6 65
+
+`HD75KULX`: 华为智慧屏 S6 75
+
+`HD85KULX`: 华为智慧屏 S6 85
+
 **华为智慧屏 S6 Pro:**
 
 `HD6XAJMS`: 华为智慧屏 S6 Pro 65
