@@ -236,6 +236,10 @@
 
 `V2454DA`: vivo X200 Ultra 卫星通信版
 
+**vivo X Fold5 (`PD2436`):**
+
+`V2436A`: vivo X Fold5
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -1115,10 +1119,6 @@
 **iQOO Z9x (`PD2353`):**
 
 `V2353A`: iQOO Z9x
-
-**iQOO Z10 (`PD2436`):**
-
-`V2436A`: iQOO Z10
 
 **iQOO Z10 Turbo (`PD2452`):**
 

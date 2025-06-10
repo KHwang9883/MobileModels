@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-06-11
+- `vivo_cn` 订正型号，新增 vivo X Fold5。
 ### 2025-06-06
 - `huawei_cn` 新增 华为智慧屏 S6。
 - `xiaomi` 新增 Xiaomi Pad 7S Pro、REDMI Pad 2。
