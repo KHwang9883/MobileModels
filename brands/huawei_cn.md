@@ -449,6 +449,18 @@
 
 `HBP-AL00`: HUAWEI Pura 70 Ultra
 
+**HUAWEI Pura 80 Pro (`Lamarr`):**
+
+`LMR-AL00`: HUAWEI Pura 80 Pro
+
+**HUAWEI Pura 80 Pro+ (`Lamarr`):**
+
+`LMR-AL00`: HUAWEI Pura 80 Pro+
+
+**HUAWEI Pura 80 Ultra (`Lamarr`):**
+
+`LMR-AL10`: HUAWEI Pura 80 Ultra
+
 **HUAWEI Pura X (`Verde`):**
 
 `VDE-AL00`: HUAWEI Pura X

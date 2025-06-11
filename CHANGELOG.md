@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-06-11
+- `huawei_cn` 新增 HUAWEI Pura 80 系列（缺标准版）。
 - `vivo_cn` 订正型号，新增 vivo X Fold5。
 ### 2025-06-06
 - `huawei_cn` 新增 华为智慧屏 S6。
