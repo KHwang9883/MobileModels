@@ -455,7 +455,7 @@
 
 **HUAWEI Pura 80 Pro+ (`Lamarr`):**
 
-`LMR-AL00`: HUAWEI Pura 80 Pro+
+`LMR-AL10`: HUAWEI Pura 80 Pro+
 
 **HUAWEI Pura 80 Ultra (`Lamarr`):**
 
