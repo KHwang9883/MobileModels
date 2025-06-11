@@ -738,7 +738,7 @@
 
 `OW19W3`: OPPO Watch ECG / 精钢版
 
-**OPPO Watch 2 / OPPO Watch SE (`maxwell`):**
+**OPPO Watch 2 (`maxwell`):**
 
 `OWW202`: OPPO Watch 2 42mm 蓝牙版
 
@@ -748,19 +748,19 @@
 
 `OW20W3`: OPPO Watch 2 46mm ECG
 
-`OWW213`: OPPO Watch SE
+**OPPO Watch 3 / OPPO Watch SE (`oersted`):**
 
-**OPPO Watch 3:**
+`OWW213`: OPPO Watch SE
 
 `OWW212`: OPPO Watch 3
 
 `OWW211`: OPPO Watch 3 Pro
 
-**OPPO Watch 4 Pro (`comet`):**
+**OPPO Watch 4 Pro (`comet`) (`huixing`):**
 
 `OWW221`: OPPO Watch 4 Pro
 
-**OPPO Watch X (`star`):**
+**OPPO Watch X (`star`) (`hengxing`):**
 
 `OWW231`: OPPO Watch X
 
@@ -772,6 +772,6 @@
 
 `OWW242`: OPPO Watch X2 Mini
 
-**OPPO Watch X2 (`xinghe`):**
+**OPPO Watch X2 (`starriver`) (`xinghe`):**
 
 `OWW251`: OPPO Watch X2

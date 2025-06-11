@@ -515,7 +515,7 @@
 
 `OPWWE231`: OnePlus Watch 2 (Global)
 
-**OnePlus Watch 3:**
+**OnePlus Watch 3 (`chili`) (`chilie`):**
 
 ~`OPWW251`: OnePlus Watch 3 (China)~
 

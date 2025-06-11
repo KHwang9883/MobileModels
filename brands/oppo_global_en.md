@@ -779,7 +779,7 @@
 
 `OB19B1` `OB19O3`: OPPO Band / Style
 
-**OPPO Band 2:**
+**OPPO Band 2 (`heisenberg`):**
 
 `OBBE215`: OPPO Band 2 Japan
 
@@ -799,10 +799,10 @@
 
 `OW19W12`: OPPO Watch 46mm LTE
 
-**OPPO Watch X (`star`):**
+**OPPO Watch X (`wuyi`):**
 
 `OWWE231`: OPPO Watch X
 
-**OPPO Watch X2 (`xinghe`):**
+**OPPO Watch X2 (`starriver`) (`starrivere`) (`xinghe`):**
 
 `OWWE251`: OPPO Watch X2
