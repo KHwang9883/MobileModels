@@ -362,6 +362,8 @@
 
 **一加 Nord 5 (`lexus`):**
 
+`CPH2707`: 一加 Nord 5 印度版
+
 `CPH2709`: 一加 Nord 5 国际版
 
 **一加 Nord CE (`ebba`):**
@@ -406,7 +408,9 @@
 
 **一加 Nord CE 5 (`honda`):**
 
-`CPH2717`: 一加 Nord CE 5
+`CPH2717`: 一加 Nord CE 5 印度版
+
+`CPH2719`: 一加 Nord CE 5 国际版
 
 **一加 Nord N10 (`billie8`):**
 
