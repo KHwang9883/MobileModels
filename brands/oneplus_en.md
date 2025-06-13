@@ -361,6 +361,8 @@
 
 **OnePlus Nord 5 (`lexus`):**
 
+`CPH2707`: OnePlus Nord 5 India
+
 `CPH2709`: OnePlus Nord 5 Global
 
 **OnePlus Nord CE (`ebba`):**
@@ -405,7 +407,9 @@
 
 **OnePlus Nord CE 5 (`honda`):**
 
-`CPH2717`: OnePlus Nord CE 5
+`CPH2717`: OnePlus Nord CE 5 India
+
+`CPH2719`: OnePlus Nord CE 5 Global
 
 **OnePlus Nord N10 (`billie8`):**
 
