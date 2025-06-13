@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-06-13
+- `samsung_global_en` Add new models.
 ### 2025-06-06
 - `honor_global_en` Add HONOR X6c.
 - `xiaomi_en` Add Xiaomi Pad 7S Pro, Redmi Pad 2.

@@ -1693,6 +1693,8 @@
 
 `SM-A5660`: Galaxy A56 5G China
 
+`SM-A566S`: Galaxy A56 5G South Korea
+
 **Galaxy A60 (`a60q`):**
 
 `SM-A606F`: Galaxy A60 Global
@@ -1945,6 +1947,10 @@
 
 `SM-M356B`: Galaxy M35 5G
 
+**Galaxy M36 5G (`m36x`):**
+
+`SM-M366B`: Galaxy M36 5G
+
 **Galaxy M40 (`m40`):**
 
 `SM-M405F`: Galaxy M40
@@ -2044,6 +2050,10 @@
 **Galaxy F34 5G (`m34x`):**
 
 `SM-E346B`: Galaxy F34 5G
+
+**Galaxy F36 5G (`m36x`):**
+
+`SM-E366B`: Galaxy F36 5G
 
 **Galaxy F41 (`f41`):**
 
