@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-06-13
+- `realme_global_en` Add NARZO 80 Lite.
 - `samsung_global_en` Add new models.
 ### 2025-06-06
 - `honor_global_en` Add HONOR X6c.

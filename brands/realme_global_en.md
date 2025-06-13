@@ -695,6 +695,10 @@
 
 `RMX3944`: realme NARZO 80x 5G
 
+**realme NARZO 80 Lite:**
+
+`RMX3945`: realme NARZO 80 Lite 5G
+
 ## Tablets
 
 **realme Pad:**
