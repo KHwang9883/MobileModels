@@ -459,6 +459,16 @@
 
 `25042PN24C`: Xiaomi 15S Pro China
 
+**[`O12A`] Xiaomi 15T (`goya`):**
+
+`25069PTEBG`: Xiaomi 15T Global
+
+**[`O12U`] Xiaomi 15T Pro (`klimt`):**
+
+`2506BPN68G`: Xiaomi 15T Pro Global
+
+`2506BPN68R`: Xiaomi 15T Pro Japan (SIM Free)
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -560,6 +570,12 @@
 `2405CPX3DG`: Xiaomi MIX Flip Global
 
 `2405CPX3DC`: Xiaomi MIX Flip China
+
+**[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
+
+`2505APX7BG`: Xiaomi MIX Flip 2 Global
+
+`2505APX7BC`: Xiaomi MIX Flip 2 China
 
 **[`B3`] Mi Max (`hydrogen`):**
 
@@ -2356,6 +2372,8 @@
 `2505DRP06G`: Redmi Pad 2 4G Global
 
 `2505DRP06I`: Redmi Pad 2 4G India
+
+`2505DRP06E`: Redmi Pad 2 4G Europe
 
 `2505DRP06C`: REDMI Pad 2 4G China
 
