@@ -1940,6 +1940,10 @@
 
 `24127RK2CC`: REDMI K80 Pro 冠军版
 
+**[`O12`] REDMI K80 至尊版 (`dali`):**
+
+`25060RK16C`: REDMI K80 至尊版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -2090,21 +2094,25 @@
 
 `25040RP0AC`: REDMI Pad 2 国行版
 
-`25040RP0AG`: Redmi Pad 2 国际版
+`25040RP0AG`: REDMI Pad 2 国际版
 
-`25040RP0AI`: Redmi Pad 2 印度版
+`25040RP0AI`: REDMI Pad 2 印度版
 
-`25040RP0AE`: Redmi Pad 2 欧洲版
+`25040RP0AE`: REDMI Pad 2 欧洲版
 
-`25040RP0AL`: Redmi Pad 2 拉美版
+`25040RP0AL`: REDMI Pad 2 拉美版
 
 **[`O84X`] REDMI Pad 2 4G (`koto`):**
 
 `2505DRP06C`: REDMI Pad 2 4G 国行版
 
-`2505DRP06G`: Redmi Pad 2 4G 国际版
+`2505DRP06G`: REDMI Pad 2 4G 国际版
 
-`2505DRP06I`: Redmi Pad 2 4G 印度版
+`2505DRP06I`: REDMI Pad 2 4G 印度版
+
+**[`O88`] REDMI K Pad (`turner`):**
+
+`25079RPDCC`: REDMI K Pad 国行版
 
 ## POCO 手机
 
