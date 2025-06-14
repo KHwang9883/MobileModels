@@ -233,9 +233,9 @@
 
 `Lenovo YT-K606F`: YOGA Pad Pro
 
-**YOGA Pad Pro AI 元启版 (`lapis`):**
+**YOGA Pad Pro / YOGA Pad Pro AI 元启版 (`lapis`):**
 
-`TB520FU`: YOGA Pad Pro AI 元启版
+`TB520FU`: YOGA Pad Pro 12.7 / YOGA Pad Pro AI 元启版
 
 **YOGA Pad Pro 14.5 AI 元启版 (`titans`):**
 
@@ -425,6 +425,16 @@
 
 `TB352XC`: 联想昭阳 K11 11.5 英寸 LTE 版
 
+**联想昭阳 K11:**
+
+`TB336FU`: 联想昭阳 K11 11 英寸 Wi-Fi 版
+
+`TB336ZC`: 联想昭阳 K11 11 英寸 5G 版
+
+**联想昭阳 K11c:**
+
+`TB337FU`: 联想昭阳 K11c 10.95 英寸 Wi-Fi 版
+
 **联想昭阳 K12 (`spruce`):**
 
 `TB240FC`: 联想昭阳 K12 12.7 英寸 Wi-Fi 版
@@ -443,17 +453,19 @@
 
 `TB-X903F`: 联想昭阳 G12 11.5 英寸 Wi-Fi 版
 
-**联想昭阳 P07 (`citrus`):**
+**联想昭阳 Y11 (`barley`):**
 
-`TB352FC1`: 联想昭阳 P07 11.5 英寸 Wi-Fi 版
-
-`TB352XC1`: 联想昭阳 P07 11.5 英寸 LTE 版
+`TBY11`: 联想昭阳 Y11 10.95 英寸 Wi-Fi 版
 
 **联想平板电脑 K11 (`m11`):**
 
 `Lenovo TB-J606F`: 联想平板电脑 K11 11 英寸 Wi-Fi 版
 
 `Lenovo TB-J606N`: 联想平板电脑 K11 11 英寸 LTE 版
+
+**联想平板电脑 S11 (`barley`):**
+
+`QBH10`: 联想平板电脑 S11 10.95 英寸 Wi-Fi 版
 
 **联想平板电脑 S11 Pro (`citrus`):**
 
