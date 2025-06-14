@@ -1813,6 +1813,10 @@
 
 `24127RK2CC`: REDMI K80 Pro Automobili Lamborghini Squadra Corse China
 
+**[`O12`] REDMI K80 Ultra (`dali`):**
+
+`25060RK16C`: REDMI K80 Ultra China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -2354,6 +2358,10 @@
 `2505DRP06I`: Redmi Pad 2 4G India
 
 `2505DRP06C`: REDMI Pad 2 4G China
+
+**[`O88`] REDMI K Pad (`turner`):**
+
+`25079RPDCC`: REDMI K Pad China
 
 **[`N83P`] POCO Pad (`dizi`):**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-06-14
+- `xiaomi_en` Add REDMI K80 Ultra, REDMI K Pad.
 ### 2025-06-13
 - `realme_global_en` Add NARZO 80 Lite.
 - `samsung_global_en` Add new models.
