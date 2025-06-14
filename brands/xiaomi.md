@@ -462,6 +462,16 @@
 
 `25042PN24C`: Xiaomi 15S Pro
 
+**[`O12A`] Xiaomi 15T (`goya`):**
+
+`25069PTEBG`: Xiaomi 15T 国际版
+
+**[`O12U`] Xiaomi 15T Pro (`klimt`):**
+
+`2506BPN68G`: Xiaomi 15T Pro 国际版
+
+`2506BPN68R`: Xiaomi 15T Pro 日本版 (无锁)
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -567,6 +577,12 @@
 `2405CPX3DC`: Xiaomi MIX Flip 国行版
 
 `2405CPX3DG`: Xiaomi MIX Flip 国际版
+
+**[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
+
+`2505APX7BC`: Xiaomi MIX Flip 2 国行版
+
+`2505APX7BG`: Xiaomi MIX Flip 2 国际版
 
 ## 小米 Max 系列
 
@@ -2110,9 +2126,11 @@
 
 `2505DRP06I`: REDMI Pad 2 4G 印度版
 
+`2505DRP06E`: REDMI Pad 2 4G 欧洲版
+
 **[`O88`] REDMI K Pad (`turner`):**
 
-`25079RPDCC`: REDMI K Pad 国行版
+`25079RPDCC`: REDMI K Pad
 
 ## POCO 手机
 
