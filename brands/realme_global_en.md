@@ -181,6 +181,10 @@
 
 `RMX3741`: realme 11 Pro+ 5G
 
+**realme 12:**
+
+`RMX3871`: realme 12 4G
+
 **realme 12 5G:**
 
 `RMX3999`: realme 12 5G
@@ -201,6 +205,10 @@
 
 `RMX3840`: realme 12 Pro+ 5G
 
+**realme 13:**
+
+`RMX3871`: realme 13 4G
+
 **realme 13 5G:**
 
 `RMX3951`: realme 13 5G
@@ -219,23 +227,31 @@
 
 **realme 14 5G:**
 
-`RMX5070`: realme 14 5G
+`RMX5070`: realme 14 5G Global
 
 **realme 14x 5G:**
 
-`RMX3940` `RMX3943`: realme 14x 5G
+`RMX3940`: realme 14x 5G India
+
+`RMX3943`: realme 14x 5G Global
 
 **realme 14T 5G:**
 
-`RMX5074` `RMX5078` `RMX5079`: realme 14T 5G
+`RMX5074`: realme 14T 5G Global
+
+`RMX5078`: realme 14T 5G India
 
 **realme 14 Pro 5G:**
 
-`RMX5056` `RMX5057`: realme 14 Pro 5G
+`RMX5056`: realme 14 Pro 5G India
+
+`RMX5057`: realme 14 Pro 5G Global
 
 **realme 14 Pro+ 5G:**
 
-`RMX5051` `RMX5054`: realme 14 Pro+ 5G
+`RMX5051`: realme 14 Pro+ 5G India
+
+`RMX5054`: realme 14 Pro+ 5G Global
 
 ## X series
 
@@ -459,6 +475,10 @@
 
 `RMX3710`: realme C55
 
+**realme C60:**
+
+`RMX3834`: realme C60
+
 **realme C61:**
 
 `RMX3939` `RMX3930`: realme C61 Global
@@ -499,7 +519,9 @@
 
 `RMX3941`: realme C75
 
-`RMX3943`: realme C75 5G
+`RMX3943`: realme C75 5G India
+
+`RMX3963`: realme C75 5G Global
 
 **realme C75x:**
 
@@ -545,7 +567,7 @@
 
 **realme P3:**
 
-`RMX5070`: realme P3 5G
+`RMX5070` `RMX5079`: realme P3 5G
 
 **realme P3x:**
 

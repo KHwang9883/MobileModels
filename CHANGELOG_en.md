@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-06-16
+- `realme_global_en` Add several models.
 ### 2025-06-14
 - `xiaomi_en` Add REDMI K80 Ultra, REDMI K Pad, Xiaomi 15T series, Xiaomi MIX Flip 2.
 ### 2025-06-13
