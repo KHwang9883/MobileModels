@@ -495,7 +495,7 @@
 
 **MEIZU MBLU 21 (`m2416`):**
 
-`M416L`: MEIZU MBLU 21 Global
+`M416H` `M416L`: MEIZU MBLU 21 Global
 
 **MEIZU M3 Max (`s25`):**
 
