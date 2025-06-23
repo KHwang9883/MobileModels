@@ -477,6 +477,8 @@
 
 `LEM-AL00`: HUAWEI Pocket 2
 
+`LEM-AL50`: HUAWEI Pocket 2 优享版
+
 ## HUAWEI nova 系列
 
 **HUAWEI nova (`Cannes`):**

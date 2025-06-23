@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-06-23
+- `huawei_cn` 新增 HUAWEI Pocket 2 优享版。
 ### 2025-06-14
 - `lenovo` 新增部分平板型号。
 - `xiaomi` 新增 REDMI K80 至尊版、REDMI K Pad、Xiaomi MIX Flip 2、Xiaomi 15T 系列。
