@@ -755,7 +755,11 @@
 
 **HUAWEI MatePad Pro 12.2 (`Miro`):**
 
-`MRO-W09`: HUAWEI MatePad Pro 12.2
+`MRO-W09`: HUAWEI MatePad Pro 12.2 Wi-Fi
+
+**HUAWEI MatePad Pro 12.2 2025:**
+
+`MRDI-W09`: HUAWEI MatePad Pro 12.2 2025 Wi-Fi
 
 **HUAWEI MatePad Paper (`Hemingway`):**
 
