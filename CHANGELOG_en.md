@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2025-06-25
 - `huawei_global_en` Add HUAWEI MatePad Pro 12.2 2025.
+- `vivo_global_en` Add several codenames.
 ### 2025-06-16
 - `realme_global_en` Add several models.
 ### 2025-06-14

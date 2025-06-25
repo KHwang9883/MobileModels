@@ -93,6 +93,10 @@
 
 `V2413`: vivo X200 Pro
 
+**vivo X200 FE (`PD2465F`):**
+
+`V2503` `V2505`: vivo X200 FE
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -265,7 +269,7 @@
 
 `V2504`: vivo V50 Pro
 
-**vivo V50e:**
+**vivo V50e (`PD2438F`):**
 
 `V2428`: vivo V50e
 
@@ -273,11 +277,11 @@
 
 `V2441`: vivo V50 Lite
 
-**vivo V50 Lite 5G:**
+**vivo V50 Lite 5G (`PD2447F`):**
 
 `V2450` `V2453`: vivo V50 Lite 5G
 
-**Jovi V50 Lite:**
+**Jovi V50 Lite (`PD2447F`):**
 
 `V2440`: Jovi V50 Lite
 
@@ -313,7 +317,7 @@
 
 `V2151`: vivo T1 Pro 5G
 
-**vivo T2:**
+**vivo T2 (`PD2268F`):**
 
 `V2320`: vivo T2
 
@@ -361,7 +365,7 @@
 
 `V2509`: vivo T4 Lite 5G
 
-**vivo T4 Ultra:**
+**vivo T4 Ultra (`PD2430F`):**
 
 `V2504`: vivo T4 Ultra
 
@@ -395,7 +399,7 @@
 
 `V2234`: vivo Y02A
 
-**vivo Y02s:**
+**vivo Y02s (`PD2216F`):**
 
 `V2203` `V2221` `V2229`: vivo Y02s
 
@@ -407,13 +411,17 @@
 
 `V2332` `V2406`: vivo Y03
 
-**vivo Y03t:**
+**vivo Y03t (`PD2420F`):**
 
 `V2344` `V2409`: vivo Y03t
 
 **vivo Y04 (`PD2442F`):**
 
 `V2430` `V2438`: vivo Y04
+
+**vivo Y04e (`PD2442F`):**
+
+`V2532`: vivo Y04e
 
 **vivo Y11s (`PD2042F`):**
 
@@ -475,7 +483,7 @@
 
 `V2333` `V2345`: vivo Y18
 
-**vivo Y18s:**
+**vivo Y18s (`PD2327F`):**
 
 `V2410`: vivo Y18s
 
@@ -495,15 +503,15 @@
 
 `vivo 1915`: vivo Y19
 
-**vivo Y19s:**
+**vivo Y19s (`PD2420F`):**
 
 `V2419` `V2423`: vivo Y19s
 
-**Jovi Y19s:**
+**Jovi Y19s (`PD2420F`):**
 
 `V2425` `V2454`: Jovi Y19s
 
-**vivo Y19s Pro:**
+**vivo Y19s Pro (`PD2420F`):**
 
 `V2419` `V2458` `V2507` `V2508` `V2519`: vivo Y19s Pro
 
@@ -615,11 +623,11 @@
 
 `V2407`: vivo Y28e 5G
 
-**vivo Y29:**
+**vivo Y29 (`PD2446F`):**
 
 `V2434` `V2435`: vivo Y29
 
-**Jovi Y29:**
+**Jovi Y29 (`PD2446F`):**
 
 `V2445`: Jovi Y29
 
@@ -675,11 +683,11 @@
 
 `V2343`: vivo Y38 5G
 
-**vivo Y39 5G:**
+**vivo Y39 5G (`PD2444F`):**
 
 `V2436` `V2443` `V2447`: vivo Y39 5G
 
-**Jovi Y39 5G:**
+**Jovi Y39 5G (`PD2444F`):**
 
 `V2444`: Jovi Y39 5G
 
