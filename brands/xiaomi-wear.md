@@ -97,6 +97,12 @@
 
 `M2435B1`: 小米手环 9 Active 国际版
 
+**[`O66`] 小米手环 10:**
+
+`M2457B1`: 小米手环 10
+
+`M2456B1`: 小米手环 10 NFC 版 / 陶瓷版
+
 ## 小米智能手表
 
 **小米手表 (`baiji`):**
@@ -175,6 +181,10 @@
 
 `M2312W1`: Xiaomi Watch S4 Sport eSIM 版
 
+**[`O63`] Xiaomi Watch S4 41mm:**
+
+`M2502W1`: Xiaomi Watch S4 41mm
+
 **[`N60`] 小米腕部心电血压记录仪:**
 
 `M2230W1`: 小米腕部心电血压记录仪 (Xiaomi Watch H1)
@@ -182,6 +192,12 @@
 **[`N60E`] 小米腕部血压记录仪:**
 
 `M2412W1`: 小米腕部血压记录仪 (Xiaomi Watch H1 E)
+
+## 小米智能眼镜
+
+**[`O95`] Xiaomi AI Glasses:**
+
+`M2442G1`: Xiaomi AI Glasses
 
 ## Redmi 手环
 
@@ -306,6 +322,10 @@
 `M2437E1`: Xiaomi Buds 5 Pro 蓝牙版
 
 `M2438E1`: Xiaomi Buds 5 Pro Wi-Fi 版
+
+**[`O74`] Xiaomi 开放式耳机 Pro:**
+
+`M2503E1`: Xiaomi 开放式耳机 Pro
 
 ## Redmi TWS
 
