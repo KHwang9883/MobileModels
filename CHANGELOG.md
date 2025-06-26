@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-06-26
+- `mitv_cn` 新增 Redmi AI 智能电视 X 2025 (渠道型号)。
 - `zhixuan` 新增 麦芒 40。
 ### 2025-06-23
 - `huawei_cn` 新增 HUAWEI Pocket 2 优享版。

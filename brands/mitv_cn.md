@@ -574,6 +574,14 @@
 
 `L75MA-XT`: Redmi AI 智能电视 X75 2024
 
+**Redmi AI 智能电视 X 2025:**
+
+`L55RB-XT`: Redmi AI 智能电视 X55 2025
+
+`L65RB-XT`: Redmi AI 智能电视 X65 2025
+
+`L75RB-XT`: Redmi AI 智能电视 X75 2025
+
 **Redmi 智能电视 X 2025:**
 
 `L55RB-RX`: Redmi 智能电视 X55 2025
