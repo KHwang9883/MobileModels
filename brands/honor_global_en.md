@@ -427,6 +427,10 @@
 
 `GFY-LX3`: HONOR Play9A
 
+**HONOR Play9C (`Nick`):**
+
+`NIC-LX3P`: HONOR Play9C
+
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8

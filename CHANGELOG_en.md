@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-07-02
+- `honor_global_en` Add HONOR Play9C.
 ### 2025-06-25
 - `huawei_global_en` Add HUAWEI MatePad Pro 12.2 2025.
 - `vivo_global_en` Add several codenames.
