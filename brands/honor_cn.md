@@ -128,6 +128,10 @@
 
 `PTP-AN20`: 荣耀 Magic7 RSR 保时捷设计
 
+**荣耀 Magic V5 (`Maybach`):**
+
+`MBH-AN10`: 荣耀 Magic V5
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -952,7 +956,7 @@
 
 `CLK-AN00`: 荣耀畅玩 50 Plus 5G
 
-**荣耀畅玩 60 / 荣耀畅玩 60m:**
+**荣耀畅玩 60 / 荣耀畅玩 60m (`Nick`):**
 
 `NIC-AN00`: 荣耀畅玩 60 5G / 荣耀畅玩 60m 5G
 
@@ -960,7 +964,7 @@
 
 `ALT-AN00`: 荣耀畅玩 60 Plus 5G
 
-## 荣耀平板
+## 荣耀平板 数字系列
 
 **荣耀平板:**
 
@@ -990,39 +994,11 @@
 
 `JDN2-AL00HN` `JDN-AL50HN`: 荣耀平板 5 8 英寸 LTE 版
 
-**荣耀平板 V6 (`Karajan`):**
-
-`KRJ-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (华为终端)
-
-`KRJ-AN00`: 荣耀平板 V6 10.4 英寸 5G 版 (华为终端)
-
-**荣耀平板 V6 (`KarajanR`):**
-
-`KJR-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (荣耀终端)
-
 **荣耀平板 6 (`Agassi3`):**
 
 `AGS3-W09HN`: 荣耀平板 6 10.1 英寸 Wi-Fi 版
 
 `AGS3-AL09HN`: 荣耀平板 6 10.1 英寸 LTE 版
-
-**荣耀平板 X6 (`AgassiR`):**
-
-`AGR-W09HN`: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
-
-`AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 LTE 版
-
-**荣耀平板 V7 (`Karajan2`):**
-
-`KRJ2-W09`: 荣耀平板 V7 10.4 英寸 Wi-Fi 版
-
-`KRJ2-AN00`: 荣耀平板 V7 10.4 英寸 5G 版
-
-**荣耀平板 V7 Pro (`Britten`):**
-
-`BRT-W09`: 荣耀平板 V7 Pro 11 英寸 Wi-Fi 版
-
-`BRT-AN09`: 荣耀平板 V7 Pro 11 英寸 5G 版
 
 **荣耀平板 7 (`Agassi3M`):**
 
@@ -1030,51 +1006,9 @@
 
 `AGM3-AL09HN`: 荣耀平板 7 10.1 英寸 LTE 版
 
-**荣耀平板 X7 (`Kobe2`):**
-
-`KOB2-W09HN`: 荣耀平板 X7 8 英寸 Wi-Fi 版
-
-`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 LTE 版
-
-**荣耀平板 Z3 (`AgassiRM`):**
-
-`AGM-W09HN`: 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
-
-`AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 LTE 版
-
-**荣耀平板 Z5 (`Agassi3M`):**
-
-`AGM3-W09HN`: 荣耀平板 Z5 10.1 英寸 Wi-Fi 版
-
-`AGM3-AL09HN`: 荣耀平板 Z5 10.1 英寸 LTE 版
-
-**荣耀平板 X8 (`Agassi3M`):**
-
-`AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
-
-**荣耀平板 X8 Pro (`Eileen`):**
-
-`ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
-
-**荣耀平板 Z6 (`Eileen`):**
-
-`ELN-W09`: 荣耀平板 Z6 11.5 英寸 Wi-Fi 版
-
 **荣耀平板 8 (`Hendry`):**
 
 `HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
-
-**荣耀平板 V8 (`Britten`):**
-
-`BRT-W09`: 荣耀平板 V8 11 英寸 Wi-Fi 版
-
-**荣耀平板 V8 Pro (`Rolland`):**
-
-`ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
-
-**荣耀平板 MagicPad (`Gaudi`):**
-
-`GDI-W09`: 荣耀平板 MagicPad 13 英寸 Wi-Fi 版
 
 **荣耀平板 9 (`Hendry2`):**
 
@@ -1090,23 +1024,43 @@
 
 `ROD-W19`: 荣耀平板 9 Pro 柔光版 12.1 英寸 Wi-Fi 版
 
-**荣耀平板 Z7 (`Hendry2`):**
+**荣耀平板 10 (`Hendry3`):**
 
-`HEY2-AN00`: 荣耀平板 Z7 12.1 英寸 5G 版
+`HEY3-W00`: 荣耀平板 10 12.1 英寸 Wi-Fi 版
 
-**荣耀平板 MagicPad 2 (`Rolland2`):**
+`HEY3-W10`: 荣耀平板 10 柔光版 12.1 英寸 Wi-Fi 版
 
-`ROD2-W09`: 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
+## 荣耀平板 V 系列
 
-**荣耀平板 GT Pro (`Rolland2`):**
+**荣耀平板 V6 (`Karajan`):**
 
-`ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
+`KRJ-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (华为终端)
 
-**荣耀平板 X9 (`Nadal`):**
+`KRJ-AN00`: 荣耀平板 V6 10.4 英寸 5G 版 (华为终端)
 
-`NDL-W09`: 荣耀平板 X9 11 英寸 Wi-Fi 版
+**荣耀平板 V6 (`KarajanR`):**
 
-`NDL-AL00`: 荣耀平板 X9 11 英寸 LTE 版
+`KJR-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (荣耀终端)
+
+**荣耀平板 V7 (`Karajan2`):**
+
+`KRJ2-W09`: 荣耀平板 V7 10.4 英寸 Wi-Fi 版
+
+`KRJ2-AN00`: 荣耀平板 V7 10.4 英寸 5G 版
+
+**荣耀平板 V7 Pro (`Britten`):**
+
+`BRT-W09`: 荣耀平板 V7 Pro 11 英寸 Wi-Fi 版
+
+`BRT-AN09`: 荣耀平板 V7 Pro 11 英寸 5G 版
+
+**荣耀平板 V8 (`Britten`):**
+
+`BRT-W09`: 荣耀平板 V8 11 英寸 Wi-Fi 版
+
+**荣耀平板 V8 Pro (`Rolland`):**
+
+`ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
 
 **荣耀平板 V9 (`Rowling`):**
 
@@ -1114,19 +1068,85 @@
 
 `ROL-W10`: 荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版
 
-**荣耀平板 X9 Pro (`Eileen2`):**
+## 荣耀平板 Magic 系列
 
-`ELN2-W09`: 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
+**荣耀平板 MagicPad (`Gaudi`):**
+
+`GDI-W09`: 荣耀平板 MagicPad 13 英寸 Wi-Fi 版
+
+**荣耀平板 MagicPad 2 (`Rolland2`):**
+
+`ROD2-W09`: 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
+
+**荣耀平板 MagicPad 3 (`Changan`):**
+
+`CGA-W00`: 荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版
+
+## 荣耀平板 GT 系列
 
 **荣耀平板 GT (`Rowling`):**
 
 `ROL-W60`: 荣耀平板 GT 11.5 英寸 Wi-Fi 版
 
-**荣耀平板 10 (`Hendry3`):**
+**荣耀平板 GT Pro (`Rolland2`):**
 
-`HEY3-W00`: 荣耀平板 10 12.1 英寸 Wi-Fi 版
+`ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 
-`HEY3-W10`: 荣耀平板 10 柔光版 12.1 英寸 Wi-Fi 版
+## 荣耀平板 X 系列
+
+**荣耀平板 X6 (`AgassiR`):**
+
+`AGR-W09HN`: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
+
+`AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 LTE 版
+
+**荣耀平板 X7 (`Kobe2`):**
+
+`KOB2-W09HN`: 荣耀平板 X7 8 英寸 Wi-Fi 版
+
+`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 LTE 版
+
+**荣耀平板 X8 (`Agassi3M`):**
+
+`AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
+
+**荣耀平板 X8 Pro (`Eileen`):**
+
+`ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
+
+**荣耀平板 X9 (`Nadal`):**
+
+`NDL-W09`: 荣耀平板 X9 11 英寸 Wi-Fi 版
+
+`NDL-AL00`: 荣耀平板 X9 11 英寸 LTE 版
+
+**荣耀平板 X9 Pro (`Eileen2`):**
+
+`ELN2-W09`: 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
+
+## 荣耀平板 Z 系列 (商用)
+
+**荣耀平板 Z3 (`AgassiRM`):**
+
+`AGM-W09HN`: 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
+
+`AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 LTE 版
+
+**荣耀平板 Z5 (`Agassi3M`):**
+
+`AGM3-W09HN`: 荣耀平板 Z5 10.1 英寸 Wi-Fi 版
+
+`AGM3-AL09HN`: 荣耀平板 Z5 10.1 英寸 LTE 版
+
+**荣耀平板 Z6 (`Eileen`):**
+
+`ELN-W09`: 荣耀平板 Z6 11.5 英寸 Wi-Fi 版
+
+**荣耀平板 Z7 (`Hendry2`):**
+
+`HEY2-AN00`: 荣耀平板 Z7 12.1 英寸 5G 版
+
+## 荣耀平板 其他系列
 
 **荣耀 Waterplay (`Haydn`):**
 
@@ -1448,6 +1468,10 @@
 
 `MRO-521`: 荣耀 MagicBook Art 14 骁龙 X Elite (32GB+1TB)
 
+**荣耀 MagicBook Art 14 2025 (`MooreB`):**
+
+`MRB-A`: 荣耀 MagicBook Art 14 2025
+
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
 `NBR-WAI9`: 荣耀 MagicBook X 14 i3
@@ -1707,6 +1731,10 @@
 **荣耀手表 5:**
 
 `STL-L19`: 荣耀手表 5
+
+**荣耀手表 5 Ultra (`Tumir`):**
+
+`TUR-L19`: 荣耀手表 5 Ultra
 
 **荣耀手表 Fit:**
 

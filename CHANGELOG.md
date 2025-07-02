@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-07-02
+- `honor_cn` 新增 荣耀 Magic V5、MagicBook Art 14 2025、MagicPad 3。
 ### 2025-06-26
 - `mitv_cn` 新增 Redmi AI 智能电视 X 2025 (渠道型号)。
 - `xiaomi-wear` 新增穿戴新品型号。
