@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-07-03
+- `nothing` Add Nothing Phone (3).
 ### 2025-07-02
 - `honor_global_en` Add HONOR Play9C.
 ### 2025-06-25

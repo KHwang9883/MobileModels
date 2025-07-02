@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-07-03
+- `nothing` 新增 Nothing Phone (3)。
 ### 2025-07-02
 - `honor_cn` 新增 荣耀 Magic V5、MagicBook Art 14 2025、MagicPad 3。
 ### 2025-06-26

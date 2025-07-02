@@ -21,6 +21,10 @@
 
 `A142P`: Nothing Phone (2a) Plus
 
+**Nothing Phone (3) (`Metroid`):**
+
+`A024`: Nothing Phone (3)
+
 **Nothing Phone (3a) (`Asteroids`):**
 
 `A059`: Nothing Phone (3a)
