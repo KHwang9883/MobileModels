@@ -345,7 +345,7 @@
 
 `ALT-NX3`: HONOR X6b 5G
 
-**HONOR X6c:**
+**HONOR X6c (`Nick`):**
 
 `NIC-LX1` `NIC-LX2` `NIC-LX3`: HONOR X6c
 
