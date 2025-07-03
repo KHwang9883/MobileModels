@@ -221,3 +221,7 @@
 **moto razr 60 Ultra (`leap`):**
 
 `XT2551-3`: moto razr 60 Ultra
+
+**moto g100 Pro (`nice`):**
+
+`XT2527-3`: moto g100 Pro
