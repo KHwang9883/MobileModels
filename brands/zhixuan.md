@@ -179,6 +179,10 @@
 
 `JLG-AN80`: Hi 畅享 80 GT 5G
 
+**Hi 畅享 80 Pro:**
+
+`SHR-AN00`: Hi 畅享 80 Pro 5G
+
 **Hi MatePad:**
 
 `BRO-W00`: Hi MatePad

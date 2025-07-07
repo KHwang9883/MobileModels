@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-07-07
+- `zhixuan` 新增 Hi 畅享 80 Pro。
 ### 2025-07-03
 - `motorola` 新增 moto g100 Pro。
 - `nothing` 新增 Nothing Phone (3)。
