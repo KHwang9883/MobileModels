@@ -542,6 +542,14 @@
 
 `V2023EA`: vivo Y50t
 
+**vivo Y50 (2025) (`PD2443`):**
+
+`V2443A`: vivo Y50 5G
+
+**vivo Y50m (`PD2443`):**
+
+`V2443BA`: vivo Y50m 5G
+
 **vivo Y51s (`PD2019`):**
 
 `V2002A`: vivo Y51s 5G
@@ -773,6 +781,10 @@
 **vivo T1x (`PD2123`):**
 
 `V2123A`: vivo T1x
+
+**vivo T2 (`PD2199`):**
+
+`V2199GA`: vivo T2
 
 **vivo T2x (`PD2188`):**
 
@@ -1224,7 +1236,7 @@
 
 `iPA2556`: iQOO Pad5
 
-**iQOO Pad5 Pro (`DPD2429`):**
+**iQOO Pad5 Pro (`DPD2438`):**
 
 `iPA2575`: iQOO Pad5 Pro
 
