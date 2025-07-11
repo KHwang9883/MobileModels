@@ -18,7 +18,7 @@
 - `lenovo` 新增部分平板型号。
 - `xiaomi` 新增 REDMI K80 至尊版、REDMI K Pad、Xiaomi MIX Flip 2、Xiaomi 15T 系列。
 ### 2025-06-11
-- `huawei_cn` 新增 HUAWEI Pura 80 系列（缺标准版）。
+- `huawei_cn` 新增 HUAWEI Pura 80 系列。
 - `vivo_cn` 订正型号，新增 vivo X Fold5。
 ### 2025-06-06
 - `huawei_cn` 新增 华为智慧屏 S6。
