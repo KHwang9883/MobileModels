@@ -195,8 +195,12 @@
 
 **Hi MateBook D 14:**
 
-`LYOI-16`: Hi MateBook D 14
+`LYOI-16`: Hi MateBook D 14 (16GB 内存)
+
+`LYOI-32`: Hi MateBook D 14 (32GB 内存)
 
 **Hi MateBook D 16:**
 
-`NICEI-16`: Hi MateBook D 16
+`NICEI-16`: Hi MateBook D 16 (16GB 内存)
+
+`NICEI-32`: Hi MateBook D 16 (32GB 内存)
