@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-07-11
+- `huawei_global_en` Add HUAWEI Pura 80 series.
 ### 2025-07-03
 - `nothing` Add Nothing Phone (3).
 ### 2025-07-02

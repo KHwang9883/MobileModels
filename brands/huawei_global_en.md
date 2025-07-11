@@ -299,6 +299,18 @@
 
 `HBP-LX9`: HUAWEI Pura 70 Ultra
 
+**HUAWEI Pura 80 (`Hedy`):**
+
+`HED-LX9`: HUAWEI Pura 80
+
+**HUAWEI Pura 80 Pro (`Lamarr`):**
+
+`LMR-LX9`: HUAWEI Pura 80 Pro
+
+**HUAWEI Pura 80 Ultra (`LamarrU`):**
+
+`LMU-LX9`: HUAWEI Pura 80 Ultra
+
 **HUAWEI P smart (`Figo`):**
 
 `FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P smart
@@ -708,6 +720,10 @@
 `DBR-W09`: HUAWEI MatePad 11 2023 Wi-Fi
 
 `DBR-W19`: HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
+
+**HUAWEI MatePad 11.5 (`BartokR`):**
+
+`BTKR-W09`: HUAWEI MatePad 11.5 2024 Wi-Fi
 
 **HUAWEI MatePad 11.5" S (`Tagore`):**
 
