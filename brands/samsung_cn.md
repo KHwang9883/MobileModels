@@ -396,6 +396,10 @@
 
 `SM-F9560`: Galaxy Z Fold6
 
+**Galaxy Z Fold7 (`q7q`):**
+
+`SM-F9660`: Galaxy Z Fold7
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F7000`: Galaxy Z Flip
@@ -419,6 +423,14 @@
 **Galaxy Z Flip6 (`b6q`):**
 
 `SM-F7410`: Galaxy Z Flip6
+
+**Galaxy Z Flip7 (`b7s`):**
+
+`SM-F7660`: Galaxy Z Flip7
+
+**Galaxy Z Flip7 FE (`b7r`):**
+
+`SM-F7610`: Galaxy Z Flip7 FE
 
 ## Galaxy A 系列
 
@@ -1199,3 +1211,23 @@
 **Galaxy Watch Ultra (`projectx2ul`):**
 
 `SM-L7050`: Galaxy Watch Ultra LTE 47mm
+
+**Galaxy Watch8 (`fresh8bs`):**
+
+`SM-L320`: Galaxy Watch8 蓝牙版 40mm
+
+**Galaxy Watch8 (`fresh8bl`):**
+
+`SM-L330`: Galaxy Watch8 蓝牙版 44mm
+
+**Galaxy Watch8 (`fresh8ul`):**
+
+`SM-L3350`: Galaxy Watch8 LTE 44mm
+
+**Galaxy Watch8 Classic (`wise8bs`):**
+
+`SM-L500`: Galaxy Watch8 Classic 蓝牙版 46mm
+
+**Galaxy Watch8 Classic (`wise8us`):**
+
+`SM-L5050`: Galaxy Watch8 Classic LTE 46mm

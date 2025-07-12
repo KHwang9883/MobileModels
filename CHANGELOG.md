@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-07-12
+- `samsung_cn` 新增 Galaxy Z Fold7、Flip7、Watch8 系列。
 ### 2025-07-09
 - `vivo_cn` 新增 vivo Y50 5G (2025)。
 ### 2025-07-07
