@@ -791,6 +791,24 @@
 
 `SM-F958N`: Galaxy Z Fold Special Edition South Korea
 
+**Galaxy Z Fold7 (`q7q`):**
+
+`SM-F966B`: Galaxy Z Fold7 Global
+
+`SM-F966U`: Galaxy Z Fold7 US Carrier
+
+`SM-F966U1`: Galaxy Z Fold7 US Unlocked
+
+`SM-F966W`: Galaxy Z Fold7 Canada
+
+`SM-F9660`: Galaxy Z Fold7 China
+
+`SM-F966N`: Galaxy Z Fold7 South Korea
+
+`SM-F966Q`: Galaxy Z Fold7 Japan (SIM Free)
+
+`SM-F966Z`: Galaxy Z Fold7 Japan (SoftBank)
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
@@ -900,6 +918,36 @@
 `SCG29`: Galaxy Z Flip6 Japan (au)
 
 `SC-54E`: Galaxy Z Flip6 Japan (NTT Docomo)
+
+**Galaxy Z Flip7 (`b7s`):**
+
+`SM-F766B`: Galaxy Z Flip7 Global
+
+`SM-F766U`: Galaxy Z Flip7 US Carrier
+
+`SM-F766U1`: Galaxy Z Flip7 US Unlocked
+
+`SM-F766W`: Galaxy Z Flip7 Canada
+
+`SM-F7660`: Galaxy Z Flip7 China
+
+`SM-F766N`: Galaxy Z Flip7 South Korea
+
+`SM-F766Q`: Galaxy Z Flip7 Japan (SIM Free)
+
+`SM-F766Z`: Galaxy Z Flip7 Japan (SoftBank)
+
+**Galaxy Z Flip7 FE (`b7r`):**
+
+`SM-F761B`: Galaxy Z Flip7 FE Global
+
+`SM-F761U`: Galaxy Z Flip7 FE US Carrier
+
+`SM-F761U1`: Galaxy Z Flip7 FE US Unlocked
+
+`SM-F7610`: Galaxy Z Flip7 FE China
+
+`SM-F761N`: Galaxy Z Flip7 FE South Korea
 
 ## Galaxy A
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-07-12
+- `samsung_global_en` Add Galaxy Z Fold7, Flip7, Flip7 FE.
 ### 2025-07-11
 - `huawei_global_en` Add HUAWEI Pura 80 series.
 ### 2025-07-03
