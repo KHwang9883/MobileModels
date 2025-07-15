@@ -638,6 +638,12 @@
 
 `AGI-AN00`: 荣耀 X60 GT
 
+**荣耀 X70:**
+
+`MTN-AN00`: 荣耀 X70
+
+`MTN-AN80`: 荣耀 X70 (12GB+512GB)
+
 **荣耀 X70i (`Amber`):**
 
 `ABR-AN00`: 荣耀 X70i
@@ -1091,6 +1097,10 @@
 **荣耀平板 GT Pro (`Rolland2`):**
 
 `ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
+
+**荣耀平板 GT2 Pro:**
+
+`CHG-W60`: 荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版
 
 ## 荣耀平板 X 系列
 

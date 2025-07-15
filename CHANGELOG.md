@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-07-15
+- `honor_cn` 新增 荣耀 X70、荣耀平板 GT2 Pro。
 ### 2025-07-12
 - `samsung_cn` 新增 Galaxy Z Fold7、Flip7、Watch8 系列。
 ### 2025-07-09
