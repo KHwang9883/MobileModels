@@ -729,6 +729,10 @@
 
 `TGR-W09`: HUAWEI MatePad 11.5" S Wi-Fi
 
+**HUAWEI MatePad 11.5 (`Salinger`):**
+
+`SLG-W09`: HUAWEI MatePad 11.5 2025 Wi-Fi
+
 **HUAWEI MatePad Air (`Debussy2`):**
 
 `DBY2-W09`: HUAWEI MatePad Air Wi-Fi
@@ -773,7 +777,7 @@
 
 `MRO-W09`: HUAWEI MatePad Pro 12.2 Wi-Fi
 
-**HUAWEI MatePad Pro 12.2 2025:**
+**HUAWEI MatePad Pro 12.2 2025 (`Morandi`):**
 
 `MRDI-W09`: HUAWEI MatePad Pro 12.2 2025 Wi-Fi
 
