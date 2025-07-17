@@ -293,7 +293,7 @@
 
 `M2115E1`: Xiaomi Buds 3T Pro 国际版
 
-**Xiaomi Air3 SE:**
+**[`M79B`] Xiaomi Air3 SE:**
 
 `M2301E1`: Xiaomi Air3 SE
 
@@ -369,7 +369,7 @@
 
 `M2236E1`: Redmi Buds 4 Lite 国际版
 
-**Redmi Buds Essential:**
+**[`M79`] Redmi Buds Essential:**
 
 `M2222E1`: Redmi Buds Essential 国际版
 
@@ -389,7 +389,7 @@
 
 `M2429E1`: Redmi Buds 6
 
-**[`N79S`] Redmi Buds 6S:**
+**[`N77S`] Redmi Buds 6S:**
 
 `M2403E1`: Redmi Buds 6S
 
@@ -417,7 +417,7 @@
 
 `M2411E1`: REDMI Buds SE
 
-**REDMI Buds 7S:**
+**[`O77S`] REDMI Buds 7S:**
 
 `M2455E1`: REDMI Buds 7S
 
@@ -427,10 +427,10 @@
 
 `TWSEJ01ZM`: POCO Buds Pro Genshin Impact Edition 国际版
 
-**POCO Pods:**
+**[`M79A`] POCO Pods:**
 
 `M2237E1`: POCO Pods 印度版
 
-**POCO Buds X1:**
+**[`N79A`] POCO Buds X1:**
 
 `M2350E1`: POCO Buds X1 印度版
