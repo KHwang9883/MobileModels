@@ -135,7 +135,7 @@
 
 `XMWTCL02`: 小米手表 Color 运动版 国际版
 
-**Xiaomi Watch Color 2:**
+**[`K63`] Xiaomi Watch Color 2:**
 
 `M2106W1`: Xiaomi Watch Color 2
 
@@ -151,11 +151,11 @@
 
 `M2135W1`: Xiaomi Watch S1 Pro 国际版
 
-**Xiaomi Watch S1 Active:**
+**[`K63`] Xiaomi Watch S1 Active:**
 
 `M2116W1`: Xiaomi Watch S1 Active 国际版
 
-**Xiaomi Watch S2:**
+**[`M62`] Xiaomi Watch S2:**
 
 `M2206W1`: Xiaomi Watch S2 42mm
 
@@ -223,11 +223,11 @@
 
 `REDMIWT01`: Redmi Watch
 
-**Redmi Watch 2:**
+**[`K65`] Redmi Watch 2:**
 
 `M2102W1`: Redmi Watch 2
 
-**Redmi Watch 2 Lite:**
+**[`K65B`] Redmi Watch 2 Lite:**
 
 `M2109W1`: Redmi Watch 2 Lite 国际版
 
@@ -240,10 +240,6 @@
 **[`M65A`] Redmi Watch 3 青春版:**
 
 `M2309W1`: Redmi Watch 3 青春版
-
-**Redmi Watch 3 Lite:**
-
-`M2247W1`: Redmi Watch 3 Lite 国际版
 
 **[`M65A`] Redmi Watch 3 Active:**
 
@@ -261,21 +257,21 @@
 
 `M2428W1`: REDMI Watch 5 eSIM 版
 
-**Redmi Watch 5 Active:**
+**[`N65A`] Redmi Watch 5 Active:**
 
 `M2351W1`: Redmi Watch 5 Active 印度版
 
-**Redmi Watch 5 Lite:**
+**[`N65B`] Redmi Watch 5 Lite:**
 
 `M2352W1`: Redmi Watch 5 Lite 印度版
 
-**Redmi Watch Move:**
+**[`N65C`] Redmi Watch Move:**
 
 `M2460W1`: Redmi Watch Move 印度版
 
 ## POCO 手表（RTOS）
 
-**POCO Watch:**
+**[`K65`] POCO Watch:**
 
 `M2131W1`: POCO Watch
 
@@ -357,9 +353,9 @@
 
 `M2310E1`: Redmi Buds 4 活力版
 
-**[`M79A`] Redmi Buds 4 Active:**
+**[`M79A`] Redmi Buds 4 Active / Redmi Buds 5A:**
 
-`M2232E1`: Redmi Buds 4 Active 国际版
+`M2232E1`: Redmi Buds 4 Active 国际版 / Redmi Buds 5A 印度版
 
 **[`M79B`] Redmi Buds 4 青春版:**
 
@@ -401,13 +397,13 @@
 
 `M2431E1`: REDMI Buds 6 Pro 电竞版
 
-**[`N79`] Redmi Buds 6 活力版:**
+**[`N79`] Redmi Buds 6 活力版 / Redmi Buds 6 Active:**
 
-`M2344E1`: Redmi Buds 6 活力版
+`M2344E1`: Redmi Buds 6 活力版 / Redmi Buds 6 Active 国际版
 
-**[`N79A`] Redmi Buds 6 青春版:**
+**[`N79A`] Redmi Buds 6 青春版 / Redmi Buds 6 Lite / Redmi Buds 5C:**
 
-`M2349E1`: Redmi Buds 6 青春版
+`M2349E1`: Redmi Buds 6 青春版 / Redmi Buds 6 Lite 国际版 / Redmi Buds 5C 印度版
 
 **[`N79B`] Redmi Buds 6 Play:**
 
