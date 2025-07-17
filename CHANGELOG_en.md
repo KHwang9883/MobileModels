@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-07-17
+- `vivo_global_en` Add vivo T4R, iQOO Z10R.
 ### 2025-07-16
 - `huawei_global_en` Add HUAWEI MatePad 11.5 2025.
 ### 2025-07-12

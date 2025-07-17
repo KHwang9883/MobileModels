@@ -365,6 +365,10 @@
 
 `V2509`: vivo T4 Lite 5G
 
+**vivo T4R 5G:**
+
+`V2518`: vivo T4R 5G
+
 **vivo T4 Ultra (`PD2430F`):**
 
 `V2504`: vivo T4 Ultra
@@ -944,3 +948,7 @@
 **iQOO Z10 Lite (`PD2443F`):**
 
 `I2409`: iQOO Z10 Lite 5G
+
+**iQOO Z10R:**
+
+`I2410`: iQOO Z10R 5G
