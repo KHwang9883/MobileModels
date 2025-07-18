@@ -542,9 +542,9 @@
 
 `V2023EA`: vivo Y50t
 
-**vivo Y50 (2025) (`PD2443`):**
+**vivo Y37t / vivo Y50 (2025) (`PD2443`):**
 
-`V2443A`: vivo Y50 5G
+`V2443A`: vivo Y37t 5G / vivo Y50 5G
 
 **vivo Y50m (`PD2443`):**
 
@@ -876,11 +876,15 @@
 
 **vivo G1 (`PD1962B`):**
 
-`V1962BA`: vivo G1 5G
+`V1962BA`: vivo G1
 
 **vivo G2 (`PD2318`):**
 
-`V2318A`: vivo G2 5G
+`V2318A`: vivo G2
+
+**vivo G3 (`PD2443`):**
+
+`V2443A`: vivo G3
 
 ## iQOO 旗舰系列
 
