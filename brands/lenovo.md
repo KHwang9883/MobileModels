@@ -153,6 +153,10 @@
 
 `TB335FC`: 小新平板 11
 
+**小新平板 12.1:**
+
+`TB365FC`: 小新平板 12.1
+
 **小新 Pad Plus (`arnoz`):**
 
 `Lenovo TB-J607F`: 小新 Pad Plus
@@ -198,6 +202,10 @@
 **小新 Pad Pro 12.7 2025 (`peridot`):**
 
 `TB375FC`: 小新 Pad Pro 12.7 2025
+
+**小新平板 Pro GT:**
+
+`TB710FU`: 小新平板 Pro GT
 
 **小新 Pad Studio (`calla`):**
 
