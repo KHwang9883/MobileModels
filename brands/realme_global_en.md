@@ -253,6 +253,22 @@
 
 `RMX5054`: realme 14 Pro+ 5G Global
 
+**realme 15 5G:**
+
+`RMX5106`: realme 15 5G
+
+**realme 15 Pro 5G:**
+
+`RMX5101`: realme 15 Pro 5G
+
+**realme 15T 5G:**
+
+`RMX5111`: realme 15T 5G
+
+**realme 15 Lite 5G:**
+
+`RMX5000`: realme 15 Lite 5G
+
 ## X series
 
 **realme X:**
@@ -540,6 +556,10 @@
 **realme Note 60x:**
 
 `RMX3938`: realme Note 60x
+
+**realme Note 70 / realme Note 70T:**
+
+`RMX5313`: realme Note 70 / realme Note 70T
 
 ## U series
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-07-21
+- `realme_global_en` Add realme 15 series.
 ### 2025-07-17
 - `vivo_global_en` Add vivo T4R, iQOO Z10R.
 ### 2025-07-16
