@@ -660,9 +660,13 @@
 
 `PLD110`: OPPO K12s
 
-**OPPO K13 (`knight`):**
+**OPPO K13 Turbo (`knight`):**
 
-`PLM110`: OPPO K13
+`PLM110`: OPPO K13 Turbo
+
+**OPPO K13 Turbo:**
+
+`PLE110`: OPPO K13 Turbo Pro
 
 ## 平板电脑
 

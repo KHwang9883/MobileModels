@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-07-21
 - `lenovo` 新增 小新平板 12.1、小新平板 Pro GT。
+- `oppo_cn` 新增 OPPO K13 Turbo 系列。
 ### 2025-07-18
 - `vivo_cn` 新增 vivo Y37t、vivo G3。
 ### 2025-07-15
