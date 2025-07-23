@@ -97,6 +97,10 @@
 
 `V2503` `V2505`: vivo X200 FE
 
+**vivo X Fold5 (`PD2436F`):**
+
+`V2429`: vivo X Fold5
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -802,6 +806,14 @@
 **vivo Y300 Pro 5G:**
 
 `V2402`: vivo Y300 Pro 5G
+
+**vivo Y400 5G:**
+
+`V2506`: vivo Y400 5G
+
+**vivo Y400 Pro 5G:**
+
+`V2439`: vivo Y400 Pro 5G
 
 ## iQOO Smartphones
 
