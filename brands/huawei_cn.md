@@ -1215,6 +1215,14 @@
 
 `WEB-AL10`: HUAWEI MatePad Pro 13.2 英寸 2025 SIM 卡版
 
+**HUAWEI MatePad Pro 12.2 英寸 (`Morandi`):**
+
+`MRDI-W00`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 版
+
+`MRDI-W10`: HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版
+
+`MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版 (16GB+1TB)
+
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
