@@ -435,6 +435,30 @@
 
 `HEY-W09`: HONOR Pad 8
 
+**HONOR Pad 9 (`Hendry2`):**
+
+`HEY2-W09`: HONOR Pad 9 Wi-Fi
+
+`HEY2-N09`: HONOR Pad 9 5G
+
+**HONOR Pad 10 (`Hendry3`):**
+
+`HEY3-W00`: HONOR Pad 10 Wi-Fi
+
+**HONOR Pad V9 (`Rowling`):**
+
+`ROL-W00`: HONOR Pad V9
+
+**HONOR MagicPad2 (`Rolland2`):**
+
+`ROD2-W09`: HONOR MagicPad2
+
+**HONOR Pad X7:**
+
+`JMS-W09`: HONOR Pad X7 Wi-Fi
+
+`JMS-L09`: HONOR Pad X7 LTE
+
 **HONOR Pad X8 (`Agassi3M`):**
 
 `AGM3-W09HN`: HONOR Pad X8 Wi-Fi
@@ -451,16 +475,6 @@
 
 `NDL-L03` `NDL-L09`: HONOR Pad X8a LTE
 
-**HONOR Pad 9 (`Hendry2`):**
-
-`HEY2-W09`: HONOR Pad 9 Wi-Fi
-
-`HEY2-N09`: HONOR Pad 9 5G
-
-**HONOR Pad V9 (`Rowling`):**
-
-`ROL-W00`: HONOR Pad V9
-
 **HONOR Pad X9 (`Eileen`):**
 
 `ELN-W09`: HONOR Pad X9 Wi-Fi
@@ -472,11 +486,3 @@
 `ELN2-W29`: HONOR Pad X9a Wi-Fi
 
 `ELN2-L23` `ELN2-L29`: HONOR Pad X9a LTE
-
-**HONOR MagicPad2 (`Rolland2`):**
-
-`ROD2-W09`: HONOR MagicPad2
-
-**HONOR Pad 10 (`Hendry3`):**
-
-`HEY3-W00`: HONOR Pad 10 Wi-Fi
