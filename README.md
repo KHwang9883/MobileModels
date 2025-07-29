@@ -123,10 +123,8 @@
 
 以及各品牌官网、论坛、微博等，恕不一一列出
 
-## 联系我
+## 联系方式
 
-酷安 **[@KHwang9883](http://www.coolapk.com/u/497671)**
+如有相关问题，请 [提交 Issue](https://github.com/KHwang9883/MobileModels/issues)。如有错误或缺漏，欢迎提交 PR。
 
-微博及其他平台同名，但不一定回
-
-如有本 repo 相关问题，请 [提交一个 Issue](https://github.com/KHwang9883/MobileModels/issues)。如有错误或缺漏，欢迎提交 PR。
+其他平台同名（@KHwang9883），但不一定回复本 repo 相关问题。
