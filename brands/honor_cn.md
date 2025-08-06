@@ -122,7 +122,7 @@
 
 `PTP-AN10`: 荣耀 Magic7 Pro
 
-`PTP-AN70`: 荣耀 Magic7 Pro (16GB+1TB)
+`PTP-AN70`: 荣耀 Magic7 Pro 卫星通信版
 
 **荣耀 Magic7 RSR 保时捷设计 (`Patek`):**
 
