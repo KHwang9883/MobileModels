@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-08-06
 - `lenovo` 增补部分平板代号。
+- `vivo_cn` 新增 iQOO Z10 Turbo+。
 - `zte` 新增 中兴畅行 60 Ultra。
 ### 2025-08-04
 - `honor_cn` 新增 荣耀畅玩 70 Plus。

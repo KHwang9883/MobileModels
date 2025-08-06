@@ -1144,6 +1144,10 @@
 
 `V2453A`: iQOO Z10 Turbo Pro
 
+**iQOO Z10 Turbo+ (`PD2507`):**
+
+`V2507A`: iQOO Z10 Turbo+
+
 **iQOO Z10x (`PD2445`):**
 
 `V2445A`: iQOO Z10x
