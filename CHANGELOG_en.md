@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-06
+- `vivo_global_en` Add several models.
 ### 2025-07-25
 - `honor_global_en` Add HONOR Pad X7.
 ### 2025-07-24

@@ -807,6 +807,10 @@
 
 `V2402`: vivo Y300 Pro 5G
 
+**vivo Y400:**
+
+`V2455`: vivo Y400
+
 **vivo Y400 5G:**
 
 `V2506`: vivo Y400 5G
@@ -821,7 +825,7 @@
 
 `I1927`: iQOO 3 4G
 
-**iQOO 3 (`PD1955F`):**
+**iQOO 3 5G (`PD1955F`):**
 
 `I1928`: iQOO 3 5G
 
@@ -879,13 +883,13 @@
 
 **iQOO Neo 10 (`PD2453F`):**
 
-`I2405`: iQOO Neo 10
+`I2405` `I2408`: iQOO Neo 10
 
 **iQOO Neo 10R (`PD2352F`):**
 
 `I2221`: iQOO Neo 10R
 
-**iQOO Z3 (`PD2073F`):**
+**iQOO Z3 5G (`PD2073F`):**
 
 `I2011`: iQOO Z3 5G
 
@@ -893,7 +897,7 @@
 
 `I2018`: iQOO Z5
 
-**iQOO Z6 (`PD2165F`):**
+**iQOO Z6 5G (`PD2165F`):**
 
 `I2127`: iQOO Z6 5G
 
@@ -901,66 +905,70 @@
 
 `I2203` `I2206`: iQOO Z6 44W
 
-**iQOO Z6 Pro (`PD2193F`):**
+**iQOO Z6 Pro 5G (`PD2193F`):**
 
 `I2126`: iQOO Z6 Pro 5G
 
-**iQOO Z6 Lite (`PD2235F`):**
+**iQOO Z6 Lite 5G (`PD2235F`):**
 
 `I2208`: iQOO Z6 Lite 5G
 
-**iQOO Z7 (`PD2270F`):**
+**iQOO Z7 5G (`PD2270F`):**
 
 `I2213`: iQOO Z7 5G Global
 
-**iQOO Z7 (`PD2257F`):**
+**iQOO Z7 5G (`PD2257F`):**
 
 `I2207`: iQOO Z7 5G India
 
-**iQOO Z7s (`PD2251F`):**
+**iQOO Z7s 5G (`PD2251F`):**
 
 `I2223`: iQOO Z7s 5G
 
-**iQOO Z7x (`PD2272F`):**
+**iQOO Z7x 5G (`PD2272F`):**
 
 `I2216`: iQOO Z7x 5G
 
-**iQOO Z7 Pro (`PD2285F`):**
+**iQOO Z7 Pro 5G (`PD2285F`):**
 
 `I2301`: iQOO Z7 Pro 5G
 
-**iQOO Z9 (`PD2346F`):**
+**iQOO Z9 5G (`PD2346F`):**
 
 `I2218` `I2302`: iQOO Z9 5G
 
-**iQOO Z9x (`PD2353F`):**
+**iQOO Z9x 5G (`PD2353F`):**
 
 `I2219`: iQOO Z9x 5G
 
-**iQOO Z9 Lite (`PD2357F`):**
+**iQOO Z9 Lite 5G (`PD2357F`):**
 
 `I2306`: iQOO Z9 Lite 5G
 
-**iQOO Z9s (`PD2406F`):**
+**iQOO Z9s 5G (`PD2406F`):**
 
 `I2403`: iQOO Z9s 5G
 
-**iQOO Z9s Pro (`PD2404F`):**
+**iQOO Z9s Pro 5G (`PD2404F`):**
 
 `I2305`: iQOO Z9s Pro 5G
 
-**iQOO Z10 (`PD2456F`):**
+**iQOO Z10 5G (`PD2456F`):**
 
 `I2407`: iQOO Z10 5G
 
-**iQOO Z10x (`PD2445F`):**
+**iQOO Z10x 5G (`PD2445F`):**
 
 `I2404`: iQOO Z10x 5G
 
-**iQOO Z10 Lite (`PD2443F`):**
+**iQOO Z10 Lite 5G (`PD2443F`):**
 
 `I2409`: iQOO Z10 Lite 5G
 
-**iQOO Z10R:**
+**iQOO Z10 Lite:**
+
+`I2502`: iQOO Z10 Lite
+
+**iQOO Z10R 5G:**
 
 `I2410`: iQOO Z10R 5G
