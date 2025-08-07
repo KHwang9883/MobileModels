@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2025-08-07
 - `realme_global_en` Add realme P4 series.
+- `xiaomi_en` Add Redmi 15 5G, POCO M7 Plus.
 ### 2025-08-06
 - `vivo_global_en` Add several models.
 ### 2025-07-25
