@@ -601,6 +601,14 @@
 
 `RMX5030` `RMX5031`: realme P3 Ultra 5G
 
+**realme P4:**
+
+`RMX5110`: realme P4 5G
+
+**realme P4 Pro:**
+
+`RMX5116`: realme P4 Pro 5G
+
 ## Narzo series
 
 **realme Narzo (`nemo`):**
