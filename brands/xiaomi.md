@@ -1240,6 +1240,14 @@
 
 `2411DRN47I`: Redmi 14C 5G 印度版
 
+**[`O19`] Redmi 15 5G (`spring`):**
+
+`25057RN09G`: Redmi 15 5G 国际版
+
+`25057RN09E`: Redmi 15 5G 欧洲版
+
+`25057RN09I`: Redmi 15 5G 印度版
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
@@ -1754,11 +1762,11 @@
 
 `24117RN76O`: Redmi Note 14 国际版 (NFC)
 
-**[`O17`] Redmi Note 14 5G (`beryl`):**
+**[`O17`] Redmi Note 14 5G / Redmi Note 14 SE 5G (`beryl`):**
 
 `24094RAD4C`: Redmi Note 14 5G 国行版
 
-`24094RAD4I`: Redmi Note 14 5G 印度版
+`24094RAD4I`: Redmi Note 14 5G 印度版 / Redmi Note 14 SE 5G 印度版
 
 **[`O17`] Redmi Note 14 5G (`beryl`) (`citrine`):**
 
@@ -2363,6 +2371,10 @@
 **[`C3FP`] POCO M7 5G (`flame`):**
 
 `24108PCE2I`: POCO M7 5G 印度版
+
+**[`O19`] POCO M7 Plus 5G (`spring`):**
+
+`25057PC09I`: POCO M7 Plus 5G 印度版
 
 **[`O17P`] POCO M7 Pro 5G (`beryl`) (`citrine`):**
 
