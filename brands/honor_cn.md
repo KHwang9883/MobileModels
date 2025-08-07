@@ -756,6 +756,10 @@
 
 `JDY-AN00`: 荣耀 Play9C 5G
 
+**荣耀 Play10C (`Nick`):**
+
+`NIC-AN00`: 荣耀 Play10C 5G
+
 ## 荣耀 Power 系列
 
 **荣耀 Power (`David`):**

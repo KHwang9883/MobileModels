@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-08-07
+- `honor_cn` 新增 荣耀 Play10C。
 ### 2025-08-06
 - `lenovo` 增补部分平板代号。
 - `vivo_cn` 新增 iQOO Z10 Turbo+。
