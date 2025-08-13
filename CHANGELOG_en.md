@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-13
+- `samsung_global_en` Add Galaxy A07, A17.
 ### 2025-08-07
 - `realme_global_en` Add realme P4 series.
 - `xiaomi_en` Add Redmi 15 5G, POCO M7 Plus.

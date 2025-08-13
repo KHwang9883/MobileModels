@@ -809,6 +809,10 @@
 
 `SM-F966Z`: Galaxy Z Fold7 Japan (SoftBank)
 
+`SCG34`: Galaxy Z Fold7 Japan (au)
+
+`SC-56F`: Galaxy Z Fold7 Japan (NTT Docomo)
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
@@ -936,6 +940,10 @@
 `SM-F766Q`: Galaxy Z Flip7 Japan (SIM Free)
 
 `SM-F766Z`: Galaxy Z Flip7 Japan (SoftBank)
+
+`SCG35`: Galaxy Z Flip7 Japan (au)
+
+`SC-55F`: Galaxy Z Flip7 Japan (NTT Docomo)
 
 **Galaxy Z Flip7 FE (`b7r`):**
 
@@ -1080,6 +1088,12 @@
 `SM-A066E` `SM-A066B`: Galaxy A06 5G Global
 
 `SM-A066M`: Galaxy A06 5G Latin America
+
+**Galaxy A07 (`a07`):**
+
+`SM-A075F`: Galaxy A07 Global
+
+`SM-A075M`: Galaxy A07 Latin America
 
 **Galaxy A10 (`a10`):**
 
@@ -1266,6 +1280,12 @@
 **Galaxy A16 5G (`a16xm`):**
 
 `SM-A166P`: Galaxy A16 5G Global (MediaTek)
+
+**Galaxy A17 5G (`a17x`):**
+
+`SM-A176B`: Galaxy A17 5G Global
+
+`SM-A1760`: Galaxy A17 5G HK & TW
 
 **Galaxy A2 Core (`a2corelte`):**
 
@@ -1859,6 +1879,10 @@
 
 `SM-M066B`: Galaxy M06 5G
 
+**Galaxy M07 (`a07`):**
+
+`SM-M075F`: Galaxy M07
+
 **Galaxy M10 (`m10lte`):**
 
 `SM-M105G`: Galaxy M10 Global
@@ -1914,6 +1938,10 @@
 **Galaxy M16 5G (`m16xm`):**
 
 `SM-M166P`: Galaxy M16 5G
+
+**Galaxy M17 5G (`a17x`):**
+
+`SM-M176B`: Galaxy M17 5G
 
 **Galaxy M20 (`m20`):**
 
@@ -2063,6 +2091,10 @@
 
 `SM-E066B`: Galaxy F06 5G
 
+**Galaxy F07 (`a07`):**
+
+`SM-E075F`: Galaxy F07
+
 **Galaxy F12 (`f12`):**
 
 `SM-F127G`: Galaxy F12
@@ -2086,6 +2118,10 @@
 **Galaxy F16 5G (`m16xm`):**
 
 `SM-E166P`: Galaxy F16 5G
+
+**Galaxy F17 5G (`a17x`):**
+
+`SM-E176B`: Galaxy F17 5G
 
 **Galaxy F22 (`f22`):**
 
