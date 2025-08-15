@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-08-15
+- `huawei_cn` 新增 HUAWEI MatePad Air 2025、MatePad 11.5 S 2025。
 ### 2025-08-07
 - `honor_cn` 新增 荣耀 Play10C。
 - `xiaomi` 新增 Redmi 15 5G、POCO M7 Plus。

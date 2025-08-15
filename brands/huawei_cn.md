@@ -1239,6 +1239,12 @@
 
 `BKY-W20`: HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版
 
+**HUAWEI MatePad Air (`Laurent`):**
+
+`LRT-W20`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
+
+`LRT-W30`: HUAWEI MatePad Air 12 英寸 2025 柔光版 Wi-Fi 版
+
 ## HUAWEI MatePad 系列
 
 **HUAWEI MatePad (`Bach3`):**
@@ -1285,15 +1291,21 @@
 
 `BTKR-W00`: HUAWEI MatePad 11.5 英寸 2024 Wi-Fi 版
 
-**HUAWEI MatePad 11.5" S (`Tagore`):**
+**HUAWEI MatePad 11.5 S (`Tagore`):**
 
-`TGR-W00`: HUAWEI MatePad 11.5" S Wi-Fi 版
+`TGR-W00`: HUAWEI MatePad 11.5 S Wi-Fi 版
 
-`TGR-W10`: HUAWEI MatePad 11.5" S 柔光版 Wi-Fi 版
+`TGR-W10`: HUAWEI MatePad 11.5 S 柔光版 Wi-Fi 版
 
-**HUAWEI MatePad 11.5" S (`Domingo`):**
+**HUAWEI MatePad 11.5 S (`Domingo`):**
 
-`DMG-W00`: HUAWEI MatePad 11.5" S 灵动款 Wi-Fi 版
+`DMG-W00`: HUAWEI MatePad 11.5 S 灵动款 Wi-Fi 版
+
+**HUAWEI MatePad 11.5 S 2025 (`Salinger`):**
+
+`SLG-W10`: HUAWEI MatePad 11.5 S 2025 Wi-Fi 版
+
+`SLG-W50`: HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版
 
 ## HUAWEI MatePad SE 和畅享平板系列
 
