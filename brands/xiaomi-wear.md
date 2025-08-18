@@ -323,6 +323,14 @@
 
 `M2503E1`: Xiaomi 开放式耳机 Pro
 
+**Xiaomi 骨传导耳机:**
+
+`GCDEJ01LS`: Xiaomi 骨传导耳机
+
+**Xiaomi 骨传导耳机 2:**
+
+`M2447E1`: Xiaomi 骨传导耳机 2
+
 ## Redmi TWS
 
 **[`K76`] Redmi AirDots 3 Pro:**
