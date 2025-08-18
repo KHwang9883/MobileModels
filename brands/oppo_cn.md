@@ -562,9 +562,9 @@
 
 `PKL110`: OPPO A3i
 
-**OPPO A3 Pro:**
+**OPPO A3 Pro / OPPO A5 Plus:**
 
-`PJY110`: OPPO A3 Pro
+`PJY110`: OPPO A3 Pro / OPPO A5 Plus
 
 **OPPO A5:**
 
