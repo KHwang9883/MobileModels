@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-08-18
+- `realme_cn` 新增 真我 15 系列。
 ### 2025-08-15
 - `huawei_cn` 新增 HUAWEI MatePad Air 2025、MatePad 11.5 S 2025。
 ### 2025-08-07
