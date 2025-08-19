@@ -216,7 +216,7 @@
 
 `RMX3478`: 真我 Q5
 
-**真我 Q5 Pro:**
+**真我 Q5 Pro (`spartan`):**
 
 `RMX3372`: 真我 Q5 Pro
 
