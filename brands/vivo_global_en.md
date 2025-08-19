@@ -289,6 +289,10 @@
 
 `V2440`: Jovi V50 Lite
 
+**vivo V60:**
+
+`V2511` `V2512`: vivo V60
+
 ## vivo S series
 
 **vivo S1 (`PD1913F`):**
@@ -372,6 +376,10 @@
 **vivo T4R 5G:**
 
 `V2518`: vivo T4R 5G
+
+**vivo T4 Pro:**
+
+`V2510`: vivo T4 Pro
 
 **vivo T4 Ultra (`PD2430F`):**
 

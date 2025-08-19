@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-19
+- `vivo_global_en` Add vivo V60, T4 Pro.
 ### 2025-08-13
 - `samsung_global_en` Add Galaxy A07, A17.
 ### 2025-08-07
