@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-08-21
+- `xiaomi` 新增 REDMI Note 15 系列。
 ### 2025-08-18
 - `oppo_cn` 新增 OPPO A5 Plus。
 - `realme_cn` 新增 真我 15 系列。

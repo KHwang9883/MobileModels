@@ -1796,6 +1796,38 @@
 
 `24115RA8EI`: Redmi Note 14 Pro+ 5G 印度版
 
+**[`P17`] REDMI Note 15 (`kunzite`):**
+
+`25098RA98C`: REDMI Note 15 国行版
+
+`25098RA98G`: Redmi Note 15 5G 国际版
+
+`25098RA98E`: Redmi Note 15 5G 欧洲版
+
+`25098RA98I`: Redmi Note 15 5G 印度版
+
+**[`P16`] REDMI Note 15 Pro (`lapis`):**
+
+`25080RABDC`: REDMI Note 15 Pro 国行版
+
+`25080RABDG`: Redmi Note 15 Pro 5G 国际版
+
+`25080RABDI`: Redmi Note 15 Pro 5G 印度版
+
+`25080RABDR`: Redmi Note 15 Pro 5G 日本版
+
+**[`P16U`] REDMI Note 15 Pro+ (`flourite`):**
+
+`2510ERA8BC`: REDMI Note 15 Pro+ 国行版
+
+`2510ERA8BG`: Redmi Note 15 Pro+ 5G 国际版
+
+`2510ERA8BI`: Redmi Note 15 Pro+ 5G 印度版
+
+**[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
+
+`25104RADAC`: REDMI Note 15 Pro+ 卫星消息版
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
@@ -2348,10 +2380,6 @@
 
 `2404APC5FG`: POCO M6 国际版
 
-**[`N19AP`] POCO M6 (`moon`) (`tides`):**
-
-`2404APC5FI`: POCO M6 印度版
-
 **[`C3VP`] POCO M6 5G (`air`):**
 
 `23128PC33I`: POCO M6 5G 印度版
@@ -2367,6 +2395,12 @@
 **[`M19P`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G 印度版
+
+**[`O19AP`] POCO M7 (`creek`):**
+
+`25062PC34G`: POCO M7 国际版
+
+`25062PC34E`: POCO M7 欧洲版
 
 **[`C3FP`] POCO M7 5G (`flame`):**
 
