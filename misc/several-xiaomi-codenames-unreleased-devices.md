@@ -34,6 +34,10 @@
 
 `24101PNB7C`: Xiaomi 15 Pro 卫星通讯版 (未上市)
 
+**[`O9`] Xiaomi 15 Civi (`luming`):**
+
+`25067PYE3I`: Xiaomi 15 Civi 印度版 (未上市)
+
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
@@ -55,6 +59,10 @@
 **[`N18S`] Xiaomi MIX Fold 4 (`goku`):**
 
 `24076PX3BC`: Xiaomi MIX Fold 4 (无卫星通讯, 未上市)
+
+**[`O18`] Xiaomi MIX Fold 系列:**
+
+`25054PXCEC`: Xiaomi MIX Fold 系列 (未上市)
 
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
@@ -141,6 +149,10 @@
 **[`L16U`] POCO X4 GT Pro (`xagapro`):**
 
 `22041216UG`: POCO X4 GT Pro 国际版 (未上市)
+
+**[`N19AP`] POCO M6 (`moon`) (`tides`):**
+
+`2404APC5FI`: POCO M6 印度版 (未上市)
 
 **[`C3QP`] POCO C40 (`frost`):**
 
