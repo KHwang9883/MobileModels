@@ -1679,6 +1679,38 @@
 
 `24115RA8EC`: Redmi Note 14 Pro+ 5G China
 
+**[`P17`] Redmi Note 15 5G (`kunzite`):**
+
+`25098RA98G`: Redmi Note 15 5G Global
+
+`25098RA98E`: Redmi Note 15 5G Europe
+
+`25098RA98I`: Redmi Note 15 5G India
+
+`25098RA98C`: REDMI Note 15 5G China
+
+**[`P16`] Redmi Note 15 Pro (`lapis`):**
+
+`25080RABDG`: Redmi Note 15 Pro 5G Global
+
+`25080RABDI`: Redmi Note 15 Pro 5G India
+
+`25080RABDR`: Redmi Note 15 Pro 5G Japan
+
+`25080RABDC`: REDMI Note 15 Pro 5G China
+
+**[`P16U`] Redmi Note 15 Pro+ (`flourite`):**
+
+`2510ERA8BG`: Redmi Note 15 Pro+ 5G Global
+
+`2510ERA8BI`: Redmi Note 15 Pro+ 5G India
+
+`2510ERA8BC`: REDMI Note 15 Pro+ 5G China
+
+**[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
+
+`25104RADAC`: REDMI Note 15 Pro+ 5G Satellite China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -2145,10 +2177,6 @@
 
 `2404APC5FG`: POCO M6 Global
 
-**[`N19AP`] POCO M6 (`moon`) (`tides`):**
-
-`2404APC5FI`: POCO M6 India
-
 **[`C3VP`] POCO M6 5G (`air`):**
 
 `23128PC33I`: POCO M6 5G India
@@ -2164,6 +2192,12 @@
 **[`M19P`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G India
+
+**[`O19AP`] POCO M7 (`creek`):**
+
+`25062PC34G`: POCO M7 Global
+
+`25062PC34E`: POCO M7 Europe
 
 **[`C3FP`] POCO M7 5G (`flame`):**
 

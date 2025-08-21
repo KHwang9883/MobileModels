@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-21
+- `xiaomi_en` Add Redmi Note 15 5G series, POCO M7.
 ### 2025-08-19
 - `vivo_global_en` Add vivo V60, T4 Pro.
 ### 2025-08-13
