@@ -132,6 +132,10 @@
 
 `MBH-AN10`: 荣耀 Magic V5
 
+**荣耀 Magic V Flip2 (`Celine`):**
+
+`CLE-AN00`: 荣耀 Magic V Flip2
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**

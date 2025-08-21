@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-08-21
+- `honor_cn` 新增 荣耀 Magic V Flip2。
 - `xiaomi` 新增 REDMI Note 15 系列。
 ### 2025-08-18
 - `oppo_cn` 新增 OPPO A5 Plus。
