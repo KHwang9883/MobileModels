@@ -1131,6 +1131,16 @@
 
 `2411DRN47I`: Redmi 14C 5G India
 
+**[`O19A`] Redmi 15 (`creek`):**
+
+`25062RN2DA`: Redmi 15 Global
+
+`25062RN2DY`: Redmi 15 Global (NFC)
+
+`25062RN2DE`: Redmi 15 Europe
+
+`25062RN2DL`: Redmi 15 Latin America
+
 **[`O19`] Redmi 15 5G (`spring`):**
 
 `25057RN09G`: Redmi 15 5G Global
@@ -1710,6 +1720,10 @@
 **[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
 
 `25104RADAC`: REDMI Note 15 Pro+ 5G Satellite China
+
+**[`O19`] REDMI Note 15R (`spring`):**
+
+`25057RA09C`: REDMI Note 15R China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 

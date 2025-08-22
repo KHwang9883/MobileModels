@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-22
+- `xiaomi_en` Add Redmi 15 4G, Redmi Note 15R (China).
 ### 2025-08-21
 - `xiaomi_en` Add Redmi Note 15 5G series, POCO M7.
 ### 2025-08-19
