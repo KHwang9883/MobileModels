@@ -1240,6 +1240,16 @@
 
 `2411DRN47I`: Redmi 14C 5G 印度版
 
+**[`O19A`] Redmi 15 (`creek`):**
+
+`25062RN2DA`: Redmi 15 国际版
+
+`25062RN2DY`: Redmi 15 国际版 (NFC)
+
+`25062RN2DE`: Redmi 15 欧洲版
+
+`25062RN2DL`: Redmi 15 拉美版
+
 **[`O19`] Redmi 15 5G (`spring`):**
 
 `25057RN09G`: Redmi 15 5G 国际版
@@ -1827,6 +1837,10 @@
 **[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
 
 `25104RADAC`: REDMI Note 15 Pro+ 卫星消息版
+
+**[`O19`] REDMI Note 15R (`spring`):**
+
+`25057RA09C`: REDMI Note 15R
 
 ## Redmi X 系列
 
