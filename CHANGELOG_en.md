@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-24
+- `honor_global_en` Add HONOR 400 Smart.
 ### 2025-08-22
 - `xiaomi_en` Add Redmi 15 4G, Redmi Note 15R (China).
 ### 2025-08-21

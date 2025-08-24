@@ -241,6 +241,10 @@
 
 `ABR-NX1` `ABR-NX3`: HONOR 400 Lite
 
+**HONOR 400 Smart:**
+
+`LGN-NX1` `LGN-NX3`: HONOR 400 Smart
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
