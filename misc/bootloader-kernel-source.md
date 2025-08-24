@@ -7,7 +7,7 @@
 > 关于「自定义信任根」功能，请参考 [Android 开发者文档](https://source.android.com/docs/security/features/verifiedboot/device-state?hl=zh-cn#user-settable-root-of-trust)
 
 - ✅ 支持/是 | **可点击**
-- ⚠️ 名义上支持，但严格限制名额/审核，或存在免费且公开的非官方解锁方案 | **可点击**
+- ⚠️ 名义上支持，但严格限制名额/审核，或新机型不再支持解锁，或存在免费且公开的非官方解锁方案 | **可点击**
 - ⏹ 部分支持/部分开源/部分保修 | **可点击**
 - ❌ 不支持/否
 
@@ -21,7 +21,7 @@
 - **Linux 内核开源**: [✅](https://www.asus.com/support/download-center/)
 - **备注**:
     - 中国大陆销售的 ROG 设备不支持解锁
-    - 目前因解锁造成的漏洞，官方已关闭解锁渠道，所有机型（包括 ROG、ZenFone）均无法解锁
+    - 目前因解锁造成的漏洞，官方已关闭解锁渠道，所有机型（包括 ROG、ZenFone、Snapdragon Insiders 等）均已无法解锁
 
 ## 黑鲨 (Black Shark) 
 - **Bootloader 解锁**: ❌
@@ -34,7 +34,7 @@
 - **是否支持回锁**: 不详
 - **Linux 内核开源**: ❌
 
-## Google
+## Google Pixel
 - **Bootloader 解锁**: [⏹](https://source.android.com/source/running#unlocking-the-bootloader)
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ✅
@@ -59,7 +59,7 @@
     - 部分机型未开源
 
 ## HTC
-- **Bootloader 解锁**: [⏹](https://www.htcdev.com/bootloader/)
+- **Bootloader 解锁**: [⚠️](https://www.htcdev.com/bootloader/)
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
@@ -84,6 +84,7 @@
     - 解锁后若重新回锁，则不影响保修
     - 部分设备不允许回锁
     - 部分机型解锁后会熔断 TEE，不可恢复原厂密钥
+    - 部分机型缺失内核源码
 
 ## 乐视 (Letv)
 - **Bootloader 解锁**: ✅
@@ -131,7 +132,7 @@
     - 提交后会在几分钟内将解锁文件发至邮箱
     - 部分机型解锁后会熔断 TEE，不可恢复原厂密钥
 
-## 诺基亚 (HMD Nokia)
+## 赫名迪 / 诺基亚 (HMD / Nokia)
 - **Bootloader 解锁**: ❌
 - **Linux 内核开源**: [✅](https://www.nokia.com/phones/en_int/opensource)
 - **备注**: 官方未提供解锁
@@ -144,7 +145,7 @@
     - **是否支持自定义信任根**: ✅
 - **Linux 内核开源**: [✅](https://github.com/NothingOSS)
 - **备注**:
-    - 无需申请解锁码，无任何解锁限制
+    - 无需申请解锁码，启用 OEM 解锁功能需已连接到互联网并已签入 Google（与 [Google Pixel](#google-pixel) 相同）
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后的 TEE 功能可使用 OPPO/一加/真我 的方法修复）
 
 ## 努比亚 (nubia) & 红魔 (Red Magic)
@@ -164,26 +165,27 @@
     - **是否支持自定义信任根**: ⏹
 - **Linux 内核开源**: [✅](https://github.com/OnePlusOSS)
 - **备注**:
-    - [搭载 ColorOS 16 及以上版本的国行一加手机及平板，解锁需申请加入深度测试计划](https://bbs.oneplus.com/thread/1926504022886318086)；ColorOS 15 及以下版本的一加手机及平板无解锁限制
-    - Bootloader 解锁申请暂无名额限制
+    - [搭载 ColorOS 16 及以上版本的国行一加手机及平板，解锁需申请加入深度测试计划](https://bbs.oneplus.com/thread/1926504022886318086)；ColorOS 15 及以下版本的一加手机及平板无限制
+    - Bootloader 解锁申请无名额限制
     - 申请加入深度测试计划须满足：
         - ColorOS 16.0 及以上版本的机型
         - 账号无异常、无违规
         - 30 天内无申请记录
         - 非政企和运营商定制手机及平板
+        - 中国大陆地区内上市的手机及平板
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可修复）
     - 一加 9 系列及之前的设备支持自定义信任根。之后的设备由于已知问题尚未解决，暂不支持该功能
     - 手机产品获取 ROOT 后，若刷机（官网下载升级工具自行刷机或官方服务中心免费协助刷机）后可恢复系统则享有正常的三包服务；刷机不可以恢复则只享有保修服务，不适用退换机服务。
 
 ## OPPO
-- **Bootloader 解锁**: [⏹](https://www.oppo.cn/thread-397164526-1)
+- **Bootloader 解锁**: [⚠️](https://www.oppo.cn/thread-397164526-1)
 - **解锁等待时长**: 720 小时 (1 月)
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
-    - **是否支持自定义信任根**: 不详
+    - **是否支持自定义信任根**: ❌
 - **Linux 内核开源**: [✅](https://github.com/oppo-source)
 - **备注**:
-    - 仅部分机型支持解锁
+    - 仅部分机型支持解锁，新产品暂未提供深度测试 APK
     - 申请深度测试需登录欢太账号
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可修复）
     - 手机产品获取 ROOT 后，若刷机（官网下载升级工具自行刷机或官方服务中心免费协助刷机）后可恢复系统则享有正常的三包服务；刷机不可以恢复则只享有保修服务，不适用退换机服务。
@@ -193,7 +195,7 @@
 - **解锁等待时长**: 168 小时（7 天）
 - **解锁后保修状态**: ✅
 - **是否支持回锁**: ✅
-    - **是否支持自定义信任根**: 不详
+    - **是否支持自定义信任根**: ❌
 - **Linux 内核开源**: [✅](https://github.com/realme-kernel-opensource)
 - **备注**:
     - 在中国大陆地区通过正规渠道购买，且目前软件没有停止维护的真我手机均支持解锁
@@ -205,7 +207,7 @@
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可修复）
 
 ## 三星 (Samsung)
-- **Bootloader 解锁**: ⏹
+- **Bootloader 解锁**: ⚠️
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
@@ -214,7 +216,7 @@
 - **备注**:
     - 解锁将导致 KNOX 熔断，钱包、健康等功能失效，保修丢失，TEE 功能部分失效；部分机型解锁还将导致相机永久无法工作（如 Galaxy Fold 系列）
     - 美版设备不支持解锁
-    - One UI 8（含）以上设备不支持解锁
+    - OneUI 8（含）以上设备不支持解锁，旧设备升级到 OneUI 8 后不支持解锁
     - 仅部分地区的设备系统支持免解锁互刷（但支持 ID Attestation 的设备在互刷后会破坏该功能，导致 RKP 模式下 TEE 无法正常获取密钥，从而失效）
 
 ## 索尼 (SONY)
@@ -230,21 +232,21 @@
     - 部分机型解锁将导致相机永久无法工作
 
 ## 坚果 (Smartisan)
-- **Bootloader 解锁**: ⏹
+- **Bootloader 解锁**: ⚠️
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: 不详
 - **是否支持回锁**: ❌
 - **Linux 内核开源**: [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source)
 - **备注**:
     - Pro 3 及以后的消费版机型不支持解锁
-    - 缺少部分机型内核源码
+    - 部分机型缺失内核源码
 
 ## vivo
 - **Bootloader 解锁**: ❌
 - **Linux 内核开源**: [⏹](https://opensource.vivo.com/Project)
 - **备注**:
     - 官方未提供解锁
-    - 缺少部分机型内核源码
+    - 部分机型缺失内核源码
 
 ## 小米 (Xiaomi)
 - **Bootloader 解锁**:
@@ -298,4 +300,5 @@
 - **是否支持回锁**: ✅
     - **是否支持自定义信任根**: ❌
 - **Linux 内核开源**: [✅](https://opensource.ztedevices.com/)
-- **备注**: 部分新产品不再提供解锁
+- **备注**: 新产品不再提供解锁
+
