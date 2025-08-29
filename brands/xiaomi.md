@@ -1258,6 +1258,16 @@
 
 `25057RN09I`: Redmi 15 5G 印度版
 
+**[`P15A`] Redmi 15C (`dew`):**
+
+`25078RA3EA`: Redmi 15C 国际版
+
+`25078RA3EY`: Redmi 15C 国际版 (NFC)
+
+`25078RA3EE`: Redmi 15C 欧洲版
+
+`25078RA3EL`: Redmi 15C 拉美版
+
 ## 红米 / Redmi Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
@@ -2491,6 +2501,12 @@
 **[`C3F2`] POCO C75 5G (`warm`):**
 
 `24116PCC1I`: POCO C75 5G 印度版
+
+**[`P15A`] POCO C85 (`dew`):**
+
+`25078PC3EG`: POCO C85 国际版
+
+`25078PC3EE`: POCO C85 欧洲版
 
 ## POCO 平板
 

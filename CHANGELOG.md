@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-08-29
+- `xiaomi` 新增 Redmi 15C 4G、POCO C85。
 ### 2025-08-22
 - `xiaomi` 新增 REDMI Note 15R、REDMI 15 4G。
 ### 2025-08-21
