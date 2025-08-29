@@ -1149,6 +1149,16 @@
 
 `25057RN09I`: Redmi 15 5G India
 
+**[`P15A`] Redmi 15C (`dew`):**
+
+`25078RA3EA`: Redmi 15C Global
+
+`25078RA3EY`: Redmi 15C Global (NFC)
+
+`25078RA3EE`: Redmi 15C Europe
+
+`25078RA3EL`: Redmi 15C Latin America
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -2288,6 +2298,12 @@
 **[`C3F2`] POCO C75 5G (`warm`):**
 
 `24116PCC1I`: POCO C75 5G India
+
+**[`P15A`] POCO C85 (`dew`):**
+
+`25078PC3EG`: POCO C85 Global
+
+`25078PC3EE`: POCO C85 Europe
 
 ## Tablets
 

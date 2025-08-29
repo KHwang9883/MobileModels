@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-08-29
+- `xiaomi_en` Add Redmi 15C 4G, POCO C85.
 ### 2025-08-24
 - `honor_global_en` Add HONOR 400 Smart.
 ### 2025-08-22
