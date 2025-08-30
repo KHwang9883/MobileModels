@@ -229,6 +229,36 @@
 
 `G3Y12`: Pixel 9a (Japan)
 
+**Pixel 10 (`frankel`):**
+
+`GLBW0`: Pixel 10 (US, mmWave)
+
+`GK2MP`: Pixel 10 (Global)
+
+`GL066`: Pixel 10 (Japan)
+
+**Pixel 10 Pro (`blazer`):**
+
+`G4QUR`: Pixel 10 Pro (US, mmWave)
+
+`GEHN3`: Pixel 10 Pro (Global)
+
+`GN4F5`: Pixel 10 Pro (Japan)
+
+**Pixel 10 Pro XL (`mustang`):**
+
+`GUL82`: Pixel 10 Pro XL (US, mmWave)
+
+`G45RY`: Pixel 10 Pro XL (Global)
+
+`GYPW4`: Pixel 10 Pro XL (Japan)
+
+**Pixel 10 Pro Fold (`rango`):**
+
+`GU0NP`: Pixel 10 Pro Fold (Global)
+
+`GM66V`: Pixel 10 Pro Fold (Japan)
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C
