@@ -2474,3 +2474,7 @@
 **[`K91`] Xiaomi CyberDog:**
 
 `21051191C`: Xiaomi CyberDog Bio-inspired Quadruped Robot
+
+**[`P802`] Xiaomi YU7 Back Row Mobile Control Screen (`konghou`):**
+
+`2503CVPC6C`: Xiaomi YU7 Back Row Mobile Control Screen

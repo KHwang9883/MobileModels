@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2025-08-31
 - `google` Add Google Pixel 10 series.
+- `xiaomi_en` Add Xiaomi YU7 Back Row Mobile Control Screen.
 ### 2025-08-29
 - `xiaomi_en` Add Redmi 15C 4G, POCO C85.
 ### 2025-08-24
