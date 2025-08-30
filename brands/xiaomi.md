@@ -2527,3 +2527,7 @@
 **[`K91`] CyberDog 仿生四足机器人:**
 
 `21051191C`: CyberDog 仿生四足机器人
+
+**[`P802`] Xiaomi YU7 后排移动控制屏 (`konghou`):**
+
+`2503CVPC6C`: Xiaomi YU7 后排移动控制屏
