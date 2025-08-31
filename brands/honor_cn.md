@@ -978,9 +978,9 @@
 
 `ALT-AN00`: 荣耀畅玩 60 Plus 5G
 
-**荣耀畅玩 70 Plus:**
+**荣耀畅玩 70 Plus / 荣耀畅玩 70m Plus:**
 
-`LOG-AN00`: 荣耀畅玩 70 Plus 5G
+`LOG-AN00`: 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
 
 ## 荣耀平板 数字系列
 
