@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-01
+- `honor_global_en` Add HONOR X7d.
 ### 2025-08-31
 - `google` Add Google Pixel 10 series.
 - `xiaomi_en` Add Xiaomi YU7 Back Row Mobile Control Screen.

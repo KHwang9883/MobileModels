@@ -379,6 +379,14 @@
 
 `ALT-NX1`: HONOR X7c 5G
 
+**HONOR X7d:**
+
+`LGN-LX1` `LGN-LX2` `LGN-LX3`: HONOR X7d
+
+**HONOR X7d 5G:**
+
+`LGN-NX1`: HONOR X7d 5G
+
 **HONOR X8 (`Tiffany`):**
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
