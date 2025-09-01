@@ -750,27 +750,31 @@
 
 **vivo Y300 / vivo Y300c (`PD2435`):**
 
-`V2435A`: vivo Y300 5G / vivo Y300c 5G
-
-**vivo Y300 Pro (`PD2410`):**
-
-`V2410A`: vivo Y300 Pro 5G
-
-**vivo Y300 Pro+ (`PD2456`):**
-
-`V2456A`: vivo Y300 Pro+ 5G
+`V2435A`: vivo Y300 5G / vivo Y300c
 
 **vivo Y300i (`PD2444`):**
 
 `V2444A`: vivo Y300i 5G
 
+**vivo Y300 Pro (`PD2410`):**
+
+`V2410A`: vivo Y300 Pro
+
+**vivo Y300 Pro+ (`PD2456`):**
+
+`V2456A`: vivo Y300 Pro+
+
 **vivo Y300t / vivo Y300+ (`PD2445D`):**
 
-`V2445EA`: vivo Y300t 5G / vivo Y300+ 5G
+`V2445EA`: vivo Y300t / vivo Y300+
 
 **vivo Y300 GT (`PD2452`):**
 
-`V2452GA`: vivo Y300 GT 5G
+`V2452GA`: vivo Y300 GT
+
+**vivo Y500 (`PD2506`):**
+
+`V2506A`: vivo Y500
 
 ## vivo T 系列
 
