@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-02
+- `oppo_global_en` Add several new models.
 ### 2025-09-01
 - `honor_global_en` Add HONOR X7d.
 - `vivo_global_en` Add several new models.

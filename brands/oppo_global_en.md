@@ -485,15 +485,27 @@
 
 `CPH2727`: OPPO A5 (2025) / OPPO A5m
 
-**OPPO A5i:**
-
-`CPH2773`: OPPO A5i
-
 **OPPO A5 Pro:**
 
 `CPH2711`: OPPO A5 Pro
 
 `CPH2695`: OPPO A5 Pro 5G
+
+**OPPO A5i:**
+
+`CPH2773`: OPPO A5i
+
+**OPPO A5i Pro:**
+
+`CPH2755`: OPPO A5i Pro
+
+`CPH2821`: OPPO A5i Pro 5G
+
+**OPPO A5x:**
+
+`CPH2725`: OPPO A5x
+
+`CPH2733`: OPPO A5x 5G
 
 **OPPO A7:**
 
@@ -742,6 +754,14 @@
 **OPPO K13x:**
 
 `CPH2753`: OPPO K13x 5G
+
+**OPPO K13 Turbo (`knight`):**
+
+`CPH2761`: OPPO K13 Turbo 5G
+
+**OPPO K13 Turbo Pro:**
+
+`CPH2731`: OPPO K13 Turbo Pro 5G
 
 ## Pad series
 
