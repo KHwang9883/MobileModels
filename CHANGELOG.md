@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-02
+- `oppo_cn` 新增 OPPO A6 GT/Max。
 ### 2025-09-01
 - `honor_cn` 新增 荣耀畅玩 70m Plus。
 - `vivo_cn` 新增 vivo Y500。
