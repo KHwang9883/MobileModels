@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-09-03
+- `huawei_global_en` Add HUAWEI MatePad 11.5 S 2025.
 - `oppo_global_en` Add OPPO Reno13 FS, Reno14 FS.
 ### 2025-09-02
 - `oppo_global_en` Add several new models.

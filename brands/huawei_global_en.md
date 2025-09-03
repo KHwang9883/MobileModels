@@ -489,9 +489,9 @@
 
 `MGA-LX9` `MGA-LX9N` `MGA-LX3`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 
-**HUAWEI nova Y72 (`Mega`):**
+**HUAWEI nova Y72 / HUAWEI nova Y73 (`Mega`):**
 
-`MGA-LX3`: HUAWEI nova Y72
+`MGA-LX3`: HUAWEI nova Y72 / HUAWEI nova Y73
 
 **HUAWEI nova Y72S (`Goofy`):**
 
@@ -725,13 +725,17 @@
 
 `BTKR-W09`: HUAWEI MatePad 11.5 2024 Wi-Fi
 
-**HUAWEI MatePad 11.5" S (`Tagore`):**
+**HUAWEI MatePad 11.5 S (`Tagore`):**
 
-`TGR-W09`: HUAWEI MatePad 11.5" S Wi-Fi
+`TGR-W09`: HUAWEI MatePad 11.5 S Wi-Fi
 
-**HUAWEI MatePad 11.5 (`Salinger`):**
+**HUAWEI MatePad 11.5 (`Taoxingzhi`):**
 
-`SLG-W09`: HUAWEI MatePad 11.5 2025 Wi-Fi
+`TXZ-W09`: HUAWEI MatePad 11.5 2025 Wi-Fi
+
+**HUAWEI MatePad 11.5 S (`Salinger`):**
+
+`SLG-W09`: HUAWEI MatePad 11.5 S 2025 Wi-Fi
 
 **HUAWEI MatePad Air (`Debussy2`):**
 
