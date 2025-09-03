@@ -297,11 +297,11 @@
 
 `CPH2697`: OPPO Reno13 Pro 5G
 
-**OPPO Reno13 F / OPPO Reno13 A (`milkyway`) (`milkyway-s3`):**
+**OPPO Reno13 F / OPPO Reno13 FS / OPPO Reno13 A (`milkyway`) (`milkyway-s3`):**
 
 `CPH2701`: OPPO Reno13 F
 
-`CPH2699`: OPPO Reno13 F 5G / OPPO Reno13 A
+`CPH2699`: OPPO Reno13 F 5G / OPPO Reno13 FS 5G / OPPO Reno13 A
 
 **OPPO Reno14 (`zhuque`) (`zhuque-s2`):**
 
@@ -311,9 +311,9 @@
 
 `CPH2739`: OPPO Reno14 Pro
 
-**OPPO Reno14 F (`zhuque`) (`zhuque-s3`):**
+**OPPO Reno14 F / OPPO Reno14 FS (`zhuque`) (`zhuque-s3`):**
 
-`CPH2743`: OPPO Reno14 F 5G
+`CPH2743`: OPPO Reno14 F 5G / OPPO Reno14 FS 5G
 
 ## F series
 

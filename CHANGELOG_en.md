@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-03
+- `oppo_global_en` Add OPPO Reno13 FS, Reno14 FS.
 ### 2025-09-02
 - `oppo_global_en` Add several new models.
 ### 2025-09-01
