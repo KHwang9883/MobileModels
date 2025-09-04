@@ -586,6 +586,10 @@
 
 `PLL110`: OPPO A6 GT / OPPO A6 Max
 
+**OPPO A6 Pro:**
+
+`PLN110`: OPPO A6 Pro
+
 ## K 系列
 
 **OPPO K1:**
@@ -663,6 +667,10 @@
 **OPPO K12s:**
 
 `PLD110`: OPPO K12s
+
+**OPPO K13s:**
+
+`PLL110`: OPPO K13s
 
 **OPPO K13 Turbo (`knight`):**
 
