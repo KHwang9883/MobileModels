@@ -994,6 +994,22 @@
 
 `SM-X626C`: Galaxy Tab S10 FE+ 5G
 
+**Galaxy Tab S11 (`gts11wifi`):**
+
+`SM-X730`: Galaxy Tab S11 WLAN
+
+**Galaxy Tab S11 (`gts11`):**
+
+`SM-X736C`: Galaxy Tab S11 5G
+
+**Galaxy Tab S11 Ultra (`gts11uwifi`):**
+
+`SM-X930`: Galaxy Tab S11 Ultra WLAN
+
+**Galaxy Tab S11 Ultra (`gts11u`):**
+
+`SM-X936C`: Galaxy Tab S11 Ultra 5G
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
