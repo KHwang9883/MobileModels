@@ -2359,6 +2359,14 @@
 
 `HD85KULU`: 华为 Vision 智慧屏 5 SE 85
 
+**华为 Vision 智慧屏 5 Pro:**
+
+`HD65NEWN`: 华为 Vision 智慧屏 5 Pro 65
+
+`HD75NEWN`: 华为 Vision 智慧屏 5 Pro 75
+
+`HD85NEWN`: 华为 Vision 智慧屏 5 Pro 85
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
