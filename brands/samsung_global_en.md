@@ -537,6 +537,18 @@
 
 `SM-S937N`: Galaxy S25 Edge South Korea
 
+**Galaxy S25 FE (`r13s`):**
+
+`SM-S731B`: Galaxy S25 FE Global
+
+`SM-S731U`: Galaxy S25 FE US Carrier
+
+`SM-S731U1`: Galaxy S25 FE US Unlocked
+
+`SM-S731W`: Galaxy S25 FE Canada
+
+`SM-S731N`: Galaxy S25 FE South Korea
+
 ## Galaxy Note
 
 **Galaxy Note9 (`crownlte`):**
