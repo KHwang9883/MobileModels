@@ -199,9 +199,9 @@
 
 `ALN-AL10`: HUAWEI Mate 60 Pro+
 
-**HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师 (`Allen`):**
+**HUAWEI Mate 60 RS 非凡大师 (`Allen`):**
 
-`ALN-AL10`: HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师
+`ALN-AL10`: HUAWEI Mate 60 RS 非凡大师
 
 **HUAWEI Mate 70 (`Celestial`):**
 
@@ -217,9 +217,9 @@
 
 `PLA-AL10`: HUAWEI Mate 70 Pro+
 
-**HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师 (`ULTIMATE DESIGN`):**
+**HUAWEI Mate 70 RS 非凡大师 (`PillarU`):**
 
-`PLU-AL10`: HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师
+`PLU-AL10`: HUAWEI Mate 70 RS 非凡大师
 
 **HUAWEI Mate X (`Tahiti`):**
 
@@ -249,15 +249,19 @@
 
 `ALT-AL10`: HUAWEI Mate X5
 
-**HUAWEI Mate XT ULTIMATE DESIGN 非凡大师 (`Greenlan`):**
+**HUAWEI Mate XT 非凡大师 (`Greenlan`):**
 
-`GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
+`GRL-AL10`: HUAWEI Mate XT 非凡大师
 
 **HUAWEI Mate X6 (`Iceland`):**
 
 `ICL-AL10`: HUAWEI Mate X6
 
 `ICL-AL20`: HUAWEI Mate X6 典藏版
+
+**HUAWEI Mate XTs 非凡大师 (`Greenlan`):**
+
+`GRL-AL20`: HUAWEI Mate XTs 非凡大师
 
 ## HUAWEI P / Pura 系列
 
@@ -1219,9 +1223,9 @@
 
 `MRDI-W00`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 版
 
-`MRDI-W10`: HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版
+`MRDI-W10`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版
 
-`MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版 (16GB+1TB)
+`MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
 
 ## HUAWEI MatePad Air 系列
 
@@ -1237,13 +1241,13 @@
 
 `BKY-W10`: HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
 
-`BKY-W20`: HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版
+`BKY-W20`: HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 
 **HUAWEI MatePad Air (`Laurent`):**
 
 `LRT-W20`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 
-`LRT-W30`: HUAWEI MatePad Air 12 英寸 2025 柔光版 Wi-Fi 版
+`LRT-W30`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
 
 ## HUAWEI MatePad 系列
 
@@ -1279,7 +1283,7 @@
 
 `DBR-W00`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 
-`DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
+`DBR-W10`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 柔光版
 
 **HUAWEI MatePad (`Bartok`):**
 
@@ -1295,7 +1299,7 @@
 
 `TGR-W00`: HUAWEI MatePad 11.5 S Wi-Fi 版
 
-`TGR-W10`: HUAWEI MatePad 11.5 S 柔光版 Wi-Fi 版
+`TGR-W10`: HUAWEI MatePad 11.5 S Wi-Fi 柔光版
 
 **HUAWEI MatePad 11.5 S (`Domingo`):**
 
@@ -1306,6 +1310,14 @@
 `SLG-W10`: HUAWEI MatePad 11.5 S 2025 Wi-Fi 版
 
 `SLG-W50`: HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版
+
+**HUAWEI MatePad Mini (`Mclaren`):**
+
+`MLR-AL00`: HUAWEI MatePad Mini 悦读版 8.8 英寸
+
+`MLR-AL10`: HUAWEI MatePad Mini 8.8 英寸
+
+> 注：HUAWEI MatePad Mini 产品型号 `MLR-AL10F`、`MLR-AL10E` / `MLR-AL10G`（柔光版），HUAWEI MatePad Mini 典藏版产品型号 `MLR-AL10HP`、`MLR-AL10KP`，HUAWEI MatePad Mini 悦读版产品型号 `MLR-AL00F` / `MLR-AL00E`（柔光版）；本汇总收录型号为认证型号，而非 SKU 型号。
 
 ## HUAWEI MatePad SE 和畅享平板系列
 
@@ -1551,9 +1563,9 @@
 
 `HAD-W32`: HUAWEI MateBook Pro (32GB 内存)
 
-**HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (`Hooper`):**
+**HUAWEI MateBook Fold 非凡大师 (`Hooper`):**
 
-`HPR-W72`: HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (32GB 内存)
+`HPR-W72`: HUAWEI MateBook Fold 非凡大师 (32GB 内存)
 
 **HUAWEI MateBook 13 (`Wright`):**
 
@@ -2116,6 +2128,24 @@
 **华为智慧屏 X 系列 (`Plato`):**
 
 `PLAT-760`: 华为智慧屏 X65
+
+**华为智慧屏 MateTV:**
+
+`HD65EDIH`: 华为智慧屏 MateTV 65 英寸
+
+`HD75EDIH`: 华为智慧屏 MateTV 75 英寸
+
+`HD8XEDIH`: 华为智慧屏 MateTV 85 英寸
+
+`HD98EDIH`: 华为智慧屏 MateTV 98 英寸
+
+**华为智慧屏 MateTV Pro:**
+
+`HD75EDIJ`: 华为智慧屏 MateTV Pro 75 英寸
+
+`HD8XEDIJ`: 华为智慧屏 MateTV Pro 85 英寸
+
+`HD98EDIJ`: 华为智慧屏 MateTV Pro 98 英寸
 
 **华为智慧屏 S 系列 (`Kant`):**
 
