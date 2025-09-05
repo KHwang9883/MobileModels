@@ -186,6 +186,8 @@
 
 `A404ZT`: nubia Flip 2 SoftBank
 
+`Z8900CA`: nubia Flip 2 eSIM
+
 **nubia 小牛:**
 
 `NX302J`: nubia 小牛
@@ -248,9 +250,9 @@
 
 `Z2353`: nubia Music
 
-**nubia Music 2:**
+**nubia Music 2 / nubia Music Pro:**
 
-`Z2460`: nubia Music 2
+`Z2460`: nubia Music 2 / nubia Music Pro
 
 **nubia Focus:**
 
@@ -264,9 +266,21 @@
 
 `Z2463N`: nubia Focus 2 Ultra 5G
 
+**nubia Air:**
+
+`Z2468N`: nubia Air
+
+**nubia A56:**
+
+`Z2473`: nubia A56
+
 **nubia A75:**
 
 `Z6255CA`: nubia A75
+
+**nubia A76:**
+
+`Z2474` `Z6657CA`: nubia A76
 
 **nubia V50 Vita:**
 

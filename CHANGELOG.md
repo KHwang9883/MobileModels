@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-06
+- `nubia` 新增部分海外型号。
 ### 2025-09-04
 - `huawei_cn` 新增 HUAWEI Mate XTs 非凡大师、MatePad Mini、MateTV、Vision 智慧屏 5 Pro。
 - `oppo_cn` 新增 OPPO A6 Pro、K13s。
