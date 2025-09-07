@@ -590,6 +590,10 @@
 
 `PLN110`: OPPO A6 Pro
 
+**OPPO A6i:**
+
+`PKW120`: OPPO A6i
+
 ## K 系列
 
 **OPPO K1:**
