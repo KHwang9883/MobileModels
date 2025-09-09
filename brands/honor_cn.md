@@ -760,6 +760,10 @@
 
 `JDY-AN00`: 荣耀 Play9C 5G
 
+**荣耀 Play10T:**
+
+`LOG-AN10`: 荣耀 Play10T 5G
+
 **荣耀 Play10C (`Nick`):**
 
 `NIC-AN00`: 荣耀 Play10C 5G
