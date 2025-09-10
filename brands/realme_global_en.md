@@ -601,6 +601,10 @@
 
 `RMX5030` `RMX5031`: realme P3 Ultra 5G
 
+**realme P3 Lite:**
+
+`RMX3943`: realme P3 Lite 5G
+
 **realme P4:**
 
 `RMX5110`: realme P4 5G

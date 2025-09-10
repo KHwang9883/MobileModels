@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-10
+- `realme_global_en` Add realme P3 Lite 5G.
 ### 2025-09-04
 - `samsung_global_en` Add Galaxy S25 FE.
 ### 2025-09-03
