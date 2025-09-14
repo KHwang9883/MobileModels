@@ -498,6 +498,46 @@
 
 `A3409`: iPhone 16e (其他国家和地区)
 
+**[`V57AP`] iPhone 17 (`iPhone18,3`):**
+
+`A3258`: iPhone 17 (美国)
+
+`A3519`: iPhone 17 (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3521`: iPhone 17 (中国大陆)
+
+`A3520`: iPhone 17 (其他国家和地区)
+
+**[`D23AP`] iPhone Air (`iPhone18,4`):**
+
+`A3260`: iPhone Air (北美, 部分中东国家)
+
+`A3518`: iPhone Air (中国大陆)
+
+`A3516`: iPhone Air (日本)
+
+`A3517`: iPhone Air (其他国家和地区)
+
+**[`V53AP`] iPhone 17 Pro (`iPhone18,1`):**
+
+`A3256`: iPhone 17 Pro (美国)
+
+`A3522`: iPhone 17 Pro (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3524`: iPhone 17 Pro (中国大陆)
+
+`A3523`: iPhone 17 Pro (其他国家和地区)
+
+**[`V54AP`] iPhone 17 Pro Max (`iPhone18,2`):**
+
+`A3257`: iPhone 17 Pro Max (美国)
+
+`A3525`: iPhone 17 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3527`: iPhone 17 Pro Max (中国大陆)
+
+`A3526`: iPhone 17 Pro Max (其他国家和地区)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -1068,26 +1108,6 @@
 
 `A2157`: Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)
 
-**[`N140sAP`] Apple Watch SE (`Watch5,9`):**
-
-`A2351`: Apple Watch SE (GPS) (40 毫米表壳)
-
-**[`N140bAP`] Apple Watch SE (`Watch5,10`):**
-
-`A2352`: Apple Watch SE (GPS) (44 毫米表壳)
-
-**[`N142sAP`] Apple Watch SE (`Watch5,11`):**
-
-`A2353`: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-
-`A2355`: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)
-
-**[`N142bAP`] Apple Watch SE (`Watch5,12`):**
-
-`A2354`: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-
-`A2356`: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)
-
 **[`N157sAP`] Apple Watch Series 6 (`Watch6,1`):**
 
 `A2291`: Apple Watch Series 6 (GPS) (40 毫米表壳)
@@ -1128,30 +1148,6 @@
 
 `A2478`: Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (欧亚, 中国大陆)
 
-**[`N143sAP`] Apple Watch SE (第二代) (`Watch6,10`):**
-
-`A2722`: Apple Watch SE (第二代) (GPS) (40 毫米表壳)
-
-**[`N143bAP`] Apple Watch SE (第二代) (`Watch6,11`):**
-
-`A2723`: Apple Watch SE (第二代) (GPS) (44 毫米表壳)
-
-**[`N149sAP`] Apple Watch SE (第二代) (`Watch6,12`):**
-
-`A2726`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-
-`A2855`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
-
-`A2725`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
-
-**[`N149bAP`] Apple Watch SE (第二代) (`Watch6,13`):**
-
-`A2727`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-
-`A2856`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
-
-`A2724`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
-
 **[`N197sAP`] Apple Watch Series 8 (`Watch6,14`):**
 
 `A2770`: Apple Watch Series 8 (GPS) (41 毫米表壳)
@@ -1176,14 +1172,6 @@
 
 `A2775`: Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (其他国家和地区)
 
-**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
-
-`A2622`: Apple Watch Ultra (北美)
-
-`A2859`: Apple Watch Ultra (中国大陆 & 港澳)
-
-`A2684`: Apple Watch Ultra (其他国家和地区)
-
 **[`N207sAP`] Apple Watch Series 9 (`Watch7,1`):**
 
 `A2978`: Apple Watch Series 9 (GPS) (41 毫米表壳)
@@ -1204,12 +1192,6 @@
 
 `A2985`: Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
 
-**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
-
-`A2986`: Apple Watch Ultra 2 (全球)
-
-`A2987`: Apple Watch Ultra 2 (中国大陆 & 港澳)
-
 **[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
 
 `A2997`: Apple Watch Series 10 (GPS) (42 毫米表壳) (全球)
@@ -1226,13 +1208,127 @@
 
 `A3001`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
 
-`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)
+`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
 
 **[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
 
 `A3003`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
 
-`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)
+`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+
+**[`N227sAP`] Apple Watch Series 11 (`Watch7,17`):**
+
+`A3331`: Apple Watch Series 11 (GPS) (42 毫米表壳) (全球)
+
+`A3450`: Apple Watch Series 11 (GPS) (42 毫米表壳) (中国大陆)
+
+**[`N227bAP`] Apple Watch Series 11 (`Watch7,18`):**
+
+`A3333`: Apple Watch Series 11 (GPS) (46 毫米表壳) (全球)
+
+`A3451`: Apple Watch Series 11 (GPS) (46 毫米表壳) (中国大陆)
+
+**[`N228sAP`] Apple Watch Series 11 (`Watch7,19`):**
+
+`A3335`: Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
+
+`A3452`: Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
+
+**[`N228bAP`] Apple Watch Series 11 (`Watch7,20`):**
+
+`A3337`: Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
+
+`A3453`: Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+
+**[`N140sAP`] Apple Watch SE (`Watch5,9`):**
+
+`A2351`: Apple Watch SE (GPS) (40 毫米表壳)
+
+**[`N140bAP`] Apple Watch SE (`Watch5,10`):**
+
+`A2352`: Apple Watch SE (GPS) (44 毫米表壳)
+
+**[`N142sAP`] Apple Watch SE (`Watch5,11`):**
+
+`A2353`: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+
+`A2355`: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)
+
+**[`N142bAP`] Apple Watch SE (`Watch5,12`):**
+
+`A2354`: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+
+`A2356`: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)
+
+**[`N143sAP`] Apple Watch SE 2 (`Watch6,10`):**
+
+`A2722`: Apple Watch SE 2 (GPS) (40 毫米表壳)
+
+**[`N143bAP`] Apple Watch SE 2 (`Watch6,11`):**
+
+`A2723`: Apple Watch SE 2 (GPS) (44 毫米表壳)
+
+**[`N149sAP`] Apple Watch SE 2 (`Watch6,12`):**
+
+`A2726`: Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+
+`A2855`: Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
+
+`A2725`: Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
+
+**[`N149bAP`] Apple Watch SE 2 (`Watch6,13`):**
+
+`A2727`: Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+
+`A2856`: Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
+
+`A2724`: Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
+
+**[`N243sAP`] Apple Watch SE 3 (`Watch7,13`):**
+
+`A3324`: Apple Watch SE 3 (GPS) (40 毫米表壳) (全球)
+
+`A3391`: Apple Watch SE 3 (GPS) (40 毫米表壳) (中国大陆)
+
+**[`N243bAP`] Apple Watch SE 3 (`Watch7,14`):**
+
+`A3325`: Apple Watch SE 3 (GPS) (44 毫米表壳) (全球)
+
+`A3392`: Apple Watch SE 3 (GPS) (44 毫米表壳) (中国大陆)
+
+**[`N244sAP`] Apple Watch SE 3 (`Watch7,15`):**
+
+`A3326`: Apple Watch SE 3 (GPS + 蜂窝网络) (40 毫米表壳) (全球)
+
+`A3327`: Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)
+
+**[`N244bAP`] Apple Watch SE 3 (`Watch7,16`):**
+
+`A3328`: Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (全球)
+
+`A3329`: Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)
+
+**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
+
+`A2622`: Apple Watch Ultra (北美)
+
+`A2859`: Apple Watch Ultra (中国大陆 & 港澳)
+
+`A2684`: Apple Watch Ultra (其他国家和地区)
+
+**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
+
+`A2986`: Apple Watch Ultra 2 (全球)
+
+`A2987`: Apple Watch Ultra 2 (中国大陆 & 港澳)
+
+> 2024 年 9 月 20 日后港澳地区的 Apple Watch Ultra 2 为 `A2986` 型号。
+
+**[`N230AP`] Apple Watch Ultra 3 (`Watch7,12`):**
+
+`A3281`: Apple Watch Ultra 3 (全球)
+
+`A3282`: Apple Watch Ultra 3 (中国大陆)
 
 ## Apple TV
 

@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-15
+- `apple` 新增 iPhone 17 系列/Air、Apple Watch Series 11/SE 3/Ultra 3。
 ### 2025-09-09
 - `honor_cn` 新增 荣耀 Play10T。
 ### 2025-09-07

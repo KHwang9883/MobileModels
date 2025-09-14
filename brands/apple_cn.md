@@ -252,6 +252,22 @@
 
 `A3410`: iPhone 16e
 
+**[`V57AP`] iPhone 17 (`iPhone18,3`):**
+
+`A3521`: iPhone 17
+
+**[`D23AP`] iPhone Air (`iPhone18,4`):**
+
+`A3518`: iPhone Air
+
+**[`V53AP`] iPhone 17 Pro (`iPhone18,1`):**
+
+`A3524`: iPhone 17 Pro
+
+**[`V54AP`] iPhone 17 Pro Max (`iPhone18,2`):**
+
+`A3527`: iPhone 17 Pro Max
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -718,22 +734,6 @@
 
 `A2157`: Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) 
 
-**[`N140sAP`] Apple Watch SE (`Watch5,9`):**
-
-`A2351`: Apple Watch SE (GPS) (40 毫米表壳)
-
-**[`N140bAP`] Apple Watch SE (`Watch5,10`):**
-
-`A2352`: Apple Watch SE (GPS) (44 毫米表壳)
-
-**[`N142sAP`] Apple Watch SE (`Watch5,11`):**
-
-`A2355`: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) 
-
-**[`N142bAP`] Apple Watch SE (`Watch5,12`):**
-
-`A2356`: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) 
-
 **[`N157sAP`] Apple Watch Series 6 (`Watch6,1`):**
 
 `A2291`: Apple Watch Series 6 (GPS) (40 毫米表壳)
@@ -766,22 +766,6 @@
 
 `A2478`: Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) 
 
-**[`N143sAP`] Apple Watch SE (第二代) (`Watch6,10`):**
-
-`A2722`: Apple Watch SE (第二代) (GPS) (40 毫米表壳)
-
-**[`N143bAP`] Apple Watch SE (第二代) (`Watch6,11`):**
-
-`A2723`: Apple Watch SE (第二代) (GPS) (44 毫米表壳)
-
-**[`N149sAP`] Apple Watch SE (第二代) (`Watch6,12`):**
-
-`A2855`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳)
-
-**[`N149bAP`] Apple Watch SE (第二代) (`Watch6,13`):**
-
-`A2856`: Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳)
-
 **[`N197sAP`] Apple Watch Series 8 (`Watch6,14`):**
 
 `A2770`: Apple Watch Series 8 (GPS) (41 毫米表壳)
@@ -797,10 +781,6 @@
 **[`N198bAP`] Apple Watch Series 8 (`Watch6,17`):**
 
 `A2858`: Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳)
-
-**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
-
-`A2859`: Apple Watch Ultra
 
 **[`N207sAP`] Apple Watch Series 9 (`Watch7,1`):**
 
@@ -818,10 +798,6 @@
 
 `A2985`: Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳)
 
-**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
-
-`A2987`: Apple Watch Ultra 2
-
 **[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
 
 `A2998`: Apple Watch Series 10 (GPS) (42 毫米表壳)
@@ -837,6 +813,82 @@
 **[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
 
 `A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳)
+
+**[`N227sAP`] Apple Watch Series 11 (`Watch7,17`):**
+
+`A3450`: Apple Watch Series 11 (GPS) (42 毫米表壳)
+
+**[`N227bAP`] Apple Watch Series 11 (`Watch7,18`):**
+
+`A3451`: Apple Watch Series 11 (GPS) (46 毫米表壳)
+
+**[`N228sAP`] Apple Watch Series 11 (`Watch7,19`):**
+
+`A3452`: Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳)
+
+**[`N228bAP`] Apple Watch Series 11 (`Watch7,20`):**
+
+`A3453`: Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳)
+
+**[`N140sAP`] Apple Watch SE (`Watch5,9`):**
+
+`A2351`: Apple Watch SE (GPS) (40 毫米表壳)
+
+**[`N140bAP`] Apple Watch SE (`Watch5,10`):**
+
+`A2352`: Apple Watch SE (GPS) (44 毫米表壳)
+
+**[`N142sAP`] Apple Watch SE (`Watch5,11`):**
+
+`A2355`: Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) 
+
+**[`N142bAP`] Apple Watch SE (`Watch5,12`):**
+
+`A2356`: Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) 
+
+**[`N143sAP`] Apple Watch SE 2 (`Watch6,10`):**
+
+`A2722`: Apple Watch SE 2 (GPS) (40 毫米表壳)
+
+**[`N143bAP`] Apple Watch SE 2 (`Watch6,11`):**
+
+`A2723`: Apple Watch SE 2 (GPS) (44 毫米表壳)
+
+**[`N149sAP`] Apple Watch SE 2 (`Watch6,12`):**
+
+`A2855`: Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳)
+
+**[`N149bAP`] Apple Watch SE 2 (`Watch6,13`):**
+
+`A2856`: Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳)
+
+**[`N243sAP`] Apple Watch SE 3 (`Watch7,13`):**
+
+`A3391`: Apple Watch SE 3 (GPS) (40 毫米表壳)
+
+**[`N243bAP`] Apple Watch SE 3 (`Watch7,14`):**
+
+`A3392`: Apple Watch SE 3 (GPS) (44 毫米表壳)
+
+**[`N244sAP`] Apple Watch SE 3 (`Watch7,15`):**
+
+`A3327`: Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳)
+
+**[`N244bAP`] Apple Watch SE 3 (`Watch7,16`):**
+
+`A3329`: Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳)
+
+**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
+
+`A2859`: Apple Watch Ultra
+
+**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
+
+`A2987`: Apple Watch Ultra 2
+
+**[`N230AP`] Apple Watch Ultra 3 (`Watch7,12`):**
+
+`A3282`: Apple Watch Ultra 3
 
 ## Apple Vision
 
