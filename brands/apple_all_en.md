@@ -479,6 +479,46 @@
 
 `A3409`: iPhone 16e (Rest of the world)
 
+**[`V57AP`] iPhone 17 (`iPhone18,3`):**
+
+`A3258`: iPhone 17 (United States)
+
+`A3519`: iPhone 17 (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3521`: iPhone 17 (China mainland)
+
+`A3520`: iPhone 17 (Rest of the world)
+
+**[`D23AP`] iPhone Air (`iPhone18,4`):**
+
+`A3260`: iPhone Air (United States, Bahrain, Canada, Guam, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3518`: iPhone Air (China mainland)
+
+`A3516`: iPhone Air (Japan)
+
+`A3517`: iPhone Air (Rest of the world)
+
+**[`V53AP`] iPhone 17 Pro (`iPhone18,1`):**
+
+`A3256`: iPhone 17 Pro (United States)
+
+`A3522`: iPhone 17 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3524`: iPhone 17 Pro (China mainland)
+
+`A3523`: iPhone 17 Pro (Rest of the world)
+
+**[`V54AP`] iPhone 17 Pro Max (`iPhone18,2`):**
+
+`A3257`: iPhone 17 Pro Max (United States)
+
+`A3525`: iPhone 17 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3527`: iPhone 17 Pro Max (China mainland)
+
+`A3526`: iPhone 17 Pro Max (Rest of the world)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -1049,26 +1089,6 @@
 
 `A2157`: Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
 
-**[`N140sAP`] Apple Watch SE (`Watch5,9`):**
-
-`A2351`: Apple Watch SE (GPS) (40mm case)
-
-**[`N140bAP`] Apple Watch SE (`Watch5,10`):**
-
-`A2352`: Apple Watch SE (GPS) (44mm case)
-
-**[`N142sAP`] Apple Watch SE (`Watch5,11`):**
-
-`A2353`: Apple Watch SE (GPS + Cellular) (40mm case) (North America)
-
-`A2355`: Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)
-
-**[`N142bAP`] Apple Watch SE (`Watch5,12`):**
-
-`A2354`: Apple Watch SE (GPS + Cellular) (44mm case) (North America)
-
-`A2356`: Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
-
 **[`N157sAP`] Apple Watch Series 6 (`Watch6,1`):**
 
 `A2291`: Apple Watch Series 6 (GPS) (40mm case)
@@ -1109,30 +1129,6 @@
 
 `A2478`: Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)
 
-**[`N143sAP`] Apple Watch SE (2nd generation) (`Watch6,10`):**
-
-`A2722`: Apple Watch SE (2nd generation) (GPS) (40mm case)
-
-**[`N143bAP`] Apple Watch SE (2nd generation) (`Watch6,11`):**
-
-`A2723`: Apple Watch SE (2nd generation) (GPS) (44mm case)
-
-**[`N149sAP`] Apple Watch SE (2nd generation) (`Watch6,12`):**
-
-`A2726`: Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (North America)
-
-`A2855`: Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)
-
-`A2725`: Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (Rest of the world)
-
-**[`N149bAP`] Apple Watch SE (2nd generation) (`Watch6,13`):**
-
-`A2727`: Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (North America)
-
-`A2856`: Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)
-
-`A2724`: Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (Rest of the world)
-
 **[`N197sAP`] Apple Watch Series 8 (`Watch6,14`):**
 
 `A2770`: Apple Watch Series 8 (GPS) (41mm case)
@@ -1157,14 +1153,6 @@
 
 `A2775`: Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)
 
-**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
-
-`A2622`: Apple Watch Ultra (North America)
-
-`A2859`: Apple Watch Ultra (China mainland, Hong Kong, Macao)
-
-`A2684`: Apple Watch Ultra (Rest of the world)
-
 **[`N207sAP`] Apple Watch Series 9 (`Watch7,1`):**
 
 `A2978`: Apple Watch Series 9 (GPS) (41mm case)
@@ -1185,12 +1173,6 @@
 
 `A2985`: Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)
 
-**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
-
-`A2986`: Apple Watch Ultra 2 (Global)
-
-`A2987`: Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)
-
 **[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
 
 `A2997`: Apple Watch Series 10 (GPS) (42mm case) (Global)
@@ -1207,13 +1189,127 @@
 
 `A3001`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
 
-`A3002`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)
+`A3002`: Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland)
 
 **[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
 
 `A3003`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
 
-`A3206`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)
+`A3206`: Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland)
+
+**[`N227sAP`] Apple Watch Series 11 (`Watch7,17`):**
+
+`A3331`: Apple Watch Series 11 (GPS) (42mm case) (Global)
+
+`A3450`: Apple Watch Series 11 (GPS) (42mm case) (China mainland)
+
+**[`N227bAP`] Apple Watch Series 11 (`Watch7,18`):**
+
+`A3333`: Apple Watch Series 11 (GPS) (46mm case) (Global)
+
+`A3451`: Apple Watch Series 11 (GPS) (46mm case) (China mainland)
+
+**[`N228sAP`] Apple Watch Series 11 (`Watch7,19`):**
+
+`A3335`: Apple Watch Series 11 (GPS + Cellular) (42mm case) (Global)
+
+`A3452`: Apple Watch Series 11 (GPS + Cellular) (42mm case) (China mainland)
+
+**[`N228bAP`] Apple Watch Series 11 (`Watch7,20`):**
+
+`A3337`: Apple Watch Series 11 (GPS + Cellular) (46mm case) (Global)
+
+`A3453`: Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)
+
+**[`N140sAP`] Apple Watch SE (`Watch5,9`):**
+
+`A2351`: Apple Watch SE (GPS) (40mm case)
+
+**[`N140bAP`] Apple Watch SE (`Watch5,10`):**
+
+`A2352`: Apple Watch SE (GPS) (44mm case)
+
+**[`N142sAP`] Apple Watch SE (`Watch5,11`):**
+
+`A2353`: Apple Watch SE (GPS + Cellular) (40mm case) (North America)
+
+`A2355`: Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)
+
+**[`N142bAP`] Apple Watch SE (`Watch5,12`):**
+
+`A2354`: Apple Watch SE (GPS + Cellular) (44mm case) (North America)
+
+`A2356`: Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)
+
+**[`N143sAP`] Apple Watch SE 2 (`Watch6,10`):**
+
+`A2722`: Apple Watch SE 2 (GPS) (40mm case)
+
+**[`N143bAP`] Apple Watch SE 2 (`Watch6,11`):**
+
+`A2723`: Apple Watch SE 2 (GPS) (44mm case)
+
+**[`N149sAP`] Apple Watch SE 2 (`Watch6,12`):**
+
+`A2726`: Apple Watch SE 2 (GPS + Cellular) (40mm case) (North America)
+
+`A2855`: Apple Watch SE 2 (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)
+
+`A2725`: Apple Watch SE 2 (GPS + Cellular) (40mm case) (Rest of the world)
+
+**[`N149bAP`] Apple Watch SE 2 (`Watch6,13`):**
+
+`A2727`: Apple Watch SE 2 (GPS + Cellular) (44mm case) (North America)
+
+`A2856`: Apple Watch SE 2 (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)
+
+`A2724`: Apple Watch SE 2 (GPS + Cellular) (44mm case) (Rest of the world)
+
+**[`N243sAP`] Apple Watch SE 3 (`Watch7,13`):**
+
+`A3324`: Apple Watch SE 3 (GPS) (40mm case) (Global)
+
+`A3391`: Apple Watch SE 3 (GPS) (40mm case) (China mainland)
+
+**[`N243bAP`] Apple Watch SE 3 (`Watch7,14`):**
+
+`A3325`: Apple Watch SE 3 (GPS) (44mm case) (Global)
+
+`A3392`: Apple Watch SE 3 (GPS) (44mm case) (China mainland)
+
+**[`N244sAP`] Apple Watch SE 3 (`Watch7,15`):**
+
+`A3326`: Apple Watch SE 3 (GPS + Cellular) (40mm case) (Global)
+
+`A3327`: Apple Watch SE 3 (GPS + Cellular) (44mm case) (China mainland)
+
+**[`N244bAP`] Apple Watch SE 3 (`Watch7,16`):**
+
+`A3328`: Apple Watch SE 3 (GPS + Cellular) (44mm case) (Global)
+
+`A3329`: Apple Watch SE 3 (GPS + Cellular) (44mm case) (China mainland)
+
+**[`N199AP`] Apple Watch Ultra (`Watch6,18`):**
+
+`A2622`: Apple Watch Ultra (North America)
+
+`A2859`: Apple Watch Ultra (China mainland, Hong Kong, Macao)
+
+`A2684`: Apple Watch Ultra (Rest of the world)
+
+**[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
+
+`A2986`: Apple Watch Ultra 2 (Global)
+
+`A2987`: Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)
+
+> After September 20, 2024, the Apple Watch Ultra 2 in Hong Kong and Macao regions will be model `A2986`.
+
+**[`N230AP`] Apple Watch Ultra 3 (`Watch7,12`):**
+
+`A3281`: Apple Watch Ultra 3 (Global)
+
+`A3282`: Apple Watch Ultra 3 (China mainland)
 
 ## Apple TV
 
