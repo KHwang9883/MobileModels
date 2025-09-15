@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-16
+- `oppo_cn` 新增 OPPO K13x。
 ### 2025-09-15
 - `apple` 新增 iPhone 17 系列/Air、Apple Watch Series 11/SE 3/Ultra 3。
 - `meizu` 新增 魅族 22、魅族 Mblu 22/Note 22 海外版。

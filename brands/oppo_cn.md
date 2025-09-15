@@ -676,6 +676,10 @@
 
 `PLL110`: OPPO K13s
 
+**OPPO K13x:**
+
+`PKV110`: OPPO K13x
+
 **OPPO K13 Turbo (`knight`):**
 
 `PLM110`: OPPO K13 Turbo
