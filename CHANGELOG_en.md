@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2025-09-15
 - `apple_en` Add iPhone 17/Air, Apple Watch Series 11/SE 3/Ultra 3.
+- `meizu_en` Add MEIZU 22, Mblu 22, Note 22.
 ### 2025-09-10
 - `realme_global_en` Add realme P3 Lite 5G.
 ### 2025-09-04

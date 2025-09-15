@@ -251,6 +251,12 @@
 
 `M468H`: MEIZU 21 Note Global
 
+**MEIZU 22 (`m2582`):**
+
+`M582Q`: MEIZU 22
+
+`M582V`: MEIZU 22 (16GB+1TB)
+
 **MEIZU Lucky 08 (`m2431`):**
 
 `M431Q`: MEIZU Lucky 08
@@ -334,6 +340,10 @@
 **MEIZU Note 21 Pro (`m2412`):**
 
 `M412H`: MEIZU Note 21 Pro Global
+
+**MEIZU Note 22 (`m2513`):**
+
+`M513H`: MEIZU Note 22 Global
 
 **MEIZU M3E (`a02`):**
 
@@ -493,9 +503,17 @@
 
 `M421Q`: MEIZU M20 / MEIZU mblu 20
 
-**MEIZU MBLU 21 (`m2416`):**
+**MEIZU Mblu 21 (`m2416`):**
 
-`M416H` `M416L`: MEIZU MBLU 21 Global
+`M416H` `M416L`: MEIZU Mblu 21 Global
+
+**MEIZU Mblu 22 (`m2511`):**
+
+`M511H`: MEIZU Mblu 22 Global
+
+**MEIZU Mblu 22 Pro (`m2512`):**
+
+`M512H`: MEIZU Mblu 22 Pro Global
 
 **MEIZU M3 Max (`s25`):**
 
