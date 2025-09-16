@@ -403,6 +403,18 @@
 
 `CPH2705`: OPPO F29 Pro 5G
 
+**OPPO F31:**
+
+`CPH2781`: OPPO F31 5G
+
+**OPPO F31 Pro:**
+
+`CPH2763`: OPPO F31 Pro 5G
+
+**OPPO F31 Pro+:**
+
+`CPH2757`: OPPO F31 Pro+ 5G
+
 ## R series
 
 **OPPO R15:**

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-16
+- `oppo_global_en` Add OPPO F31 series.
 ### 2025-09-15
 - `apple_en` Add iPhone 17/Air, Apple Watch Series 11/SE 3/Ultra 3.
 - `meizu_en` Add MEIZU 22, Mblu 22, Note 22.
