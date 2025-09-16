@@ -516,11 +516,11 @@
 
 **魅族 Mblu 22 (`m2511`):**
 
-`M511H`: MEIZU Mblu 22 国际版
+`M511H`: 魅族 Mblu 22 国际版
 
 **魅族 Mblu 22 Pro (`m2512`):**
 
-`M512H`: MEIZU Mblu 22 Pro 国际版
+`M512H`: 魅族 Mblu 22 Pro 国际版
 
 **魅蓝 Max (`s25`):**
 
