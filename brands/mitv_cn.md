@@ -390,6 +390,16 @@
 
 `L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025
 
+**小米电视 S Pro Mini LED 2026:**
+
+`L65MC-SP`: 小米电视 S Pro 65 Mini LED 2026
+
+`L75MC-SP`: 小米电视 S Pro 75 Mini LED 2026
+
+`L85MC-SP`: 小米电视 S Pro 85 Mini LED 2026
+
+`L98MC-SP`: 小米电视 S Pro 98 Mini LED 2026
+
 **小米壁画电视:**
 
 `L65M5-BH`: 小米壁画电视 65 英寸

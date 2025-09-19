@@ -2,6 +2,7 @@
 ### 2025-09-20
 - `honor_cn` 增补代号。
 - `huawei_cn` 新增 HUAWEI WATCH GT 6 系列。
+- `mitv_cn` 新增 小米电视 S Pro Mini LED 2026 系列。
 ### 2025-09-19
 - `vivo_cn` 新增 vivo Y50i。
 ### 2025-09-16
