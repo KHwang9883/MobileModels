@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-20
+- `honor_cn` Add HONOR X5c; update codenames.
 ### 2025-09-16
 - `oppo_global_en` Add OPPO F31 series.
 ### 2025-09-15

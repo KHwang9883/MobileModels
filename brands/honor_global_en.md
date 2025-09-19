@@ -241,7 +241,7 @@
 
 `ABR-NX1` `ABR-NX3`: HONOR 400 Lite
 
-**HONOR 400 Smart:**
+**HONOR 400 Smart (`Logan`):**
 
 `LGN-NX1` `LGN-NX3`: HONOR 400 Smart
 
@@ -321,6 +321,12 @@
 
 `GFY-LX2P`: HONOR X5b Plus
 
+**HONOR X5c (`Nala`):**
+
+`NLA-LX1` `NLA-LX2` `NLA-LX3`: HONOR X5c
+
+`NLA-LX2P`: HONOR X5c Plus
+
 **HONOR X6 (`Vinnie`):**
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
@@ -379,11 +385,11 @@
 
 `ALT-NX1`: HONOR X7c 5G
 
-**HONOR X7d:**
+**HONOR X7d (`Logan`):**
 
 `LGN-LX1` `LGN-LX2` `LGN-LX3`: HONOR X7d
 
-**HONOR X7d 5G:**
+**HONOR X7d 5G (`Logan`):**
 
 `LGN-NX1`: HONOR X7d 5G
 
