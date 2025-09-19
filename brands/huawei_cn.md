@@ -2523,6 +2523,22 @@
 
 `VLI-B29`: HUAWEI WATCH GT 5 Pro 46mm
 
+**HUAWEI WATCH GT 6 (`Konsu`):**
+
+`KSU-B19`: HUAWEI WATCH GT 6 41mm
+
+**HUAWEI WATCH GT 6 (`Atum`):**
+
+`ATM-B19`: HUAWEI WATCH GT 6 46mm
+
+**HUAWEI WATCH GT 6 Pro (`Konsu`):**
+
+`KSU-B29`: HUAWEI WATCH GT 6 Pro 42mm
+
+**HUAWEI WATCH GT 6 Pro (`Atum`):**
+
+`ATM-B29`: HUAWEI WATCH GT 6 Pro 46mm
+
 **HUAWEI WATCH GT Runner (`Runner`):**
 
 `RUN-B19` `RUN-B29`: HUAWEI WATCH GT Runner
