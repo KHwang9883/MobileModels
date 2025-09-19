@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-09-20
+- `honor_cn` 增补代号。
 - `huawei_cn` 新增 HUAWEI WATCH GT 6 系列。
 ### 2025-09-19
 - `vivo_cn` 新增 vivo Y50i。

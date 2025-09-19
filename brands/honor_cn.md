@@ -634,7 +634,7 @@
 
 `BRP-AN80`: 荣耀 X60 Pro 卫星版
 
-**荣耀 X60i:**
+**荣耀 X60i (`LilyN`):**
 
 `LYN-AN00`: 荣耀 X60i
 
@@ -760,7 +760,7 @@
 
 `JDY-AN00`: 荣耀 Play9C 5G
 
-**荣耀 Play10T:**
+**荣耀 Play10T (`Logan`):**
 
 `LOG-AN10`: 荣耀 Play10T 5G
 
@@ -982,7 +982,7 @@
 
 `ALT-AN00`: 荣耀畅玩 60 Plus 5G
 
-**荣耀畅玩 70 Plus / 荣耀畅玩 70m Plus:**
+**荣耀畅玩 70 Plus / 荣耀畅玩 70m Plus (`Logan`):**
 
 `LOG-AN00`: 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
 
@@ -1037,8 +1037,6 @@
 `HEY2-W09`: 荣耀平板 9 12.1 英寸 Wi-Fi 版
 
 `HEY2-W19`: 荣耀平板 9 柔光版 12.1 英寸 Wi-Fi 版
-
-`HEY2-AN00`: 荣耀平板 9 12.1 英寸 5G 版
 
 **荣耀平板 9 Pro (`Rolland`):**
 
