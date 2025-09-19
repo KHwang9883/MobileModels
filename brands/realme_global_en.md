@@ -269,6 +269,10 @@
 
 `RMX5000`: realme 15 Lite 5G
 
+**realme 15x 5G:**
+
+`RMX5250`: realme 15x 5G
+
 ## X series
 
 **realme X:**
