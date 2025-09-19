@@ -126,6 +126,10 @@
 
 `21121210AC`: 该设备为 Redmi 系列，搭载骁龙 870 处理器。
 
+**[`O84X`] REDMI Pad 2 4G (`koto`):**
+
+`2505DRP06C`: REDMI Pad 2 4G 国行版 (未上市)
+
 ## POCO 系列
 
 **[`L10`] POGO F4 GT (`ingres`):**
