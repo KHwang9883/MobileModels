@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-21
+- `huawei_cn` 新增 HUAWEI nova Flip S。
 ### 2025-09-20
 - `honor_cn` 增补代号。
 - `huawei_cn` 新增 HUAWEI WATCH GT 6 系列。

@@ -737,6 +737,10 @@
 
 `MRT-AL10`: HUAWEI nova 14 Ultra
 
+**HUAWEI nova Flip S (`Poseidon`):**
+
+`PSD-AL80`: HUAWEI nova Flip S
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
