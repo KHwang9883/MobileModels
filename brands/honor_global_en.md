@@ -441,6 +441,10 @@
 
 `BRC-NX1`: HONOR X9c Smart
 
+**HONOR X9d:**
+
+`MTN-NX1`: HONOR X9d
+
 **HONOR Play9A (`Goofy`):**
 
 `GFY-LX3`: HONOR Play9A
