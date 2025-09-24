@@ -64,6 +64,10 @@
 
 `25054PXCEC`: Xiaomi MIX Fold 系列 (未上市)
 
+**[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
+
+`2505APX7BG`: Xiaomi MIX Flip 2 国际版 (未上市)
+
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
 `M1806D9PW`: 小米平板 4 Plus Wi-Fi 版 (未上市)
