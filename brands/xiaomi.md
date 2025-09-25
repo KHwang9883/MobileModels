@@ -472,6 +472,22 @@
 
 `2506BPN68R`: Xiaomi 15T Pro 日本版 (无锁)
 
+**[`P3`] Xiaomi 17 (`pudding`):**
+
+`25113PN0EC`: Xiaomi 17 国行版
+
+`25113PN0EG`: Xiaomi 17 国际版
+
+`25113PN0EI`: Xiaomi 17 印度版
+
+**[`Q200`] Xiaomi 17 Pro (`pandora`):**
+
+`25098PN5AC`: Xiaomi 17 Pro
+
+**[`P2`] Xiaomi 17 Pro Max (`popsicle`):**
+
+`2509FPN0BC`: Xiaomi 17 Pro Max
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -581,8 +597,6 @@
 **[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
 
 `2505APX7BC`: Xiaomi MIX Flip 2 国行版
-
-`2505APX7BG`: Xiaomi MIX Flip 2 国际版
 
 ## 小米 Max 系列
 
@@ -771,6 +785,24 @@
 **[`O81A`] Xiaomi Pad 7S Pro 12.5 (`violin`):**
 
 `25053RP5CC`: Xiaomi Pad 7S Pro 12.5
+
+**[`O88`] Xiaomi Pad Mini (`turner`):**
+
+`25079RPDCG`: Xiaomi Pad Mini 国际版
+
+**[`P82`] Xiaomi Pad 8 (`yupei`):**
+
+`25097RP43C`: Xiaomi Pad 8 国行版
+
+`25097RP43G`: Xiaomi Pad 8 国际版
+
+`25097RP43I`: Xiaomi Pad 8 印度版
+
+**[`P81`] Xiaomi Pad 8 Pro (`piano`):**
+
+`25091RP04C`: Xiaomi Pad 8 Pro 国行版
+
+`25091RP04G`: Xiaomi Pad 8 Pro 国际版
 
 ## 红米 / Redmi 数字系列
 
@@ -1180,9 +1212,9 @@
 
 `24049RN28L`: Redmi 13 拉美版 / REDMI 13x 拉美版
 
-**[`N19E`] Redmi 13 (`moon`):**
+**[`N19E`] Redmi 13 / REDMI 13x (`moon`):**
 
-`24040RN64Y`: Redmi 13 国际版 (NFC)
+`24040RN64Y`: Redmi 13 国际版 (NFC) / REDMI 13x 国际版 (NFC)
 
 **[`N19`] Redmi 13 5G (`breeze`):**
 
@@ -1240,33 +1272,49 @@
 
 `2411DRN47I`: Redmi 14C 5G 印度版
 
-**[`O19A`] Redmi 15 (`creek`):**
+**[`O19A`] REDMI 15 (`creek`):**
 
-`25062RN2DA`: Redmi 15 国际版
+`25062RN2DA`: REDMI 15 国际版
 
-`25062RN2DY`: Redmi 15 国际版 (NFC)
+`25062RN2DY`: REDMI 15 国际版 (NFC)
 
-`25062RN2DE`: Redmi 15 欧洲版
+`25062RN2DE`: REDMI 15 欧洲版
 
-`25062RN2DL`: Redmi 15 拉美版
+`25062RN2DL`: REDMI 15 拉美版
 
-**[`O19`] Redmi 15 5G (`spring`):**
+**[`O19`] REDMI 15 5G (`spring`):**
 
-`25057RN09G`: Redmi 15 5G 国际版
+`25057RN09G`: REDMI 15 5G 国际版
 
-`25057RN09E`: Redmi 15 5G 欧洲版
+`25057RN09E`: REDMI 15 5G 欧洲版
 
-`25057RN09I`: Redmi 15 5G 印度版
+`25057RN09I`: REDMI 15 5G 印度版
 
-**[`P15A`] Redmi 15C (`dew`):**
+**[`P15A`] REDMI 15C (`dew`):**
 
-`25078RA3EA`: Redmi 15C 国际版
+`25078RA3EA`: REDMI 15C 国际版
 
-`25078RA3EY`: Redmi 15C 国际版 (NFC)
+`25078RA3EY`: REDMI 15C 国际版 (NFC)
 
-`25078RA3EE`: Redmi 15C 欧洲版
+`25078RA3EE`: REDMI 15C 欧洲版
 
-`25078RA3EL`: Redmi 15C 拉美版
+`25078RA3EL`: REDMI 15C 拉美版
+
+**[`P15`] REDMI 15C 5G (`tornado`):**
+
+`2508CRN2BC`: REDMI 15C 5G 国行版
+
+`2508CRN2BG`: REDMI 15C 5G 国际版
+
+`2508CRN2BE`: REDMI 15C 5G 欧洲版
+
+`2508CRN2BI`: REDMI 15C 5G 印度版
+
+`2508CRN2BR`: REDMI 15C 5G 日本版
+
+**[`P15X`] REDMI 15R 5G (`tornado`):**
+
+`25082RNC1C`: REDMI 15R 5G
 
 ## 红米 / Redmi Note 系列
 
@@ -1820,29 +1868,29 @@
 
 `25098RA98C`: REDMI Note 15 国行版
 
-`25098RA98G`: Redmi Note 15 5G 国际版
+`25098RA98G`: REDMI Note 15 5G 国际版
 
-`25098RA98E`: Redmi Note 15 5G 欧洲版
+`25098RA98E`: REDMI Note 15 5G 欧洲版
 
-`25098RA98I`: Redmi Note 15 5G 印度版
+`25098RA98I`: REDMI Note 15 5G 印度版
 
 **[`P16`] REDMI Note 15 Pro (`lapis`):**
 
 `25080RABDC`: REDMI Note 15 Pro 国行版
 
-`25080RABDG`: Redmi Note 15 Pro 5G 国际版
+`25080RABDG`: REDMI Note 15 Pro 5G 国际版
 
-`25080RABDI`: Redmi Note 15 Pro 5G 印度版
+`25080RABDI`: REDMI Note 15 Pro 5G 印度版
 
-`25080RABDR`: Redmi Note 15 Pro 5G 日本版
+`25080RABDR`: REDMI Note 15 Pro 5G 日本版
 
 **[`P16U`] REDMI Note 15 Pro+ (`flourite`):**
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 国行版
 
-`2510ERA8BG`: Redmi Note 15 Pro+ 5G 国际版
+`2510ERA8BG`: REDMI Note 15 Pro+ 5G 国际版
 
-`2510ERA8BI`: Redmi Note 15 Pro+ 5G 印度版
+`2510ERA8BI`: REDMI Note 15 Pro+ 5G 印度版
 
 **[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
 
@@ -2184,13 +2232,27 @@
 
 **[`O84X`] REDMI Pad 2 4G (`koto`):**
 
-`2505DRP06C`: REDMI Pad 2 4G 国行版
-
 `2505DRP06G`: REDMI Pad 2 4G 国际版
 
 `2505DRP06I`: REDMI Pad 2 4G 印度版
 
 `2505DRP06E`: REDMI Pad 2 4G 欧洲版
+
+**[`P83`] REDMI Pad 2 Pro (`flute`):**
+
+`25099RP13C`: REDMI Pad 2 Pro 国行版
+
+`25099RP13G`: REDMI Pad 2 Pro 国际版
+
+`25099RP13I`: REDMI Pad 2 Pro 印度版
+
+**[`P83X`] REDMI Pad 2 Pro 5G (`organ`):**
+
+`2509BRP2DC`: REDMI Pad 2 Pro 5G 国行版
+
+`2509BRP2DG`: REDMI Pad 2 Pro 5G 国际版
+
+`2509BRP2DI`: REDMI Pad 2 Pro 5G 印度版
 
 **[`O88`] REDMI K Pad (`turner`):**
 
@@ -2438,6 +2500,10 @@
 
 `2409FPCC4G`: POCO M7 Pro 5G 国际版
 
+**[`P15`] POCO M8 5G (`tornado`):**
+
+`2508CPC2BI`: POCO M8 5G 印度版
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 印度版
@@ -2517,6 +2583,14 @@
 **[`N83U`] POCO Pad 5G (`ruan`):**
 
 `24074PCD2I`: POCO Pad 5G 印度版
+
+**[`O82P`] POCO Pad X1 (`uke`):**
+
+`25099RP08G`: POCO Pad X1 国际版
+
+**[`P83P`] POCO Pad M1 (`flute`):**
+
+`2509ARPBDG`: POCO Pad M1 国际版
 
 ## 其他系列
 
