@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-09-26
+- `xiaomi_en` Add Xiaomi 17 series, Pad 8, Pad Mini, REDMI 15 series, REDMI Pad 2 Pro, POCO Pad M1/X1.
 ### 2025-09-24
 - `honor_global_en` Add HONOR X9d.
 ### 2025-09-20

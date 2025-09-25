@@ -469,6 +469,22 @@
 
 `2506BPN68R`: Xiaomi 15T Pro Japan (SIM Free)
 
+**[`P3`] Xiaomi 17 (`pudding`):**
+
+`25113PN0EG`: Xiaomi 17 Global
+
+`25113PN0EC`: Xiaomi 17 China
+
+`25113PN0EI`: Xiaomi 17 India
+
+**[`Q200`] Xiaomi 17 Pro (`pandora`):**
+
+`25098PN5AC`: Xiaomi 17 Pro China
+
+**[`P2`] Xiaomi 17 Pro Max (`popsicle`):**
+
+`2509FPN0BC`: Xiaomi 17 Pro Max China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -572,8 +588,6 @@
 `2405CPX3DC`: Xiaomi MIX Flip China
 
 **[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
-
-`2505APX7BG`: Xiaomi MIX Flip 2 Global
 
 `2505APX7BC`: Xiaomi MIX Flip 2 China
 
@@ -1061,19 +1075,19 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**[`N19A`] Redmi 13 / Redmi 13x (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 Global / Redmi 13x Global
+`2404ARN45A`: Redmi 13 Global / REDMI 13x Global
 
 `2404ARN45I`: Redmi 13 India
 
-**[`N19L`] Redmi 13 / Redmi 13x (`moon`) (`tides`):**
+**[`N19L`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
 
-`24049RN28L`: Redmi 13 Latin America / Redmi 13x Latin America
+`24049RN28L`: Redmi 13 Latin America / REDMI 13x Latin America
 
-**[`N19E`] Redmi 13 (`moon`):**
+**[`N19E`] Redmi 13 / REDMI 13x (`moon`):**
 
-`24040RN64Y`: Redmi 13 Global (NFC)
+`24040RN64Y`: Redmi 13 Global (NFC) / REDMI 13x Global (NFC)
 
 **[`N19`] Redmi 13 5G (`breeze`):**
 
@@ -1131,33 +1145,49 @@
 
 `2411DRN47I`: Redmi 14C 5G India
 
-**[`O19A`] Redmi 15 (`creek`):**
+**[`O19A`] REDMI 15 (`creek`):**
 
-`25062RN2DA`: Redmi 15 Global
+`25062RN2DA`: REDMI 15 Global
 
-`25062RN2DY`: Redmi 15 Global (NFC)
+`25062RN2DY`: REDMI 15 Global (NFC)
 
-`25062RN2DE`: Redmi 15 Europe
+`25062RN2DE`: REDMI 15 Europe
 
-`25062RN2DL`: Redmi 15 Latin America
+`25062RN2DL`: REDMI 15 Latin America
 
-**[`O19`] Redmi 15 5G (`spring`):**
+**[`O19`] REDMI 15 5G (`spring`):**
 
-`25057RN09G`: Redmi 15 5G Global
+`25057RN09G`: REDMI 15 5G Global
 
-`25057RN09E`: Redmi 15 5G Europe
+`25057RN09E`: REDMI 15 5G Europe
 
-`25057RN09I`: Redmi 15 5G India
+`25057RN09I`: REDMI 15 5G India
 
-**[`P15A`] Redmi 15C (`dew`):**
+**[`P15A`] REDMI 15C (`dew`):**
 
-`25078RA3EA`: Redmi 15C Global
+`25078RA3EA`: REDMI 15C Global
 
-`25078RA3EY`: Redmi 15C Global (NFC)
+`25078RA3EY`: REDMI 15C Global (NFC)
 
-`25078RA3EE`: Redmi 15C Europe
+`25078RA3EE`: REDMI 15C Europe
 
-`25078RA3EL`: Redmi 15C Latin America
+`25078RA3EL`: REDMI 15C Latin America
+
+**[`P15`] REDMI 15C 5G (`tornado`):**
+
+`2508CRN2BG`: REDMI 15C 5G Global
+
+`2508CRN2BE`: REDMI 15C 5G Europe
+
+`2508CRN2BI`: REDMI 15C 5G India
+
+`2508CRN2BC`: REDMI 15C 5G China
+
+`2508CRN2BR`: REDMI 15C 5G Japan
+
+**[`P15X`] REDMI 15R 5G (`tornado`):**
+
+`25082RNC1C`: REDMI 15R 5G China
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1699,31 +1729,31 @@
 
 `24115RA8EC`: Redmi Note 14 Pro+ 5G China
 
-**[`P17`] Redmi Note 15 5G (`kunzite`):**
+**[`P17`] REDMI Note 15 5G (`kunzite`):**
 
-`25098RA98G`: Redmi Note 15 5G Global
+`25098RA98G`: REDMI Note 15 5G Global
 
-`25098RA98E`: Redmi Note 15 5G Europe
+`25098RA98E`: REDMI Note 15 5G Europe
 
-`25098RA98I`: Redmi Note 15 5G India
+`25098RA98I`: REDMI Note 15 5G India
 
 `25098RA98C`: REDMI Note 15 5G China
 
-**[`P16`] Redmi Note 15 Pro (`lapis`):**
+**[`P16`] REDMI Note 15 Pro (`lapis`):**
 
-`25080RABDG`: Redmi Note 15 Pro 5G Global
+`25080RABDG`: REDMI Note 15 Pro 5G Global
 
-`25080RABDI`: Redmi Note 15 Pro 5G India
+`25080RABDI`: REDMI Note 15 Pro 5G India
 
-`25080RABDR`: Redmi Note 15 Pro 5G Japan
+`25080RABDR`: REDMI Note 15 Pro 5G Japan
 
 `25080RABDC`: REDMI Note 15 Pro 5G China
 
-**[`P16U`] Redmi Note 15 Pro+ (`flourite`):**
+**[`P16U`] REDMI Note 15 Pro+ (`flourite`):**
 
-`2510ERA8BG`: Redmi Note 15 Pro+ 5G Global
+`2510ERA8BG`: REDMI Note 15 Pro+ 5G Global
 
-`2510ERA8BI`: Redmi Note 15 Pro+ 5G India
+`2510ERA8BI`: REDMI Note 15 Pro+ 5G India
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 5G China
 
@@ -1985,13 +2015,13 @@
 
 `24116RNC1I`: Redmi A4 5G India
 
-**[`C3Z`] Redmi A5 (`serenity`):**
+**[`C3Z`] REDMI A5 (`serenity`):**
 
-`25028RN03G` `25028RN03A` `25028RN03Y`: Redmi A5 Global
+`25028RN03G` `25028RN03A` `25028RN03Y`: REDMI A5 Global
 
-`25028RN03I`: Redmi A5 India
+`25028RN03I`: REDMI A5 India
 
-`25028RN03L`: Redmi A5 Latin America
+`25028RN03L`: REDMI A5 Latin America
 
 ## POCO Phones
 
@@ -2235,6 +2265,10 @@
 
 `2409FPCC4G`: POCO M7 Pro 5G Global
 
+**[`P15`] POCO M8 5G (`tornado`):**
+
+`2508CPC2BI`: POCO M8 5G India
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 India
@@ -2389,6 +2423,24 @@
 
 `25053RP5CC`: Xiaomi Pad 7S Pro 12.5 China
 
+**[`O88`] Xiaomi Pad Mini (`turner`):**
+
+`25079RPDCG`: Xiaomi Pad Mini Global
+
+**[`P82`] Xiaomi Pad 8 (`yupei`):**
+
+`25097RP43G`: Xiaomi Pad 8 Global
+
+`25097RP43C`: Xiaomi Pad 8 China
+
+`25097RP43I`: Xiaomi Pad 8 India
+
+**[`P81`] Xiaomi Pad 8 Pro (`piano`):**
+
+`25091RP04G`: Xiaomi Pad 8 Pro Global
+
+`25091RP04C`: Xiaomi Pad 8 Pro China
+
 **[`L83`] Redmi Pad (`yunluo`):**
 
 `22081283G`: Redmi Pad Global
@@ -2431,31 +2483,45 @@
 
 `24076RP19I`: Redmi Pad SE 4G India
 
-**[`O84`] Redmi Pad 2 (`taiko`):**
+**[`O84`] REDMI Pad 2 (`taiko`):**
 
-`25040RP0AG`: Redmi Pad 2 Global
+`25040RP0AG`: REDMI Pad 2 Global
 
-`25040RP0AI`: Redmi Pad 2 India
+`25040RP0AI`: REDMI Pad 2 India
 
-`25040RP0AE`: Redmi Pad 2 Europe
+`25040RP0AE`: REDMI Pad 2 Europe
 
-`25040RP0AL`: Redmi Pad 2 Latin America
+`25040RP0AL`: REDMI Pad 2 Latin America
 
 `25040RP0AC`: REDMI Pad 2 China
 
-**[`O84X`] Redmi Pad 2 4G (`koto`):**
+**[`O84X`] REDMI Pad 2 4G (`koto`):**
 
-`2505DRP06G`: Redmi Pad 2 4G Global
+`2505DRP06G`: REDMI Pad 2 4G Global
 
-`2505DRP06I`: Redmi Pad 2 4G India
+`2505DRP06I`: REDMI Pad 2 4G India
 
-`2505DRP06E`: Redmi Pad 2 4G Europe
-
-`2505DRP06C`: REDMI Pad 2 4G China
+`2505DRP06E`: REDMI Pad 2 4G Europe
 
 **[`O88`] REDMI K Pad (`turner`):**
 
 `25079RPDCC`: REDMI K Pad China
+
+**[`P83`] REDMI Pad 2 Pro (`flute`):**
+
+`25099RP13G`: REDMI Pad 2 Pro Global
+
+`25099RP13I`: REDMI Pad 2 Pro India
+
+`25099RP13C`: REDMI Pad 2 Pro China
+
+**[`P83X`] REDMI Pad 2 Pro 5G (`organ`):**
+
+`2509BRP2DG`: REDMI Pad 2 Pro 5G Global
+
+`2509BRP2DI`: REDMI Pad 2 Pro 5G India
+
+`2509BRP2DC`: REDMI Pad 2 Pro 5G China
 
 **[`N83P`] POCO Pad (`dizi`):**
 
@@ -2464,6 +2530,14 @@
 **[`N83U`] POCO Pad 5G (`ruan`):**
 
 `24074PCD2I`: POCO Pad 5G India
+
+**[`O82P`] POCO Pad X1 (`uke`):**
+
+`25099RP08G`: POCO Pad X1 Global
+
+**[`P83P`] POCO Pad M1 (`flute`):**
+
+`2509ARPBDG`: POCO Pad M1 Global
 
 ## Others
 
