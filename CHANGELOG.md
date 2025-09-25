@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-25
+- `mitv_cn` 新增 REDMI 电视 X 2026 系列。
 ### 2025-09-21
 - `huawei_cn` 新增 HUAWEI nova Flip S。
 ### 2025-09-20

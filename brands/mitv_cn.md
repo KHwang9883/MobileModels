@@ -612,6 +612,18 @@
 
 `L85RB-RXE`: REDMI 电视 X85 2025 节能版 (一级能效)
 
+**REDMI 电视 X 2026:**
+
+`L55RC-RX`: REDMI 电视 X55 2026
+
+`L65RC-RX`: REDMI 电视 X65 2026
+
+`L75RC-RX`: REDMI 电视 X75 2026
+
+`L85RC-RX`: REDMI 电视 X85 2026
+
+`L98RC-RX`: REDMI 电视 X98 2026
+
 **Redmi 智能电视 X Pro:**
 
 `L65R9-XP`: Redmi 智能电视 X Pro 65
