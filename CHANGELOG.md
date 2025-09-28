@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-09-28
+- `zhixuan` 新增 Hi MateBook 14 酷睿 Ultra 2。
 ### 2025-09-26
 - `xiaomi` 新增 Xiaomi 17 系列、Pad 8 系列、REDMI 15 系列、Pad 2 Pro 等。
 ### 2025-09-25

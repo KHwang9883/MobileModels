@@ -193,6 +193,12 @@
 
 `MASH-32`: Hi MateBook 14 (32GB 内存)
 
+`MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)
+
+`MASC-24`: Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)
+
+`MASC-32`: Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)
+
 **Hi MateBook D 14:**
 
 `LYOI-16`: Hi MateBook D 14 (16GB 内存)
@@ -201,6 +207,8 @@
 
 **Hi MateBook D 16:**
 
-`NICEI-16`: Hi MateBook D 16 (16GB 内存)
+`NICG-16`: Hi MateBook D 16 (13 代酷睿) (16GB 内存)
 
-`NICEI-32`: Hi MateBook D 16 (32GB 内存)
+`NICI-16`: Hi MateBook D 16 (16GB 内存)
+
+`NICI-32`: Hi MateBook D 16 (32GB 内存)
