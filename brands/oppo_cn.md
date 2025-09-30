@@ -582,6 +582,10 @@
 
 `PKP110`: OPPO A5 Pro
 
+**OPPO A6:**
+
+`PLS120`: OPPO A6
+
 **OPPO A6 GT / OPPO A6 Max:**
 
 `PLL110`: OPPO A6 GT / OPPO A6 Max
