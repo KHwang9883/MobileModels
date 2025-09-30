@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-09-30
 - `oppo_cn` 新增 OPPO A6。
+- `vivo_cn` 新增 vivo X300 系列、iQOO 15。
 ### 2025-09-28
 - `zhixuan` 新增 Hi MateBook 14 酷睿 Ultra 2。
 ### 2025-09-26
