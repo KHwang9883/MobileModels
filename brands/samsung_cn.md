@@ -782,6 +782,10 @@
 
 `SM-W7025`: 三星 W25 Flip
 
+**三星 W26 (`q7q`):**
+
+`SM-W9026`: 三星 W26
+
 ## 三星其他手机系列
 
 **Galaxy Folder (`eliteltechn`):**
