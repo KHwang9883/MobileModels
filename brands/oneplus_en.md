@@ -327,6 +327,14 @@
 
 `CPH2723`: OnePlus 13s India
 
+**OnePlus 15:**
+
+`PLK110`: OnePlus 15 China
+
+**OnePlus Ace 6:**
+
+`PLQ110`: OnePlus Ace 6 China
+
 **OnePlus Ace 5 Ultra (`emira`):**
 
 `PLC110`: OnePlus Ace 5 Ultra China

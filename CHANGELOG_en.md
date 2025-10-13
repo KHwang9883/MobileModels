@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-13
+- `oneplus_en` Add OnePlus 15, OnePlus Ace 6.
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
 ### 2025-09-26
