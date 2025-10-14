@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-10-14
+- `motorola` 新增 moto g100。
 ### 2025-10-13
 - `oneplus` 新增 一加 15、一加 Ace 6。
 - `oppo_cn` 新增 OPPO Find X9 系列、OPPO Watch S。
