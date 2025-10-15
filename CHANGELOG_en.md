@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-15
+- `honor_global_en` Add HONOR Magic8 series.
 ### 2025-10-13
 - `oneplus_en` Add OnePlus 15, OnePlus Ace 6.
 ### 2025-10-11

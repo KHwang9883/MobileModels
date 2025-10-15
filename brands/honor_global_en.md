@@ -307,6 +307,14 @@
 
 `FCP-N49`: HONOR Magic V3
 
+**HONOR Magic8 Pro:**
+
+`BKQ-N49`: HONOR Magic8 Pro
+
+**HONOR Magic8 Lite:**
+
+`MTN-NX1M` `MTN-NX3`: HONOR Magic8 Lite
+
 **HONOR X5 (`Vanessa`):**
 
 `VNA-LX2` `VNA-LX3`: HONOR X5
@@ -466,6 +474,8 @@
 **HONOR Pad 10 (`Hendry3`):**
 
 `HEY3-W00`: HONOR Pad 10 Wi-Fi
+
+`HEY3-N09`: HONOR Pad 10 5G
 
 **HONOR Pad V9 (`Rowling`):**
 
