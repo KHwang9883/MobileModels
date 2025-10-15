@@ -136,6 +136,18 @@
 
 `CLE-AN00`: 荣耀 Magic V Flip2
 
+**荣耀 Magic8:**
+
+`BKQ-AN00`: 荣耀 Magic8
+
+`BKQ-AN80`: 荣耀 Magic8 (16GB+1TB)
+
+**荣耀 Magic8 Pro:**
+
+`BKQ-AN10`: 荣耀 Magic8 Pro
+
+`BKQ-AN90`: 荣耀 Magic8 Pro (16GB+1TB)
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -1102,6 +1114,14 @@
 
 `CGA-W00`: 荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版
 
+**荣耀 MagicPad 3 12.5:**
+
+`CGL-W00`: 荣耀 MagicPad 3 12.5 英寸 Wi-Fi 版
+
+**荣耀 MagicPad 3 Pro 13.3:**
+
+`YLP-W00`: 荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版
+
 ## 荣耀平板 GT 系列
 
 **荣耀平板 GT (`Rowling`):**
@@ -1756,6 +1776,10 @@
 
 `STL-L19`: 荣耀手表 5
 
+**荣耀手表 5 Pro (`Halo`):**
+
+`HAL-L19`: 荣耀手表 5 Pro
+
 **荣耀手表 5 Ultra (`Tumir`):**
 
 `TUR-L19`: 荣耀手表 5 Ultra
@@ -1763,6 +1787,10 @@
 **荣耀手表 Fit:**
 
 `IVY-B39`: 荣耀手表 Fit
+
+**荣耀手表 X5:**
+
+`LWS-WB10`: 荣耀手表 X5
 
 **荣耀手环 3:**
 
