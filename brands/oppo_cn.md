@@ -736,6 +736,10 @@
 
 `OPD2417`: OPPO Pad SE
 
+**OPPO Pad 5:**
+
+`OPD2506`: OPPO Pad 5
+
 ## Watch/Band 系列
 
 **OPPO Band:**
