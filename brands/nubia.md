@@ -158,6 +158,10 @@
 
 `NX737J`: nubia Z70S Ultra 摄影师版
 
+**nubia Z80 Ultra:**
+
+`NX741J`: nubia Z80 Ultra
+
 ## 努比亚其他系列
 
 **nubia X6:**
@@ -412,7 +416,11 @@
 
 **红魔 10S Pro / 红魔 10S Pro+:**
 
-`NX789J` : 红魔 10S Pro / 红魔 10S Pro+
+`NX789J`: 红魔 10S Pro / 红魔 10S Pro+
+
+**红魔 11 Pro / 红魔 11 Pro+:**
+
+`NX809J`: 红魔 11 Pro / 红魔 11 Pro+
 
 ## 红魔平板
 
