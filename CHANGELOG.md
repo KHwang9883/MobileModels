@@ -3,6 +3,7 @@
 - `nubia` 新增 红魔 11 Pro、nubia Z80 Ultra。
 - `oneplus` 新增 一加平板 2。
 - `vivo_cn` 新增 iQOO Neo11。
+- `xiaomi` 新增 REDMI K90 系列。
 ### 2025-10-16
 - `honor_cn` 新增 荣耀笔记本 X 系列 2026。
 - `oppo_cn` 新增 OPPO Pad 5。

@@ -2066,11 +2066,21 @@
 
 `24122RKC7C`: REDMI K80 Pro
 
+**[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
+
 `24127RK2CC`: REDMI K80 Pro 冠军版
 
 **[`O12`] REDMI K80 至尊版 (`dali`):**
 
 `25060RK16C`: REDMI K80 至尊版
+
+**[`P11`] REDMI K90 (`annibale`):**
+
+`2510DRK44C`: REDMI K90
+
+**[`P11U`] REDMI K90 Pro Max (`myron`):**
+
+`25102RKBEC`: REDMI K90 Pro Max
 
 ## 其他红米 Redmi 手机
 
