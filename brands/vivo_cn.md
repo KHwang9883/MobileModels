@@ -1084,6 +1084,10 @@
 
 `V2463A`: iQOO Neo10 Pro+
 
+**iQOO Neo11 (`PD2520`):**
+
+`V2520A`: iQOO Neo11
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
