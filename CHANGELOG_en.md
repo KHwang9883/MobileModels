@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-17
+- `oneplus_en` Add OnePlus Pad 2 (China).
 ### 2025-10-15
 - `honor_global_en` Add HONOR Magic8 series.
 ### 2025-10-13

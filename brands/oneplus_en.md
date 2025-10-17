@@ -499,6 +499,16 @@
 
 `OPD2415`: OnePlus Pad 3
 
+**OnePlus Pad Lite:**
+
+`OPD2480`: OnePlus Pad Lite Wi-Fi
+
+`OPD2481`: OnePlus Pad Lite LTE
+
+**OnePlus Pad 2:**
+
+`OPD2508`: OnePlus Pad 2 China
+
 ## OnePlus Wearables
 
 **OnePlus Band (`audio`):**
