@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-18
+- `apple_en` Add iPad Pro (M5), Apple Vision Pro (M5).
 ### 2025-10-17
 - `oneplus_en` Add OnePlus Pad 2 (China).
 - `xiaomi_en` Add REDMI K90 series.

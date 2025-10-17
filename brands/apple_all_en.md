@@ -919,6 +919,26 @@
 
 `A3007`: iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)
 
+**[`J817AP`] iPad Pro (11-inch, M5) (`iPad17,1`):**
+
+`A3357`: iPad Pro (11-inch, M5) Wi-Fi
+
+**[`J818AP`] iPad Pro (11-inch, M5) (`iPad17,2`):**
+
+`A3358`: iPad Pro (11-inch, M5) Wi-Fi + Cellular
+
+`A3359`: iPad Pro (11-inch, M5) Wi-Fi + Cellular (China mainland)
+
+**[`J820AP`] iPad Pro (13-inch, M5) (`iPad18,1`):**
+
+`A3360`: iPad Pro (13-inch, M5) Wi-Fi
+
+**[`J821AP`] iPad Pro (13-inch, M5) (`iPad18,2`):**
+
+`A3361`: iPad Pro (13-inch, M5) Wi-Fi + Cellular
+
+`A3362`: iPad Pro (13-inch, M5) Wi-Fi + Cellular (China mainland)
+
 ## iPad mini
 
 **[`P105AP`] iPad mini (`iPad2,5`):**
@@ -1352,6 +1372,10 @@
 **[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
 
 `A2117`: Apple Vision Pro
+
+**[`N301aAP`] Apple Vision Pro (M5) (`RealityDevice17,1,1`):**
+
+`A3416`: Apple Vision Pro (M5)
 
 ## iPod touch
 
