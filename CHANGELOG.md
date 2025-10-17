@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-10-18
+- `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
 ### 2025-10-17
 - `huawei_cn` 新增 nova 14 活力版。
 - `nubia` 新增 红魔 11 Pro、nubia Z80 Ultra。
