@@ -1,6 +1,7 @@
 # 更新日志
 ### 2025-10-17
 - `nubia` 新增 红魔 11 Pro、nubia Z80 Ultra。
+- `oneplus` 新增 一加平板 2。
 - `vivo_cn` 新增 iQOO Neo11。
 ### 2025-10-16
 - `honor_cn` 新增 荣耀笔记本 X 系列 2026。
