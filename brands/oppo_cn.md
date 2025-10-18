@@ -576,9 +576,9 @@
 
 `PJY110`: OPPO A3 Pro / OPPO A5 Plus
 
-**OPPO A5:**
+**OPPO A5 / OPPO A6 Plus:**
 
-`PKQ110`: OPPO A5 5G (2025)
+`PKQ110`: OPPO A5 5G (2025) / OPPO A6 Plus
 
 **OPPO A5 活力版:**
 
