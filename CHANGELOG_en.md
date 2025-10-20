@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-21
+- `realme_global_en` Add realme C85 5G.
 ### 2025-10-18
 - `apple_en` Add iPad Pro (M5), Apple Vision Pro (M5).
 ### 2025-10-17

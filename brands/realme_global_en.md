@@ -547,6 +547,10 @@
 
 `RMX5020`: realme C75x
 
+**realme C85:**
+
+`RMX5253`: realme C85 5G
+
 ## Note series
 
 **realme Note 50:**
