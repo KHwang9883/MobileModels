@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-10-21
+- `realme_cn` 新增 真我 GT8 系列。
 ### 2025-10-18
 - `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
 - `oppo_cn` 新增 OPPO A6 Plus。
