@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-10-22
+- `huawei_cn` 新增 HUAWEI Mate 70 Air、华为 Vision 智慧屏 5 SE 优享版。
 ### 2025-10-21
 - `realme_cn` 新增 真我 GT8 系列。
 ### 2025-10-18
