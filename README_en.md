@@ -26,6 +26,7 @@ Unlisted brands usually not include international models.
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
+| [sony](brands/sony.md) | Sony | All models since 2015 |
 | [realme_global_en](brands/realme_global_en.md) | realme | All international models |
 | [vivo_global_en](brands/vivo_global_en.md) | vivo | International models since 2019 |
 | [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi/Redmi/POCO phones & tablets |

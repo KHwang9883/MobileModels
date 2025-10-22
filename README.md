@@ -49,7 +49,8 @@
 | [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型，仅包含国行型号 | ✅ | ❌ | [其他早期型号参阅此处](misc/early-samsung-models.md) |
 | [samsung_global_en](brands/samsung_global_en.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/F 系列，2019 年起上市的机型 | ✅ | ⏹ | 英文版 |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
-| [sony](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ✅ | ❌ | -- |
+| [sony](brands/sony.md) | 索尼 (SONY) | 2015 年起上市的机型 | ✅ | ✅ | 英文版 |
+| [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 2015 年起上市的国行机型 | ✅ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
 | [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ⏹  | ⏹ | 英文版 |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | -- |
