@@ -1,6 +1,6 @@
 # Xiaomi Mobile Phone Models
 
-- Range: Xiaomi/Redmi/POCO phones & tablets
+- Range: Xiaomi/REDMI/POCO phones & tablets
 - Codename: ✅
 
 ## Xiaomi phones
@@ -685,7 +685,7 @@
 
 `M1906F9SI`: Mi A3 India
 
-## Redmi phones
+## REDMI phones
 
 **[`H2TD`] Redmi 1 (`wt93007`) (`HM2013022`):**
 
@@ -1663,9 +1663,13 @@
 
 `2312DRA50I`: Redmi Note 13 Pro 5G India
 
-`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
+`2312DRA50C`: Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
+
+**[`N16S`] Redmi Note 13 Pro 5G (`garnet`):**
+
+ `2312CRAD3C`: Redmi Note 13 Pro 5G China (LPDDR5 + UFS 3.1)
 
 **[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
 
