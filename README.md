@@ -30,14 +30,14 @@
 | [honor_global_en](brands/honor_global_en.md)| 荣耀 (HONOR) | 荣耀手机/平板，仅包含海外型号 | ⏹ | ✅ | 英文版 |
 | [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/Pura/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备，仅包含国行型号 | ⏹ | ❌ | [其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [huawei_global_en](brands/huawei_global_en.md)| 华为 (HUAWEI) | 华为 Mate/Pura/nova/Y 系列及平板电脑，仅包含海外型号 | ⏹ | ⏹ | 英文版 |
-| [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
+| [lenovo_cn](brands/lenovo_cn.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 | [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 不包含电视产品 |
 | [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
 | [meizu_en](brands/meizu_en.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | 英文版 |
 | [mitv_cn](brands/mitv_cn.md) | 小米 (Xiaomi) | 全部国行小米/Redmi 电视、机顶盒 | ❌ | ❌ | -- |
 | [mitv_global_en](brands/mitv_global_en.md) | 小米 (Xiaomi) | 全部小米/Redmi 电视、机顶盒、智能电视棒，仅包含海外型号 | ❌ | ✅ | 英文版 |
-| [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
-| [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
+| [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
+| [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
 | [nothing](brands/nothing.md) | Nothing | 全部机型 | ✅ | ✅ | 英文版 |
 | [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ⏹ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
@@ -58,7 +58,7 @@
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/REDMI/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
 | [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
-| [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
+| [zte_cn](brands/zte_cn.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
 ## 更新日志
 
