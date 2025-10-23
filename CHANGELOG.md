@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-10-24
+- `xiaomi` 新增 POCO F8 Pro/Ultra。
 ### 2025-10-23
 - `xiaomi-wear` 新增 REDMI Watch 6。
 ### 2025-10-22
