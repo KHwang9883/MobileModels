@@ -226,6 +226,10 @@
 
 `XT2527-3`: moto g100 Pro
 
-**moto g100:**
+**moto g100 (`portov`):**
 
 `XT2533-4`: moto g100
+
+**moto X70 Air (`roadstr`):**
+
+`XT2601-1`: moto X70 Air
