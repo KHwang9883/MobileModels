@@ -2105,6 +2105,14 @@
 
 `24122RKC7G`: POCO F7 Ultra Global
 
+**[`P11`] POCO F8 Pro (`annibale`):**
+
+`2510DPC44G`: POCO F8 Pro Global
+
+**[`P11U`] POCO F8 Ultra (`myron`):**
+
+`25102PCBEG`: POCO F8 Ultra Global
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 India

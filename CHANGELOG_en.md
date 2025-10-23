@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-24
+- `xiaomi_en` Add POCO F8 Pro/Ultra.
 ### 2025-10-21
 - `realme_global_en` Add realme C85 5G.
 ### 2025-10-18
