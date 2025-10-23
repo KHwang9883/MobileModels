@@ -1941,6 +1941,10 @@
 
 `25102RKBEC`: REDMI K90 Pro Max China
 
+**[`P11UIP`] REDMI K90 Pro Max (`myron`):**
+
+`25102RK69C`: REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
