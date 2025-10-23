@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-10-23
+- `xiaomi-wear` 新增 REDMI Watch 6。
 ### 2025-10-22
 - `huawei_cn` 新增 HUAWEI Mate 70 Air、华为 Vision 智慧屏 5 SE 优享版。
 ### 2025-10-21
