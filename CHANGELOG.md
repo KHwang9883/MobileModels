@@ -2,6 +2,7 @@
 ### 2025-10-24
 - `motorola` 新增 moto X70 Air。
 - `xiaomi` 新增 POCO F8 Pro/Ultra。
+- `zhixuan` 新增 Hi MateBook 14 锐龙 200。
 ### 2025-10-23
 - `xiaomi-wear` 新增 REDMI Watch 6。
 ### 2025-10-22

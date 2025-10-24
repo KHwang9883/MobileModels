@@ -193,11 +193,17 @@
 
 `MASH-32`: Hi MateBook 14 (32GB 内存)
 
-`MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)
+`MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)
 
-`MASC-24`: Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)
+`MASC-24`: Hi MateBook 14 酷睿 Ultra 2 (24GB 内存) (圆形键盘)
 
-`MASC-32`: Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)
+`MASC-32`: Hi MateBook 14 酷睿 Ultra 2 (32GB 内存) (圆形键盘)
+
+`MNCAA-16`: Hi MateBook 14 锐龙 200 (16GB 内存) (方形键盘)
+
+`MNCAA-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)
+
+`MNCAC-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
 
 **Hi MateBook D 14:**
 
