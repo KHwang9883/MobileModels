@@ -33,6 +33,10 @@
 
 `A059P`: Nothing Phone (3a) Plus
 
+**Nothing Phone (3a) Lite (`Galaxian`):**
+
+`A001T`: Nothing Phone (3a) Lite
+
 **CMF Phone 1 (`Tetris`):**
 
 `A015`: CMF Phone 1
