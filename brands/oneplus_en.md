@@ -507,7 +507,7 @@
 
 **OnePlus Pad 2 (2025) (`himalaya-o`):**
 
-`OPD2508`: OnePlus Pad 2 China
+`OPD2508`: OnePlus Pad 2 (2025)
 
 ## OnePlus Wearables
 
