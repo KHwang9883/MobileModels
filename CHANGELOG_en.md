@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-28
+- `google` Add Pixel Watch 4.
 ### 2025-10-24
 - `nothing` Add Nothing Phone (3a) Lite.
 - `xiaomi_en` Add POCO F8 Pro/Ultra.

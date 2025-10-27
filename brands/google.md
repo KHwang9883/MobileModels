@@ -302,3 +302,19 @@
 **Pixel Watch 3 (`luna`):**
 
 `GRY0E`: Pixel Watch 3 LTE (45mm)
+
+**Pixel Watch 4 (`meridian_btwifi`):**
+
+`GHH4K`: Pixel Watch 4 Bluetooth & Wi-Fi (41mm)
+
+**Pixel Watch 4 (`meridian_lte`):**
+
+`GWSQ2`: Pixel Watch 4 LTE (41mm)
+
+**Pixel Watch 4 (`kenari_btwifi`):**
+
+`G8AK3`: Pixel Watch 4 Bluetooth & Wi-Fi (45mm)
+
+**Pixel Watch 4 (`kenari_lte`):**
+
+`G1KAW`: Pixel Watch 4 LTE (45mm)
