@@ -321,20 +321,6 @@
 
 `PKR110`: OnePlus Ace 5 Pro China
 
-**OnePlus 13T / OnePlus 13s (`pagani`):**
-
-`PKX110`: OnePlus 13T China
-
-`CPH2723`: OnePlus 13s India
-
-**OnePlus 15:**
-
-`PLK110`: OnePlus 15 China
-
-**OnePlus Ace 6:**
-
-`PLQ110`: OnePlus Ace 6 China
-
 **OnePlus Ace 5 Ultra (`emira`):**
 
 `PLC110`: OnePlus Ace 5 Ultra China
@@ -342,6 +328,20 @@
 **OnePlus Ace 5 Race (`subaru`):**
 
 `PLF110`: OnePlus Ace 5 Race China
+
+**OnePlus 13T / OnePlus 13s (`pagani`):**
+
+`PKX110`: OnePlus 13T China
+
+`CPH2723`: OnePlus 13s India
+
+**OnePlus 15 (`infiniti`):**
+
+`PLK110`: OnePlus 15 China
+
+**OnePlus Ace 6 (`ktm`):**
+
+`PLQ110`: OnePlus Ace 6 China
 
 **OnePlus Nord (`avicii`):**
 
@@ -473,7 +473,7 @@
 
 `CPH2551`: OnePlus Open
 
-**OnePlus Pad (`aries-o`):**
+**OnePlus Pad (2023) (`aries-o`):**
 
 `OPD2203`: OnePlus Pad (2023)
 
@@ -483,15 +483,15 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad (`dunhuang-o`):**
+**OnePlus Pad (2024) (`dunhuang-o`):**
 
 `OPD2407`: OnePlus Pad (2024)
 
-**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
+**OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
 
 `OPD2404`: OnePlus Pad Pro
 
-`OPD2403`: OnePlus Pad 2
+`OPD2403`: OnePlus Pad 2 (2024)
 
 **OnePlus Pad 3 / OnePlus Pad 2 Pro (`erhai-o`):**
 
@@ -505,7 +505,7 @@
 
 `OPD2481`: OnePlus Pad Lite LTE
 
-**OnePlus Pad 2:**
+**OnePlus Pad 2 (2025) (`himalaya-o`):**
 
 `OPD2508`: OnePlus Pad 2 China
 
@@ -542,3 +542,5 @@
 ~`OPWW251`: OnePlus Watch 3 (China)~
 
 `OPWWE251`: OnePlus Watch 3 (Global)
+
+`OPWE242`: OnePlus Watch 3 43mm (Global)
