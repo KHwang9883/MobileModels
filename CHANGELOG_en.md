@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-10-29
+- `oppo_global_en` Add OPPO Find X9, OPPO A6 Pro.
 ### 2025-10-28
 - `google` Add Pixel Watch 4.
 ### 2025-10-24

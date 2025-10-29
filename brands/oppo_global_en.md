@@ -61,6 +61,14 @@
 
 `CPH2659`: OPPO Find X8 Pro
 
+**OPPO Find X9:**
+
+`CPH2797`: OPPO Find X9
+
+**OPPO Find X9 Pro:**
+
+`CPH2791`: OPPO Find X9 Pro
+
 ## Find N series
 
 **OPPO Find N2 (`whiteswan`):**
@@ -518,6 +526,12 @@
 `CPH2725`: OPPO A5x
 
 `CPH2733`: OPPO A5x 5G
+
+**OPPO A6 Pro:**
+
+`CPH2799`: OPPO A6 Pro
+
+`CPH2781`: OPPO A6 Pro 5G
 
 **OPPO A7:**
 
