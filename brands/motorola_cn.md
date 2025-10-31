@@ -230,6 +230,10 @@
 
 `XT2533-4`: moto g100
 
+**moto g100s:**
+
+`XT2537-4`: moto g100s
+
 **moto X70 Air (`roadstr`):**
 
 `XT2601-1`: moto X70 Air
