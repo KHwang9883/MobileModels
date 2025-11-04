@@ -786,6 +786,10 @@
 
 `V2506A`: vivo Y500
 
+**vivo Y500 Pro (`PD2516`):**
+
+`V2516A`: vivo Y500 Pro
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
