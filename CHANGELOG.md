@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-11-07
+- `huawei_cn` 新增 HUAWEI WATCH Ultimate 2。
 ### 2025-11-04
 - `vivo_cn` 新增 vivo Y500 Pro。
 ### 2025-10-31
