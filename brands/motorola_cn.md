@@ -230,7 +230,7 @@
 
 `XT2533-4`: moto g100
 
-**moto g100s:**
+**moto g100s (`mumba`):**
 
 `XT2537-4`: moto g100s
 
