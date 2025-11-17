@@ -312,6 +312,14 @@
 
 `PKZ110`: OPPO Reno14 Pro
 
+**OPPO Reno15:**
+
+`PLW110`: OPPO Reno15
+
+**OPPO Reno15 Pro:**
+
+`PLV110`: OPPO Reno15 Pro
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
