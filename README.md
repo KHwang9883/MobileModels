@@ -60,6 +60,85 @@
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte_cn](brands/zte_cn.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
+## Python 解析工具
+
+本项目提供了 Python 脚本来解析所有品牌的 Markdown 文件，并将数据转换为结构化的 JSON 格式，方便程序化使用。
+
+### 功能特性
+
+- 🔍 **自动解析**：遍历 `brands` 目录下所有 Markdown 文件
+- 📊 **数据提取**：提取型号代码、机型名称、设备名称、代号等完整信息
+- 💾 **JSON 输出**：生成结构化的 JSON 数据文件
+- 🔎 **快速查询**：支持多种查询方式的命令行工具
+
+### 使用方法
+
+#### 1. 解析数据
+
+```bash
+# 解析所有 Markdown 文件，生成 mobile_models.json
+python3 parse_mobile_models.py
+```
+
+#### 2. 查询数据
+
+```bash
+# 根据型号代码查询
+python3 query_mobile_models.py --code A1203
+
+# 根据设备名称搜索
+python3 query_mobile_models.py --device iPhone --limit 5
+
+# 根据机型名称搜索
+python3 query_mobile_models.py --model "华为" --limit 10
+
+# 查看品牌统计信息
+python3 query_mobile_models.py --stats
+
+# 查看帮助信息
+python3 query_mobile_models.py --help
+```
+
+#### 3. 数据统计
+
+解析完成后可获得：
+- **43 个品牌文件**
+- **7,700+ 个手机型号**
+- 完整的品牌信息和映射关系
+
+### 数据格式
+
+生成的 JSON 文件采用以下结构：
+
+```json
+{
+  "brand_file": {
+    "brand_info": {
+      "title": "品牌标题",
+      "scope": "汇总范围",
+      "codename": "是否包含代号",
+      "overseas": "海外机型信息"
+    },
+    "mappings": [
+      {
+        "model_code": "型号代码",
+        "model_name": "机型名称",
+        "device_name": "设备名称",
+        "codename": "代号",
+        "model_id": "型号ID"
+      }
+    ],
+    "total_models": 数量
+  }
+}
+```
+
+### 脚本文件
+
+- `parse_mobile_models.py` - 主解析脚本
+- `query_mobile_models.py` - 查询工具脚本
+- `mobile_models.json` - 生成的数据文件
+
 ## 更新日志
 
 参见 [CHANGELOG.md](CHANGELOG.md)
