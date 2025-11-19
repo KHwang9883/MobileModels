@@ -339,9 +339,19 @@
 
 `PLK110`: OnePlus 15 China
 
+`CPH2745`: OnePlus 15 India
+
+`CPH2747`: OnePlus 15 Europe / Global
+
+`CPH2749`: OnePlus 15 North America
+
 **OnePlus Ace 6 (`ktm`):**
 
 `PLQ110`: OnePlus Ace 6 China
+
+**OnePlus Ace 6T (`macan`):**
+
+`PLR110`: OnePlus Ace 6T China
 
 **OnePlus Nord (`avicii`):**
 

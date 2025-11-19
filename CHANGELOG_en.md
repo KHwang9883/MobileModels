@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-11-19
+- `oneplus_en` Add OnePlus 15, OnePlus Ace 6T.
 ### 2025-11-04
 - `vivo_global_en` Add new models.
 ### 2025-10-29
