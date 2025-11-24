@@ -112,11 +112,11 @@
 
 `RMX5090`: 真我 GT7 Pro 竞速版
 
-**真我 GT8:**
+**真我 GT8 (`amg`):**
 
 `RMX6699`: 真我 GT8
 
-**真我 GT8 Pro:**
+**真我 GT8 Pro (`lafa`):**
 
 `RMX5200`: 真我 GT8 Pro
 
@@ -162,19 +162,19 @@
 
 `RMX3850`: 真我 GT Neo6 SE
 
-**真我 Neo7:**
+**真我 Neo7 (`cayman`):**
 
 `RMX5060`: 真我 Neo7
 
-**真我 Neo7 Turbo:**
+**真我 Neo7 Turbo (`cayman`):**
 
 `RMX5062`: 真我 Neo7 Turbo
 
-**真我 Neo7 SE:**
+**真我 Neo7 SE (`brz`):**
 
 `RMX5080`: 真我 Neo7 SE
 
-**真我 Neo7x:**
+**真我 Neo7x (`dongfeng`):**
 
 `RMX5071`: 真我 Neo7x
 
@@ -298,7 +298,7 @@
 
 `RMX3920`: 真我 13 Pro+
 
-**真我 14:**
+**真我 14 (`dongfeng`):**
 
 `RMX5075`: 真我 14
 
