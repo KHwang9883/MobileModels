@@ -1,6 +1,8 @@
 # 更新日志
+### 2025-11-24
+- `honor_cn` 新增 荣耀 500 系列。
 ### 2025-11-19
-- `oneplus_cn` 新增 一加 15 海外版、一加 Ace 6T。
+- `oneplus` 新增 一加 15 海外版、一加 Ace 6T。
 ### 2025-11-07
 - `huawei_cn` 新增 HUAWEI WATCH Ultimate 2。
 ### 2025-11-04
