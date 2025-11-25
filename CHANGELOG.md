@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-11-25
+- `huawei_cn` 新增 HUAWEI Mate 80 系列、Mate X7、MatePad Edge 等。
 ### 2025-11-24
 - `honor_cn` 新增 荣耀 500 系列。
 ### 2025-11-19
