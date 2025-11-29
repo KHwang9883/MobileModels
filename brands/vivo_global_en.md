@@ -101,6 +101,14 @@
 
 `V2429`: vivo X Fold5
 
+**vivo X300 (`PD2509F`):**
+
+`V2515`: vivo X300
+
+**vivo X300 Pro (`PD2502F`):**
+
+`V2514`: vivo X300 Pro
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -905,6 +913,10 @@
 
 `I2401`: iQOO 13
 
+**iQOO 15 (`PD2505F`):**
+
+`I2501`: iQOO 15
+
 **iQOO Neo6 (`PD2199F`):**
 
 `I2202`: iQOO Neo6
@@ -1011,4 +1023,6 @@
 
 **iQOO Z10R 5G:**
 
-`I2410`: iQOO Z10R 5G
+`I2410`: iQOO Z10R 5G India
+
+`I2505`: iQOO Z10R 5G Global

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-11-29
+- `vivo_global_en` Add vivo X300, iQOO 15.
 ### 2025-11-19
 - `oneplus_en` Add OnePlus 15, OnePlus Ace 6T.
 ### 2025-11-04
