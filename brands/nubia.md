@@ -214,6 +214,10 @@
 
 `NX907J`: nubia M2 畅玩版
 
+**nubia M153 豆包手机助手技术预览版:**
+
+`P0110`: nubia M153 豆包手机助手技术预览版
+
 **nubia N1:**
 
 `NX541J`: nubia N1

@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-12-01
+- `nubia` 新增 nubia M153 豆包手机助手技术预览版。
 ### 2025-11-25
 - `huawei_cn` 新增 HUAWEI Mate 80 系列、Mate X7、MatePad Edge 等。
 ### 2025-11-24
