@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-01
+- `realme_global_en` Add realme P4x, C85 Pro.
 ### 2025-11-29
 - `vivo_global_en` Add vivo X300, iQOO 15.
 ### 2025-11-19

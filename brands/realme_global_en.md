@@ -551,6 +551,10 @@
 
 `RMX5253`: realme C85 5G
 
+**realme C85 Pro:**
+
+`RMX5555`: realme C85 Pro
+
 ## Note series
 
 **realme Note 50:**
@@ -620,6 +624,10 @@
 **realme P4 Pro:**
 
 `RMX5116`: realme P4 Pro 5G
+
+**realme P4x:**
+
+`RMX5108`: realme P4x 5G
 
 ## Narzo series
 
