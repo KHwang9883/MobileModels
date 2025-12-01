@@ -162,15 +162,15 @@
 
 `RMX3850`: 真我 GT Neo6 SE
 
-**真我 Neo7 (`cayman`):**
+**真我 Neo7 (`cayman-a`):**
 
 `RMX5060`: 真我 Neo7
 
-**真我 Neo7 Turbo (`cayman`):**
+**真我 Neo7 Turbo (`cayman-c`):**
 
 `RMX5062`: 真我 Neo7 Turbo
 
-**真我 Neo7 SE (`brz`):**
+**真我 Neo7 SE (`brz-a`):**
 
 `RMX5080`: 真我 Neo7 SE
 
