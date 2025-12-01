@@ -361,7 +361,7 @@
 
 `RMX3371`: realme GT NEO 3T
 
-**realme GT 3 (`senna-C`):**
+**realme GT 3 (`senna-c`):**
 
 `RMX3709`: realme GT 3 240W
 
@@ -373,11 +373,11 @@
 
 `RMX3853`: realme GT 6T
 
-**realme GT 7:**
+**realme GT 7 (`cayman-b`):**
 
 `RMX5061`: realme GT 7
 
-**realme GT 7T:**
+**realme GT 7T (`brz-b`):**
 
 `RMX5085`: realme GT 7T
 
