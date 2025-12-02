@@ -604,9 +604,9 @@
 
 `PLS120`: OPPO A6
 
-**OPPO A6 GT / OPPO A6 Max:**
+**OPPO A6 GT / OPPO A6 Max / OPPO A6l:**
 
-`PLL110`: OPPO A6 GT / OPPO A6 Max
+`PLL110`: OPPO A6 GT / OPPO A6 Max / OPPO A6l
 
 **OPPO A6 Pro:**
 
