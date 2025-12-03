@@ -3,7 +3,7 @@
 - Range: All international models (excluding Chinese models)
 - Codename: ✅
 
-## HONOR phones
+## HONOR phones (Huawei)
 
 **HONOR 4X (`Cherry`):**
 
@@ -184,6 +184,8 @@
 **HONOR View30 PRO (`Oxford`):**
 
 `OXF-N29` `OXF-AN10`: HONOR View30 PRO 5G
+
+## HONOR phones (Honor Device)
 
 **HONOR 50 (`Nottingham`):**
 
@@ -460,6 +462,10 @@
 **HONOR Play9C (`Nick`):**
 
 `NIC-LX3P`: HONOR Play9C
+
+**HONOR Play10 (`Elsa`):**
+
+`ELA-LX2` `ELA-LX3`: HONOR Play10
 
 **HONOR Pad 8 (`Hendry`):**
 

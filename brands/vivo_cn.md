@@ -394,6 +394,14 @@
 
 `V2465A`: vivo S30 Pro mini
 
+**vivo S50 (`PD2528`):**
+
+`V2528A`: vivo S50
+
+**vivo S50 Pro mini (`PD2527`):**
+
+`V2527A`: vivo S50 Pro mini
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
