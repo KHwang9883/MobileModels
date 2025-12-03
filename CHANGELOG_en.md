@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-03
+- `honor_global_en` Add HONOR Play10.
 ### 2025-12-02
 - `oppo_global_en` Add OPPO A6x 5G.
 ### 2025-12-01
