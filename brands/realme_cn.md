@@ -146,15 +146,15 @@
 
 `RMX3562`: 真我 GT Neo3 150W
 
-**真我 GT Neo5 150W: (`senna-b`):**
+**真我 GT Neo5 150W (`senna-b`):**
 
 `RMX3706`: 真我 GT Neo5 150W
 
-**真我 GT Neo5 240W: (`senna-c`):**
+**真我 GT Neo5 240W (`senna-c`):**
 
 `RMX3708`: 真我 GT Neo5 240W
 
-**真我 GT Neo5 SE: (`senna-a`):**
+**真我 GT Neo5 SE (`senna-a`):**
 
 `RMX3700`: 真我 GT Neo5 SE
 
