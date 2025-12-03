@@ -102,9 +102,9 @@
 
 `RMX3800`: 真我 GT6
 
-**真我 GT7 / 真我 GT7 阿斯顿马丁F1限量版 (`targa`):**
+**真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版 (`targa`):**
 
-`RMX6688`: 真我 GT7 / 阿斯顿马丁F1限量版
+`RMX6688`: 真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版
 
 **真我 GT7 Pro (`pista`):**
 
@@ -158,17 +158,17 @@
 
 `RMX3700`: 真我 GT Neo5 SE
 
-**真我 GT Neo6 / 真我 GT Neo6《完美世界》动画云曦限定礼盒 (`bale-b`):**
+**真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒 (`bale-b`):**
 
-`RMX3852`: 真我 GT Neo6 /《完美世界》动画云曦限定礼盒
+`RMX3852`: 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒
 
-**真我 GT Neo6 SE:(`bale-a`):**
+**真我 GT Neo6 SE (`bale-a`):**
 
 `RMX3850`: 真我 GT Neo6 SE
 
-**真我 Neo7 / 真我 Neo7《画江湖之不良人》限定礼盒 (`cayman-a`):**
+**真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒 (`cayman-a`):**
 
-`RMX5060`: 真我 Neo7 /《画江湖之不良人》限定礼盒
+`RMX5060`: 真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒
 
 **真我 Neo7 Turbo (`cayman-c`):**
 
