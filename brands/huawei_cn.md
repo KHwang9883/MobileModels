@@ -2557,9 +2557,11 @@
 
 `JPT-B19` `JPT-B29`: HUAWEI WATCH GT 3 46mm
 
-**HUAWEI WATCH GT 3 Pro (`Frigga`, `Odin`):**
+**HUAWEI WATCH GT 3 Pro (`Frigga`):**
 
 `FRG-B19`: HUAWEI WATCH GT 3 Pro 43mm
+
+**HUAWEI WATCH GT 3 Pro (`Odin`):**
 
 `ODN-B19`: HUAWEI WATCH GT 3 Pro 46mm
 
