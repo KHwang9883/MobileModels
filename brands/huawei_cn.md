@@ -2557,17 +2557,19 @@
 
 `JPT-B19` `JPT-B29`: HUAWEI WATCH GT 3 46mm
 
-**HUAWEI WATCH GT 3 Pro:**
+**HUAWEI WATCH GT 3 Pro (`Frigga`):**
 
 `FRG-B19`: HUAWEI WATCH GT 3 Pro 43mm
 
+**HUAWEI WATCH GT 3 Pro (`Odin`):**
+
 `ODN-B19`: HUAWEI WATCH GT 3 Pro 46mm
 
-**HUAWEI WATCH GT 3 Pro 典藏版:**
+**HUAWEI WATCH GT 3 Pro 典藏版 (`Frigga`):**
 
 `FRG-B19`: HUAWEI WATCH GT 3 Pro 典藏版
 
-**HUAWEI WATCH GT 3 保时捷设计:**
+**HUAWEI WATCH GT 3 保时捷设计 (`Odin`):**
 
 `ODN-B19`: HUAWEI WATCH GT 3 保时捷设计
 
@@ -2589,7 +2591,7 @@
 
 `JNA-B29`: HUAWEI WATCH GT 5 Pro 42mm
 
-**HUAWEI WATCH GT 5 Pro (`Vili`):**
+**HUAWEI WATCH GT 5 Pro (`Vilipro`):**
 
 `VLI-B29`: HUAWEI WATCH GT 5 Pro 46mm
 
@@ -2617,7 +2619,7 @@
 
 `OCF-B29`: HUAWEI WATCH GT 2022 典藏版
 
-**HUAWEI WATCH GT Cyber:**
+**HUAWEI WATCH GT Cyber (`Arnold`):**
 
 `AND-B19`: HUAWEI WATCH GT Cyber
 
@@ -2673,7 +2675,7 @@
 
 `JPT-B29B`: HUAWEI WATCH B5-536
 
-**HUAWEI WATCH B5:**
+**HUAWEI WATCH B5 (`Odin`):**
 
 `ODN-B99`: HUAWEI WATCH B5-736
 
@@ -2693,15 +2695,15 @@
 
 `SYA-B19B`: 华为擎云 H3540
 
-**华为擎云 H5546:**
+**华为擎云 H5546 (`Phoinix`):**
 
 `PNX-B19B`: 华为擎云 H5546
 
-**华为擎云 H5556:**
+**华为擎云 H5556 (`Vili`):**
 
 `VLI-B19B`: 华为擎云 H5556
 
-**华为擎云 H5756:**
+**华为擎云 H5756 (`Vilipro`):**
 
 `VLI-B29B`: 华为擎云 H5756
 
