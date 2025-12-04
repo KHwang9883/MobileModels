@@ -185,7 +185,7 @@
 
 `OXF-N29` `OXF-AN10`: HONOR View30 PRO 5G
 
-## HONOR phones (Honor Device)
+## HONOR phones (Honor)
 
 **HONOR 50 (`Nottingham`):**
 
