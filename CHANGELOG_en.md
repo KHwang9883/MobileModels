@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-08
+- `samsung_global_en` Add Galaxy Z TriFold.
 ### 2025-12-03
 - `honor_global_en` Add HONOR Play10.
 ### 2025-12-02

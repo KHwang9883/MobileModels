@@ -825,6 +825,14 @@
 
 `SC-56F`: Galaxy Z Fold7 Japan (NTT Docomo)
 
+**Galaxy Z TriFold (`q7mq`):**
+
+`SM-F968B`: Galaxy Z TriFold Global
+
+`SM-F9680`: Galaxy Z TriFold China
+
+`SM-F968N`: Galaxy Z TriFold South Korea
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
