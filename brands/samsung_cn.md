@@ -400,6 +400,10 @@
 
 `SM-F9660`: Galaxy Z Fold7
 
+**Galaxy Z TriFold (`q7mq`):**
+
+`SM-F9680`: Galaxy Z TriFold
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F7000`: Galaxy Z Flip
@@ -997,6 +1001,10 @@
 **Galaxy Tab S10 FE+ (`gts10fep`):**
 
 `SM-X626C`: Galaxy Tab S10 FE+ 5G
+
+**Galaxy Tab S10 Lite (`gts10litewifi`):**
+
+`SM-X400`: Galaxy Tab S10 Lite WLAN
 
 **Galaxy Tab S11 (`gts11wifi`):**
 
