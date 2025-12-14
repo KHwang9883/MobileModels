@@ -320,6 +320,10 @@
 
 `PLV110`: OPPO Reno15 Pro
 
+**OPPO Reno15c:**
+
+`PMD110`: OPPO Reno15c
+
 ## Ace 系列
 
 **OPPO Reno Ace:**

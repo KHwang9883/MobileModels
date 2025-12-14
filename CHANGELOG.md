@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-12-14
+- `oppo_cn` 新增 OPPO Reno15c。
 ### 2025-12-08
 - `samsung_cn` 新增 Galaxy Z TriFold。
 ### 2025-12-02
