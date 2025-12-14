@@ -151,6 +151,10 @@
 
 `ICL-LX9`: HUAWEI Mate X6
 
+**HUAWEI Mate X7 (`Delphi`):**
+
+`DEL-LX9`: HUAWEI Mate X7
+
 **HUAWEI Mate XT ULTIMATE DESIGN (`Greenlan`):**
 
 `GRL-LX9`: HUAWEI Mate XT ULTIMATE DESIGN
@@ -477,6 +481,18 @@
 
 `CTR-L91`: HUAWEI nova 13i
 
+**HUAWEI nova 14:**
+
+`TLR-LX9`: HUAWEI nova 14
+
+**HUAWEI nova 14 Pro:**
+
+`MIA-LX9`: HUAWEI nova 14 Pro
+
+**HUAWEI nova 14i (`Santiago`):**
+
+`STG-LX2`: HUAWEI nova 14i
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
@@ -746,6 +762,10 @@
 **HUAWEI MatePad 12 X (`Banksy`):**
 
 `BKY-W09`: HUAWEI MatePad 12 X Wi-Fi
+
+**HUAWEI MatePad 12 X (`Laurent`):**
+
+`LRT-W09`: HUAWEI MatePad 12 X 2025 Wi-Fi
 
 **HUAWEI MatePad Pro (`Marx`):**
 

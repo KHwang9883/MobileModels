@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-14
+- `huawei_global_en` Add HUAWEI Mate X7, nova 14 series.
 ### 2025-12-08
 - `samsung_global_en` Add Galaxy Z TriFold.
 ### 2025-12-03
