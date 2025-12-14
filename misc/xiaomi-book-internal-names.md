@@ -74,3 +74,4 @@
 | REDMI Book 14 2025 (12 代酷睿 FHD+) | `M59A2` | 2025 |
 | REDMI Book 14 2025 (13 代酷睿 FHD+) | `M59A3` | 2025 |
 | REDMI Book 14 2025 (AMD) | `M54` | 2025 |
+| REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
