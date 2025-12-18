@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-19
+- `oneplus_en` Add OnePlus 15R, Pad Go 2.
 ### 2025-12-14
 - `huawei_global_en` Add HUAWEI Mate X7, nova 14 series.
 ### 2025-12-08

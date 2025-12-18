@@ -349,9 +349,15 @@
 
 `PLQ110`: OnePlus Ace 6 China
 
-**OnePlus Ace 6T (`macan`):**
+**OnePlus Ace 6T / OnePlus 15R (`macan`):**
 
 `PLR110`: OnePlus Ace 6T China
+
+`CPH2767`: OnePlus 15R India
+
+`CPH2769`: OnePlus 15R Europe / Global
+
+`CPH2771`: OnePlus 15R North America
 
 **OnePlus Nord (`avicii`):**
 
@@ -514,6 +520,10 @@
 `OPD2480`: OnePlus Pad Lite Wi-Fi
 
 `OPD2481`: OnePlus Pad Lite LTE
+
+**OnePlus Pad Go 2:**
+
+`OPD2504`: OnePlus Pad Go 2 Wi-Fi
 
 **OnePlus Pad 2 (2025) (`himalaya-o`):**
 
