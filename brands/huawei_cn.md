@@ -773,6 +773,18 @@
 
 `PSD-AL80`: HUAWEI nova Flip S
 
+**HUAWEI nova 15 (`Pushkin`):**
+
+`PSN-AL00`: HUAWEI nova 15
+
+**HUAWEI nova 15 Pro (`Klee`):**
+
+`KLE-AL00U`: HUAWEI nova 15 Pro
+
+**HUAWEI nova 15 Ultra (`Shelley`):**
+
+`SLY-AL00`: HUAWEI nova 15 Ultra
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -1289,7 +1301,7 @@
 
 `BKY-W10`: HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
 
-`BKY-W20`: HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
+`BKY-W20` `BKY-W21`: HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 
 **HUAWEI MatePad Air (`Laurent`):**
 
@@ -1360,6 +1372,14 @@
 `SLG-W10`: HUAWEI MatePad 11.5 S 2025 Wi-Fi 版
 
 `SLG-W50`: HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版
+
+**HUAWEI MatePad 11.5 (`Taoxingzhi`):**
+
+`TXZ-W10`: HUAWEI MatePad 11.5 英寸 2026 Wi-Fi 版
+
+`TXZ-W20`: HUAWEI MatePad 11.5 英寸 2026 Wi-Fi 柔光版
+
+`TXZ-AL10`: HUAWEI MatePad 11.5 英寸 2026 SIM 卡版
 
 **HUAWEI MatePad Mini (`Mclaren`):**
 
@@ -2662,6 +2682,8 @@
 `LCA-B10`: HUAWEI WATCH D2 幻夜黑
 
 `LCA-B11`: HUAWEI WATCH D2 晨曦金
+
+`LCA-B29`: HUAWEI WATCH D2 星云蓝
 
 **HUAWEI WATCH Buds (`Saga`):**
 
