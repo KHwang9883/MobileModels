@@ -752,6 +752,10 @@
 
 `OPD2506`: OPPO Pad 5
 
+**OPPO Pad Air5:**
+
+`OPD2501`: OPPO Pad Air5
+
 ## Watch/Band 系列
 
 **OPPO Band:**
@@ -833,3 +837,7 @@
 **OPPO Watch S:**
 
 `OWW262`: OPPO Watch S
+
+**OPPO Watch X3 (`taycan`):**
+
+`OWW261`: OPPO Watch X3
