@@ -121,7 +121,7 @@
 
 `M2233W1`: Xiaomi Watch 2 Pro LTE
 
-**[`O61`] Xiaomi Watch 5:**
+**[`O61`] Xiaomi Watch 5 (`grass`):**
 
 `M2501W1`: Xiaomi Watch 5 蓝牙版
 
