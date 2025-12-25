@@ -282,6 +282,14 @@
 
 `2509FPN0BC`: Xiaomi 17 Pro Max
 
+**[`P1`] Xiaomi 17 Ultra (`nezha`):**
+
+`2512BPNDAC`: Xiaomi 17 Ultra
+
+**[`P1S`] Xiaomi 17 Ultra by Leica (`nezha`):**
+
+`25128PNA1C`: Xiaomi 17 Ultra by Leica
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -382,7 +390,7 @@
 
 **[`B3`] 小米 Max (`hydrogen`):**
 
-`2016001`: 小米 Max 标准版 全网通版
+`2016001`: 小米 Max 标准版
 
 **[`B3_PRO`] 小米 Max (`helium`):**
 

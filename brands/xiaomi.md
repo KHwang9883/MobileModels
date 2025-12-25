@@ -488,6 +488,20 @@
 
 `2509FPN0BC`: Xiaomi 17 Pro Max
 
+**[`P1`] Xiaomi 17 Ultra (`nezha`):**
+
+`2512BPNDAC`: Xiaomi 17 Ultra 国行版
+
+`2512BPNDAG`: Xiaomi 17 Ultra 国际版
+
+`2512BPNDAI`: Xiaomi 17 Ultra 印度版
+
+**[`P1S`] Xiaomi 17 Ultra by Leica / Leitzphone powered by Xiaomi (`nezha`):**
+
+`25128PNA1C`: Xiaomi 17 Ultra by Leica 国行版
+
+`25128PNA1G`: Leitzphone powered by Xiaomi 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -602,7 +616,7 @@
 
 **[`B3`] 小米 Max (`hydrogen`):**
 
-`2016001`: 小米 Max 标准版 全网通版
+`2016001`: 小米 Max 标准版 国行版
 
 `2016002`: 小米 Max 标准版 国际版
 
@@ -1290,6 +1304,10 @@
 
 `25057RN09I`: REDMI 15 5G 印度版
 
+`25057RN09R`: REDMI 15 5G 日本版 (无锁)
+
+`A501XM`: REDMI 15 5G 日本版 (SoftBank)
+
 **[`P15A`] REDMI 15C (`dew`):**
 
 `25078RA3EA`: REDMI 15C 国际版
@@ -1868,6 +1886,14 @@
 
 `24115RA8EI`: Redmi Note 14 Pro+ 5G 印度版
 
+**[`P7`] REDMI Note 15 (`spinel`):**
+
+`2510DRA23G`: REDMI Note 15 国际版
+
+`2510DRA23E`: REDMI Note 15 欧洲版
+
+`2510DRA23L`: REDMI Note 15 拉美版
+
 **[`P17`] REDMI Note 15 (`kunzite`):**
 
 `25098RA98C`: REDMI Note 15 国行版
@@ -1877,6 +1903,10 @@
 `25098RA98E`: REDMI Note 15 5G 欧洲版
 
 `25098RA98I`: REDMI Note 15 5G 印度版
+
+**[`P6`] REDMI Note 15 Pro (`charoite`):**
+
+`25100RA69G`: REDMI Note 15 Pro 国际版
 
 **[`P16`] REDMI Note 15 Pro (`lapis`):**
 
@@ -2526,9 +2556,17 @@
 
 `2409FPCC4G`: POCO M7 Pro 5G 国际版
 
+**[`P17`] POCO M8 5G (`kunzite`):**
+
+`25118PC98G`: POCO M8 5G 国际版
+
 **[`P15`] POCO M8 5G (`tornado`):**
 
 `2508CPC2BI`: POCO M8 5G 印度版
+
+**[`P16U`] POCO M8 Pro 5G (`flourite`):**
+
+`2510EPC8BG`: POCO M8 Pro 5G 国际版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
