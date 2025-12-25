@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-25
+- `xiaomi_en` Add Xiaomi 17 Ultra, Redmi Note 15 series, POCO M8 series.
 ### 2025-12-19
 - `oneplus_en` Add OnePlus 15R, Pad Go 2.
 ### 2025-12-14
