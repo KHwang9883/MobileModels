@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-12-25
+- `huawei_cn` 新增 HUAWEI WATCH 十周年款。
 - `nubia` 新增 红魔 11 Air。
 ### 2025-12-22
 - `huawei_cn` 新增 nova 15 系列、HUAWEI MatePad 11.5 2026。
