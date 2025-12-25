@@ -3,6 +3,7 @@
 - `huawei_cn` 新增 HUAWEI WATCH 十周年款。
 - `nubia` 新增 红魔 11 Air。
 - `xiaomi` 新增 Xiaomi 17 Ultra 等。
+- `xiaomi-wear` 新增 Xiaomi Watch 5、Xiaomi Buds 6、REDMI Buds 8 Pro。
 ### 2025-12-22
 - `huawei_cn` 新增 nova 15 系列、HUAWEI MatePad 11.5 2026。
 - `oppo_cn` 新增 OPPO Pad Air5、OPPO Watch X3。
