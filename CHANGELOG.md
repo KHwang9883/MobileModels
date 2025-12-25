@@ -1,4 +1,6 @@
 # 更新日志
+### 2025-12-25
+- `nubia` 新增 红魔 11 Air。
 ### 2025-12-22
 - `huawei_cn` 新增 nova 15 系列、HUAWEI MatePad 11.5 2026。
 - `oppo_cn` 新增 OPPO Pad Air5、OPPO Watch X3。
