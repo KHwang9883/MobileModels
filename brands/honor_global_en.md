@@ -491,6 +491,10 @@
 
 `ROD2-W09`: HONOR MagicPad2
 
+**HONOR MagicPad3 (`Changan`):**
+
+`CGA-W00`: HONOR MagicPad3
+
 **HONOR Pad X7:**
 
 `JMS-W09`: HONOR Pad X7 Wi-Fi
