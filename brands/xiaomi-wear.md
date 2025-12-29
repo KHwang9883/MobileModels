@@ -125,6 +125,8 @@
 
 `M2501W1`: Xiaomi Watch 5 蓝牙版
 
+**[`O61LTE`] Xiaomi Watch 5 (`grasslte`):**
+
 `M2505W1`: Xiaomi Watch 5 LTE
 
 ## 小米手表（RTOS）
