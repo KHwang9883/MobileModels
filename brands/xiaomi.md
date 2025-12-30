@@ -2560,9 +2560,7 @@
 
 `25118PC98G`: POCO M8 5G 国际版
 
-**[`P15`] POCO M8 5G (`tornado`):**
-
-`2508CPC2BI`: POCO M8 5G 印度版
+`25118PC98I`: POCO M8 5G 印度版
 
 **[`P16U`] POCO M8 Pro 5G (`flourite`):**
 
@@ -2637,6 +2635,10 @@
 `25078PC3EG`: POCO C85 国际版
 
 `25078PC3EE`: POCO C85 欧洲版
+
+**[`P15`] POCO C85 5G (`tornado`):**
+
+`2508CPC2BI`: POCO C85 5G 印度版
 
 ## POCO 平板
 
