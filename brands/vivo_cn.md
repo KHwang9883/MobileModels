@@ -798,6 +798,10 @@
 
 `V2516A`: vivo Y500 Pro
 
+**vivo Y500i (`PD2531`):**
+
+`V2531A`: vivo Y500i
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
@@ -1185,6 +1189,10 @@
 **iQOO Z10x (`PD2445`):**
 
 `V2445A`: iQOO Z10x
+
+**iQOO Z11 Turbo (`PD2536`):**
+
+`V2536A`: iQOO Z11 Turbo
 
 ## iQOO U 系列
 
