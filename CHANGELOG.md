@@ -1,5 +1,6 @@
 # 更新日志
 ### 2025-12-30
+- `realme_cn` 新增 真我 Neo8。
 - `vivo_cn` 新增 vivo Y500i、iQOO Z11 Turbo。
 ### 2025-12-26
 - `honor_cn` 新增 荣耀 WIN、荣耀平板 10 Pro。
