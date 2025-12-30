@@ -2325,9 +2325,7 @@
 
 `25118PC98G`: POCO M8 5G Global
 
-**[`P15`] POCO M8 5G (`tornado`):**
-
-`2508CPC2BI`: POCO M8 5G India
+`25118PC98I`: POCO M8 5G India
 
 **[`P16U`] POCO M8 Pro 5G (`flourite`):**
 
@@ -2402,6 +2400,10 @@
 `25078PC3EG`: POCO C85 Global
 
 `25078PC3EE`: POCO C85 Europe
+
+**[`P15`] POCO C85 5G (`tornado`):**
+
+`2508CPC2BI`: POCO C85 5G India
 
 ## Tablets
 
