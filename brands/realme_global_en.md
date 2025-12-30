@@ -225,7 +225,7 @@
 
 `RMX3921`: realme 13 Pro+ 5G
 
-**realme 14 5G:**
+**realme 14 5G (`dongfeng`):**
 
 `RMX5070`: realme 14 5G Global
 
@@ -235,7 +235,7 @@
 
 `RMX3943`: realme 14x 5G Global
 
-**realme 14T 5G:**
+**realme 14T 5G (`dongfeng`):**
 
 `RMX5074`: realme 14T 5G Global
 
@@ -247,7 +247,7 @@
 
 `RMX5057`: realme 14 Pro 5G Global
 
-**realme 14 Pro+ 5G:**
+**realme 14 Pro+ 5G (`piaget`):**
 
 `RMX5051`: realme 14 Pro+ 5G India
 
@@ -257,11 +257,11 @@
 
 `RMX5106`: realme 15 5G
 
-**realme 15 Pro 5G:**
+**realme 15 Pro 5G (`neutron`):**
 
 `RMX5101`: realme 15 Pro 5G
 
-**realme 15T 5G:**
+**realme 15T 5G (`chopard`):**
 
 `RMX5111`: realme 15T 5G
 
@@ -272,6 +272,14 @@
 **realme 15x 5G:**
 
 `RMX5250`: realme 15x 5G
+
+**realme 16 Pro 5G:**
+
+`RMX5120`: realme 16 Pro 5G
+
+**realme 16 Pro+ 5G:**
+
+`RMX5131`: realme 16 Pro+ 5G
 
 ## X series
 
@@ -597,7 +605,7 @@
 
 `RMX3987`: realme P2 Pro 5G
 
-**realme P3:**
+**realme P3 (`dongfeng`):**
 
 `RMX5070` `RMX5079`: realme P3 5G
 
@@ -768,6 +776,14 @@
 **realme NARZO 80 Lite:**
 
 `RMX3945`: realme NARZO 80 Lite 5G
+
+**realme NARZO 90 (`chopard`):**
+
+`RMX5111`: realme NARZO 90 5G
+
+**realme NARZO 90x:**
+
+`RMX5264`: realme NARZO 90x 5G
 
 ## Tablets
 

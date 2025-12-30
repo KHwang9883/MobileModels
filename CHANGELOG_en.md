@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2025-12-30
+- `realme_global_en` Add realme 16 Pro series, NARZO 90 series.
 ### 2025-12-26
 - `honor_global_en` Add HONOR MagicPad3.
 ### 2025-12-25
