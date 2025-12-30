@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2025-12-30
+- `oppo_global_en` Add OPPO Reno15 series, A6 series.
 - `realme_global_en` Add realme 16 Pro series, NARZO 90 series.
 ### 2025-12-26
 - `honor_global_en` Add HONOR MagicPad3.
