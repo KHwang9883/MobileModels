@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-01-01
+- `huawei_cn` 新增 华为智慧屏 V6。
 ### 2025-12-30
 - `realme_cn` 新增 真我 Neo8。
 - `vivo_cn` 新增 vivo Y500i、iQOO Z11 Turbo。
