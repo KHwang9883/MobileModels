@@ -596,9 +596,9 @@
 
 `PKV110`: OPPO A5 活力版
 
-**OPPO A5x:**
+**OPPO A5x / OPPO A5m:**
 
-`PKW110`: OPPO A5x
+`PKW110`: OPPO A5x / OPPO A5m
 
 **OPPO A5 Pro (`alpha`) (`alpha-h`):**
 
