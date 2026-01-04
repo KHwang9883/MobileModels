@@ -183,6 +183,10 @@
 
 `SHR-AN00`: Hi 畅享 80 Pro 5G
 
+**Hi 畅享 80 Plus:**
+
+`SNP-AN00`: Hi 畅享 80 Plus 5G
+
 **WIKO X70:**
 
 `CHE-AN00`: WIKO X70
