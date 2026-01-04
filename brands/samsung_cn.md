@@ -1116,6 +1116,14 @@
 
 `SM-X216C`: Galaxy Tab A9+ 5G
 
+**Galaxy Tab A11+ (`gta11pwifi`):**
+
+`SM-X230`: Galaxy Tab A11+ WLAN
+
+**Galaxy Tab A11+ (`gta11p`):**
+
+`SM-X236C`: Galaxy Tab A11+ 5H
+
 ## Galaxy Tab 系列
 
 **Galaxy Tab4 7.0 (`degaswifi`):**

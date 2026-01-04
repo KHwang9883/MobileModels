@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-01-04
+- `samsung_cn` 新增 Galaxy Tab A11+。
 ### 2026-01-01
 - `honor_cn` 新增 荣耀 Power2。
 - `huawei_cn` 新增 华为智慧屏 V6。
