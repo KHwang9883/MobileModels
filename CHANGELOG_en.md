@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-04
+- `vivo_global_en` Add iQOO 15R.
 ### 2025-12-30
 - `oppo_global_en` Add OPPO Reno15 series, A6 series.
 - `realme_global_en` Add realme 16 Pro series, NARZO 90 series.

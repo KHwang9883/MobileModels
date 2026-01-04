@@ -291,7 +291,7 @@
 
 **vivo V50 Lite 5G (`PD2447F`):**
 
-`V2450` `V2453`: vivo V50 Lite 5G
+`V2440` `V2450` `V2453`: vivo V50 Lite 5G
 
 **Jovi V50 Lite (`PD2447F`):**
 
@@ -916,6 +916,10 @@
 **iQOO 15 (`PD2505F`):**
 
 `I2501`: iQOO 15
+
+**iQOO 15R (`PD2536F`):**
+
+`I2508`: iQOO 15R
 
 **iQOO Neo6 (`PD2199F`):**
 
