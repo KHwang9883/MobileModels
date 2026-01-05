@@ -1352,7 +1352,7 @@
 
 ## Apple TV
 
-**Apple TV (第 1 代) (`AppleTV1,1`):**
+**[`Mac-F4228DC8`] Apple TV (第 1 代) (`AppleTV1,1`):**
 
 `A1218`: Apple TV (第 1 代)
 
