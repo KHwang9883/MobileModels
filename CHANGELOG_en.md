@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-05
+- `oneplus_en` Add OnePlus Turbo 6 series.
 ### 2026-01-04
 - `vivo_global_en` Add iQOO 15R.
 ### 2025-12-30
