@@ -360,6 +360,14 @@
 
 `CPH2771`: 一加 15R 北美版
 
+**一加 Turbo 6 (`volkswagen`):**
+
+`PLU110`: 一加 Turbo 6 国行版
+
+**一加 Turbo 6V (`prado`):**
+
+`PLY110`: 一加 Turbo 6V 国行版
+
 **一加 Nord (`avicii`):**
 
 `AC2001`: 一加 Nord 印度版

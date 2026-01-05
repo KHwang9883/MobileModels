@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-01-05
 - `honor_cn` 新增 荣耀平板 X10 Pro。
+- `oneplus` 新增 一加 Turbo 6 系列。
 ### 2026-01-04
 - `samsung_cn` 新增 Galaxy Tab A11+。
 - `zhixuan` 新增 Hi 畅享 80 Plus。
