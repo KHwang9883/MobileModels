@@ -327,13 +327,13 @@
 
 `CPH2825`: OPPO Reno15 5G
 
-**OPPO Reno15 Pro:**
+**OPPO Reno15 Pro / OPPO Reno15 Pro Mini:**
 
-`CPH2813`: OPPO Reno15 Pro 5G
+`CPH2813`: OPPO Reno15 Pro 5G / OPPO Reno15 Pro Mini 5G
 
-**OPPO Reno15 Pro Max:**
+**OPPO Reno15 Pro / OPPO Reno15 Pro Max:**
 
-`CPH2811`: OPPO Reno15 Pro Max 5G
+`CPH2811`: OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 
 **OPPO Reno15 F:**
 
