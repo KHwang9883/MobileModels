@@ -237,3 +237,7 @@
 **moto X70 Air (`roadstr`):**
 
 `XT2601-1`: moto X70 Air
+
+**moto X70 Air Pro (`vantage`):**
+
+`XT2603-1`: moto X70 Air Pro
