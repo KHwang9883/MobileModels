@@ -533,6 +533,8 @@
 
 `OPD2504`: OnePlus Pad Go 2 Wi-Fi
 
+`OPD2505`: OnePlus Pad Go 2 5G
+
 **OnePlus Pad 2 (2025) (`himalaya-o`):**
 
 `OPD2508`: OnePlus Pad 2 (2025)
