@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-10
+- `honor_global_en` Add HONOR Magic7, Magic V5, X8d.
 ### 2026-01-05
 - `oneplus_en` Add OnePlus Turbo 6 series.
 ### 2026-01-04

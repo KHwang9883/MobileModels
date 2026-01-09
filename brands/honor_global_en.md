@@ -293,6 +293,10 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
+**HONOR Magic V3 (`FalconP`):**
+
+`FCP-N49`: HONOR Magic V3
+
 **HONOR Magic7 (`Philippe`):**
 
 `PTP-N29`: HONOR Magic7
@@ -309,9 +313,9 @@
 
 `BRP-NX1M` `BRP-NX3`: HONOR Magic7 Lite
 
-**HONOR Magic V3 (`FalconP`):**
+**HONOR Magic V5 (`Maybach`):**
 
-`FCP-N49`: HONOR Magic V3
+`MBH-N49`: HONOR Magic V5
 
 **HONOR Magic8 Pro:**
 
@@ -339,7 +343,7 @@
 
 `NLA-LX1` `NLA-LX2` `NLA-LX3`: HONOR X5c
 
-`NLA-LX2P`: HONOR X5c Plus
+`NLA-LX1` `NLA-LX2P`: HONOR X5c Plus
 
 **HONOR X6 (`Vinnie`):**
 
@@ -430,6 +434,10 @@
 **HONOR X8c (`Amber`):**
 
 `ABR-LX1` `ABR-LX2` `ABR-LX3`: HONOR X8c
+
+**HONOR X8d:**
+
+`LNA-LX2` `LNA-LX3`: HONOR X8d
 
 **HONOR X9 (`Andy`):**
 
