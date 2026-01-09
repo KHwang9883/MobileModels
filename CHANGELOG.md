@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-01-10
+- `honor_cn` 新增 荣耀 Magic8 RSR/Pro Air。
 ### 2026-01-07
 - `motorola_cn` 新增 moto X70 Air Pro。
 ### 2026-01-05

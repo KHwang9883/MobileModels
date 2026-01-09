@@ -148,6 +148,14 @@
 
 `BKQ-AN90`: 荣耀 Magic8 Pro (16GB+1TB)
 
+**荣耀 Magic8 Pro Air (`Lindy`):**
+
+`LDY-AN00`: 荣耀 Magic8 Pro Air
+
+**荣耀 Magic8 RSR 保时捷设计:**
+
+`BKQ-AL20`: 荣耀 Magic8 RSR 保时捷设计
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
