@@ -154,7 +154,7 @@
 
 **荣耀 Magic8 RSR 保时捷设计:**
 
-`BKQ-AL20`: 荣耀 Magic8 RSR 保时捷设计
+`BKQ-AN20`: 荣耀 Magic8 RSR 保时捷设计
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
