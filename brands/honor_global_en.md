@@ -293,6 +293,10 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
+**HONOR Magic7 (`Philippe`):**
+
+`PTP-N29`: HONOR Magic7
+
 **HONOR Magic7 Pro (`Patek`):**
 
 `PTP-N49`: HONOR Magic7 Pro
