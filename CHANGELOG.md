@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-01-15
 - `oppo_cn` 新增 OPPO A6c。
+- `vivo_cn` 新增 iQOO 15 Ultra。
 ### 2026-01-10
 - `honor_cn` 新增 荣耀 Magic8 RSR/Pro Air。
 ### 2026-01-07
