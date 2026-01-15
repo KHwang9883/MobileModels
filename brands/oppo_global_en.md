@@ -335,9 +335,9 @@
 
 `CPH2811`: OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 
-**OPPO Reno15 F:**
+**OPPO Reno15 F / OPPO Reno15 FS:**
 
-`CPH2801`: OPPO Reno15 F 5G
+`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G
 
 ## F series
 
@@ -558,6 +558,8 @@
 **OPPO A6s:**
 
 `CPH2815`: OPPO A6s
+
+`CPH2789`: OPPO A6s 5G
 
 **OPPO A6x:**
 

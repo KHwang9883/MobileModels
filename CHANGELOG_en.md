@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-15
+- `oppo_global_en` Add OPPO A6s 5G, OPPO Reno15 FS.
 ### 2026-01-10
 - `honor_global_en` Add HONOR Magic7, Magic V5, X8d.
 ### 2026-01-05
