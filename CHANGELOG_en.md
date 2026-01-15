@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-16
+- `vivo_global_en` Add vivo X300 FE.
 ### 2026-01-15
 - `oppo_global_en` Add OPPO A6s 5G, OPPO Reno15 FS.
 ### 2026-01-10

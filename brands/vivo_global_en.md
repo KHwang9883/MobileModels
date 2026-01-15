@@ -109,6 +109,10 @@
 
 `V2514`: vivo X300 Pro
 
+**vivo X300 FE (`PD2527F`):**
+
+`V2537` `V2542`: vivo X300 FE
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
