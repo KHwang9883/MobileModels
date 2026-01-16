@@ -620,6 +620,10 @@
 
 `PKW120`: OPPO A6i
 
+**OPPO A6s:**
+
+`PLT120`: OPPO A6s
+
 **OPPO A6c:**
 
 `PMC110`: OPPO A6c

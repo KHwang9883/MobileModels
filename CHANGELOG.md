@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-01-16
+- `oppo_cn` 新增 OPPO A6s。
 ### 2026-01-15
 - `oppo_cn` 新增 OPPO A6c。
 - `vivo_cn` 新增 iQOO 15 Ultra。
