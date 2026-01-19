@@ -637,6 +637,10 @@
 
 `RMX5108`: realme P4x 5G
 
+**realme P4 Power:**
+
+`RMX5107`: realme P4 Power 5G
+
 ## Narzo series
 
 **realme Narzo (`nemo`):**

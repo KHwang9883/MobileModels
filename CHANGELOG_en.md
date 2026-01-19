@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-19
+- `realme_global_en` Add realme P4 Power.
 ### 2026-01-16
 - `vivo_global_en` Add vivo X300 FE.
 ### 2026-01-15
