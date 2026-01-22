@@ -1115,6 +1115,12 @@
 
 `SM-A075M`: Galaxy A07 Latin America
 
+**Galaxy A07 5G (`a07x`):**
+
+`SM-A076E` `SM-A076B`: Galaxy A07 5G Global
+
+`SM-A076M`: Galaxy A07 5G Latin America
+
 **Galaxy A10 (`a10`):**
 
 `SM-A105F` `SM-A015FN` `SM-A015G`: Galaxy A10 Global
@@ -1310,6 +1316,14 @@
 **Galaxy A17 5G (`a17x`):**
 
 `SM-A176B`: Galaxy A17 5G Global
+
+`SM-A176U`: Galaxy A17 5G US Carrier
+
+`SM-A176U1`: Galaxy A17 5G US Unlocked
+
+`SM-S176V`: Galaxy A17 5G TracFone
+
+`SM-A176W`: Galaxy A17 5G Canada
 
 `SM-A1760`: Galaxy A17 5G HK & TW
 
@@ -1969,6 +1983,10 @@
 
 `SM-M176B`: Galaxy M17 5G
 
+**Galaxy M17e 5G (`a07x`):**
+
+`SM-M076B`: Galaxy M17e 5G
+
 **Galaxy M20 (`m20`):**
 
 `SM-M205N`: Galaxy M20 South Korea
@@ -2192,3 +2210,7 @@
 **Galaxy F62 (`f62`):**
 
 `SM-E625F`: Galaxy F62
+
+**Galaxy F70e 5G (`a07x`):**
+
+`SM-E076B`: Galaxy F70e 5G
