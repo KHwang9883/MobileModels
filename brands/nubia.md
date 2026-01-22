@@ -318,6 +318,14 @@
 
 `A403ZT`: nubia S 5G SoftBank
 
+**nubia S2e:**
+
+`A507ZT`: nubia S2e SoftBank
+
+**nubia S2R:**
+
+`Z6305R`: nubia S2R
+
 ## 努比亚平板
 
 **nubia Pad 3D:**
