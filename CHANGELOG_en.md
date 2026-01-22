@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-01-22
+- `vivo_global_en` Add vivo X200T, iQOO Z11x 5G.
 ### 2026-01-19
 - `realme_global_en` Add realme P4 Power.
 ### 2026-01-16

@@ -97,6 +97,10 @@
 
 `V2503` `V2505`: vivo X200 FE
 
+**vivo X200T (`PD2458F`):**
+
+`V2561`: vivo X200T
+
 **vivo X Fold5 (`PD2436F`):**
 
 `V2429`: vivo X Fold5
@@ -1034,3 +1038,7 @@
 `I2410`: iQOO Z10R 5G India
 
 `I2505`: iQOO Z10R 5G Global
+
+**iQOO Z11x 5G:**
+
+`I2507`: iQOO Z11x 5G
