@@ -1769,6 +1769,8 @@
 
 `25098RA98C`: REDMI Note 15 5G China
 
+`25098RA98T`: REDMI Note 15 5G Saudi Arabia
+
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro Global
@@ -1783,6 +1785,8 @@
 
 `25080RABDC`: REDMI Note 15 Pro 5G China
 
+`25080RABDT`: REDMI Note 15 Pro 5G Saudi Arabia
+
 **[`P16U`] REDMI Note 15 Pro+ 5G (`flourite`):**
 
 `2510ERA8BG`: REDMI Note 15 Pro+ 5G Global
@@ -1790,6 +1794,8 @@
 `2510ERA8BI`: REDMI Note 15 Pro+ 5G India
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 5G China
+
+`2510ERA8BT`: REDMI Note 15 Pro+ 5G Saudi Arabia
 
 **[`P16US`] REDMI Note 15 Pro+ 5G (`flourite`):**
 
@@ -1822,6 +1828,14 @@
 **[`O10U`] REDMI Turbo 4 Pro (`onyx`):**
 
 `25053RT47C`: REDMI Turbo 4 Pro China
+
+**[`P10`] REDMI Turbo 5 (`klee`):**
+
+`2511FRT34C`: REDMI Turbo 5 China
+
+**[`P10U`] REDMI Turbo 5 Max (`dash`):**
+
+`2602BRT18C`: REDMI Turbo 5 Max China
 
 **[`F10`] Redmi K20 (`davinci`):**
 
