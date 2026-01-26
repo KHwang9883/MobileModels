@@ -1904,6 +1904,8 @@
 
 `25098RA98I`: REDMI Note 15 5G 印度版
 
+`25098RA98T`: REDMI Note 15 5G 沙特版
+
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro 国际版
@@ -1918,6 +1920,8 @@
 
 `25080RABDR`: REDMI Note 15 Pro 5G 日本版
 
+`25080RABDT`: REDMI Note 15 Pro 5G 沙特版
+
 **[`P16U`] REDMI Note 15 Pro+ (`flourite`):**
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 国行版
@@ -1925,6 +1929,8 @@
 `2510ERA8BG`: REDMI Note 15 Pro+ 5G 国际版
 
 `2510ERA8BI`: REDMI Note 15 Pro+ 5G 印度版
+
+`2510ERA8BT`: REDMI Note 15 Pro+ 5G 沙特版
 
 **[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
 
@@ -1961,6 +1967,14 @@
 **[`O10U`] REDMI Turbo 4 Pro (`onyx`):**
 
 `25053RT47C`: REDMI Turbo 4 Pro
+
+**[`P10`] REDMI Turbo 5 (`klee`):**
+
+`2511FRT34C`: REDMI Turbo 5
+
+**[`P10U`] REDMI Turbo 5 Max (`dash`):**
+
+`2602BRT18C`: REDMI Turbo 5 Max
 
 ## REDMI K 系列
 

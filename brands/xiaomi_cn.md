@@ -1032,6 +1032,14 @@
 
 `25053RT47C`: REDMI Turbo 4 Pro
 
+**[`P10`] REDMI Turbo 5 (`klee`):**
+
+`2511FRT34C`: REDMI Turbo 5
+
+**[`P10U`] REDMI Turbo 5 Max (`dash`):**
+
+`2602BRT18C`: REDMI Turbo 5 Max
+
 ## REDMI K 系列
 
 **[`F10`] Redmi K20 (`davinci`):**
