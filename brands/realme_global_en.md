@@ -273,6 +273,10 @@
 
 `RMX5250`: realme 15x 5G
 
+**realme 16 5G:**
+
+`RMX5171`: realme 16 5G
+
 **realme 16 Pro 5G:**
 
 `RMX5120`: realme 16 Pro 5G
