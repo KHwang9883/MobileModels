@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-02-06
+- `vivo_global_en` Add several new models.
 ### 2026-02-01
 - `realme_global_en` Add realme 16 5G.
 ### 2026-01-26

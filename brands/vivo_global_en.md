@@ -461,7 +461,7 @@
 
 **vivo Y04 (`PD2442F`):**
 
-`V2430` `V2438` `V2531`: vivo Y04
+`V2430` `V2438` `V2531` `V2547`: vivo Y04
 
 **vivo Y04e (`PD2442F`):**
 
@@ -471,9 +471,21 @@
 
 `V2531`: vivo Y04s
 
+**vivo Y05:**
+
+`V2556` `V2565`: vivo Y05
+
 **vivo Y11s (`PD2042F`):**
 
 `V2028`: vivo Y11s
+
+**vivo Y11d:**
+
+`V2555` `V2578` `V2580`: vivo Y11d
+
+**vivo Y11e:**
+
+`V2577`: vivo Y11e
 
 **vivo Y12 (`PD1901F`):**
 
@@ -551,6 +563,10 @@
 
 `vivo 1915`: vivo Y19
 
+**vivo Y19 5G:**
+
+`V2432`: vivo Y19 5G
+
 **vivo Y19s (`PD2420F`):**
 
 `V2419` `V2423`: vivo Y19s
@@ -619,9 +635,9 @@
 
 `V2149` `V2111-EG`: vivo Y21A
 
-**vivo Y21e (`PD2158F`):**
+**vivo Y21e (2022) (`PD2158F`):**
 
-`V2140`: vivo Y21e
+`V2140`: vivo Y21e (2022)
 
 **vivo Y21G (`PD2138F`):**
 
@@ -638,6 +654,10 @@
 **vivo Y21d:**
 
 `V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
+
+**vivo Y21e (2025):**
+
+`V2525`: vivo Y21e (2025)
 
 **vivo Y22 (`PD2226F`):**
 
@@ -714,6 +734,14 @@
 **vivo Y31 Pro 5G:**
 
 `V2534`: vivo Y31 Pro 5G
+
+**vivo Y31d:**
+
+`V2543` `V2546` `V2582` `V2611`: vivo Y31d
+
+**vivo Y31e 5G:**
+
+`V2533`: vivo Y31e 5G
 
 **vivo Y33 (`PD2103F`):**
 
