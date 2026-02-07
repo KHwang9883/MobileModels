@@ -301,10 +301,6 @@
 
 `V2440` `V2450` `V2453`: vivo V50 Lite 5G
 
-**Jovi V50 Lite (`PD2447F`):**
-
-`V2440`: Jovi V50 Lite
-
 **vivo V60:**
 
 `V2511` `V2512`: vivo V60
@@ -571,10 +567,6 @@
 
 `V2419` `V2423`: vivo Y19s
 
-**Jovi Y19s (`PD2420F`):**
-
-`V2425` `V2454`: Jovi Y19s
-
 **vivo Y19s 5G:**
 
 `V2541`: vivo Y19s 5G
@@ -703,10 +695,6 @@
 
 `V2434` `V2435`: vivo Y29
 
-**Jovi Y29 (`PD2446F`):**
-
-`V2445`: Jovi Y29
-
 **vivo Y29 5G:**
 
 `V2420`: vivo Y29 5G
@@ -778,10 +766,6 @@
 **vivo Y39 5G (`PD2444F`):**
 
 `V2436` `V2443` `V2447`: vivo Y39 5G
-
-**Jovi Y39 5G (`PD2444F`):**
-
-`V2444`: Jovi Y39 5G
 
 **vivo Y51 (`PD2044F`):**
 
@@ -1070,3 +1054,29 @@
 **iQOO Z11x 5G:**
 
 `I2507`: iQOO Z11x 5G
+
+## JOVI Smartphones
+
+**Jovi V50 (`PD2437F`):**
+
+`V2427`: Jovi V50
+
+**Jovi V50 Lite (`PD2447F`):**
+
+`V2440`: Jovi V50 Lite 5G
+
+**Jovi Y19s (`PD2420F`):**
+
+`V2425` `V2454`: Jovi Y19s
+
+**Jovi Y29 (`PD2446F`):**
+
+`V2445`: Jovi Y29
+
+**Jovi Y29s 5G:**
+
+`V2459`: Jovi Y29s 5G
+
+**Jovi Y39 5G (`PD2444F`):**
+
+`V2444`: Jovi Y39 5G
