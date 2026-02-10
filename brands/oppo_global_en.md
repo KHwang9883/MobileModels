@@ -335,9 +335,9 @@
 
 `CPH2811`: OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 
-**OPPO Reno15 F / OPPO Reno15 FS:**
+**OPPO Reno15 F / OPPO Reno15 FS / OPPO Reno15c:**
 
-`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G
+`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G
 
 ## F series
 
@@ -576,6 +576,8 @@
 **OPPO A6t Pro:**
 
 `CPH2849`: OPPO A6t Pro
+
+`CPH2851`: OPPO A6t Pro 5G
 
 **OPPO A7:**
 
@@ -832,6 +834,14 @@
 **OPPO K13 Turbo Pro:**
 
 `CPH2731`: OPPO K13 Turbo Pro 5G
+
+**OPPO K14:**
+
+`CPH2869`: OPPO K14 5G
+
+**OPPO K14x:**
+
+`CPH2871`: OPPO K14x 5G
 
 ## Pad series
 
