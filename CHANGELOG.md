@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-02-02
+- `xiaomi` 新增 POCO X8 Pro 系列。
 - `oppo_cn` 新增 OPPO A6i+/A6v。
 ### 2026-01-26
 - `xiaomi` 新增 REDMI Turbo 5 系列。

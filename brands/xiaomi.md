@@ -2472,6 +2472,18 @@
 
 `2412DPC0AI`: POCO X7 Pro 印度版
 
+**[`P10`] POCO X8 Pro (`klee`):**
+
+`2511FPC34G`: POCO X8 Pro 国际版
+
+`2511FPC34I`: POCO X8 Pro 印度版
+
+**[`P10U`] POCO X8 Pro Max (`dash`):**
+
+`2602BPC18G`: POCO X8 Pro Max 国际版
+
+`2602BPC18I`: POCO X8 Pro Max 印度版
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 印度版
