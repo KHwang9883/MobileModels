@@ -2237,6 +2237,18 @@
 
 `2412DPC0AI`: POCO X7 Pro India
 
+**[`P10`] POCO X8 Pro (`klee`):**
+
+`2511FPC34G`: POCO X8 Pro Global
+
+`2511FPC34I`: POCO X8 Pro India
+
+**[`P10U`] POCO X8 Pro Max (`dash`):**
+
+`2602BPC18G`: POCO X8 Pro Max Global
+
+`2602BPC18I`: POCO X8 Pro Max India
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 India

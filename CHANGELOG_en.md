@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2026-02-10
 - `oppo_global_en` Add OPPO K14 series.
+- `xiaomi_en` Add POCO X8 Pro series.
 ### 2026-02-06
 - `vivo_global_en` Add several new models.
 ### 2026-02-01
