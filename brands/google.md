@@ -259,6 +259,14 @@
 
 `GM66V`: Pixel 10 Pro Fold (Japan)
 
+**Pixel 10a (`stallion`):**
+
+`GE1GQ`: Pixel 10a (US)
+
+`G4H7L`: Pixel 10a (Global)
+
+`GV0BP`: Pixel 10a (Japan)
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C
