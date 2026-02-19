@@ -481,11 +481,11 @@
 
 `CTR-L91`: HUAWEI nova 13i
 
-**HUAWEI nova 14:**
+**HUAWEI nova 14 (`Taylor`):**
 
 `TLR-LX9`: HUAWEI nova 14
 
-**HUAWEI nova 14 Pro:**
+**HUAWEI nova 14 Pro (`Milla`):**
 
 `MIA-LX9`: HUAWEI nova 14 Pro
 
