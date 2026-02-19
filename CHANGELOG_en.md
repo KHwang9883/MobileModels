@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2026-02-19
 - `google` Add Pixel 10a.
+- `vivo_global_en` Add vivo V70 series.
 ### 2026-02-10
 - `oppo_global_en` Add OPPO K14 series.
 - `xiaomi_en` Add POCO X8 Pro series.
