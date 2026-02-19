@@ -221,7 +221,7 @@
 
 `PLU-AL10`: HUAWEI Mate 70 RS 非凡大师
 
-**HUAWEI Mate 70 Air:**
+**HUAWEI Mate 70 Air (`Superman`):**
 
 `SUP-AL90`: HUAWEI Mate 70 Air
 
@@ -753,15 +753,15 @@
 
 `MIS-AL00`: HUAWEI nova 13 Pro
 
-**HUAWEI nova 14:**
+**HUAWEI nova 14 (`Taylor`):**
 
 `TLR-AL00`: HUAWEI nova 14
 
-**HUAWEI nova 14 Pro:**
+**HUAWEI nova 14 Pro (`Milla`):**
 
 `MIA-AL00`: HUAWEI nova 14 Pro
 
-**HUAWEI nova 14 Ultra:**
+**HUAWEI nova 14 Ultra (`Margaret`):**
 
 `MRT-AL10`: HUAWEI nova 14 Ultra
 
