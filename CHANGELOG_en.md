@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-02-21
+- `realme_global_en` Add realme P4 Lite, Pad 3.
 ### 2026-02-19
 - `google` Add Pixel 10a.
 - `vivo_global_en` Add vivo V70 series.

@@ -561,6 +561,8 @@
 
 **realme C85:**
 
+`RMX5566`: realme C85
+
 `RMX5253`: realme C85 5G
 
 **realme C85 Pro:**
@@ -644,6 +646,10 @@
 **realme P4 Power:**
 
 `RMX5107`: realme P4 Power 5G
+
+**realme P4 Lite:**
+
+`RMX5313`: realme P4 Lite
 
 ## Narzo series
 
@@ -822,3 +828,9 @@
 **realme Pad 2 Lite:**
 
 `RMP2402`: realme Pad 2 Lite
+
+**realme Pad 3:**
+
+`RMP2501`: realme Pad 3 5G
+
+`RMP2502`: realme Pad 3 Wi-Fi
