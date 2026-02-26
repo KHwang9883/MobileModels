@@ -445,6 +445,10 @@
 
 `M2535E1`: REDMI Buds 8 Pro
 
+**[`P79A`] REDMI Buds 8 青春版:**
+
+`M2539E1`: REDMI Buds 8 青春版
+
 ## POCO TWS
 
 **[`K76`] POCO Buds Pro Genshin Impact Edition:**
@@ -458,3 +462,11 @@
 **[`N79A`] POCO Buds X1:**
 
 `M2350E1`: POCO Buds X1 印度版
+
+## 其他
+
+**[`P99`] Xiaomi Tag:**
+
+`M2543T1`: Xiaomi Tag 蓝牙版
+
+`M2542T1`: Xiaomi Tag UWB
