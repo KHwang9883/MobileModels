@@ -135,6 +135,10 @@
 
 `PLR-L29`: HUAWEI Mate 70 Pro
 
+**HUAWEI Mate 80 Pro (`Sagittarius`):**
+
+`SGT-LX9`: HUAWEI Mate 80 Pro
+
 **HUAWEI Mate Xs (`Tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM

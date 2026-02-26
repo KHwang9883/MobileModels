@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-02-27
+- `huawei_global_en` Add HUAWEI Mate 80 Pro.
 ### 2026-02-21
 - `realme_global_en` Add realme P4 Lite, Pad 3.
 ### 2026-02-19
