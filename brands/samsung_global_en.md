@@ -549,6 +549,82 @@
 
 `SM-S731N`: Galaxy S25 FE South Korea
 
+**Galaxy S26 (`m1s`):**
+
+`SM-S942B`: Galaxy S26 Global
+
+`SM-S942N`: Galaxy S26 South Korea
+
+**Galaxy S26 (`m1q`):**
+
+`SM-S942U`: Galaxy S26 US Carrier
+
+`SM-S942U1`: Galaxy S26 US Unlocked
+
+`SM-S942W`: Galaxy S26 Canada
+
+`SM-S9420`: Galaxy S26 China
+
+`SM-S942Q`: Galaxy S26 Japan (SIM Free)
+
+`SM-S942Z`: Galaxy S26 Japan (SoftBank)
+
+`SM-S942C`: Galaxy S26 Japan (Rakuten Mobile)
+
+`SCG36`: Galaxy S26 Japan (au)
+
+`SC-51G`: Galaxy S26 Japan (NTT Docomo)
+
+**Galaxy S26+ (`m2s`):**
+
+`SM-S947B`: Galaxy S26+ Global
+
+`SM-S947N`: Galaxy S26+ South Korea
+
+**Galaxy S26+ (`m2q`):**
+
+`SM-S947U`: Galaxy S26+ US Carrier
+
+`SM-S947U1`: Galaxy S26+ US Unlocked
+
+`SM-S947W`: Galaxy S26+ Canada
+
+`SM-S9470`: Galaxy S26+ China
+
+`SM-S947Q`: Galaxy S26+ Japan (SIM Free)
+
+`SM-S947Z`: Galaxy S26+ Japan (SoftBank)
+
+`SM-S947C`: Galaxy S26+ Japan (Rakuten Mobile)
+
+`SCG38`: Galaxy S26+ Japan (au)
+
+`SC-52G`: Galaxy S26+ Japan (NTT Docomo)
+
+**Galaxy S26 Ultra (`m3q`):**
+
+`SM-S948B`: Galaxy S26 Ultra Global
+
+`SM-S948U`: Galaxy S26 Ultra US Carrier
+
+`SM-S948U1`: Galaxy S26 Ultra US Unlocked
+
+`SM-S948W`: Galaxy S26 Ultra Canada
+
+`SM-S9480`: Galaxy S26 Ultra China
+
+`SM-S948N`: Galaxy S26 Ultra South Korea
+
+`SM-S948Q`: Galaxy S26 Ultra Japan (SIM Free)
+
+`SM-S948Z`: Galaxy S26 Ultra Japan (SoftBank)
+
+`SM-S948C`: Galaxy S26 Ultra Japan (Rakuten Mobile)
+
+`SCG37`: Galaxy S26 Ultra Japan (au)
+
+`SC-53G`: Galaxy S26 Ultra Japan (NTT Docomo)
+
 ## Galaxy Note
 
 **Galaxy Note9 (`crownlte`):**
@@ -1607,6 +1683,22 @@
 
 `SM-A366N`: Galaxy A36 5G South Korea
 
+**Galaxy A37 5G (`a37x`):**
+
+`SM-A376E`: Galaxy A37 5G Global
+
+`SM-A376B`: Galaxy A37 5G EU
+
+`SM-A376U`: Galaxy A37 5G US Carrier
+
+`SM-A376U1`: Galaxy A37 5G US Unlocked
+
+`SM-S376V`: Galaxy A37 5G TracFone
+
+`SM-A376W`: Galaxy A37 5G Canada
+
+`SM-A3760`: Galaxy A37 5G HK & TW
+
 **Galaxy A40 (`a40`):**
 
 `SM-A405FN`: Galaxy A40 Global
@@ -1781,6 +1873,8 @@
 
 `SC-53D`: Galaxy A54 5G Japan (NTT Docomo)
 
+`SM-A546S`: Galaxy Quantum4 South Korea
+
 **Galaxy A55 5G (`a55x`):**
 
 `SM-A556E`: Galaxy A55 5G Global
@@ -1793,15 +1887,33 @@
 
 `SC-53E`: Galaxy A55 5G Japan (NTT Docomo)
 
+`SM-A556S`: Galaxy Quantum5 South Korea
+
 **Galaxy A56 5G (`a56x`):**
 
 `SM-A566E`: Galaxy A56 5G Global
 
 `SM-A566B`: Galaxy A56 5G EU
 
+`SM-A566U1`: Galaxy A56 5G US Unlocked
+
 `SM-A5660`: Galaxy A56 5G China
 
-`SM-A566S`: Galaxy A56 5G South Korea
+`SM-A566S`: Galaxy Quantum6 South Korea
+
+**Galaxy A57 5G (`a57x`):**
+
+`SM-A576B`: Galaxy A57 5G Global
+
+`SM-A576U1`: Galaxy A57 5G US Unlocked
+
+`SM-A576W`: Galaxy A57 5G Canada
+
+`SM-A5760`: Galaxy A57 5G China
+
+`SM-A576Q`: Galaxy A57 5G Japan (SIM Free)
+
+`SM-A576Z`: Galaxy A57 5G Japan (SoftBank)
 
 **Galaxy A60 (`a60q`):**
 
@@ -1880,6 +1992,10 @@
 `SM-A9080`: Galaxy A90 5G China
 
 `SM-A908N`: Galaxy A90 5G South Korea
+
+**Galaxy Quantum2 (`a82xq`):**
+
+`SM-A826S`: Galaxy Quantom2 South Korea
 
 ## Galaxy M
 
@@ -2090,6 +2206,8 @@
 **Galaxy M53 5G (`m53x`):**
 
 `SM-M536B`: Galaxy M53 5G
+
+`SM-M536S`: Galaxy Quantum3 South Korea
 
 **Galaxy M54 5G (`m54x`):**
 
