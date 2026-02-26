@@ -260,6 +260,18 @@
 
 `SM-S9380`: Galaxy S25 Ultra
 
+**Galaxy S26 (`m1q`):**
+
+`SM-S9420`: Galaxy S26
+
+**Galaxy S26+ (`m2q`):**
+
+`SM-S9470`: Galaxy S26+
+
+**Galaxy S26 Ultra (`m3q`):**
+
+`SM-S9480`: Galaxy S26 Ultra
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -579,6 +591,10 @@
 **Galaxy A56 5G (`a56x`):**
 
 `SM-A5660`: Galaxy A56 5G
+
+**Galaxy A57 5G (`a57x`):**
+
+`SM-A5760`: Galaxy A57 5G
 
 ## Galaxy F 系列
 

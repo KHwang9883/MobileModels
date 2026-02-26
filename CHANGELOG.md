@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-02-27
+- `samsung_cn` 新增 Galaxy S26 系列、A57。
 ### 2026-02-26
 - `xiaomi-wear` 新增 REDMI Buds 8 青春版、Xiaomi Tag。
 ### 2026-02-24
