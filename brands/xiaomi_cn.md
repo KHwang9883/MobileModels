@@ -282,13 +282,13 @@
 
 `2509FPN0BC`: Xiaomi 17 Pro Max
 
-**[`P1`] Xiaomi 17 Ultra (`nezha`):**
+**[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
-`2512BPNDAC`: Xiaomi 17 Ultra
+`2512BPNDAC`: Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫星)
 
 **[`P1S`] Xiaomi 17 Ultra by Leica (`nezha`):**
 
-`25128PNA1C`: Xiaomi 17 Ultra by Leica
+`25128PNA1C`: Xiaomi 17 Ultra by Leica (卫星通讯)
 
 ## 小米 Note 系列
 

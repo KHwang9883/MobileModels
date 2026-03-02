@@ -488,9 +488,9 @@
 
 `2509FPN0BC`: Xiaomi 17 Pro Max
 
-**[`P1`] Xiaomi 17 Ultra (`nezha`):**
+**[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
-`2512BPNDAC`: Xiaomi 17 Ultra 国行版
+`2512BPNDAC`: Xiaomi 17 Ultra 国行版 / Xiaomi 17 Ultra by Leica 国行版 (非卫星)
 
 `2512BPNDAG`: Xiaomi 17 Ultra 国际版
 
@@ -498,7 +498,7 @@
 
 **[`P1S`] Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi (`nezha`):**
 
-`25128PNA1C`: Xiaomi 17 Ultra by Leica 国行版
+`25128PNA1C`: Xiaomi 17 Ultra by Leica 国行版 (卫星通讯)
 
 `25128PNA1G`: Leica Leitzphone powered by Xiaomi 国际版
 

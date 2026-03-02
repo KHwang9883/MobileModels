@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-03-02
+- `xiaomi` 增补 Xiaomi 17 Ultra by Leica (非卫星)。
 ### 2026-03-01
 - `xiaomi` 新增 REDMI A7 Pro。
 ### 2026-02-27
