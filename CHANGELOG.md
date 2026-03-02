@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-03-03
+- `xiaomi-wear` 新增 REDMI Buds 8 活力版。
 ### 2026-03-02
 - `xiaomi` 增补 Xiaomi 17 Ultra by Leica (非卫星)。
 ### 2026-03-01

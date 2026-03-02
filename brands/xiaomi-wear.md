@@ -445,9 +445,13 @@
 
 `M2535E1`: REDMI Buds 8 Pro
 
-**[`P79A`] REDMI Buds 8 青春版:**
+**[`P79`] REDMI Buds 8 活力版 / REDMI Buds 8 Active:**
 
-`M2539E1`: REDMI Buds 8 青春版
+`M2537E1`: REDMI Buds 8 活力版 / REDMI Buds 8 Active 国际版
+
+**[`P79A`] REDMI Buds 8 青春版 / REDMI Buds 8 Lite:**
+
+`M2539E1`: REDMI Buds 8 青春版 / REDMI Buds 8 Lite 国际版
 
 ## POCO TWS
 
