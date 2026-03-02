@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-02
+- `xiaomi_en` Add Xiaomi 17 Ultra by Leica (non-satellite).
 ### 2026-03-01
 - `xiaomi_en` Add REDMI A7 Pro.
 ### 2026-02-27

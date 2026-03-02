@@ -485,11 +485,11 @@
 
 `2509FPN0BC`: Xiaomi 17 Pro Max China
 
-**[`P1`] Xiaomi 17 Ultra (`nezha`):**
+**[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
 `2512BPNDAG`: Xiaomi 17 Ultra Global
 
-`2512BPNDAC`: Xiaomi 17 Ultra China
+`2512BPNDAC`: Xiaomi 17 Ultra China / Xiaomi 17 Ultra by Leica (China, non-satellite)
 
 `2512BPNDAI`: Xiaomi 17 Ultra India
 
@@ -497,7 +497,7 @@
 
 `25128PNA1G`: Leica Leitzphone powered by Xiaomi (Global)
 
-`25128PNA1C`: Xiaomi 17 Ultra by Leica (China)
+`25128PNA1C`: Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)
 
 **[`X5`] Mi Note (`virgo`):**
 
