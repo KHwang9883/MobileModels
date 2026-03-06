@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-03-06
+- `apple` 新增 iPhone 17e、iPad Air (M4)。
 ### 2026-03-03
 - `xiaomi-wear` 新增 REDMI Buds 8 活力版。
 ### 2026-03-02
