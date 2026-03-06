@@ -65,6 +65,8 @@
 
 `CPH2797`: OPPO Find X9
 
+`OPG07`: OPPO Find X9 (KDDI)
+
 **OPPO Find X9 Pro:**
 
 `CPH2791`: OPPO Find X9 Pro
@@ -335,9 +337,9 @@
 
 `CPH2811`: OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 
-**OPPO Reno15 F / OPPO Reno15 FS / OPPO Reno15c:**
+**OPPO Reno15 F / OPPO Reno15 FS / OPPO Reno15 C / OPPO Reno15 A:**
 
-`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G
+`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15 C 5G / OPPO Reno15 A
 
 ## F series
 
@@ -547,7 +549,9 @@
 
 `CPH2817`: OPPO A6
 
-`CPH2831`: OPPO A6 5G
+`CPH2831`: OPPO A6 5G Global
+
+`CPH2785`: OPPO A6 5G India
 
 **OPPO A6 Pro:**
 
@@ -572,6 +576,8 @@
 **OPPO A6t:**
 
 `CPH2847`: OPPO A6t
+
+`CPH2853`: OPPO A6t 5G
 
 **OPPO A6t Pro:**
 
