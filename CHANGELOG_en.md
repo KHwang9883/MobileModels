@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-06
+- `honor_global_en` Add HONOR 600 Lite/600e, X6d 5G, MagicPad4.
 ### 2026-03-02
 - `xiaomi_en` Add Xiaomi 17 Ultra by Leica (non-satellite).
 ### 2026-03-01

@@ -247,6 +247,12 @@
 
 `LGN-NX1` `LGN-NX3`: HONOR 400 Smart
 
+**HONOR 600 Lite / HONOR 600e:**
+
+`LNA-NX1`: HONOR 600 Lite
+
+`LNA-NX3`: HONOR 600e
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -377,6 +383,10 @@
 
 `NIC-LX1` `NIC-LX2` `NIC-LX3`: HONOR X6c
 
+**HONOR X6d 5G (`Nala`):**
+
+`NLA-NX1` `NLA-NX3`: HONOR X6d 5G
+
 **HONOR X7 (`Carmella`):**
 
 `CMA-LX1` `CMA-LX2` `CMA-LX3`: HONOR X7
@@ -506,6 +516,10 @@
 **HONOR MagicPad3 (`Changan`):**
 
 `CGA-W00`: HONOR MagicPad3
+
+**HONOR MagicPad4 (`Yongle`):**
+
+`YLE-W09`: HONOR MagicPad4
 
 **HONOR Pad X7:**
 
