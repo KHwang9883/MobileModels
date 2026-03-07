@@ -327,7 +327,7 @@
 
 **vivo V70 FE:**
 
-`V2550`: vivo V70 FE
+`V2550` `V2551` `V2552` `V2558`: vivo V70 FE
 
 ## vivo S series
 
@@ -482,6 +482,10 @@
 **vivo Y05:**
 
 `V2556` `V2565`: vivo Y05
+
+**vivo Y11 5G:**
+
+`V2575`: vivo Y11 5G
 
 **vivo Y11s (`PD2042F`):**
 
@@ -790,6 +794,10 @@
 **vivo Y51s (`PD2044F`):**
 
 `V2031` `V2031_21`: vivo Y51s
+
+**vivo Y51 Pro 5G:**
+
+`V2544`: vivo Y51 Pro 5G
 
 **vivo Y52 5G (`PD2069F`):**
 
