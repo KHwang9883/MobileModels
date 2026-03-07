@@ -560,9 +560,9 @@
 
 `V2023EA`: vivo Y50t
 
-**vivo Y37t / vivo Y50 (2025) / vivo Y50i / vivo Y50e / vivo Y50s (`PD2443`):**
+**vivo Y37t / vivo Y37+ / vivo Y50 (2025) / vivo Y50i / vivo Y50e / vivo Y50s (`PD2443`):**
 
-`V2443A`: vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
+`V2443A`: vivo Y37t 5G / vivo Y37+ 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
 
 **vivo Y50m / vivo Y50c (`PD2443`):**
 
