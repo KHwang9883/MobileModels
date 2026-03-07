@@ -29,13 +29,21 @@
 
 `A059`: Nothing Phone (3a)
 
-**Nothing Phone (3a) Plus (`Asteroids`):**
+**Nothing Phone (3a) Pro (`Asteroids`):**
 
-`A059P`: Nothing Phone (3a) Plus
+`A059P`: Nothing Phone (3a) Pro
 
 **Nothing Phone (3a) Lite (`Galaxian`):**
 
 `A001T`: Nothing Phone (3a) Lite
+
+**Nothing Phone (4a) (`Frogger`):**
+
+`A069`: Nothing Phone (4a)
+
+**Nothing Phone (4a) Pro (`FroggerPro`):**
+
+`A069P`: Nothing Phone (4a) Pro
 
 **CMF Phone 1 (`Tetris`):**
 

@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-03-08
+- `nothing` Add Nothing Phone (4a).
 - `vivo_global_en` Add several models.
 ### 2026-03-06
 - `apple_en` Add iPhone 17e, iPad Air (M4).
