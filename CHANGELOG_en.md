@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2026-03-08
 - `nothing` Add Nothing Phone (4a).
+- `realme_global_en` Add realme C83 5G, NARZO Power 5G.
 - `vivo_global_en` Add several models.
 ### 2026-03-06
 - `apple_en` Add iPhone 17e, iPad Air (M4).

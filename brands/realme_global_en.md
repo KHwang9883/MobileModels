@@ -559,6 +559,10 @@
 
 `RMX5020`: realme C75x
 
+**realme C83:**
+
+`RMX5256`: realme C83 5G
+
 **realme C85:**
 
 `RMX5566`: realme C85
@@ -798,6 +802,10 @@
 **realme NARZO 90x:**
 
 `RMX5264`: realme NARZO 90x 5G
+
+**realme NARZO Power:**
+
+`RMX5107`: realme NARZO Power 5G
 
 ## Tablets
 
