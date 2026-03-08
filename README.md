@@ -74,7 +74,7 @@
 - 将本项目 csv 及脚本迁移至 [此 repo](https://github.com/KHwang9883/MobileModels-csv)，使用 GitHub Actions 自动更新。
 
 ### 2022 年 4 月
-- 新增 [各大手机厂商 BL 解锁/内核开源情况](misc/bootloader-kernel-source.md) 汇总。
+- 新增 [各大 Android 厂商 BL 解锁/内核开源情况](https://github.com/KHwang9883/bootloader-kernel-source) 汇总（已停更）。
 
 ### 2021 年 12 月
 - 新增 [各品牌型号命名规则](misc/naming-rules.md) 汇总。
