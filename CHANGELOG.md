@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-03-09
+- `honor_cn` 新增 荣耀手表 X5i。
 - `huawei_cn` 新增 华为手环 11 系列。
 ### 2026-03-06
 - `apple` 新增 iPhone 17e、iPad Air (M4)。
