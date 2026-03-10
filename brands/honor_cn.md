@@ -156,6 +156,12 @@
 
 `BKQ-AN20`: 荣耀 Magic8 RSR 保时捷设计
 
+**荣耀 Magic V6 (`Phenom`):**
+
+`PNM-AN10`: 荣耀 Magic V6
+
+`PNM-AN20`: 荣耀 Magic V6 (16GB+1TB)
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
