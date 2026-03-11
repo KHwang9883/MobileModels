@@ -118,9 +118,9 @@
 
 `RMX6699`: 真我 GT8
 
-**真我 GT8 Pro (`lafa`):**
+**真我 GT8 Pro / 真我 GT8 Pro 阿斯顿马丁 F1 限量版 (`lafa`):**
 
-`RMX5200`: 真我 GT8 Pro
+`RMX5200`: 真我 GT8 Pro / 真我 GT8 Pro 阿斯顿马丁 F1 限量版
 
 ## Neo 系列
 
@@ -132,9 +132,9 @@
 
 `RMX3350`: 真我 GT Neo 闪速版
 
-**真我 GT Neo2 (`bitra`):**
+**真我 GT Neo2 / 真我 GT Neo2 龙珠定制版 (`bitra`):**
 
-`RMX3370`: 真我 GT Neo2
+`RMX3370`: 真我 GT Neo2 / 真我 GT Neo2 龙珠定制版
 
 **真我 GT Neo2T:**
 
@@ -144,7 +144,7 @@
 
 `RMX3560`: 真我 GT Neo3 80W
 
-`RMX3562`: 真我 GT Neo3 150W
+`RMX3562`: 真我 GT Neo3 150W / 真我 GT Neo3 火影限定版
 
 **真我 GT Neo5 150W (`senna-b`):**
 
@@ -182,7 +182,7 @@
 
 `RMX5071`: 真我 Neo7x
 
-**真我 Neo8:**
+**真我 Neo8 (`u9`):**
 
 `RMX8899`: 真我 Neo8
 
@@ -322,9 +322,9 @@
 
 `RMX5105`: 真我 15
 
-**真我 15 Pro (`neutron`):**
+**真我 15 Pro / 真我 15 Pro 《权力的游戏》限定版 (`neutron`):**
 
-`RMX5100`: 真我 15 Pro
+`RMX5100`: 真我 15 Pro / 真我 15 Pro 《权力的游戏》限定版
 
 **真我 15T (`chopard`):**
 
