@@ -2459,6 +2459,26 @@
 
 `HD85NEWN`: 华为 Vision 智慧屏 5 Pro 85
 
+**华为 Vision 智慧屏 6:**
+
+`HD6XWATN`: 华为 Vision 智慧屏 6 65
+
+`HD7XWATN`: 华为 Vision 智慧屏 6 75
+
+`HD8XWATN`: 华为 Vision 智慧屏 6 85
+
+`HD9XWATN`: 华为 Vision 智慧屏 6 98
+
+**华为 Vision 智慧屏 6 SE:**
+
+`HD55KLY26A`: 华为 Vision 智慧屏 6 SE 55
+
+`HD65KLY26A`: 华为 Vision 智慧屏 6 SE 65
+
+`HD75KLY26A`: 华为 Vision 智慧屏 6 SE 75
+
+`HD85KLY26A`: 华为 Vision 智慧屏 6 SE 85
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
