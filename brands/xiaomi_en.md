@@ -2437,6 +2437,10 @@
 
 `2508CPC2BI`: POCO C85 5G India
 
+**[`P25`] POCO C85x 5G (`somalia`):**
+
+`26020PC1AI`: POCO C85x 5G India
+
 ## Tablets
 
 **[`X6`] Mi Pad (`mocha`):**

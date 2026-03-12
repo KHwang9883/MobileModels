@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-12
+- `xiaomi_en` Add POCO C85x 5G.
 ### 2026-03-08
 - `nothing` Add Nothing Phone (4a).
 - `realme_global_en` Add realme C83 5G, NARZO Power 5G.
