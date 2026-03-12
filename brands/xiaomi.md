@@ -2672,6 +2672,10 @@
 
 `2508CPC2BI`: POCO C85 5G 印度版
 
+**[`P25`] POCO C85x 5G (`somalia`):**
+
+`26020PC1AI`: POCO C85x 5G 印度版
+
 ## POCO 平板
 
 **[`N83P`] POCO Pad (`dizi`):**
