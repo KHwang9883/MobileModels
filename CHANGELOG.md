@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-03-16
+- `xiaomi-wear` 新增 Xiaomi Watch S5。
 ### 2026-03-12
 - `xiaomi` 新增 POCO C85x 5G。
 ### 2026-03-11

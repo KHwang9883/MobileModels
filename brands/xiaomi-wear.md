@@ -201,6 +201,12 @@
 
 `M2412W1`: 小米腕部血压记录仪 (Xiaomi Watch H1 E)
 
+**[`P62`] Xiaomi Watch S5:**
+
+`M2530W1`: Xiaomi Watch S5 蓝牙版
+
+`M2517W1`: Xiaomi Watch S5 eSIM 版
+
 ## 小米智能眼镜
 
 **[`O95`] Xiaomi AI Glasses:**
