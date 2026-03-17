@@ -130,6 +130,12 @@
 
 `PKH120`: OPPO Find N5 卫星通信版
 
+**OPPO Find N6:**
+
+`PLP110`: OPPO Find N6
+
+`PLP120`: OPPO Find N6 卫星通信版
+
 ## Reno 系列
 
 **OPPO Reno:**

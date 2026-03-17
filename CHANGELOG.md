@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-03-17
+- `oppo_cn` 新增 OPPO Find N6。
 ### 2026-03-16
 - `xiaomi-wear` 新增 Xiaomi Watch S5。
 ### 2026-03-12
