@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-17
+- `oppo_global_en` Add OPPO Find N6.
 ### 2026-03-12
 - `xiaomi_en` Add POCO C85x 5G.
 ### 2026-03-08

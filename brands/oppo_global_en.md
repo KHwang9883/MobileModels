@@ -93,6 +93,10 @@
 
 `CPH2671`: OPPO Find N5
 
+**OPPO Find N6:**
+
+`CPH2765`: OPPO Find N6
+
 ## Reno series
 
 **OPPO Reno:**
@@ -337,9 +341,9 @@
 
 `CPH2811`: OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 
-**OPPO Reno15 F / OPPO Reno15 FS / OPPO Reno15 C / OPPO Reno15 A:**
+**OPPO Reno15 F / OPPO Reno15 FS / OPPO Reno15c / OPPO Reno15 A:**
 
-`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15 C 5G / OPPO Reno15 A
+`CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G / OPPO Reno15 A
 
 ## F series
 
