@@ -75,3 +75,4 @@
 | REDMI Book 14 2025 (13 代酷睿 FHD+) | `M59A3` | 2025 |
 | REDMI Book 14 2025 (AMD) | `M54` | 2025 |
 | REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
+| Xiaomi Book Pro 14 2026 | `P52` | 2026 |
