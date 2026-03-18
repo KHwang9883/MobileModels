@@ -209,6 +209,14 @@
 
 `TB710FU`: 小新平板 Pro GT
 
+**联想 AI 平板 小新 Pro 13:**
+
+`TB376FC`: 联想 AI 平板 小新 Pro 13
+
+**联想 AI 平板 小新 Pro GT 13:**
+
+`TB378FC`: 联想 AI 平板 小新 Pro GT 13
+
 **小新 Pad Studio (`calla`):**
 
 `TB351FU`: 小新 Pad Studio
@@ -270,6 +278,10 @@
 **拯救者平板 Y700 四代 (`elden`):**
 
 `TB322FC`: 拯救者平板 Y700 四代
+
+**联想 AI 平板 拯救者 Y700 五代 (`baldur`):**
+
+`TB323FU`: 联想 AI 平板 拯救者 Y700 五代
 
 **拯救者平板 Y900 (`inception`):**
 
