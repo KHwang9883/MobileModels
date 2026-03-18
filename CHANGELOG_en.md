@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-03-18
+- `oneplus_en` Add OnePlus 15T.
 - `vivo_global_en` Add several new models.
 ### 2026-03-17
 - `oppo_global_en` Add OPPO Find N6.
