@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-18
+- `vivo_global_en` Add several new models.
 ### 2026-03-17
 - `oppo_global_en` Add OPPO Find N6.
 ### 2026-03-12

@@ -421,6 +421,14 @@
 
 `V2504`: vivo T4 Ultra
 
+**vivo T5 Pro:**
+
+`V2568`: vivo T5 Pro
+
+**vivo T5x 5G:**
+
+`V2545`: vivo T5x 5G
+
 ## vivo Y series
 
 **vivo Y1s (`PD2014F`):**
@@ -1074,6 +1082,10 @@
 `I2410`: iQOO Z10R 5G India
 
 `I2505`: iQOO Z10R 5G Global
+
+**iQOO Z11 5G:**
+
+`I2512`: iQOO Z11 5G
 
 **iQOO Z11x 5G:**
 
