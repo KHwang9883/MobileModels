@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-19
+- `realme_global_en` Add realme P4 Lite 5G.
 ### 2026-03-18
 - `oneplus_en` Add OnePlus 15T.
 - `vivo_global_en` Add several new models.

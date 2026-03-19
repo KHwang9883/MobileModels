@@ -147,13 +147,13 @@
 
 `RMX3630`: realme 10
 
-**realme 10 Pro 5G:**
+**realme 10 Pro 5G (`luigi`):**
 
 `RMX3660`: realme 10 Pro 5G India
 
 `RMX3661`: realme 10 Pro 5G Global
 
-**realme 10 Pro+ 5G:**
+**realme 10 Pro+ 5G (`garen`):**
 
 `RMX3686`: realme 10 Pro+ 5G
 
@@ -655,6 +655,10 @@
 
 `RMX5313`: realme P4 Lite
 
+**realme P4 Lite 5G:**
+
+`RMX5261`: realme P4 Lite 5G
+
 ## Narzo series
 
 **realme Narzo (`nemo`):**
@@ -821,7 +825,7 @@
 
 `RMP2106`: realme Pad mini Wi-Fi
 
-**realme Pad X:**
+**realme Pad X (`tyr`):**
 
 `RMP2107`: realme Pad X 5G
 
