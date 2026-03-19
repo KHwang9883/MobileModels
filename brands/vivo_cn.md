@@ -250,6 +250,16 @@
 
 `V2502DA`: vivo X300 Pro 卫星通信版
 
+**vivo X300s (`PD2548`):**
+
+`V2548A`: vivo X300s
+
+**vivo X300 Ultra (`PD2547`):**
+
+`V2547A`: vivo X300 Ultra
+
+`V2547DA`: vivo X300 Ultra 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -1198,6 +1208,14 @@
 
 `V2536A`: iQOO Z11 Turbo
 
+**iQOO Z11 (`PD2551`):**
+
+`V2551A`: iQOO Z11
+
+**iQOO Z11x (`PD2532`):**
+
+`V2532A`: iQOO Z11x
+
 ## iQOO U 系列
 
 **iQOO U1 (`PD2023`):**
@@ -1270,6 +1288,10 @@
 
 `PA2511`: vivo Pad SE
 
+**vivo Pad6 Pro:**
+
+`PA2671`: vivo Pad6 Pro
+
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
@@ -1297,6 +1319,10 @@
 **iQOO Pad5e (`DPD2345`):**
 
 `iPA2537`: iQOO Pad5e
+
+**iQOO Pad6 Pro:**
+
+`iPA2673`: iQOO Pad6 Pro
 
 ## 穿戴设备
 
