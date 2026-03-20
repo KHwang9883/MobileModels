@@ -139,7 +139,7 @@
 
 `RMX3393`: realme 9 Pro+ 5G Global
 
-**realme 9 5G Speed Edition:**
+**realme 9 5G Speed Edition (`ice`):**
 
 `RMX3461`: realme 9 5G Speed Edition India
 
@@ -147,11 +147,11 @@
 
 `RMX3630`: realme 10
 
-**realme 10 Pro 5G (`luigi`):**
+**realme 10 Pro 5G / realme 10 Pro 5G Coca-Cola® Edition (`luigi`):**
 
-`RMX3660`: realme 10 Pro 5G India
+`RMX3660`: realme 10 Pro 5G India / realme 10 Pro 5G Coca-Cola® Edition
 
-`RMX3661`: realme 10 Pro 5G Global
+`RMX3661`: realme 10 Pro 5G Global / realme 10 Pro 5G Coca-Cola® Edition
 
 **realme 10 Pro+ 5G (`garen`):**
 
@@ -257,9 +257,9 @@
 
 `RMX5106`: realme 15 5G
 
-**realme 15 Pro 5G (`neutron`):**
+**realme 15 Pro 5G / realme 15 Pro 5G Game of Thrones Limited Edition (`neutron`):**
 
-`RMX5101`: realme 15 Pro 5G
+`RMX5101`: realme 15 Pro 5G / realme 15 Pro 5G Game of Thrones Limited Edition
 
 **realme 15T 5G (`chopard`):**
 
@@ -277,11 +277,11 @@
 
 `RMX5171`: realme 16 5G
 
-**realme 16 Pro 5G:**
+**realme 16 Pro 5G (`iwc`):**
 
 `RMX5120`: realme 16 Pro 5G
 
-**realme 16 Pro+ 5G:**
+**realme 16 Pro+ 5G (`zenith`):**
 
 `RMX5131`: realme 16 Pro+ 5G
 
@@ -359,7 +359,7 @@
 
 `RMX3311` `RMX3312`: realme GT 2 5G
 
-**realme GT 2 Pro:**
+**realme GT 2 Pro (`ferrari`):**
 
 `RMX3301`: realme GT 2 Pro 5G
 
@@ -373,29 +373,37 @@
 
 `RMX3371`: realme GT NEO 3T
 
+**realme GT Neo5 SE (`senna-a`):**
+
+`RMX3701`: realme GT Neo5 SE
+
 **realme GT 3 (`senna-c`):**
 
 `RMX3709`: realme GT 3 240W
 
-**realme GT 6:**
+**realme GT 6 (`bale-b`):**
 
 `RMX3851`: realme GT 6
 
-**realme GT 6T:**
+**realme GT 6T (`bale-a`):**
 
 `RMX3853`: realme GT 6T
 
-**realme GT 7 (`cayman-b`):**
+**realme GT 7 / realme GT 7 Dream Edition (`cayman-b`):**
 
-`RMX5061`: realme GT 7
+`RMX5061`: realme GT 7 / realme GT 7 Dream Edition
 
 **realme GT 7T (`brz-b`):**
 
 `RMX5085`: realme GT 7T
 
-**realme GT 7 Pro:**
+**realme GT 7 Pro (`pista`):**
 
 `RMX5011`: realme GT 7 Pro
+
+**realme GT 8 Pro / realme GT 8 Pro Dream Edition (`lafa`):**
+
+`RMX5210`: realme GT 8 Pro / realme GT 8 Pro Dream Edition
 
 ## C series
 
@@ -611,7 +619,7 @@
 
 `RMX5004`: realme P1 Speed 5G
 
-**realme P2 Pro:**
+**realme P2 Pro (`amber-x`):**
 
 `RMX3987`: realme P2 Pro 5G
 
