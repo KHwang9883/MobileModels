@@ -153,7 +153,7 @@
 
 `RMX3661`: realme 10 Pro 5G Global / realme 10 Pro 5G Coca-Cola® Edition
 
-**realme 10 Pro+ 5G (`garen`):**
+**realme 10 Pro+ 5G (`roma`):**
 
 `RMX3686`: realme 10 Pro+ 5G
 
