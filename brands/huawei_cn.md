@@ -237,7 +237,7 @@
 
 **HUAWEI Mate 80 Pro Max (`Sagittarius`):**
 
-`SGT-AL10`: HUAWEI Mate 80 Pro Max
+`SGT-AL10`: HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版
 
 **HUAWEI Mate 80 RS 非凡大师 (`SagittariusU`):**
 
@@ -275,7 +275,7 @@
 
 `GRL-AL10`: HUAWEI Mate XT 非凡大师
 
-**HUAWEI Mate X6 (`Iceland`):**
+**HUAWEI Mate X6 (`Icelan`):**
 
 `ICL-AL10`: HUAWEI Mate X6
 
@@ -1104,6 +1104,18 @@
 **华为畅享 80 (`Judy`):**
 
 `JUY-AL00`: 华为畅享 80
+
+**华为畅享 90 (`Judy`):**
+
+`JUY-AL80`: 华为畅享 90
+
+**华为畅享 90 Plus (`Judy`):**
+
+`JUY-AL50`: 华为畅享 90 Plus
+
+**华为畅享 90 Pro Max (`Chenzhen`):**
+
+`CHZ-AL00`: 华为畅享 90 Pro Max
 
 ## 华为平板 M 系列
 
