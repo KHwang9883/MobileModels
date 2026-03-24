@@ -102,6 +102,16 @@
 
 `PLG120`: OPPO Find X9 Pro 卫星通信版
 
+**OPPO Find X9s Pro:**
+
+`PME110`: OPPO Find X9s Pro
+
+**OPPO Find X9 Ultra:**
+
+`PMA110`: OPPO Find X9 Ultra
+
+`PMA120`: OPPO Find X9 Ultra 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -626,13 +636,17 @@
 
 `PKW120`: OPPO A6i
 
-**OPPO A6s / OPPO A6i+:**
+**OPPO A6s / OPPO A6i+ / OPPO A6k:**
 
-`PLT120`: OPPO A6s / OPPO A6i+
+`PLT120`: OPPO A6s / OPPO A6i+ / OPPO A6k
 
 **OPPO A6v:**
 
 `PLT130`: OPPO A6v
+
+**OPPO A6x:**
+
+`PLT140`: OPPO A6x
 
 **OPPO A6c:**
 
