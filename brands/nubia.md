@@ -254,6 +254,10 @@
 
 `Z2465N`: nubia Neo 3 GT 5G
 
+**nubia Neo 5 GT:**
+
+`Z2570N`: nubia Neo 5 GT 5G
+
 **nubia Music:**
 
 `Z2353`: nubia Music
@@ -274,6 +278,10 @@
 
 `Z2463N`: nubia Focus 2 Ultra 5G
 
+**nubia Fold:**
+
+`A502ZT`: nubia Fold SoftBank
+
 **nubia Air:**
 
 `Z2468N`: nubia Air
@@ -289,6 +297,8 @@
 **nubia A76:**
 
 `Z2474` `Z6657CA`: nubia A76
+
+`Z2469N`: nubia A76 5G
 
 **nubia V50 Vita:**
 
