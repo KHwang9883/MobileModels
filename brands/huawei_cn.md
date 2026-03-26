@@ -2343,6 +2343,16 @@
 
 `HD9XAJMS`: 华为智慧屏 S6 Pro 98
 
+**华为智慧屏 S7 Pro:**
+
+`HD6XNEWN`: 华为智慧屏 S7 Pro 65
+
+`HD7XNEWN`: 华为智慧屏 S7 Pro 75
+
+`HD8XNEWN`: 华为智慧屏 S7 Pro 85
+
+`HD9XNEWN`: 华为智慧屏 S7 Pro 98
+
 **华为智慧屏 SE 系列:**
 
 `HD55DESA`: 华为智慧屏 SE 55 (2GB+16GB)
