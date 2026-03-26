@@ -626,6 +626,14 @@
 
 `V2279A`: vivo Y55t 5G
 
+**vivo Y60 (`PD2559`):**
+
+`V2559A`: vivo Y60 5G
+
+**vivo Y60m (`PD2559`):**
+
+`V2559BA`: vivo Y60m 5G
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G
@@ -808,9 +816,9 @@
 
 `V2516A`: vivo Y500 Pro
 
-**vivo Y500i (`PD2531`):**
+**vivo Y500i / vivo Y500s (`PD2531`):**
 
-`V2531A`: vivo Y500i
+`V2531A`: vivo Y500i / vivo Y500s
 
 ## vivo T 系列
 
