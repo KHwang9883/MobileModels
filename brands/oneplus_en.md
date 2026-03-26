@@ -359,7 +359,7 @@
 
 `CPH2771`: OnePlus 15R North America
 
-**OnePlus 15T:**
+**OnePlus 15T (`fairlady`):**
 
 `PLZ110`: OnePlus 15T China
 
