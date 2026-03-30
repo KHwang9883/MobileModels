@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-03-30
+- `oppo_cn` 新增 OPPO K15 Pro 系列、OPPO Pad 5 Pro/Pad Mini。
 ### 2026-03-26
 - `huawei_cn` 新增 华为智慧屏 S7 Pro。
 - `vivo_cn` 新增 vivo Y500s、Y60/Y60m 5G。

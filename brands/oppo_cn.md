@@ -746,6 +746,14 @@
 
 `PLE110`: OPPO K13 Turbo Pro
 
+**OPPO K15 Pro:**
+
+`PMH110`: OPPO K15 Pro
+
+**OPPO K15 Pro+:**
+
+`PMG110`: OPPO K15 Pro+
+
 ## 平板电脑
 
 **OPPO Pad:**
@@ -787,6 +795,14 @@
 **OPPO Pad Air5:**
 
 `OPD2501`: OPPO Pad Air5
+
+**OPPO Pad 5 Pro:**
+
+`OPD2511`: OPPO Pad 5 Pro
+
+**OPPO Pad Mini:**
+
+`OPD2515`: OPPO Pad Mini
 
 ## Watch/Band 系列
 
