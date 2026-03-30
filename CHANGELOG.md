@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-03-30
+- `honor_cn` 新增 荣耀 X80i、荣耀 MagicBook 2026 系列。
 - `oppo_cn` 新增 OPPO K15 Pro 系列、OPPO Pad 5 Pro/Pad Mini。
 ### 2026-03-26
 - `huawei_cn` 新增 华为智慧屏 S7 Pro。
