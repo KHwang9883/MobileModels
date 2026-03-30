@@ -351,6 +351,12 @@
 
 `NLA-LX1` `NLA-LX2P`: HONOR X5c Plus
 
+**HONOR X5d:**
+
+`NAA-LX2`: HONOR X5d
+
+`NAA-LX2P`: HONOR X5d Plus
+
 **HONOR X6 (`Vinnie`):**
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
