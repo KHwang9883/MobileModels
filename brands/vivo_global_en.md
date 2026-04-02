@@ -805,7 +805,7 @@
 
 **vivo Y51 Pro 5G:**
 
-`V2544`: vivo Y51 Pro 5G
+`V2544` `V2613`: vivo Y51 Pro 5G
 
 **vivo Y52 5G (`PD2069F`):**
 
@@ -1097,13 +1097,21 @@
 
 `V2427`: JOVI V50
 
-**JOVI V50 Lite (`PD2447F`):**
+**JOVI V50 Lite 5G (`PD2447F`):**
 
 `V2440`: JOVI V50 Lite 5G
+
+**JOVI V70 5G:**
+
+`J2507`: JOVI V70 5G
 
 **JOVI Y19s (`PD2420F`):**
 
 `V2425` `V2454`: JOVI Y19s
+
+**JOVI Y21:**
+
+`J2503`: JOVI Y21
 
 **JOVI Y21 5G:**
 
@@ -1116,6 +1124,10 @@
 **JOVI Y29s 5G:**
 
 `V2459`: JOVI Y29s 5G
+
+**JOVI Y31 (`PD2533HF`):**
+
+`J2506`: JOVI Y31
 
 **JOVI Y39 5G (`PD2444F`):**
 

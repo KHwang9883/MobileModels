@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-02
+- `vivo_global_en` Add several new models.
 ### 2026-03-30
 - `honor_global_en` Add HONOR X5d.
 ### 2026-03-19
