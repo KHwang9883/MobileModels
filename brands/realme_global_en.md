@@ -581,6 +581,14 @@
 
 `RMX5555`: realme C85 Pro
 
+**realme C100:**
+
+`RMX5258`: realme C100 5G
+
+**realme C100i:**
+
+`RMX5377`: realme C100i
+
 ## Note series
 
 **realme Note 50:**
@@ -598,6 +606,10 @@
 **realme Note 70 / realme Note 70T:**
 
 `RMX5313`: realme Note 70 / realme Note 70T
+
+**realme Note 80:**
+
+`RMX5388`: realme Note 80
 
 ## U series
 

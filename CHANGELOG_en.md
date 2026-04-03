@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-04
+- `realme_global_en` Add realme C100, Note 80.
 ### 2026-04-02
 - `vivo_global_en` Add several new models.
 ### 2026-03-30
