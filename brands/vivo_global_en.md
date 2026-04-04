@@ -429,6 +429,14 @@
 
 `V2545`: vivo T5x 5G
 
+**vivo T5 Lite 5G:**
+
+`V2603`: vivo T5 Lite 5G
+
+**vivo T5 Lite 44W 5G:**
+
+`V2557`: vivo T5 Lite 44W 5G
+
 ## vivo Y series
 
 **vivo Y1s (`PD2014F`):**
@@ -1090,6 +1098,14 @@
 **iQOO Z11x 5G:**
 
 `I2507`: iQOO Z11x 5G
+
+**iQOO Z11 Lite 5G:**
+
+`I2510`: iQOO Z11 Lite 5G
+
+**iQOO Z11 Lite 44W 5G:**
+
+`I2515`: iQOO Z11 Lite 44W 5G
 
 ## JOVI Smartphones
 
