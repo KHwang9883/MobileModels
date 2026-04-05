@@ -86,11 +86,9 @@
 
 `RMX3551`: 真我 GT2 大师探索版
 
-**真我 GT5 150W (`zonda-a`):**
+**真我 GT5 (`zonda-a`) / 真我 GT5 240W (`zonda-b`):**
 
-`RMX3820`: 真我 GT5 150W
-
-**真我 GT5 240W (`zonda-b`):**
+`RMX3820`: 真我 GT5
 
 `RMX3823`: 真我 GT5 240W
 
@@ -102,7 +100,7 @@
 
 `RMX3800`: 真我 GT6
 
-**真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版 (`targa`):**
+**真我 GT7 (`targa`):**
 
 `RMX6688`: 真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版
 
@@ -118,7 +116,7 @@
 
 `RMX6699`: 真我 GT8
 
-**真我 GT8 Pro / 真我 GT8 Pro 阿斯顿马丁 F1 限量版 (`lafa`):**
+**真我 GT8 Pro (`lafa`):**
 
 `RMX5200`: 真我 GT8 Pro / 真我 GT8 Pro 阿斯顿马丁 F1 限量版
 
@@ -132,7 +130,7 @@
 
 `RMX3350`: 真我 GT Neo 闪速版
 
-**真我 GT Neo2 / 真我 GT Neo2 龙珠定制版 (`bitra`):**
+**真我 GT Neo2 (`bitra`):**
 
 `RMX3370`: 真我 GT Neo2 / 真我 GT Neo2 龙珠定制版
 
@@ -140,17 +138,15 @@
 
 `RMX3357`: 真我 GT Neo2T
 
-**真我 GT Neo3:**
+**真我 GT Neo3 (`lisa-a`) / 真我 GT Neo3 150W (`lisa-b`):**
 
-`RMX3560`: 真我 GT Neo3 80W
+`RMX3560`: 真我 GT Neo3
 
 `RMX3562`: 真我 GT Neo3 150W / 真我 GT Neo3 火影限定版
 
-**真我 GT Neo5 150W (`senna-b`):**
+**真我 GT Neo5 (`senna-b`) / 真我 GT Neo5 240W (`senna-c`):**
 
-`RMX3706`: 真我 GT Neo5 150W
-
-**真我 GT Neo5 240W (`senna-c`):**
+`RMX3706`: 真我 GT Neo5
 
 `RMX3708`: 真我 GT Neo5 240W
 
@@ -158,7 +154,7 @@
 
 `RMX3700`: 真我 GT Neo5 SE
 
-**真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒 (`bale-b`):**
+**真我 GT Neo6 (`bale-b`):**
 
 `RMX3852`: 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒
 
@@ -166,13 +162,13 @@
 
 `RMX3850`: 真我 GT Neo6 SE
 
-**真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒 (`cayman-a`):**
+**真我 Neo7 (`cayman-a`):**
 
 `RMX5060`: 真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒
 
 **真我 Neo7 Turbo (`cayman-c`):**
 
-`RMX5062`: 真我 Neo7 Turbo
+`RMX5062`: 真我 Neo7 Turbo / 真我 Neo7 Turbo AI版
 
 **真我 Neo7 SE (`brz-a`):**
 
@@ -240,17 +236,17 @@
 
 `RMX3574`: 真我 Q5i
 
-**真我 Q5x:**
+**真我 Q5x (`blade`):**
 
 `RMX3616`: 真我 Q5x
 
 ## 数字系列
 
-**真我 10:**
+**真我 10 (`blade`):**
 
 `RMX3615`: 真我 10
 
-**真我 10s:**
+**真我 10s (`blade`):**
 
 `RMX3617`: 真我 10s
 
@@ -322,7 +318,7 @@
 
 `RMX5105`: 真我 15
 
-**真我 15 Pro / 真我 15 Pro 《权力的游戏》限定版 (`neutron`):**
+**真我 15 Pro (`neutron`):**
 
 `RMX5100`: 真我 15 Pro / 真我 15 Pro 《权力的游戏》限定版
 
@@ -378,27 +374,27 @@
 
 `RMX3093`: 真我 V15 5G 运营商定制版
 
-**真我 V20:**
+**真我 V20 (`blade`):**
 
 `RMX3610` `RMX3611`: 真我 V20
 
-**真我 V23:**
+**真我 V23 (`alice`):**
 
 `RMX3571`: 真我 V23
 
-**真我 V23i:**
+**真我 V23i (`alice`):**
 
 `RMX3576`: 真我 V23i
 
-**真我 V25:**
+**真我 V25 (`oscar`):**
 
 `RMX3475`: 真我 V25
 
-**真我 V30:**
+**真我 V30 (`blade`):**
 
 `RMX3619`: 真我 V30
 
-**真我 V30t:**
+**真我 V30t (`blade`):**
 
 `RMX3618`: 真我 V30t
 
