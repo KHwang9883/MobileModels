@@ -86,9 +86,11 @@
 
 `RMX3551`: 真我 GT2 大师探索版
 
-**真我 GT5 (`zonda-a`) / 真我 GT5 240W (`zonda-b`):**
+**真我 GT5 (`zonda-a`)**
 
 `RMX3820`: 真我 GT5
+
+**真我 GT5 240W (`zonda-b`):**
 
 `RMX3823`: 真我 GT5 240W
 
@@ -138,15 +140,19 @@
 
 `RMX3357`: 真我 GT Neo2T
 
-**真我 GT Neo3 (`lisa-a`) / 真我 GT Neo3 150W (`lisa-b`):**
+**真我 GT Neo3 (`lisa-a`):**
 
 `RMX3560`: 真我 GT Neo3
 
+**真我 GT Neo3 150W (`lisa-b`):**
+
 `RMX3562`: 真我 GT Neo3 150W / 真我 GT Neo3 火影限定版
 
-**真我 GT Neo5 (`senna-b`) / 真我 GT Neo5 240W (`senna-c`):**
+**真我 GT Neo5 (`senna-b`):**
 
 `RMX3706`: 真我 GT Neo5
+
+**真我 GT Neo5 240W (`senna-c`):**
 
 `RMX3708`: 真我 GT Neo5 240W
 
