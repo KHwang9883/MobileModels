@@ -147,7 +147,7 @@
 
 `RMX3630`: realme 10
 
-**realme 10 Pro 5G / realme 10 Pro 5G Coca-Cola® Edition (`luigi`):**
+**realme 10 Pro 5G (`luigi`):**
 
 `RMX3660`: realme 10 Pro 5G India / realme 10 Pro 5G Coca-Cola® Edition
 
@@ -173,11 +173,11 @@
 
 `RMX3785`: realme 11x 5G
 
-**realme 11 Pro 5G:**
+**realme 11 Pro 5G (`chengdu-b`):**
 
 `RMX3771`: realme 11 Pro 5G
 
-**realme 11 Pro+ 5G:**
+**realme 11 Pro+ 5G (`chengdu`):**
 
 `RMX3741`: realme 11 Pro+ 5G
 
@@ -209,19 +209,19 @@
 
 `RMX3871`: realme 13 4G
 
-**realme 13 5G:**
+**realme 13 5G (`barley-x`):**
 
 `RMX3951`: realme 13 5G
 
-**realme 13+ 5G:**
+**realme 13+ 5G (`casio`):**
 
 `RMX5000`: realme 13+ 5G
 
-**realme 13 Pro 5G / realme 14 Pro Lite 5G:**
+**realme 13 Pro 5G / realme 14 Pro Lite 5G (`amber-n`):**
 
 `RMX3990`: realme 13 Pro 5G / realme 14 Pro Lite 5G
 
-**realme 13 Pro+ 5G:**
+**realme 13 Pro+ 5G (`amber`):**
 
 `RMX3921`: realme 13 Pro+ 5G
 
@@ -229,7 +229,7 @@
 
 `RMX5070`: realme 14 5G Global
 
-**realme 14x 5G:**
+**realme 14x 5G (`rado`):**
 
 `RMX3940`: realme 14x 5G India
 
@@ -241,7 +241,7 @@
 
 `RMX5078`: realme 14T 5G India
 
-**realme 14 Pro 5G:**
+**realme 14 Pro 5G (`casio-x`):**
 
 `RMX5056`: realme 14 Pro 5G India
 
@@ -253,11 +253,11 @@
 
 `RMX5054`: realme 14 Pro+ 5G Global
 
-**realme 15 5G:**
+**realme 15 5G (`casio-y`):**
 
 `RMX5106`: realme 15 5G
 
-**realme 15 Pro 5G / realme 15 Pro 5G Game of Thrones Limited Edition (`neutron`):**
+**realme 15 Pro 5G (`neutron`):**
 
 `RMX5101`: realme 15 Pro 5G / realme 15 Pro 5G Game of Thrones Limited Edition
 
@@ -265,7 +265,7 @@
 
 `RMX5111`: realme 15T 5G
 
-**realme 15 Lite 5G:**
+**realme 15 Lite 5G (`casio`):**
 
 `RMX5000`: realme 15 Lite 5G
 
@@ -363,9 +363,11 @@
 
 `RMX3301`: realme GT 2 Pro 5G
 
-**realme GT NEO 3:**
+**realme GT NEO 3 (`lisa-a`):**
 
 `RMX3561`: realme GT NEO 3
+
+**realme GT NEO 3 150W (`lisa-b`):**
 
 `RMX3563`: realme GT NEO 3 150W
 
@@ -381,15 +383,15 @@
 
 `RMX3709`: realme GT 3 240W
 
-**realme GT 6 (`bale-b`):**
+**realme GT 6 (`bale-c`):**
 
 `RMX3851`: realme GT 6
 
-**realme GT 6T (`bale-a`):**
+**realme GT 6T (`bale-d`):**
 
 `RMX3853`: realme GT 6T
 
-**realme GT 7 / realme GT 7 Dream Edition (`cayman-b`):**
+**realme GT 7 (`cayman-b`):**
 
 `RMX5061`: realme GT 7 / realme GT 7 Dream Edition
 
@@ -401,7 +403,7 @@
 
 `RMX5011`: realme GT 7 Pro
 
-**realme GT 8 Pro / realme GT 8 Pro Dream Edition (`lafa`):**
+**realme GT 8 Pro (`lafa`):**
 
 `RMX5210`: realme GT 8 Pro / realme GT 8 Pro Dream Edition
 
@@ -619,7 +621,7 @@
 
 ## P series
 
-**realme P1:**
+**realme P1 (`tacoo-c`):**
 
 `RMX3870`: realme P1 5G
 
@@ -627,7 +629,7 @@
 
 `RMX3844`: realme P1 Pro 5G
 
-**realme P1 Speed:**
+**realme P1 Speed (`casio`):**
 
 `RMX5004`: realme P1 Speed 5G
 
@@ -639,23 +641,23 @@
 
 `RMX5070` `RMX5079`: realme P3 5G
 
-**realme P3x:**
+**realme P3x (`rado`):**
 
 `RMX3944`: realme P3x 5G
 
-**realme P3 Pro:**
+**realme P3 Pro (`piaget-p`):**
 
 `RMX5032`: realme P3 Pro 5G
 
-**realme P3 Ultra:**
+**realme P3 Ultra (`yamaha`):**
 
 `RMX5030` `RMX5031`: realme P3 Ultra 5G
 
-**realme P3 Lite:**
+**realme P3 Lite (`rado`):**
 
 `RMX3943`: realme P3 Lite 5G
 
-**realme P4:**
+**realme P4 (`casio-p`):**
 
 `RMX5110`: realme P4 5G
 
@@ -663,11 +665,11 @@
 
 `RMX5116`: realme P4 Pro 5G
 
-**realme P4x:**
+**realme P4x (`suzuki`):**
 
 `RMX5108`: realme P4x 5G
 
-**realme P4 Power:**
+**realme P4 Power (`casio-m`):**
 
 `RMX5107`: realme P4 Power 5G
 
@@ -729,7 +731,7 @@
 
 `RMX3286`: realme Narzo 50
 
-**realme Narzo 50 5G:**
+**realme Narzo 50 5G (`alice`):**
 
 `RMX3571`: realme Narzo 50 5G India
 
@@ -803,7 +805,7 @@
 
 `RMX3998`: realme NARZO 70x 5G
 
-**realme NARZO 70 Turbo:**
+**realme NARZO 70 Turbo (`casio`):**
 
 `RMX5003`: realme NARZO 70 Turbo 5G
 
@@ -811,7 +813,7 @@
 
 `RMX5033`: realme NARZO 80 Pro 5G
 
-**realme NARZO 80x:**
+**realme NARZO 80x (`rado`):**
 
 `RMX3944`: realme NARZO 80x 5G
 
