@@ -640,6 +640,10 @@
 
 `PLT120`: OPPO A6s / OPPO A6i+ / OPPO A6k
 
+**OPPO A6s Pro:**
+
+`PMT110`: OPPO A6s Pro
+
 **OPPO A6v:**
 
 `PLT130`: OPPO A6v
