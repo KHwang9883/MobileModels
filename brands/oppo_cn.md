@@ -92,11 +92,11 @@
 
 `PKU110`: OPPO Find X8 Ultra 卫星通信版
 
-**OPPO Find X9:**
+**OPPO Find X9 (`zhujiang`):**
 
 `PLJ110`: OPPO Find X9
 
-**OPPO Find X9 Pro:**
+**OPPO Find X9 Pro (`changjiang`):**
 
 `PLG110`: OPPO Find X9 Pro
 
@@ -140,7 +140,7 @@
 
 `PKH120`: OPPO Find N5 卫星通信版
 
-**OPPO Find N6:**
+**OPPO Find N6 (`swangoose`):**
 
 `PLP110`: OPPO Find N6
 
@@ -608,7 +608,7 @@
 
 `PKQ110`: OPPO A5 5G (2025) / OPPO A6 Plus
 
-**OPPO A5 活力版:**
+**OPPO A5 活力版 (`alpha-l5`):**
 
 `PKV110`: OPPO A5 活力版
 
@@ -624,7 +624,7 @@
 
 `PLS120`: OPPO A6
 
-**OPPO A6 GT / OPPO A6 Max / OPPO A6l:**
+**OPPO A6 GT / OPPO A6 Max / OPPO A6l (`baikal-h`):**
 
 `PLL110`: OPPO A6 GT / OPPO A6 Max / OPPO A6l
 
@@ -682,7 +682,7 @@
 
 `PERM00`: OPPO K7x
 
-**OPPO K9:**
+**OPPO K9 (`ciri`):**
 
 `PEXM00`: OPPO K9
 
@@ -718,11 +718,11 @@
 
 `PHF110`: OPPO K11x
 
-**OPPO K12:**
+**OPPO K12 (`benz`):**
 
 `PJR110`: OPPO K12
 
-**OPPO K12 Plus:**
+**OPPO K12 Plus (`jeep`):**
 
 `PKS110`: OPPO K12 Plus
 
@@ -730,15 +730,15 @@
 
 `PJT110`: OPPO K12x
 
-**OPPO K12s:**
+**OPPO K12s (`knight-l`):**
 
 `PLD110`: OPPO K12s
 
-**OPPO K13s:**
+**OPPO K13s (`baikal-h`):**
 
 `PLL110`: OPPO K13s
 
-**OPPO K13x:**
+**OPPO K13x (`alpha-l5`):**
 
 `PKV110`: OPPO K13x
 
@@ -746,15 +746,15 @@
 
 `PLM110`: OPPO K13 Turbo
 
-**OPPO K13 Turbo:**
+**OPPO K13 Turbo Pro (`knight-h`):**
 
 `PLE110`: OPPO K13 Turbo Pro
 
-**OPPO K15 Pro:**
+**OPPO K15 Pro (`lux-m`):**
 
 `PMH110`: OPPO K15 Pro
 
-**OPPO K15 Pro+:**
+**OPPO K15 Pro+ (`lux-h`):**
 
 `PMG110`: OPPO K15 Pro+
 
