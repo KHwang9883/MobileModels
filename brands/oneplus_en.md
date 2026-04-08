@@ -359,17 +359,23 @@
 
 `CPH2771`: OnePlus 15R North America
 
-**OnePlus 15T:**
+**OnePlus 15T (`fairlady`):**
 
 `PLZ110`: OnePlus 15T China
 
-**OnePlus Turbo 6 (`volkswagen`):**
+**OnePlus Turbo 6 / OnePlus Nord 6 (`volkswagen`):**
 
 `PLU110`: OnePlus Turbo 6 China
 
-**OnePlus Turbo 6V (`prado`):**
+`CPH2793`: OnePlus Nord 6 India
+
+`CPH2795`: OnePlus Nord 6 Global
+
+**OnePlus Turbo 6V / OnePlus Nord CE 6 (`prado`):**
 
 `PLY110`: OnePlus Turbo 6V China
+
+`CPH2805`: OnePlus Nord CE 6 India
 
 **OnePlus Nord (`avicii`):**
 

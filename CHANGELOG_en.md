@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-08
+- `oneplus_en` Add OnePlus Nord 6.
 ### 2026-04-05
 - `vivo_global_en` Add several new models.
 ### 2026-04-04
