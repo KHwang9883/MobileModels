@@ -304,7 +304,7 @@
 
 `PJJ110`: OPPO Reno11 Pro
 
-**OPPO Reno12 (`omega`) (`omega-c1`):**
+**OPPO Reno12 (`omega`) (`omega-c2`):**
 
 `PJV110`: OPPO Reno12
 
@@ -328,15 +328,15 @@
 
 `PKZ110`: OPPO Reno14 Pro
 
-**OPPO Reno15:**
+**OPPO Reno15 (`whoopass-c2`):**
 
 `PLW110`: OPPO Reno15
 
-**OPPO Reno15 Pro:**
+**OPPO Reno15 Pro (`whoopass-c1`):**
 
 `PLV110`: OPPO Reno15 Pro
 
-**OPPO Reno15c:**
+**OPPO Reno15c (`whoopass-c3`):**
 
 `PMD110`: OPPO Reno15c
 
