@@ -544,15 +544,19 @@
 
 `PELM00`: OPPO A95
 
-**OPPO A96:**
+**OPPO A96 (`mulan`):**
 
-`PFUM10` `PHA120`: OPPO A96
+`PFUM10`: OPPO A96
 
-**OPPO A97:**
+**OPPO A96 (`mulan-a`):**
+
+`PHA120`: OPPO A96
+
+**OPPO A97 (`alice`):**
 
 `PFTM10`: OPPO A97
 
-**OPPO A1:**
+**OPPO A1 (`colombo`):**
 
 `PHS110`: OPPO A1 5G (2023)
 
@@ -560,7 +564,7 @@
 
 `PHQ110`: OPPO A1 Pro
 
-**OPPO A1x / OPPO A1 活力版:**
+**OPPO A1x / OPPO A1 活力版 (`lijing`):**
 
 `PHJ110`: OPPO A1x / OPPO A1 活力版
 
@@ -568,11 +572,11 @@
 
 `PJB110`: OPPO A1s / OPPO A2
 
-**OPPO A1i / OPPO A2m:**
+**OPPO A1i / OPPO A2m (`lijing-a`):**
 
 `PJU110`: OPPO A1i / OPPO A2m
 
-**OPPO A2x:**
+**OPPO A2x (`lijing-a`):**
 
 `PJS110`: OPPO A2x
 
@@ -580,11 +584,11 @@
 
 `PJG110`: OPPO A2 Pro
 
-**OPPO A3 / OPPO A3i Plus:**
+**OPPO A3 / OPPO A3i Plus (`avatar-m`):**
 
 `PKA110`: OPPO A3 5G (2024) / OPPO A3i Plus
 
-**OPPO A3 活力版:**
+**OPPO A3 活力版 (`avatar-l5`):**
 
 `PKD110`: OPPO A3 活力版
 
@@ -592,19 +596,19 @@
 
 `PKD120`: OPPO A3m
 
-**OPPO A3x:**
+**OPPO A3x (`avatar-l5`):**
 
 `PKD130`: OPPO A3x
 
-**OPPO A3i:**
+**OPPO A3i (`avatar-b5`):**
 
 `PKL110`: OPPO A3i
 
-**OPPO A3 Pro / OPPO A5 Plus:**
+**OPPO A3 Pro / OPPO A5 Plus (`avatar-h`):**
 
 `PJY110`: OPPO A3 Pro / OPPO A5 Plus
 
-**OPPO A5 / OPPO A6 Plus:**
+**OPPO A5 / OPPO A6 Plus (`alpha-m`):**
 
 `PKQ110`: OPPO A5 5G (2025) / OPPO A6 Plus
 
@@ -612,7 +616,7 @@
 
 `PKV110`: OPPO A5 活力版
 
-**OPPO A5x / OPPO A5m:**
+**OPPO A5x / OPPO A5m (`alpha-b5`):**
 
 `PKW110`: OPPO A5x / OPPO A5m
 
@@ -620,7 +624,7 @@
 
 `PKP110`: OPPO A5 Pro
 
-**OPPO A6:**
+**OPPO A6 (`baikal-l5`):**
 
 `PLS120`: OPPO A6
 
@@ -628,11 +632,11 @@
 
 `PLL110`: OPPO A6 GT / OPPO A6 Max / OPPO A6l
 
-**OPPO A6 Pro:**
+**OPPO A6 Pro (`baikal-m`):**
 
 `PLN110`: OPPO A6 Pro
 
-**OPPO A6i:**
+**OPPO A6i (`alpha-b5`):**
 
 `PKW120`: OPPO A6i
 
@@ -726,7 +730,7 @@
 
 `PKS110`: OPPO K12 Plus
 
-**OPPO K12x (`avatar-m`):**
+**OPPO K12x (`camry`):**
 
 `PJT110`: OPPO K12x
 
@@ -788,15 +792,15 @@
 
 `OPD2409`: OPPO Pad 4 Pro
 
-**OPPO Pad SE:**
+**OPPO Pad SE (`fiji`):**
 
 `OPD2417`: OPPO Pad SE
 
-**OPPO Pad 5:**
+**OPPO Pad 5 (`himalayan`):**
 
 `OPD2506`: OPPO Pad 5
 
-**OPPO Pad Air5:**
+**OPPO Pad Air5 (`greenland`):**
 
 `OPD2501`: OPPO Pad Air5
 
