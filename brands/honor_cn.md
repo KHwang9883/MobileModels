@@ -1046,6 +1046,10 @@
 
 `LOG-AN00`: 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
 
+**荣耀畅玩 80 Plus:**
+
+`LAB-AN00`: 荣耀畅玩 80 Plus 5G
+
 **荣耀畅玩 80 Pro (`Logan`):**
 
 `LOG-AN10`: 荣耀畅玩 80 Pro 5G
@@ -1179,6 +1183,10 @@
 **荣耀 MagicPad 3 Pro 13.3:**
 
 `YLP-W00`: 荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版
+
+**荣耀 MagicPad 3 Pro 12.3 (`Yongle`):**
+
+`YLE-W09`: 荣耀 MagicPad 3 Pro 12.3 英寸 Wi-Fi 版
 
 ## 荣耀平板 GT 系列
 

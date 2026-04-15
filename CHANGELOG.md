@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-04-15
+- `honor_cn` 新增 荣耀畅玩 80 Plus、荣耀 MagicPad 3 Pro 12.3。
 ### 2026-04-08
 - `oneplus` 新增 OnePlus Nord 6。
 ### 2026-04-03
