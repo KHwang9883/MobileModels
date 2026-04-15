@@ -374,13 +374,23 @@
 
 `L55MC-S`: 小米电视 S55 Mini LED 2026
 
+`L55MC-SD`: 小米电视 S55 Mini LED 2026 至尊版
+
 `L65MC-S`: 小米电视 S65 Mini LED 2026
+
+`L65MC-SD`: 小米电视 S65 Mini LED 2026 至尊版
 
 `L75MC-S`: 小米电视 S75 Mini LED 2026
 
+`L75MC-SD`: 小米电视 S75 Mini LED 2026 至尊版
+
 `L85MC-S`: 小米电视 S85 Mini LED 2026
 
+`L85MC-SD`: 小米电视 S85 Mini LED 2026 至尊版
+
 `L100MC-S`: 小米电视 S100 Mini LED 2026
+
+`L100MC-SD`: 小米电视 S100 Mini LED 2026 至尊版
 
 **小米电视 S Pro:**
 
