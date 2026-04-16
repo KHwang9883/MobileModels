@@ -107,11 +107,11 @@
 
 `RMX3381`: realme 8s 5G
 
-**realme 9:**
+**realme 9 (`messi`):**
 
 `RMX3521`: realme 9
 
-**realme 9i:**
+**realme 9i (`kasa`):**
 
 `RMX3491`: realme 9i India / Global
 
@@ -119,15 +119,19 @@
 
 `RMX3493`: realme 9i EU
 
-`RMX3612`: realme 9i 5G
-
 **realme 9 5G:**
 
 `RMX3388`: realme 9 5G India
 
+**realme 9 5G (`oscar`):**
+
 `RMX3474`: realme 9 5G EU
 
-**realme 9 Pro 5G:**
+**realme 9i 5G (`blade`):**
+
+`RMX3612`: realme 9i 5G
+
+**realme 9 Pro 5G (`oscar`):**
 
 `RMX3471`: realme 9 Pro 5G India
 
@@ -143,7 +147,7 @@
 
 `RMX3461`: realme 9 5G Speed Edition India
 
-**realme 10:**
+**realme 10 (`doki`):**
 
 `RMX3630`: realme 10
 
@@ -157,19 +161,19 @@
 
 `RMX3686`: realme 10 Pro+ 5G
 
-**realme 10T 5G:**
+**realme 10T 5G (`blade`):**
 
 `RMX3612`: realme 10T 5G
 
-**realme 11:**
+**realme 11 (`doki-a`):**
 
 `RMX3636`: realme 11
 
-**realme 11 5G:**
+**realme 11 5G (`chongqing`):**
 
 `RMX3780`: realme 11 5G
 
-**realme 11x 5G:**
+**realme 11x 5G (`chongqing`):**
 
 `RMX3785`: realme 11x 5G
 
@@ -181,7 +185,7 @@
 
 `RMX3741`: realme 11 Pro+ 5G
 
-**realme 12:**
+**realme 12 (`tacoo-f`):**
 
 `RMX3871`: realme 12 4G
 
@@ -193,7 +197,7 @@
 
 `RMX3998`: realme 12x 5G
 
-**realme 12+ 5G:**
+**realme 12+ 5G (`tacoo`):**
 
 `RMX3867`: realme 12+ 5G
 
@@ -205,7 +209,7 @@
 
 `RMX3840`: realme 12 Pro+ 5G
 
-**realme 13:**
+**realme 13 (`tacoo-f`):**
 
 `RMX3871`: realme 13 4G
 
@@ -269,7 +273,7 @@
 
 `RMX5000`: realme 15 Lite 5G
 
-**realme 15x 5G:**
+**realme 15x 5G (`mumbai`):**
 
 `RMX5250`: realme 15x 5G
 
