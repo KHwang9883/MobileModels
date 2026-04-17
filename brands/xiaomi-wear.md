@@ -359,7 +359,7 @@
 
 `TWSEJ01ZM`: Redmi AirDots 3 Pro
 
-**Redmi Buds 3:**
+**[`K77`] Redmi Buds 3:**
 
 `M2104E1`: Redmi Buds 3
 
@@ -446,6 +446,10 @@
 **[`O77S`] REDMI Buds 7S:**
 
 `M2455E1`: REDMI Buds 7S
+
+**[`P77`] REDMI Buds 8:**
+
+`M2544E1`: REDMI Buds 8
 
 **[`P76`] REDMI Buds 8 Pro:**
 

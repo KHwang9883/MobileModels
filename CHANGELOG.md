@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-04-17
+- `xiaomi-wear` 新增 REDMI Buds 8。
 ### 2026-04-15
 - `honor_cn` 新增 荣耀畅玩 80 Plus、荣耀 MagicPad 3 Pro 12.3。
 - `mitv_cn` 新增 小米电视 S Mini LED 2026 至尊版。
