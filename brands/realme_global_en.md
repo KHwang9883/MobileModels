@@ -833,6 +833,10 @@
 
 `RMX5107`: realme NARZO Power 5G
 
+**realme NARZO 100 Lite:**
+
+`RMX5261`: realme NARZO 100 Lite 5G
+
 ## Tablets
 
 **realme Pad:**

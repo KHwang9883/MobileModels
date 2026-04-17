@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-17
+- `realme_global_en` Add realme NARZO 100 Lite 5G.
 ### 2026-04-08
 - `oneplus_en` Add OnePlus Nord 6.
 ### 2026-04-05
