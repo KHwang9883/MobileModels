@@ -363,6 +363,10 @@
 
 `PLZ110`: OnePlus 15T China
 
+**OnePlus Ace 6 Ultra:**
+
+`PMB110`: OnePlus Ace 6 Ultra China
+
 **OnePlus Turbo 6 / OnePlus Nord 6 (`volkswagen`):**
 
 `PLU110`: OnePlus Turbo 6 China
@@ -584,3 +588,7 @@
 `OPWWE251`: OnePlus Watch 3 (Global)
 
 `OPWE242`: OnePlus Watch 3 43mm (Global)
+
+**OnePlus Watch 4:**
+
+`OPWWE261`: OnePlus Watch 4 (Global)
