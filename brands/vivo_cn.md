@@ -626,9 +626,9 @@
 
 `V2279A`: vivo Y55t 5G
 
-**vivo Y60 (`PD2559`):**
+**vivo Y60 / vivo Y6t (`PD2559`):**
 
-`V2559A`: vivo Y60 5G
+`V2559A`: vivo Y60 5G / vivo Y6t 5G
 
 **vivo Y60m (`PD2559`):**
 

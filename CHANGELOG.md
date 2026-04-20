@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-04-20
+- `vivo_cn` 新增 vivo Y6t。
 ### 2026-04-17
 - `oneplus` 新增 一加 Ace 6 至尊版。
 - `xiaomi-wear` 新增 REDMI Buds 8。
