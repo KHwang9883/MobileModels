@@ -2525,6 +2525,16 @@
 
 `HD85KLY26A`: 华为 Vision 智慧屏 6 SE 85
 
+**华为 Vision 智慧屏 6 Pro:**
+
+`HD1XAJMS`: 华为 Vision 智慧屏 6 Pro 65
+
+`HD77AJMS`: 华为 Vision 智慧屏 6 Pro 75
+
+`HD85AJMS`: 华为 Vision 智慧屏 6 Pro 85
+
+`HD98AJMS`: 华为 Vision 智慧屏 6 Pro 98
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
@@ -2620,6 +2630,8 @@
 `EDD-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
 
 `LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
+
+`CHC-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 星钻绽放
 
 **HUAWEI WATCH GT:**
 
