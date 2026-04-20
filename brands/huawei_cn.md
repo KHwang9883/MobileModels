@@ -2721,7 +2721,7 @@
 
 `RUN-B19` `RUN-B29`: HUAWEI WATCH GT Runner
 
-**HUAWEI WATCH GT Runner 2:**
+**HUAWEI WATCH GT Runner 2 (`Chitu`):**
 
 `CHT-B19`: HUAWEI WATCH GT Runner 2
 
