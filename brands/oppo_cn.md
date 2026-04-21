@@ -102,11 +102,11 @@
 
 `PLG120`: OPPO Find X9 Pro 卫星通信版
 
-**OPPO Find X9s Pro:**
+**OPPO Find X9s Pro (`venus`):**
 
 `PME110`: OPPO Find X9s Pro
 
-**OPPO Find X9 Ultra:**
+**OPPO Find X9 Ultra (`lighthouse`):**
 
 `PMA110`: OPPO Find X9 Ultra
 
