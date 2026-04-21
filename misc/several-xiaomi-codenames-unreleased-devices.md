@@ -66,6 +66,8 @@
 
 **[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
 
+`2505DPXD7C`: Xiaomi MIX Flip 2 国行版 (未使用型号)
+
 `2505APX7BG`: Xiaomi MIX Flip 2 国际版 (未上市)
 
 **[`D9P`] 小米平板 4 Plus (`clover`):**
