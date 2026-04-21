@@ -231,11 +231,11 @@
 
 `ALT-NX1` `ALT-NX3`: HONOR 200 Smart
 
-**HONOR 400:**
+**HONOR 400 (`Danny`):**
 
 `DNY-NX9`: HONOR 400
 
-**HONOR 400 Pro:**
+**HONOR 400 Pro (`DannyP`):**
 
 `DNP-NX9`: HONOR 400 Pro
 
@@ -247,7 +247,19 @@
 
 `LGN-NX1` `LGN-NX3`: HONOR 400 Smart
 
-**HONOR 600 Lite / HONOR 600e:**
+**HONOR 500 Smart (`Nala`):**
+
+`NLA-NX1`: HONOR 500 Smart
+
+**HONOR 600 (`Vicky`):**
+
+`VKJ-NX9`: HONOR 600
+
+**HONOR 600 Pro (`VickyP`):**
+
+`VKP-NX9`: HONOR 600 Pro
+
+**HONOR 600 Lite / HONOR 600e (`Luna`):**
 
 `LNA-NX1`: HONOR 600 Lite
 
@@ -451,7 +463,7 @@
 
 `ABR-LX1` `ABR-LX2` `ABR-LX3`: HONOR X8c
 
-**HONOR X8d:**
+**HONOR X8d (`Luna`):**
 
 `LNA-LX2` `LNA-LX3`: HONOR X8d
 
@@ -548,6 +560,12 @@
 `NDL-W09`: HONOR Pad X8a Wi-Fi
 
 `NDL-L03` `NDL-L09`: HONOR Pad X8a LTE
+
+**HONOR Pad X8b (`Nadal2`):**
+
+`NDL2-W09`: HONOR Pad X8b Wi-Fi
+
+`NDL2-L03` `NDL2-L09`: HONOR Pad X8b LTE
 
 **HONOR Pad X9 (`Eileen`):**
 

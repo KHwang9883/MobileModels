@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-04-22
+- `honor_global_en` Add several models and codenames.
 - `mitv_global_en` Add 2026 models.
 - `oppo_global_en` Add OPPO Pad 5.
 ### 2026-04-21
