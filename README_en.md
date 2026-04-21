@@ -37,21 +37,21 @@ Unlisted brands usually not include international models.
 
 ## References
 
-- [TENAA](http://zd.taf.org.cn)
+- [TAF](http://zd.taf.org.cn)
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
-- [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
+- [MIIT](https://ythzxfw.miit.gov.cn/jgcx/index.html)
 - [China Telecom Tianyi Devices](http://surfing.tydevice.com/)
 - [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
-- [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
+- [Bluetooth Qualification Listings](https://qualification.bluetooth.com/Listings/Search)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+- [HONOR Open Source Release Center](https://www.honor.com/global/opensource/)
 - [ReaMEIZU](https://reameizu.com/)
 - [The Apple Wiki](https://theapplewiki.com/)
 - [ipsw.me](https://ipsw.me)
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
-- [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
 - [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 
