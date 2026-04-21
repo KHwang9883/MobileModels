@@ -502,6 +502,16 @@
 
 `25128PNA1G`: Leica Leitzphone powered by Xiaomi 国际版
 
+**[`P12A`] Xiaomi 17T (`chagall`):**
+
+`2602DPT53G`: Xiaomi 17T 国际版
+
+**[`P12U`] Xiaomi 17T Pro (`warhol`):**
+
+`2602EPTC0G`: Xiaomi 17T Pro 国际版
+
+`2602EPTC0R`: Xiaomi 17T Pro 日本版 (无锁)
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -1334,6 +1344,10 @@
 
 `25082RNC1C`: REDMI 15R 5G
 
+**[`P25`] REDMI 15A 5G (`somalia`):**
+
+`2602BRNA4I`: REDMI 15A 5G 印度版
+
 ## 红米 / REDMI Note 系列
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
@@ -1906,6 +1920,10 @@
 
 `25098RA98T`: REDMI Note 15 5G 沙特版
 
+**[`P17`] REDMI Note 15 SE (`kunzite`):**
+
+`26022PCACI`: REDMI Note 15 SE 5G 印度版
+
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro 国际版
@@ -2134,6 +2152,10 @@
 
 `25102RK69C`: REDMI K90 Pro Max 冠军版
 
+**[`P12`] REDMI K90 Max (`prague`):**
+
+`2604FRK1EC`: REDMI K90 Max
+
 ## 其他 REDMI 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -2238,6 +2260,12 @@
 
 `25128RN17L`: REDMI A7 Pro 拉美版
 
+**[`P25`] REDMI R70 5G / REDMI R70m 5G / REDMI A7 Pro 5G (`somalia`):**
+
+`26020RN1AC`: REDMI R70 5G 国行版 / REDMI R70m 5G 国行版
+
+`26020RN1AI`: REDMI A7 Pro 5G 印度版
+
 ## REDMI 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -2322,9 +2350,27 @@
 
 `2509BRP2DI`: REDMI Pad 2 Pro 5G 印度版
 
+**[`P85`] REDMI Pad 2 SE / REDMI Pad 2 9.7:**
+
+`2603ARP14C`: REDMI Pad 2 SE 国行版
+
+`2603ARP14G`: REDMI Pad 2 9.7 国际版
+
+**[`P85X`] REDMI Pad 2 SE 4G / REDMI Pad 2 9.7 4G:**
+
+`2604ERP4DC`: REDMI Pad 2 SE 4G 国行版
+
+`2604ERP4DG`: REDMI Pad 2 9.7 4G 国际版
+
+`2604ERP4DI`: REDMI Pad 2 9.7 4G 印度版
+
 **[`O88`] REDMI K Pad (`turner`):**
 
 `25079RPDCC`: REDMI K Pad
+
+**[`P88`] REDMI K Pad 2 (`yili`):**
+
+`26048RP6AC`: REDMI K Pad 2
 
 ## POCO 手机
 
@@ -2580,9 +2626,13 @@
 
 `24108PCE2I`: POCO M7 5G 印度版
 
-**[`O19`] POCO M7 Plus 5G (`spring`):**
+**[`O19`] POCO M7 Plus 5G / POCO M8s 5G (`spring`):**
 
 `25057PC09I`: POCO M7 Plus 5G 印度版
+
+`26067PC09G`: POCO M8s 5G 国际版
+
+`26067PC09E`: POCO M8s 5G 欧洲版
 
 **[`O17P`] POCO M7 Pro 5G (`beryl`) (`citrine`):**
 
