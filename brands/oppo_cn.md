@@ -897,3 +897,7 @@
 **OPPO Watch X3 (`taycan`):**
 
 `OWW261`: OPPO Watch X3
+
+**OPPO Watch X3 Mini:**
+
+`OWW263`: OPPO Watch X3 Mini
