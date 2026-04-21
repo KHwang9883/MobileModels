@@ -499,6 +499,16 @@
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)
 
+**[`P12A`] Xiaomi 17T (`chagall`):**
+
+`2602DPT53G`: Xiaomi 17T Global
+
+**[`P12U`] Xiaomi 17T Pro (`warhol`):**
+
+`2602EPTC0G`: Xiaomi 17T Pro Global
+
+`2602EPTC0R`: Xiaomi 17T Pro Japan (SIM Free)
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1207,6 +1217,10 @@
 
 `25082RNC1C`: REDMI 15R 5G China
 
+**[`P25`] REDMI 15A 5G (`somalia`):**
+
+`2602BRNA4I`: REDMI 15A 5G India
+
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -1771,6 +1785,10 @@
 
 `25098RA98T`: REDMI Note 15 5G Saudi Arabia
 
+**[`P17`] REDMI Note 15 SE 5G (`kunzite`):**
+
+`26022PCACI`: REDMI Note 15 SE 5G India
+
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro Global
@@ -1989,6 +2007,10 @@
 
 `25102RK69C`: REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 
+**[`P12`] REDMI K90 Max (`prague`):**
+
+`2604FRK1EC`: REDMI K90 Max
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -2090,6 +2112,12 @@
 `25128RN17A` `25128RN17Y`: REDMI A7 Pro Global
 
 `25128RN17L`: REDMI A7 Pro Latin America
+
+**[`P25`] REDMI A7 Pro 5G / REDMI R70 5G / REDMI R70m 5G (`somalia`):**
+
+`26020RN1AI`: REDMI A7 Pro 5G India
+
+`26020RN1AC`: REDMI R70 5G China / REDMI R70m 5G China
 
 ## POCO Phones
 
@@ -2345,9 +2373,13 @@
 
 `24108PCE2I`: POCO M7 5G India
 
-**[`O19`] POCO M7 Plus 5G (`spring`):**
+**[`O19`] POCO M7 Plus 5G / POCO M8s 5G (`spring`):**
 
 `25057PC09I`: POCO M7 Plus 5G India
+
+`26067PC09G`: POCO M8s 5G Global
+
+`26067PC09E`: POCO M8s 5G Europe
 
 **[`O17P`] POCO M7 Pro 5G (`beryl`) (`citrine`):**
 
@@ -2605,10 +2637,6 @@
 
 `2505DRP06E`: REDMI Pad 2 4G Europe
 
-**[`O88`] REDMI K Pad (`turner`):**
-
-`25079RPDCC`: REDMI K Pad China
-
 **[`P83`] REDMI Pad 2 Pro (`flute`):**
 
 `25099RP13G`: REDMI Pad 2 Pro Global
@@ -2624,6 +2652,28 @@
 `2509BRP2DI`: REDMI Pad 2 Pro 5G India
 
 `2509BRP2DC`: REDMI Pad 2 Pro 5G China
+
+**[`P85`] REDMI Pad 2 9.7 / REDMI Pad 2 SE:**
+
+`2603ARP14G`: REDMI Pad 2 9.7 Global
+
+`2603ARP14C`: REDMI Pad 2 SE China
+
+**[`P85X`] REDMI Pad 2 9.7 4G / REDMI Pad 2 SE 4G:**
+
+`2604ERP4DG`: REDMI Pad 2 9.7 4G Global
+
+`2604ERP4DI`: REDMI Pad 2 9.7 4G India
+
+`2604ERP4DC`: REDMI Pad 2 SE 4G China
+
+**[`O88`] REDMI K Pad (`turner`):**
+
+`25079RPDCC`: REDMI K Pad China
+
+**[`P88`] REDMI K Pad 2 (`yili`):**
+
+`26048RP6AC`: REDMI K Pad 2 China
 
 **[`N83P`] POCO Pad (`dizi`):**
 
