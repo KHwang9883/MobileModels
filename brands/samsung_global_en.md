@@ -905,6 +905,8 @@
 
 `SM-F968B`: Galaxy Z TriFold Global
 
+`SM-F968U1`: Galaxy Z TriFold US Unlocked
+
 `SM-F9680`: Galaxy Z TriFold China
 
 `SM-F968N`: Galaxy Z TriFold South Korea
