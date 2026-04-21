@@ -78,7 +78,7 @@
 
 `VER-AN10`: 荣耀 Magic V2 RSR 保时捷设计
 
-**荣耀 Magic Vs2 (`Veyron`):**
+**荣耀 Magic Vs2 (`VeyronS`):**
 
 `VER-AN00`: 荣耀 Magic Vs2
 
@@ -420,23 +420,23 @@
 
 `ELP-AN00`: 荣耀 200 Pro
 
-**荣耀 300:**
+**荣耀 300 (`Mina`):**
 
 `AMM-AN00`: 荣耀 300
 
-**荣耀 300 Pro:**
+**荣耀 300 Pro (`MinaP`):**
 
 `AMP-AN00`: 荣耀 300 Pro
 
-**荣耀 300 Ultra:**
+**荣耀 300 Ultra (`MinaP`):**
 
 `AMP-AN10`: 荣耀 300 Ultra
 
-**荣耀 400:**
+**荣耀 400 (`Danny`):**
 
 `DNN-AN00`: 荣耀 400
 
-**荣耀 400 Pro:**
+**荣耀 400 Pro (`DannyP`):**
 
 `DNP-AN00`: 荣耀 400 Pro
 
@@ -506,7 +506,7 @@
 
 ## 荣耀 GT 系列
 
-**荣耀 GT:**
+**荣耀 GT (`MinaGT`):**
 
 `AMG-AN00`: 荣耀 GT
 
@@ -682,7 +682,7 @@
 
 `LYN-AN00`: 荣耀 X60i
 
-**荣耀 X60 GT:**
+**荣耀 X60 GT (`MinaGTI`):**
 
 `AGI-AN00`: 荣耀 X60 GT
 
@@ -696,7 +696,7 @@
 
 `ABR-AN00`: 荣耀 X70i
 
-**荣耀 X80i:**
+**荣耀 X80i (`Luna`):**
 
 `LNA-AN00`: 荣耀 X80i
 
