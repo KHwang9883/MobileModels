@@ -820,6 +820,10 @@
 
 `V2531A`: vivo Y500i / vivo Y500s
 
+**vivo Y600 Pro (`PD2561`):**
+
+`V2561A`: vivo Y600 Pro
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
