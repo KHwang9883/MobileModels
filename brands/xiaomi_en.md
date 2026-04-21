@@ -2701,6 +2701,14 @@
 
 `21051191C`: Xiaomi CyberDog Bio-inspired Quadruped Robot
 
+**Xiaomi EV Cockpit:**
+
+`2405AVPB7C`: Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)
+
+**Xiaomi EV Cockpit (`suiren`):**
+
+`25033VP3FC`: Xiaomi EV Cockpit (YU7/SU7 2026)
+
 **[`P802`] Xiaomi YU7 Back Row Mobile Control Screen (`konghou`):**
 
 `2503CVPC6C`: Xiaomi YU7 Back Row Mobile Control Screen
