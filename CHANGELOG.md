@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-04-22
+- `huawei_cn` 增补部分商用型号。
 ### 2026-04-21
 - `mitv_cn` 新增 REDMI 智能显示器。
 - `oppo_cn` 新增 OPPO Watch X3 Mini。
