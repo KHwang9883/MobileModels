@@ -1111,6 +1111,10 @@
 
 ## JOVI Smartphones
 
+**JOVI X300 FE (`PD2527F`):**
+
+`J2505`: JOVI X300 FE
+
 **JOVI V50 (`PD2437F`):**
 
 `V2427`: JOVI V50
