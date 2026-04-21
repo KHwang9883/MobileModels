@@ -881,7 +881,7 @@
 
 `OPD2402`: OPPO Pad 3 Pro
 
-**OPPO Pad 5 (`himalayan`):**
+**OPPO Pad 5 (`greenland`):**
 
 `OPD2502`: OPPO Pad 5 Wi-Fi
 
