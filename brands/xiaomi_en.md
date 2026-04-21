@@ -2653,13 +2653,13 @@
 
 `2509BRP2DC`: REDMI Pad 2 Pro 5G China
 
-**[`P85`] REDMI Pad 2 9.7 / REDMI Pad 2 SE:**
+**[`P85`] REDMI Pad 2 9.7 / REDMI Pad 2 SE (`guitar`):**
 
 `2603ARP14G`: REDMI Pad 2 9.7 Global
 
 `2603ARP14C`: REDMI Pad 2 SE China
 
-**[`P85X`] REDMI Pad 2 9.7 4G / REDMI Pad 2 SE 4G:**
+**[`P85X`] REDMI Pad 2 9.7 4G / REDMI Pad 2 SE 4G (`erhu`):**
 
 `2604ERP4DG`: REDMI Pad 2 9.7 4G Global
 

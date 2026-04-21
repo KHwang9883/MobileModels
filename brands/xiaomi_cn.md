@@ -1244,11 +1244,11 @@
 
 `2509BRP2DC`: REDMI Pad 2 Pro 5G
 
-**[`P85`] REDMI Pad 2 SE:**
+**[`P85`] REDMI Pad 2 SE (`guitar`):**
 
 `2603ARP14C`: REDMI Pad 2 SE
 
-**[`P85X`] REDMI Pad 2 SE 4G:**
+**[`P85X`] REDMI Pad 2 SE 4G (`erhu`):**
 
 `2604ERP4DC`: REDMI Pad 2 SE 4G
 

@@ -2350,13 +2350,13 @@
 
 `2509BRP2DI`: REDMI Pad 2 Pro 5G 印度版
 
-**[`P85`] REDMI Pad 2 SE / REDMI Pad 2 9.7:**
+**[`P85`] REDMI Pad 2 SE / REDMI Pad 2 9.7 (`guitar`):**
 
 `2603ARP14C`: REDMI Pad 2 SE 国行版
 
 `2603ARP14G`: REDMI Pad 2 9.7 国际版
 
-**[`P85X`] REDMI Pad 2 SE 4G / REDMI Pad 2 9.7 4G:**
+**[`P85X`] REDMI Pad 2 SE 4G / REDMI Pad 2 9.7 4G (`erhu`):**
 
 `2604ERP4DC`: REDMI Pad 2 SE 4G 国行版
 
