@@ -1,6 +1,6 @@
 # 小米电视型号汇总
 
-- 汇总范围: 全部国行小米/Redmi 电视、机顶盒
+- 汇总范围: 全部国行小米/REDMI 电视、智能显示器、机顶盒
 - codename: ❌
 - 是否包含海外机型: [单独汇总 (英文)](/brands/mitv_global_en.md)
 
@@ -448,7 +448,7 @@
 
 `L55M8-SP`: 小米电子水牌 55 英寸
 
-## Redmi 电视
+## REDMI 电视
 
 **Redmi 智能电视 A:**
 
@@ -699,6 +699,20 @@
 `L100RC-MAXE`: REDMI 电视 MAX 100 一级能效版
 
 `L100RC-AP`: REDMI 电视 MAX 100 2026
+
+## REDMI 智能显示器
+
+**REDMI 显示器 G Pro 27U:**
+
+`P27UDA-RGP`: REDMI 显示器 G Pro 27U
+
+**REDMI 显示器 G Pro 27U 2026:**
+
+`P27UEA-RGP`: REDMI 显示器 G Pro 27U 2026
+
+**REDMI 显示器 G Pro 32U 2026:**
+
+`P32UEA-RGP`: REDMI 显示器 G Pro 32U 2026
 
 ## 电视主机与盒子
 

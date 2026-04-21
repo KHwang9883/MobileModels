@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-04-21
+- `mitv_cn` 新增 REDMI 智能显示器。
 ### 2026-04-20
 - `huawei_cn` 新增 HUAWEI Pura 90 系列、MateBook 鸿蒙版、WATCH FIT 5、WATCH Buds 2、AI 眼镜等。
 - `vivo_cn` 新增 vivo Y6t。
