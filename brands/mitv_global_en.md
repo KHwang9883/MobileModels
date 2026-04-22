@@ -97,8 +97,6 @@
 
 `L43M8-A2IN`: Xiaomi Smart TV X 43 2023
 
-`L43MA-AUIN`: Xiaomi Smart TV X 43 2023
-
 `L50M7-A2IN`: Xiaomi Smart TV X 50
 
 `L50M8-A2IN`: Xiaomi Smart TV X 50 2023
@@ -110,6 +108,8 @@
 `L65M8-A2IN`: Xiaomi Smart TV X 65 2023
 
 **[`N39`] Xiaomi Smart TV X:**
+
+`L43MA-AUIN`: Xiaomi Smart TV X 43 2024
 
 `L50MA-AUIN`: Xiaomi Smart TV X 50 2024
 
