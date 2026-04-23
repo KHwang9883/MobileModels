@@ -117,6 +117,10 @@
 
 `V2537` `V2542`: vivo X300 FE
 
+**vivo X300 Ultra (`PD2547F`):**
+
+`V2562`: vivo X300 Ultra
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -307,7 +311,7 @@
 
 **vivo V60 Lite:**
 
-`V2530`: vivo V60 Lite
+`V2530` `V2549`: vivo V60 Lite
 
 **vivo V60 Lite 5G:**
 
@@ -915,7 +919,7 @@
 
 `V2402`: vivo Y300 Pro 5G
 
-**vivo Y400:**
+**vivo Y400 (`PD2470F`):**
 
 `V2455`: vivo Y400
 
@@ -1114,6 +1118,10 @@
 **JOVI X300 FE (`PD2527F`):**
 
 `J2505`: JOVI X300 FE
+
+**JOVI X300 Ultra (`PD2547F`):**
+
+`J2510`: JOVI X300 Ultra
 
 **JOVI V50 (`PD2437F`):**
 

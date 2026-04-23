@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-24
+- `vivo_global_en` Add vivo X300 Ultra.
 ### 2026-04-23
 - `xiaomi_en` Add REDMI Note 15R Pro, POCO C81 India.
 ### 2026-04-22
