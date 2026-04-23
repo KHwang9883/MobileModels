@@ -972,9 +972,9 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro
 
-**[`O17`] Redmi Note 14 5G (`beryl`):**
+**[`O17`] Redmi Note 14 5G / REDMI Note 15R Pro (`beryl`):**
 
-`24094RAD4C`: Redmi Note 14 5G
+`24094RAD4C`: Redmi Note 14 5G / REDMI Note 15R Pro
 
 **[`O16`] Redmi Note 14 Pro (`malachite`):**
 
