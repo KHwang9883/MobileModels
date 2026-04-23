@@ -816,9 +816,9 @@
 
 `V2516A`: vivo Y500 Pro
 
-**vivo Y500i / vivo Y500s (`PD2531`):**
+**vivo Y500i / vivo Y500s / vivo Y6 (`PD2531`):**
 
-`V2531A`: vivo Y500i / vivo Y500s
+`V2531A`: vivo Y500i / vivo Y500s / vivo Y6
 
 **vivo Y600 Pro (`PD2561`):**
 

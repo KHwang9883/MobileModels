@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-04-23
+- `vivo_cn` 新增 vivo Y6。
 - `xiaomi` 新增 REDMI Note 15R Pro。
 ### 2026-04-22
 - `huawei_cn` 增补部分商用型号。
