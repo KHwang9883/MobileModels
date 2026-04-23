@@ -2,7 +2,7 @@
 ### 2026-04-23
 - `honor_cn` 新增 荣耀 WIN 游戏本、荣耀笔记本 X Plus 2026。
 - `vivo_cn` 新增 vivo Y6。
-- `xiaomi` 新增 REDMI Note 15R Pro。
+- `xiaomi` 新增 REDMI Note 15R Pro、POCO C81 印度版。
 ### 2026-04-22
 - `huawei_cn` 增补部分商用型号。
 ### 2026-04-21
