@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-23
+- `xiaomi_en` Add REDMI Note 15R Pro.
 ### 2026-04-22
 - `honor_global_en` Add several models and codenames.
 - `mitv_global_en` Add 2026 models.

@@ -1735,11 +1735,11 @@
 
 `24094RAD4G`: Redmi Note 14 5G Global
 
-**[`O17`] Redmi Note 14 5G / Redmi Note 14 SE 5G (`beryl`):**
+**[`O17`] Redmi Note 14 5G / Redmi Note 14 SE 5G / REDMI Note 15R Pro (`beryl`):**
 
 `24094RAD4I`: Redmi Note 14 5G India / Redmi Note 14 SE 5G India
 
-`24094RAD4C`: Redmi Note 14 5G China
+`24094RAD4C`: Redmi Note 14 5G China / REDMI Note 15R Pro China
 
 **[`N6R`] Redmi Note 14S (`emerald`):**
 
