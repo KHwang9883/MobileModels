@@ -804,11 +804,11 @@
 
 `OPD2501`: OPPO Pad Air5
 
-**OPPO Pad 5 Pro:**
+**OPPO Pad 5 Pro (`iceland`):**
 
 `OPD2511`: OPPO Pad 5 Pro
 
-**OPPO Pad Mini:**
+**OPPO Pad Mini (`ivy`):**
 
 `OPD2515`: OPPO Pad Mini
 
