@@ -2459,6 +2459,10 @@
 
 `24116PCC1I`: POCO C75 5G India
 
+**[`P25A`] POCO C81 (`arctic`):**
+
+`25128PC17I`: POCO C81 India
+
 **[`P15A`] POCO C85 (`dew`):**
 
 `25078PC3EG`: POCO C85 Global
