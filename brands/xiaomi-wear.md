@@ -129,6 +129,10 @@
 
 `M2505W1`: Xiaomi Watch 5 LTE
 
+**[`O61W`] Xiaomi Watch 5 (`blenny`):**
+
+`M2501W1`: Xiaomi Watch 5 国际版
+
 ## 小米手表（RTOS）
 
 **Mi Watch Lite:**
