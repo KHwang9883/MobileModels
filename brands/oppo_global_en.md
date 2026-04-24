@@ -453,6 +453,14 @@
 
 `CPH2757`: OPPO F31 Pro+ 5G
 
+**OPPO F33:**
+
+`CPH2777`: OPPO F33 5G
+
+**OPPO F33 Pro:**
+
+`CPH2835`: OPPO F33 Pro 5G
+
 ## R series
 
 **OPPO R15:**
@@ -569,13 +577,17 @@
 
 `CPH2799`: OPPO A6 Pro
 
-`CPH2781`: OPPO A6 Pro 5G
+`CPH2781`: OPPO A6 Pro 5G Global
+
+`CPH2827`: OPPO A6 Pro 5G India
 
 **OPPO A6s:**
 
 `CPH2815`: OPPO A6s
 
-`CPH2789`: OPPO A6s 5G
+`CPH2789`: OPPO A6s 5G Global
+
+`CPH2889`: OPPO A6s 5G India
 
 **OPPO A6x:**
 
