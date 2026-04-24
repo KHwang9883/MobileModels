@@ -526,7 +526,7 @@
 
 `L50RB-RAE`: REDMI 电视 A50 2025 节能版 (二级能效)
 
-`L50RA-RAD`: REDMI 电视 A50 一级能效版
+`L50RB-RAD`: REDMI 电视 A50 一级能效版
 
 `L55RB-RAE`: REDMI 电视 A55 2025 节能版 (一级能效)
 
