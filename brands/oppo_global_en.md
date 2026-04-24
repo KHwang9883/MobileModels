@@ -61,15 +61,23 @@
 
 `CPH2659`: OPPO Find X8 Pro
 
-**OPPO Find X9:**
+**OPPO Find X9 (`zhujiang`):**
 
 `CPH2797`: OPPO Find X9
 
 `OPG07`: OPPO Find X9 (KDDI)
 
-**OPPO Find X9 Pro:**
+**OPPO Find X9 Pro (`changjiang`):**
 
 `CPH2791`: OPPO Find X9 Pro
+
+**OPPO Find X9s:**
+
+`CPH2873`: OPPO Find X9s
+
+**OPPO Find X9 Ultra (`lighthouse`):**
+
+`CPH2841`: OPPO Find X9 Ultra
 
 ## Find N series
 
@@ -93,7 +101,7 @@
 
 `CPH2671`: OPPO Find N5
 
-**OPPO Find N6:**
+**OPPO Find N6 (`swangoose`):**
 
 `CPH2765`: OPPO Find N6
 
@@ -845,7 +853,7 @@
 
 `CPH2761`: OPPO K13 Turbo 5G
 
-**OPPO K13 Turbo Pro:**
+**OPPO K13 Turbo Pro (`knight-h`):**
 
 `CPH2731`: OPPO K13 Turbo Pro 5G
 
@@ -863,11 +871,11 @@
 
 `OPD2102A`: OPPO Pad Air
 
-**OPPO Pad 2:**
+**OPPO Pad 2 (`aries`):**
 
 `OPD2202`: OPPO Pad 2
 
-**OPPO Pad Neo:**
+**OPPO Pad Neo (`bluey`):**
 
 `OPD2302`: OPPO Pad Neo Wi-Fi
 
@@ -887,7 +895,7 @@
 
 `OPD2503`: OPPO Pad 5 5G
 
-**OPPO Pad SE:**
+**OPPO Pad SE (`fiji`):**
 
 `OPD2419`: OPPO Pad SE Wi-Fi
 
@@ -926,3 +934,15 @@
 **OPPO Watch X2 (`starriver`) (`starrivere`) (`xinghe`):**
 
 `OWWE251`: OPPO Watch X2
+
+**OPPO Watch X2 Mini (`xingchen`):**
+
+`OWWE242`: OPPO Watch X2 Mini
+
+**OPPO Watch X3 (`taycan`):**
+
+`OWWE261`: OPPO Watch X3
+
+**OPPO Watch S:**
+
+`OWWE262`: OPPO Watch S

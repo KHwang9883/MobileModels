@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-04-25
+- `oppo_global_en` Add OPPO Find X9 Ultra, Find X9s.
 ### 2026-04-24
 - `vivo_global_en` Add vivo X300 Ultra.
 ### 2026-04-23
