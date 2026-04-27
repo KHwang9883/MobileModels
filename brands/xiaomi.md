@@ -2254,9 +2254,19 @@
 
 `25028RN03L`: REDMI A5 拉美版
 
+**[`C3ZR`] REDMI A7 (`serenity`):**
+
+`26020RNB4A`: REDMI A7 国际版
+
+`26020RNB4I`: REDMI A7 印度版
+
+`26020RNB4L`: REDMI A7 拉美版
+
 **[`P25A`] REDMI A7 Pro (`arctic`):**
 
 `25128RN17A` `25128RN17Y`: REDMI A7 Pro 国际版
+
+`25128RN17I`: REDMI A7 Pro 印度版
 
 `25128RN17L`: REDMI A7 Pro 拉美版
 
@@ -2712,9 +2722,17 @@
 
 `24116PCC1I`: POCO C75 5G 印度版
 
-**[`P25A`] POCO C81 (`arctic`):**
+**[`P25A`] POCO C81 / POCO C81 Pro (`arctic`):**
+
+`25128PC17G`: POCO C81 Pro 国际版
+
+`25128PC17L`: POCO C81 Pro 拉美版
 
 `25128PC17I`: POCO C81 印度版
+
+**[`C3ZR`] POCO C81x (`serenity`):**
+
+`26020PCB4I`: POCO C81x 印度版
 
 **[`P15A`] POCO C85 (`dew`):**
 
