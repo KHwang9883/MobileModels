@@ -2107,9 +2107,19 @@
 
 `25028RN03L`: REDMI A5 Latin America
 
+**[`C3ZR`] REDMI A7 (`serenity`):**
+
+`26020RNB4A`: REDMI A7 Global
+
+`26020RNB4I`: REDMI A7 India
+
+`26020RNB4L`: REDMI A7 Latin America
+
 **[`P25A`] REDMI A7 Pro (`arctic`):**
 
 `25128RN17A` `25128RN17Y`: REDMI A7 Pro Global
+
+`25128RN17I`: REDMI A7 Pro India
 
 `25128RN17L`: REDMI A7 Pro Latin America
 
@@ -2459,9 +2469,17 @@
 
 `24116PCC1I`: POCO C75 5G India
 
-**[`P25A`] POCO C81 (`arctic`):**
+**[`P25A`] POCO C81 / POCO C81 Pro (`arctic`):**
+
+`25128PC17G`: POCO C81 Pro Global
+
+`25128PC17L`: POCO C81 Pro Latin America
 
 `25128PC17I`: POCO C81 India
+
+**[`C3ZR`] POCO C81x (`serenity`):**
+
+`26020PCB4I`: POCO C81x India
 
 **[`P15A`] POCO C85 (`dew`):**
 
