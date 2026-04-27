@@ -816,9 +816,9 @@
 
 `NIC-AN00`: 荣耀 Play10C 5G
 
-**荣耀 Play10A (`Nala`):**
+**荣耀 Play10A / 荣耀 Play11C (`Nala`):**
 
-`NLA-AN00`: 荣耀 Play10A 5G
+`NLA-AN00`: 荣耀 Play10A 5G / 荣耀 Play11C 5G
 
 ## 荣耀 Power 系列
 
