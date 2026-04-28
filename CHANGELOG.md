@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-04-28
+- `honor_cn` 新增 荣耀 Play10/11 Plus。
 ### 2026-04-27
 - `honor_cn` 新增 荣耀 Play11C。
 - `xiaomi` 新增 REDMI A7、POCO C81x。

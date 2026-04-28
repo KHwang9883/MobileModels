@@ -808,9 +808,9 @@
 
 `JDY-AN00`: 荣耀 Play9C 5G
 
-**荣耀 Play10T (`Logan`):**
+**荣耀 Play10 / 荣耀 Play10T (`Logan`):**
 
-`LOG-AN10`: 荣耀 Play10T 5G
+`LOG-AN10`: 荣耀 Play10 5G / 荣耀 Play10T 5G
 
 **荣耀 Play10C (`Nick`):**
 
@@ -819,6 +819,10 @@
 **荣耀 Play10A / 荣耀 Play11C (`Nala`):**
 
 `NLA-AN00`: 荣耀 Play10A 5G / 荣耀 Play11C 5G
+
+**荣耀 Play11 Plus (`Luna`):**
+
+`LNA-AN00`: 荣耀 Play11 Plus 5G
 
 ## 荣耀 Power 系列
 
