@@ -121,7 +121,11 @@
 
 `SPR-BD00`: Hi nova 12z 5G
 
-## 雷鸟 FFALCON
+**Hi MatePad:**
+
+`BRO-W00`: Hi MatePad
+
+## 雷鸟手机（FFALCON）
 
 **雷鸟 FF1:**
 
@@ -147,23 +151,23 @@
 
 `LFT-AN00`: WIKO 5G
 
-**Hi 畅享 60:**
+**Hi 畅享 60 (`Garcia`):**
 
 `GAR-AN00`: Hi 畅享 60 5G
 
-**Hi 畅享 60s:**
+**Hi 畅享 60s (`Garcia`):**
 
 `GAR-AN60`: Hi 畅享 60s 5G
 
-**Hi 畅享 60 Pro:**
+**Hi 畅享 60 Pro (`Logan`):**
 
 `LGN-AN00`: Hi 畅享 60 Pro 5G
 
-**Hi 畅享 70 / Hi 畅享 70m:**
+**Hi 畅享 70 / Hi 畅享 70m (`Mickey`):**
 
 `MKY-AN20`: Hi 畅享 70 5G / Hi 畅享 70m 5G
 
-**Hi 畅享 70 Pro:**
+**Hi 畅享 70 Pro (`Ballon+`):**
 
 `BAL-AN20`: Hi 畅享 70 Pro 5G
 
@@ -179,21 +183,17 @@
 
 `JLG-AN80`: Hi 畅享 80 GT 5G
 
-**Hi 畅享 80 Pro:**
+**Hi 畅享 80 Pro (`Shera`):**
 
 `SHR-AN00`: Hi 畅享 80 Pro 5G
 
-**Hi 畅享 80 Plus:**
+**Hi 畅享 80 Plus (`Snoopy`):**
 
 `SNP-AN00`: Hi 畅享 80 Plus 5G
 
-**WIKO X70:**
+**WIKO X70 (`Change`):**
 
 `CHE-AN00`: WIKO X70
-
-**Hi MatePad:**
-
-`BRO-W00`: Hi MatePad
 
 **Hi MateBook 14:**
 
@@ -207,21 +207,25 @@
 
 `MASC-32`: Hi MateBook 14 酷睿 Ultra 2 (32GB 内存) (圆形键盘)
 
+**Hi MateBook 14 (`MunichA`):**
+
 `MNCAA-16`: Hi MateBook 14 锐龙 200 (16GB 内存) (方形键盘)
 
 `MNCAA-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)
 
 `MNCAC-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
 
-**Hi MateBook D 14:**
+**Hi MateBook D 14 (`LyonI`):**
 
 `LYOI-16`: Hi MateBook D 14 (16GB 内存)
 
 `LYOI-32`: Hi MateBook D 14 (32GB 内存)
 
-**Hi MateBook D 16:**
+**Hi MateBook D 16 (`NiceG`):**
 
 `NICG-16`: Hi MateBook D 16 (13 代酷睿) (16GB 内存)
+
+**Hi MateBook D 16 (`NiceI`):**
 
 `NICI-16`: Hi MateBook D 16 (16GB 内存)
 
