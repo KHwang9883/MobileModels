@@ -404,9 +404,9 @@
 
 `V2465A`: vivo S30 Pro mini
 
-**vivo S50 (`PD2528`):**
+**vivo S50 / vivo S50t (`PD2528`):**
 
-`V2528A`: vivo S50
+`V2528A`: vivo S50 / vivo S50t
 
 **vivo S50 Pro mini (`PD2527`):**
 
