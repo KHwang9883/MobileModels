@@ -41,6 +41,7 @@ Unlisted brands usually not include international models.
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/jgcx/index.html)
 - [China Telecom Tianyi Devices](http://surfing.tydevice.com/)
+- [CMIIT ID](https://cmiitid.cn/)
 - [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
 - [Bluetooth Qualification Listings](https://qualification.bluetooth.com/Listings/Search)

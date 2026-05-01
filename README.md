@@ -109,6 +109,7 @@
 - [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/jgcx/index.html)
 - [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/)
+- [CMIIT ID 查询](https://cmiitid.cn/)
 - [Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
 - [Bluetooth Qualification Listings](https://qualification.bluetooth.com/Listings/Search)
