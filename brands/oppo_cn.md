@@ -640,7 +640,7 @@
 
 `PKW120`: OPPO A6i
 
-**OPPO A6s / OPPO A6i+ / OPPO A6k:**
+**OPPO A6s / OPPO A6i+ / OPPO A6k (`baikal-b5`):**
 
 `PLT120`: OPPO A6s / OPPO A6i+ / OPPO A6k
 
@@ -648,15 +648,15 @@
 
 `PMT110`: OPPO A6s Pro
 
-**OPPO A6v:**
+**OPPO A6v (`baikal-b5`):**
 
 `PLT130`: OPPO A6v
 
-**OPPO A6x:**
+**OPPO A6x (`baikal-b5`):**
 
 `PLT140`: OPPO A6x
 
-**OPPO A6c:**
+**OPPO A6c (`baikal-b4`):**
 
 `PMC110`: OPPO A6c
 
