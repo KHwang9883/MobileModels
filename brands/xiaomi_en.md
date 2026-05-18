@@ -499,6 +499,10 @@
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)
 
+**Xiaomi 17 Max (`byron`):**
+
+`2605EPN8EC`: Xiaomi 17 Max
+
 **[`P12A`] Xiaomi 17T (`chagall`):**
 
 `2602DPT53G`: Xiaomi 17T Global
@@ -1741,7 +1745,7 @@
 
 `24094RAD4C`: Redmi Note 14 5G China / REDMI Note 15R Pro China
 
-**[`N6R`] Redmi Note 14S (`emerald`):**
+**[`N6R`] Redmi Note 14S (`emerald`) (`emerald_r`):**
 
 `2502FRA65G`: Redmi Note 14S Global
 
@@ -1850,6 +1854,8 @@
 **[`P10`] REDMI Turbo 5 (`klee`):**
 
 `2511FRT34C`: REDMI Turbo 5 China
+
+`2606FRT34I`: REDMI Turbo 5 India
 
 **[`P10U`] REDMI Turbo 5 Max (`dash`):**
 
@@ -2471,7 +2477,7 @@
 
 **[`P25A`] POCO C81 / POCO C81 Pro (`arctic`):**
 
-`25128PC17G`: POCO C81 Pro Global
+`25128PC17G` `25128PC17Y`: POCO C81 Pro Global
 
 `25128PC17L`: POCO C81 Pro Latin America
 
@@ -2712,6 +2718,10 @@
 **[`P83P`] POCO Pad M1 (`flute`):**
 
 `2509ARPBDG`: POCO Pad M1 Global
+
+**[`P85`] POCO Pad C1 (`guitar`):**
+
+`2603APC14G`: POCO Pad C1 Global
 
 ## Others
 

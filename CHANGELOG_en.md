@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-05-18
+- `xiaomi_en` Add Xiaomi 17 Max, REDMI Turbo 5 India, POCO Pad C1.
 ### 2026-05-12
 - `realme_global_en` Add realme 16T 5G.
 - `vivo_global_en` Add several models and codenames.
