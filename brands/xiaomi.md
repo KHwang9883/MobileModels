@@ -502,6 +502,10 @@
 
 `25128PNA1G`: Leica Leitzphone powered by Xiaomi 国际版
 
+**Xiaomi 17 Max (`byron`):**
+
+`2605EPN8EC`: Xiaomi 17 Max
+
 **[`P12A`] Xiaomi 17T (`chagall`):**
 
 `2602DPT53G`: Xiaomi 17T 国际版
@@ -1876,7 +1880,7 @@
 
 `24094RAD4G`: Redmi Note 14 5G 国际版
 
-**[`N6R`] Redmi Note 14S (`emerald`):**
+**[`N6R`] Redmi Note 14S (`emerald`) (`emerald_r`):**
 
 `2502FRA65G`: Redmi Note 14S 国际版
 
@@ -1988,7 +1992,9 @@
 
 **[`P10`] REDMI Turbo 5 (`klee`):**
 
-`2511FRT34C`: REDMI Turbo 5
+`2511FRT34C`: REDMI Turbo 5 国行版
+
+`2606FRT34I`: REDMI Turbo 5 印度版
 
 **[`P10U`] REDMI Turbo 5 Max (`dash`):**
 
@@ -2724,7 +2730,7 @@
 
 **[`P25A`] POCO C81 / POCO C81 Pro (`arctic`):**
 
-`25128PC17G`: POCO C81 Pro 国际版
+`25128PC17G` `25128PC17Y`: POCO C81 Pro 国际版
 
 `25128PC17L`: POCO C81 Pro 拉美版
 
@@ -2765,6 +2771,10 @@
 **[`P83P`] POCO Pad M1 (`flute`):**
 
 `2509ARPBDG`: POCO Pad M1 国际版
+
+**[`P85`] POCO Pad C1 (`guitar`):**
+
+`2603APC14G`: POCO Pad C1 国际版
 
 ## 其他系列
 

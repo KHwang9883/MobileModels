@@ -290,6 +290,10 @@
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (卫星通讯)
 
+**Xiaomi 17 Max (`byron`):**
+
+`2605EPN8EC`: Xiaomi 17 Max
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
