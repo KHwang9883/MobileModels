@@ -340,6 +340,14 @@
 
 `PMD110`: OPPO Reno15c
 
+**OPPO Reno16:**
+
+`PMM110`: OPPO Reno16
+
+**OPPO Reno16 Pro:**
+
+`PMK110`: OPPO Reno16 Pro
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -811,6 +819,10 @@
 **OPPO Pad Mini (`ivy`):**
 
 `OPD2515`: OPPO Pad Mini
+
+**OPPO Pad 6:**
+
+`OPD2601`: OPPO Pad 6
 
 ## Watch/Band 系列
 

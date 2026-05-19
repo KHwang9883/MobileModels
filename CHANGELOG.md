@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-05-19
 - `motorola_cn` 新增 联想 moto razr fold、razr 70 Ultra。
+- `oppo_cn` 新增 OPPO Reno16 系列、OPPO Pad 6。
 ### 2026-05-18
 - `honor_cn` 新增 荣耀 WIN Turbo、荣耀笔记本 X14 2026 战斗版。
 - `nubia` 新增 红魔 11S Pro。
