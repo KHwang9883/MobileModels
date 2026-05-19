@@ -241,3 +241,11 @@
 **moto X70 Air Pro (`vantage`):**
 
 `XT2603-1`: moto X70 Air Pro
+
+**moto razr fold (`blanc`):**
+
+`XT2651-4`: moto razr fold
+
+**moto razr 70 Ultra (`lhotse`):**
+
+`XT2655-4`: moto razr 70 Ultra
