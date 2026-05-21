@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-05-21
+- `xiaomi-wear` 新增 Xiaomi 耳夹式耳机、小米手环 10 Pro。
 ### 2026-05-19
 - `motorola_cn` 新增 联想 moto razr fold、razr 70 Ultra。
 - `oppo_cn` 新增 OPPO Reno16 系列、OPPO Pad 6。
