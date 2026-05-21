@@ -499,7 +499,7 @@
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)
 
-**Xiaomi 17 Max (`byron`):**
+**[`P3S`] Xiaomi 17 Max (`byron`):**
 
 `2605EPN8EC`: Xiaomi 17 Max
 
@@ -507,11 +507,17 @@
 
 `2602DPT53G`: Xiaomi 17T Global
 
+`2602DPT53I`: Xiaomi 17T India
+
+`M531DA`: Xiaomi 17T China
+
 **[`P12U`] Xiaomi 17T Pro (`warhol`):**
 
 `2602EPTC0G`: Xiaomi 17T Pro Global
 
 `2602EPTC0R`: Xiaomi 17T Pro Japan (SIM Free)
+
+`M025EC`: Xiaomi 17T Pro China
 
 **[`X5`] Mi Note (`virgo`):**
 
@@ -2741,6 +2747,6 @@
 
 `25033VP3FC`: Xiaomi EV Cockpit (YU7/SU7 2026)
 
-**[`P802`] Xiaomi YU7 Back Row Mobile Control Screen (`konghou`):**
+**[`P802`] Xiaomi EV Back Row Mobile Control Screen (`konghou`):**
 
-`2503CVPC6C`: Xiaomi YU7 Back Row Mobile Control Screen
+`2503CVPC6C`: Xiaomi EV Back Row Mobile Control Screen
