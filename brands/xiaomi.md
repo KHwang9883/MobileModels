@@ -502,15 +502,21 @@
 
 `25128PNA1G`: Leica Leitzphone powered by Xiaomi 国际版
 
-**Xiaomi 17 Max (`byron`):**
+**[`P3S`] Xiaomi 17 Max (`byron`):**
 
 `2605EPN8EC`: Xiaomi 17 Max
 
 **[`P12A`] Xiaomi 17T (`chagall`):**
 
+`M531DA`: Xiaomi 17T 国行版
+
 `2602DPT53G`: Xiaomi 17T 国际版
 
+`2602DPT53I`: Xiaomi 17T 印度版
+
 **[`P12U`] Xiaomi 17T Pro (`warhol`):**
+
+`M025EC`: Xiaomi 17T Pro 国行版
 
 `2602EPTC0G`: Xiaomi 17T Pro 国际版
 
@@ -2794,6 +2800,6 @@
 
 `25033VP3FC`: 小米澎湃智能座舱 (YU7/新一代 SU7)
 
-**[`P802`] Xiaomi YU7 后排移动控制屏 (`konghou`):**
+**[`P802`] 小米汽车后排移动控制屏 (`konghou`):**
 
-`2503CVPC6C`: Xiaomi YU7 后排移动控制屏
+`2503CVPC6C`: 小米汽车后排移动控制屏
