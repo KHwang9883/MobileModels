@@ -634,6 +634,10 @@
 
 `V2559BA`: vivo Y60m 5G
 
+**vivo Y6m (`PD2532`):**
+
+`V2532BA`: vivo Y6m
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G
