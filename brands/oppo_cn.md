@@ -660,9 +660,9 @@
 
 `PLT130`: OPPO A6v
 
-**OPPO A6x (`baikal-b5`):**
+**OPPO A6x / OPPO A6m (`baikal-b5`):**
 
-`PLT140`: OPPO A6x
+`PLT140`: OPPO A6x / OPPO A6m
 
 **OPPO A6c (`baikal-b4`):**
 
