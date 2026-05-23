@@ -38,6 +38,10 @@
 
 `25067PYE3I`: Xiaomi 15 Civi 印度版 (未上市)
 
+**Xiaomi 17 Air (`pecan`):**
+
+`26023PN08C`: Xiaomi 17 Air (未上市)
+
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
