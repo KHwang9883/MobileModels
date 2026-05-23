@@ -828,6 +828,10 @@
 
 `V2561A`: vivo Y600 Pro
 
+**vivo Y600 Turbo (`PD2553`):**
+
+`V2553A`: vivo Y600 Turbo
+
 ## vivo T 系列
 
 **vivo T1 (`PD2115`):**
