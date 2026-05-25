@@ -412,6 +412,14 @@
 
 `V2527A`: vivo S50 Pro mini
 
+**vivo S60 (`PD2571`):**
+
+`V2571A`: vivo S60
+
+**vivo S60 元气版 (`PD2572`):**
+
+`V2572A`: vivo S60 元气版
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
