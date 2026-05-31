@@ -340,11 +340,11 @@
 
 `PMD110`: OPPO Reno15c
 
-**OPPO Reno16:**
+**OPPO Reno16 (`lychee-c2`):**
 
 `PMM110`: OPPO Reno16
 
-**OPPO Reno16 Pro:**
+**OPPO Reno16 Pro (`lychee-c1`):**
 
 `PMK110`: OPPO Reno16 Pro
 
@@ -820,7 +820,7 @@
 
 `OPD2515`: OPPO Pad Mini
 
-**OPPO Pad 6:**
+**OPPO Pad 6 (`jinggangshan`):**
 
 `OPD2601`: OPPO Pad 6
 
