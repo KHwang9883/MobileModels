@@ -265,6 +265,10 @@
 
 `LNA-NX3`: HONOR 600e
 
+**HONOR 600 Smart / HONOR 600 Lite s:**
+
+`MRK-NX1`: HONOR 600 Smart / HONOR 600 Lite s
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -439,6 +443,14 @@
 
 `LGN-NX1`: HONOR X7d 5G
 
+**HONOR X7e:**
+
+`LAB-LX2`: HONOR X7e
+
+**HONOR X7e Plus 5G:**
+
+`MRK-NX1`: HONOR X7e Plus 5G
+
 **HONOR X8 (`Tiffany`):**
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
@@ -522,6 +534,10 @@
 `HEY3-W00`: HONOR Pad 10 Wi-Fi
 
 `HEY3-N09`: HONOR Pad 10 5G
+
+**HONOR Pad 20 (`Hendry4`):**
+
+`HEY4-W09`: HONOR Pad 20 Wi-Fi
 
 **HONOR Pad V9 (`Rowling`):**
 
