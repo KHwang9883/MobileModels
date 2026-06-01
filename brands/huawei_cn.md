@@ -803,11 +803,11 @@
 
 `SLY-AL00`: HUAWEI nova 15 Ultra
 
-**HUAWEI nova 16:**
+**HUAWEI nova 16 (`Emilia`):**
 
 `EMA-AL00U`: HUAWEI nova 16
 
-**HUAWEI nova 16 Pro:**
+**HUAWEI nova 16 Pro (`Chris`):**
 
 `CRS-AL00`: HUAWEI nova 16 Pro
 
@@ -815,7 +815,7 @@
 
 `HIP-AL00`: HUAWEI nova 16 Ultra
 
-**HUAWEI nova 16z:**
+**HUAWEI nova 16z (`Pushkin`):**
 
 `PKN-AL00`: HUAWEI nova 16z
 
@@ -1323,7 +1323,7 @@
 
 `MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
 
-**HUAWEI MatePad Pro Max:**
+**HUAWEI MatePad Pro Max (`Gellman`):**
 
 `GEM-W00`: HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版
 
