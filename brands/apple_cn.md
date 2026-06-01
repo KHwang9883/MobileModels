@@ -144,25 +144,17 @@
 
 `A2223`: iPhone 11 
 
-`A2222`: iPhone 11 (中国移动)
-
 **[`D421AP`] iPhone 11 Pro (`iPhone12,3`):**
 
 `A2217`: iPhone 11 Pro 
-
-`A2216`: iPhone 11 Pro (中国移动)
 
 **[`D431AP`] iPhone 11 Pro Max (`iPhone12,5`):**
 
 `A2220`: iPhone 11 Pro Max 
 
-`A2219`: iPhone 11 Pro Max (中国移动)
-
 **[`D79AP`] iPhone SE (第 2 代) (`iPhone12,8`):**
 
 `A2298`: iPhone SE (第 2 代) 
-
-`A2297`: iPhone SE (第 2 代) (中国移动)
 
 **[`D52gAP`] iPhone 12 mini (`iPhone13,1`):**
 

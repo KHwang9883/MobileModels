@@ -207,8 +207,6 @@
 
 `A2223`: iPhone 11 (China mainland, Hong Kong, Macao)
 
-`A2222`: iPhone 11 (China Mobile)
-
 `A2221`: iPhone 11 (Rest of the world)
 
 **[`D421AP`] iPhone 11 Pro (`iPhone12,3`):**
@@ -216,8 +214,6 @@
 `A2160`: iPhone 11 Pro (North America)
 
 `A2217`: iPhone 11 Pro (China mainland, Hong Kong, Macao)
-
-`A2216`: iPhone 11 Pro (China Mobile)
 
 `A2215`: iPhone 11 Pro (Rest of the world)
 
@@ -227,8 +223,6 @@
 
 `A2220`: iPhone 11 Pro Max (China mainland, Hong Kong, Macao)
 
-`A2219`: iPhone 11 Pro Max (China Mobile)
-
 `A2218`: iPhone 11 Pro Max (Rest of the world)
 
 **[`D79AP`] iPhone SE (2nd generation) (`iPhone12,8`):**
@@ -236,8 +230,6 @@
 `A2275`: iPhone SE (2nd generation) (North America)
 
 `A2298`: iPhone SE (2nd generation) (China mainland)
-
-`A2297`: iPhone SE (2nd generation) (China Mobile)
 
 `A2296`: iPhone SE (2nd generation) (Rest of the world)
 
