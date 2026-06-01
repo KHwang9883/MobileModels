@@ -231,9 +231,9 @@
 
 **HUAWEI Mate 80 Pro (`Sagittarius`):**
 
-`SGT-AL50`: HUAWEI Mate 80 Pro (12GB 内存)
+`SGT-AL50`: HUAWEI Mate 80 Pro (麒麟 9030)
 
-`SGT-AL00`: HUAWEI Mate 80 Pro (16GB 内存)
+`SGT-AL00`: HUAWEI Mate 80 Pro (麒麟 9030 Pro)
 
 **HUAWEI Mate 80 Pro Max (`Sagittarius`):**
 
@@ -803,6 +803,22 @@
 
 `SLY-AL00`: HUAWEI nova 15 Ultra
 
+**HUAWEI nova 16:**
+
+`EMA-AL00U`: HUAWEI nova 16
+
+**HUAWEI nova 16 Pro:**
+
+`CRS-AL00`: HUAWEI nova 16 Pro
+
+**HUAWEI nova 16 Ultra:**
+
+`HIP-AL00`: HUAWEI nova 16 Ultra
+
+**HUAWEI nova 16z:**
+
+`PKN-AL00`: HUAWEI nova 16z
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -1306,6 +1322,14 @@
 `MRDI-W10`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版
 
 `MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
+
+**HUAWEI MatePad Pro Max:**
+
+`GEM-W00`: HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版
+
+`GEM-W10`: HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版 (20GB+1TB)
+
+`GEM-W40`: HUAWEI MatePad Pro Max 13.2 英寸 悦享款 Wi-Fi 版
 
 ## HUAWEI MatePad Edge 系列
 

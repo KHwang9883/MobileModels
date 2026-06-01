@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-06-01
+- `huawei_cn` 新增 nova 16 系列、HUAWEI MatePad Pro Max。
 ### 2026-05-26
 - `zte_cn` 新增 中兴畅行 70 Plus。
 ### 2026-05-25
