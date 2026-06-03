@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-06-02
+- `realme_global_en` Add realme P4R.
 ### 2026-06-01
 - `honor_global_en` Add several new models.
 ### 2026-05-18

@@ -697,6 +697,10 @@
 
 `RMX5261`: realme P4 Lite 5G
 
+**realme P4R 5G:**
+
+`RMX5266`: realme P4R 5G
+
 ## Narzo series
 
 **realme Narzo (`nemo`):**
