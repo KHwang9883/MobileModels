@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-06-04
+- `sony` Add Xperia 1 VIII.
 ### 2026-06-02
 - `realme_global_en` Add realme P4R.
 ### 2026-06-01
