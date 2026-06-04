@@ -2429,6 +2429,14 @@
 
 `HD9XNEWN`: 华为智慧屏 S7 Pro 98
 
+**华为智慧屏 S7X Pro:**
+
+`HD1XQINA`: 华为智慧屏 S7X Pro 65
+
+`HD77QINA`: 华为智慧屏 S7X Pro 75
+
+`HD85QINA`: 华为智慧屏 S7X Pro 85
+
 **华为智慧屏 SE 系列:**
 
 `HD55DESA`: 华为智慧屏 SE 55 (2GB+16GB)
@@ -3012,6 +3020,18 @@
 **华为擎云 HA590 (`Kimi`):**
 
 `KIM-B19B` `KIM-B29B`: 华为擎云 HA590
+
+**华为擎云 HA5A0:**
+
+`NOR-B39B`: 华为擎云 HA5A0
+
+**华为擎云 HA5B0:**
+
+`CDY-B19B`: 华为擎云 HA5B0
+
+**华为擎云 HAY20:**
+
+`NOR-B19`: 华为擎云 HAY20
 
 **华为儿童手表 3 Pro (`Simba`):**
 
