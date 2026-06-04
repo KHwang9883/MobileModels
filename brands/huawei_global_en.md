@@ -521,13 +521,13 @@
 
 `MGA-LX9` `MGA-LX9N` `MGA-LX3`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 
-**HUAWEI nova Y72 / HUAWEI nova Y73 (`Mega`):**
+**HUAWEI nova Y72 / HUAWEI nova Y73 / HUAWEI nova Y73S / HUAWEI nova Y74 / HUAWEI nova Y74S (`Mega`):**
 
-`MGA-LX3`: HUAWEI nova Y72 / HUAWEI nova Y73
+`MGA-LX3`: HUAWEI nova Y72 / HUAWEI nova Y73 / HUAWEI nova Y73S / HUAWEI nova Y74 / HUAWEI nova Y74S
 
-**HUAWEI nova Y72S (`Goofy`):**
+**HUAWEI nova Y63 / HUAWEI nova Y72S (`Goofy`):**
 
-`GFY-LX1`: HUAWEI nova Y72S
+`GFY-LX1`: HUAWEI nova Y63 / HUAWEI nova Y72S
 
 **HUAWEI nova Y90 (`Cartier`):**
 

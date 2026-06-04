@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-06-05
+- `huawei_global_en` Add several new models.
 ### 2026-06-04
 - `sony` Add Xperia 1 VIII.
 ### 2026-06-02
