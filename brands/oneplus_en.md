@@ -383,6 +383,14 @@
 
 `CPH2807`: OnePlus Nord CE 6 Global
 
+**OnePlus Turbo 6X:**
+
+`PYS110`: OnePlus Turbo 6X China
+
+**OnePlus Turbo 6X Pro:**
+
+`PYR110`: OnePlus Turbo 6X Pro China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India

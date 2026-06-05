@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2026-06-05
 - `huawei_global_en` Add several new models.
+- `oneplus_en` Add OnePlus Turbo 6X series.
 - `vivo_global_en` Add several new models.
 ### 2026-06-04
 - `sony` Add Xperia 1 VIII.
