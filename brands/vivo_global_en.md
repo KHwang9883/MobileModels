@@ -115,7 +115,7 @@
 
 **vivo X300 FE (`PD2527F`):**
 
-`V2537` `V2542`: vivo X300 FE
+`V2537` `V2542` `V2633`: vivo X300 FE
 
 **vivo X300 Ultra (`PD2547F`):**
 
@@ -425,9 +425,13 @@
 
 `V2504`: vivo T4 Ultra
 
+**vivo T5:**
+
+`V2583`: vivo T5
+
 **vivo T5 Pro (`PD2553F`):**
 
-`V2568`: vivo T5 Pro
+`V2568` `V2602`: vivo T5 Pro
 
 **vivo T5x 5G (`PD2532F`):**
 
@@ -774,6 +778,10 @@
 **vivo Y31e 5G (`PD2511F`):**
 
 `V2533`: vivo Y31e 5G
+
+**vivo Y31s 5G (`PD2511F`):**
+
+`V2614`: vivo Y31s 5G
 
 **vivo Y33 (`PD2103F`):**
 
@@ -1138,6 +1146,10 @@
 **JOVI V70 5G (`PD2529F`):**
 
 `J2507`: JOVI V70 5G
+
+**JOVI T1 5G:**
+
+`J2502`: JOVI T1 5G
 
 **JOVI Y19s (`PD2420F`):**
 
