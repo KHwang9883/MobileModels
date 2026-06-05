@@ -638,9 +638,9 @@
 
 `V2559A`: vivo Y60 5G / vivo Y6t 5G
 
-**vivo Y60m (`PD2559`):**
+**vivo Y60m / vivo Y60s m 版 (`PD2559`):**
 
-`V2559BA`: vivo Y60m 5G
+`V2559BA`: vivo Y60m 5G / vivo Y60s m 版
 
 **vivo Y6m (`PD2532`):**
 
