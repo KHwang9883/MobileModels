@@ -646,6 +646,10 @@
 
 `V2532BA`: vivo Y6m
 
+**vivo Y6t m 版 (`PD2542`):**
+
+`V2542A`: vivo Y6t m 版
+
 **vivo Y70s (`PD2002`):**
 
 `V2002A`: vivo Y70s 5G
