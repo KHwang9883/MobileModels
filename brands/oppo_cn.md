@@ -256,7 +256,7 @@
 
 `PFDM00`: OPPO Reno7 Pro
 
-**OPPO Reno7 SE:**
+**OPPO Reno7 SE (`dufu`):**
 
 `PFCM00`: OPPO Reno7 SE
 
@@ -710,7 +710,7 @@
 
 `PGCM10`: OPPO K9x
 
-**OPPO K10:**
+**OPPO K10 (`qqcandy`):**
 
 `PGJM10`: OPPO K10
 
