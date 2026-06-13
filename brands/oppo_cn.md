@@ -772,11 +772,11 @@
 
 ## 平板电脑
 
-**OPPO Pad:**
+**OPPO Pad (`oslo`):**
 
 `OPD2101`: OPPO Pad
 
-**OPPO Pad Air:**
+**OPPO Pad Air (`reeves`):**
 
 `OPD2102`: OPPO Pad Air
 
