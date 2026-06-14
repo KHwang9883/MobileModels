@@ -265,7 +265,7 @@
 
 `RMX5101`: realme 15 Pro 5G / realme 15 Pro 5G Game of Thrones Limited Edition
 
-**realme 15T 5G (`chopard`):**
+**realme 15T 5G (`chopard-a`):**
 
 `RMX5111`: realme 15T 5G
 
@@ -277,7 +277,7 @@
 
 `RMX5250`: realme 15x 5G
 
-**realme 16 5G:**
+**realme 16 5G (`chopard-b`):**
 
 `RMX5171`: realme 16 5G
 
@@ -289,7 +289,7 @@
 
 `RMX5131`: realme 16 Pro+ 5G
 
-**realme 16T 5G:**
+**realme 16T 5G (`mumbai-h`):**
 
 `RMX5268`: realme 16T 5G
 
@@ -351,7 +351,7 @@
 
 ## GT series
 
-**realme GT:**
+**realme GT (`cupid`):**
 
 `RMX2202`: realme GT 5G
 
@@ -521,7 +521,7 @@
 
 `RMX3762`: realme C53 India
 
-**realme C55 (`miami`):**
+**realme C55 (`miami-b`):**
 
 `RMX3710`: realme C55
 
@@ -547,9 +547,11 @@
 
 `RMX3910`: realme C65
 
+**realme C65 5G (`barley-e`):**
+
 `RMX3997`: realme C65 5G
 
-**realme C65s:**
+**realme C65s (`latte`):**
 
 `RMX3939`: realme C65s
 
@@ -565,7 +567,7 @@
 
 `RMX5303`: realme C71
 
-**realme C73 (`rado`):**
+**realme C73 (`rado-c`):**
 
 `RMX3945`: realme C73 5G
 
@@ -657,7 +659,7 @@
 
 `RMX5070` `RMX5079`: realme P3 5G
 
-**realme P3x (`rado`):**
+**realme P3x (`rado-f`):**
 
 `RMX3944`: realme P3x 5G
 
@@ -785,7 +787,7 @@
 
 `RMX3761`: realme Narzo N53
 
-**realme Narzo N55 (`miami`):**
+**realme Narzo N55 (`miami-b`):**
 
 `RMX3710`: realme Narzo N55
 
@@ -809,7 +811,7 @@
 
 `RMX3939`: realme NARZO N63
 
-**realme NARZO N65:**
+**realme NARZO N65 (`barley-e`):**
 
 `RMX3997`: realme NARZO N65 5G
 
@@ -833,15 +835,15 @@
 
 `RMX5033`: realme NARZO 80 Pro 5G
 
-**realme NARZO 80x (`rado`):**
+**realme NARZO 80x (`rado-f`):**
 
 `RMX3944`: realme NARZO 80x 5G
 
-**realme NARZO 80 Lite (`rado`):**
+**realme NARZO 80 Lite (`rado-c`):**
 
 `RMX3945`: realme NARZO 80 Lite 5G
 
-**realme NARZO 90 (`chopard`):**
+**realme NARZO 90 (`chopard-a`):**
 
 `RMX5111`: realme NARZO 90 5G
 
@@ -849,11 +851,11 @@
 
 `RMX5264`: realme NARZO 90x 5G
 
-**realme NARZO Power:**
+**realme NARZO Power (`casio-m`):**
 
 `RMX5107`: realme NARZO Power 5G
 
-**realme NARZO 100 Lite:**
+**realme NARZO 100 Lite (`mumbai-c2`):**
 
 `RMX5261`: realme NARZO 100 Lite 5G
 
