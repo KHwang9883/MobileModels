@@ -706,6 +706,10 @@
 
 `MTN-AN80`: 荣耀 X70 (12GB+512GB)
 
+**荣耀 X70 Pro Max:**
+
+`MTN-AN00`: 荣耀 X70 Pro Max
+
 **荣耀 X70i (`Amber`):**
 
 `ABR-AN00`: 荣耀 X70i
@@ -1072,7 +1076,7 @@
 
 `NLA-AL00`: 荣耀畅玩 70C
 
-**荣耀畅玩 80 Plus:**
+**荣耀畅玩 80 Plus (`Labu`):**
 
 `LAB-AN00`: 荣耀畅玩 80 Plus 5G
 

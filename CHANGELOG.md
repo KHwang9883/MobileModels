@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-06-15
+- `honor_cn` 新增 荣耀 X70 Pro Max。
 ### 2026-06-10
 - `honor_cn` 新增 荣耀 X80 Pro Max。
 - `zte_cn` 新增 中兴小鲜 70 Plus。
