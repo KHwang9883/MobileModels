@@ -638,9 +638,9 @@
 
 `V2279A`: vivo Y55t 5G
 
-**vivo Y60 / vivo Y6t (`PD2559`):**
+**vivo Y60 / vivo Y6t / vivo Y6e (`PD2559`):**
 
-`V2559A`: vivo Y60 5G / vivo Y6t 5G
+`V2559A`: vivo Y60 5G / vivo Y6t 5G / vivo Y6e 5G
 
 **vivo Y60m / vivo Y60s m 版 (`PD2559`):**
 
@@ -836,9 +836,9 @@
 
 `V2516A`: vivo Y500 Pro
 
-**vivo Y500i / vivo Y500s / vivo Y6 (`PD2531`):**
+**vivo Y500i / vivo Y500s / vivo Y6 / vivo Y6a (`PD2531`):**
 
-`V2531A`: vivo Y500i / vivo Y500s / vivo Y6
+`V2531A`: vivo Y500i / vivo Y500s / vivo Y6 / vivo Y6a
 
 **vivo Y600 Pro (`PD2561`):**
 
