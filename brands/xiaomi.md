@@ -2168,6 +2168,10 @@
 
 `2604FRK1EC`: REDMI K90 Max
 
+**[`P12X`] REDMI K90 至尊版 (`warsaw`):**
+
+`M332BF`: REDMI K90 至尊版
+
 ## 其他 REDMI 手机
 
 **[`H3C`] 红米 Pro (`omega`):**

@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-06-16
 - `vivo_cn` 新增 vivo X Fold6。
+- `xiaomi` 新增 REDMI K90 至尊版。
 ### 2026-06-15
 - `honor_cn` 新增 荣耀 X70 Pro Max。
 ### 2026-06-10
