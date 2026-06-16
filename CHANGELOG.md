@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-06-16
+- `nubia` 新增 红魔游戏平板 5 Pro。
 - `vivo_cn` 新增 vivo X Fold6。
 - `xiaomi` 新增 REDMI K90 至尊版。
 ### 2026-06-15
