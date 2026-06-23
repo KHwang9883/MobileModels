@@ -1569,6 +1569,18 @@
 
 `SM-A266M`: Galaxy A26 5G Latin America
 
+**Galaxy A27 5G (`a26xq`):**
+
+`SM-A276B`: Galaxy A27 5G Global
+
+`SM-A276U`: Galaxy A27 5G US Carrier
+
+`SM-A276U1`: Galaxy A27 5G US Unlocked
+
+`SM-S276V`: Galaxy A27 5G TracFone
+
+`SM-A2760`: Galaxy A27 5G HK
+
 **Galaxy A30 (`a30`):**
 
 `SM-A305F`: Galaxy A30 Global
