@@ -1153,7 +1153,7 @@
 
 `23124RN87C`: Redmi 13C 5G China / Redmi 13R 5G China
 
-**[`C3N`] Redmi 14C (`lake`) (`pond`):**
+**[`C3N`] Redmi 14C / REDMI 17C (`lake`) (`pond`):**
 
 `2409BRN2CA`: Redmi 14C Global
 
@@ -1161,7 +1161,7 @@
 
 `2409BRN2CL`: Redmi 14C Latin America / Japan / Korea
 
-`2409BRN2CC`: Redmi 14C China
+`2409BRN2CC`: Redmi 14C China / REDMI 17C China
 
 **[`C3N`] Redmi 14C (`lake`):**
 
@@ -1273,9 +1273,9 @@
 
 **[`H3Z`] Redmi Note 3 (`hennessy`):**
 
-`2015617`: Redmi Note 3 (Mediatek) China
+`2015617`: Redmi Note 3 (MediaTek) China
 
-`2015611`: Redmi Note 3 (Mediatek) China Mobile
+`2015611`: Redmi Note 3 (MediaTek) China Mobile
 
 **[`H3A`] Redmi Note 3 (`kenzo`):**
 
@@ -1289,9 +1289,9 @@
 
 **[`B6L`] Redmi Note 4 (`nikel`):**
 
-`2016050`: Redmi Note 4 (Mediatek) China / Global
+`2016050`: Redmi Note 4 (MediaTek) China / Global
 
-`2016051`: Redmi Note 4 (Mediatek) China Mobile
+`2016051`: Redmi Note 4 (MediaTek) China Mobile
 
 **[`C6`] Redmi Note 4 / Redmi Note 4X (`mido`):**
 
@@ -1303,9 +1303,9 @@
 
 **[`B6A`] Redmi Note 4X (`nikel`):**
 
-`MBE6A5`: Redmi Note 4X (Mediatek) China
+`MBE6A5`: Redmi Note 4X (MediaTek) China
 
-`MBT6A5`: Redmi Note 4X (Mediatek) China Mobile
+`MBT6A5`: Redmi Note 4X (MediaTek) China Mobile
 
 **[`E7`] Redmi Note 5 (`vince`):**
 
