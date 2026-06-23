@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-06-23
+- `realme_global_en` Add several new models.
 ### 2026-06-05
 - `huawei_global_en` Add several new models.
 - `oneplus_en` Add OnePlus Turbo 6X series.

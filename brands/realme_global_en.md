@@ -603,11 +603,19 @@
 
 **realme C100:**
 
+`RMX5353`: realme C100
+
+**realme C100:**
+
 `RMX5258`: realme C100 5G
 
 **realme C100i:**
 
 `RMX5377`: realme C100i
+
+**realme C100x:**
+
+`RMX5366`: realme C100x
 
 ## Note series
 
@@ -683,7 +691,11 @@
 
 `RMX5116`: realme P4 Pro 5G
 
-**realme P4x (`suzuki`):**
+**realme P4x:**
+
+`RMX5367`: realme P4x
+
+**realme P4x 5G (`suzuki`):**
 
 `RMX5108`: realme P4x 5G
 
