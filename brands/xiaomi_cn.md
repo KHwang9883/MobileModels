@@ -740,9 +740,9 @@
 
 `23124RN87C`: Redmi 13C 5G / Redmi 13R 5G
 
-**[`C3N`] Redmi 14C (`lake`) (`pond`):**
+**[`C3N`] Redmi 14C / REDMI 17C (`lake`) (`pond`):**
 
-`2409BRN2CC`: Redmi 14C
+`2409BRN2CC`: Redmi 14C / REDMI 17C
 
 **[`C3F`] Redmi 14R 5G (`flame`):**
 

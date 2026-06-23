@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-06-23
+- `xiaomi` 新增 REDMI 17C。
 ### 2026-06-16
 - `nubia` 新增 红魔游戏平板 5 Pro。
 - `vivo_cn` 新增 vivo X Fold6。

@@ -1280,9 +1280,9 @@
 
 `23124RN87G`: Redmi 13C 5G 国际版
 
-**[`C3N`] Redmi 14C (`lake`) (`pond`):**
+**[`C3N`] Redmi 14C / REDMI 17C (`lake`) (`pond`):**
 
-`2409BRN2CC`: Redmi 14C 国行版
+`2409BRN2CC`: Redmi 14C 国行版 / REDMI 17C 国行版
 
 `2409BRN2CA`: Redmi 14C 国际版
 
