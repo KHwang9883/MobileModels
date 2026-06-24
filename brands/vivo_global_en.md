@@ -437,6 +437,10 @@
 
 `V2545`: vivo T5x 5G
 
+**vivo T5e:**
+
+`V2628`: vivo T5e
+
 **vivo T5 Lite 5G (`PD2542F`):**
 
 `V2603`: vivo T5 Lite 5G
@@ -507,6 +511,10 @@
 
 `V2556` `V2565`: vivo Y05
 
+**vivo Y05e:**
+
+`V2606`: vivo Y05e
+
 **vivo Y11 5G (`PD2542F`):**
 
 `V2575`: vivo Y11 5G
@@ -517,7 +525,7 @@
 
 **vivo Y11d (`PD2541F`):**
 
-`V2555` `V2578` `V2580`: vivo Y11d
+`V2555` `V2578` `V2580` `V2646`: vivo Y11d
 
 **vivo Y11e (`PD2541F`):**
 
