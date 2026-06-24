@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2026-06-24
 - `vivo_global_en` Add several new models.
+- `xiaomi_en` Add REDMI K90 Ultra.
 ### 2026-06-23
 - `realme_global_en` Add several new models.
 - `samsung_global_en` Add Galaxy A27 5G.

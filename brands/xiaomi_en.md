@@ -2023,6 +2023,10 @@
 
 `2604FRK1EC`: REDMI K90 Max
 
+**[`P12X`] REDMI K90 Ultra (`warsaw`):**
+
+`M332BF`: REDMI K90 Ultra
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
