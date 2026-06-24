@@ -1705,7 +1705,7 @@
 
 `HAD-W32`: HUAWEI MateBook Pro (32GB 内存)
 
-**HUAWEI MateBook Fold 非凡大师 (`Hooper`):**
+**HUAWEI MateBook Fold 非凡大师 (`Hopper`):**
 
 `HPR-W72`: HUAWEI MateBook Fold 非凡大师 (32GB 内存)
 
