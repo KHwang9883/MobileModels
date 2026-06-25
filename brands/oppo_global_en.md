@@ -353,6 +353,10 @@
 
 `CPH2801`: OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G / OPPO Reno15 A
 
+**OPPO Reno16 F / OPPO Reno16 FS / OPPO Reno16c:**
+
+`CPH2859`: OPPO Reno16 F 5G / OPPO Reno16 FS 5G / OPPO Reno16c 5G
+
 ## F series
 
 **OPPO F7:**

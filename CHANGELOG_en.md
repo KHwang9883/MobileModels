@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-06-25
+- `oppo_global_en` Add OPPO Reno16 F.
 ### 2026-06-24
 - `vivo_global_en` Add several new models.
 - `xiaomi_en` Add REDMI K90 Ultra.
