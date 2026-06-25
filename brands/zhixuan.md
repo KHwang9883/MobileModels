@@ -195,13 +195,17 @@
 
 `CHE-AN00`: WIKO X70
 
-**Hi MateBook 14:**
+**Hi MateBook 14 (`MarseilleH`):**
 
 `MASH-16`: Hi MateBook 14 (16GB 内存)
 
 `MASH-32`: Hi MateBook 14 (32GB 内存)
 
+**Hi MateBook 14 (`MarseilleI`):**
+
 `MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)
+
+**Hi MateBook 14 (`MarseilleC`):**
 
 `MASC-24`: Hi MateBook 14 酷睿 Ultra 2 (24GB 内存) (圆形键盘)
 
