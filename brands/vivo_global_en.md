@@ -1129,9 +1129,9 @@
 
 `I2510`: iQOO Z11 Lite 5G
 
-**iQOO Z11 Lite 44W 5G:**
+**iQOO Z11 Lite 44W 5G (`PD2542F`):**
 
-`I2515`: iQOO Z11 Lite 44W 5G
+`I2510` `I2515`: iQOO Z11 Lite 44W 5G
 
 ## JOVI Smartphones
 
