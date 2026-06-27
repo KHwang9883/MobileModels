@@ -640,19 +640,19 @@
 
 **vivo Y60 / vivo Y6t / vivo Y6e (`PD2559`):**
 
-`V2559A`: vivo Y60 5G / vivo Y6t 5G / vivo Y6e 5G
+`V2559A`: vivo Y60 / vivo Y6t / vivo Y6e
 
 **vivo Y60m / vivo Y60s m 版 (`PD2559`):**
 
-`V2559BA`: vivo Y60m 5G / vivo Y60s m 版
+`V2559BA`: vivo Y60m / vivo Y60s m 版
 
 **vivo Y6m (`PD2532`):**
 
 `V2532BA`: vivo Y6m
 
-**vivo Y6t m 版 (`PD2542`):**
+**vivo Y60i / vivo Y60i m 版 / vivo Y6t m 版 (`PD2542`):**
 
-`V2542A`: vivo Y6t m 版
+`V2542A`: vivo Y60i / vivo Y60i m 版 / vivo Y6t m 版
 
 **vivo Y70s (`PD2002`):**
 
@@ -961,6 +961,10 @@
 **vivo G3 (`PD2443`):**
 
 `V2443A`: vivo G3
+
+**vivo G5i / vivo G5z (`PD2531`):**
+
+`V2531A`: vivo G5i / vivo G5z
 
 ## iQOO 旗舰系列
 
