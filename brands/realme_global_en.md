@@ -597,23 +597,23 @@
 
 `RMX5253`: realme C85 5G
 
-**realme C85 Pro (`moscow`):**
+**realme C85 Pro (`moscow-a`):**
 
 `RMX5555`: realme C85 Pro
 
-**realme C100:**
+**realme C100 (`madrid`):**
 
 `RMX5353`: realme C100
 
-**realme C100:**
+**realme C100 5G (`mumbai-d`):**
 
 `RMX5258`: realme C100 5G
 
-**realme C100i:**
+**realme C100i (`nairobi`):**
 
 `RMX5377`: realme C100i
 
-**realme C100x:**
+**realme C100x (`nairobi`):**
 
 `RMX5366`: realme C100x
 
@@ -635,7 +635,7 @@
 
 `RMX5313`: realme Note 70 / realme Note 70T
 
-**realme Note 80:**
+**realme Note 80 (`dhaka`):**
 
 `RMX5388`: realme Note 80
 
@@ -683,7 +683,11 @@
 
 `RMX3943`: realme P3 Lite 5G
 
-**realme P4 (`casio-p`):**
+**realme P4 (`moscow-a`):**
+
+`RMX5555`: realme P4
+
+**realme P4 5G (`casio-p`):**
 
 `RMX5110`: realme P4 5G
 
@@ -691,7 +695,7 @@
 
 `RMX5116`: realme P4 Pro 5G
 
-**realme P4x:**
+**realme P4x (`nairobi`):**
 
 `RMX5367`: realme P4x
 
