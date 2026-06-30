@@ -369,7 +369,7 @@
 
 `M2447E1`: Xiaomi 骨传导耳机 2
 
-**[`O70C`] Xiaomi 耳夹式耳机:**
+**[`Q74U`] Xiaomi 耳夹式耳机:**
 
 `M2529E1`: Xiaomi 耳夹式耳机
 
@@ -482,6 +482,10 @@
 **[`P79A`] REDMI Buds 8 青春版 / REDMI Buds 8 Lite:**
 
 `M2539E1`: REDMI Buds 8 青春版 / REDMI Buds 8 Lite 国际版
+
+**[`O70C`] REDMI 头戴降噪耳机 / REDMI Headphones Neo:**
+
+`M2546E1`: REDMI 头戴降噪耳机 / REDMI Headphones Neo 国际版
 
 ## POCO TWS
 
