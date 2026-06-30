@@ -1569,7 +1569,7 @@
 
 `SM-A266M`: Galaxy A26 5G Latin America
 
-**Galaxy A27 5G (`a26xq`):**
+**Galaxy A27 5G (`a27xq`):**
 
 `SM-A276B`: Galaxy A27 5G Global
 
