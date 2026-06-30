@@ -472,6 +472,10 @@
 
 `CPH2943`: 一加 Nord CE 6 Lite 印度版
 
+**一加 N6:**
+
+`CPH2955`: 一加 N6 印度版
+
 **一加 Nord N10 (`billie8`):**
 
 `BE2025`: 一加 Nord N10 Metro 版

@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-06-30
+- `oneplus` 新增 OnePlus N6 印度版。
 - `xiaomi-wear` 新增 REDMI 头戴降噪耳机。
 ### 2026-06-27
 - `vivo_cn` 新增部分型号。
