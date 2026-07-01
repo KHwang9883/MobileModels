@@ -1364,9 +1364,9 @@
 
 `iPA2575`: iQOO Pad5 Pro
 
-**iQOO Pad5e (`DPD2345`):**
+**iQOO Pad5e / iQOO Pad5c (`DPD2345`):**
 
-`iPA2537`: iQOO Pad5e
+`iPA2537`: iQOO Pad5e / iQOO Pad5c
 
 **iQOO Pad6 Pro:**
 
