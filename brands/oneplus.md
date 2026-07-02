@@ -364,7 +364,7 @@
 
 `PLZ110`: 一加 15T 国行版
 
-**一加 Ace 6 至尊版:**
+**一加 Ace 6 至尊版 (`roadster`):**
 
 `PMB110`: 一加 Ace 6 至尊版 国行版
 
@@ -384,11 +384,11 @@
 
 `CPH2807`: 一加 Nord CE 6 国际版
 
-**一加 Turbo 6X:**
+**一加 Turbo 6X (`kof`):**
 
 `PYS110`: 一加 Turbo 6X 国行版
 
-**一加 Turbo 6X Pro:**
+**一加 Turbo 6X Pro (`lol`):**
 
 `PYR110`: 一加 Turbo 6X Pro 国行版
 
