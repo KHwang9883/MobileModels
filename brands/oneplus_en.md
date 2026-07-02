@@ -363,7 +363,7 @@
 
 `PLZ110`: OnePlus 15T China
 
-**OnePlus Ace 6 Ultra:**
+**OnePlus Ace 6 Ultra (`roadster`):**
 
 `PMB110`: OnePlus Ace 6 Ultra China
 
@@ -383,11 +383,11 @@
 
 `CPH2807`: OnePlus Nord CE 6 Global
 
-**OnePlus Turbo 6X:**
+**OnePlus Turbo 6X (`kof`):**
 
 `PYS110`: OnePlus Turbo 6X China
 
-**OnePlus Turbo 6X Pro:**
+**OnePlus Turbo 6X Pro (`lol`):**
 
 `PYR110`: OnePlus Turbo 6X Pro China
 
