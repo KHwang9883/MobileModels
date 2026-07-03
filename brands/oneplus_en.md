@@ -467,7 +467,7 @@
 
 `CPH2719`: OnePlus Nord CE 5 Global
 
-**OnePlus Nord CE 6 Lite:**
+**OnePlus Nord CE 6 Lite (`suzuki-o`):**
 
 `CPH2943`: OnePlus Nord CE 6 Lite India
 
