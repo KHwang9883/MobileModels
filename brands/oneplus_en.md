@@ -555,23 +555,23 @@
 
 `OPD2415`: OnePlus Pad 3 Global
 
-**OnePlus Pad Lite:**
+**OnePlus Pad Lite (`fiji-o`):**
 
 `OPD2480`: OnePlus Pad Lite Wi-Fi
 
 `OPD2481`: OnePlus Pad Lite LTE
 
-**OnePlus Pad Go 2:**
+**OnePlus Pad Go 2 (`greenland-o`):**
 
 `OPD2504`: OnePlus Pad Go 2 Wi-Fi
 
 `OPD2505`: OnePlus Pad Go 2 5G
 
-**OnePlus Pad 2 (2025) (`himalaya-o`):**
+**OnePlus Pad 2 (2025) (`himalayan-o`):**
 
 `OPD2508`: OnePlus Pad 2 (2025) China
 
-**OnePlus Pad 3 Pro / OnePlus Pad 4:**
+**OnePlus Pad 3 Pro / OnePlus Pad 4 (`iceland-o`):**
 
 `OPD2513`: OnePlus Pad 3 Pro China
 
