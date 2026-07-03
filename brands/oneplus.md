@@ -468,7 +468,7 @@
 
 `CPH2719`: 一加 Nord CE 5 国际版
 
-**一加 Nord CE 6 Lite:**
+**一加 Nord CE 6 Lite (`suzuki-o`):**
 
 `CPH2943`: 一加 Nord CE 6 Lite 印度版
 
