@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-07-03
+- `oppo_global_en` Add OPPO Reno16.
 ### 2026-06-30
 - `oneplus_en` Add OnePlus N6.
 ### 2026-06-25
