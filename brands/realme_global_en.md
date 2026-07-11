@@ -639,9 +639,9 @@
 
 `RMX3938`: realme Note 60x
 
-**realme Note 70 / realme Note 70T / realme Note 70s / realme NARZO 80 Lite (`latte-t`):**
+**realme Note 70 / realme Note 70T / realme Note 70s (`latte-t`):**
 
-`RMX5313`: realme Note 70 / realme Note 70T / realme Note 70s / realme NARZO 80 Lite
+`RMX5313`: realme Note 70 / realme Note 70T / realme Note 70s
 
 **realme Note 80 / realme Note 80s (`latte-m`):**
 
@@ -867,7 +867,11 @@
 
 `RMX3944`: realme NARZO 80x 5G
 
-**realme NARZO 80 Lite (`rado-c`):**
+**realme NARZO 80 Lite (`latte-t`):**
+
+`RMX5313`: realme NARZO 80 Lite
+
+**realme NARZO 80 Lite 5G (`rado-c`):**
 
 `RMX3945`: realme NARZO 80 Lite 5G
 
