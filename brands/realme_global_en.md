@@ -483,7 +483,7 @@
 
 `RMX3265` `RMX3269`: realme C25Y
 
-**realme C30:**
+**realme C30 (`nico-c`):**
 
 `RMX3581` `RMX3623`: realme C30
 
@@ -491,7 +491,7 @@
 
 `RMX3690`: realme C30s
 
-**realme C31:**
+**realme C31 (`nico-a`):**
 
 `RMX3501` `RMX3502` `RMX3503`: realme C31
 
@@ -503,21 +503,23 @@
 
 `RMX3627`: realme C33 2023
 
-**realme C35:**
+**realme C35 (`nicky`):**
 
 `RMX3511` `RMX3512` `RMX3513`: realme C35
 
-**realme C51:**
+**realme C51 (`hulk`):**
 
 `RMX3830`: realme C51
 
-**realme C51s:**
+**realme C51s (`hulk-m`):**
 
 `RMX3765`: realme C51s
 
-**realme C53:**
+**realme C53 (`hulk-b`):**
 
 `RMX3760`: realme C53 Global
+
+**realme C53 (`hulk-d`):**
 
 `RMX3762`: realme C53 India
 
@@ -525,17 +527,23 @@
 
 `RMX3710`: realme C55
 
-**realme C60 (`hulk`):**
+**realme C60 (`hulk-k`):**
 
 `RMX3834`: realme C60
 
 **realme C61 (`latte`):**
 
-`RMX3939` `RMX3930`: realme C61 Global
+`RMX3930`: realme C61 Global
+
+**realme C61 (`latte-h`):**
+
+`RMX3939`: realme C61 Global
+
+**realme C61 (`latte-a`):**
 
 `RMX3933`: realme C61 India
 
-**realme C63 (`latte`):**
+**realme C63 (`latte-b`):**
 
 `RMX3939`: realme C63
 
@@ -551,7 +559,7 @@
 
 `RMX3997`: realme C65 5G
 
-**realme C65s (`latte`):**
+**realme C65s (`latte-b`):**
 
 `RMX3939`: realme C65s
 
@@ -609,7 +617,7 @@
 
 `RMX5258`: realme C100 5G
 
-**realme C100i (`nairobi`):**
+**realme C100i (`nairobi-a`):**
 
 `RMX5377`: realme C100i
 
@@ -619,25 +627,25 @@
 
 ## Note series
 
-**realme Note 50 (`hulk`):**
+**realme Note 50 (`hulk-k`):**
 
 `RMX3834`: realme Note 50
 
-**realme Note 60 (`latte`):**
+**realme Note 60 / realme Note 60s (`latte-a`):**
 
-`RMX3933`: realme Note 60
+`RMX3933`: realme Note 60 / realme Note 60s
 
-**realme Note 60x (`latte`):**
+**realme Note 60x (`latte-k`):**
 
 `RMX3938`: realme Note 60x
 
-**realme Note 70 / realme Note 70T (`dhaka`):**
+**realme Note 70 / realme Note 70T / realme Note 70s (`latte-t`):**
 
-`RMX5313`: realme Note 70 / realme Note 70T
+`RMX5313`: realme Note 70 / realme Note 70T / realme Note 70s
 
-**realme Note 80 (`dhaka`):**
+**realme Note 80 / realme Note 80s (`latte-m`):**
 
-`RMX5388`: realme Note 80
+`RMX5388`: realme Note 80 / realme Note 80s
 
 ## U series
 
@@ -679,7 +687,11 @@
 
 `RMX5030` `RMX5031`: realme P3 Ultra 5G
 
-**realme P3 Lite (`rado`):**
+**realme P3 Lite (`dhaka-a`):**
+
+`RMX5300`: realme P3 Lite
+
+**realme P3 Lite 5G (`rado`):**
 
 `RMX3943`: realme P3 Lite 5G
 
@@ -695,7 +707,7 @@
 
 `RMX5116`: realme P4 Pro 5G
 
-**realme P4x (`nairobi`):**
+**realme P4x (`nairobi-p`):**
 
 `RMX5367`: realme P4x
 
@@ -707,7 +719,7 @@
 
 `RMX5107`: realme P4 Power 5G
 
-**realme P4 Lite (`dhaka`):**
+**realme P4 Lite (`latte-t`):**
 
 `RMX5313`: realme P4 Lite
 
@@ -785,7 +797,7 @@
 
 `RMX3430`: realme Narzo 50A
 
-**realme Narzo 50A Prime:**
+**realme Narzo 50A Prime (`nicky-a`):**
 
 `RMX3516` `RMX3517`: realme Narzo 50A Prime
 
@@ -795,11 +807,11 @@
 
 `RMX3235`: realme Narzo 50i Global
 
-**realme Narzo 50i Prime:**
+**realme Narzo 50i Prime (`nico-b`):**
 
 `RMX3506`: realme Narzo 50i Prime
 
-**realme Narzo N53 (`hulk`):**
+**realme Narzo N53 (`hulk-c`):**
 
 `RMX3761`: realme Narzo N53
 
@@ -819,11 +831,11 @@
 
 `RMX3782`: realme Narzo 60x 5G
 
-**realme NARZO N61 (`latte`):**
+**realme NARZO N61 (`latte-a`):**
 
 `RMX3933`: realme NARZO N61
 
-**realme NARZO N63 (`latte`):**
+**realme NARZO N63 (`latte-c`):**
 
 `RMX3939`: realme NARZO N63
 
@@ -855,7 +867,11 @@
 
 `RMX3944`: realme NARZO 80x 5G
 
-**realme NARZO 80 Lite (`rado-c`):**
+**realme NARZO 80 Lite (`latte-t`):**
+
+`RMX5313`: realme NARZO 80 Lite
+
+**realme NARZO 80 Lite 5G (`rado-c`):**
 
 `RMX3945`: realme NARZO 80 Lite 5G
 
@@ -883,7 +899,7 @@
 
 `RMP2103`: realme Pad Wi-Fi
 
-**realme Pad mini (`freyia`):**
+**realme Pad mini (`na500`):**
 
 `RMP2105`: realme Pad mini LTE
 
@@ -895,13 +911,13 @@
 
 `RMP2108`: realme Pad X Wi-Fi
 
-**realme Pad 2:**
+**realme Pad 2 (`sonic`):**
 
 `RMP2204`: realme Pad 2 LTE
 
 `RMP2205`: realme Pad 2 Wi-Fi
 
-**realme Pad 2 Lite:**
+**realme Pad 2 Lite (`sonic-s`):**
 
 `RMP2402`: realme Pad 2 Lite
 
