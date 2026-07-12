@@ -137,7 +137,7 @@
 
 `RMX3472`: realme 9 Pro 5G Global
 
-**realme 9 Pro+ 5G:**
+**realme 9 Pro+ 5G (`moss`):**
 
 `RMX3392`: realme 9 Pro+ 5G India
 
@@ -471,11 +471,11 @@
 
 `RMX3261` `RMX3262` `RMX3263`: realme C21Y
 
-**realme C25:**
+**realme C25 (`even`):**
 
 `RMX3191` `RMX3193`: realme C25
 
-**realme C25s:**
+**realme C25s (`even`):**
 
 `RMX3195` `RMX3197`: realme C25s
 
@@ -487,7 +487,7 @@
 
 `RMX3581` `RMX3623`: realme C30
 
-**realme C30s:**
+**realme C30s (`milan`):**
 
 `RMX3690`: realme C30s
 
@@ -495,11 +495,11 @@
 
 `RMX3501` `RMX3502` `RMX3503`: realme C31
 
-**realme C33:**
+**realme C33 (`beidou-b`):**
 
 `RMX3624`: realme C33
 
-**realme C33 2023:**
+**realme C33 2023 (`beidou-e`):**
 
 `RMX3627`: realme C33 2023
 
@@ -551,7 +551,7 @@
 
 `RMX3950`: realme C63 5G
 
-**realme C65:**
+**realme C65 (`ark`):**
 
 `RMX3910`: realme C65
 
@@ -563,7 +563,7 @@
 
 `RMX3939`: realme C65s
 
-**realme C67:**
+**realme C67 (`zoe`):**
 
 `RMX3890`: realme C67
 
@@ -787,13 +787,13 @@
 
 `RMX3572`: realme Narzo 50 5G Global
 
-**realme Narzo 50 Pro:**
+**realme Narzo 50 Pro (`moss`):**
 
 `RMX3395`: realme Narzo 50 Pro 5G India
 
 `RMX3396`: realme Narzo 50 Pro 5G Global
 
-**realme Narzo 50A:**
+**realme Narzo 50A (`even`):**
 
 `RMX3430`: realme Narzo 50A
 
@@ -899,7 +899,7 @@
 
 `RMP2103`: realme Pad Wi-Fi
 
-**realme Pad mini (`na500`):**
+**realme Pad mini (`freya`):**
 
 `RMP2105`: realme Pad mini LTE
 
