@@ -1833,6 +1833,14 @@
 
 `25057RA09C`: REDMI Note 15R China
 
+**[`P19`] REDMI Note 17 5G (`mist`):**
+
+`26021RN18C`: REDMI Note 17 5G China
+
+**[`Q17`] REDMI Note 17 Pro 5G (`iolite`) (`moscow`):**
+
+`2607DRA18C`: REDMI Note 17 Pro 5G China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -2021,11 +2029,11 @@
 
 **[`P12`] REDMI K90 Max (`prague`):**
 
-`2604FRK1EC`: REDMI K90 Max
+`2604FRK1EC`: REDMI K90 Max China
 
 **[`P12X`] REDMI K90 Ultra (`warsaw`):**
 
-`M332BF`: REDMI K90 Ultra
+`M332BF`: REDMI K90 Ultra Chin
 
 **[`H3C`] Redmi Pro (`omega`):**
 
