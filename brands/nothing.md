@@ -45,6 +45,10 @@
 
 `A069P`: Nothing Phone (4a) Pro
 
+**Nothing Phone (4b) (`SuperContra`):**
+
+`A009P`: Nothing Phone (4b)
+
 **CMF Phone 1 (`Tetris`):**
 
 `A015`: CMF Phone 1
