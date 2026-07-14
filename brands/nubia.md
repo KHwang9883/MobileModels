@@ -254,6 +254,10 @@
 
 `Z2465N`: nubia Neo 3 GT 5G
 
+**nubia Neo 5:**
+
+`Z2571N`: nubia Neo 5 5G
+
 **nubia Neo 5 GT:**
 
 `Z2570N`: nubia Neo 5 GT 5G
