@@ -319,6 +319,14 @@
 
 `LMU-LX9`: HUAWEI Pura 80 Ultra
 
+**HUAWEI Pura 90s Pro (`Malena`):**
+
+`MLN-LX9`: HUAWEI Pura 90s Pro
+
+**HUAWEI Pura 90s Pro Max (`Sicilia`):**
+
+`SCA-LX9`: HUAWEI Pura 90s Pro Max
+
 **HUAWEI P smart (`Figo`):**
 
 `FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`: HUAWEI P smart

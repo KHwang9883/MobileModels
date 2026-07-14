@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-07-14
+- `huawei_global_en` Add HUAWEI Pura 90s Pro, Pura 90s Pro Max.
 - `nothing` Add Nothing Phone (4b).
 ### 2026-07-03
 - `oppo_global_en` Add OPPO Reno16.
