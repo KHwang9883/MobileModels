@@ -1016,6 +1016,14 @@
 
 `25057RA09C`: REDMI Note 15R
 
+**[`P19`] REDMI Note 17 (`mist`):**
+
+`26021RN18C`: REDMI Note 17
+
+**[`Q17`] REDMI Note 17 Pro (`iolite`) (`moscow`):**
+
+`2607DRA18C`: REDMI Note 17 Pro
+
 ## Redmi X 系列
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
