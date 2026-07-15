@@ -2033,7 +2033,7 @@
 
 **[`P12X`] REDMI K90 Ultra (`warsaw`):**
 
-`M332BF`: REDMI K90 Ultra Chin
+`M332BF`: REDMI K90 Ultra China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
