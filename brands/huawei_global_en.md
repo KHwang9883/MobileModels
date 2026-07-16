@@ -791,6 +791,10 @@
 
 `LRT-W09`: HUAWEI MatePad 12 X 2025 Wi-Fi
 
+**HUAWEI MatePad Air 2026:**
+
+`WKI-W09`: HUAWEI MatePad Air 2026 Wi-Fi
+
 **HUAWEI MatePad Pro (`Marx`):**
 
 `MRX-W09` `MRX-W29`: HUAWEI MatePad Pro 10.8 Wi-Fi

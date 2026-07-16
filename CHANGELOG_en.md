@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-07-16
+- `huawei_global_en` Add HUAWEI MatePad Air 2026.
 ### 2026-07-14
 - `huawei_global_en` Add HUAWEI Pura 90s Pro, Pura 90s Pro Max.
 - `nothing` Add Nothing Phone (4b).
