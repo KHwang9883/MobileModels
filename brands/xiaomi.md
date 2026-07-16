@@ -1972,7 +1972,7 @@
 
 `26021RN18C`: REDMI Note 17 国行版
 
-**[`Q17`] REDMI Note 17 Pro (`iolite`) (`moscow`):**
+**[`Q16`] REDMI Note 17 Pro (`iolite`) (`moscow`):**
 
 `2607DRA18C`: REDMI Note 17 Pro 国行版
 

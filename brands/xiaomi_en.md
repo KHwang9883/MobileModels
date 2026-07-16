@@ -1837,7 +1837,7 @@
 
 `26021RN18C`: REDMI Note 17 5G China
 
-**[`Q17`] REDMI Note 17 Pro 5G (`iolite`) (`moscow`):**
+**[`Q16`] REDMI Note 17 Pro 5G (`iolite`) (`moscow`):**
 
 `2607DRA18C`: REDMI Note 17 Pro 5G China
 
