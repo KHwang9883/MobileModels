@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-07-18
+- `vivo_cn` 新增 vivo Y6c。
 ### 2026-07-14
 - `xiaomi` 新增 REDMI Note 17、REDMI Note 17 Pro。
 ### 2026-06-30

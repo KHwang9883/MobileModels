@@ -638,6 +638,10 @@
 
 `V2279A`: vivo Y55t 5G
 
+**vivo Y6c (`PD2541`):**
+
+`V2541A`: vivo Y6c 
+
 **vivo Y60 / vivo Y6t / vivo Y6e (`PD2559`):**
 
 `V2559A`: vivo Y60 / vivo Y6t / vivo Y6e
