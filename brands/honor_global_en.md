@@ -269,6 +269,10 @@
 
 `MRK-NX1`: HONOR 600 Smart / HONOR 600 Lite s
 
+**HONOR 600 Elite:**
+
+`MRK-NX3`: HONOR 600 Elite
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -443,9 +447,9 @@
 
 `LGN-NX1`: HONOR X7d 5G
 
-**HONOR X7e:**
+**HONOR X7e (`Labu`):**
 
-`LAB-LX2`: HONOR X7e
+`LAB-LX1` `LAB-LX2` `LAB-LX3`: HONOR X7e
 
 **HONOR X7e Plus 5G:**
 

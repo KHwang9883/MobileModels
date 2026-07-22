@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-07-22
+- `honor_global_en` Add HONOR 600 Elite, HONOR X7e.
 ### 2026-07-16
 - `huawei_global_en` Add HUAWEI MatePad Air 2026.
 ### 2026-07-14
