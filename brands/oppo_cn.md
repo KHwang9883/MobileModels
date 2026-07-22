@@ -762,6 +762,10 @@
 
 `PLE110`: OPPO K13 Turbo Pro
 
+**OPPO K15:**
+
+`PYD110`: OPPO K15
+
 **OPPO K15 Pro (`lux-m`):**
 
 `PMH110`: OPPO K15 Pro
