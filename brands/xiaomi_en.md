@@ -1835,11 +1835,23 @@
 
 **[`P19`] REDMI Note 17 5G (`mist`):**
 
+`26081RA18G`: REDMI Note 17 5G Global
+
 `26021RN18C`: REDMI Note 17 5G China
+
+`26021RN18I`: REDMI Note 17 5G India
+
+`26081RA18L`: REDMI Note 17 5G Latin America
 
 **[`Q16`] REDMI Note 17 Pro 5G (`iolite`) (`moscow`):**
 
+`2607DRA18G`: REDMI Note 17 Pro 5G Global
+
 `2607DRA18C`: REDMI Note 17 Pro 5G China
+
+`2607DRA18I`: REDMI Note 17 Pro 5G India
+
+`2607DRA18T`: REDMI Note 17 Pro 5G Saudi Arabia
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -2305,6 +2317,12 @@
 
 `2412DPC0AI`: POCO X7 Pro India
 
+**[`Q16`] POCO X8 (`iolite`) (`moscow`):**
+
+`2607DPC18G`: POCO X8 Global
+
+`2607DPC18I`: POCO X8 India
+
 **[`P10`] POCO X8 Pro (`klee`):**
 
 `2511FPC34G`: POCO X8 Pro Global
@@ -2428,6 +2446,10 @@
 **[`P16U`] POCO M8 Pro 5G (`flourite`):**
 
 `2510EPC8BG`: POCO M8 Pro 5G Global
+
+**[`P19P`] POCO M8 Power (`mist`):**
+
+`26021PC18I`: POCO M8 Power India
 
 **[`C3M`] POCO C3 (`angelicain`):**
 

@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-07-23
+- `xiaomi_en` Add REDMI Note 17 series (Global).
 ### 2026-07-22
 - `honor_global_en` Add HONOR 600 Elite, HONOR X7e.
 ### 2026-07-16
