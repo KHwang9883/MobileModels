@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-07-24
+- `samsung_cn` 新增 Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra2。
 ### 2026-07-23
 - `xiaomi` 新增 REDMI Note 17 系列国际版。
 ### 2026-07-22
