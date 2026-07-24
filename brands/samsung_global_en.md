@@ -911,6 +911,54 @@
 
 `SM-F968N`: Galaxy Z TriFold South Korea
 
+**Galaxy Z Fold8 (`h8q`):**
+
+`SM-F971B`: Galaxy Z Fold8 Global
+
+`SM-F971U`: Galaxy Z Fold8 US Carrier
+
+`SM-F971U1`: Galaxy Z Fold8 US Unlocked
+
+`SM-F971W`: Galaxy Z Fold8 Canada
+
+`SM-F9710`: Galaxy Z Fold8 China
+
+`SM-F971N`: Galaxy Z Fold8 South Korea
+
+`SM-F971Q`: Galaxy Z Fold8 Japan (SIM Free)
+
+`SM-F971Z`: Galaxy Z Fold8 Japan (SoftBank)
+
+`SM-F971C`: Galaxy Z Fold8 Japan (Rakuten Mobile)
+
+`SCG41`: Galaxy Z Fold8 Japan (au)
+
+`SC-57G`: Galaxy Z Fold8 Japan (NTT Docomo)
+
+**Galaxy Z Fold8 Ultra (`q8q`):**
+
+`SM-F976B`: Galaxy Z Fold8 Ultra Global
+
+`SM-F976U`: Galaxy Z Fold8 Ultra US Carrier
+
+`SM-F976U1`: Galaxy Z Fold8 Ultra US Unlocked
+
+`SM-F976W`: Galaxy Z Fold8 Ultra Canada
+
+`SM-F9760`: Galaxy Z Fold8 Ultra China
+
+`SM-F976N`: Galaxy Z Fold8 Ultra South Korea
+
+`SM-F976Q`: Galaxy Z Fold8 Ultra Japan (SIM Free)
+
+`SM-F976Z`: Galaxy Z Fold8 Ultra Japan (SoftBank)
+
+`SM-F976C`: Galaxy Z Fold8 Ultra Japan (Rakuten Mobile)
+
+`SCG39`: Galaxy Z Fold8 Ultra Japan (au)
+
+`SC-56G`: Galaxy Z Fold8 Ultra Japan (NTT Docomo)
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
@@ -1054,6 +1102,32 @@
 `SM-F7610`: Galaxy Z Flip7 FE China
 
 `SM-F761N`: Galaxy Z Flip7 FE South Korea
+
+**Galaxy Z Flip8 (`b8s`):**
+
+`SM-F776B`: Galaxy Z Flip8 Global
+
+`SM-F776N`: Galaxy Z Flip8 South Korea
+
+**Galaxy Z Flip8 (`b8q`):**
+
+`SM-F776U`: Galaxy Z Flip8 US Carrier
+
+`SM-F776U1`: Galaxy Z Flip8 US Unlocked
+
+`SM-F776W`: Galaxy Z Flip8 Canada
+
+`SM-F7760`: Galaxy Z Flip8 China
+
+`SM-F776Q`: Galaxy Z Flip8 Japan (SIM Free)
+
+`SM-F776Z`: Galaxy Z Flip8 Japan (SoftBank)
+
+`SM-F776C`: Galaxy Z Flip8 Japan (Rakuten Mobile)
+
+`SCG40`: Galaxy Z Flip8 Japan (au)
+
+`SC-55G`: Galaxy Z Flip8 Japan (NTT Docomo)
 
 ## Galaxy A
 
@@ -2208,6 +2282,10 @@
 **Galaxy M42 5G (`a42xq`):**
 
 `SM-M426B`: Galaxy M42 5G
+
+**Galaxy M47 5G (`m47xq`):**
+
+`SM-M476B`: Galaxy M47 5G
 
 **Galaxy M51 (`m51`):**
 
