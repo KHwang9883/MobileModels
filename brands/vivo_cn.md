@@ -260,6 +260,10 @@
 
 `V2547DA`: vivo X300 Ultra 卫星通信版
 
+**vivo X300 E (`PD2612`):**
+
+`V2612A`: vivo X300 E
+
 **vivo X Fold6 (`PD2545`):**
 
 `V2545A`: vivo X Fold6

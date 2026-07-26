@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-07-26
+- `vivo_cn` 新增 vivo X300 E。
 ### 2026-07-24
 - `samsung_cn` 新增 Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra2。
 ### 2026-07-23
