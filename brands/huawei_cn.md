@@ -2579,9 +2579,15 @@
 
 `HD55KLY26A`: 华为 Vision 智慧屏 6 SE 55
 
+`HD55KLY26E`: 华为 Vision 智慧屏 6 SE RGB 55
+
 `HD65KLY26A`: 华为 Vision 智慧屏 6 SE 65
 
+`HD65KLY26E`: 华为 Vision 智慧屏 6 SE RGB 65
+
 `HD75KLY26A`: 华为 Vision 智慧屏 6 SE 75
+
+`HD75KLY26E`: 华为 Vision 智慧屏 6 SE RGB 75
 
 `HD85KLY26A`: 华为 Vision 智慧屏 6 SE 85
 
