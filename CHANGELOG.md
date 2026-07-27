@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-07-27
 - `huawei_cn` 新增 华为 Vision 智慧屏 6 SE RGB。
+- `oppo_cn` 新增 OPPO A7 Pro Max。
 ### 2026-07-26
 - `vivo_cn` 新增 vivo X300 E。
 ### 2026-07-24

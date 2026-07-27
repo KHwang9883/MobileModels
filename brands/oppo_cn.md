@@ -668,6 +668,10 @@
 
 `PMC110`: OPPO A6c
 
+**OPPO A7 Pro Max:**
+
+`PYC110`: OPPO A7 Pro Max
+
 ## K 系列
 
 **OPPO K1:**
