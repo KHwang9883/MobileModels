@@ -819,6 +819,10 @@
 
 `PKN-AL00`: HUAWEI nova 16z
 
+**HUAWEI nova 16 SE (`Cangshan`):**
+
+`CAS-AL50`: HUAWEI nova 16 SE
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
