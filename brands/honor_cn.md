@@ -162,6 +162,12 @@
 
 `PNM-AN20`: 荣耀 Magic V6 (16GB+1TB)
 
+## 荣耀 Robot Phone 系列
+
+**荣耀 Robot Phone (`Alpha`):**
+
+`APH-AN00`: 荣耀 Robot Phone
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -822,7 +828,7 @@
 
 `ALT-AN00`: 荣耀 Play9T 5G
 
-**荣耀 Play9T Pro:**
+**荣耀 Play9T Pro (`LilyN`):**
 
 `LYN-AN00`: 荣耀 Play9T Pro 5G
 
@@ -845,6 +851,10 @@
 **荣耀 Play11 Plus (`Luna`):**
 
 `LNA-AN00`: 荣耀 Play11 Plus 5G
+
+**荣耀 Play11 Pro (`Luna`):**
+
+`LNA-AN00`: 荣耀 Play11 Pro
 
 ## 荣耀 Power 系列
 

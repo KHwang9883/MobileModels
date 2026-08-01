@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-08-01
+- `honor_cn` 新增 荣耀 Robot Phone、荣耀 Play11 Pro。
 ### 2026-07-30
 - `huawei_cn` 新增 nova 16 SE。
 ### 2026-07-27
