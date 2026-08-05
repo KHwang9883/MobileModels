@@ -234,3 +234,7 @@
 `NICI-16`: Hi MateBook D 16 (16GB 内存)
 
 `NICI-32`: Hi MateBook D 16 (32GB 内存)
+
+**Hi MateBook D 16 (`RomeA`):**
+
+`RMA-X`: Hi MateBook D 16 锐龙版
