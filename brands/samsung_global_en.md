@@ -2083,7 +2083,7 @@
 
 **Galaxy Quantum2 (`a82xq`):**
 
-`SM-A826S`: Galaxy Quantom2 South Korea
+`SM-A826S`: Galaxy Quantum2 South Korea
 
 ## Galaxy M
 
