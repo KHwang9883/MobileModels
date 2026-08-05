@@ -1335,6 +1335,12 @@
 
 `GEM-W40`: HUAWEI MatePad Pro Max 13.2 英寸 悦享款 Wi-Fi 版
 
+**HUAWEI MatePad Pro 12 英寸 (`Dali`):**
+
+`DAL-W00`: HUAWEI MatePad Pro 12 英寸 Wi-Fi 版
+
+`DAL-W20`: HUAWEI MatePad Pro 12 英寸 悦享款 Wi-Fi 版
+
 ## HUAWEI MatePad Edge 系列
 
 **HUAWEI MatePad Edge (`Qianxuesen`):**
@@ -1709,9 +1715,21 @@
 
 `HAD-W32`: HUAWEI MateBook Pro (32GB 内存)
 
+**HUAWEI MateBook Pro S:**
+
+`MOR-M1`: HUAWEI MateBook Pro S 标准版 / 防窥版 / 柔光版
+
+`MOR-M2`: HUAWEI MateBook Pro S 典藏版
+
 **HUAWEI MateBook Fold 非凡大师 (`Hopper`):**
 
-`HPR-W72`: HUAWEI MateBook Fold 非凡大师 (32GB 内存)
+`HPR-W72`: HUAWEI MateBook Fold 非凡大师 (麒麟 X90) (32GB 内存)
+
+**HUAWEI MateBook Fold 非凡大师:**
+
+`SLM-W24`: HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (24GB 内存)
+
+`SLM-W32`: HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (32GB 内存)
 
 **HUAWEI MateBook 13 (`Wright`):**
 
@@ -2786,6 +2804,16 @@
 **HUAWEI WATCH GT 6 Pro (`Atum`):**
 
 `ATM-B29`: HUAWEI WATCH GT 6 Pro 46mm
+
+**HUAWEI WATCH GT 7:**
+
+`NSU-B39`: HUAWEI WATCH GT 7 41mm
+
+`TUM-B39`: HUAWEI WATCH GT 7 46mm
+
+**HUAWEI WATCH GT 7 Pro:**
+
+`TUM-B49`: HUAWEI WATCH GT 7 Pro 46mm
 
 **HUAWEI WATCH GT Runner (`Runner`):**
 

@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-08-05
+- `huawei_cn` 新增 MatePad Pro 12、MateBook Pro S、WATCH GT 7 系列。
 - `zhixuan` 新增 Hi MateBook D 16 锐龙版。
 ### 2026-08-01
 - `honor_cn` 新增 荣耀 Robot Phone、荣耀 Play11 Pro。
