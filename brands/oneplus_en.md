@@ -523,11 +523,11 @@
 
 `CPH2389`: OnePlus Nord N300
 
-## OnePlus Tablets/Foldable Phones
-
-**OnePlus Open (`hedwig`) (~`xueying-9`~):**
+**OnePlus Open (`hedwig`) (`xueying-9`):**
 
 `CPH2551`: OnePlus Open
+
+## OnePlus Tablets
 
 **OnePlus Pad (2023) (`aries-o`):**
 
@@ -543,7 +543,7 @@
 
 `OPD2407`: OnePlus Pad (2024) China
 
-**OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
+**OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (`caihong-o`):**
 
 `OPD2404`: OnePlus Pad Pro China
 
