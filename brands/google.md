@@ -3,7 +3,7 @@
 - Range: Google Pixel phones, tablets & watch
 - Codename: ✅
 
-## Google Pixel
+## Phones
 
 **Pixel (`sailfish`):**
 
@@ -267,6 +267,8 @@
 
 `GV0BP`: Pixel 10a (Japan)
 
+## Tablets
+
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C
@@ -274,6 +276,8 @@
 **Pixel Tablet (`tangorpro`):**
 
 `GTU8P`: Pixel Tablet
+
+## Watch
 
 **Pixel Watch (`r11btwifi`):**
 
