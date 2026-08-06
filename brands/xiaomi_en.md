@@ -1219,17 +1219,17 @@
 
 `2508CRN2BI`: REDMI 15C 5G India
 
-`2508CRN2BC`: REDMI 15C 5G China
-
 `2508CRN2BR`: REDMI 15C 5G Japan
 
 **[`P15X`] REDMI 15R 5G (`tornado`):**
 
 `25082RNC1C`: REDMI 15R 5G China
 
-**[`P25`] REDMI 15A 5G (`somalia`):**
+**[`P25`] REDMI 15A 5G / REDMI 17 5G (`somalia`):**
 
 `2602BRNA4I`: REDMI 15A 5G India
+
+`2602BRNA4C`: REDMI 17 5G China
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 

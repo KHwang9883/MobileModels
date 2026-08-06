@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-08-06
+- `xiaomi_en` Add REDMI 17 5G (China).
 ### 2026-07-24
 - `samsung_global_en` Add Galaxy Z Fold8, Fold8 Ultra, Flip8.
 ### 2026-07-23
