@@ -329,9 +329,17 @@
 
 `V2550` `V2551` `V2552` `V2558`: vivo V70 FE
 
+**vivo V70 Lite:**
+
+`V2584` `V2604` `V2627` `V2634` `V2635`: vivo V70 Lite
+
 **vivo V70 Lite 5G (`PD2512F`):**
 
 `V2615` `V2637`: vivo V70 Lite 5G
+
+**vivo V80 Lite 5G:**
+
+`V2576` `V2643` `V2644`: vivo V80 Lite 5G
 
 ## vivo S series
 
@@ -346,6 +354,10 @@
 **vivo S1 Pro (`PD1945F`):**
 
 `vivo 1920` `vivo 1920_20`: vivo S1 Pro
+
+**vivo S2:**
+
+`V2576`: vivo S2
 
 ## vivo T series
 
@@ -950,6 +962,10 @@
 **vivo Y400 Pro 5G (`PD2451F`):**
 
 `V2439`: vivo Y400 Pro 5G
+
+**vivo Y500:**
+
+`V2570` `V2584` `V2627` `V2634` `V2635`: vivo Y500
 
 ## iQOO Smartphones
 
