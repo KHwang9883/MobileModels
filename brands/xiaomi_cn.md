@@ -748,13 +748,13 @@
 
 `2411DRN47C`: Redmi 14R 5G
 
-**[`P15`] REDMI 15C 5G (`tornado`):**
-
-`2508CRN2BC`: REDMI 15C 5G
-
 **[`P15X`] REDMI 15R 5G (`tornado`):**
 
 `25082RNC1C`: REDMI 15R 5G
+
+**[`P25`] REDMI 17 5G (`somalia`):**
+
+`2602BRNA4C`: REDMI 17 5G
 
 ## 红米 / REDMI Note 系列
 

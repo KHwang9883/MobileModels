@@ -1340,8 +1340,6 @@
 
 **[`P15`] REDMI 15C 5G (`tornado`):**
 
-`2508CRN2BC`: REDMI 15C 5G 国行版
-
 `2508CRN2BG`: REDMI 15C 5G 国际版
 
 `2508CRN2BE`: REDMI 15C 5G 欧洲版
@@ -1354,9 +1352,11 @@
 
 `25082RNC1C`: REDMI 15R 5G
 
-**[`P25`] REDMI 15A 5G (`somalia`):**
+**[`P25`] REDMI 15A 5G / REDMI 17 5G (`somalia`):**
 
 `2602BRNA4I`: REDMI 15A 5G 印度版
+
+`2602BRNA4C`: REDMI 17 5G 国行版
 
 ## 红米 / REDMI Note 系列
 

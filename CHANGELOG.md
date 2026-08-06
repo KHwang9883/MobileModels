@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-08-06
+- `xiaomi` 新增 REDMI 17 5G。
 ### 2026-08-05
 - `huawei_cn` 新增 MatePad Pro 12、MateBook Pro S、WATCH GT 7 系列。
 - `zhixuan` 新增 Hi MateBook D 16 锐龙版。
