@@ -144,6 +144,10 @@
 
 `2505DRP06C`: REDMI Pad 2 4G 国行版 (未上市)
 
+**[`P15`] REDMI 15C 5G (`tornado`):**
+
+`2508CRN2BC`: REDMI 15C 5G 国行版 (未上市)
+
 ## POCO 系列
 
 **[`L10`] POGO F4 GT (`ingres`):**
