@@ -668,7 +668,7 @@
 
 `PMC110`: OPPO A6c
 
-**OPPO A7 Pro Max:**
+**OPPO A7 Pro Max (`doraemon-m`):**
 
 `PYC110`: OPPO A7 Pro Max
 
@@ -766,7 +766,7 @@
 
 `PLE110`: OPPO K13 Turbo Pro
 
-**OPPO K15:**
+**OPPO K15 (`jinx-m`):**
 
 `PYD110`: OPPO K15
 
