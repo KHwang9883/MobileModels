@@ -752,7 +752,7 @@
 
 `25082RNC1C`: REDMI 15R 5G
 
-**[`P25`] REDMI 17 5G (`somalia`):**
+**[`P25X`] REDMI 17 5G (`somalia`):**
 
 `2602BRNA4C`: REDMI 17 5G
 
@@ -1213,6 +1213,14 @@
 **[`P12X`] REDMI K90 至尊版 (`warsaw`):**
 
 `M332BF`: REDMI K90 至尊版
+
+**[`Q11`] REDMI K100 Pro (`athens`):**
+
+`M511CD`: REDMI K100 Pro
+
+**[`Q11X`] REDMI K100 Pro Max (`songyuan`):**
+
+`M098FE`: REDMI K100 Pro Max
 
 ## 其他 REDMI 手机
 

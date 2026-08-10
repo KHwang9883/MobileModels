@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-08-10
 - `vivo_cn` 新增 iQOO Neo11 至尊版、Z11S。
+- `xiaomi` 新增 REDMI K100 Pro 系列、REDMI 17 系列国际版。
 ### 2026-08-06
 - `xiaomi` 新增 REDMI 17 5G。
 ### 2026-08-05
