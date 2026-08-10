@@ -1358,7 +1358,7 @@
 
 `2602BRNA4C`: REDMI 17 5G 国行版
 
-**[`Q15`] REDMI 17 5G:**
+**[`Q15`] REDMI 17 5G (`steppe`) (`leeds`):**
 
 `26062RN92G`: REDMI 17 5G 国际版
 
@@ -2336,6 +2336,10 @@
 
 `26020RN1AI`: REDMI A7 Pro 5G 印度版
 
+**[`Q15`] REDMI M100 (`steppe`) (`leeds`):**
+
+`26062RN92C`: REDMI M100
+
 ## REDMI 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -2726,7 +2730,11 @@
 
 **[`P19P`] POCO M8 Power (`mist`):**
 
-`26021PC18I`: POCO M8 Power 印度版
+`26021PC18I`: POCO M8 Power 5G 印度版
+
+**[`Q15`] REDMI M8x (`steppe`) (`leedsp`):**
+
+`26062PC92I`: POCO M8x 5G 印度版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 

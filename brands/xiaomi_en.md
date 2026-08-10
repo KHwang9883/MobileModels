@@ -1231,7 +1231,7 @@
 
 `2602BRNA4C`: REDMI 17 5G China
 
-**[`Q15`] REDMI 17 5G:**
+**[`Q15`] REDMI 17 5G (`steppe`) (`leeds`):**
 
 `26062RN92G`: REDMI 17 5G Global
 
@@ -2189,6 +2189,10 @@
 
 `26020RN1AC`: REDMI R70 5G China / REDMI R70m 5G China
 
+**[`Q15`] REDMI M100 (`steppe`) (`leeds`):**
+
+`26062RN92C`: REDMI M100 China
+
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -2473,7 +2477,11 @@
 
 **[`P19P`] POCO M8 Power (`mist`):**
 
-`26021PC18I`: POCO M8 Power India
+`26021PC18I`: POCO M8 Power 5G India
+
+**[`Q15`] REDMI M8x (`steppe`) (`leedsp`):**
+
+`26062PC92I`: POCO M8x 5G India
 
 **[`C3M`] POCO C3 (`angelicain`):**
 

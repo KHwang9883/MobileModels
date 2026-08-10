@@ -1242,6 +1242,10 @@
 
 `26020RN1AC`: REDMI R70 5G / REDMI R70m 5G
 
+**[`Q15`] REDMI M100 (`steppe`) (`leeds`):**
+
+`26062RN92C`: REDMI M100
+
 ## REDMI 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
