@@ -1170,6 +1170,10 @@
 
 `V2520A`: iQOO Neo11
 
+**iQOO Neo11 至尊版 (`PD2573`):**
+
+`V2573A`: iQOO Neo11 至尊版
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1271,6 +1275,10 @@
 **iQOO Z11i (`PD2559`):**
 
 `V2559UA`: iQOO Z11i
+
+**iQOO Z11S (`PD2603`):**
+
+`V2603A`: iQOO Z11S
 
 ## iQOO U 系列
 
