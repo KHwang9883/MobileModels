@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-08-10
+- `xiaomi_en` Add REDMI 17 series (Global), REDMI K100 Pro series.
 ### 2026-08-06
 - `vivo_global_en` Add several new models.
 - `xiaomi_en` Add REDMI 17 5G (China).
