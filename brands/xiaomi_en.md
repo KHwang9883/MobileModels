@@ -1237,11 +1237,11 @@
 
 `26062RN92I`: REDMI 17 5G India
 
-**[`Q15A`] REDMI 17:**
+**[`Q15A`] REDMI 17 (`leedsa`):**
 
 `2606FRN72Y`: REDMI 17 Global
 
-`2606FRN72L`: REDMI 17 Latin America
+`2606FRN72L`: REDMI 17 Latin America / Japan
 
 **[`P15R`] REDMI 17C 5G (`tornado`):**
 
@@ -2572,6 +2572,12 @@
 **[`P25`] POCO C85x 5G (`somalia`):**
 
 `26020PC1AI`: POCO C85x 5G India
+
+**[`Q15A`] POCO C95 Pro (`leedsa`):**
+
+`2606FPC72Y`: POCO C95 Pro Global
+
+`2606FPC72L`: POCO C95 Pro Latin America
 
 ## Tablets
 

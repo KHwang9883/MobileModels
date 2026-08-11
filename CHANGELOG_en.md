@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-08-11
+- `xiaomi_en` Add POCO C95 Pro.
 ### 2026-08-10
 - `xiaomi_en` Add REDMI 17 series (Global), REDMI K100 Pro series.
 ### 2026-08-06
