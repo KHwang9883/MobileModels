@@ -848,6 +848,10 @@
 
 `NLA-AN00`: 荣耀 Play10A 5G / 荣耀 Play11C 5G
 
+**荣耀 Play11T (`Labu`):**
+
+`LAB-AN00`: 荣耀 Play11T 5G
+
 **荣耀 Play11 Plus / 荣耀 Play11 Pro (`Luna`):**
 
 `LNA-AN00`: 荣耀 Play11 Plus 5G / 荣耀 Play11 Pro 5G
