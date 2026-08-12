@@ -2518,6 +2518,14 @@
 
 `25102PCBEG`: POCO F8 Ultra 国际版
 
+**[`Q11`] POCO F9 Pro (`athens`):**
+
+`2607APCA5G`: POCO F9 Pro 国际版
+
+**[`Q11X`] POCO F9 Ultra (`songyuan`):**
+
+`26077PC53G`: POCO F9 Ultra 国际版
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 印度版
