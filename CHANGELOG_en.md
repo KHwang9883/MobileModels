@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-08-13
+- `google` Add Google Pixel 11 series.
 ### 2026-08-12
 - `xiaomi_en` Add POCO F9 series.
 ### 2026-08-11

@@ -267,6 +267,28 @@
 
 `GV0BP`: Pixel 10a (Japan)
 
+**Pixel 11 (`cubs`):**
+
+`GPQQ7`: Pixel 11 (US, mmWave)
+
+`GUJ0N`: Pixel 11 (Global)
+
+**Pixel 11 Pro (`grizzly`):**
+
+`G7SWN`: Pixel 11 Pro (US, mmWave)
+
+`GM45K`: Pixel 11 Pro (Global)
+
+**Pixel 11 Pro XL (`kodiak`):**
+
+`GBC0H`: Pixel 11 Pro XL (US, mmWave)
+
+`G4HCD`: Pixel 11 Pro XL (Global)
+
+**Pixel 11 Pro Fold (`yogi`):**
+
+`GZDQ6`: Pixel 11 Pro Fold
+
 ## Tablets
 
 **Pixel C (`dragon`):**
