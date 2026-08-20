@@ -303,6 +303,10 @@
 
 `M2523W1`: REDMI Watch 6
 
+**REDMI Watch 6 活力版:**
+
+`M2564W1`: REDMI Watch 6 活力版
+
 ## POCO 手表（RTOS）
 
 **[`K65`] POCO Watch:**
