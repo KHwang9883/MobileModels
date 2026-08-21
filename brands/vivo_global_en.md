@@ -527,6 +527,10 @@
 
 `V2606`: vivo Y05e
 
+**vivo Y05i (`PD2541F`):**
+
+`V2556` `V2650`: vivo Y05i
+
 **vivo Y11 5G (`PD2542F`):**
 
 `V2575`: vivo Y11 5G
