@@ -68,7 +68,7 @@
 
 `24076PX3BC`: Xiaomi MIX Fold 4 (无卫星通讯, 未上市)
 
-**[`O18`] Xiaomi MIX Fold 系列:**
+**[`O18`] Xiaomi MIX Fold 系列 (`nirvana`):**
 
 `25054PXCEC`: Xiaomi MIX Fold 系列 (未上市)
 
