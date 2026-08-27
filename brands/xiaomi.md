@@ -1984,6 +1984,14 @@
 
 `25057RA09C`: REDMI Note 15R
 
+**[`P19A`] REDMI Note 17 (`zephyr`):**
+
+`26012RN62A`: REDMI Note 17 国际版
+
+`26012RN62Y`: REDMI Note 17 国际版 (NFC)
+
+`26012RN62L`: REDMI Note 17 拉美版
+
 **[`P19`] REDMI Note 17 (`mist`):**
 
 `26021RN18C`: REDMI Note 17 国行版
@@ -2003,6 +2011,14 @@
 `2607DRA18I`: REDMI Note 17 Pro 5G 印度版
 
 `2607DRA18T`: REDMI Note 17 Pro 5G 沙特版
+
+**[`Q16U`] REDMI Note 17 Pro Max (`brussels`):**
+
+`2609FRA74G`: REDMI Note 17 Pro Max 5G 国际版
+
+`2609FRA74I`: REDMI Note 17 Pro Max 5G 印度版
+
+`2609FRA74T`: REDMI Note 17 Pro Max 5G 沙特版
 
 ## Redmi X 系列
 
@@ -2611,6 +2627,10 @@
 `2607DPC18G`: POCO X8 国际版
 
 `2607DPC18I`: POCO X8 印度版
+
+**[`Q16U`] POCO X8 Power (`brussels`):**
+
+`2609FPC74I`: POCO X8 Power 印度版
 
 **[`P10`] POCO X8 Pro (`klee`):**
 
