@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-08-27
+- `vivo_global_en` Add several new models.
 - `xiaomi_en` Add REDMI Note 17 series (Global).
 ### 2026-08-21
 - `honor_global_en` Add several new models.

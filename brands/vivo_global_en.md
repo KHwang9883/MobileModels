@@ -337,7 +337,7 @@
 
 `V2615` `V2637`: vivo V70 Lite 5G
 
-**vivo V80 Lite 5G:**
+**vivo V80 Lite 5G (`PD2575F`):**
 
 `V2576` `V2643` `V2644`: vivo V80 Lite 5G
 
@@ -355,7 +355,7 @@
 
 `vivo 1920` `vivo 1920_20`: vivo S1 Pro
 
-**vivo S2:**
+**vivo S2 (`PD2575F`):**
 
 `V2576`: vivo S2
 
@@ -806,6 +806,10 @@
 **vivo Y31s 5G (`PD2511F`):**
 
 `V2614`: vivo Y31s 5G
+
+**vivo Y31t 5G:**
+
+`V2571` `V2574`: vivo Y31t 5G
 
 **vivo Y33 (`PD2103F`):**
 
