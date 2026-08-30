@@ -217,7 +217,7 @@
 
 `TB376FC`: 联想 AI 平板 小新 Pro 13
 
-**联想 AI 平板 小新 Pro GT 13:**
+**联想 AI 平板 小新 Pro GT 13 (`zhiyu`):**
 
 `TB378FC`: 联想 AI 平板 小新 Pro GT 13
 
@@ -522,3 +522,7 @@
 **ThinkBook Plus Hybrid 2024 (`gem`):**
 
 `TB610FU`: ThinkBook Plus Hybrid 2024 (平板)
+
+**ThinkTab T11S (`sycamore`):**
+
+`TB838`: ThinkTab T11S 11 英寸 Wi-Fi 版
