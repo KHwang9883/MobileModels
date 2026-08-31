@@ -293,6 +293,10 @@
 
 `RMX5268`: realme 16T 5G
 
+**realme 16x 5G:**
+
+`RMX5270`: realme 16x 5G
+
 ## X series
 
 **realme X:**
@@ -619,11 +623,17 @@
 
 **realme C100i (`nairobi-a`):**
 
-`RMX5377`: realme C100i
+`RMX5377`: realme C100i Global
+
+`RMX5399`: realme C100i India
 
 **realme C100x (`nairobi`):**
 
 `RMX5366`: realme C100x
+
+**realme C100d:**
+
+`RMX5363`: realme C100d
 
 ## Note series
 
@@ -730,6 +740,10 @@
 **realme P4R 5G:**
 
 `RMX5266`: realme P4R 5G
+
+**realme P4s 5G:**
+
+`RMX5125`: realme P4s 5G
 
 ## Narzo series
 
