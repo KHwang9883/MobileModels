@@ -472,9 +472,13 @@
 
 `CPH2943`: 一加 Nord CE 6 Lite 印度版
 
-**一加 N6:**
+**一加 N6 (`mumbai-o`):**
 
 `CPH2955`: 一加 N6 印度版
+
+**一加 N6x (`mumbai-c5`):**
+
+`CPH2971`: 一加 N6x 印度版
 
 **一加 Nord N10 (`billie8`):**
 

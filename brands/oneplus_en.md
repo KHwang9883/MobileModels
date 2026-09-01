@@ -471,9 +471,13 @@
 
 `CPH2943`: OnePlus Nord CE 6 Lite India
 
-**OnePlus N6:**
+**OnePlus N6 (`mumbai-o`):**
 
 `CPH2955`: OnePlus N6 India
+
+**OnePlus N6x (`mumbai-c5`):**
+
+`CPH2971`: OnePlus N6x India
 
 **OnePlus Nord N10 (`billie8`):**
 
