@@ -422,6 +422,24 @@
 
 `L98MC-SP`: 小米电视 S Pro 98 Mini LED 2026
 
+**小米电视 S Pro RGB-Mini LED 2027:**
+
+`L65MD-SP`: 小米电视 S Pro 65 RGB-Mini LED 2027
+
+`L65MD-SPD`: 小米电视 S Pro 65 RGB-Mini LED 2027 至尊版
+
+`L75MD-SP`: 小米电视 S Pro 75 RGB-Mini LED 2027
+
+`L75MD-SPD`: 小米电视 S Pro 75 RGB-Mini LED 2027 至尊版
+
+`L85MD-SP`: 小米电视 S Pro 85 RGB-Mini LED 2027
+
+`L85MD-SPD`: 小米电视 S Pro 85 RGB-Mini LED 2027 至尊版
+
+`L98MD-SP`: 小米电视 S Pro 98 RGB-Mini LED 2027
+
+`L98MD-SPD`: 小米电视 S Pro 98 RGB-Mini LED 2027 至尊版
+
 **小米壁画电视:**
 
 `L65M5-BH`: 小米壁画电视 65 英寸

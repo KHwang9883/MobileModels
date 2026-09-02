@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-02
+- `mitv_cn` 新增 小米电视 S Pro RGB-Mini LED 2027。
 ### 2026-08-31
 - `lenovo_cn` 新增 ThinkTab T11S。
 ### 2026-08-27
