@@ -517,6 +517,14 @@
 
 `CHZ-LX1`: HUAWEI nova 15 Max
 
+**HUAWEI nova 16s (`Emilia`):**
+
+`EMA-LX9`: HUAWEI nova 16s
+
+**HUAWEI nova 16s Pro (`Chris`):**
+
+`CRS-LX9`: HUAWEI nova 16s Pro
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
@@ -832,6 +840,10 @@
 **HUAWEI MatePad Pro 12.2 2025 (`Morandi`):**
 
 `MRDI-W09`: HUAWEI MatePad Pro 12.2 2025 Wi-Fi
+
+**HUAWEI MatePad Pro 12 (`Dali`):**
+
+`DAL-W09`: HUAWEI MatePad Pro 12 Wi-Fi
 
 **HUAWEI MatePad Pro Max:**
 

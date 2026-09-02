@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-03
+- `huawei_global_en` Add nova 16s series, HUAWEI MatePad Pro 12 2026.
 ### 2026-08-31
 - `realme_global_en` Add several new models.
 - `vivo_global_en` Add several new models.
