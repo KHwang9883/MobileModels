@@ -2,6 +2,7 @@
 ### 2026-09-04
 - `honor_cn` 新增 荣耀 Play11。
 - `oppo_cn` 新增 OPPO A7 Pro。
+- `xiaomi-wear` 新增 小米手环 11。
 ### 2026-09-02
 - `mitv_cn` 新增 小米电视 S Pro RGB-Mini LED 2027。
 ### 2026-08-31
