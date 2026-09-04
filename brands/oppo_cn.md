@@ -668,6 +668,10 @@
 
 `PMC110`: OPPO A6c
 
+**OPPO A7 Pro:**
+
+`PYE110`: OPPO A7 Pro
+
 **OPPO A7 Pro Max (`doraemon-m`):**
 
 `PYC110`: OPPO A7 Pro Max
