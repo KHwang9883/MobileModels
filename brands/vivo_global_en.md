@@ -341,6 +341,10 @@
 
 `V2576` `V2643` `V2644`: vivo V80 Lite 5G
 
+**vivo V80 Lite 5G:**
+
+`V2626` `V2655`: vivo V80 Lite 5G
+
 ## vivo S series
 
 **vivo S1 (`PD1913F`):**
