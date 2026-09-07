@@ -115,7 +115,7 @@
 
 `M2559B1`: 小米手环 10 Pro 陶瓷版 国际版
 
-**小米手环 11:**
+**[`Q66`] 小米手环 11:**
 
 `M2616B1`: 小米手环 11
 
@@ -362,6 +362,10 @@
 `M2437E1`: Xiaomi Buds 5 Pro 蓝牙版
 
 `M2438E1`: Xiaomi Buds 5 Pro Wi-Fi 版
+
+**[`P76S`] Xiaomi Air5:**
+
+`M2610E1`: Xiaomi Air5
 
 **[`P75`] Xiaomi Buds 6:**
 
