@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-07
+- `xiaomi_en` Add Xiaomi 18 Fold, Xiaomi Pad 9 Pro Max.
 ### 2026-09-03
 - `huawei_global_en` Add nova 16s series, HUAWEI MatePad Pro 12 2026.
 ### 2026-08-31

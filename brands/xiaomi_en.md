@@ -519,6 +519,10 @@
 
 `M025EC`: Xiaomi 17T Pro China
 
+**[`Q18`] Xiaomi 18 Fold (`lhasa`):**
+
+`2608BPX34C`: Xiaomi 18 Fold China
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1047,7 +1051,7 @@
 
 `220333QL`: Redmi 10C Latin America
 
-**[`C3L2`] Redmi 10A (`dandelion`):**
+**[`C3L2`] Redmi 10A (`dandelion_c3l2`) (`dandelion`):**
 
 `220233L2G`: Redmi 10A Global
 
@@ -1246,6 +1250,10 @@
 **[`P15R`] REDMI 17C 5G (`tornado`):**
 
 `2607FRNEAG`: REDMI 17C 5G Global
+
+`2607FRNEAI`: REDMI 17C 5G India
+
+`2612FRNEAR`: REDMI 17C 5G Japan
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1517,7 +1525,7 @@
 
 `M2104K10AC`: Redmi Note 10 Pro 5G China
 
-**[`J6A1`] Redmi Note 10 Lite (`curtana`) (`miatoll`):**
+**[`J6A1`] Redmi Note 10 Lite (`curtana_in_rf`) (`curtana`) (`miatoll`):**
 
 `2109106A1I`: Redmi Note 10 Lite India
 
@@ -1609,7 +1617,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 5G China
 
-**[`L19X`] Redmi Note 11R (`light`) (`lightcm`):**
+**[`L19X`] Redmi Note 11R (`lightcm`) (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G China
 
@@ -1653,7 +1661,7 @@
 
 `23030RAC7Y`: Redmi Note 12S Global (NFC)
 
-**[`K6A`] Redmi Note 12 Pro (`sweet`) (`sweet_k6a`):**
+**[`K6A`] Redmi Note 12 Pro (`sweet_k6a`) (`sweet`):**
 
 `2209116AG`: Redmi Note 12 Pro Global
 
@@ -1767,7 +1775,7 @@
 
 `24094RAD4C`: Redmi Note 14 5G China / REDMI Note 15R Pro China
 
-**[`N6R`] Redmi Note 14S (`emerald`) (`emerald_r`):**
+**[`N6R`] Redmi Note 14S (`emerald_r`) (`emerald`):**
 
 `2502FRA65G`: Redmi Note 14S Global
 
@@ -1881,7 +1889,7 @@
 
 `2609FRA74G`: REDMI Note 17 Pro Max 5G Global
 
-`2609FRA74I`: REDMI Note 17 Pro Max 5G India
+`2609FRA74I` `2609FRA56I`: REDMI Note 17 Pro Max 5G India
 
 `2609FRA74T`: REDMI Note 17 Pro Max 5G Saudi Arabia
 
@@ -1945,7 +1953,7 @@
 
 `M2001G7AC`: Redmi K30 5G China
 
-**[`G7A`] Redmi K30i 5G (`picasso48m`):**
+**[`G7A`] Redmi K30i 5G (`picasso_48m`) (`picasso`):**
 
 `M2001G7AC`: Redmi K30i 5G China
 
@@ -2447,7 +2455,7 @@
 
 `22071219CI`: POCO M5 India
 
-**[`K7BP`] POCO M5s (`rosemary`) (`rosemary_p`):**
+**[`K7BP`] POCO M5s (`rosemary_p`) (`rosemary`):**
 
 `2207117BPG`: POCO M5s Global
 
@@ -2511,7 +2519,7 @@
 
 `26062PC92I`: POCO M8x 5G India
 
-**[`C3M`] POCO C3 (`angelicain`):**
+**[`C3M`] POCO C3 (`angelica`):**
 
 `M2006C3MI`: POCO C3 India
 
@@ -2708,6 +2716,10 @@
 `25091RP04G`: Xiaomi Pad 8 Pro Global
 
 `25091RP04C`: Xiaomi Pad 8 Pro China
+
+**[`Q81A`] Xiaomi Pad 9 Pro Max (`yingtian`):**
+
+`M367FC`: Xiaomi Pad 9 Pro Max China
 
 **[`L83`] Redmi Pad (`yunluo`):**
 
