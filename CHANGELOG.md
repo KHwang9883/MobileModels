@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-09-07
+- `huawei_cn` 新增 HUAWEI Mate XT 2 非凡大师、HUAWEI Pura X View、HUAWEI MatePad Air 12 2026、HUAWEI WATCH 6 系列。
 - `honor_cn` 新增 荣耀 MagicPad4。
 ### 2026-09-04
 - `honor_cn` 新增 荣耀 Play11。

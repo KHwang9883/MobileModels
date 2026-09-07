@@ -291,6 +291,10 @@
 
 `DEL-AL20`: HUAWEI Mate X7 典藏版
 
+**HUAWEI Mate XT 2 非凡大师:**
+
+`LAP-AL10`: HUAWEI Mate XT 2 非凡大师
+
 ## HUAWEI P / Pura 系列
 
 **华为 Ascend P1:**
@@ -520,6 +524,10 @@
 `HOP-AL00`: HUAWEI Pura X Max
 
 `HOP-AL10`: HUAWEI Pura X Max 典藏版
+
+**HUAWEI Pura X View:**
+
+`VOL-AL00`: HUAWEI Pura X View
 
 ## HUAWEI Pocket 系列
 
@@ -1374,6 +1382,12 @@
 `LRT-W20`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 
 `LRT-W30`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
+
+**HUAWEI MatePad Air:**
+
+`WKI-W00`: HUAWEI MatePad Air 12 英寸 2026 悦享款 Wi-Fi 版
+
+`WKI-W10`: HUAWEI MatePad Air 12 英寸 2026 Wi-Fi 版
 
 ## HUAWEI MatePad 系列
 
@@ -2699,6 +2713,18 @@
 
 `RTS-AL00`: HUAWEI WATCH 5 46mm / HUAWEI WATCH 十周年款 46mm
 
+**HUAWEI WATCH 6:**
+
+`LEB-AL00`: HUAWEI WATCH 6 42mm
+
+`NIZ-AL00`: HUAWEI WATCH 6 46mm
+
+**HUAWEI WATCH 6 Pro:**
+
+`LEB-AL10`: HUAWEI WATCH 6 Pro 43mm
+
+`NIZ-AL00`: HUAWEI WATCH 6 Pro 46mm
+
 **HUAWEI WATCH Ultimate:**
 
 `CLB-B19`: HUAWEI WATCH Ultimate 非凡大师
@@ -2709,7 +2735,7 @@
 
 **HUAWEI WATCH Ultimate 2:**
 
-`MCH-AL00`: HUAWEI WATCH Ultimate 2 非凡探索
+`MCH-B39` `MCH-AL00`: HUAWEI WATCH Ultimate 2 非凡探索
 
 **HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 
