@@ -261,7 +261,7 @@
 
 **HONOR 600 Lite / HONOR 600e (`Luna`):**
 
-`LNA-NX1`: HONOR 600 Lite
+`LNA-NX1` `LNA-NX3`: HONOR 600 Lite
 
 `LNA-NX3`: HONOR 600e
 
@@ -529,6 +529,14 @@
 
 `MTN-NX1` `MTN-NX3`: HONOR X9e s
 
+**HONOR X9e Pro:**
+
+`BSN-NX1`: HONOR X9e Pro
+
+**HONOR Turbo:**
+
+`MTN-NX1`: HONOR Turbo
+
 **HONOR Play9A (`Goofy`):**
 
 `GFY-LX3`: HONOR Play9A
@@ -540,6 +548,10 @@
 **HONOR Play10 (`Elsa`):**
 
 `ELA-LX2` `ELA-LX3`: HONOR Play10
+
+**HONOR Play20A:**
+
+`MLD-LX1` `MLD-LX2` `MLD-LX3`: HONOR Play20A
 
 **HONOR Pad 8 (`Hendry`):**
 
@@ -621,7 +633,7 @@
 
 `ELN2-L23` `ELN2-L29`: HONOR Pad X9a LTE
 
-**HONOR Pad X9b Max:**
+**HONOR Pad X9b Max (`Yaoming`):**
 
 `YAG-W09`: HONOR Pad X9b Max Wi-Fi
 
