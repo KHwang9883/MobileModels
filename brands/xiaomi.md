@@ -522,6 +522,10 @@
 
 `2602EPTC0R`: Xiaomi 17T Pro 日本版 (无锁)
 
+**[`Q18`] Xiaomi 18 Fold (`lhasa`):**
+
+`2608BPX34C`: Xiaomi 18 Fold
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -837,6 +841,10 @@
 `25091RP04C`: Xiaomi Pad 8 Pro 国行版
 
 `25091RP04G`: Xiaomi Pad 8 Pro 国际版
+
+**[`Q81A`] Xiaomi Pad 9 Pro Max (`yingtian`):**
+
+`M367FC`: Xiaomi Pad 9 Pro Max
 
 ## 红米 / REDMI 数字系列
 
@@ -1170,7 +1178,7 @@
 
 `220333QL`: Redmi 10C 拉美版
 
-**[`C3L2`] Redmi 10A (`dandelion`):**
+**[`C3L2`] Redmi 10A (`dandelion_c3l2`) (`dandelion`):**
 
 `220233L2C`: Redmi 10A 国行版
 
@@ -1373,6 +1381,10 @@
 **[`P15R`] REDMI 17C 5G (`tornado`):**
 
 `2607FRNEAG`: REDMI 17C 5G 国际版
+
+`2607FRNEAI`: REDMI 17C 5G 印度版
+
+`2612FRNEAR`: REDMI 17C 5G 日本版
 
 ## 红米 / REDMI Note 系列
 
@@ -1652,7 +1664,7 @@
 
 `M2104K10AC`: Redmi Note 10 Pro 5G 国行版
 
-**[`J6A1`] Redmi Note 10 Lite (`curtana`) (`miatoll`):**
+**[`J6A1`] Redmi Note 10 Lite (`curtana_in_rf`) (`curtana`) (`miatoll`):**
 
 `2109106A1I`: Redmi Note 10 Lite 印度版
 
@@ -1744,7 +1756,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+
 
-**[`L19X`] Redmi Note 11R (`light`) (`lightcm`):**
+**[`L19X`] Redmi Note 11R (`lightcm`) (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G
 
@@ -1788,7 +1800,7 @@
 
 `23030RAC7Y`: Redmi Note 12S 国际版 (NFC)
 
-**[`K6A`] Redmi Note 12 Pro (`sweet`) (`sweet_k6a`):**
+**[`K6A`] Redmi Note 12 Pro (`sweet_k6a`) (`sweet`):**
 
 `2209116AG`: Redmi Note 12 Pro 国际版
 
@@ -1902,7 +1914,7 @@
 
 `24094RAD4G`: Redmi Note 14 5G 国际版
 
-**[`N6R`] Redmi Note 14S (`emerald`) (`emerald_r`):**
+**[`N6R`] Redmi Note 14S (`emerald_r`) (`emerald`):**
 
 `2502FRA65G`: Redmi Note 14S 国际版
 
@@ -2016,7 +2028,7 @@
 
 `2609FRA74G`: REDMI Note 17 Pro Max 5G 国际版
 
-`2609FRA74I`: REDMI Note 17 Pro Max 5G 印度版
+`2609FRA74I` `2609FRA56I`: REDMI Note 17 Pro Max 5G 印度版
 
 `2609FRA74T`: REDMI Note 17 Pro Max 5G 沙特版
 
@@ -2090,7 +2102,7 @@
 
 `M2001G7AC`: Redmi K30 5G
 
-**[`G7A`] Redmi K30i 5G (`picasso48m`):**
+**[`G7A`] Redmi K30i 5G (`picasso_48m`) (`picasso`):**
 
 `M2001G7AC`: Redmi K30i 5G
 
@@ -2700,7 +2712,7 @@
 
 `22071219CI`: POCO M5 印度版
 
-**[`K7BP`] POCO M5s (`rosemary`) (`rosemary_p`):**
+**[`K7BP`] POCO M5s (`rosemary_p`) (`rosemary`):**
 
 `2207117BPG`: POCO M5s 国际版
 
@@ -2764,7 +2776,7 @@
 
 `26062PC92I`: POCO M8x 5G 印度版
 
-**[`C3M`] POCO C3 (`angelicain`):**
+**[`C3M`] POCO C3 (`angelica`):**
 
 `M2006C3MI`: POCO C3 印度版
 

@@ -302,6 +302,10 @@
 
 `M025EC`: Xiaomi 17T Pro
 
+**[`Q18`] Xiaomi 18 Fold (`lhasa`):**
+
+`2608BPX34C`: Xiaomi 18 Fold
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -554,6 +558,10 @@
 
 `25091RP04C`: Xiaomi Pad 8 Pro
 
+**[`Q81A`] Xiaomi Pad 9 Pro Max (`yingtian`):**
+
+`M367FC`: Xiaomi Pad 9 Pro Max
+
 ## 红米 / REDMI 数字系列
 
 **[`H2TD`] 红米手机 (`wt93007`) (`HM2013022`):**
@@ -720,7 +728,7 @@
 
 `M2006C3LC`: Redmi 9A
 
-**[`C3L2`] Redmi 10A (`dandelion`):**
+**[`C3L2`] Redmi 10A (`dandelion_c3l2`) (`dandelion`):**
 
 `220233L2C`: Redmi 10A
 
@@ -924,7 +932,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+
 
-**[`L19X`] Redmi Note 11R (`light`) (`lightcm`):**
+**[`L19X`] Redmi Note 11R (`lightcm`) (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G
 
@@ -1084,7 +1092,7 @@
 
 `M2001G7AC`: Redmi K30 5G
 
-**[`G7A`] Redmi K30i 5G (`picasso48m`):**
+**[`G7A`] Redmi K30i 5G (`picasso_48m`) (`picasso`):**
 
 `M2001G7AC`: Redmi K30i 5G
 
