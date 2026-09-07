@@ -3,6 +3,7 @@
 - `google` Add Google Pixel Watch 5.
 - `honor_global_en` Add several new models.
 - `mitv_global_en` Add Xiaomi TV FX Mini LED 2026 (India).
+- `oppo_global_en` Add OPPO Reno16 Pro 5G.
 ### 2026-09-07
 - `xiaomi_en` Add Xiaomi 18 Fold, Xiaomi Pad 9 Pro Max.
 ### 2026-09-03
