@@ -297,6 +297,10 @@
 
 `RMX5270`: realme 16x 5G
 
+**realme 16 Lite:**
+
+`RMX5366`: realme 16 Lite
+
 ## X series
 
 **realme X:**
@@ -577,7 +581,9 @@
 
 **realme C71 (`dhaka`):**
 
-`RMX5303`: realme C71
+`RMX5303`: realme C71 Global
+
+`RMX5313`: realme C71 India
 
 **realme C73 (`rado-c`):**
 
@@ -719,7 +725,9 @@
 
 **realme P4x (`nairobi-p`):**
 
-`RMX5367`: realme P4x
+`RMX5366`: realme P4x Global
+
+`RMX5367`: realme P4x India
 
 **realme P4x 5G (`suzuki`):**
 
@@ -729,9 +737,13 @@
 
 `RMX5107`: realme P4 Power 5G
 
+**realme P4 Lite (`nairobi-a`):**
+
+`RMX5377`: realme P4 Lite Global
+
 **realme P4 Lite (`latte-t`):**
 
-`RMX5313`: realme P4 Lite
+`RMX5313`: realme P4 Lite India
 
 **realme P4 Lite 5G (`mumbai-c2`):**
 
