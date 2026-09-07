@@ -185,6 +185,16 @@
 
 `L75MC-IN`: Xiaomi TV S Mini LED 75
 
+**Xiaomi TV FX Mini LED:**
+
+`L43MC-FSMIN`: Xiaomi TV FX Mini LED 43
+
+`L55MC-FSMIN`: Xiaomi TV FX Mini LED 55
+
+`L65MC-FSMIN`: Xiaomi TV FX Mini LED 65
+
+`L75MC-FSMIN`: Xiaomi TV FX Mini LED 75
+
 **Redmi Smart TV:**
 
 `L32M6-RA` `L32M7-RA`: Redmi Smart TV 32
