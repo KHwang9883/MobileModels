@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-07
+- `honor_cn` 新增 荣耀 MagicPad4。
 ### 2026-09-04
 - `honor_cn` 新增 荣耀 Play11。
 - `oppo_cn` 新增 OPPO A7 Pro。

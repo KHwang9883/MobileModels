@@ -1240,6 +1240,10 @@
 
 `YLE-W09`: 荣耀 MagicPad 3 Pro 12.3 英寸 Wi-Fi 版
 
+**荣耀 MagicPad 4 (`Mulan`):**
+
+`MLA-W09`: 荣耀 MagicPad 4 12.1 英寸 Wi-Fi 版
+
 ## 荣耀平板 GT 系列
 
 **荣耀平板 GT (`Rowling`):**
