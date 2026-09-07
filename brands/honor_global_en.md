@@ -561,7 +561,7 @@
 
 `HEY4-W09`: HONOR Pad 20 Wi-Fi
 
-**HONOR Pad 20 Pro:**
+**HONOR Pad 20 Pro (`Mulan`):**
 
 `MLA-W09`: HONOR Pad 20 Pro Wi-Fi
 
