@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-08
+- `google` Add Google Pixel Watch 5.
 ### 2026-09-07
 - `xiaomi_en` Add Xiaomi 18 Fold, Xiaomi Pad 9 Pro Max.
 ### 2026-09-03

@@ -352,3 +352,19 @@
 **Pixel Watch 4 (`kenari_lte`):**
 
 `G1KAW`: Pixel Watch 4 LTE (45mm)
+
+**Pixel Watch 5 (`godric_btwifi`):**
+
+`G1XJ6`: Pixel Watch 5 Bluetooth & Wi-Fi (41mm)
+
+**Pixel Watch 5 (`godric_lte`):**
+
+`G0F3Y`: Pixel Watch 5 LTE (41mm)
+
+**Pixel Watch 5 (`wisteria_btwifi`):**
+
+`GFW3R`: Pixel Watch 5 Bluetooth & Wi-Fi (45mm)
+
+**Pixel Watch 5 (`wisteria_lte`):**
+
+`G25QD`: Pixel Watch 5 LTE (45mm)
