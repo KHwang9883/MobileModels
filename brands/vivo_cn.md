@@ -848,6 +848,14 @@
 
 `V2531A`: vivo Y500i / vivo Y500s / vivo Y6 / vivo Y6a
 
+**vivo Y600 (`PD2607`):**
+
+`V2607A`: vivo Y600
+
+**vivo Y600i (`PD2617`):**
+
+`V2617A`: vivo Y600i
+
 **vivo Y600 Pro (`PD2561`):**
 
 `V2561A`: vivo Y600 Pro
@@ -1069,6 +1077,10 @@
 **iQOO 15T (`PD2564`):**
 
 `V2564A`: iQOO 15T
+
+**iQOO 16 (`PD2606`):**
+
+`V2606A`: iQOO 16
 
 ## iQOO Neo 系列
 
