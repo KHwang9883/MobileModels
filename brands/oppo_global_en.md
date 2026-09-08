@@ -71,7 +71,7 @@
 
 `CPH2791`: OPPO Find X9 Pro
 
-**OPPO Find X9s:**
+**OPPO Find X9s (`aurora`):**
 
 `CPH2873`: OPPO Find X9s
 
