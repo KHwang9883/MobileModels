@@ -1,7 +1,7 @@
 # 更新日志
 ### 2026-09-08
 - `honor_cn` 新增部分型号。
-- `huawei_cn` 新增 华为智慧屏 MateTV 2。
+- `huawei_cn` 新增 华为智慧屏 MateTV 2、华为 Vision 智慧屏 6 悦享版。
 - `oppo_cn` 新增 OPPO A7i。
 - `vivo_cn` 新增 vivo Y600/Y600i、iQOO 16。
 ### 2026-09-07

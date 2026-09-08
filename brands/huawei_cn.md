@@ -2633,11 +2633,19 @@
 
 `HD6XWATN`: 华为 Vision 智慧屏 6 65
 
+`HD1XWATN`: 华为 Vision 智慧屏 6 悦享版 65
+
 `HD7XWATN`: 华为 Vision 智慧屏 6 75
+
+`HD77WATN`: 华为 Vision 智慧屏 6 悦享版 75
 
 `HD8XWATN`: 华为 Vision 智慧屏 6 85
 
+`HD85WATN`: 华为 Vision 智慧屏 6 悦享版 85
+
 `HD9XWATN`: 华为 Vision 智慧屏 6 98
+
+`HD98WATN`: 华为 Vision 智慧屏 6 悦享版 98
 
 **华为 Vision 智慧屏 6 SE:**
 
