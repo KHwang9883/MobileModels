@@ -121,6 +121,10 @@
 
 `M2617B1`: 小米手环 11 NFC 版 / 陶瓷版 / 全金属版
 
+**[`Q69`] 小米手环 11 Active:**
+
+`M2561B1`: 小米手环 11 Active
+
 ## 小米智能手表
 
 **小米手表 (`baiji`):**
@@ -309,7 +313,7 @@
 
 `M2523W1`: REDMI Watch 6
 
-**REDMI Watch 6 活力版:**
+**[`Q65A`] REDMI Watch 6 活力版:**
 
 `M2564W1`: REDMI Watch 6 活力版
 

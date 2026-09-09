@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-09
+- `xiaomi-wear` 新增 小米手环 11 Active。
 ### 2026-09-08
 - `honor_cn` 新增部分型号。
 - `huawei_cn` 新增 华为智慧屏 MateTV 2、华为 Vision 智慧屏 6 悦享版。
