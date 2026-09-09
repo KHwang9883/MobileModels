@@ -668,11 +668,11 @@
 
 `PMC110`: OPPO A6c
 
-**OPPO A7i:**
+**OPPO A7i (`baikal-b5`):**
 
 `PLT150`: OPPO A7i
 
-**OPPO A7 Pro:**
+**OPPO A7 Pro (`doraemon-b5`):**
 
 `PYE110`: OPPO A7 Pro
 
