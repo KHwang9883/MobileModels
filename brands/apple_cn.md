@@ -982,62 +982,6 @@
 
 ## Mac (Apple Silicon)
 
-### iMac
-
-**[`J456AP`] iMac (24 英寸, M1) (`iMac21,1`):**
-
-`A2438`: iMac (24 英寸, M1) (2 个 USB-C 端口)
-
-**[`J457AP`] iMac (24 英寸, M1) (`iMac21,2`):**
-
-`A2439`: iMac (24 英寸, M1) (4 个 USB-C 端口)
-
-**[`J433AP`] iMac (24 英寸, M3) (`Mac15,4`):**
-
-`A2874`: iMac (24 英寸, M3) (2 个 USB-C 端口)
-
-**[`J434AP`] iMac (24 英寸, M3) (`Mac15,5`):**
-
-`A2873`: iMac (24 英寸, M3) (4 个 USB-C 端口)
-
-**[`J623AP`] iMac (24 英寸, M4) (`Mac16,2`):**
-
-`A3247`: iMac (24 英寸, M4) (2 个 USB-C 端口)
-
-**[`J624AP`] iMac (24 英寸, M4) (`Mac16,3`):**
-
-`A3137`: iMac (24 英寸, M4) (4 个 USB-C 端口)
-
-### Mac mini
-
-**[`J274AP`] Mac mini (M1) (`Macmini9,1`):**
-
-`A2348`: Mac mini (M1)
-
-**[`J473AP`] Mac mini (M2) (`Mac14,3`):**
-
-`A2686`: Mac mini (M2)
-
-**[`J474sAP`] Mac mini (M2 Pro) (`Mac14,12`):**
-
-`A2816`: Mac mini (M2 Pro)
-
-**[`J773gAP`] Mac mini (M4) (`Mac16,10`):**
-
-`A3238`: Mac mini (M4)
-
-**[`J773sAP`] Mac mini (M4 Pro) (`Mac16,11`):**
-
-`A3239`: Mac mini (M4 Pro)
-
-**[`J873gAP`] Mac mini (M6) (`Mac18,5`):**
-
-`A3534`: Mac mini (M6)
-
-**[`J873sAP`] Mac mini (M5 Pro) (`Mac17,16`):**
-
-`A3535`: Mac mini (M5 Pro)
-
 ### MacBook Air
 
 **[`J313AP`] MacBook Air (M1) (`MacBookAir10,1`):**
@@ -1192,13 +1136,61 @@
 
 `A3429`: MacBook Pro (16 英寸, M5 Max)
 
-### Mac Pro
+### iMac
 
-**[`J180dAP`] Mac Pro (2023) (`Mac14,8`):**
+**[`J456AP`] iMac (24 英寸, M1) (`iMac21,1`):**
 
-`A2786`: Mac Pro (2023) (塔式)
+`A2438`: iMac (24 英寸, M1) (2 个 USB-C 端口)
 
-`A2787`: Mac Pro (2023) (机架式)
+**[`J457AP`] iMac (24 英寸, M1) (`iMac21,2`):**
+
+`A2439`: iMac (24 英寸, M1) (4 个 USB-C 端口)
+
+**[`J433AP`] iMac (24 英寸, M3) (`Mac15,4`):**
+
+`A2874`: iMac (24 英寸, M3) (2 个 USB-C 端口)
+
+**[`J434AP`] iMac (24 英寸, M3) (`Mac15,5`):**
+
+`A2873`: iMac (24 英寸, M3) (4 个 USB-C 端口)
+
+**[`J623AP`] iMac (24 英寸, M4) (`Mac16,2`):**
+
+`A3247`: iMac (24 英寸, M4) (2 个 USB-C 端口)
+
+**[`J624AP`] iMac (24 英寸, M4) (`Mac16,3`):**
+
+`A3137`: iMac (24 英寸, M4) (4 个 USB-C 端口)
+
+### Mac mini
+
+**[`J274AP`] Mac mini (M1) (`Macmini9,1`):**
+
+`A2348`: Mac mini (M1)
+
+**[`J473AP`] Mac mini (M2) (`Mac14,3`):**
+
+`A2686`: Mac mini (M2)
+
+**[`J474sAP`] Mac mini (M2 Pro) (`Mac14,12`):**
+
+`A2816`: Mac mini (M2 Pro)
+
+**[`J773gAP`] Mac mini (M4) (`Mac16,10`):**
+
+`A3238`: Mac mini (M4)
+
+**[`J773sAP`] Mac mini (M4 Pro) (`Mac16,11`):**
+
+`A3239`: Mac mini (M4 Pro)
+
+**[`J873gAP`] Mac mini (M6) (`Mac18,5`):**
+
+`A3534`: Mac mini (M6)
+
+**[`J873sAP`] Mac mini (M5 Pro) (`Mac17,16`):**
+
+`A3535`: Mac mini (M5 Pro)
 
 ### Mac Studio
 
@@ -1233,6 +1225,14 @@
 **[`J775dAP`] Mac Studio (M5 Ultra) (`Mac17,15`):**
 
 `A3546`: Mac Studio (M5 Ultra)
+
+### Mac Pro
+
+**[`J180dAP`] Mac Pro (2023) (`Mac14,8`):**
+
+`A2786`: Mac Pro (2023) (塔式)
+
+`A2787`: Mac Pro (2023) (机架式)
 
 ### 显示器
 
