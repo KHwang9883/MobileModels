@@ -2475,9 +2475,15 @@
 
 `HD55KLY26B`: 华为智慧屏 S7 55
 
+`HD55KLY26C`: 华为智慧屏 S7 RGB 55
+
 `HD65KLY26B`: 华为智慧屏 S7 65
 
+`HD65KLY26C`: 华为智慧屏 S7 RGB 65
+
 `HD75KLY26B`: 华为智慧屏 S7 75
+
+`HD75KLY26C`: 华为智慧屏 S7 RGB 75
 
 `HD85KLY26B`: 华为智慧屏 S7 85
 
