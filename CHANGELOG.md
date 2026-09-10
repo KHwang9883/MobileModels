@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-10
+- `nubia` 新增 nubia NaviX Ultra。
 ### 2026-09-09
 - `xiaomi-wear` 新增 小米手环 11 Active。
 ### 2026-09-08

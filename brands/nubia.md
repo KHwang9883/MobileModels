@@ -218,6 +218,10 @@
 
 `P0110`: nubia M153 豆包手机助手技术预览版
 
+**nubia NaviX Ultra:**
+
+`NX888J`: nubia NaviX Ultra
+
 **nubia N1:**
 
 `NX541J`: nubia N1
