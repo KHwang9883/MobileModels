@@ -1058,7 +1058,7 @@
 
 **[`J414cAP`] MacBook Pro (14 英寸, M2 Max) (`Mac14,5`):**
 
-`A2779`: MacBook Pro (14 英寸, M2 Pro)
+`A2779`: MacBook Pro (14 英寸, M2 Max)
 
 **[`J416sAP`] MacBook Pro (16 英寸, M2 Pro) (`Mac14,10`):**
 
@@ -1066,7 +1066,7 @@
 
 **[`J416cAP`] MacBook Pro (16 英寸, M2 Max) (`Mac14,6`):**
 
-`A2780`: MacBook Pro (16 英寸, M2 Pro)
+`A2780`: MacBook Pro (16 英寸, M2 Max)
 
 **[`J504AP`] MacBook Pro (14 英寸, M3) (`Mac15,3`):**
 
