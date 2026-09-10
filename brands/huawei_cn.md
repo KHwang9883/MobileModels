@@ -227,7 +227,7 @@
 
 **HUAWEI Mate 80 (`Voyager`):**
 
-`VYG-AL00`: HUAWEI Mate 80
+`VYG-AL00` `VYG-AL30`: HUAWEI Mate 80
 
 **HUAWEI Mate 80 Pro (`Sagittarius`):**
 
