@@ -25,6 +25,7 @@ Unlisted brands usually not include international models.
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international/Indian Xiaomi & Redmi TV models (excluding Chinese models) |
 | [nothing](brands/nothing.md) | Nothing | All models |
+| [nubia_global_en](brands/_global_en.md) | Nubia | International models since 2023 |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
