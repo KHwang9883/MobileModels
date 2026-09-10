@@ -123,7 +123,7 @@
 
 **[`Q69`] 小米手环 11 Active:**
 
-`M2561B1`: 小米手环 11 Active
+`M2561B1`: 小米手环 11 Active 国际版
 
 ## 小米智能手表
 
@@ -321,7 +321,7 @@
 
 **[`K65`] POCO Watch:**
 
-`M2131W1`: POCO Watch
+`M2131W1`: POCO Watch 国际版
 
 ## Xiaomi TWS
 
