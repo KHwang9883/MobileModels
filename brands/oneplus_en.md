@@ -135,7 +135,7 @@
 
 **OnePlus 8 (`instantnoodlevis`):**
 
-`IN2019`: OnePlus 8 Visible / Verzion
+`IN2019`: OnePlus 8 Visible / Verizon
 
 **OnePlus 8 Pro (`instantnoodlep`):**
 
@@ -183,7 +183,7 @@
 
 **OnePlus 9 (`lemonadev`):**
 
-`LE2119`: OnePlus 9 Verzion
+`LE2119`: OnePlus 9 Verizon
 
 **OnePlus 9 Pro (`lemonadep`):**
 

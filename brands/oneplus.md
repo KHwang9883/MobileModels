@@ -184,7 +184,7 @@
 
 **一加 9 (`lemonadev`):**
 
-`LE2119`: 一加 9 Verzion 版
+`LE2119`: 一加 9 Verizon 版
 
 **一加 9 Pro (`lemonadep`):**
 
