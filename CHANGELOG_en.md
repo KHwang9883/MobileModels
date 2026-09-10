@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-10
+- `apple_en` Add AirPods, AirTag, HomePod and Mac (Apple Silicon only) models.
 ### 2026-09-08
 - `google` Add Google Pixel Watch 5.
 - `honor_global_en` Add several new models.
