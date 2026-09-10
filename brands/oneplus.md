@@ -504,13 +504,13 @@
 
 **一加 Nord N20 (`gunnar`):**
 
-`GN2200`: 一加 Nord N20
+`GN2200`: 一加 Nord N20 北美运营商版
 
-`CPH2459`: 一加 Nord N20
+`CPH2459`: 一加 Nord N20 北美无锁版
 
 **一加 Nord N20 SE (`zhaoyun-o`):**
 
-`CPH2469`: 一加 Nord N20 SE
+`CPH2469`: 一加 Nord N20 SE 国际版
 
 **一加 Nord N30 SE (`fanli-o`):**
 
@@ -526,11 +526,11 @@
 
 **一加 Nord N300 (`hilda`):**
 
-`CPH2389`: 一加 Nord N300
+`CPH2389`: 一加 Nord N300 北美版
 
 **一加 Open (`hedwig`) (`xueying-9`):**
 
-`CPH2551`: 一加 Open
+`CPH2551`: 一加 Open 国际版
 
 ## 一加平板
 
@@ -540,9 +540,9 @@
 
 **一加平板 Go (`bluey-o`):**
 
-`OPD2304`: 一加平板 Go LTE
+`OPD2304`: 一加平板 Go LTE 国际版
 
-`OPD2305`: 一加平板 Go Wi-Fi
+`OPD2305`: 一加平板 Go Wi-Fi 国际版
 
 **一加平板 (2024) (`dunhuang-o`):**
 
@@ -562,15 +562,15 @@
 
 **一加平板 Lite (`fiji-o`):**
 
-`OPD2480`: 一加平板 Lite Wi-Fi
+`OPD2480`: 一加平板 Lite Wi-Fi 国际版
 
-`OPD2481`: 一加平板 Lite LTE
+`OPD2481`: 一加平板 Lite LTE 国际版
 
 **一加平板 Go 2 (`greenland-o`):**
 
-`OPD2504`: 一加平板 Go 2 Wi-Fi
+`OPD2504`: 一加平板 Go 2 Wi-Fi 国际版
 
-`OPD2505`: 一加平板 Go 2 5G
+`OPD2505`: 一加平板 Go 2 5G 国际版
 
 **一加平板 2 (2025) (`himalayan-o`):**
 
@@ -590,7 +590,7 @@
 
 **一加 Nord Watch (`newton`):**
 
-`OPBBE221`: 一加 Nord Watch
+`OPBBE221`: 一加 Nord Watch 印度版
 
 **一加手表:**
 

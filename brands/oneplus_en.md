@@ -503,13 +503,13 @@
 
 **OnePlus Nord N20 (`gunnar`):**
 
-`GN2200`: OnePlus Nord N20
+`GN2200`: OnePlus Nord N20 North America Carrier Version
 
-`CPH2459`: OnePlus Nord N20
+`CPH2459`: OnePlus Nord N20 North America Unlocked Version
 
 **OnePlus Nord N20 SE (`zhaoyun-o`):**
 
-`CPH2469`: OnePlus Nord 20 SE
+`CPH2469`: OnePlus Nord N20 SE Global
 
 **OnePlus Nord N30 SE (`fanli-o`):**
 
@@ -525,11 +525,11 @@
 
 **OnePlus Nord N300 (`hilda`):**
 
-`CPH2389`: OnePlus Nord N300
+`CPH2389`: OnePlus Nord N300 North America
 
 **OnePlus Open (`hedwig`) (`xueying-9`):**
 
-`CPH2551`: OnePlus Open
+`CPH2551`: OnePlus Open Global
 
 ## OnePlus Tablets
 
@@ -539,9 +539,9 @@
 
 **OnePlus Pad Go (`bluey-o`):**
 
-`OPD2304`: OnePlus Pad Go LTE
+`OPD2304`: OnePlus Pad Go LTE Global
 
-`OPD2305`: OnePlus Pad Go Wi-Fi
+`OPD2305`: OnePlus Pad Go Wi-Fi Global
 
 **OnePlus Pad (2024) (`dunhuang-o`):**
 
@@ -561,15 +561,15 @@
 
 **OnePlus Pad Lite (`fiji-o`):**
 
-`OPD2480`: OnePlus Pad Lite Wi-Fi
+`OPD2480`: OnePlus Pad Lite Wi-Fi Global
 
-`OPD2481`: OnePlus Pad Lite LTE
+`OPD2481`: OnePlus Pad Lite LTE Global
 
 **OnePlus Pad Go 2 (`greenland-o`):**
 
-`OPD2504`: OnePlus Pad Go 2 Wi-Fi
+`OPD2504`: OnePlus Pad Go 2 Wi-Fi Global
 
-`OPD2505`: OnePlus Pad Go 2 5G
+`OPD2505`: OnePlus Pad Go 2 5G Global
 
 **OnePlus Pad 2 (2025) (`himalayan-o`):**
 
@@ -589,7 +589,7 @@
 
 **OnePlus Nord Watch (`newton`):**
 
-`OPBBE221`: OnePlus Nord Watch
+`OPBBE221`: OnePlus Nord Watch India
 
 **OnePlus Watch:**
 
