@@ -1,6 +1,6 @@
 # Apple 设备型号汇总
 
-- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision
+- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon)
 - codename: ✅
 - 是否包含海外机型: ✅
 
@@ -540,6 +540,8 @@
 
 ## iPad
 
+### iPad
+
 **[`K48AP`] iPad (`iPad1,1`):**
 
 `A1219`: iPad (无线局域网)
@@ -654,7 +656,7 @@
 
 `A3356`: iPad (A16) (无线局域网 + 蜂窝网络) (中国大陆)
 
-## iPad Air
+### iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**
 
@@ -766,7 +768,7 @@
 
 `A3464`: iPad Air (13 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)
 
-## iPad Pro
+### iPad Pro
 
 **[`J98aAP`] iPad Pro (12.9 英寸) (`iPad6,7`):**
 
@@ -978,7 +980,7 @@
 
 `A3362`: iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络) (中国大陆)
 
-## iPad mini
+### iPad mini
 
 **[`P105AP`] iPad mini (`iPad2,5`):**
 
@@ -1053,6 +1055,24 @@
 `A2995`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
 
 `A2996`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
+
+### Apple Pencil
+
+**[`B222AP`] Apple Pencil (第 1 代):**
+
+`A1603`: Apple Pencil (第 1 代)
+
+**[`B332AP`] Apple Pencil (第 2 代):**
+
+`A2051`: Apple Pencil (第 2 代)
+
+**[`B482AP`] Apple Pencil (USB-C):**
+
+`A3085`: Apple Pencil (USB-C)
+
+**[`B532AP`] Apple Pencil Pro:**
+
+`A2538`: Apple Pencil Pro
 
 ## Apple Watch
 
@@ -1449,3 +1469,383 @@
 **[`N112AP`] iPod touch (第 7 代) (`iPod9,1`):**
 
 `A2178`: iPod touch (第 7 代)
+
+## Mac (Apple Silicon)
+
+### iMac
+
+**[`J456AP`] iMac (24 英寸, M1) (`iMac21,1`):**
+
+`A2438`: iMac (24 英寸, M1) (2 个 USB-C 端口)
+
+**[`J457AP`] iMac (24 英寸, M1) (`iMac21,2`):**
+
+`A2439`: iMac (24 英寸, M1) (4 个 USB-C 端口)
+
+**[`J433AP`] iMac (24 英寸, M3) (`Mac15,4`):**
+
+`A2874`: iMac (24 英寸, M3) (2 个 USB-C 端口)
+
+**[`J434AP`] iMac (24 英寸, M3) (`Mac15,5`):**
+
+`A2873`: iMac (24 英寸, M3) (4 个 USB-C 端口)
+
+**[`J623AP`] iMac (24 英寸, M4) (`Mac16,2`):**
+
+`A3247`: iMac (24 英寸, M4) (2 个 USB-C 端口)
+
+**[`J624AP`] iMac (24 英寸, M4) (`Mac16,3`):**
+
+`A3137`: iMac (24 英寸, M4) (4 个 USB-C 端口)
+
+### Mac mini
+
+**[`J274AP`] Mac mini (M1) (`Macmini9,1`):**
+
+`A2348`: Mac mini (M1)
+
+**[`J473AP`] Mac mini (M2) (`Mac14,3`):**
+
+`A2686`: Mac mini (M2)
+
+**[`J474sAP`] Mac mini (M2 Pro) (`Mac14,12`):**
+
+`A2816`: Mac mini (M2 Pro)
+
+**[`J773gAP`] Mac mini (M4) (`Mac16,10`):**
+
+`A3238`: Mac mini (M4)
+
+**[`J773sAP`] Mac mini (M4 Pro) (`Mac16,11`):**
+
+`A3239`: Mac mini (M4 Pro)
+
+**[`J873gAP`] Mac mini (M6) (`Mac18,5`):**
+
+`A3534`: Mac mini (M6)
+
+**[`J873sAP`] Mac mini (M5 Pro) (`Mac17,16`):**
+
+`A3535`: Mac mini (M5 Pro)
+
+### MacBook Air
+
+**[`J313AP`] MacBook Air (M1) (`MacBookAir10,1`):**
+
+`A2337`: MacBook Air (M1)
+
+**[`J413AP`] MacBook Air (M2) (`Mac14,2`):**
+
+`A2681`: MacBook Air (M2)
+
+**[`J415AP`] MacBook Air (15 英寸, M2) (`Mac14,5`):**
+
+`A2941`: MacBook Air (15 英寸, M2)
+
+**[`J613AP`] MacBook Air (13 英寸, M3) (`Mac15,12`):**
+
+`A3113`: MacBook Air (13 英寸, M3)
+
+**[`J615AP`] MacBook Air (15 英寸, M3) (`Mac15,13`):**
+
+`A3114`: MacBook Air (15 英寸, M3)
+
+**[`J713AP`] MacBook Air (13 英寸, M4) (`Mac16,12`):**
+
+`A3240`: MacBook Air (13 英寸, M4)
+
+**[`J715AP`] MacBook Air (15 英寸, M4) (`Mac16,13`):**
+
+`A3241`: MacBook Air (15 英寸, M4)
+
+**[`J813AP`] MacBook Air (13 英寸, M5) (`Mac17,3`):**
+
+`A3449`: MacBook Air (13 英寸, M5)
+
+**[`J815AP`] MacBook Air (15 英寸, M5) (`Mac17,4`):**
+
+`A3448`: MacBook Air (15 英寸, M5)
+
+### MacBook Neo
+
+**[`J700AP`] MacBook Neo (A18 Pro) (`Mac17,5`):**
+
+`A3404`: MacBook Neo (A18 Pro)
+
+### MacBook Pro
+
+**[`J293AP`] MacBook Pro (13 英寸, M1) (`MacBookPro17,1`):**
+
+`A2338`: MacBook Pro (13 英寸, M1)
+
+**[`J314sAP`] MacBook Pro (14 英寸, M1 Pro) (`MacBookPro18,3`):**
+
+`A2442`: MacBook Pro (14 英寸, M1 Pro)
+
+**[`J314cAP`] MacBook Pro (14 英寸, M1 Max) (`MacBookPro18,4`):**
+
+`A2442`: MacBook Pro (14 英寸, M1 Max)
+
+**[`J316sAP`] MacBook Pro (16 英寸, M1 Pro) (`MacBookPro18,1`):**
+
+`A2485`: MacBook Pro (16 英寸, M1 Pro)
+
+**[`J316cAP`] MacBook Pro (16 英寸, M1 Max) (`MacBookPro18,2`):**
+
+`A2485`: MacBook Pro (16 英寸, M1 Max)
+
+**[`J493AP`] MacBook Pro (13 英寸, M2) (`Mac14,7`):**
+
+`A2338`: MacBook Pro (13 英寸, M2)
+
+**[`J414sAP`] MacBook Pro (14 英寸, M2 Pro) (`Mac14,9`):**
+
+`A2779`: MacBook Pro (14 英寸, M2 Pro)
+
+**[`J414cAP`] MacBook Pro (14 英寸, M2 Max) (`Mac14,5`):**
+
+`A2779`: MacBook Pro (14 英寸, M2 Pro)
+
+**[`J416sAP`] MacBook Pro (16 英寸, M2 Pro) (`Mac14,10`):**
+
+`A2780`: MacBook Pro (16 英寸, M2 Pro)
+
+**[`J416cAP`] MacBook Pro (16 英寸, M2 Max) (`Mac14,6`):**
+
+`A2780`: MacBook Pro (16 英寸, M2 Pro)
+
+**[`J504AP`] MacBook Pro (14 英寸, M3) (`Mac15,3`):**
+
+`A2918`: MacBook Pro (14 英寸, M3)
+
+**[`J514sAP`] MacBook Pro (14 英寸, M3 Pro) (`Mac15,6`):**
+
+`A2992`: MacBook Pro (14 英寸, M3 Pro)
+
+**[`J514mAP`] MacBook Pro (14 英寸, M3 Max, 14 核) (`Mac15,10`):**
+
+`A2992`: MacBook Pro (14 英寸, M3 Max, 14 核)
+
+**[`J514cAP`] MacBook Pro (14 英寸, M3 Max, 16 核) (`Mac15,8`):**
+
+`A2992`: MacBook Pro (14 英寸, M3 Max, 16 核)
+
+**[`J516sAP`] MacBook Pro (16 英寸, M3 Pro) (`Mac15,7`):**
+
+`A2991`: MacBook Pro (16 英寸, M3 Pro)
+
+**[`J516mAP`] MacBook Pro (16 英寸, M3 Max, 14 核) (`Mac15,11`):**
+
+`A2991`: MacBook Pro (16 英寸, M3 Max, 14 核)
+
+**[`J516cAP`] MacBook Pro (16 英寸, M3 Max, 16 核) (`Mac15,9`):**
+
+`A2991`: MacBook Pro (16 英寸, M3 Max, 16 核)
+
+**[`J604AP`] MacBook Pro (14 英寸, M4) (`Mac16,1`):**
+
+`A3112`: MacBook Pro (14 英寸, M4)
+
+**[`J614sAP`] MacBook Pro (14 英寸, M4 Pro) (`Mac16,8`):**
+
+`A3401`: MacBook Pro (14 英寸, M4 Pro)
+
+**[`J614cAP`] MacBook Pro (14 英寸, M4 Max) (`Mac16,6`):**
+
+`A3185`: MacBook Pro (14 英寸, M4 Max)
+
+**[`J616sAP`] MacBook Pro (16 英寸, M4 Pro) (`Mac16,7`):**
+
+`A3403`: MacBook Pro (16 英寸, M4 Pro)
+
+**[`J616cAP`] MacBook Pro (16 英寸, M4 Max) (`Mac16,5`):**
+
+`A3186`: MacBook Pro (16 英寸, M4 Max)
+
+**[`J704AP`] MacBook Pro (14 英寸, M5) (`Mac17,2`):**
+
+`A3434`: MacBook Pro (14 英寸, M5)
+
+**[`J714sAP`] MacBook Pro (14 英寸, M5 Pro) (`Mac17,9`):**
+
+`A3426`: MacBook Pro (14 英寸, M5 Pro)
+
+**[`J714cAP`] MacBook Pro (14 英寸, M5 Max) (`Mac17,7`):**
+
+`A3427`: MacBook Pro (14 英寸, M5 Max)
+
+**[`J716sAP`] MacBook Pro (16 英寸, M5 Pro) (`Mac17,8`):**
+
+`A3428`: MacBook Pro (16 英寸, M5 Pro)
+
+**[`J716cAP`] MacBook Pro (16 英寸, M5 Max) (`Mac17,6`):**
+
+`A3429`: MacBook Pro (16 英寸, M5 Max)
+
+### Mac Pro
+
+**[`J180dAP`] Mac Pro (2023) (`Mac14,8`):**
+
+`A2786`: Mac Pro (2023) (塔式)
+
+`A2787`: Mac Pro (2023) (机架式)
+
+### Mac Studio
+
+**[`J375cAP`] Mac Studio (M1 Max) (`Mac13,1`):**
+
+`A2615`: Mac Studio (M1 Max)
+
+**[`J375dAP`] Mac Studio (M1 Ultra) (`Mac13,2`):**
+
+`A2615`: Mac Studio (M1 Ultra)
+
+**[`J475cAP`] Mac Studio (M2 Max) (`Mac14,13`):**
+
+`A2901`: Mac Studio (M2 Max)
+
+**[`J475dAP`] Mac Studio (M2 Ultra) (`Mac14,14`):**
+
+`A2901`: Mac Studio (M2 Ultra)
+
+**[`J575cAP`] Mac Studio (M4 Max) (`Mac16,9`):**
+
+`A3143`: Mac Studio (M4 Max)
+
+**[`J575dAP`] Mac Studio (M3 Ultra) (`Mac15,14`):**
+
+`A3389`: Mac Studio (M3 Ultra)
+
+**[`J775cAP`] Mac Studio (M5 Max) (`Mac17,14`):**
+
+`A3545`: Mac Studio (M5 Max)
+
+**[`J775dAP`] Mac Studio (M5 Ultra) (`Mac17,15`):**
+
+`A3546`: Mac Studio (M5 Ultra)
+
+### 显示器
+
+**[`J290AP`] Pro Display XDR (`AppleDisplay1,1`):**
+
+`A1999`: Pro Display XDR
+
+**[`J327AP`] Studio Display (`AppleDisplay2,1`):**
+
+`A2525`: Studio Display
+
+**[`J527AP`] Studio Display (2026) (`AppleDisplay18,2`):**
+
+`A3350`: Studio Display (2026)
+
+**[`J427AP`] Studio Display XDR (`AppleDisplay18,1`):**
+
+`A3348`: Studio Display XDR
+
+## AirPods
+
+**[`B188AP`] AirPods (第 1 代) (`AirPods1,1`):**
+
+`A1523`: AirPods (第 1 代) (右耳塞)
+
+`A1722`: AirPods (第 1 代) (左耳塞)
+
+`A1602`: AirPods (第 1 代) (充电盒)
+
+**[`B288AP`] AirPods (第 2 代) (`AirPods2,1`):**
+
+`A2031`: AirPods (第 2 代) (左耳塞)
+
+`A2032`: AirPods (第 2 代) (右耳塞)
+
+`A1938`: AirPods (第 2 代) (无线充电盒)
+
+**[`B388AP`] AirPods (第 3 代) (`AirPods1,3`):**
+
+`A2564`: AirPods (第 3 代) (左耳塞)
+
+`A2565`: AirPods (第 3 代) (右耳塞)
+
+`A2566`: AirPods (第 3 代) (MagSafe 充电盒)
+
+**[`B768AP`] AirPods 4 (`AirPods1,4`):**
+
+`A3053`: AirPods 4 (左耳塞)
+
+`A3050`: AirPods 4 (右耳塞)
+
+`A3058`: AirPods 4 (充电盒)
+
+`A3056`: AirPods 4 (主动降噪版) (左耳塞)
+
+`A3055`: AirPods 4 (主动降噪版) (右耳塞)
+
+`A3059`: AirPods 4 (主动降噪版) (充电盒)
+
+**[`B298AP`] AirPods Pro (`AirPodsPro1,1`):**
+
+`A2083`: AirPods Pro (左耳塞)
+
+`A2084`: AirPods Pro (右耳塞)
+
+`A2190`: AirPods Pro (MagSafe 充电盒)
+
+**[`B698AP`] AirPods Pro (第 2 代) (`AirPodsPro1,2`):**
+
+`A2699`: AirPods Pro (第 2 代) (左耳塞)
+
+`A2698`: AirPods Pro (第 2 代) (右耳塞)
+
+`A2700`: AirPods Pro (第 2 代) (MagSafe 充电盒)
+
+**[`B698AP`] AirPods Pro (第 2 代, USB-C) (`AirPodsPro2,1`):**
+
+`A3047`: AirPods Pro (第 2 代, USB-C) (左耳塞)
+
+`A3048`: AirPods Pro (第 2 代, USB-C) (右耳塞)
+
+`A2968`: AirPods Pro (第 2 代, USB-C) (USB-C 充电盒)
+
+**[`B788AP`] AirPods Pro 3 (`AirPodsPro1,3`):**
+
+`A3064`: AirPods Pro 3 (左耳塞)
+
+`A3063`: AirPods Pro 3 (右耳塞)
+
+`A3122`: AirPods Pro 3 (充电盒)
+
+**[`B515AP`] AirPods Max (`AirPodsMax1,1`):**
+
+`A2096`: AirPods Max (闪电接口)
+
+**[`B515cAP`] AirPods Max (USB-C) (`AirPodsMax1,1`):**
+
+`A3184`: AirPods Max (USB-C)
+
+**[`B515dAP`] AirPods Max 2 (`AirPodsMax1,2`):**
+
+`A3454`: AirPods Max 2
+
+## AirTag
+
+**[`B389AP`] AirTag (`AirTag1,1`):**
+
+`A2187`: AirTag
+
+**[`B589AP`] AirTag (第 2 代):**
+
+`A2937`: AirTag (第 2 代)
+
+## HomePod
+
+**[`B238aAP`] HomePod (`AudioAccessory1,1`):**
+
+`A1639`: HomePod
+
+**[`B520AP`] HomePod mini (`AudioAccessory5,1`):**
+
+`A2374`: HomePod mini
+
+**[`B620AP`] HomePod (第 2 代) (`AudioAccessory6,1`):**
+
+`A2825`: HomePod (第 2 代)
