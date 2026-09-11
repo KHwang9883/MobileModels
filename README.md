@@ -42,7 +42,7 @@
 | [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
 | [nothing](brands/nothing.md) | Nothing | 全部机型 | ✅ | ✅ | 英文版 |
 | [nubia_cn](brands/nubia_cn.md) | 努比亚 (nubia) | 全部国行机型 | ❌ | ❌ | -- |
-| [nubia_global_en](brands/nubia_global_en.md) | 努比亚 (nubia) | 2023 年起上市的海外机型 | ❌ | ✅ | -- |
+| [nubia_global_en](brands/nubia_global_en.md) | 努比亚 (nubia) | 2023 年起上市的海外机型 | ❌ | ✅ | 英文版 |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
 | [oneplus_en](brands/oneplus_en.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | 英文版 |
 | [oppo_cn](brands/oppo_cn.md) | OPPO | 2018 年起新型号命名方式的国行机型 | ⏹ | ❌ | -- |
