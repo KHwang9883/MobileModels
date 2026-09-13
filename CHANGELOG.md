@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-13
+- `apple` 新增 iPhone 18 Pro, iPhone Duo, Apple Watch Series 12/Ultra 4, AirPods 5。
 ### 2026-09-10
 - `apple` 新增 AirPods/AirTag/HomePod/Mac (仅 Apple Silicon) 型号。
 - `huawei_cn` 新增 华为智慧屏 S7 RGB。
