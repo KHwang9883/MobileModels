@@ -519,6 +519,38 @@
 
 `A3634`: iPhone 17e (Rest of the world)
 
+**[`V63AP`] iPhone 18 Pro (`iPhone19,2`):**
+
+`A3472`: iPhone 18 Pro (United States)
+
+`A3713`: iPhone 18 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3715`: iPhone 18 Pro (China mainland)
+
+`A3714`: iPhone 18 Pro (Rest of the world)
+
+**[`V64AP`] iPhone 18 Pro Max (`iPhone19,3`):**
+
+`A3473`: iPhone 18 Pro Max (United States)
+
+**[`V64sAP`] iPhone 18 Pro Max (`iPhone19,7`):**
+
+`A3716`: iPhone 18 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3718`: iPhone 18 Pro Max (China mainland)
+
+`A3717`: iPhone 18 Pro Max (Rest of the world)
+
+**[`V68AP`] iPhone Duo (`iPhone19,4`):**
+
+`A3447`: iPhone Duo (United States)
+
+`A3719`: iPhone Duo (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3721`: iPhone Duo (China mainland)
+
+`A3720`: iPhone Duo (Rest of the world)
+
 ## iPad
 
 ### iPad
@@ -1281,6 +1313,30 @@
 
 `A3453`: Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)
 
+**[`N237sAP`] Apple Watch Series 12 (`Watch8,2`):**
+
+`A3581`: Apple Watch Series 12 (GPS) (42mm case) (Global)
+
+`A3583`: Apple Watch Series 12 (GPS) (42mm case) (China mainland)
+
+**[`N237bAP`] Apple Watch Series 12 (`Watch8,3`):**
+
+`A3584`: Apple Watch Series 12 (GPS) (46mm case) (Global)
+
+`A3585`: Apple Watch Series 12 (GPS) (46mm case) (China mainland)
+
+**[`N238sAP`] Apple Watch Series 12 (`Watch8,4`):**
+
+`A3582`: Apple Watch Series 12 (GPS + Cellular) (42mm case) (Global)
+
+`A3586`: Apple Watch Series 12 (GPS + Cellular) (42mm case) (China mainland)
+
+**[`N238bAP`] Apple Watch Series 12 (`Watch8,5`):**
+
+`A3587`: Apple Watch Series 12 (GPS + Cellular) (46mm case) (Global)
+
+`A3588`: Apple Watch Series 12 (GPS + Cellular) (46mm case) (China mainland)
+
 **[`N140sAP`] Apple Watch SE (`Watch5,9`):**
 
 `A2351`: Apple Watch SE (GPS) (40mm case)
@@ -1370,6 +1426,12 @@
 `A3281`: Apple Watch Ultra 3 (Global)
 
 `A3282`: Apple Watch Ultra 3 (China mainland)
+
+**[`N240AP`] Apple Watch Ultra 4 (`Watch8,1`):**
+
+`A3579`: Apple Watch Ultra 4 (Global)
+
+`A3580`: Apple Watch Ultra 4 (China mainland)
 
 ## Apple TV
 
@@ -1749,7 +1811,7 @@
 
 `A2566`: AirPods (3rd generation) (charging case)
 
-**[`B768AP`] AirPods 4 (`AirPods1,4`):**
+**[`B768EAP`] AirPods 4 (`AirPods1,4`):**
 
 `A3053`: AirPods 4 (left AirPod)
 
@@ -1757,11 +1819,29 @@
 
 `A3058`: AirPods 4 (charging case)
 
+**[`B768MAP`] AirPods 4 (ANC) (`AirPods1,4`):**
+
 `A3056`: AirPods 4 (ANC) (left AirPod)
 
 `A3055`: AirPods 4 (ANC) (right AirPod)
 
 `A3059`: AirPods 4 (ANC) (charging case)
+
+**[`B868EAP`] AirPods 5:**
+
+`A3531`: AirPods 5 (left AirPod)
+
+`A3532`: AirPods 5 (right AirPod)
+
+`A3530`: AirPods 5 (charging case)
+
+**[`B868MAP`] AirPods 5 (Wireless Charging Case):**
+
+`A3440`: AirPods 5 (Wireless Charging Case) (left AirPod)
+
+`A3439`: AirPods 5 (Wireless Charging Case) (right AirPod)
+
+`A3529`: AirPods 5 (Wireless Charging Case) (charging case)
 
 **[`B298AP`] AirPods Pro (`AirPodsPro1,1`):**
 

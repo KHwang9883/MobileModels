@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-13
+- `apple_en` Add iPhone 18 Pro, iPhone Duo, Apple Watch Series 12/Ultra 4, AirPods 5.
 ### 2026-09-10
 - `apple_en` Add AirPods, AirTag, HomePod and Mac (Apple Silicon only) models.
 ### 2026-09-08
