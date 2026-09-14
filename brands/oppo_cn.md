@@ -112,6 +112,18 @@
 
 `PMA120`: OPPO Find X9 Ultra 卫星通信版
 
+**OPPO Find X10:**
+
+`PMW110`: OPPO Find X10
+
+**OPPO Find X10 E (`aurora`):**
+
+`PNA110`: OPPO Find X10 E
+
+**OPPO Find X10 Pro Max:**
+
+`PMX110`: OPPO Find X10 Pro Max
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -929,3 +941,7 @@
 **OPPO Watch X3 Mini:**
 
 `OWW263`: OPPO Watch X3 Mini
+
+**OPPO Watch S2:**
+
+`OWW265`: OPPO Watch S2
