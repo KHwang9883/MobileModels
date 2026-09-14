@@ -162,6 +162,20 @@
 
 `PNM-AN20`: 荣耀 Magic V6 (16GB+1TB)
 
+**荣耀 Magic9 (`Molly`):**
+
+`MLY-AN00`: 荣耀 Magic9
+
+**荣耀 Magic9 超能版 (`MollyM`) (`VickyM`):**
+
+`MLM-AN00`: 荣耀 Magic9 超能版
+
+**荣耀 Magic9 Pro Max (`Twinkle`):**
+
+`WKL-AN20`: 荣耀 Magic9 Pro Max
+
+`WKL-AN80`: 荣耀 Magic9 Pro Max (16GB+1TB)
+
 ## 荣耀 Robot Phone 系列
 
 **荣耀 Robot Phone (`Alpha`):**
@@ -2028,9 +2042,17 @@
 
 `WTS-B19`: 荣耀手表 X5i
 
+**荣耀手表 X5s:**
+
+`WSS-B19`: 荣耀手表 X5s
+
 **荣耀手表 6 Plus:**
 
 `ROM-B19`: 荣耀手表 6 Plus
+
+**荣耀手表 6 Pro:**
+
+`HLO-B19`: 荣耀手表 6 Pro
 
 **荣耀手环 3:**
 
