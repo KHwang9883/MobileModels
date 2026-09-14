@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-09-14
+- `samsung_global_en` Add Galaxy S26 FE, A07s, A08, A18, M08, F08, F70 Pro.
 - `xiaomi_en` Add Xiaomi Pad 9, Xiaomi Pad 9 Pro.
 ### 2026-09-13
 - `apple_en` Add iPhone 18 Pro, iPhone Duo, Apple Watch Series 12/Ultra 4, AirPods 5.

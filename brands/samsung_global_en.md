@@ -625,6 +625,18 @@
 
 `SC-53G`: Galaxy S26 Ultra Japan (NTT Docomo)
 
+**Galaxy S26 FE (`r14s`):**
+
+`SM-S741B`: Galaxy S26 FE Global
+
+`SM-S741U`: Galaxy S26 FE US Carrier
+
+`SM-S741U1`: Galaxy S26 FE US Unlocked
+
+`SM-S741W`: Galaxy S26 FE Canada
+
+`SM-S741N`: Galaxy S26 FE South Korea
+
 ## Galaxy Note
 
 **Galaxy Note9 (`crownlte`):**
@@ -1273,6 +1285,18 @@
 
 `SM-A076M`: Galaxy A07 5G Latin America
 
+**Galaxy A07s (`a07ve`):**
+
+`SM-A077F`: Galaxy A07s Global
+
+`SM-A077M`: Galaxy A07s Latin America
+
+**Galaxy A08 (`a08`):**
+
+`SM-A085F`: Galaxy A08 Global
+
+`SM-A085M`: Galaxy A08 Latin America
+
 **Galaxy A10 (`a10`):**
 
 `SM-A105F` `SM-A015FN` `SM-A015G`: Galaxy A10 Global
@@ -1478,6 +1502,16 @@
 `SM-A176W`: Galaxy A17 5G Canada
 
 `SM-A1760`: Galaxy A17 5G HK & TW
+
+**Galaxy A18 (`a18`):**
+
+`SM-A185F`: Galaxy A18 Global (Exynos)
+
+`SM-A185N`: Galaxy A18 South Korea
+
+**Galaxy A18 (`a18m`):**
+
+`SM-A185G`: Galaxy A18 Global (MediaTek)
 
 **Galaxy A2 Core (`a2corelte`):**
 
@@ -2127,6 +2161,10 @@
 
 `SM-M075F`: Galaxy M07
 
+**Galaxy M08 (`a08`):**
+
+`SM-M085F`: Galaxy M08
+
 **Galaxy M10 (`m10lte`):**
 
 `SM-M105G`: Galaxy M10 Global
@@ -2349,6 +2387,10 @@
 
 `SM-E075F`: Galaxy F07
 
+**Galaxy F08 (`a08`):**
+
+`SM-E085F`: Galaxy F08
+
 **Galaxy F12 (`f12`):**
 
 `SM-F127G`: Galaxy F12
@@ -2424,3 +2466,7 @@
 **Galaxy F70e 5G (`a07x`):**
 
 `SM-E076B`: Galaxy F70e 5G
+
+**Galaxy F70 Pro 5G:**
+
+`SM-E476B`: Galaxy F70 Pro 5G
