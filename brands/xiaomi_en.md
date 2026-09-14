@@ -2221,7 +2221,7 @@
 
 **[`E10`] POCO F1 (`beryllium`):**
 
-`M1805E10A`: POCO F1
+`M1805E10A`: POCO F1 Global
 
 **[`J11`] POCO F2 Pro (`lmi`):**
 
@@ -2716,6 +2716,20 @@
 `25091RP04G`: Xiaomi Pad 8 Pro Global
 
 `25091RP04C`: Xiaomi Pad 8 Pro China
+
+**[`Q82`] Xiaomi Pad 9 (`yupei`) (`yupei_d`) (`donghai`):**
+
+`26103RP65G`: Xiaomi Pad 9 Global
+
+`26103RP65I`: Xiaomi Pad 9 India
+
+`M656BA`: Xiaomi Pad 9 China
+
+**[`Q81`] Xiaomi Pad 9 Pro (`shuntian`):**
+
+`2612CRPFFG`: Xiaomi Pad 9 Pro Global
+
+`2612CRPFFC`: Xiaomi Pad 9 Pro China
 
 **[`Q81A`] Xiaomi Pad 9 Pro Max (`yingtian`):**
 
