@@ -558,6 +558,14 @@
 
 `25091RP04C`: Xiaomi Pad 8 Pro
 
+**[`Q82`] Xiaomi Pad 9 (`yupei`) (`yupei_d`) (`donghai`):**
+
+`M656BA`: Xiaomi Pad 9
+
+**[`Q81`] Xiaomi Pad 9 Pro (`shuntian`):**
+
+`2612CRPFFC`: Xiaomi Pad 9 Pro
+
 **[`Q81A`] Xiaomi Pad 9 Pro Max (`yingtian`):**
 
 `M367FC`: Xiaomi Pad 9 Pro Max

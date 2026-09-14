@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-14
+- `xiaomi` 新增 Xiaomi Pad 9、Xiaomi Pad 9 Pro。
 ### 2026-09-13
 - `apple` 新增 iPhone 18 Pro, iPhone Duo, Apple Watch Series 12/Ultra 4, AirPods 5。
 ### 2026-09-10

@@ -842,6 +842,20 @@
 
 `25091RP04G`: Xiaomi Pad 8 Pro 国际版
 
+**[`Q82`] Xiaomi Pad 9 (`yupei`) (`yupei_d`) (`donghai`):**
+
+`M656BA`: Xiaomi Pad 9 国行版
+
+`26103RP65G`: Xiaomi Pad 9 国际版
+
+`26103RP65I`: Xiaomi Pad 9 印度版
+
+**[`Q81`] Xiaomi Pad 9 Pro (`shuntian`):**
+
+`2612CRPFFC`: Xiaomi Pad 9 Pro 国行版
+
+`2612CRPFFG`: Xiaomi Pad 9 Pro 国际版
+
 **[`Q81A`] Xiaomi Pad 9 Pro Max (`yingtian`):**
 
 `M367FC`: Xiaomi Pad 9 Pro Max
@@ -2478,7 +2492,7 @@
 
 **[`E10`] POCO F1 (`beryllium`):**
 
-`M1805E10A`: POCO F1
+`M1805E10A`: POCO F1 国际版
 
 **[`J11`] POCO F2 Pro (`lmi`):**
 
