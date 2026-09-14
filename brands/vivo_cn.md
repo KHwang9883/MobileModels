@@ -268,6 +268,22 @@
 
 `V2545A`: vivo X Fold6
 
+**vivo X500 (`PD2609`):**
+
+`V2609A`: vivo X500
+
+**vivo X500 Pro (`PD2608`):**
+
+`V2608A`: vivo X500 Pro
+
+`V2608DA`: vivo X500 Pro eSIM 版
+
+**vivo X500 Pro Max (`PD2602`):**
+
+`V2602A`: vivo X500 Pro Max
+
+`V2602DA`: vivo X500 Pro Max 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -1396,9 +1412,13 @@
 
 `iPA2537`: iQOO Pad5e / iQOO Pad5c
 
-**iQOO Pad6 Pro:**
+**iQOO Pad6 Pro (`DPD2540`):**
 
 `iPA2673`: iQOO Pad6 Pro
+
+**iQOO Pad Ultra:**
+
+`iPA2691`: iQOO Pad Ultra
 
 ## 穿戴设备
 
@@ -1435,6 +1455,12 @@
 `WA2536A`: vivo WATCH GT 2 蓝牙版
 
 `WA2536B`: vivo WATCH GT 2 eSIM 版
+
+**vivo WATCH 6:**
+
+`WA2656A`: vivo WATCH 6 蓝牙版
+
+`WA2656B`: vivo WATCH 6 eSIM 版
 
 **iQOO WATCH:**
 

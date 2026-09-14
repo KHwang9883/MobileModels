@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-09-14
 - `honor_cn` 新增 荣耀 Magic9 系列、荣耀手表 6 Pro。
+- `vivo_cn` 新增 vivo X500 系列、vivo WATCH 6、iQOO Pad Ultra。
 - `xiaomi` 新增 Xiaomi Pad 9、Xiaomi Pad 9 Pro。
 ### 2026-09-13
 - `apple` 新增 iPhone 18 Pro, iPhone Duo, Apple Watch Series 12/Ultra 4, AirPods 5。
