@@ -580,7 +580,7 @@
 
 `L75RB-APE`: REDMI 智能电视 A Pro 75 2025 节能版 (一级能效)
 
-**REDMI 电视 A Pro 2025:**
+**REDMI 电视 A Pro 2026:**
 
 `L43RC-AP`: REDMI 电视 A Pro 43 2026
 
@@ -593,6 +593,16 @@
 `L70RB-APD`: REDMI 电视 A Pro 70 2026
 
 `L75RC-AP`: REDMI 电视 A Pro 75 2026
+
+**REDMI 电视 A Pro 2027:**
+
+`L55RD-APD`: REDMI 电视 A Pro 55 2027 优选版
+
+`L65RD-APD`: REDMI 电视 A Pro 65 2027 优选版
+
+`L75RD-APD`: REDMI 电视 A Pro 75 2027 优选版
+
+`L85RD-APD`: REDMI 电视 A Pro 85 2027 优选版
 
 **Redmi 智能电视 X:**
 
