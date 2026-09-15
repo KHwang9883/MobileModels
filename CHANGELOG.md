@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-15
+- `huawei_cn` 新增 HUAWEI WATCH D3。
 ### 2026-09-14
 - `honor_cn` 新增 荣耀 Magic9 系列、荣耀手表 6 Pro。
 - `oppo_cn` 新增 OPPO Find X10 系列、OPPO Watch S2。
