@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-18
+- `vivo_cn` 新增 vivo Y500k。
 ### 2026-09-15
 - `huawei_cn` 新增 HUAWEI WATCH D3。
 - `mitv_cn` 新增 REDMI 电视 A Pro 2027 优选版。

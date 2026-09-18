@@ -864,13 +864,13 @@
 
 `V2531A`: vivo Y500i / vivo Y500s / vivo Y6 / vivo Y6a
 
+**vivo Y500k / vivo Y600i (`PD2617`):**
+
+`V2617A`: vivo Y500k / vivo Y600i
+
 **vivo Y600 (`PD2607`):**
 
 `V2607A`: vivo Y600
-
-**vivo Y600i (`PD2617`):**
-
-`V2617A`: vivo Y600i
 
 **vivo Y600 Pro (`PD2561`):**
 
