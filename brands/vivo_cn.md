@@ -674,9 +674,9 @@
 
 `V2532BA`: vivo Y6m
 
-**vivo Y60i / vivo Y60i m 版 / vivo Y6t m 版 (`PD2542`):**
+**vivo Y60i / vivo Y60i m 版 / vivo Y60c / vivo Y60e / vivo Y60e m 版 / vivo Y6t m 版 / vivo Y6k (`PD2542`):**
 
-`V2542A`: vivo Y60i / vivo Y60i m 版 / vivo Y6t m 版
+`V2542A`: vivo Y60i / vivo Y60i m 版 / vivo Y60c / vivo Y60e / vivo Y60e m 版 / vivo Y6t m 版 / vivo Y6k
 
 **vivo Y70s (`PD2002`):**
 
@@ -864,9 +864,9 @@
 
 `V2531A`: vivo Y500i / vivo Y500s / vivo Y6 / vivo Y6a
 
-**vivo Y500k / vivo Y600i (`PD2617`):**
+**vivo Y500k / vivo Y600i / vivo Y600i m 版 (`PD2617`):**
 
-`V2617A`: vivo Y500k / vivo Y600i
+`V2617A`: vivo Y500k / vivo Y600i / vivo Y600i m 版
 
 **vivo Y600 (`PD2607`):**
 
@@ -876,9 +876,9 @@
 
 `V2561A`: vivo Y600 Pro
 
-**vivo Y600 Turbo (`PD2553`):**
+**vivo Y600 Turbo / vivo Y600k Turbo (`PD2553`):**
 
-`V2553A`: vivo Y600 Turbo
+`V2553A`: vivo Y600 Turbo / vivo Y600k Turbo
 
 ## vivo T 系列
 
