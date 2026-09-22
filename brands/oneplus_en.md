@@ -479,6 +479,10 @@
 
 `CPH2971`: OnePlus N6x India
 
+**OnePlus N6 Lite:**
+
+`CPH2993`: OnePlus N6 Lite India
+
 **OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro

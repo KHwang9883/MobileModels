@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-22
+- `oneplus_en` Add OnePlus N6 Lite.
 ### 2026-09-14
 - `samsung_global_en` Add Galaxy S26 FE, A07s, A08, A18, M08, F08, F70 Pro.
 - `xiaomi_en` Add Xiaomi Pad 9, Xiaomi Pad 9 Pro.
