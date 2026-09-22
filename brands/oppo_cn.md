@@ -112,15 +112,15 @@
 
 `PMA120`: OPPO Find X9 Ultra 卫星通信版
 
-**OPPO Find X10:**
+**OPPO Find X10 (`uranus`):**
 
 `PMW110`: OPPO Find X10
 
-**OPPO Find X10 E (`aurora`):**
+**OPPO Find X10 E (`neptune`):**
 
 `PNA110`: OPPO Find X10 E
 
-**OPPO Find X10 Pro Max:**
+**OPPO Find X10 Pro Max (`mars`):**
 
 `PMX110`: OPPO Find X10 Pro Max
 
