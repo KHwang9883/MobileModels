@@ -480,6 +480,10 @@
 
 `CPH2971`: 一加 N6x 印度版
 
+**一加 N6 Lite:**
+
+`CPH2993`: 一加 N6 Lite 印度版
+
 **一加 Nord N10 (`billie8`):**
 
 `BE2025`: 一加 Nord N10 Metro 版
