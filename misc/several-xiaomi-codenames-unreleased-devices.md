@@ -156,6 +156,10 @@
 
 `2505DRP06C`: REDMI Pad 2 4G 国行版 (未上市)
 
+**[`P85X`] REDMI Pad 2 9.7 4G (`erhu`):**
+
+`2604ERP4DI`: REDMI Pad 2 9.7 4G 印度版 (未上市)
+
 **[`P15`] REDMI 15C 5G (`tornado`):**
 
 `2508CRN2BC`: REDMI 15C 5G 国行版 (未上市)
