@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-23
+- `xiaomi_en` Add Xiaomi 18 Pro series.
 ### 2026-09-22
 - `oneplus_en` Add OnePlus N6 Lite.
 ### 2026-09-14

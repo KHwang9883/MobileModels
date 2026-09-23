@@ -519,6 +519,24 @@
 
 `M025EC`: Xiaomi 17T Pro China
 
+**[`Q5`] Xiaomi 18 Pro (`hongkong`):**
+
+`2609BPN61G`: Xiaomi 18 Pro Global
+
+`2609BPN61I`: Xiaomi 18 Pro India
+
+`M610BB`: Xiaomi 18 Pro China
+
+**[`Q2`] Xiaomi 18 Pro Max (`madrid`):**
+
+`2611FPNFAG`: Xiaomi 18 Pro Max Global
+
+`2611FPNFAI`: Xiaomi 18 Pro Max India
+
+`2611FPNFAR`: Xiaomi 18 Pro Max Japan
+
+`M154FF`: Xiaomi 18 Pro Max China
+
 **[`Q18`] Xiaomi 18 Fold (`lhasa`):**
 
 `2608BPX34C`: Xiaomi 18 Fold China
@@ -2771,7 +2789,7 @@
 
 `24075RP89G`: Redmi Pad SE 8.7 Wi-Fi Global
 
-**[`N85X`] Redmi Pad SE 8.7 4G (`spark`):**
+**[`N85X`] Redmi Pad SE 8.7 4G / Redmi Pad SE 4G (`spark`):**
 
 `24076RP19G`: Redmi Pad SE 8.7 4G Global
 
@@ -2822,8 +2840,6 @@
 **[`P85X`] REDMI Pad 2 9.7 4G / REDMI Pad 2 SE 4G (`erhu`):**
 
 `2604ERP4DG`: REDMI Pad 2 9.7 4G Global
-
-`2604ERP4DI`: REDMI Pad 2 9.7 4G India
 
 `2604ERP4DC`: REDMI Pad 2 SE 4G China
 
