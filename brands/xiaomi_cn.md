@@ -302,6 +302,14 @@
 
 `M025EC`: Xiaomi 17T Pro
 
+**[`Q5`] Xiaomi 18 Pro (`hongkong`):**
+
+`M610BB`: Xiaomi 18 Pro
+
+**[`Q2`] Xiaomi 18 Pro Max (`madrid`):**
+
+`M154FF`: Xiaomi 18 Pro Max
+
 **[`Q18`] Xiaomi 18 Fold (`lhasa`):**
 
 `2608BPX34C`: Xiaomi 18 Fold
@@ -1268,13 +1276,9 @@
 
 `22081283C`: Redmi Pad
 
-**[`M84`] Redmi Pad SE (`xun`):**
+**[`M84`] Redmi Pad SE / Redmi Pad M7 (`xun`):**
 
-`23073RPBFC`: Redmi Pad SE
-
-**[`M84`] Redmi Pad M7 (`xun`):**
-
-`23073RPBFC`: Redmi Pad M7
+`23073RPBFC`: Redmi Pad SE / Redmi Pad M7
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 

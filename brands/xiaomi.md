@@ -522,6 +522,24 @@
 
 `2602EPTC0R`: Xiaomi 17T Pro 日本版 (无锁)
 
+**[`Q5`] Xiaomi 18 Pro (`hongkong`):**
+
+`M610BB`: Xiaomi 18 Pro 国行版
+
+`2609BPN61G`: Xiaomi 18 Pro 国际版
+
+`2609BPN61I`: Xiaomi 18 Pro 印度版
+
+**[`Q2`] Xiaomi 18 Pro Max (`madrid`):**
+
+`M154FF`: Xiaomi 18 Pro Max 国行版
+
+`2611FPNFAG`: Xiaomi 18 Pro Max 国际版
+
+`2611FPNFAI`: Xiaomi 18 Pro Max 印度版
+
+`2611FPNFAR`: Xiaomi 18 Pro Max 日本版
+
 **[`Q18`] Xiaomi 18 Fold (`lhasa`):**
 
 `2608BPX34C`: Xiaomi 18 Fold
@@ -2390,17 +2408,13 @@
 
 `22081283G`: Redmi Pad 国际版
 
-**[`M84`] Redmi Pad SE (`xun`):**
+**[`M84`] Redmi Pad SE / Redmi Pad M7 (`xun`):**
 
-`23073RPBFC`: Redmi Pad SE 国行版
+`23073RPBFC`: Redmi Pad SE 国行版 / Redmi Pad M7
 
 `23073RPBFG`: Redmi Pad SE 国际版
 
 `23073RPBFL`: Redmi Pad SE 拉美版
-
-**[`M84`] Redmi Pad M7 (`xun`):**
-
-`23073RPBFC`: Redmi Pad M7
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 
@@ -2424,7 +2438,7 @@
 
 `24075RP89G`: Redmi Pad SE 8.7 Wi-Fi 国际版
 
-**[`N85X`] Redmi Pad SE 8.7 4G (`spark`):**
+**[`N85X`] Redmi Pad SE 8.7 4G / Redmi Pad SE 4G (`spark`):**
 
 `24076RP19G`: Redmi Pad SE 8.7 4G 国际版
 
@@ -2477,8 +2491,6 @@
 `2604ERP4DC`: REDMI Pad 2 SE 4G 国行版
 
 `2604ERP4DG`: REDMI Pad 2 9.7 4G 国际版
-
-`2604ERP4DI`: REDMI Pad 2 9.7 4G 印度版
 
 **[`O88`] REDMI K Pad (`turner`):**
 
