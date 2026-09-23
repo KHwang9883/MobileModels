@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-09-23
 - `xiaomi` 新增 Xiaomi 18 Pro 系列。
+- `xiaomi-wear` 新增 Xiaomi Watch S5、REDMI Buds 8S。
 ### 2026-09-22
 - `oneplus` 新增 OnePlus N6 Lite。
 ### 2026-09-18

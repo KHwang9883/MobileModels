@@ -233,6 +233,12 @@
 
 `M2517W1`: Xiaomi Watch S5 eSIM 版
 
+**[`Q63`] Xiaomi Watch S5 41mm:**
+
+`M2606W1`: Xiaomi Watch S5 41mm
+
+`M2607W1`: Xiaomi Watch S5 透明版
+
 ## 小米智能眼镜
 
 **[`O95`] Xiaomi AI Glasses:**
@@ -488,6 +494,10 @@
 **[`P77`] REDMI Buds 8:**
 
 `M2544E1`: REDMI Buds 8
+
+**[`Q77S`] REDMI Buds 8S:**
+
+`M2545E1`: REDMI Buds 8S
 
 **[`P76`] REDMI Buds 8 Pro:**
 
