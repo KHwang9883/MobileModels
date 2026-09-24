@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-24
+- `huawei_cn` 新增 HUAWEI MatePad Air Z。
 ### 2026-09-23
 - `xiaomi` 新增 Xiaomi 18 Pro 系列。
 - `xiaomi-wear` 新增 Xiaomi Watch S5、REDMI Buds 8S。

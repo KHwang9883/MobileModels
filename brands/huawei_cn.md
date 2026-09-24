@@ -1389,6 +1389,14 @@
 
 `WKI-W10`: HUAWEI MatePad Air 12 英寸 2026 Wi-Fi 版
 
+**HUAWEI MatePad Air Z:**
+
+`AST-W00`: HUAWEI MatePad Air Z 12 英寸 Wi-Fi 版
+
+`AST-W10`: HUAWEI MatePad Air Z 12 英寸 Wi-Fi 柔光版
+
+`AST-W30`: HUAWEI MatePad Air Z 12 英寸 悦享款 Wi-Fi 版
+
 ## HUAWEI MatePad 系列
 
 **HUAWEI MatePad (`Bach3`):**
