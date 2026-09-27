@@ -352,9 +352,9 @@
 
 `PMD110`: OPPO Reno15c
 
-**OPPO Reno16 (`lychee-c2`):**
+**OPPO Reno16 / OPPO Reno16t (`lychee-c2`):**
 
-`PMM110`: OPPO Reno16
+`PMM110`: OPPO Reno16 / OPPO Reno16t
 
 **OPPO Reno16 Pro (`lychee-c1`):**
 

@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-27
+- `oppo_cn` 新增 OPPO Reno16t。
 ### 2026-09-24
 - `huawei_cn` 新增 HUAWEI MatePad Air Z。
 ### 2026-09-23
