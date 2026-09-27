@@ -1294,7 +1294,7 @@
 
 `A1602`: AirPods (第 1 代) (充电盒)
 
-**[`B288AP`] AirPods (第 2 代) (`AirPods2,1`):**
+**[`B288AP`] AirPods (第 2 代) (`AirPods1,2`) (`AirPods2,1`):**
 
 `A2031`: AirPods (第 2 代) (左耳塞)
 
@@ -1310,7 +1310,7 @@
 
 `A2566`: AirPods (第 3 代) (充电盒)
 
-**[`B768EAP`] AirPods 4 (`AirPods1,4`):**
+**[`B768EAP`] AirPods 4 (`AirPods1,4`) (`AirPods3,2`):**
 
 `A3053`: AirPods 4 (左耳塞)
 
@@ -1318,7 +1318,7 @@
 
 `A3058`: AirPods 4 (充电盒)
 
-**[`B768MAP`] AirPods 4 (主动降噪版) (`AirPods1,4`):**
+**[`B768MAP`] AirPods 4 (主动降噪版) (`AirPods1,4`) (`AirPods3,3`):**
 
 `A3056`: AirPods 4 (主动降噪版) (左耳塞)
 
@@ -1326,7 +1326,7 @@
 
 `A3059`: AirPods 4 (主动降噪版) (充电盒)
 
-**[`B868EAP`] AirPods 5:**
+**[`B868EAP`] AirPods 5 (`AirPods3,7`):**
 
 `A3531`: AirPods 5 (左耳塞)
 
@@ -1334,7 +1334,7 @@
 
 `A3530`: AirPods 5 (充电盒)
 
-**[`B868MAP`] AirPods 5 (配无线充电盒):**
+**[`B868MAP`] AirPods 5 (配无线充电盒) (`AirPods3,8`):**
 
 `A3440`: AirPods 5 (配无线充电盒) (左耳塞)
 
@@ -1342,7 +1342,7 @@
 
 `A3529`: AirPods 5 (无线充电盒)
 
-**[`B298AP`] AirPods Pro (`AirPodsPro1,1`):**
+**[`B298AP`] AirPods Pro (`AirPodsPro1,1`) (`AirPods2,2`):**
 
 `A2083`: AirPods Pro (左耳塞)
 

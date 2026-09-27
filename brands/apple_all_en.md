@@ -1795,7 +1795,7 @@
 
 `A1602`: AirPods (1st generation) (charging case)
 
-**[`B288AP`] AirPods (2nd generation) (`AirPods2,1`):**
+**[`B288AP`] AirPods (2nd generation) (`AirPods1,2`) (`AirPods2,1`):**
 
 `A2031`: AirPods (2nd generation) (left AirPod)
 
@@ -1811,7 +1811,7 @@
 
 `A2566`: AirPods (3rd generation) (charging case)
 
-**[`B768EAP`] AirPods 4 (`AirPods1,4`):**
+**[`B768EAP`] AirPods 4 (`AirPods1,4`) (`AirPods3,2`):**
 
 `A3053`: AirPods 4 (left AirPod)
 
@@ -1819,7 +1819,7 @@
 
 `A3058`: AirPods 4 (charging case)
 
-**[`B768MAP`] AirPods 4 (ANC) (`AirPods1,4`):**
+**[`B768MAP`] AirPods 4 (ANC) (`AirPods1,4`) (`AirPods3,3`):**
 
 `A3056`: AirPods 4 (ANC) (left AirPod)
 
@@ -1827,7 +1827,7 @@
 
 `A3059`: AirPods 4 (ANC) (charging case)
 
-**[`B868EAP`] AirPods 5:**
+**[`B868EAP`] AirPods 5 (`AirPods3,7`):**
 
 `A3531`: AirPods 5 (left AirPod)
 
@@ -1835,7 +1835,7 @@
 
 `A3530`: AirPods 5 (charging case)
 
-**[`B868MAP`] AirPods 5 (Wireless Charging Case):**
+**[`B868MAP`] AirPods 5 (Wireless Charging Case) (`AirPods3,8`):**
 
 `A3440`: AirPods 5 (Wireless Charging Case) (left AirPod)
 
@@ -1843,7 +1843,7 @@
 
 `A3529`: AirPods 5 (Wireless Charging Case) (charging case)
 
-**[`B298AP`] AirPods Pro (`AirPodsPro1,1`):**
+**[`B298AP`] AirPods Pro (`AirPodsPro1,1`) (`AirPods2,2`):**
 
 `A2083`: AirPods Pro (left AirPod)
 
