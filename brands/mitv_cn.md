@@ -690,6 +690,16 @@
 
 `L98RC-RX`: REDMI 电视 X98 2026
 
+**REDMI 电视 X 2027:**
+
+`L55RD-RX`: REDMI 电视 X55 RGB-Mini LED 2027 竞技版
+
+`L65RD-RX`: REDMI 电视 X65 RGB-Mini LED 2027 竞技版
+
+`L75RD-RX`: REDMI 电视 X75 RGB-Mini LED 2027 竞技版
+
+`L85RD-RX`: REDMI 电视 X85 RGB-Mini LED 2027 竞技版
+
 **Redmi 智能电视 X Pro:**
 
 `L65R9-XP`: Redmi 智能电视 X Pro 65

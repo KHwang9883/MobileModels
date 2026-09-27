@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-09-27
+- `mitv_cn` 新增 REDMI 电视 X RGB-Mini LED 2027 竞技版。
 - `oppo_cn` 新增 OPPO Reno16t。
 ### 2026-09-24
 - `huawei_cn` 新增 HUAWEI MatePad Air Z。
