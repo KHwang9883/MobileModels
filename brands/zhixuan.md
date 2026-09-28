@@ -219,6 +219,10 @@
 
 `MNCAC-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
 
+**Hi MateBook 14 (`MarseilleJ`):**
+
+`MASJC-X`: Hi MateBook 14 酷睿版 (酷睿 Ultra 3)
+
 **Hi MateBook D 14 (`LyonI`):**
 
 `LYOI-16`: Hi MateBook D 14 (16GB 内存)
