@@ -1376,9 +1376,9 @@
 
 `PA2535`: vivo Pad5e / vivo Pad5c
 
-**vivo Pad SE (`DPD2424`):**
+**vivo Pad SE / vivo Pad SE 2s (`DPD2424`):**
 
-`PA2511`: vivo Pad SE
+`PA2511`: vivo Pad SE / vivo Pad SE 2s
 
 **vivo Pad6 Pro (`DPD2540`):**
 
