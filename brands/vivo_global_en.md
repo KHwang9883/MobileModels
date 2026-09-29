@@ -441,7 +441,7 @@
 
 `V2504`: vivo T4 Ultra
 
-**vivo T5:**
+**vivo T5 (`PD2533F`):**
 
 `V2583`: vivo T5
 
@@ -453,7 +453,7 @@
 
 `V2545`: vivo T5x 5G
 
-**vivo T5e:**
+**vivo T5e (`PD2577F`):**
 
 `V2628`: vivo T5e
 
@@ -527,7 +527,7 @@
 
 `V2556` `V2565`: vivo Y05
 
-**vivo Y05e:**
+**vivo Y05e (`PD2577F`):**
 
 `V2606`: vivo Y05e
 
@@ -979,6 +979,10 @@
 
 `V2570` `V2584` `V2627` `V2634` `V2635`: vivo Y500
 
+**vivo Y600 5G:**
+
+`V2655`: vivo Y600 5G
+
 ## iQOO Smartphones
 
 **iQOO 3 (`PD1964F`):**
@@ -1193,11 +1197,15 @@
 
 **JOVI Y21 (`PD2510DF`):**
 
-`J2503`: JOVI Y21
+`J2503` `J2609`: JOVI Y21
 
 **JOVI Y21 5G (`PD2542F`):**
 
 `J2508`: JOVI Y21 5G
+
+**JOVI Y21e:**
+
+`J2601`: JOVI Y21e
 
 **JOVI Y29 (`PD2446F`):**
 
@@ -1214,3 +1222,7 @@
 **JOVI Y39 5G (`PD2444F`):**
 
 `V2444`: JOVI Y39 5G
+
+**JOVI Y600 Pro 5G:**
+
+`J2608`: JOVI V600 Pro 5G

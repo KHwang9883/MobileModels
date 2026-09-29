@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-09-29
+- `vivo_global_en` Add several new models.
 ### 2026-09-23
 - `xiaomi_en` Add Xiaomi 18 Pro series.
 ### 2026-09-22
