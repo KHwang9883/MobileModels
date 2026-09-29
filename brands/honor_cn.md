@@ -1246,11 +1246,11 @@
 
 `CGA-W00`: 荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版
 
-**荣耀 MagicPad 3 12.5:**
+**荣耀 MagicPad 3 12.5 (`Changle`):**
 
 `CGL-W00`: 荣耀 MagicPad 3 12.5 英寸 Wi-Fi 版
 
-**荣耀 MagicPad 3 Pro 13.3:**
+**荣耀 MagicPad 3 Pro 13.3 (`YongleP`):**
 
 `YLP-W00`: 荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版
 
@@ -1272,11 +1272,57 @@
 
 `ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 
-**荣耀平板 GT2 Pro:**
+**荣耀平板 GT2 Pro (`Changle`):**
 
 `CHG-W60`: 荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版
 
-## 荣耀平板 X 系列
+## 荣耀平板 X 系列 / 荣耀畅玩平板
+
+**荣耀 X1:**
+
+`7D-501u`: 荣耀 X1 3G 版
+
+`7D-503L`: 荣耀 X1 4G 版
+
+`7D-503LT`: 荣耀 X1 移动 4G 版
+
+**荣耀 X2:**
+
+`GEM-703L`: 荣耀 X2
+
+`GEM-703LT`: 荣耀 X2 移动版
+
+**荣耀畅玩平板:**
+
+`T1-701u`: 荣耀畅玩平板
+
+`T1-701ua`: 荣耀畅玩平板优享版
+
+**荣耀畅玩平板 (`Baggio`):**
+
+`BGO-DL09`: 荣耀畅玩平板 LTE 版
+
+**荣耀畅玩平板 note:**
+
+`T1-A21w`: 荣耀畅玩平板 note
+
+`T1-A23L`: 荣耀畅玩平板 note LTE 版
+
+**荣耀畅玩平板 2 (`Kobe`):**
+
+`KOB-W09`: 荣耀畅玩平板 2 8 英寸 Wi-Fi 版
+
+`KOB-L09`: 荣耀畅玩平板 2 8 英寸 LTE 版
+
+**荣耀畅玩平板 2 (`Agassi`):**
+
+`AGS-W09`: 荣耀畅玩平板 2 9.6 英寸 Wi-Fi 版
+
+`AGS-L09`: 荣耀畅玩平板 2 9.6 英寸 LTE 版
+
+**荣耀畅玩平板 2 (`Baggio2`):**
+
+`BG2-W09`: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
 
 **荣耀平板 X6 (`AgassiR`):**
 
@@ -1330,6 +1376,20 @@
 
 `ELE2-W19`: 荣耀护眼学习机 火火兔版 11.5 英寸 Wi-Fi 版
 
+## 荣耀平板 Waterplay 系列
+
+**荣耀 Waterplay (`Haydn`):**
+
+`HDN-W09`: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
+
+`HDN-L09`: 荣耀 Waterplay 10.1 英寸 LTE 版
+
+**荣耀 Waterplay (`Handel`):**
+
+`HDL-W09`: 荣耀 Waterplay 8 英寸 Wi-Fi 版
+
+`HDL-AL09`: 荣耀 Waterplay 8 英寸 LTE 版
+
 ## 荣耀平板 Z 系列 (商用)
 
 **荣耀平板 Z3 (`AgassiRM`):**
@@ -1363,68 +1423,6 @@
 **荣耀平板 Z7 第二代 (`Hendry4`):**
 
 `HEY4-AN00`: 荣耀平板 Z7 第二代 12.1 英寸 5G 版
-
-## 荣耀平板 其他系列
-
-**荣耀 Waterplay (`Haydn`):**
-
-`HDN-W09`: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
-
-`HDN-L09`: 荣耀 Waterplay 10.1 英寸 LTE 版
-
-**荣耀 Waterplay (`Handel`):**
-
-`HDL-W09`: 荣耀 Waterplay 8 英寸 Wi-Fi 版
-
-`HDL-AL09`: 荣耀 Waterplay 8 英寸 LTE 版
-
-**荣耀 X1:**
-
-`7D-501u`: 荣耀 X1 3G 版
-
-`7D-503L`: 荣耀 X1 4G 版
-
-`7D-503LT`: 荣耀 X1 移动 4G 版
-
-**荣耀 X2:**
-
-`GEM-703L`: 荣耀 X2
-
-`GEM-703LT`: 荣耀 X2 移动版
-
-## 荣耀畅玩平板
-
-**荣耀畅玩平板:**
-
-`T1-701u`: 荣耀畅玩平板
-
-`T1-701ua`: 荣耀畅玩平板优享版
-
-**荣耀畅玩平板 (`Baggio`):**
-
-`BGO-DL09`: 荣耀畅玩平板 LTE 版
-
-**荣耀畅玩平板 note:**
-
-`T1-A21w`: 荣耀畅玩平板 note
-
-`T1-A23L`: 荣耀畅玩平板 note LTE 版
-
-**荣耀畅玩平板 2 (`Kobe`):**
-
-`KOB-W09`: 荣耀畅玩平板 2 8 英寸 Wi-Fi 版
-
-`KOB-L09`: 荣耀畅玩平板 2 8 英寸 LTE 版
-
-**荣耀畅玩平板 2 (`Agassi`):**
-
-`AGS-W09`: 荣耀畅玩平板 2 9.6 英寸 Wi-Fi 版
-
-`AGS-L09`: 荣耀畅玩平板 2 9.6 英寸 LTE 版
-
-**荣耀畅玩平板 2 (`Baggio2`):**
-
-`BG2-W09`: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
 
 ## 荣耀 MagicBook 系列
 
@@ -2118,9 +2116,9 @@
 
 **荣耀手环 11:**
 
-`MLA-B19`: 荣耀手环 11 标准版
+`MLA-B19`: 荣耀手环 11 / 荣耀手环 11 Lite
 
-`MLA-B39`: 荣耀手环 11 Pro
+`MLA-B39`: 荣耀手环 11 Pro / 荣耀手环 11 Pro GPS 版
 
 **荣耀观影眼镜:**
 

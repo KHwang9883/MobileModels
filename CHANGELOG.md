@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-09-29
+- `honor_cn` 增补代号，调整排序。
 ### 2026-09-28
 - `vivo_cn` 新增 vivo Pad SE 2s。
 - `zhixuan` 新增 Hi MateBook 14 酷睿版。
