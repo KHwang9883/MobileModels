@@ -1416,7 +1416,7 @@
 
 `iPA2673`: iQOO Pad6 Pro
 
-**iQOO Pad Ultra:**
+**iQOO Pad Ultra (`DPD2605`):**
 
 `iPA2691`: iQOO Pad Ultra
 
