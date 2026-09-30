@@ -337,6 +337,10 @@
 
 `V2615` `V2637`: vivo V70 Lite 5G
 
+**vivo V80:**
+
+`V2648`: vivo V80
+
 **vivo V80 Lite 5G (`PD2575F`):**
 
 `V2576` `V2643` `V2644`: vivo V80 Lite 5G
@@ -362,6 +366,10 @@
 **vivo S2 (`PD2575F`):**
 
 `V2576`: vivo S2
+
+**vivo S2 FE:**
+
+`V2640`: vivo S2 FE
 
 ## vivo T series
 
