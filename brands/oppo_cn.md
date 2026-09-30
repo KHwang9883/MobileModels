@@ -798,6 +798,14 @@
 
 `PMG110`: OPPO K15 Pro+
 
+**OPPO K15s (`doraemon-b5`):**
+
+`PYE130`: OPPO K15s
+
+**OPPO K15x (`baikal-b5`):**
+
+`PLT150`: OPPO K15x
+
 ## 平板电脑
 
 **OPPO Pad (`oslo`):**
