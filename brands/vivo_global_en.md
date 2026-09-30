@@ -337,7 +337,7 @@
 
 `V2615` `V2637`: vivo V70 Lite 5G
 
-**vivo V80:**
+**vivo V80 (`PD2620F`):**
 
 `V2648`: vivo V80
 
