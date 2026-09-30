@@ -444,6 +444,10 @@
 
 `V2572A`: vivo S60 元气版
 
+**vivo S60t (`PD2620`):**
+
+`V2620A`: vivo S60t
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
