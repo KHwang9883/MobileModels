@@ -121,6 +121,10 @@
 
 `V2562`: vivo X300 Ultra
 
+**vivo X Fold6 (`PD2545F`):**
+
+`V2559`: vivo X Fold6
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**

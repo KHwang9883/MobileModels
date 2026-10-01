@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-10-01
+- `vivo_global_en` Add vivo X Fold6.
 ### 2026-09-30
 - `vivo_global_en` Add several new models.
 ### 2026-09-29
