@@ -243,6 +243,28 @@
 
 `SGU-AL10`: HUAWEI Mate 80 RS 非凡大师
 
+**HUAWEI Mate 90:**
+
+`HLS-AL00`: HUAWEI Mate 90
+
+**HUAWEI Mate 90 Pro:**
+
+`CMS-AL20`: HUAWEI Mate 90 Pro
+
+**HUAWEI Mate 90 Pro Max:**
+
+`CMM-AL00`: HUAWEI Mate 90 Pro Max (麒麟 9050)
+
+`CMM-AL10`: HUAWEI Mate 90 Pro Max (麒麟 9050 Pro)
+
+**HUAWEI Mate 90 Pro Max 典藏版:**
+
+`CMM-AL10`: HUAWEI Mate 90 Pro Max 典藏版
+
+**HUAWEI Mate 90 RS 非凡大师:**
+
+`CMU-AL10`: HUAWEI Mate 90 RS 非凡大师
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -819,7 +841,7 @@
 
 `CRS-AL00`: HUAWEI nova 16 Pro
 
-**HUAWEI nova 16 Ultra:**
+**HUAWEI nova 16 Ultra (`ChrisP`):**
 
 `HIP-AL00`: HUAWEI nova 16 Ultra
 

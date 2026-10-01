@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-10-01
+- `huawei_cn` 新增 HUAWEI Mate 90 系列。
 ### 2026-09-30
 - `oppo_cn` 新增 OPPO K15s、K15x。
 - `vivo_cn` 新增 vivo S60t。
