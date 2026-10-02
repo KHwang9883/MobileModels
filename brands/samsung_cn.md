@@ -1050,6 +1050,14 @@
 
 `SM-X936C`: Galaxy Tab S11 Ultra 5G
 
+**Galaxy Tab S12+ (`gts12pwifi`):**
+
+`SM-X840`: Galaxy Tab S12+ WLAN
+
+**Galaxy Tab S12 Ultra (`gts12uwifi`):**
+
+`SM-X940`: Galaxy Tab S12 Ultra WLAN
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
