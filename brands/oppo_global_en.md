@@ -473,6 +473,14 @@
 
 `CPH2835`: OPPO F33 Pro 5G
 
+**OPPO F35:**
+
+`CPH2931`: OPPO F35 5G
+
+**OPPO F35 Pro:**
+
+`CPH2829`: OPPO F35 Pro 5G
+
 ## R series
 
 **OPPO R15:**
@@ -636,6 +644,14 @@
 **OPPO AX7 Pro:**
 
 `CPH1893` `CPH1893RU`: OPPO AX7 Pro
+
+**OPPO A7 Pro:**
+
+`CPH2931`: OPPO A7 Pro 5G
+
+**OPPO A7 Pro Max:**
+
+`CPH2909`: OPPO A7 Pro Max 5G
 
 **OPPO A9:**
 
@@ -888,6 +904,14 @@
 **OPPO K14x:**
 
 `CPH2871`: OPPO K14x 5G
+
+**OPPO K14 Lite:**
+
+`CPH3007`: OPPO K14 Lite
+
+**OPPO K14 Plus:**
+
+`CPH3009`: OPPO K14 Plus
 
 ## Pad series
 
