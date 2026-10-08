@@ -229,6 +229,10 @@
 
 `LYOI-32`: Hi MateBook D 14 (32GB 内存)
 
+**Hi MateBook D 14 (`MoscowA`):**
+
+`MSCA-X`: Hi MateBook D 14 锐龙版
+
 **Hi MateBook D 16 (`NiceG`):**
 
 `NICG-16`: Hi MateBook D 16 (13 代酷睿) (16GB 内存)

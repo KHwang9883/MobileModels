@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-10-08
+- `zhixuan` 新增 Hi MateBook D 14 锐龙版。
 ### 2026-10-02
 - `samsung_cn` 新增 Galaxy Tab S12 系列。
 ### 2026-10-01
