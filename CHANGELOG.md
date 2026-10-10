@@ -1,5 +1,6 @@
 # 更新日志
 ### 2026-10-10
+- `oneplus` 新增 一加 16。
 - `vivo_cn` 新增 iQOO Pad Pro 8.8, iQOO Neo12。
 ### 2026-10-08
 - `zhixuan` 新增 Hi MateBook D 14 锐龙版。
