@@ -391,6 +391,10 @@
 
 `PYR110`: OnePlus Turbo 6X Pro China
 
+**OnePlus 16:**
+
+`PYB110`: OnePlus 16 China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India

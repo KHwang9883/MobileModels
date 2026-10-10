@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-10-10
+- `oneplus_en` Add OnePlus 16.
 ### 2026-10-06
 - `oppo_global_en` Add several new models.
 ### 2026-10-01
