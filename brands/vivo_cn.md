@@ -876,9 +876,9 @@
 
 `V2607A`: vivo Y600
 
-**vivo Y600 Pro (`PD2561`):**
+**vivo Y600 Pro / vivo Y600s Pro (`PD2561`):**
 
-`V2561A`: vivo Y600 Pro
+`V2561A`: vivo Y600 Pro / vivo Y600s Pro
 
 **vivo Y600 Turbo / vivo Y600k Turbo (`PD2553`):**
 
@@ -1206,6 +1206,10 @@
 
 `V2573A`: iQOO Neo11 至尊版
 
+**iQOO Neo12 (`PD2618`):**
+
+`V2618A`: iQOO Neo12
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1423,6 +1427,10 @@
 **iQOO Pad Ultra (`DPD2605`):**
 
 `iPA2691`: iQOO Pad Ultra
+
+**iQOO Pad Pro 8.8:**
+
+`iPA2693`: iQOO Pad Pro 8.8
 
 ## 穿戴设备
 
