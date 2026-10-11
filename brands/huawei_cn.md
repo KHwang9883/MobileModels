@@ -243,25 +243,25 @@
 
 `SGU-AL10`: HUAWEI Mate 80 RS 非凡大师
 
-**HUAWEI Mate 90:**
+**HUAWEI Mate 90 (`Halos`):**
 
 `HLS-AL00`: HUAWEI Mate 90
 
-**HUAWEI Mate 90 Pro:**
+**HUAWEI Mate 90 Pro (`Cosmos`):**
 
 `CMS-AL20`: HUAWEI Mate 90 Pro
 
-**HUAWEI Mate 90 Pro Max:**
+**HUAWEI Mate 90 Pro Max (`CosmosM`):**
 
 `CMM-AL00`: HUAWEI Mate 90 Pro Max (麒麟 9050)
 
 `CMM-AL10`: HUAWEI Mate 90 Pro Max (麒麟 9050 Pro)
 
-**HUAWEI Mate 90 Pro Max 典藏版:**
+**HUAWEI Mate 90 Pro Max 典藏版 (`CosmosM`):**
 
 `CMM-AL10`: HUAWEI Mate 90 Pro Max 典藏版
 
-**HUAWEI Mate 90 RS 非凡大师:**
+**HUAWEI Mate 90 RS 非凡大师 (`CosmosU`):**
 
 `CMU-AL10`: HUAWEI Mate 90 RS 非凡大师
 
@@ -313,7 +313,7 @@
 
 `DEL-AL20`: HUAWEI Mate X7 典藏版
 
-**HUAWEI Mate XT 2 非凡大师:**
+**HUAWEI Mate XT 2 非凡大师 (`Laptua`):**
 
 `LAP-AL10`: HUAWEI Mate XT 2 非凡大师
 
@@ -547,7 +547,7 @@
 
 `HOP-AL10`: HUAWEI Pura X Max 典藏版
 
-**HUAWEI Pura X View:**
+**HUAWEI Pura X View (`Volcano`):**
 
 `VOL-AL00`: HUAWEI Pura X View
 
@@ -1759,7 +1759,7 @@
 
 `HAD-W32`: HUAWEI MateBook Pro (32GB 内存)
 
-**HUAWEI MateBook Pro S:**
+**HUAWEI MateBook Pro S (`Monroe`):**
 
 `MOR-M1`: HUAWEI MateBook Pro S 标准版 / 防窥版 / 柔光版
 
@@ -1769,7 +1769,7 @@
 
 `HPR-W72`: HUAWEI MateBook Fold 非凡大师 (麒麟 X90) (32GB 内存)
 
-**HUAWEI MateBook Fold 非凡大师:**
+**HUAWEI MateBook Fold 非凡大师 (`Solomon`):**
 
 `SLM-W24`: HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (24GB 内存)
 
