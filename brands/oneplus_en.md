@@ -391,7 +391,7 @@
 
 `PYR110`: OnePlus Turbo 6X Pro China
 
-**OnePlus 16:**
+**OnePlus 16 (`pokemon`):**
 
 `PYB110`: OnePlus 16 China
 
