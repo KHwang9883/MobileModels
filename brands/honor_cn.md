@@ -558,6 +558,18 @@
 
 `SER-AN00`: 荣耀 WIN Turbo
 
+**荣耀 WIN2 (`BarrettM`):**
+
+`BRM-AN00`: 荣耀 WIN2
+
+**荣耀 WIN RT2 (`Barrett`):**
+
+`BRT-AN00`: 荣耀 WIN RT2
+
+**荣耀 WIN Turbo2 (`BarrettS`):**
+
+`BRS-AN00`: 荣耀 WIN Turbo2
+
 ## 荣耀 X 系列
 
 **荣耀 3X:**
