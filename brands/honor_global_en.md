@@ -351,6 +351,10 @@
 
 `MTN-NX1M` `MTN-NX3`: HONOR Magic8 Lite
 
+**HONOR Magic9 Lite+:**
+
+`BSN-NX1M` `BSN-NX3`: HONOR Magic9 Lite+
+
 **HONOR X5 (`Vanessa`):**
 
 `VNA-LX2` `VNA-LX3`: HONOR X5
@@ -598,6 +602,10 @@
 `JMS-W09`: HONOR Pad X7 Wi-Fi
 
 `JMS-L09`: HONOR Pad X7 LTE
+
+**HONOR Pad X7b:**
+
+`ONL-W09`: HONOR Pad X7b Wi-Fi
 
 **HONOR Pad X8 (`Agassi3M`):**
 
