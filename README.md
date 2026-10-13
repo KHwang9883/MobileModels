@@ -104,7 +104,13 @@
 ### 2016 年 2 月
 - 我开始汇总一些国内手机品牌的型号，「手机品牌型号汇总」的雏形诞生。
 
-[![Stargazers over time](https://starchart.cc/KHwang9883/MobileModels.svg)](https://starchart.cc/KHwang9883/MobileModels)
+<a href="https://www.star-history.com/?repos=khwang9883%2Fmobilemodels&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## 参考资料
 

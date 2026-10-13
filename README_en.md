@@ -38,6 +38,14 @@ Unlisted brands usually not include international models.
 
 [CHANGELOG_en.md](CHANGELOG_en.md)
 
+<a href="https://www.star-history.com/?repos=khwang9883%2Fmobilemodels&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## References
 
 - [TAF](http://zd.taf.org.cn)
