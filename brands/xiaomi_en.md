@@ -1897,7 +1897,7 @@
 
 `2607DRA18G`: REDMI Note 17 Pro 5G Global
 
-`2607DRA18C`: REDMI Note 17 Pro 5G China
+`2607DRA18C`: REDMI Note 17 Pro 5G China / REDMI Note 17 Pro New Edition China
 
 `2607DRA18I`: REDMI Note 17 Pro 5G India
 
@@ -2104,6 +2104,10 @@
 **[`P12X`] REDMI K90 Ultra (`warsaw`):**
 
 `M332BF`: REDMI K90 Ultra China
+
+**[`Q11A`] REDMI K100 (`warsaw`) (`warsaw_y`) (`yanan`):**
+
+`M786BC`: REDMI K100 China
 
 **[`Q11`] REDMI K100 Pro (`athens`):**
 

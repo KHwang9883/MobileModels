@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-10-16
+- `xiaomi_en` Add REDMI K100, REDMI Note 17 Pro New Edition.
 ### 2026-10-13
 - `honor_global_en` Add several new models.
 ### 2026-10-10
