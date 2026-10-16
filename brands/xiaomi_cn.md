@@ -1044,9 +1044,9 @@
 
 `26021RN18C`: REDMI Note 17
 
-**[`Q16`] REDMI Note 17 Pro (`iolite`) (`moscow`):**
+**[`Q16`] REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版 (`iolite`) (`moscow`):**
 
-`2607DRA18C`: REDMI Note 17 Pro
+`2607DRA18C`: REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版
 
 ## Redmi X 系列
 
@@ -1237,6 +1237,10 @@
 **[`P12X`] REDMI K90 至尊版 (`warsaw`):**
 
 `M332BF`: REDMI K90 至尊版
+
+**[`Q11A`] REDMI K100 (`warsaw`) (`warsaw_y`) (`yanan`):**
+
+`M786BC`: REDMI K100
 
 **[`Q11`] REDMI K100 Pro (`athens`):**
 

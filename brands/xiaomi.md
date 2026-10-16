@@ -2046,9 +2046,9 @@
 
 `26081RA18L`: REDMI Note 17 5G 拉美版
 
-**[`Q16`] REDMI Note 17 Pro (`iolite`) (`moscow`):**
+**[`Q16`] REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版 (`iolite`) (`moscow`):**
 
-`2607DRA18C`: REDMI Note 17 Pro 国行版
+`2607DRA18C`: REDMI Note 17 Pro 国行版 / REDMI Note 17 Pro 焕新版
 
 `2607DRA18G`: REDMI Note 17 Pro 5G 国际版
 
@@ -2267,6 +2267,10 @@
 **[`P12X`] REDMI K90 至尊版 (`warsaw`):**
 
 `M332BF`: REDMI K90 至尊版
+
+**[`Q11A`] REDMI K100 (`warsaw`) (`warsaw_y`) (`yanan`):**
+
+`M786BC`: REDMI K100
 
 **[`Q11`] REDMI K100 Pro (`athens`):**
 
