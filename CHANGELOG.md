@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-10-18
+- `apple` 新增 Apple TV 4K (第 4 代)、HomePod mini 2、Apple HomeView。
 ### 2026-10-16
 - `xiaomi` 新增 REDMI K100、REDMI Note 17 Pro 焕新版。
 ### 2026-10-15

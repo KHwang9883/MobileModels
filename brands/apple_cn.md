@@ -1,6 +1,6 @@
 # Apple 国行设备型号汇总
 
-- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon)
+- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Mac (Apple Silicon)/Apple Vision/AirPods/AirTag/HomePod
 - codename: ✅
 - 是否包含海外机型: [见完整汇总](/brands/apple_all.md)
 
@@ -1409,3 +1409,7 @@
 **[`B620AP`] HomePod (第 2 代) (`AudioAccessory6,1`):**
 
 `A2825`: HomePod (第 2 代)
+
+**[`B525AP`] HomePod mini 2 (`AudioAccessory11,1`):**
+
+`A3374`: HomePod mini 2

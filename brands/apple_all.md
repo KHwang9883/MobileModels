@@ -1,6 +1,6 @@
 # Apple 设备型号汇总
 
-- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon)
+- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch/Mac (Apple Silicon)/Apple TV/Apple Vision/AirPods/AirTag/HomePod/HomeView
 - codename: ✅
 - 是否包含海外机型: ✅
 
@@ -1488,6 +1488,10 @@
 
 `A2843`: Apple TV 4K (第 3 代) (无线局域网 + 以太网)
 
+**[`J265AP`] Apple TV 4K (第 4 代) (`AppleTV18,1`):**
+
+`A3593`: Apple TV 4K (第 4 代)
+
 ## Apple Vision
 
 **[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
@@ -1929,3 +1933,17 @@
 **[`B620AP`] HomePod (第 2 代) (`AudioAccessory6,1`):**
 
 `A2825`: HomePod (第 2 代)
+
+**[`B525AP`] HomePod mini 2 (`AudioAccessory11,1`):**
+
+`A3374`: HomePod mini 2
+
+## Apple HomeView
+
+**[`J490AP`] Apple HomeView (`HomeAccessory17,1`):**
+
+`A3218`: Apple HomeView
+
+**[`J491AP`] Apple HomeView (`HomeAccessory17,2`):**
+
+`A3300`: Apple HomeView (壁挂式)
