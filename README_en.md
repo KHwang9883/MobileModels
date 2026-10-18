@@ -16,7 +16,7 @@ Unlisted brands usually not include international models.
 
 | Name | Brand | Range |
 | :-: | :-: | :-: |
-| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV, Apple Vision, AirPods, AirTag, HomePod and Mac (Apple Silicon) |
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Mac (Apple Silicon), Apple TV, Apple Vision, AirPods, AirTag, HomePod and HomeView |
 | [asus_en](brands/asus_en.md) | ASUS | ROG Phone, Zenfone |
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |

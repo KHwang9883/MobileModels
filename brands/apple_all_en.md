@@ -1,6 +1,6 @@
 # Apple Devices Models
 
-- Range: iPhone, iPad, iPod touch, Apple Watch, Apple TV, Apple Vision, AirPods, AirTag, HomePod and Mac (Apple Silicon)
+- Range: iPhone, iPad, iPod touch, Apple Watch, Mac (Apple Silicon), Apple TV, Apple Vision, AirPods, AirTag, HomePod and HomeView
 - Codename: ✅
 
 ## iPhone
@@ -1469,6 +1469,10 @@
 
 `A2843`: Apple TV 4K (3rd generation) Wi-Fi + Ethernet
 
+**[`J265AP`] Apple TV 4K (4th generation) (`AppleTV18,1`):**
+
+`A3593`: Apple TV 4K (4th generation)
+
 ## Apple Vision
 
 **[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
@@ -1910,3 +1914,17 @@
 **[`B620AP`] HomePod (2nd generation) (`AudioAccessory6,1`):**
 
 `A2825`: HomePod (2nd generation)
+
+**[`B525AP`] HomePod mini 2 (`AudioAccessory11,1`):**
+
+`A3374`: HomePod mini 2
+
+## Apple HomeView
+
+**[`J490AP`] Apple HomeView (`HomeAccessory17,1`):**
+
+`A3218`: Apple HomeView
+
+**[`J491AP`] Apple HomeView (`HomeAccessory17,2`):**
+
+`A3300`: Apple HomeView (Wall Mounted)

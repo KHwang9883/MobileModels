@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-10-18
+- `apple_en` Add Apple TV 4K (4th gen), Apple HomeView, HomePod mini 2.
 ### 2026-10-16
 - `xiaomi_en` Add REDMI K100, REDMI Note 17 Pro New Edition.
 ### 2026-10-13
