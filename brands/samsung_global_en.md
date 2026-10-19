@@ -2467,6 +2467,10 @@
 
 `SM-E076B`: Galaxy F70e 5G
 
+**Galaxy F70 5G (`a17x`):**
+
+`SM-E176E`: Galaxy F70 5G
+
 **Galaxy F70 Pro 5G:**
 
 `SM-E476B`: Galaxy F70 Pro 5G

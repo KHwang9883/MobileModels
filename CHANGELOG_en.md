@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-10-19
+- `samsung_global_en` Add Galaxy F70 5G.
 ### 2026-10-18
 - `apple_en` Add Apple TV 4K (4th gen), Apple HomeView, HomePod mini 2.
 ### 2026-10-16
