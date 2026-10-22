@@ -395,6 +395,14 @@
 
 `PYB110`: OnePlus 16 China
 
+**OnePlus Ace 7:**
+
+`PYF110`: OnePlus Ace 7 China
+
+**OnePlus Ace 7 Pro:**
+
+`PMS110`: OnePlus Ace 7 Pro China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
