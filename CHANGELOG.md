@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-10-22
+- `oneplus` 新增 一加 Ace 7 系列。
 ### 2026-10-18
 - `apple` 新增 Apple TV 4K (第 4 代)、HomePod mini 2、Apple HomeView。
 ### 2026-10-16
