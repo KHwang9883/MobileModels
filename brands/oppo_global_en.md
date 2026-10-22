@@ -79,6 +79,14 @@
 
 `CPH2841`: OPPO Find X9 Ultra
 
+**OPPO Find X10 (`uranus`):**
+
+`CPH2911`: OPPO Find X10
+
+**OPPO Find X10 Pro Max (`mars`):**
+
+`CPH2913`: OPPO Find X10 Pro Max
+
 ## Find N series
 
 **OPPO Find N2 (`whiteswan`):**

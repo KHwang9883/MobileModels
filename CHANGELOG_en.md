@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-10-22
+- `oppo_global_en` Add OPPO Find X10 series.
 - `oneplus_en` Add OnePlus Ace 7 series.
 ### 2026-10-19
 - `samsung_global_en` Add Galaxy F70 5G.
