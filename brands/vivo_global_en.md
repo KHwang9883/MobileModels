@@ -125,6 +125,18 @@
 
 `V2559`: vivo X Fold6
 
+**vivo X500 E (`PD2620F`):**
+
+`V2656`: vivo X500 E
+
+**vivo X500 Pro (`PD2608F`):**
+
+`V2621` `V2622`: vivo X500 Pro
+
+**vivo X500 Pro Max (`PD2602F`):**
+
+`V2610`: vivo X500 Pro Max
+
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -343,13 +355,13 @@
 
 **vivo V80 (`PD2620F`):**
 
-`V2648`: vivo V80
+`V2648` `V2649`: vivo V80
 
 **vivo V80 Lite 5G (`PD2575F`):**
 
 `V2576` `V2643` `V2644`: vivo V80 Lite 5G
 
-**vivo V80 Lite 5G:**
+**vivo V80 Lite 5G (`PD2607F`):**
 
 `V2626` `V2655`: vivo V80 Lite 5G
 
@@ -371,7 +383,7 @@
 
 `V2576`: vivo S2
 
-**vivo S2 FE:**
+**vivo S2 FE (`PD2607F`):**
 
 `V2640`: vivo S2 FE
 
@@ -827,6 +839,10 @@
 
 `V2571` `V2574`: vivo Y31t 5G
 
+**vivo Y32:**
+
+`V2638` `V2641` `V2642`: vivo Y32
+
 **vivo Y33 (`PD2103F`):**
 
 `V2057`: vivo Y33
@@ -991,7 +1007,7 @@
 
 `V2570` `V2584` `V2627` `V2634` `V2635`: vivo Y500
 
-**vivo Y600 5G:**
+**vivo Y600 5G (`PD2607F`):**
 
 `V2655`: vivo Y600 5G
 
@@ -1199,6 +1215,10 @@
 
 `J2507`: JOVI V70 5G
 
+**JOVI V80 (`PD2620F`):**
+
+`J2607`: JOVI V80
+
 **JOVI T1 5G:**
 
 `J2502`: JOVI T1 5G
@@ -1215,7 +1235,7 @@
 
 `J2508`: JOVI Y21 5G
 
-**JOVI Y21e:**
+**JOVI Y21e (`PD2510DF`):**
 
 `J2601`: JOVI Y21e
 
