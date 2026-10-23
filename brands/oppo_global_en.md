@@ -957,6 +957,10 @@
 
 `OPD2420`: OPPO Pad SE LTE
 
+**OPPO Pad Mini (`ivy`):**
+
+`OPD2516`: OPPO Pad Mini
+
 ## Watch/Band series
 
 **OPPO Band:**
