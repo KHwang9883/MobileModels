@@ -163,6 +163,10 @@
 
 `TB365FC`: 小新平板 12.1
 
+**联想 AI 平板 小新 10.1 (`malibu`):**
+
+`TB356FC`: 联想 AI 平板 小新 10.1
+
 **小新 Pad Plus (`arnoz`):**
 
 `Lenovo TB-J607F`: 小新 Pad Plus
