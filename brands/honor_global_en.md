@@ -381,6 +381,14 @@
 
 `NAA-LX2P`: HONOR X5d Plus
 
+**HONOR X5d s (`Melody`):**
+
+`MEL-LX2`: HONOR X5d s
+
+**HONOR X5e s (`Melody`):**
+
+`MLD-LX2`: HONOR X5e s
+
 **HONOR X6 (`Vinnie`):**
 
 `VNE-LX1` `VNE-LX2` `VNE-LX3`: HONOR X6
@@ -553,9 +561,17 @@
 
 `ELA-LX2` `ELA-LX3`: HONOR Play10
 
-**HONOR Play20A:**
+**HONOR Play20:**
+
+`MOD-LX3`: HONOR Play20
+
+**HONOR Play20A (`Melody`):**
 
 `MLD-LX1` `MLD-LX2` `MLD-LX3`: HONOR Play20A
+
+**HONOR Play20C (`Melody`):**
+
+`MEL-LX2` `MEL-LX3`: HONOR Play20C
 
 **HONOR Pad 8 (`Hendry`):**
 
