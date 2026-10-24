@@ -343,7 +343,7 @@
 
 `MBH-N49`: HONOR Magic V5
 
-**HONOR Magic8 Pro:**
+**HONOR Magic8 Pro (`Birkin`):**
 
 `BKQ-N49`: HONOR Magic8 Pro
 

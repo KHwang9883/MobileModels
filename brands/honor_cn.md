@@ -136,13 +136,13 @@
 
 `CLE-AN00`: 荣耀 Magic V Flip2
 
-**荣耀 Magic8:**
+**荣耀 Magic8 (`Birkin`):**
 
 `BKQ-AN00`: 荣耀 Magic8
 
 `BKQ-AN80`: 荣耀 Magic8 (16GB+1TB)
 
-**荣耀 Magic8 Pro:**
+**荣耀 Magic8 Pro (`Birkin`):**
 
 `BKQ-AN10`: 荣耀 Magic8 Pro
 
@@ -152,7 +152,7 @@
 
 `LDY-AN00`: 荣耀 Magic8 Pro Air
 
-**荣耀 Magic8 RSR 保时捷设计:**
+**荣耀 Magic8 RSR 保时捷设计 (`Birkin`):**
 
 `BKQ-AN20`: 荣耀 Magic8 RSR 保时捷设计
 
