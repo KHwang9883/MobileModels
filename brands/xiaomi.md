@@ -2670,6 +2670,10 @@
 
 `2607DPC18I`: POCO X8 印度版
 
+**POCO X8s (`darwin`):**
+
+`2609CPC5FG`: POCO X8s 国际版
+
 **[`Q16U`] POCO X8 Power (`brussels`):**
 
 `2609FPC74I`: POCO X8 Power 印度版

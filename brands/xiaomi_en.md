@@ -2405,6 +2405,10 @@
 
 `2607DPC18I`: POCO X8 India
 
+**POCO X8s (`darwin`):**
+
+`2609CPC5FG`: POCO X8s Global
+
 **[`Q16U`] POCO X8 Power (`brussels`):**
 
 `2609FPC74I`: POCO X8 Power India
