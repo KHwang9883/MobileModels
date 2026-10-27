@@ -263,6 +263,10 @@
 
 `M2434B1`: Redmi 手环 3
 
+**[`Q69`] REDMI 手环 4:**
+
+`M2621B1`: REDMI 手环 4
+
 ## Redmi 手表（RTOS）
 
 **Redmi Watch:**
@@ -514,6 +518,10 @@
 **[`O70C`] REDMI 头戴降噪耳机 / REDMI Headphones Neo:**
 
 `M2546E1`: REDMI 头戴降噪耳机 / REDMI Headphones Neo 国际版
+
+**[`Q74C`] REDMI Clip Neo:**
+
+`M2623E1`: REDMI Clip Neo
 
 ## POCO TWS
 
