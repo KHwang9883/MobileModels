@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-10-28
+- `huawei_cn` 新增 华为畅享 100 系列、HUAWEI Pura 90 Plus。
 ### 2026-10-27
 - `xiaomi-wear` 新增 REDMI 手环 4、REDMI Clip Neo。
 ### 2026-10-23

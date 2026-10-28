@@ -535,6 +535,10 @@
 
 `SCA-AL00`: HUAWEI Pura 90 Pro Max
 
+**HUAWEI Pura 90 Plus (`Lucia`):**
+
+`LCI-AL00`: HUAWEI Pura 90 Plus
+
 **HUAWEI Pura X (`Verde`):**
 
 `VDE-AL00`: HUAWEI Pura X
@@ -1184,6 +1188,18 @@
 **华为畅享 90 Pro Max (`Chenzhen`):**
 
 `CHZ-AL00`: 华为畅享 90 Pro Max
+
+**华为畅享 100:**
+
+`JAL-AL90`: 华为畅享 100
+
+**华为畅享 100 Pro (`Chenzhen`):**
+
+`CHZ-AL60`: 华为畅享 100 Pro
+
+**华为畅享 100 Pro Max (`Yewen`):**
+
+`YEW-AL80`: 华为畅享 100 Pro Max (麒麟 8020A)
 
 ## 华为平板 M 系列
 
