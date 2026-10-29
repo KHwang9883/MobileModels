@@ -818,6 +818,10 @@
 
 `SM-W9026`: 三星 W26
 
+**三星 W27 (`q8q`):**
+
+`SM-W9027`: 三星 W27
+
 ## 三星其他手机系列
 
 **Galaxy Folder (`eliteltechn`):**
