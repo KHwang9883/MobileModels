@@ -1428,7 +1428,7 @@
 
 `iPA2691`: iQOO Pad Ultra
 
-**iQOO Pad Pro 8.8:**
+**iQOO Pad Pro 8.8 (`DPD2653`):**
 
 `iPA2693`: iQOO Pad Pro 8.8
 
