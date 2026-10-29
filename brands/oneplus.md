@@ -396,11 +396,11 @@
 
 `PYB110`: 一加 16 国行版
 
-**一加 Ace 7:**
+**一加 Ace 7 (`mario`):**
 
 `PYF110`: 一加 Ace 7 国行版
 
-**一加 Ace 7 Pro:**
+**一加 Ace 7 Pro (`redalert`):**
 
 `PMS110`: 一加 Ace 7 Pro 国行版
 
