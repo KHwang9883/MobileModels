@@ -395,11 +395,11 @@
 
 `PYB110`: OnePlus 16 China
 
-**OnePlus Ace 7:**
+**OnePlus Ace 7 (`mario`):**
 
 `PYF110`: OnePlus Ace 7 China
 
-**OnePlus Ace 7 Pro:**
+**OnePlus Ace 7 Pro (`redalert`):**
 
 `PMS110`: OnePlus Ace 7 Pro China
 
