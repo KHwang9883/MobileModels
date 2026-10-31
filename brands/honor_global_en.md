@@ -619,7 +619,7 @@
 
 `JMS-L09`: HONOR Pad X7 LTE
 
-**HONOR Pad X7b:**
+**HONOR Pad X7b (`Oneal`):**
 
 `ONL-W09`: HONOR Pad X7b Wi-Fi
 

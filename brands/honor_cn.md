@@ -1388,7 +1388,7 @@
 
 `YAG-W19`: 荣耀平板 X10 Pro Max 柔光版 13 英寸 Wi-Fi 版
 
-**荣耀平板 X10 Mini:**
+**荣耀平板 X10 Mini (`Oneal`):**
 
 `ONL-W09`: 荣耀平板 X10 Mini 9.7 英寸 Wi-Fi 版
 
