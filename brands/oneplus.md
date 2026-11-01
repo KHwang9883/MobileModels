@@ -376,9 +376,9 @@
 
 `CPH2795`: 一加 Nord 6 国际版
 
-**一加 Turbo 6V / 一加 Nord CE 6 (`prado`):**
+**一加 Turbo 6V / 一加 Turbo 6Vs / 一加 Nord CE 6 (`prado`):**
 
-`PLY110`: 一加 Turbo 6V 国行版
+`PLY110`: 一加 Turbo 6V 国行版 / 一加 Turbo 6Vs 国行版
 
 `CPH2805`: 一加 Nord CE 6 印度版
 
