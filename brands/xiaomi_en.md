@@ -1801,13 +1801,13 @@
 
 `24116RACCG`: Redmi Note 14 Pro Global
 
-**[`O16`] Redmi Note 14 Pro 5G (`malachite`):**
+**[`O16`] Redmi Note 14 Pro 5G / REDMI M100 Pro (`malachite`):**
 
 `24090RA29G`: Redmi Note 14 Pro 5G Global
 
 `24090RA29I`: Redmi Note 14 Pro 5G India
 
-`24090RA29C`: Redmi Note 14 Pro 5G China
+`24090RA29C`: Redmi Note 14 Pro 5G China / REDMI M100 Pro China
 
 **[`O16U`] Redmi Note 14 Pro+ 5G (`amethyst`):**
 
