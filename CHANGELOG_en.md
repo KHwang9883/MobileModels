@@ -1,5 +1,6 @@
 # CHANGELOG
 ### 2026-11-01
+- `oneplus_en` Add OnePlus Turbo 6Vs.
 - `xiaomi_en` Add REDMI M100 Pro.
 ### 2026-10-25
 - `honor_global_en` Add several new models.
