@@ -1012,9 +1012,9 @@
 
 `24094RAD4C`: Redmi Note 14 5G / REDMI Note 15R Pro
 
-**[`O16`] Redmi Note 14 Pro (`malachite`):**
+**[`O16`] Redmi Note 14 Pro / REDMI M100 Pro (`malachite`):**
 
-`24090RA29C`: Redmi Note 14 Pro
+`24090RA29C`: Redmi Note 14 Pro / REDMI M100 Pro
 
 **[`O16U`] Redmi Note 14 Pro+ (`amethyst`):**
 

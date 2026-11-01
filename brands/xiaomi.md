@@ -1954,9 +1954,9 @@
 
 `24116RACCG`: Redmi Note 14 Pro 国际版
 
-**[`O16`] Redmi Note 14 Pro (`malachite`):**
+**[`O16`] Redmi Note 14 Pro / REDMI M100 Pro (`malachite`):**
 
-`24090RA29C`: Redmi Note 14 Pro 国行版
+`24090RA29C`: Redmi Note 14 Pro 国行版 / REDMI M100 Pro 国行版
 
 `24090RA29G`: Redmi Note 14 Pro 5G 国际版
 
