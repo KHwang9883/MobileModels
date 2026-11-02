@@ -1088,6 +1088,16 @@
 
 `A2996`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
 
+**[`J510AP`] iPad mini (A20 Pro) (`iPad19,1`):**
+
+`A3595`: iPad mini (A20 Pro) (无线局域网)
+
+**[`J511AP`] iPad mini (A20 Pro) (`iPad19,2`):**
+
+`A3596`: iPad mini (A20 Pro) (无线局域网 + 蜂窝网络)
+
+`A3597`: iPad mini (A20 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
+
 ### Apple Pencil
 
 **[`B222AP`] Apple Pencil (第 1 代):**
@@ -1692,6 +1702,26 @@
 
 `A3429`: MacBook Pro (16 英寸, M5 Max)
 
+**[`J804AP`] MacBook Pro (14 英寸, M6) (`Mac18,1`):**
+
+`A3536`: MacBook Pro (14 英寸, M6)
+
+**[`K114sAP`] MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro) (`Mac17,13`):**
+
+`A3468`: MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)
+
+**[`K114cAP`] MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max) (`Mac17,12`):**
+
+`A3375`: MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)
+
+**[`K116sAP`] MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro) (`Mac17,11`):**
+
+`A3469`: MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)
+
+**[`K116cAP`] MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max) (`Mac17,10`):**
+
+`A3376`: MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)
+
 ### iMac
 
 **[`J456AP`] iMac (24 英寸, M1) (`iMac21,1`):**
@@ -1717,6 +1747,12 @@
 **[`J624AP`] iMac (24 英寸, M4) (`Mac16,3`):**
 
 `A3137`: iMac (24 英寸, M4) (4 个 USB-C 端口)
+
+**[`J833ctAP`] iMac (24 英寸, M6) (`Mac18,2`):**
+
+`A3589`: iMac (24 英寸, M6) (2 个 USB-C 端口)
+
+`A3590`: iMac (24 英寸, M6) (4 个 USB-C 端口)
 
 ### Mac mini
 
