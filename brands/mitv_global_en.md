@@ -123,6 +123,8 @@
 
 `L55MB-AIN`: Xiaomi 4K TV X 55
 
+`L65MB-AIN`: Xiaomi 4K TV X 65
+
 **[`O39`] Xiaomi Smart TV F:**
 
 `L32MB-FIN`: Xiaomi Smart TV F 32
@@ -1056,6 +1058,56 @@
 `L85MC-SMX`: Xiaomi TV S Mini LED 85 2026
 
 `L98MC-SMX`: Xiaomi TV S Mini LED 98 2026
+
+**Xiaomi TV X Mini LED (Europe):**
+
+`L43MC-SMEU`: Xiaomi TV X Mini LED 43
+
+`L55MC-SMEU`: Xiaomi TV X Mini LED 55
+
+`L65MC-SMEU`: Xiaomi TV X Mini LED 65
+
+`L75MC-SMEU`: Xiaomi TV X Mini LED 75
+
+**Xiaomi TV X Mini LED (Russia/Belarus/Kazakhstan):**
+
+`L43MC-SMRU`: Xiaomi TV X Mini LED 43
+
+`L55MC-SMRU`: Xiaomi TV X Mini LED 55
+
+`L65MC-SMRU`: Xiaomi TV X Mini LED 65
+
+`L75MC-SMRU`: Xiaomi TV X Mini LED 75
+
+**Xiaomi TV X Mini LED (Southeast Asia):**
+
+`L43MC-SMSEA`: Xiaomi TV X Mini LED 43
+
+`L55MC-SMSEA`: Xiaomi TV X Mini LED 55
+
+`L65MC-SMSEA`: Xiaomi TV X Mini LED 65
+
+`L75MC-SMSEA`: Xiaomi TV X Mini LED 75
+
+**Xiaomi TV X Mini LED (Ukraine/Middle East):**
+
+`L43MC-SMME`: Xiaomi TV X Mini LED 43
+
+`L55MC-SMME`: Xiaomi TV X Mini LED 55
+
+`L65MC-SMME`: Xiaomi TV X Mini LED 65
+
+`L75MC-SMME`: Xiaomi TV X Mini LED 75
+
+**Xiaomi TV FX Mini LED (Europe):**
+
+`L43MC-FSMEU`: Xiaomi TV FX Mini LED 43
+
+`L55MC-FSMEU`: Xiaomi TV FX Mini LED 55
+
+`L65MC-FSMEU`: Xiaomi TV FX Mini LED 65
+
+`L75MC-FSMEU`: Xiaomi TV FX Mini LED 75
 
 **Xiaomi TV Max (Russia/Belarus/Kazakhstan):**
 

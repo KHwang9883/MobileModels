@@ -1,6 +1,7 @@
 # CHANGELOG
 ### 2026-11-02
 - `apple_en` Add iPad mini (A20 Pro), iMac (M6), MacBook Pro (M6 & PROLED).
+- `mitv_global_en` Add several new models.
 - `vivo_global_en` Add several codenames.
 ### 2026-11-01
 - `oneplus_en` Add OnePlus Turbo 6Vs.
