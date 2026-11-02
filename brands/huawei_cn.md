@@ -1375,7 +1375,7 @@
 
 `MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
 
-**HUAWEI MatePad Pro Max (`Gellman`):**
+**HUAWEI MatePad Pro Max (`Gellmann`):**
 
 `GEM-W00`: HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版
 
@@ -1548,6 +1548,8 @@
 **HUAWEI MatePad SE 11 英寸 (`Agassi6`):**
 
 `AGS6-W00`: HUAWEI MatePad SE 11 英寸 Wi-Fi 版
+
+**HUAWEI MatePad SE 11 英寸 (`Agassi6R`):**
 
 `AGS6-W10`: HUAWEI MatePad SE 活力版 11 英寸 Wi-Fi 版
 

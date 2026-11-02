@@ -845,7 +845,7 @@
 
 `DAL-W09`: HUAWEI MatePad Pro 12 Wi-Fi
 
-**HUAWEI MatePad Pro Max:**
+**HUAWEI MatePad Pro Max (`Gellmann`):**
 
 `GEM-W09`: HUAWEI MatePad Pro Max 13.2 Wi-Fi
 
@@ -913,7 +913,7 @@
 
 `AGS5-L09`: HUAWEI MatePad SE 10.4 LTE
 
-**HUAWEI MatePad SE 11 (`Agassi6`):**
+**HUAWEI MatePad SE 11 (`Agassi6R`):**
 
 `AGS6-W09`: HUAWEI MatePad SE 11 Wi-Fi
 
