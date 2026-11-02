@@ -1069,6 +1069,16 @@
 
 `A2996`: iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)
 
+**[`J510AP`] iPad mini (A20 Pro) (`iPad19,1`):**
+
+`A3595`: iPad mini (A20 Pro) Wi-Fi
+
+**[`J511AP`] iPad mini (A20 Pro) (`iPad19,2`):**
+
+`A3596`: iPad mini (A20 Pro) Wi-Fi + Cellular
+
+`A3597`: iPad mini (A20 Pro) Wi-Fi + Cellular (China mainland)
+
 ### Apple Pencil
 
 **[`B222AP`] Apple Pencil (1st generation):**
@@ -1673,6 +1683,26 @@
 
 `A3429`: MacBook Pro (16-inch, M5 Max)
 
+**[`J804AP`] MacBook Pro (14-inch, M6) (`Mac18,1`):**
+
+`A3536`: MacBook Pro (14-inch, M6)
+
+**[`K114sAP`] MacBook Pro (14-inch PROLED XDR Display, M5 Pro) (`Mac17,13`):**
+
+`A3468`: MacBook Pro (14-inch PROLED XDR Display, M5 Pro)
+
+**[`K114cAP`] MacBook Pro (14-inch PROLED XDR Display, M5 Max) (`Mac17,12`):**
+
+`A3375`: MacBook Pro (14-inch PROLED XDR Display, M5 Max)
+
+**[`K116sAP`] MacBook Pro (16-inch PROLED XDR Display, M5 Pro) (`Mac17,11`):**
+
+`A3469`: MacBook Pro (16-inch PROLED XDR Display, M5 Pro)
+
+**[`K116cAP`] MacBook Pro (16-inch PROLED XDR Display, M5 Max) (`Mac17,10`):**
+
+`A3376`: MacBook Pro (16-inch PROLED XDR Display, M5 Max)
+
 ### iMac
 
 **[`J456AP`] iMac (24-inch, M1) (`iMac21,1`):**
@@ -1698,6 +1728,12 @@
 **[`J624AP`] iMac (24-inch, M4) (`Mac16,3`):**
 
 `A3137`: iMac (24-inch, M4) (4 USB-C ports)
+
+**[`J833ctAP`] iMac (24-inch, M6) (`Mac18,2`):**
+
+`A3589`: iMac (24-inch, M6) (2 USB-C ports)
+
+`A3590`: iMac (24-inch, M6) (4 USB-C ports)
 
 ### Mac mini
 
