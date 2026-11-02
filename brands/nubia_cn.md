@@ -248,10 +248,6 @@
 
 `NP02J`: nubia Pad 3D II
 
-**nubia Pad SE:**
-
-`K99J`: nubia Pad SE
-
 **nubia Pad Pro:**
 
 `NT01`: nubia Pad Pro
