@@ -370,7 +370,7 @@
 
 `L98MB-S`: 小米电视 S98 Mini LED 2025
 
-**小米电视 S Mini LED 2026:**
+**[`P32`] 小米电视 S Mini LED 2026:**
 
 `L55MC-S`: 小米电视 S55 Mini LED 2026
 
@@ -554,7 +554,7 @@
 
 `L75MA-RAE`: REDMI 电视 A75 2025 节能版 (一级能效)
 
-**Redmi 智能电视 A Pro:**
+**[`O39P`] Redmi 智能电视 A Pro:**
 
 `L43RB-AP`: Redmi 智能电视 A Pro 43
 
@@ -568,7 +568,7 @@
 
 `L75RB-AP`: Redmi 智能电视 A Pro 75 节能版 (一级能效)
 
-**REDMI 智能电视 A Pro 2025:**
+**[`O39P`] REDMI 智能电视 A Pro 2025:**
 
 `L43RB-APE`: REDMI 智能电视 A Pro 43 2025 节能版 (二级能效)
 
@@ -678,7 +678,7 @@
 
 `L85RB-RXE`: REDMI 电视 X85 2025 节能版 (一级能效)
 
-**REDMI 电视 X 2026:**
+**[`P37`] REDMI 电视 X 2026:**
 
 `L55RC-RX`: REDMI 电视 X55 2026
 
