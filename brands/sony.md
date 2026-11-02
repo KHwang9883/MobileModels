@@ -609,6 +609,20 @@
 
 `SOG17`: Xperia 1 VIII Japan (KDDI)
 
+**Xperia 10 VIII (`PDX-268`):**
+
+`XQ-GH44`: Xperia 10 VIII Japan (SIM Free)
+
+`XQ-GH54`: Xperia 10 VIII Global
+
+`XQ-GH74`: Xperia 10 VIII Asia Pacific
+
+`A502SO`: Xperia 10 VIII Japan (SoftBank)
+
+`SO-52G`: Xperia 10 VIII Japan (NTT Docomo)
+
+`SOG18`: Xperia 10 VIII Japan (KDDI)
+
 **Xperia Z4 Tablet (`Karin`):**
 
 `SGP712`: Xperia Z4 Tablet Wi-Fi
