@@ -128,6 +128,7 @@
 - [ReaMEIZU](https://reameizu.com/)
 - [The Apple Wiki](https://theapplewiki.com/)
 - [ipsw.me](https://ipsw.me)
+- [AppleDB](https://appledb.dev/)
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
@@ -139,4 +140,4 @@
 
 如有相关问题，请 [提交 Issue](https://github.com/KHwang9883/MobileModels/issues)。如有错误或缺漏，欢迎提交 PR。
 
-其他平台同名（@KHwang9883），但不一定回复本 repo 相关问题。
+其他平台已改名（@KevinHuang9883），但不一定回复本 repo 相关问题。

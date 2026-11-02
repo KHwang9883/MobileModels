@@ -62,6 +62,7 @@ Unlisted brands usually not include international models.
 - [ReaMEIZU](https://reameizu.com/)
 - [The Apple Wiki](https://theapplewiki.com/)
 - [ipsw.me](https://ipsw.me)
+- [AppleDB](https://appledb.dev/)
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
