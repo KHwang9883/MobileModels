@@ -1,6 +1,7 @@
 # 更新日志
 ### 2026-11-02
 - `apple` 新增 iPad mini (A20 Pro)、iMac (M6)、MacBook Pro (M6、PROLED)。
+- `honor_cn` 新增 荣耀手表 Fit 6。
 ### 2026-11-01
 - `oneplus` 新增 一加 Turbo 6Vs。
 - `xiaomi` 新增 REDMI M100 Pro。
