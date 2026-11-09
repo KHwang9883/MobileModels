@@ -360,6 +360,14 @@
 
 `PMK110`: OPPO Reno16 Pro
 
+**OPPO Reno17:**
+
+`PYK110`: OPPO Reno17
+
+**OPPO Reno17 Pro:**
+
+`PND110`: OPPO Reno17 Pro
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -921,6 +929,10 @@
 **OPPO Watch 4 Pro (`comet`) (`huixing`):**
 
 `OWW221`: OPPO Watch 4 Pro
+
+**OPPO Watch 5:**
+
+`OWW266`: OPPO Watch 5
 
 **OPPO Watch X (`star`) (`hengxing`):**
 

@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-11-09
+- `oppo_cn` 新增 OPPO Reno17 系列、OPPO Watch 5。
 ### 2026-11-02
 - `apple` 新增 iPad mini (A20 Pro)、iMac (M6)、MacBook Pro (M6、PROLED)。
 - `honor_cn` 新增 荣耀手表 Fit 6。
