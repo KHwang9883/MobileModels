@@ -478,6 +478,18 @@
 
 `VKI-AN00`: 荣耀 600 Pro
 
+**荣耀 700 (`Flora`):**
+
+`FAA-AN00`: 荣耀 700
+
+**荣耀 700S (`FloraS`):**
+
+`FAS-AN00`: 荣耀 700S
+
+**荣耀 700 Pro (`FloraP`):**
+
+`FAP-AN00`: 荣耀 700 Pro
+
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`Knight`):**
