@@ -1795,6 +1795,10 @@
 
 `SLM-W32`: HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (32GB 内存)
 
+**HUAWEI MateBook Fold S (`Semporna`):**
+
+`SPN-W52`: HUAWEI MateBook Fold S
+
 **HUAWEI MateBook 13 (`Wright`):**
 
 `WRT-W19`: HUAWEI MateBook 13 i5
