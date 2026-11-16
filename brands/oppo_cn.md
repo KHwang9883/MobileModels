@@ -868,6 +868,10 @@
 
 `OPD2601`: OPPO Pad 6
 
+**OPPO Pad Air6:**
+
+`OPD2613`: OPPO Pad Air6
+
 ## Watch/Band 系列
 
 **OPPO Band:**
