@@ -2,7 +2,7 @@
 
 - 汇总范围: 小米/REDMI 手机 & 平板等
 - codename: ✅
-- 是否包含海外机型:  [见完整汇总](/brands/xiaomi.md)
+- 是否包含海外机型: [见完整汇总](/brands/xiaomi.md)
 
 ## 小米数字系列
 
@@ -772,9 +772,9 @@
 
 `2411DRN47C`: Redmi 14R 5G
 
-**[`P15X`] REDMI 15R 5G (`tornado`):**
+**[`P15X`] REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G (`tornado`):**
 
-`25082RNC1C`: REDMI 15R 5G
+`25082RNC1C`: REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G
 
 **[`P25X`] REDMI 17 5G (`somalia`):**
 

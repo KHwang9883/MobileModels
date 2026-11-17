@@ -536,8 +536,6 @@
 
 `2611FPNFAG`: Xiaomi 18 Pro Max 国际版
 
-`2611FPNFAI`: Xiaomi 18 Pro Max 印度版
-
 `2611FPNFAR`: Xiaomi 18 Pro Max 日本版
 
 **[`Q18`] Xiaomi 18 Fold (`lhasa`):**
@@ -1388,9 +1386,9 @@
 
 `2508CRN2BR`: REDMI 15C 5G 日本版
 
-**[`P15X`] REDMI 15R 5G (`tornado`):**
+**[`P15X`] REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G (`tornado`):**
 
-`25082RNC1C`: REDMI 15R 5G
+`25082RNC1C`: REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G
 
 **[`P25X`] REDMI 15A 5G / REDMI 17 5G (`somalia`):**
 
@@ -1398,7 +1396,9 @@
 
 `2602BRNA4C`: REDMI 17 5G 国行版
 
-**[`Q15`] REDMI 17 5G (`steppe`) (`leeds`):**
+**[`Q15`] REDMI M100 / REDMI 17 5G (`steppe`) (`leeds`):**
+
+`26062RN92C`: REDMI M100 国行版
 
 `26062RN92G`: REDMI 17 5G 国际版
 
@@ -2399,10 +2399,6 @@
 `26020RN1AC`: REDMI R70 5G 国行版 / REDMI R70m 5G 国行版
 
 `26020RN1AI`: REDMI A7 Pro 5G 印度版
-
-**[`Q15`] REDMI M100 (`steppe`) (`leeds`):**
-
-`26062RN92C`: REDMI M100
 
 ## REDMI 平板
 
