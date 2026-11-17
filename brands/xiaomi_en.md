@@ -531,8 +531,6 @@
 
 `2611FPNFAG`: Xiaomi 18 Pro Max Global
 
-`2611FPNFAI`: Xiaomi 18 Pro Max India
-
 `2611FPNFAR`: Xiaomi 18 Pro Max Japan
 
 `M154FF`: Xiaomi 18 Pro Max China
@@ -1243,9 +1241,9 @@
 
 `2508CRN2BR`: REDMI 15C 5G Japan
 
-**[`P15X`] REDMI 15R 5G (`tornado`):**
+**[`P15X`] REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G (`tornado`):**
 
-`25082RNC1C`: REDMI 15R 5G China
+`25082RNC1C`: REDMI 15R 5G China / REDMI R80 5G China / REDMI R80m 5G China
 
 **[`P25X`] REDMI 15A 5G / REDMI 17 5G (`somalia`):**
 
@@ -1253,11 +1251,13 @@
 
 `2602BRNA4C`: REDMI 17 5G China
 
-**[`Q15`] REDMI 17 5G (`steppe`) (`leeds`):**
+**[`Q15`] REDMI 17 5G / REDMI M100 (`steppe`) (`leeds`):**
 
 `26062RN92G`: REDMI 17 5G Global
 
 `26062RN92I`: REDMI 17 5G India
+
+`26062RN92C`: REDMI M100 China
 
 **[`Q15A`] REDMI 17 (`leedsa`):**
 
@@ -2234,10 +2234,6 @@
 `26020RN1AI`: REDMI A7 Pro 5G India
 
 `26020RN1AC`: REDMI R70 5G China / REDMI R70m 5G China
-
-**[`Q15`] REDMI M100 (`steppe`) (`leeds`):**
-
-`26062RN92C`: REDMI M100 China
 
 ## POCO Phones
 
