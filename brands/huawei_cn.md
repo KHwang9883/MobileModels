@@ -1203,6 +1203,12 @@
 
 `YEW-AL90`: 华为畅享 100 Pro Max (麒麟 8020)
 
+## OSTA 星芒手机
+
+**OSTA O1 Pro:**
+
+`ACO-AL00`: OSTA O1 Pro
+
 ## 华为平板 M 系列
 
 **华为 MediaPad M1:**
