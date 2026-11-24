@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-11-24
+- `huawei_cn` 新增 HUAWEI Mate X8、Mate 90 Air、HUAWEI WATCH Air。
 ### 2026-11-20
 - `huawei_cn` 新增 OSTA O1 Pro。
 ### 2026-11-17

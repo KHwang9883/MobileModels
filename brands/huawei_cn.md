@@ -223,7 +223,9 @@
 
 **HUAWEI Mate 70 Air (`Superman`):**
 
-`SUP-AL90`: HUAWEI Mate 70 Air
+`SUP-AL90`: HUAWEI Mate 70 Air (麒麟 9020B)
+
+`SUP-AL90a`: HUAWEI Mate 70 Air (麒麟 9020A)
 
 **HUAWEI Mate 80 (`Voyager`):**
 
@@ -264,6 +266,10 @@
 **HUAWEI Mate 90 RS 非凡大师 (`CosmosU`):**
 
 `CMU-AL10`: HUAWEI Mate 90 RS 非凡大师
+
+**HUAWEI Mate 90 Air (`Superman`):**
+
+`SUP-AL91`: HUAWEI Mate 90 Air
 
 **HUAWEI Mate X (`Tahiti`):**
 
@@ -316,6 +322,10 @@
 **HUAWEI Mate XT 2 非凡大师 (`Laptua`):**
 
 `LAP-AL10`: HUAWEI Mate XT 2 非凡大师
+
+**HUAWEI Mate X8:**
+
+`SKY-AL00`: HUAWEI Mate X8
 
 ## HUAWEI P / Pura 系列
 
@@ -3016,6 +3026,10 @@
 **HUAWEI WATCH FIT 5 Pro:**
 
 `NKI-B29`: HUAWEI WATCH FIT 5 Pro
+
+**HUAWEI WATCH Air:**
+
+`KTA-B19`: HUAWEI WATCH Air
 
 **HUAWEI WATCH D:**
 
