@@ -351,6 +351,10 @@
 
 `MTN-NX1M` `MTN-NX3`: HONOR Magic8 Lite
 
+**HONOR Magic9 Pro Max (`Twinkle`):**
+
+`WKL-N59`: HONOR Magic9 Pro Max
+
 **HONOR Magic9 Lite+:**
 
 `BSN-NX1M` `BSN-NX3`: HONOR Magic9 Lite+

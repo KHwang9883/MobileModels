@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-11-25
+- `honor_global_en` Add HONOR Magic9 Pro Max.
 ### 2026-11-17
 - `xiaomi_en` Add REDMI R80/R80m 5G (China).
 ### 2026-11-02
