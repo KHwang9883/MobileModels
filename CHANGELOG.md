@@ -1,4 +1,6 @@
 # 更新日志
+### 2026-11-27
+- `mitv_cn` 新增 REDMI 电视 A 2027 一级能效版。
 ### 2026-11-24
 - `huawei_cn` 新增 HUAWEI Mate X8、Mate 90 Air、HUAWEI WATCH Air。
 ### 2026-11-20
