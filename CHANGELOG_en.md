@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-11-27
+- `vivo_global_en` Add several new models.
 ### 2026-11-25
 - `honor_global_en` Add HONOR Magic9 Pro Max.
 ### 2026-11-17

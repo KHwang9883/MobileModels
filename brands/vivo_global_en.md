@@ -359,9 +359,13 @@
 
 `V2648` `V2649`: vivo V80
 
+**vivo V80 FE:**
+
+`V2624`: vivo V80 FE
+
 **vivo V80 Lite 5G (`PD2575F`):**
 
-`V2576` `V2643` `V2644`: vivo V80 Lite 5G
+`V2576` `V2643` `V2644` `V2675`: vivo V80 Lite 5G
 
 **vivo V80 Lite 5G (`PD2607F`):**
 
@@ -485,7 +489,11 @@
 
 **vivo T5 Lite 44W 5G (`PD2542F`):**
 
-`V2557`: vivo T5 Lite 44W 5G
+`V2557`: vivo T5 Lite 44W 5G`
+
+**vivo T6 Lite 5G (`PD2542F`):**
+
+`V2667`: vivo T6 Lite 5G
 
 ## vivo Y series
 
@@ -560,6 +568,10 @@
 **vivo Y11s (`PD2042F`):**
 
 `V2028`: vivo Y11s
+
+**vivo Y11s 5G (`PD2542F`):**
+
+`V2669`: vivo Y11s 5G
 
 **vivo Y11d (`PD2541F`):**
 
@@ -740,6 +752,10 @@
 **vivo Y21 5G (`PD2542F`):**
 
 `V2553` `V2554`: vivo Y21 5G
+
+**vivo Y21s 5G (`PD2542F`):**
+
+`V2670`: vivo Y21s 5G
 
 **vivo Y22 (`PD2226F`):**
 
