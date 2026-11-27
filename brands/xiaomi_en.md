@@ -2401,7 +2401,7 @@
 
 `2607DPC18I`: POCO X8 India
 
-**POCO X8s (`darwin`):**
+**[`Q16X`] POCO X8s (`darwin`):**
 
 `2609CPC5FG`: POCO X8s Global
 
