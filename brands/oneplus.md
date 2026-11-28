@@ -384,9 +384,9 @@
 
 `CPH2807`: 一加 Nord CE 6 国际版
 
-**一加 Turbo 6X (`kof`):**
+**一加 Turbo 6X / 一加 Turbo 6Xs (`kof`):**
 
-`PYS110`: 一加 Turbo 6X 国行版
+`PYS110`: 一加 Turbo 6X 国行版 / 一加 Turbo 6Xs 国行版
 
 **一加 Turbo 6X Pro (`lol`):**
 

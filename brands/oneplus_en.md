@@ -377,15 +377,15 @@
 
 **OnePlus Turbo 6V / OnePlus Turbo 6Vs / OnePlus Nord CE 6 (`prado`):**
 
-`PLY110`: OnePlus Turbo 6V China / OnePlus 6Vs China
+`PLY110`: OnePlus Turbo 6V China / OnePlus Turbo 6Vs China
 
 `CPH2805`: OnePlus Nord CE 6 India
 
 `CPH2807`: OnePlus Nord CE 6 Global
 
-**OnePlus Turbo 6X (`kof`):**
+**OnePlus Turbo 6X / OnePlus Turbo 6Xs (`kof`):**
 
-`PYS110`: OnePlus Turbo 6X China
+`PYS110`: OnePlus Turbo 6X China / OnePlus Turbo 6Xs China
 
 **OnePlus Turbo 6X Pro (`lol`):**
 
